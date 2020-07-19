@@ -1,0 +1,175 @@
+Revised 1500 Claim Form
+and NPI Instructions
+The National Uniform Claim Committee (NUCC) released a revised 1500 Claim Form, which is commonly referred to
+as the CMS-1500. The revised CMS-1500 (02/12) replaced the former CMS-1500 (08/05). Use of the revised form was
+required as of April 1, 2014. A sample form is attached for your review.
+
+The 1500 Claim Form and NPI
+Revisions to the 1500 Claim Form include several fields that accommodate the use of your National Provider Identifier
+(NPI).
+
+Important Revisions to the 1500 Claim Form
+The revised 1500 Claim Form expands the length of some existing fields, incorporates several new fields, and accommodates
+use of your NPI. Some important fields that have been revised or added are listed below [new fields are highlighted]:
+
+ Field               Formerly Used For                                               What Changed?
+ 19                  Populated with the ZZ qualifier ID and the Billing Provider’s   NPI of provider under supervision, if
+                     Primary Taxonomy Code                                           applicable. (Example: Physician Assistant)
+ 21 A-L              Diagnosis Codes 1-4                                             Lengthened Boxes for longer diagnosis
+                                                                                     codes and more boxes for more specific
+                                                                                     coding (For ICD-10).
+ 24I                 Formerly N5 or G2                                               Now populate the ZZ qualifier for
+                                                                                     taxonomy code submission.
+ 24J Shaded          The Rendering Provider’s Primary Taxonomy Code or your          The Rendering Provider’s Primary
+                     Passport Health Plan Legacy Provider ID Number                  Taxonomy Code
+ 24 J Un-shaded      The Rendering Provider’s NPI Number                             No Change
+ 33A                 The Billing Provider’s NPI Number                               No Change
+ 33B                 The ZZ Qualifier and Billing Provider’s Primary Taxonomy        The ZZ qualifier with the Billing Provider’s
+                     Code or N5 with your Passport Health Plan Legacy Provider       Primary Taxonomy Code
+                     ID Number
+
+Please Note: In addition to the revised fields, we will now require you to populate Field 19 with the ZZ qualifier ID and the
+Rendering (individual) Provider’s Primary Taxonomy Code (Example: ZZ207LP2900X). In addition, we will also require you
+to bill the billing (group) taxonomy in box 33B with the ZZ qualifier ID.
+
+For additional information about the 1500 Claim Form, please visit the NUCC’s website at www.nucc.org. The NUCC
+offers a helpful Instruction Manual titled 1500 Health Insurance Claim Form Reference Instruction Manual for 02/12
+Version, which features walkthroughs of each field of the 1500 Claim Form. You can currently access the guide in PDF form
+at the following location: http://www.nucc.org/images/stories/PDF/claim_form_manual_v1-3_7-06.pdf
+
+We would also like to remind you of the requirements for electronic transactions. As a reminder, Passport Health Plan
+strongly recommends the continued use of plan identification numbers in addition to NPI.
+
+
+
+
+                                                                                                  © 2014 Passport Health Plan (PROV40466)
+                                                                                  REVISED
+                                                                                                                      ABC1234567800                                    Member I.D. Number
+                                                                                                                                                                    (No Suffix for CompSelect®/
+                                                                                                                                                                      Comprehensive Major
+ Doe, John B.                                                      03 20               71                             Doe, John B.                                       Medical [CMM])
+
+
+ 1234 Main Street                                                                                                     1234 Main Street
+
+Anytown                                               NJ                                                              Anytown                                                NJ
+
+08999                          856 555-2222                                                                           08999                             856 555-2222
+
+ Doe, Mary                                                                                                            15974
+
+ 72431                                                                                                                    03 20           71
+
+ 10   21    70                                                                                                        Watch Repair, Inc.
+
+ self-employed                                                                                                        AmeriHealth PPO
+
+ HMO, Inc.
+
+
+                                        Referring Provider’s                            Referring Provider’s
+                                      two-character qualifier ID                        Current Provider ID
+
+
+ 10 28      06
+                                                                G2 0123456789
+ Josephine Smith, M.D.                                             999999999                                                 11     01        06                  11 04       06
+                                  ZZ qualifier ID and Billing Provider’s
+  ZZ207LP2900X                         Primary Taxonomy Code
+                                                                                        Referring Provider’s NPI
+
+
+  401
+
+  251       8                                                                                                         123456789                Referral/Preauthorization Number
+
+
+
+
+                                                                                                                                                        N5 1234567000
+11 02 06        11      02 06 21             6        99205                                                    1         $50 00           1                8888888888
+                                                                                                                                                              Two-character qualifier ID
+11 03 06        11 03           06 21        6        20600                25                                  2       $250 00            1                   of the Rendering Provider
+
+                                                                                Modifier (if applicable)
+
+
+
+
+              Provider’s
+                Federal
+                Tax ID #
+            (Billing Entity)
+
+                                           Service
+22-1234567                                 Facility
+                                             NPI                                        Service Facility                    100        00                 0 00     100 00
+                                                                                         two-character                                                    856 555-5555
+                                                                                          qualifier and
+                                                                                                                                                                       Billing Provider
+                                                      ABC Hospital                      Current Provider
+                                                                                           ID number                  ABC Medical Group                                 two-character
+                                                      123 Street                                            Billing   8 North American Street                          qualifier ID and
+                                                                                                           Provider                                                    current provider
+Richard B. Smith, M.D.                                Anytown, NJ 08999                                      NPI      Anytown, NJ 08999                             identification number
+
+                                  11/5/06         0000001234                    G21234567002                          2222222222                   N51234567001
+
+
+ Green items are required.                                                                                             Indicates new field and/or requirement.
+ Blue items are required when applicable to the patient’s condition/situation.
+ Black items are optional.                                                                                             Indicates field required for processing.
+837 P Data Field Requirements
+                                                     837 P Billing Taxonomy Loop
+   Loop ID                          Loop Name                             Segment Name    PRV Qualifier      PRV Value
+    2000A           Billing/Pay-To Provider Specialty Information              PRV             01               BI
+
+
+   Loop ID                          Loop Name                              Segment Name   PRV Qualifier      PRV Value
+    2000A           Billing/Pay-To Provider Specialty Information              PRV             02               PXC
+
+
+   Loop ID                          Loop Name                              Segment Name   PRV Qualifier      PRV Value
+    2000A           Billing/Pay-To Provider Specialty Information              PRV             03          Taxonomy Code
+
+
+                                                      837 P Billing provider Loop
+   Loop ID                          Loop Name                             Segment Name    PRV Qualifier      PRV Value
+   2010AA                         Billing Provider                             NM1             08               XX
+
+
+   Loop ID                          Loop Name                              Segment Name   PRV Qualifier      PRV Value
+   2010AA             Billing Provider Secondary Identification                REF             01               SY
+                                                                                                                EI
+
+
+                                                     837 P rendering provider Loop
+   Loop ID                          Loop Name                              Segment Name   PRV Qualifier      PRV Value
+    2310B                       Rendering Provider                             NM1             08               XX
+
+
+                                                 837 P rendering taxonomy Loop
+   Loop ID                          Loop Name                              Segment Name   PRV Qualifier      PRV Value
+    2310B            Rendering Provider Specialty Information                  PRV             01               PE
+
+
+                                                 837 P rendering taxonomy Loop
+   Loop ID                          Loop Name                             Segment Name    PRV Qualifier      PRV Value
+    2310B            Rendering Provider Specialty Information                  PRV             02               PXC
+
+
+                                                 837 P rendering taxonomy Loop
+   Loop ID                          Loop Name                             Segment Name    PRV Qualifier      PRV Value
+    2310B            Rendering Provider Specialty Information                  PRV             02         Taxonomy Code
+
+
+                                                       837 P service facility Loop
+   Loop ID                          Loop Name                              Segment Name   PRV Qualifier      PRV Value
+    2310C                     Service Facility Location                        NM1             01               77
+
+
+Please let us know if you have any questions regarding these instructions. In addition, if you have any questions
+regarding the NPI, the application process, or reporting your NPIs to us, please contact your Provider Relations
+representative.
+

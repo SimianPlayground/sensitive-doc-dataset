@@ -1,0 +1,348 @@
+          REQUEST FOR PROPOSALS FOR
+
+   Information Technology Managed Services
+
+               December 20, 2019
+
+
+
+
+Proposals due by February 17, 2020, 12:00 PM PST
+          (POSTMARKS WILL NOT BE ACCEPTED)
+                                 City of Goleta
+                             Request for Proposal
+                       Information Technology Services
+
+INTRODUCTION
+
+The City of Goleta is requesting proposals from qualified firms or individuals
+interested in providing a comprehensive full-service Information Technology (IT)
+program for the City. The City currently contracts with a third-party IT services
+provider for technical support/helpdesk for users, equipment purchases and
+installation,   software    application    licensing   and    installation,  and
+network/server/firewall management. The City recently approved its first
+Information Technology Strategic Plan (“ITSP”), which establishes an ambitious
+set of goals and objectives designed to expand and enhance our IT infrastructure
+and service offerings. This will require new policy and practice development. It
+will also involve multiple software, hardware, and service purchases including
+business needs analyses, vendor selection, and implementation.
+
+The City wishes to select a single organization to provide a comprehensive
+Information Technology program. The City will accept proposals under several
+models including but not limited to:
+
+   1) Full strategic and day-to-day IT services and support provided directly by
+      the proposer;
+
+   2) Strategic services and support provided by proposer, with day-to-day IT
+      service and support provided by proposer’s qualified subcontractor(s); or
+
+   3) Strategic services and support provided by proposer, and day-to-day IT
+      services and support provided by a separate City-contracted vendor, with
+      that vendor’s relationship management (selection, negotiation, contract
+      management, vendor relations, and quality control services) provided by
+      the proposer.
+
+BACKGROUND
+
+The City of Goleta is located on the Central Coast of California just north of Santa
+Barbara. Incorporated in 2002, the City has the warmth and charm of a small town.
+Beaches and well-maintained parks and open spaces add to its attraction.
+Contributing to this young community’s outstanding quality of life are the City’s low
+crime rate, mild coastal climate, and desirable location. The current population is
+just over 30,000. Residents enjoy several distinct neighborhoods, each with its own
+character. Goleta elementary and secondary schools have a reputation for high
+academic achievement and excellent instruction. The University of California at
+Santa Barbara, located to the south of the City, is a world class public university.
+The City Council consists of four members elected at-large to four-year terms, and
+a Mayor elected for a two-year term. The City is comprised of the following
+departments: General Government (which includes the offices of City Manager,
+                                                                                   1
+City Attorney and City Clerk) Finance, Public Works, Planning and Environmental
+Review, Neighborhood Services and Public Safety, and Library. The City’s most
+recent Organizational Chart is included as Exhibit 1.
+
+The City currently contracts with a third-party IT services provider who provides a
+range of day-to-day IT services including, but not limited to, comprehensive
+maintenance of the City's Information Technology inventory at City Hall and the
+off-site Corporate Yard, which consists of five (5) server units, one (1) NAS device
+and over one-hundred thirty-five (135) workstations, including a satellite office
+(Corporate Yard) with six (6) workstations which are connected to City Hall via a
+VPN. The third-party IT services provider also provides support to the Goleta
+Valley Library facility, which currently consists of over thirty (30) workstations, four
+(4) wireless access points; three (3) Self-Check-out Machines, and one (1) network
+switch. Support is provided to the smaller branch libraries in the north county cities
+of Buellton and Solvang as well. An inventory of the City’s Computer Assets is
+included as Exhibit 2. A list of the City’s current enterprise applications is included
+as Exhibit 3. The full contract scope of work for the City’s current I.T. Provider is
+included as Exhibit 4.
+
+In September 2019, the City adopted its first Information Technology Strategic Plan
+(ITSP) included herein as Exhibit 5. This document is designed to be a working
+document and is subject to amendment. Funds have been set aside to assist with
+the implementation of this plan.
+
+The City is in the process of hiring a full-time Management Analyst- IT who will
+assist, on at least a part-time basis, with the implementation of the ITSP and the
+oversight of contracted IT services.
+
+PURPOSE OF THE REQUEST
+
+The purpose for this Request for Proposals (RFP) is to evaluate qualified firms for
+providing a comprehensive set of IT managed services necessary for day-to-day
+IT operations and the ongoing implementation of the strategic goals and objectives
+outlined in the ITSP. It is the City’s desire to act affirmatively over the next several
+years to align itself with best practices in municipal government information
+technology for a city our size, and to provide a full suite of interactive technology
+services to the public.
+
+Qualified firms are asked to prepare a proposal that addresses all value-added
+service requirements as outlined below. The initial contract is anticipated for a
+period of 3 years commencing on or before July 1, 2020 with the option to renew
+for two additional one-year periods.
+
+SCOPE OF SERVICES
+
+The successful proposer will provide a comprehensive full-service Information
+Technology program for the City of Goleta. The City will accept proposals under
+several models including but not limited to:
+
+                                                                                      2
+   1) Full strategic and day-to-day IT services and support provided directly by
+      the proposer;
+
+   2) Strategic services and support provided by proposer, with day-to-day IT
+      service and support provided by proposer’s qualified subcontractor(s); or
+
+   3) Strategic services and support provided by proposer, and day-to-day IT
+      services and support provided by a separate City-contracted vendor, with
+      that vendor’s relationship management (selection, negotiation, contract
+      management, vendor relations, and quality control services) provided by
+      the proposer.
+
+The successful proposer will ensure the following priority service requirements for
+City of Goleta:
+
+1. Reliable, Secure Infrastructure and Services
+
+   A. Security Infrastructure/Edge Device Management – Maintaining effective
+      policy enforcement and functionality across different environments;
+      creating consistent security policies that can be coordinated across all
+      edges i.e. cloud, endpoint, WAN; manage routers, switches, firewall.
+   B. Device security - managing computing security policies, users, groups,
+      and permissions; mobile device management services;
+   C. Business Continuity and Disaster Recovery – protecting critical data and
+      applications no matter where they reside to prevent business interruption;
+
+2. Accessible and Transparent Government
+
+   A. E-Government Strategy - Developing an E-Government Strategy focused
+      on benchmarking the City’s website design, content, and online services
+      to establish a more robust online service delivery model; refocus the City’s
+      website from an information dissemination tool to an online service
+      delivery tool with interactive, transactional and online services integrated
+      with the City’s financial, enterprise, and departmental technologies.
+
+3. Technology-Capable Workforce
+
+   A. Technology Innovation, Strategic Planning, Project Planning and
+      Implementation – Working with current IT staff to continue to develop a
+      long-term strategic technology plan. The plan will take advantage of new
+      and existing technologies to produce a pragmatic and effective future
+      roadmap that enables the organization to fulfill its overall mandate in the
+      community.
+   B. Training Prerequisite – Staff training is included as a vendor requirement
+      in any RFP for new technology solutions to ensure that staff can fully
+      leverage the benefits of the solution upon implementation.
+
+
+                                                                                    3
+4. Proactive, Accountable IT Service
+
+   A. Solution design – Solution packages (e.g., hardware, software, licensing)
+      and associated consolidation of data; software licensing control –
+      oversight of automatic renewal of software applications and maintenance
+      of appropriate documentation
+   B. Managed Network Services - network and email system monitoring – 24/7
+      monitoring of City’s network and email services with proactive
+      communication and escalation protocols based on the severity of any
+      unscheduled outages.
+   C. Software and application management - installation, managing settings,
+      software license compliance, and deployment and upgrading of
+      applications and patches
+   D. Desktop Services Support - remote assistance, on-site or emergency
+      assistance or repairs, ongoing maintenance, scheduled repairs, and
+      remote resource monitoring
+
+5. Collaborative Decision Making
+
+   A. IT Governance – Establish IT Governance Policy; implement a
+      collaborative IT governance structure that promotes understanding among
+      stakeholders of how departmental priorities fit with the overarching
+      Citywide priorities and available resources.
+   B. IT Steering Committee – The establishment of a leadership team to
+      prioritize City-wide IT projects and report to City leadership on IT initiatives
+      will be a critical component of our IT governance and oversight effort.
+
+
+CONTRACT SCHEDULE
+
+This contract is a priority for the City. Below is a desired schedule for initiating
+this contract; however, dates may be subject to change and adjusted as
+necessary.
+
+   Request for Clarifications Due                 January 15, 2020
+   Clarification Responses Provided               January 23, 2020
+   Proposal Submittal Deadline                    February 3, 2020 (noon)
+   City Staff Evaluation of Proposals             February 3-6, 2020
+   Interview Top Candidates                       February 17-21, 2020
+   Notice to Successful Proposer                  February 27, 2020
+   Award Contract                                 March 17, 2019 (Council
+   Meeting)
+   Kick-off Meeting                               Week of March 30- April 3
+
+SUBMISSIONS
+
+Please submit your firm’s qualifications, identify key staff to be assigned to this
+                                                                                  4
+contract , provide resumes for each key staff member; provide at least three (3)
+professional references for work that was performed similar to that requested in
+this RFP, and provide a detailed description of your proposed approach to the
+contract work, estimated time commitments, and related fees.
+
+SELECTION CRITERIA
+
+The successful proposer will demonstrate:
+   • An understanding of the City’s needs;
+   • The ability to provide a comprehensive information technology program to
+       the City; and
+   • The ability to leverage its expertise and resources to implement the City’s
+       Information Technology Plan and guide the City through technology
+       improvements that reflect best practices for a municipality of our size.
+No single criteria will be weighted higher than others. Rather, the proposer’s
+overall approach to meeting the City’s needs will determine success.
+
+An in-person presentation and interview with the key contract team members of
+the top 2-3 candidates will be required prior to selection.
+
+Other criteria include:
+
+   •   Completeness of response to the RFP
+
+   •   Experience providing similar services to similar government agencies and
+       reference feedback
+
+   •   Oral communication skills
+
+   •   Writing and formatting skills
+
+   •   Cost
+
+REQUIREMENTS OF PROPOSAL
+
+The following materials should be submitted with the proposal:
+
+   •   Cover Letter
+
+The cover letter should briefly state the consultant’s understanding of the work to
+be performed, the commitment to perform quality and timely work under the
+contract, and why the consultant believes it is best qualified to perform the duties
+and achieve the goals outlined and described in scope of work contained in this
+request.
+
+Qualifications
+
+The proposal should include the following information and materials:
+                                                                                  5
+   •   Qualifications and Related Experience of Personnel Who Will Perform
+       Work. Résumés of all personnel who are proposed to provide professional
+       services to the City of Goleta within the Scope of Work outlined and
+       described in this request should be included. Résumés should include all
+       relevant experience, education, and other qualifications over the past 3
+       years.
+
+   •   Prior Relevant Experience. A description of prior work experience and
+       projects relevant to the Scope of Work outlined and described in this request
+       should be included.
+
+   •   References of local clients. Please include a list of at least three (3) current
+       and/or previous clients located in California for which the consultant has
+       rendered professional services relevant to the scope of work outlined and
+       described in this request.
+
+   •   Include a similar demonstration of the qualifications of any proposed
+       subcontractors.
+
+Approach to Completing Work
+
+Provide a proposed approach to conduct services anticipated in the Scope of
+Work. Include any performance or timing commitments that proposer is prepared
+to make (e.g. help desk response times, network up time, and other measures).
+
+Cost
+
+   •   Cost Structure and annual Cost Estimate with justification
+
+   •   Justification of hours and costs may be required prior to final selection and
+       will be required prior to execution of a contract.
+
+   •   Proposal shall include hourly rates for personnel who will provide work
+       under the contract.
+
+   •   Proposal should include options for reducing or adding services.
+
+General Information
+
+   1. The City reserves the right to cancel or reissue the RFP or extend the
+      timeline at any time.
+
+   2. The City reserves the right to reject any and all proposals. The City may
+      accept any proposal if such action is determined to be in the best interest
+      of the City in the sole and exclusive discretion of the City Council.
+
+   3. The City is not liable for any costs incurred by the proposer prior to issuance
+                                                                                     6
+      of a written notice to proceed to the successful consultant.
+
+   4. The contract team is subject to the approval of the City of Goleta. The City
+      will have the right to review and approve any changes in the contract team.
+
+Questions During Proposal Period
+
+All questions should be directed in writing to Todd Mitchell, HR/Risk Manager
+tmitchell@cityofgoleta.org
+
+DEADLINE FOR PROPOSAL SUBMITTALS
+
+Submittals are due by 12:00 PM PST on Monday, February 3, 2020.
+
+One (1) original proposal with three (3) double-sided copies must be submitted
+along with an electronic copy on a CD or USB of the proposal in PDF format.
+Proposals shall be clearly marked “CITY HALL SPACE NEEDS ASSESSMENT
+PROPOSAL” and enclosed in a sealed envelope. Proposals may be hand delivered
+or mailed to:
+
+Deborah Lopez, City Clerk
+Attn: City Hall Space Needs Assessment Proposal
+City of Goleta
+130 Cremona Drive, Suite B
+Goleta, CA 93117
+
+Proposals not received by the due date and time requested in the Project
+Schedule herein may be rejected without consideration.
+
+NOTE: FAXED, E-MAILED, LATE OR “BY-POSTMARK DATE” PROPOSALS
+WILL NOT BE ACCEPTED.
+
+List of Exhibits:
+    1) Organizational Chart by Position
+    2) Inventory of City Computer Assets
+    3) List of Current City Enterprise Applications
+    4) Scope of Work from Current I.T. Provider Contract
+    5) City’s Information Technology Strategic Plan
+
+
+
+
+                                                                                7
+

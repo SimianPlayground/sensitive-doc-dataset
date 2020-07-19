@@ -1,0 +1,360 @@
+                     REQUEST FOR PROPOSAL (RFP) FOR
+                     CONTRACT MANAGEMENT SYSTEM
+                                ISSUED BY THE
+                    NEW YORK eHEALTH COLLABORATIVE
+
+
+
+
+                              RFP INFORMATION
+   CONTACT NAME             NYeC RFP
+   EMAIL ADDRESS            rfpcontact@nyehealth.org
+   SUBMISSION DEADLINE      September 18, 2017 5:00pm EST
+
+
+
+
+ All correspondence and proposals should be submitted via email directly to the
+    contact listed above and include ‘NYeC Contract Management System’ in the
+                                     subject line.
+
+
+
+
+1|Page
+  I.   STATEMENT OF PURPOSE
+
+The Statewide Health Information Network for New York (SHIN-NY) is made up of 8 regional
+organizations providing Health Information Exchange services as well as a centralized Enterprise
+Bus and Record Locater Services hosted by New York eHealth Collaborative (NYeC). The
+enterprise system of all 9 organizations and independent systems allows exchange of patient
+clinical records across New York State. NYeC has been identified as the SHIN-NY State Designated
+Entity (SDE).
+
+NYeC is expanding its contracting responsibilities and is therefore looking for a fully functional
+system to manage the flow of contracts within the organization and across multiple vendors.
+NYeC would like to use a Contract Management System to streamline contracting processes,
+improve consistency of contracts across the organization, enable better tracking of contract
+progress, voucher vendors, track contract compliance and reduce the overhead associated with
+managing the contracts life cycle.
+
+
+
+ II.   BACKGROUND INFORMATION
+
+The SHIN-NY is a network of networks comprised of eight Regional Health Information
+Organizations now referred to as Qualified Entities (QE). Each QE operates its own network that
+aggregates electronic health records (EHRs) from participating providers in their regions. They
+are interconnected through a SHIN-NY hub via the statewide patient record lookup (sPRL).
+Together, the eight QEs connect data from acute care hospitals in New York State, provider
+systems, individual providers, laboratories, public health departments and other data sources.
+With the release of the SHIN-NY Regulation on March 9, 2016, QEs are expected to see an
+increase of healthcare facility participants that are regulated by the New York State Department
+of Health (NYS DOH) under Public Health law and that are required to connect to the SHIN-NY. It
+is also a goal of the SHIN-NY to increase usage across all sectors of healthcare, including those
+providers and facilities that are not regulated to connect.
+
+NYeC will award a single contract for this work and the selected vendor will be expected to
+implement a system that meets all deliverables specified in the contract by December 2017.
+
+
+
+
+2|Page
+III.       SCOPE OF WORK
+
+NYeC is requesting information and a proposal to implement a fully functioning Contract
+Management System with the following required functionality:
+
+       •   RFP Management
+       •   Contract Initiation and Tracking
+       •   Contract Authoring
+       •   Contract Negotiation
+       •   Contact Approval/Signing
+       •   Contract Compliance
+       •   Contract Accounting
+       •   Contract Repository
+       •   Audit/Reporting
+       •   Security
+       •   Integration with external services
+Details on NYeC’s needs for each feature are as follows:
+
+1. RFP Management
+NYeC is looking for a system that includes a flexible RFP management environment that allows
+for RFPs to be developed based on defined business rules and technical specifications. This
+environment should allow for user collaboration on RFP development including workflows for
+review and approvals of RFPs. Specific system features related to RFP management are as
+follows:
+
+       •   RFP development
+       •   RFP tracking
+       •   Proposal Management and Tracking
+       •   Proposal Scoring
+       •   Proposal Routing
+
+
+2. Contract Initiation
+NYeC is looking for a system that allows for the tracking of contracts against organizational
+budgets and board approvals. Upon the need for contract development, a system should allow
+a user to initiate the contract, check for available budget and board approvals, and provide
+required information for cross reference and validation before proceeding to the authoring
+stage. Specific system features related to contract initiation are as follows:
+       •   Vendor Request Initiation
+
+3|Page
+   •   Budget Check
+   •   Board Approval Check
+   •   Routing of contract initiation request through legal and fiscal teams
+
+3. Contract Authoring
+NYeC is looking for a system that includes a flexible authoring environment that is seamlessly
+integrated with the contract repository, accelerates the contract creation process, enhances
+the control over its progress, and improves collaboration between stakeholders. Specific system
+features related to contract authoring are as follows:
+
+   •   Revision tracking
+   •   Versioning
+   •   Ability to compare contract iterations side by side
+   •   Access to the full complete revision history
+   •   Library of preapproved contract templates, clauses, and terms
+   •   Automatic completion of standard fields in a contract
+
+4. Contract Negotiation
+NYeC is looking for a system that enables stakeholders to compare versions of the contract and
+note discrepancies to reduce negotiation time. Online collaborative editing, with
+comprehensive track changes is essential to eliminate the back and forth submission of
+Word/PDF docs. Specific system features related to contract negotiation are as follows:
+
+   •   Automatic negotiation process (successive, parallel, or mixed-type)
+   •   Recording any amendments to the contract
+   •   Monitoring the progress of the negotiation process
+   •   Reminders and notifications to participants
+   •   Submitting comments upon approval or rejection of a contract
+   •   Revision of a contract subject to comments and proposals
+   •   Contract version control
+
+
+5. Contact Approval/Signing
+NYeC is looking for a system that supports automatic contract routing to relevant parties for
+review, approval and execution, including digital signature. Transparency, and quick electronic
+approval process are essential. Specific system features related to contract approval are as
+follows:
+
+   •   Tailored approval workflows, either parallel or successive
+   •   Supports e-signature
+
+4|Page
+   •   Sending for signing to external counterparties
+   •   Making comments upon approval/signing/rejection
+   •   Report on approval/signing actions
+
+6. Contract Compliance
+NYeC is looking for a system that enables contract progress monitoring for all contracted
+milestones and service delivery. An integrated system that applies business rules to manage
+contracts should enable personnel from within the organization to access, analyze, and act on
+contract-related information efficiently and consistently. Specific system features related to
+contract compliance are as follows:
+
+   •   Setting targets for contract compliance
+   •   Monitoring progress of compliance
+   •   Automatic reminders/alerts regarding milestones, key dates, hours tracking,
+       performance matrix, etc
+   •   Automatic notifications/reminders regarding contract expiration
+   •   Automatic renewal process of the contract
+
+7. Contract Accounting
+NYeC is looking for a system that serves as a central repository and workflow enabler for the
+processing of vouchers and payments for vendors with contracts managed through the system.
+The system shall integrate to accounting systems and databases for purposes of processing
+payments and tracking vouchers and budget thresholds. Specific system features related to
+contract accounting are as follows:
+
+   •   Contract budget/amendment accounting
+   •   Voucher processing
+   •   Payment processing (integration capability with other systems)
+   •   Contract fund accounting (budget categories)
+   •   Inquiry capability
+   •   Threshold alerts
+
+
+8. Contract Repository
+NYeC is looking for a system that serves as a central repository for tracking active, amended,
+and historical contracts as well as associated attachments, documents, and schedules. The
+repository enables users to collect, arrange, and store contracts into one system, providing a
+secure online, easy-to-use, single access point for a company’s business relationships and
+obligations. Specific system features related to contract repository are as follows:
+
+
+5|Page
+   •   Web-based document management environment.
+   •   Centralized, secure, single-access storage for contracts and related documents.
+   •   Full-text and keyword search of contracts, attachments, clauses, etc.
+   •   Search by wide range of variables (e.g., customer, deliverables, milestone dates, etc.).
+   •   Ability to group and filter search results, as well as save search for future use.
+   •   Ability to manage faxed and scanned documents as well as native files in any format,
+       including all versions of .doc, .pdf, .ppt, and .xls file types, common image formats.
+   •   Establish links between contracts and related documents, such as contracts and
+       amendments, contracts and vouchers, etc.
+
+
+9. Audit/Reporting
+NYeC is looking for a system that provides visibility into all contractual relationships across the
+company, with a complete audit trail for every contract. Comprehensive reporting capabilities
+enable performance assessment and risk analysis while delivering role-based dashboard views
+tailored for contract administrators, business managers, executives, and other stakeholders.
+Specific system features related to audit and reporting are as follows:
+
+Automated generation of various reports:
+   • Generating reports regarding drafting and negotiation of contracts
+   • Generating reports on contract progress, key performance indicators (KPIs), service level
+     agreements (SLAs), risk assessments, compliance rates, and execution milestones
+   • Generating reports on budgets and board approvals across vendors and projects
+   • Role-based dashboard views tailored for contract administrators, business managers,
+     executives, and other stakeholders
+   • Automated audit trail, including all messages and negotiated document versions
+   • Ability to create ad hoc reports including individual and group contract reports
+
+
+10. Security
+NYeC is looking for a system that provides adequate security and user authentication. It should
+also allow only authorized users to access the information that is relevant to them. Specific
+system features related to security are as follows:
+    • Online authentication via a secure login screen
+    • Secure web-based access to the contract management environment
+    • Role-based access to view/update information
+    • Contracts and related information access restricted to authorized personnel
+    • Ability to audit status, access, and usage of system resources
+    • Utilizing software security best practices
+    • Meet NYeC's internal user access security policy
+
+
+6|Page
+11. Integration with External Services
+A seamless integration of the system with services and applications that are commonly used as
+part of the NYeC’s business operations is essential. The system shall integrate with the
+following systems:
+    • Integration with Microsoft Office tools (Word, Excel, Access, PowerPoint, and Visio)
+    • Integration with DocuSign (or other e-signature technology)
+    • Integration with Salesforce
+    • Integration with FundEZ
+
+12. Additional Functionality
+In addition to the above required features, the following functionality would add benefit to the
+enterprise. These features are not required and will be weighted lower than the above when
+evaluating proposals:
+
+   •   A “legacy load” capability, which enables batch uploading of existing paper contracts
+   •   Fax received during the negotiation phase will enter the repository automatically, link
+       with the correct negotiation, and trigger an alert to the appropriate parties
+   •   Graphical approval workflows, that can display where a contract is in the approval
+       process, who still needs to approve it, and can note the role and relevance of each
+       approver
+   •   Integration with Tableau
+   •   Integration with SQL Server
+
+
+
+
+7|Page
+ V.    RFP APPLICATIONS & EVALUATION CRITERIA
+
+Proposals should provide complete and detailed descriptions of the applicant’s abilities to meet
+the requirements of this RFP. NYeC will select a qualified vendor on a best value basis considering
+feature and system completeness, implementation approach, implementation timeline, vendor
+qualifications, support and maintenance and system cost. Please see below for more detail on
+the evaluation criteria. NYeC reserves the right to request product demonstrations with vendor
+as necessary.
+
+The RFPs will be evaluated by a selection committee comprised of members from NYeC. RFPs
+which do not address all the criteria below may not be evaluated by NYeC.
+
+Proposals are limited to twenty numbered pages including the cover letter and all appendices.
+All pages should be in portrait landscape with 1-inch margins. Font size shall be 11 point or larger.
+Proposals not following this format will not be reviewed.
+
+The cover letter shall include the RFP Title, Name, Title, Email Address, Phone Number and
+Addresses of the applicant’s main contact and include any real or perceived conflicts of interests
+for team members, inclusive of the prime, sub-consultants and key team members.
+
+The selected vendor will be required to adhere to certain New York State grant contract and
+confidentiality requirements specific to the initiative. These requirements will be outlined in the
+vendor contract.
+
+
+Proposal submissions are due September 18, 2017 at 5:00pm EST. Vendors may only contact
+NYeC using the email address RFPContact@nyehealth.org for all matters concerning this RFP.
+All questions related to this RFP should be submitted by September 5th at 5:00pm EST. A FAQ
+including submitted questions will be posted on the NYeC website by September 8th at 5:00pm
+EST.
+
+Vendors may not contact any NYeC staff, NYeC board members, the New York State
+Department of Health staff, or any other stakeholders regarding this project in the period
+between the issuance of this RFP and the notice of award, as stated in the timetable above.
+Any oral communication will be considered unofficial and non-binding regarding this RFP and
+subsequent award.
+
+NYeC reserves the right to amend or cancel this RFP at any time prior to a signed contract with
+the vendor. NYeC is not responsible for any costs incurred by a vendor in the preparation of a
+response to this RFP.
+
+
+
+8|Page
+Proposals are to address and be evaluated upon the following criteria:
+
+1. Feature and System Completeness:
+Describe how the system proposed meets the features described in the “scope of work” section
+of this RFP. Define feature by feature how the system meets the needs as described. If there is
+a missing feature, please describe how the desired functionality can be otherwise achieved
+using the proposed system.
+
+2. Implementation Approach
+• Assumptions and Risks: Define the assumptions made regarding accomplishing the Scope of
+   Work. Define the factors the consultant believes are risks to the successful completion of the
+   project and proposed mitigation strategies. Describe any factors that you believe may
+   constrain your ability to undertake the scope of work as described.
+• Innovative Ideas: Include a summary of innovative ideas and suggestions for enhancing the
+   scope of work.
+• Coordination & Communication: Provide a plan for communications and coordination
+   between the Vendor and NYeC.
+• Project Management: Describe the vendor’s experience in the formal project management
+   of projects such as the one defined in the RFP.
+
+3. Implementation Timeline
+Provide a timeline and approach for the overall implementation. Identify the key tasks,
+milestones and deliverables within the timeline. Any assumptions used in developing the
+timeline should be identified in this section. If there are specific tasks that NYeC will be
+responsible for, they should be identified clearly within the timeline.
+
+4. System Support and Maintenance:
+Identify and provide details for other supporting services that will be provided for the overall
+implementation and maintenance. These include:
+• Software Support (including help desk support, upgrades and maintenance)
+• Knowledge Transfer and Training Services
+•   Service Level Agreements (include standard SLA documents as an appendix)
+•   Software Support (including upgrades and maintenance)
+
+5. Vendor Qualifications and References
+Vendor should describe their current client mix, specific unique qualifications and provide a
+minimum of 2 references for projects of similar scope, budget and implementation timeline. All
+references must be received by the Proposal due date. NYeC will evaluate the reference checks
+to assess the proposed system’s overall performance and success with implementation of
+previous systems. NYeC may contact submitted reference sites directly if they require additional
+information.
+
+
+
+
+9|Page
+6. Cost
+Outline cost for the project with a breakdown of level of effort anticipated for all team members.
+Cost should be broken down by project milestone as the vendor sees fit. A minimum of three
+milestones is required but vendor can propose additional milestones as necessary. Anticipated
+travel costs should be included within the response. Costs should include any implementation
+costs as well as license and upgrade costs.
+
+
+
+
+10 | P a g e
+

@@ -1,0 +1,2834 @@
+                                     FORM 12/2018
+
+
+
+
+           REQUEST FOR PROPOSALS
+                               FOR
+     BROADSOFT BROADWORKS VOIP
+                  SYSTEM UPGRADE
+
+
+
+
+                CONTRACT NO. F5094
+
+
+
+
+RFP Issued: June 3, 2019
+
+Submission Deadline: July 15, 2019
+                                                                                                                                              FORM 12/2018
+
+
+
+
+TABLE OF CONTENTS
+PART I INTRODUCTION ........................................................................................................................... 1
+1. INVITATION TO SUBMIT PROPOSAL ................................................................................................... 1
+2. RFP SUMMARY ......................................................................................................................................... 1
+3. RESPONSIVENESS DETERMINATION .................................................................................................. 4
+PART II REQUIREMENTS ........................................................................................................................ 6
+1. SERVICES TO BE PERFORMED AND WORK PRODUCT .................................................................... 6
+2. COMPENSATION ...................................................................................................................................... 6
+3. GENERAL CONDITIONS, TERMS, LIMITATIONS AND REQUIREMENTS ...................................... 6
+4. INTERVIEWS ............................................................................................................................................. 9
+5. SELECTION ............................................................................................................................................. 10
+
+
+EXHIBIT 1 PROPOSAL CERTIFICATION/QUESTIONNAIRE FORMS
+
+EXHIBIT 2 FEE AND COST SCHEDULE
+
+EXHIBIT 3 DOING BUSINESS DATA FORM
+
+EXHIBIT 4 DISCLOSURE OF PRIOR NON-RESPONSIBILITY
+
+EXHIBIT 5 NON-COLLUSION CERTIFICATION FORM
+
+EXHIBIT 6 IRAN DIVESTMENT FORM
+
+EXHIBIT 7 EO 177 FORM
+
+EXHIBIT 8 CONTRACT DRAFT
+                                                                                   FORM 12/2018
+
+
+
+
+                                       PART I
+                                   INTRODUCTION
+
+1. INVITATION TO SUBMIT PROPOSAL
+
+        Hudson River Park Trust (the “Trust”) is pleased to invite you to submit a
+proposal in response to this Request for Proposals ("RFP") issued pursuant to the Trust’s
+discretionary procurement process. The Services to be performed, the Project and the
+Project Site are outlined in the RFP Summary below (Part I, Section 2), along with such
+other information as the anticipated dates for the execution of a Contract with the
+Contractor, if one is selected pursuant to this RFP, and the anticipated Contract Term.
+All undefined capitalized terms set forth in this RFP shall have the same definitions as set
+forth in the draft Contract (the “Contract Draft”) annexed to this RFP as Exhibit 8.
+
+       Respondents are required to disclose any conflict of interest(s) that may preclude
+them from participating in this solicitation, including participation in other Project
+contracts.
+
+        Subject to the availability of funds and the responses to this RFP, the Trust will
+select one or more Contractors to provide the Services. The Contractor shall be
+experienced in all aspects of the Services. The Contractor will commence the Services
+upon a written Notice to Proceed from the Trust or upon execution of the Contract by the
+Contractor and the Trust substantially in the form of the Contract Draft. You should
+review the Contract Draft and be familiar with all of the terms and conditions set forth
+therein prior to submitting your proposal. However, please note that the General
+Terms and Conditions (Part II) and the Appendices (Part III), other than Appendix
+B and Appendix C, are not negotiable.
+
+2. RFP SUMMARY
+
+                   2.1 In General. This summary of terms, deadlines and requirements
+           specific to this RFP is set forth for your immediate reference and convenience
+           only. It does not set forth all of the requirements of this RFP, but should be
+           read in conjunction with the Requirements (Part II) of this RFP. You should
+           review and become familiar with all parts of this RFP prior to submitting your
+           proposal.
+
+                   2.2 Specific Terms, Deadlines and Requirements
+
+              2.2.1 Project Information.
+
+                   2.2.1.1 The Project: BroadSoft BroadWorks VOIP System Upgrade
+                   as described in the Scope of Services.
+
+                   2.2.1.2 The Project Site: Pier 40, 353 West Street, New York, NY
+
+
+
+
+                                             1
+                                                                            FORM 12/2018
+
+
+
+
+              2.2.1.3 Type of Services: VOIP system upgrade solutions and related
+              maintenance and technical support at the Trust’s option as provided in
+              the Scope of Services attached to this RFP beginning at page 11.
+
+          2.2.2 The Contractor:
+
+              2.2.2.1 Type: Qualified vendors with experience in VOIP system
+              upgrades that include (i) full hardware redundant solutions, redundant
+              solutions utilizing VMware environments, or a combination of both
+              solutions and (ii) maintenance and technical support for the upgraded
+              solutions.
+
+              2.2.2.2 Minimum Experience Required: The Contractor must be an
+              established business with a minimum of five (5) years hands-on
+              experience in VOIP system services and provide proof of required
+              insurance as set forth in the Contract Draft.
+
+          2.2.3 Contract Information
+
+                  2.2.3.1 Anticipated Contract Date: August 1, 2019
+
+                 2.2.3.2 Anticipated Contract Term: One Year Term with 3-
+          One Year Renewal Options
+
+          2.2.4 Questions Regarding RFP
+
+                  2.2.4.1 Question/Clarification Submission Deadline:
+
+                         (i) Date:      June 24, 2019
+                         (ii) Time:     5:00 p.m.
+
+              2.2.4.2 Permitted Method: In writing to Recipient at Recipient’s
+                      Mailing Address or Email Address as listed in Section 2.2.6
+                      below only.
+
+              2.2.4.3 Question Response Date: July 1, 2019
+
+              2.2.4.4 Answers to Questions will be available at Trust website under
+Bids and Business Opportunities at https://hudsonriverpark.org/about-us/bids-
+business-opportunities (the “Website”).
+
+
+
+
+                                       2
+                                                                      FORM 12/2018
+
+
+
+
+2.2.5 Proposal Submission Requirements
+
+     2.2.5.1 Label on Envelope:
+
+        2.2.5.1.1 One for the Proposal Only: “Proposal for BroadSoft
+        BroadWorks VOIP System Upgrade – Contract F5094”
+
+        2.2.5.1.2 One for Prices Only: “Price Proposal for BroadSoft
+        BroadWorks VOIP System Upgrade – Contract F5094”
+
+     2.2.5.2 Number of Sets of Proposals to be submitted: Three
+        hardcopies of each the Proposal and Prices and one electronic copy
+        on thumb drive, USB or CD of the Proposal only (Price proposal
+        contained in second envelope does not need to be provided
+        electronically).
+
+     2.2.5.3 Submission Deadline:
+
+                (i) Date: July 15, 2019
+                (ii) Time: 3:00 p.m.
+
+     2.2.5.4 Method: By Hand, Express Mail or other nationally-known
+                overnight courier
+
+     2.2.5.5 Submit to the following Recipient:
+
+                 Jennifer Sosa, Procurement Manager
+
+     2.2.5.6 Recipient’s Mailing Address:
+
+                 Hudson River Park Trust
+                 Pier 40, 2nd Floor
+                 353 West Street, Rm. 201
+                 New York, NY 10014
+                 Attn: Jennifer Sosa, Procurement Manager
+
+     2.2.5.7 Recipient’s E-mail address: jsosa@hrpt.ny.gov
+
+2.2.6 M/WBE Participation Goal: N/A
+
+2.2.7 SDVOB Participation Goal: N/A
+
+2.2.8 Selection Criteria The Trust will base its selection upon the
+      following criteria:
+
+
+
+                               3
+                                                                                  FORM 12/2018
+
+
+
+
+             40%      The quality, responsiveness and completeness of the written
+                      proposal, the solutions proposed by the respondent and the
+                      proposed timelines and milestones for the services.
+
+             40%      The proposed fee and cost schedule.
+
+             10%      The respondent’s experience in providing services similar to the
+                      Scope of Services described herein; specifically, the number of
+                      years working with the proposed software; the quality of the
+                      respondent’s management and professional staff.
+
+             10%      The respondent’s reputation in the industry, and references;
+                      favorable history, if any, in contracting or doing business with
+                      government bodies similar to the Trust.
+
+If you have a physical disability and cannot deliver your proposal as provided in this
+RFP, please contact Nicole Steele at (212) 627-2020 or email nsteele@hrpt.ny.gov at
+least forty-eight (48) hours prior to the Submission Deadline and the Trust will make
+appropriate arrangements for such delivery.
+
+3. RESPONSIVENESS DETERMINATION
+
+A respondent is deemed “responsive” when it submits a proposal containing the required
+items/information in the form required and as listed in the RFP by the Submission
+Deadline referenced in Part I, Section 2.2.6.3 of this RFP. If the Trust determines that a
+respondent did not submit the items/information required in the RFP, that respondent
+may be deemed “non-responsive” and may not be considered for contract award.
+
+In order to be considered responsive, your proposal should be organized and include all
+of the items as listed below.
+
+                    3.1 Envelope # 1. In one sealed envelope labeled as required by Part
+I, Section 2.2.6.1.1 complete and place the following:
+
+                       3.1.1 Respondent’s Proposal Certification Form and
+        Questionnaire attached hereto as Exhibit 1, and the certifications attached
+        hereto in Exhibit 3 (Doing Business Data Form), Exhibit 4 (Lobbying Form),
+        Exhibit 5 (Non-Collusion Form), Exhibit 6 (Iran Divestment Form) and
+        Exhibit 7 (EO No. 177 Form).
+
+                       3.1.2 In addition to three hard copies, one electronic copy of the
+        materials required above must also be provided (i.e., on a CD, USB, thumb
+        drive) and placed in the same Envelope#1.
+
+                    3.2 Envelope #2. In a second sealed envelope labeled as required by
+Part I, Section 2.2.6.1.2 place complete fee and cost schedule for all Services. The fee
+and cost schedule should be submitted in the form attached hereto as Exhibit 2 to this
+RFP. The Trust may not consider fee and cost schedules that do not follow the prescribed
+
+                                            4
+                                                                                 FORM 12/2018
+
+
+
+
+formats. The submission shall include three hard copies.
+
+                    3.3 Non-compliant Proposals. Non-compliant proposals may, in the
+Trust's sole discretion, be considered “not responsive” and may be rejected by the Trust
+including, without limitation, proposals that are:
+
+                       3.3.1 not enclosed in separate sealed envelopes as aforesaid;
+
+                       3.3.2 not properly labeled;
+
+                       3.3.3 received by a person other than the designated Recipient;
+        and/or
+
+                      3.3.4 missing any information, certifications, supplemental forms
+        or other documentation required by this RFP or by applicable law.
+
+
+
+
+                                            5
+                                                                                           FORM 12/2018
+
+
+
+
+                                          PART II
+                                       REQUIREMENTS
+
+1. SERVICES TO BE PERFORMED AND WORK PRODUCT
+
+       The selected Contractor shall perform all work and services and deliver all of the
+Services specifically described in and required by the Scope of Services annexed hereto. Prior
+to submitting your proposal, please be sure that you review and fully understand the Scope
+of Services.
+
+2. COMPENSATION
+
+      Subject to and in accordance with the final terms of the Contract, the Trust shall
+compensate the selected Contractor as follows:
+
+                    2.1 In General. Under the Contract, the Trust will agree to pay to the
+Contractor an amount not to exceed the Maximum Contract Price to be negotiated between the
+Trust and the selected Contractor based upon its response to this RFP. The Maximum Contract
+Price shall be the maximum compensation for all of the Services provided by the Contractor
+pursuant to the Contract and all expenses of the Contractor in connection therewith, including
+costs of any Subcontractors. The Maximum Contract Price shall be payable as provided in
+Article II of the Contract and Appendix C of the Contract.
+
+                  2.2 Sales and Use Tax. The Trust is exempt from state and local sales and
+use tax. SUCH TAX IS NOT TO BE INCLUDED IN PROPOSALS or in invoices submitted
+under the Contract. The Trust will provide the selected Contractor with an appropriate “sales
+and use tax exemption certificate”.
+
+3. GENERAL CONDITIONS, TERMS, LIMITATIONS AND REQUIREMENTS
+
+                   3.1 Proposal as Offer to Contract. Unless a specific exception is noted by
+the Trust, submission of a proposal in response to this RFP shall constitute an offer on the part of
+the successful respondent to execute the Contract substantially in the form annexed hereto as
+Exhibit 8. Any supporting documents or other items attached as exhibits to this RFP shall be
+incorporated into the Contract. The successful respondent shall cooperate in supplying any
+information as may be required by the Trust for background clearance and any other government
+review and approval forms. Respondent’s proposal shall remain open for acceptance by the
+Trust and shall remain firm and binding upon the respondent for at least sixty (60) days after the
+date on which the proposals are received by the Trust, except that the Trust may by written
+notice to the respondent extend that date for an additional forty-five (45) days.
+
+                   3.2 Freedom of Information Law. All proposals submitted to the Trust in
+response to this RFP may be disclosed in accordance with the standards specified in the Freedom
+of Information Law, Article 6 of the Public Officers Law of the State of New York (“FOIL”). A
+respondent may provide in writing, at the time of its submission, a detailed description of the
+specific information contained in its submission which it has determined is a trade secret and
+which, if disclosed, would substantially harm such entity’s competitive position. This
+                                                 6
+                                                                                          FORM 12/2018
+
+
+
+
+characterization shall not be determinative, but will be considered by the Trust when evaluating
+the applicability of any exemptions in response to a FOIL request.
+
+                   3.3 Participation by New York State Business Enterprises. Respondents
+are strongly encouraged, to the maximum extent practical and consistent with legal requirements,
+to use responsible and responsive New York State businesses in purchasing commodities that are
+of equal quality and functionality and in utilizing services and technology.
+
+                  3.4 Costs. The Trust shall not be liable for any cost incurred by the
+respondent in the preparation of its proposal or for any work or services performed by the
+respondent prior to the execution and delivery of the Contract. The Trust is not obligated to pay
+any costs, expenses, damages or losses incurred by any respondent at any time unless the Trust
+has expressly agreed to do so in writing.
+
+                    3.5 The Trust Rights. This is a “Request for Proposals” and not a “Request
+for Bids”. The Trust shall be the sole judge of whether a proposal conforms to the requirements
+of this RFP and of the merits and acceptability of the individual proposals. Notwithstanding
+anything to the contrary contained herein, the Trust reserves the right to take any of the
+following actions in connection with this RFP: amend, modify or withdraw this RFP; waive any
+requirements of this RFP; require supplemental statements and information from any
+respondents to this RFP; award a contract to as many or as few or none of the respondents as the
+Trust may select; accept or reject any or all proposals received in response to this RFP; extend
+the deadline for submission of proposals; negotiate or hold discussions with one or more of the
+respondents; permit the correction of deficient proposals that do not completely conform with
+this RFP; waive any conditions or modify any provisions of this RFP with respect to one or
+more respondents; reject any or all proposals and cancel this RFP, in whole or in part, for any
+reason or no reason, in the Trust's sole discretion. The Trust may exercise any such rights at any
+time, without notice to any respondent or other parties and without liability to any respondent or
+other parties for their costs, expenses or other obligations incurred in the preparation of a
+proposal or otherwise. All proposals become the property of the Trust.
+
+                  3.6 Proposals From Principals. Only proposals from principals and
+authorized officers will be considered responsive.
+
+                   3.7 Disclaimer. The Trust and its respective officers, directors, agents,
+members and employees make no representation or warranty and assume no responsibility for
+the accuracy of the information set forth in this RFP. Further, the Trust does not warrant or
+make any representations as to the quality, content, accuracy or completeness of the
+information, text, graphics, links or any other facet of this RFP once it has been downloaded or
+printed from any server, and hereby disclaim any liability for any technical errors or difficulties
+of any nature that may arise in connection with the Website on which this RFP is posted, or in
+connection with any other electronic medium utilized by respondents or potential respondents in
+connection with or otherwise related to the RFP.
+
+                   3.8          Protest Procedures. The procedures set forth in this section shall
+apply to all protests (collectively, “Protests” and each individually, a “Protest”) related to this
+
+                                                7
+                                                                                        FORM 12/2018
+
+
+
+
+procurement. The Trust will not entertain any Protest that is untimely or fails in any manner to
+comply fully with the procedures set forth in this section.
+
+              3.8.1 Types of Protests. There are three types of procurement Protests:
+
+                             3.8.1.1 Pre-Proposal Protest: A protest submitted prior to the
+                                      Submission Deadline to challenge the notice procedures
+                                      followed by the Trust;
+
+                             3.8.1.2 Pre-Award Protest: A protest submitted after the
+                                      Submission Deadline but before Contract execution; and
+
+                             3.8.1.3 Post-Award Protest: A protest submitted after the Contract
+                                      has been executed, but only to the extent that the protest
+                                      is based on newly discovered information that was not
+                                      available prior to execution of a Contract.
+
+              3.8.2 Submission of Protests/Deadlines. All Protests must be in writing and must
+                     be submitted in accordance with the following timeline for the following
+                     types of Protests:
+
+                             3.8.2.1 A Pre-Proposal Protest must be submitted at least two (2)
+                                      business days prior to the Submission Deadline set forth
+                                      in Part I, Section 2.2.6.3 of the RFP;
+
+                             3.8.2.2 A Pre-award Protest must be submitted five (5) business
+                                      days from the later of receipt of Notice of the Trust’s
+                                      contingent award of the Contract and the date proposals
+                                      are made publicly available; and
+
+                             3.8.2.3 A Post-award Protest must be submitted five (5) working
+                                      days from the date the protesting party knew or should
+                                      have known the newly discovered evidence that serves as
+                                      the grounds of its Protest.
+
+A Protest will be considered submitted when the Protest is received by the Trust.
+
+              3.8.3 Contents of Protest: The Protest should include, without limitation, the
+                     following information:
+
+                         3.8.3.1 name, address and telephone number of the protester;
+
+                         3.8.3.2 appropriate identification of the procurement, including the
+                                     Contract Number;
+
+                         3.8.3.3 statement of the basis of the Protest;
+
+
+                                               8
+                                                                                            FORM 12/2018
+
+
+
+
+                          3.8.3.4 supporting exhibits and documentary evidence to substantiate
+                                      the grounds for the Protest; and
+
+                          3.8.3.5 form of relief requested.
+
+               3.8.4 Address for Submission of Protests:
+
+                               Hudson River Park the Trust
+                               Pier 40, 2nd Floor
+                               353 West Street
+                               New York, NY 10014
+                               Attention: General Counsel
+
+               3.8.5 Method of Submission: Hand, Express Mail, or other nationally-known
+                      overnight courier
+
+               3.8.6 Envelope: The envelope enclosing the Protest must be clearly labeled
+                      “PROTEST” and must list the Contract Number to which the Protest
+                      relates.
+
+               3.8.7 Additional Information: The Trust may request that the protestor submit
+                      additional information that it may need in order to consider the Protest.
+                      Any additional information requested by the Trust must be submitted
+                      within the time period established by the Trust in order to expedite
+                      consideration of the Protest. Failure of the protester to comply with a
+                      request for information within the specified time period will result in a
+                      resolution of the Protest without consideration of any information
+                      subsequently submitted by the protester in an untimely manner.
+
+               3.8.8 Determinations. The Trust’s General Counsel or his/her designee has the
+                      authority to make a final determination. The Trust will respond to each
+                      substantive issue in the Protest. The Trust may, in its sole discretion, meet
+                      with the protesting respondent and any affected party to discuss the
+                      Protest. The Trust shall have the right to take such appropriate action as
+                      may be in the best interests of the Trust and the City in light of the
+                      determination.
+
+The Trust’s determination shall be final. The respondent shall have been deemed to have
+received the Trust’s determination notice no later than five (5) days from the date of mailing or
+upon delivery, if delivered by hand of the Trust’s determination.
+
+4. INTERVIEWS
+
+Interviews may be held with any or all of the respondents after the receipt of proposals.
+Interviews with the Trust will be scheduled after its initial review of proposals.
+
+
+                                                 9
+                                                                                          FORM 12/2018
+
+
+
+
+5. SELECTION
+
+The Trust will review each respondent’s proposal in its totality. The selected respondent, if any,
+will be a respondent whose proposal is most advantageous to the Trust’s goals. See Part I,
+Section 2.2.9 for an explanation of the criteria upon which the Trust will base a selection.
+
+
+
+
+                                                10
+                                                                                     FORM 12/2018
+
+
+
+
+                                      SCOPE OF SERVICES
+
+
+  I.       Description of the Trust’s Current VoIP Environment
+
+Hudson River Park Trust’s current environment consists of the following: (3) Sun SunFire V210
+servers running the BroadWorks Application Server, BroadWorks Network Server and
+BroadWorks Media Server. (1) Sun SunFire V240 server running the Broadsoft Messaging
+Server. Phones consist of models Polycom SoundPoint 650, Polycom SoundPoint 601, Polycom
+SoundPoing 550, Polycom SoundPoint 501, Polycom SoundPoint 301, Polycom SoundStation IP
+7000, Polycom SoundStation IP 4000. Connected to the AudioCodes MP-118 are the 8 backup
+POTS lines.
+
+       •   Sun SunFire V210; 2 CPUS x 1.33 GHz; SunOS 5.10; BroadWorks Application Server
+           v16.SP1.175
+       •   Sun SunFire V210; 2 CPUS x 1.33 GHz; SunOS 5.10; BroadWorks Network Server
+           v16.0.618
+       •   Sun SunFire V210; 2 CPUS x 1.33 GHz; SunOS 5.10; BroadWorks Media Server
+           v16.SP1.175
+       •   Sun SunFire V240; 2 CPUS x 1.5 GHz; SunOS 5.9; BroadWorks Messaging Server
+       •   Quantity of Phone Models:
+              o (1) Polycom SoundPoint 650
+              o (5) Polycom SoundPoint 601
+              o (5) Polycom SoundPoint 550
+              o (120) Polycom SoundPoint 501
+              o (20) Polycom SoundPoint 301
+              o (5) Polycom SoundStation IP 7000
+              o (3) Polycom SoundStation IP 4000
+       •   Other VoIP Network Devices:
+              o (1) AudioCodes Mediant 2000
+              o (5) AudioCodes MP-112
+              o (1) AudioCodes MP-118
+
+VoIP servers are managed on one VLAN (VLAN 20) and VoIP communications are on another
+VLAN (VLAN 40).
+
+
+
+
+ II.       Services Requested
+
+           A. Upgrade Solution
+
+
+
+                                                 11
+                                                                                          FORM 12/2018
+
+
+
+
+The Contractor shall provide a solution, configuration/migration and implementation for a fully
+redundant BroadSoft BroadWorks VoIP solution to replace Hudson River Park Trust’s current
+outdated BroadSoft BroadWorks VoIP server environment. Hudson River Park Trust will provide
+the following hardware:
+
+   •   (4) HPE Proliant DL380 Gen10; 2 CPUs x 2.4 GHz; 64GB RAM
+
+Option A: Full Hardware Redundant Solution – The solution should include redundant instances
+of the BroadSoft BroadWorks Application, Network, Media, and Messaging servers to support the
+quantity/models of phones described above.
+
+Option B: Redundant solution utilizing HRPT’s VMware environments. The solution should
+include redundant instances of the BroadSoft BroadWorks Application, Network, Media, and
+Messaging servers to support the quantity/models of phones described above.
+
+Option C: Combination of Options A and B.
+
+All proposed solutions must include timelines and milestones.
+
+The VoIP solution must include the following:
+
+   a. Standard telephony features: E911, Caller ID, Call Waiting, Call Forward, Call Transfer,
+      Call Hold, Music/Announcements on Hold, Direct Inward Dialing, Direct Outward
+      Dialing, Auto-Attendant, Paging, Distinctive Ring, Line Hunting, Speed Dialing, Three-
+      Way Calling, Message Waiting Indicator, Voicemail, and Local Number Portability.
+   b. An online administrative interface to facilitate end user configurations, dialing privileges,
+      and Moves, Adds and Changes.
+   c. Integration with HRPT’s email system.
+   d. Call Detail Records: administrative interface to be able to run call reports.
+   e. Auto-Attendant Features: the main line shall have Auto-Attendants and sub-menus
+      configured as required; unspecified outside calls shall be pointed to the general mailbox.
+      The Contractor will configure hunt groups as required.
+   f. Class-of-Service Restriction: The following “class of service” restrictions shall be
+      configured:
+           i. Internal only.
+          ii. Local + Long Distance.
+         iii. Long Distance (force authorization code)
+         iv. Time of Day restriction - “do not disturb” or other equivalent functions for
+              outside calls to Voice Mail only.
+
+       B. Upgrade Solution Walkthrough
+
+Required Elements of Testing and Acceptance Plan:
+The Contractor is required to provide a final System Assurance walk-through before HRPT's
+acceptance of the installation as having been completed, to insure that the service and equipment
+                                                12
+                                                                                        FORM 12/2018
+
+
+
+
+functions according to the Contractor’s proposal and specific requirements. The walk-through
+should include the following:
+
+     i. Ensure that the VoIP telephone system can meet HRPT’s general requirements as stated
+        in these specifications.
+    ii. Ensure that the VoIP system provides efficient day-to-day telephone communications,
+        including music on hold or recorded message.
+  iii. Ensure proper IP telephony service to each phone and extension assignment.
+   iv. Ensure 911 calling from any phone.
+    v. Ensure proper Auto-Attendant setup including sub-menus and hunt groups.
+   vi. Ensure proper setup and operation of DID extensions.
+  vii. Ensure proper pointing of main and rollover phone numbers to each location.
+ viii. Ensure proper operation of calling within HRPT’s site, local calling, and long-distance
+        access.
+   ix. Ensure proper operation of the fax lines, incoming and outgoing.
+    x. Ensure proper operation of the backup POTS lines.
+   xi. Ensure proper operation of the paging system.
+  xii. Ensure proper setup and operation of any audio conferencing stations.
+ xiii. Ensure proper toll quality voice and call admission control/ bandwidth being setup per
+        requirements of Vendor’s supply manufacturer of hardware/software. The Contractor
+        shall demonstrate the toll for each site and provide a report thereof.
+
+       C. Maintenance and Technical Support Plan
+
+Provide a maintenance and technical support plan based on the proposed solutions. Such plan
+should also include the annual cost for maintenance and technical support for each year for a
+three period following the installation of the upgrades. The maintenance and technical support
+plan may be included in the scope of services in the Contract Draft at the Trust’s option.
+
+
+
+
+                                               13
+                                                                                           FORM 12/2018
+
+
+
+
+                                         EXHIBIT 1 (a)
+                 RESPONDENT’S PROPOSAL CERTIFICATION FORM
+                                          Submitted by
+
+
+                   ________________________________________________
+                      [Insert Name of Respondent] (The “Respondent”)
+
+
+Respondent, in accordance with and subject to all of the terms and conditions of the Request for
+Proposals pursuant to which this proposal (the “Proposal”) is being submitted, agrees that it will
+provide in consideration of the price(s) set forth in the Fee and Cost Schedule, all of the Services
+set forth in the Scope of Services in accordance with the Contract, and to accept in full
+compensation therefore (including without limitation all overhead, profit, taxes and other charges
+and expenses applicable thereto), the price(s) stated in the Fee and Cost Schedule. The Fee and
+Cost Schedule, is simultaneously being delivered to you in a separate sealed envelope and is
+incorporated herein and made part hereof.
+
+Respondent makes the following statements and representations as part of its Proposal:
+
+       (a)     That the Respondent has examined all parts of the RFP, including the Contract
+               Draft and the Scope of Services, and all terms and conditions hereof.
+
+       (b)     That the Respondent agrees to obtain all necessary approvals, permits and/or
+               licenses required by law or regulation of the performance of the Services.
+
+       (c)     The Respondent has received the following Addenda receipt of which is hereby
+               acknowledged:
+                       Date                          Number
+               _________________              ___________________
+
+               _________________              ___________________
+
+               _________________              ___________________
+
+
+
+
+                                                14
+                                                                                          FORM 12/2018
+
+
+
+
+In order to induce the Trust to accept this Proposal, Respondent hereby agrees to abide by all of
+the terms and conditions of the Contract including, without limitation, all representation and
+warranties set forth therein.
+
+WHERFORE, the Respondent submits this Proposal to the Trust.
+
+
+
+____________________________________________________
+[INSERT NAME OF RESPONDENT]
+
+Signed by: ____________________________________________________________________
+
+
+Printed Name: _________________________________________________________________
+
+
+Title: ________________________________________________________________________
+
+
+Respondent’s Address: __________________________________________________________
+
+
+Notice Address (if different from above): ____________________________________________
+
+
+Respondent’s Telephone Number: __________________________________________________
+
+
+Respondent’s Fax Number: _______________________________________________________
+
+
+Respondent’s E-mail Address: _____________________________________________________
+
+
+Respondent’s Tax I.D. Number: ___________________________________________________
+
+
+
+
+                                                15
+                                                                                             FORM 12/2018
+
+
+
+
+                                          EXHIBIT 1 (b)
+                        SUPPLEMENTAL QUESTIONNAIRE FORM
+
+
+Submit, in writing, responses to the following questions. Wherever more space is needed to answer
+any question, or you wish to give further explanation, attach extra pages on your company
+letterhead. All questions must be answered as a part of the submittal in response to this RFP.
+1. Provide a detailed description confirming that the complete team fulfills the Minimum
+Qualification Requirements and are experienced in performing the work as indicated within the
+Scope of Services.
+
+
+
+
+2. Provide a listing of all personnel that will be assigned to this contract, including their Title or
+Position and any relevant current Licenses/Certifications that they hold. (use additional pages if
+needed)
+
+ Name                                Title/Position                 License/Certifications
+
+
+
+
+3. Submit a regulatory compliance history including Federal, New York State, New York City
+agencies including an analysis of any OSHA, ACOE, or NYS DEC, NYS Department of Labor,
+or FDNY violations issued in the last five years.
+
+
+
+
+                                                 16
+                                                                                            FORM 12/2018
+
+
+
+
+4. Provide a list of completed projects and members of staff who are qualified to perform work on
+the various systems as outlined in the Scope of Work.
+
+
+
+
+5. Submit at least three (3) references from clients of similar contracts that are ongoing or were
+   completed within last three years.
+
+ Company Name                  Telephone #:                        Contract Dates
+
+                                                                   Start-
+
+                                                                   End-
+
+ Project Description           Contact Person Name:                Contact Person Title:
+
+
+
+
+ Company Name                  Telephone #:                        Contract Dates
+
+                                                                   Start-
+
+                                                                   End-
+
+ Project Description           Contact Person Name:                Contact Person Title:
+
+
+
+
+ Company Name                  Telephone #:                        Contract Dates
+
+                                                                   Start-
+
+                                                                   End-
+
+ Project Description           Contact Person Name:                Contact Person Title:
+
+
+
+
+6. Provide photocopies of all relevant licenses and certifications for staff that will be assigned to
+   this contract.
+
+                                                 17
+                                                                                       FORM 12/2018
+
+
+
+
+7. Provide a list of additional services that the contractor is licensed to provide:
+______________________________________________
+______________________________________________
+______________________________________________
+______________________________________________
+______________________________________________
+______________________________________________
+______________________________________________
+______________________________________________
+______________________________________________
+
+
+
+
+                                                 18
+                                                                                   FORM 12/2018
+
+
+
+
+                                      EXHIBIT 2
+                             FEE AND COST SCHEDULE
+
+
+1.   The Respondent shall complete and submit a Fee and Cost Schedule in the form of the
+     “Fee and Cost Schedule” on the following pages.
+2.   The submitted Fee and Cost Schedule should cover all Services and Tasks described in
+     the Scope of Services contained in the RFP and the Contract Draft.
+3.   PLEASE BE SURE THAT YOU SUBMIT YOUR FEE AND COST SCHEDULE
+     IN A SEPARATE ENVELOPE.
+
+
+                    (See Fee and Cost Schedule on following page)
+
+
+
+
+                                           19
+                                                                                 FORM 12/2018
+
+
+
+
+                                   FEE AND COST SCHEDULE
+
+
+
+
+                                             Title of
+                                             Professional
+                                             Performing     Hourly   Number of Total
+Description of Services                      Service        Rate     Hours
+
+Discovery/Review of Current System
+
+
+
+Project Planning/Design
+
+
+
+Setup/Installation/Configuration
+
+
+
+Testing
+
+
+
+Cutover
+
+
+
+Training
+
+
+
+Documentation
+
+Maintenance and Technical Support (to be
+provided at the Trust’s option)
+
+TOTAL
+
+
+
+
+                                            20
+                                                                    FORM 12/2018
+
+
+
+
+                             EXHIBIT 3
+                  DOING BUSINESS DATA FORM
+
+                   (SEPARATE ATTACHMENT)
+
+PLEASE NOTE THIS FORM IS ALSO AVAILABLE ON THE WEBSITE AT
+     https://hudsonriverpark.org/about-us/bids-business-opportunities
+
+
+
+
+                                 21
+                                                                                                     Doing Business Data Form
+ To be completed by the City agency prior to distribution                                Agency		Transaction ID			
+ Check One		                           Transaction Type (check one)
+  Proposal          Award             Concession            Economic Development Agreement                      Franchise          Grant        Pension Investment Contract               Contract
+
+Any entity receiving, applying for or proposing on an award or agreement must complete a Doing Business Data Form (see Q&A sheet for more information). Please
+either type responses directly into this fillable form or print answers by hand in black ink, and be sure to fill out the certification box on the last page. Submission of a
+complete and accurate form is required for a proposal to be considered responsive or for any entity to receive an award or enter into an agreement.
+This Data Form requires information to be provided on principal officers, owners and senior managers. The name, employer and title of each person identified on the
+Data Form will be included in a public database of people who do business with the City of New York, as will the organizations that own 10% or more of the enitity. No
+other information reported on this form will be disclosed to the public. This Data Form is not related to the City's PASSPort registration or VENDEX requirements.
+Please return the completed Data Form to the City office that supplied it. Please contact the Doing Business Accountability Project at
+DoingBusiness@mocs.nyc.gov or 212-788-8104 with any questions regarding this Data Form. Thank you for your cooperation.
+                                                                                                                                         If you are completing this form by hand, please print clearly.
+Entity Information
+Entity EIN/TIN                                                     Entity Name
+ Filing Status                                                                     (Select One)
+ NEW: Data Forms submitted now must include the                                     Entity has never completed a Doing Business Data Form. Fill out the entire form.
+ listing of organizations, as well as individuals, with 10%
+                                                                                    Change from previous Data Form dated 		 . Fill out only those sections that have
+ or more ownership of the entity. Until such certification
+                                                                                      changed, and indicate the name of the persons who no longer hold positions with the entity.
+ of ownership is submitted through a change, new or
+ update form, a no change form will not be accepted.                                No Change from previous Data Form dated 		                                  . Skip to the bottom of the last page.
+
+
+Entity is a Non-Profit                   Yes		                     No
+Entity Type  Corporation (any type)                 Joint Venture          LLC        Partnership (any type)             Sole Proprietor        Other (specify)
+
+Address 				
+
+City 		                                                                                                        State                                           Zip
+
+Phone                                                               E-mail 			
+                                                                                                                             Provide your e-mail address in order to receive notices regarding this form by e-mail.
+
+
+Principal Officers
+Please fill in the required identification information for each officer listed below. If the entity has no such officer or its equivalent, please check "This position does not
+exist." If the entity is filing a Change Form and the person listed is replacing someone who was previously disclosed, please check "This person replaced..." and fill in the
+name of the person being replaced so his/her name can be removed from the Doing Business Database, and indicate the date that the change became effective.
+
+Chief Executive Officer (CEO) or equivalent officer                                                                                                                            This position does not exist
+The highest ranking officer or manager, such as the President, Executive Director, Sole Proprietor or Chairperson of the Board.
+
+
+First Name                                                                 MI        Last                                                                    Birth Date (mm/dd/yy)
+
+Office Title 		Employer (if not employed by entity) 		
+
+Home Address 				
+
+ This person replaced former CEO 			                                                                                                                        on date
+
+
+Chief Financial Officer (CFO) or equivalent officer                                                                                                                            This position does not exist
+The highest ranking financial officer, such as the Treasurer, Comptroller, Financial Director or VP for Finance.
+
+
+First Name                                                                 MI        Last                                                                    Birth Date (mm/dd/yy)
+
+Office Title 		Employer (if not employed by entity) 		
+
+Home Address 				
+
+ This person replaced former CFO 			                                                                                                                        on date
+
+
+Chief Operating Officer (COO) or equivalent officer                                                                                                                            This position does not exist
+The highest ranking operational officer, such as the Chief Planning Officer, Director of Operations or VP for Operations.
+
+
+First Name                                                                 MI        Last                                                                    Birth Date (mm/dd/yy)
+
+Office Title 		Employer (if not employed by entity) 		
+
+Home Address 				
+
+ This person replaced former COO 			                                                                                                                        on date
+
+
+1/2018                   For information or assistance, please contact the Doing Business Accountability Project at DoingBusiness@mocs.nyc.gov or 212-788-8104.
+Principal Owners
+Please fill in the required identification information for all individuals or organizations that, through stock shares, partnership agreements or other means, own or control
+10% or more of the entity. If no individual or organization owners exist, please check the appropriate box to indicate why and skip to the Senior Managers section.
+If the entity is owned by other companies that control 10% or more of the entity, those companies must be listed. If an owner was identified on the previous page,
+fill in his/her name and write "See above." If the entity is filing a Change Form, list any individuals or organizations that are no longer owners at the bottom of this section.
+If more space is needed, attach additional pages labeled "Additional Owners."
+There are no owners listed because (select one):
+ The entity is not-for-profit         The entity is an individual                      No individual or organization owns 10% or more of the entity
+
+Other (explain)
+
+Individual Owners (who own or control 10% or more of the entity)
+
+First Name                                                   MI      Last                                                         Birth Date (mm/dd/yy)
+
+Office Title 		Employer (if not employed by entity) 		
+
+Home Address 				
+
+First Name                                                   MI      Last                                                         Birth Date (mm/dd/yy)
+
+Office Title 		Employer (if not employed by entity) 		
+
+Home Address 			
+
+Organization Owners (that own or control 10% or more of the entity)
+
+Organization Name 				
+Organization Name 				
+
+Organization Name 				
+
+Remove the following previously-reported Principal Owners
+
+Name 			                                                                                                                          Removal Date
+
+Name 			                                                                                                                          Removal Date
+
+Name 			                                                                                                                          Removal Date
+
+Senior Managers
+Please fill in the required identification information for all senior managers who oversee any of the entity's relevant transactions with the City (e.g., contract managers if
+this form is for a contract award/proposal, grant managers if for a grant, etc.). Senior managers include anyone who, either by title or duties, has substantial discretion
+and high-level oversight regarding the solicitation, letting or administration of any transaction with the City. At least one senior manager must be listed, or the Data Form
+will be considered incomplete. If a senior manager has been identified on a previous page, fill in his/her name and write "See above." If the entity is filing a Change Form,
+list individuals who are no longer senior managers at the bottom of this section. If more space is needed, attach additional pages labeled "Additional Senior Managers."
+
+Senior Managers
+
+First Name                                                   MI      Last                                                         Birth Date (mm/dd/yy)
+
+Office Title 		Employer (if not employed by entity) 		
+
+Home Address 				
+
+First Name                                                   MI      Last                                                         Birth Date (mm/dd/yy)
+
+Office Title 		Employer (if not employed by entity) 		
+
+Home Address 			
+
+First Name                                                   MI      Last                                                         Birth Date (mm/dd/yy)
+
+Office Title 		Employer (if not employed by entity) 		
+
+Home Address 				
+
+Remove the following previously-reported Senior Managers
+
+Name 			                                                                                                                          removal date
+
+Name 			                                                                                                                          removal date
+
+ Certification
+ I certify that the information submitted on these two pages and        additional pages is accurate and complete. I understand that willful or fraudulent submission of a
+ materially false statement may result in the entity being found non-responsible and therefore denied future City awards.
+
+ Name 			                                                                                                  Title 		
+
+ Entity Name 				                                                                                                                   Work Phone #
+
+ Signature 				                                                                                                                     Date
+Please return this form to the City agency that supplied it to you, not to the Doing Business Accountability Project.                                          Standard Form
+                                                                    FORM 12/2018
+
+
+
+
+                             EXHIBIT 4
+DISCLOSURE OF NON-RESPONSIBILTY DETERMINATION FORM
+
+
+                   (SEPARATE ATTACHMENT)
+
+
+PLEASE NOTE THIS FORM IS ALSO AVAILABLE ON THE WEBSITE AT
+     https://hudsonriverpark.org/about-us/bids-business-opportunities
+
+
+
+
+                                 22
+                    Disclosure of Prior Non-Responsibility Determinations
+
+ Background:
+
+ New York State Finance Law §139-k(2) obligates Hudson River Park Trust to obtain specific
+ information regarding prior non-responsibility determinations with respect to State Finance Law
+ §139-j. This information must be collected in addition to the information that is separately
+ obtained pursuant to State Finance Law §163(9). In accordance with State Finance Law §139-k,
+ an Offerer must be asked to disclose whether there has been a finding of non-responsibility made
+ within the previous four (4) years by any Governmental Entity due to: (a) a violation of State
+ Finance Law §139-j or (b) the intentional provision of false or incomplete information to a
+ Governmental Entity. The terms “Offerer” and “Governmental Entity” are defined in State
+ Finance Law § 139-k(1). State Finance Law §139-j sets forth detailed requirements about the
+ restrictions on Contacts during the procurement process. A violation of State Finance Law §139-
+ j includes, but is not limited to, an impermissible Contact during the restricted period (for
+ example, contacting a person or entity other than the designated contact person, when such
+ contact does not fall within one of the exemptions).
+
+ As part of its responsibility determination, State Finance Law §139-k(3) mandates consideration
+ of whether an Offerer fails to timely disclose accurate or complete information regarding the
+ above non-responsibility determination. In accordance with law, no Procurement Contract shall
+ be awarded to any Offerer that fails to timely disclose accurate or complete information under
+ this section, unless a finding is made that the award of the Procurement Contract to the Offerer is
+ necessary to protect public property or public health safety, and that the Offerer is the only
+ source capable of supplying the required Article of Procurement within the necessary timeframe.
+ See State Finance Law §§139-j (10)(b) and 139-k(3).
+
+
+ Name of Individual or Entity Seeking to Enter into the Procurement Contract:
+
+
+ Address:
+
+
+
+
+ Person Submitting this Form:
+
+ Name:                                                    Title:
+
+
+ Contract Procurement Number:                             Date:
+
+
+
+
+Page 1 of 4                                                                                 Rev 5/18
+                     Disclosure of Prior Non-Responsibility Determinations
+
+ 1. Has any Governmental Entity made a finding of non-responsibility regarding the individual
+    or entity seeking to enter into the Procurement Contract in the previous four years?
+
+                No                       Yes
+
+ 2. If yes to Question #1, then was the basis for the finding of non-responsibility due to a
+    violation of State Finance Law
+    §139-j?
+
+                No                       Yes         Not Applicable
+
+ 3. If yes to Question #1, then was the basis for the finding of non-responsibility due to the
+    intentional provision of false or incomplete information to a Governmental Entity?
+
+                No                       Yes         Not Applicable
+
+ 4. If you answered yes to any of the above questions, please provide details regarding the finding
+    of non-responsibility below.
+
+Governmental Entity:
+
+Date of Finding of Non-responsibility:
+
+Basis of Finding of Non-Responsibility:
+
+
+
+
+ (Add additional pages as necessary)
+
+Page 2 of 4                                                                                    Rev 5/18
+                     Disclosure of Prior Non-Responsibility Determinations
+
+ 5. Has any Governmental Entity or other governmental agency terminated or withheld a
+    Procurement Contract with the above-named individual or entity due to the intentional
+    provision of false or incomplete information?
+
+                No                    Yes
+
+
+ 6. If yes, please provide details below.
+
+ Governmental Entity:
+
+ Date of Termination or Withholding of Contract:
+
+ Basis of Termination or Withholding:
+
+
+
+
+(Add additional pages as necessary)
+
+Offerer certifies that all information provided to Hudson River Park Trust with respect to State
+Finance Law §139-k is complete, true and accurate.
+
+
+ By:                                                      Date:
+
+
+
+ Signature:
+
+Page 3 of 4                                                                                Rev 5/18
+                 Affirmation of Understanding of and Agreement pursuant to
+                       State Finance Law § 139-j (3) and § 139-j (6)(b)
+
+
+                                     hereby affirms that it understands and agrees to comply
+ with the procedures of the Hudson River Park Trust relative to permissible contacts as required
+ by State Finance Law §139-j (3) and §139-j (6)(b).
+
+
+ Signed:                                                    Date:
+
+ Name:                                           Title:
+
+
+ Contractor Name:
+
+ Contractor Address:
+
+
+
+
+Page 4 of 4                                                                               Rev 5/18
+                                                                    FORM 12/2018
+
+
+
+
+                             EXHIBIT 5
+
+            NON-COLLUSION CERTIFICATION FORM
+                   (SEPARATE ATTACHMENT)
+
+
+PLEASE NOTE THIS FORM IS ALSO AVAILABLE ON THE WEBSITE AT
+     https://hudsonriverpark.org/about-us/bids-business-opportunities
+
+
+
+
+                                 23
+                                 CERTIFICATION AND SIGNATURE FORM
+                                    AFFIDAVIT OF NON-COLLUSION
+
+Name of Respondent:
+
+Business Name:
+
+Business Address:
+
+Phone:                             Fax:                                Email:
+
+I hereby attest that I am the person responsible within my company for the final decision as to the prices(s) and
+amount of this bid/proposal or, if not, that I have written authorization form that person to make the statements set
+out below on his or her behalf and on behalf of my company.
+
+I further attest that:
+
+    1.   The prices in this bid/proposal have been arrived at independently without collusion, consultation,
+         communication or agreement, for the purpose of restricting competition, as to any matter relating to such
+         prices with any other respondent or with any other competitor.
+
+    2.   The respondent prior to the opening has disclosed neither the price(s) nor the amount of this proposal.
+
+    3.   No attempt has been made to solicit, cause or induce any company or person to refrain from bidding on this
+         project, or to submit a bid/proposal higher than the bid/proposal of this firm, or any intent ally high or non-
+         competitive bid/proposal or other form of complementary bid/proposal.
+
+    4.   The bid/proposal of my company is made in good faith and not pursuant to any agreement or discussion
+         with, or inducement from any company or person to submit a complementary bid/proposal.
+
+    5.   My company has not offered or entered into a subcontract or agreement regarding the purchase of materials
+         or services from any other company or person, or offered, promised or paid case or anything of value to any
+         company or person, whether in connection with this or any other project, in consideration for an agreement
+         or promise by a company or person to refrain from bidding or to submit a complementary bid/proposal.
+
+    6.   I have made a diligent inquiry of all members, officers, employees, and agents of my company with
+         responsibilities relating to the preparation, approval or submission of my company's bid/proposal on this
+         project and have been advised by each of them that he or she has not participated in any communication,
+         consultation, discussion, agreement, collusion, act or other conduct inconsistent with any of the statements
+         and representations made in this affidavit.
+
+    7.   By submission of this bid/proposal I certify that I have read, am familiar with, and will comply with any
+         and all segments of these specifications.
+
+The person signing this bid/proposal, under the penalties of perjury, affirms the truth thereof.
+
+
+
+
+Signature & Company Position                                           Date Signed
+
+
+
+
+Print Name & Company Name                                              Federal ID Number
+
+                                                                                                                           Rev. 5/18
+                                                                   FORM 12/2018
+
+
+
+
+                                 EXHIBIT 6
+                          IRAN DIVESTMENT FORM
+                         (SEPARATE ATTACHMENT)
+
+
+PLEASE NOTE THIS FORM IS ALSO AVAILABLE ON THE WEBSITE AT
+https://hudsonriverpark.org/about-us/bids-business-opportunities
+
+
+
+
+                                     24
+                 IRAN DIVESTMENT ACT AFFIDAVIT OF INDIVIDUAL OR ENTITY
+
+
+
+STATE OF NEW YORK  )
+                    SS:
+COUNTY OF NEW YORK )
+
+
+
+
+                                         , BEING DULY SWORN, DEPOSES AND SAYS THAT:
+
+  1.   I am responding to a competitive procurement to provide services and/or supplies on behalf of
+                                                                  , to the HUDSON RIVER PARK TRUST
+       pursuant to competitive procurement rules and regulations.
+
+  2.   The address of the company or individual submitting the proposal is:
+
+
+  3.   The affidavit is submitted pursuant to the Iran Divestment Act of 2012 (Act), Chapter 1 of the 2012
+       Laws of New York, and New York State Finance Law (SFL), Section 165-a, effective April 12, 2012,
+       and the regulations promulgated thereunder. It is made under penalty of perjury, for the purpose of
+       showing that the respondent has no "investment activities in Iran".
+
+  4.   The respondent's taxpayer identifications number is:
+
+  5.   The respondent/contractor does hereby certify that it is not engaged in "investment activities in Iran"
+       as defined by the laws of the State of New York; nor will it invest or participate in such activities
+       during the terms of the contract.
+
+
+DATED:                     _
+
+
+
+                                         Signature
+
+
+                                          Title
+
+
+
+
+Subscribed to and sworn to before me
+This         day of                , 20____
+
+
+
+
+Notary Public
+
+
+                                                                                                    Rev. 5/18
+                                                              FORM 12/2018
+
+
+
+
+                     EXHIBIT 7
+      M/WBE, SDVOB and EO No. 177 FORMS
+
+1. EO 177 Form – Certification of Policies Against Harassment &
+   Discrimination
+
+PLEASE NOTE THE FORM IS ALSO AVAILABLE ON THE WEBSITE
+AT https://hudsonriverpark.org/about-us/bids-business-opportunities
+
+
+
+
+                         25
+                          CERTIFICATION OF INSTITUTING POLICIES
+                          AGAINST HARASSMENT & DISCRIMINATION
+
+
+
+             In accordance with Executive Order No. 177, the Bidder hereby certifies that it
+             does not have institutional policies or practices that fail to address the
+             harassment and discrimination of individuals on the basis of their age, race,
+             creed, color, national origin, sex, sexual orientation, gender identity, disability,
+             marital status, military status, or other protected status under the Human Rights
+             Law.
+
+             Executive Order No. 177 and this certification do not affect institutional policies
+             or practices that are protected by existing law, including but not limited to the
+             First Amendment of the United States Constitution, Article 1, Section 3 of the
+             New York State Constitution, and Section 296(11) of the New York State
+             Human Rights Law.
+
+
+
+                              Contractor:
+                              (Business name):            ____________________________________________
+
+                              By
+                              (Authorized signatory i):   ________________________________________
+
+
+                              Title:                      ________________________________________
+
+
+                              Date:                       _____________________
+
+
+
+
+i
+    Form by be signed by an individual officially authorized to sign on behalf of business
+
+                                                                                                         Rev. 5/18
+                        FORM 12/2018
+
+
+
+
+      EXHIBIT 8
+   CONTRACT DRAFT
+
+(SEPARATE ATTACHMENT)
+
+
+
+
+         26
+                                                                                                  FORM 12/2018
+
+
+
+
+                                      CONTRACT NO. F5094
+
+                   BROADSOFT BROADWORKS VOIP SYSTEM UPGRADE
+
+                                     [NAME OF CONTRACTOR]
+
+                                               PART I
+                                           SPECIFIC TERMS
+
+
+HUDSON RIVER PARK TRUST (the “Trust”) and the consultant, contractor or party identified below
+(each a “Contractor”), in consideration of the mutual covenants contained in the Contract (as defined
+below) and other valuable and good consideration, do hereby agree to all of the terms and conditions set
+forth in (i) these Specific Terms (Part I) set forth immediately below, (ii) the General Terms and
+Conditions (Part II) annexed hereto and made a part hereof and (iii) the Appendices (Part III) annexed
+hereto and made a part hereof.
+
+The Contractor shall provide the services (“Services”) described in Appendix B - Scope of Services and
+shall be compensated for the rendering of the Services in accordance with Part II Article II of the Contract
+and as provided in Appendix C - Fee and Cost Schedule. The Contractor must purchase and maintain
+insurance for the Term of the Contract as provided in Appendix D - Insurance. If Part I, Section 1.8
+indicates that the Contract is subject to an M/WBE Percentage Goal, the Contractor must comply with the
+M/WBE requirements provided in Appendix E - M/WBE Requirements. If Part I, Section 1.9 indicates
+that the Contract is subject to an SDVOB Percentage Goal, the Consultant must comply with the SDVOB
+requirements provided in Appendix F - SDVOB Requirements. The term “State” as referenced in
+Appendix A shall mean the State of New York and the Trust.
+
+1.      The Contract
+
+         1.1 Contract: These Specific Terms and Conditions (Part I), the General Terms and Conditions
+(Part II) and the Appendices (Part III)
+         1.2 Contract No. F5094
+         1.3 Contract Date: The date of the Contract is as of August 1, 2019
+         1.4 Commencement Date:
+         1.5 Term:
+         1.6 Maximum Contract Price:
+         1.7 Project: BroadSoft BroadWorks VOIP System Upgrade
+         1.8 M/WBE Participation Goal: N/A
+         1.9 SDVOB Participation Goal: N/A
+
+2.      Parties
+
+        2.1 The Trust: Hudson River Park Trust, a public benefit corporation of the State of New York.
+        2.2 The Contractor: [Insert legal Name of Contractor], a New York [or if not NY, insert State]
+               [Insert “individual”, “Trust”, “partnership”, or “limited liability company”], having an
+               office at:
+
+                  [Insert Street Address]
+                  [Insert City, State and Zip Code]
+                                                      27
+                                                                                                 FORM 12/2018
+
+
+
+
+                Federal Tax ID# [Insert]
+
+        2.3 Contractor’s Contact Person: [Insert Name and Title]
+        2.4 Trust’s Contact Person: [Insert Name and Title]
+
+3.      Notice Parties and Addresses
+
+Any notice, approval, consent, acceptance, request, bill, demand or statement required or permitted to be
+given hereunder ("Notice") from either party to the other shall be in writing and shall be deemed given
+when received by overnight mail or when deposited with the United States Postal Service in a postage
+prepaid envelope, certified or registered mail, addressed to the other party at the addresses set forth
+below.
+
+        3.1 Notices to the Trust:
+
+                Hudson River Park Trust
+                353 West Street, Pier 40, 2nd Floor
+                New York, N.Y. 10014
+                Attn: General Counsel
+
+               with a copy to:
+
+               Hudson River Park Trust
+               353 West Street, Pier 40, 2nd Floor
+               New York, N.Y. 10014
+               Attn: Edison Yung, Chief Information Officer
+
+        3.2 Notices to the Contractor:
+
+                [Insert Name of Contactor]
+                [Insert Street Address]
+                [Insert City, State and Zip Code]
+                Attn: [Insert Name and Title]
+
+
+
+
+                                                      28
+                                                                                                FORM 12/2018
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have executed the Contract as of the Contract Date
+here above written.
+
+
+HUDSON RIVER PARK TRUST                         [INSERT CONTRACTOR NAME]
+
+
+
+By: ____________________________ By: ___________________________
+[Insert name of company officer]        [Insert name of company officer]
+[Insert title of company officer]       [Insert title of company officer]
+
+
+
+STATE OF NEW YORK     )
+                      ) ss.:
+COUNTY OF ___________)
+
+On this ____ day of ______________, 2019 before me personally came ___________________ to me
+known, who being duly sworn, did depose and say that he/she is the [Insert Title] of the Hudson River
+Park Trust, and the said person described in and who executed the foregoing instrument, and he/she
+acknowledged that he/she executed same in his/her official capacity and for the purpose mention therein.
+
+
+                                                ______________________
+                                                Notary Public
+
+
+STATE OF NEW YORK   )
+                   ) ss.:
+COUNTY OF NEW YORK)
+
+On this ____ day of______________, 2019, before me personally came _________________ to me
+known, who being duly sworn, did depose and say that he/she is [Insert Title] of [Company], and the said
+person described in and who executed the foregoing instrument, and he/she acknowledged that he/she
+executed same in his/her official capacity and for the purpose mention therein.
+
+
+                                                _______________________
+                                                Notary Public
+
+
+
+
+                                                   29
+                                                                                                      FORM 12/2018
+
+
+
+
+                                         PART II
+                              GENERAL TERMS AND CONDITIONS
+
+                                           ARTICLE I
+                                    PERFORMANCE OF SERVICES
+
+1. Supervision by the Trust. Services shall be subject to the general supervision and direction of the
+    Trust or its authorized representative, whose decision shall be final and binding upon the Contractor
+    as to all matters arising in connection with or relating to the Contract. Neither the Trust’s exercise
+    nor failure to exercise such supervision and direction shall relieve the Contractor of any of its
+    obligations or responsibilities for its acts or failure to act with regards to the Contract. The Trust shall
+    reasonably determine all matters relative to the fulfillment of the Contract on the part of the
+    Contractor and such determination shall be final and binding on the Contractor.
+
+2. Approvals or Acceptance by the Trust. Whenever action is to be taken, or approval or acceptance
+    given by the Trust, such action, approval or acceptance shall be deemed to have been taken or given,
+    only if so taken or given by the Trust’s representative, by the official of the Trust who signed the
+    Contract on behalf of the Trust, or by another officer or employee of the Trust duly designated by
+    such signing officer to represent the Trust in connection therewith. The Trust shall notify the
+    Contractor in writing of the giving or withholding of each such approval or acceptance within a
+    reasonable period of time. The Trust’s acceptance or approval of documents or other materials
+    prepared by the Contractor hereunder shall in no way relieve the Contractor of responsibility for such
+    materials.
+
+3. Contractor Cooperation. The Contractor shall work with and exchange information with such
+    entities or individuals in connection with the Services as the Trust shall designate from time to time,
+    and agrees to meet with such entities or individuals at such times as the Trust may require in order to
+    maintain an ongoing review process to expedite determinations and approvals required to be made in
+    connection with the Services.
+
+4. Contact Persons. The Trust will designate in writing an individual who will serve as the Trust’s
+    representative and normal point of contact for the Contractor with regards to the Contract and the
+    Contractor’s Services and obligations hereunder. The Contractor shall designate in writing to the
+    Trust one individual, satisfactory to the Trust, who shall be responsible for coordinating all Services
+    to be rendered by the Contractor and who shall be the Trust’s normal point of contact with the
+    Contractor on matters relating to such Services. Such individual shall be replaced upon the Trust’s
+    written request. The Trust and Contractor may from time to time change this designation by
+    notification to the other party.
+
+5. Approval of Subcontractors and Subcontracts. The Contractor shall not employ, contract with or
+    use the services of any consultant, contractor, or other third party (collectively “Subcontractor(s)”)
+    in connection with the performance of its obligations under the Contract without the prior written
+    consent of the Trust. The Contractor shall inform the Trust in writing of the name, proposed service to
+    be rendered, and compensation of the Subcontractors, and of any interest it may have in the proposed
+    Subcontractors. The Contractor shall be responsible for the performance of the Services of any
+    Subcontractors engaged, including the maintenance of budgets, cost controls, and schedules,
+    coordination of their work and resolutions of all differences between or among the Contractor and
+    Subcontractors. It is expressly understood and agreed that all Subcontractors engaged by Contractor
+    hereunder shall at all times be deemed engaged by the Contractor and not by the Trust. The
+
+                                                      30
+                                                                                                    FORM 12/2018
+
+
+
+
+   Contractor shall cause any Subcontractor employed by the Contractor in connection with the Contract
+   to be bound to the terms and conditions of the Contract to the extent such terms and conditions are, or
+   may be, applicable to such Subcontractors. All subcontracts held by the Contractor (“Subcontracts”)
+   must include the following provisions:
+
+      (a) there is no privity of contract between the Subcontractor and the Trust;
+      (b) the Trust will not incur any liability by virtue of any act, omission, negligence, or obligation of
+          the Subcontractor or the Contractor;
+      (c) the Subcontractor shall indemnify, defend and hold harmless the Indemnitees (defined in
+          Article V) against any and all claims, judgments or liabilities to which they may be subject
+          (including, without limitation, any and all claims for injuries to persons (including death) and
+          damage to property) because of any negligence or any fault or default of the Subcontractor, its
+          agents, employees or subcontractors or the breach of the Subcontractor’s obligations under the
+          Subcontract;
+      (d) the Subcontractor’s payment requisitions shall conform to the same requirements for
+          Contractor’s payment requisitions and include the representations and warranties set forth in
+          Article III hereof;
+      (e) the termination provisions for cause and convenience set forth in Article IV herein shall be
+          included in the Subcontract;
+      (f) the Subcontract may be assigned without the written consent of the Subcontractor to the Trust
+          or any other corporation, agency or instrumentality having authority to accept the assignment;
+          and
+      (g) all services performed under the Subcontract shall strictly comply with the requirements of the
+          Contract.
+   If the Contractor fails to include the provisions set forth in this Subsection 5 in any Subcontract, the
+   Contractor hereby agrees to indemnify, defend and hold harmless the Trust and their representatives
+   against any and all claims, damages, awards, judgments, liabilities, expenses, fines, penalties, costs
+   and/or fees incurred by or imposed upon the Trust and their representatives, including reasonable
+   attorney fees, as a result of said failure.
+
+6. Contractor as Independent Contractor. Notwithstanding any other provisions of the Contract, the
+   Contractor’s status (and that of any Subcontractor) shall be that of an independent contractor and not
+   that of an agent or employee of the Trust. Accordingly, neither the Contractor nor any Subcontractor
+   shall hold itself out as, or claim to be acting in the capacity of, an employee or agent of the Trust.
+
+7. Contractor to Obtain Permits. Except as otherwise instructed in writing by the Trust, the
+   Contractor shall obtain and comply with all legally required licenses, consents, approvals, orders,
+   authorizations, permits, restrictions, declarations and filings required to be obtained by the Trust or
+   the Contractor in connection with the Contract.
+
+8. Contractor to Comply with Legal Requirements. The Contractor, in performing its obligations
+   and in preparing all documents required under the Contract, shall comply with all applicable laws and
+   regulations to be included in the Contract. All applicable laws and regulations shall be deemed to be
+   included in the Contract with the same effect as if set forth in full.
+
+9. Increase or Decrease in the Scope of Services. The Trust shall have the right to make changes to,
+   and/or increase or decrease the Scope of the Services or to extend the Term at any time and for any
+   reason upon notice to Contractor specifying the nature and extent of such changes. In the event any
+   such changes result in a reduction of the scope of services, the Maximum Contract Price will be
+   correspondingly reduced to reflect the deleted services. In the event any such changes result in an
+                                                     31
+                                                                                                 FORM 12/2018
+
+
+
+
+    additional expenditure of time by the Contractor or Subcontractors, the Trust and the Contractor shall
+    negotiate an additional fee for such changes evidenced in an amendment to the Contract.
+
+                                          ARTICLE II
+                                      PAYMENT OF SERVICES
+1. Payments.
+    (a) Subject to, and in accordance with this Article II, the Trust shall pay to the Contractor, and the
+        Contractor agrees to accept in full consideration for the Services, and for all expenses of the
+        Contractor in connection therewith, including Subcontractors’ costs and reimbursable expenses,
+        an amount not to exceed the Maximum Contract Price, payable in accordance with this Article
+        II and as provided in Appendix C.
+    (b) Requisitions shall be in a form reasonably acceptable to the Trust and shall be supported by any
+        appropriate or necessary documentation or other evidence relating to the amounts set forth in
+        the requisition as the Trust may reasonably require including, but not limited to invoices,
+        receipts and vouchers from Subcontractors and suppliers, and, where applicable, the time sheets
+        and/or certified payroll reports of the Contractor’s staff. Each requisition submitted to the Trust
+        by the Contractor shall constitute a representation that, except as specifically set forth in the
+        requisition, as of the date of the requisition, all representations and warranties made by the
+        Contractor in Article III are true, complete and accurate as if made as of the date of the
+        submission of the requisition. Thereafter, the Trust shall approve the requisition if the Services
+        have been satisfactorily performed in accordance with the Contract.
+    (c) The Contractor, with the Trust’s prior approval, may exceed the maximum payment allocated
+        to a particular portion of the Services if the Contractor by notice determines that the maximum
+        payment initially allocated to the portion is insufficient to adequately perform the portion of the
+        Services and if the Contractor demonstrates to the Trust a savings with respect to another
+        portion of the Services which is at least equal to the amount of such excess. However,
+        notwithstanding the above, in no event shall the Trust pay the Contractor more than the
+        Maximum Contract Price.
+
+2. Acceptance of Final Payment/Release and Discharge. The acceptance by Contractor of the final
+   payment under the Contract, or any final payment due on earlier termination of the Contract under
+   Article IV, shall constitute a full and complete waiver and release of the Trust from any and all
+   claims, demands and causes of action whatsoever that the Contractor, and/or its successors and
+   assigns, have, or may have, against the Trust under the provisions of the Contract, unless a detailed
+   and verified statement of claim is served upon the Trust not later than fifteen (15) days after the
+   making of the final payment. In the absence of a verified statement of claim, if the Contractor
+   performs Services that involve maintenance, repairs or minor construction, the Contractor must
+   supply the Trust with lien waivers for itself and its Subcontractors along with its request for final
+   payment. It is expressly understood and agreed that the Trust’s or Contractor’s termination of the
+   Contract pursuant to Article IV hereof shall not give rise to any claims against the Trust for damages,
+   compensation, or otherwise as a result of such termination, and that under such circumstances, the
+   Trust’s liability to make payments to Contractor on account of any and all Services shall be limited to
+   the payments set forth in this Article II and as provided in Appendix C.
+
+                                       ARTICLE III
+                             REPRESENTATIONS AND WARRANTIES
+
+1. Representations and Warranties.
+
+      (a) The Contractor represents and warrants to the Trust that:
+                                                    32
+                                                                                               FORM 12/2018
+
+
+
+
+      (i)   no public official is directly or indirectly interested in the Contract, or in the supplies,
+            materials, equipment, work, labor or Services to which it relates or in any of the profits
+            thereof;
+      (ii) except as set forth in the Contract, the Contractor has, and shall have, no interest, direct
+            or indirect, in the project to which the Services relate;
+      (iii) to the best of its knowledge, upon due inquiry, no officer, member, partner or employee
+            of the Contractor has, prior to the date of the Contract, been called before a grand jury,
+            head of a state agency, head of a city department or other city agency to testify in an
+            investigation concerning any transaction or contract had with the State of New York,
+            any political subdivision thereof, a public authority, or with any public department,
+            agency or official of the State of New York of or any political subdivision thereof and
+            refused to sign a waiver of immunity against subsequent criminal prosecution or to
+            answer any relevant question concerning such transaction or contract; and
+      (iv) it has not employed any person, trust or partnership to solicit or procure the Contract,
+            and has not made, and will not make, any payment or agreement for the payment of any
+            commission, percentage, brokerage, or contingent fee, or other compensation in
+            connection with the procurement of the Contract.
+
+(b) The Contractor represents and agrees that:
+
+     (i)     recognizing that time for completion of the Services is of the essence, the Contractor
+             shall perform all of its obligations hereunder in a prompt, efficient and professional
+             and/or workman like manner with the skill and care of similarly licensed professionals
+             and in accordance with the time periods for the Services set forth herein;
+     (ii)    The Contractor, its personnel assigned to perform the Services, and any Subcontractors
+             engaged by the Contractor in the performance of the Contractor’s obligations hereunder
+             are qualified in all respects for such assignment and have the experience and expertise in
+             projects of similar scope and complexity to the Services. All such assigned personnel
+             and Subcontractors are subject to approval by the Trust, which approval shall not be
+             unreasonably withheld, and the Trust may direct the Contractor to replace assigned
+             personnel at any time; the Contractor’s personnel assigned to perform the Services shall
+             be available to the Trust during normal working hours and at other times as may be
+             additionally needed upon notice from the Trust for project meetings, public meetings,
+             site supervision, field visits and inspections;
+     (iii)   The Contractor, in the performance of its obligations hereunder, shall utilize efficient
+             available methodology and technology for the purpose of reducing the cost and time of
+             such performance;
+     (iv)    The Contractor shall use good faith efforts to protect and further the Trust’s interests in
+             performing such Services recognizing the need for trust and confidence in the
+             relationship between the Contractor and the Trust with regards to the Services to be
+             performed hereunder;
+     (v)     The Contractor shall comply with the provisions of all Federal, State and local statutes,
+             laws, rules, ordinances and regulations that are applicable to the performance of the
+             Contract;
+     (vi)    The Contractor shall diligently render to the Trust any and all assistance which may be
+             required by the Trust should any claim be made or any action be brought against the
+             Trust which states a cause of action related to the Services; and
+     (vii)   The Contractor shall not commit its personnel to, nor engage in, any other projects
+             during the term of the Contract to the extent that such projects may adversely affect the
+                                                33
+                                                                                                     FORM 12/2018
+
+
+
+
+                 quality or efficiency of the Services or would otherwise be detrimental to the conduct
+                 and completion of the Services, and the Contractor shall provide sufficient numbers of
+                 qualified personnel as shall be required to perform the Services in the time requested by
+                 the Trust.
+
+2. Conflict of Interest. Contractor represents and warrants that:
+
+      (a) Contractor has not now, and will not, for a period of one (1) year following expiration of the
+          Contract, acquire any interest, direct or indirect, present or prospective, in the project to which
+          the Contractor’s work relates or the real estate which is the subject of the project, has not
+          employed and will not knowingly employ in connection with work to be performed hereunder
+          any person or entity having any such interest during the Term of the Contract.
+
+      (b) Contractor shall not knowingly permit any officer, employee, agent or director of the Trust or
+          any of its subsidiaries to share in any benefits that arise from the Contractor’s work.
+
+      (c) Contractor shall not knowingly permit any officer, employee, agent or director of the Trust, or
+          any of its subsidiaries to participate in any decision relating to the Contract that affects the
+          personal interest of the aforementioned individuals, or the interests of any Trust, partnership, or
+          association in which those individuals are directly or indirectly interested; nor shall any officer,
+          agent, director or employee of the Trust, or any of its subsidiaries be permitted by the
+          Contractor to have any interest, direct or indirect, in the Contract or the proceedings thereof.
+          (a)
+      (d) Contractor shall cause, for the benefit of the Trust, every contract or agreement with any
+          Subcontractor to include the representations contained in subsections (a), (b), and (c) of this
+          Subsection 2. The Contractor shall take such action in enforcing such provisions as the Trust
+          may direct, or, at Contractor’s option, assign such rights as it may have to the Trust for
+          enforcement by the Trust.
+
+
+
+                                      ARTICLE IV
+                     DELAYS, SUSPENSION OF SERVICES, TERMINATION
+
+1. Notice of Overruns and Delays. The Contractor shall promptly give written notice to the Trust
+   representative of the occurrence of an event or action, the discovery of a condition or the failure of an
+   event or action to occur or a condition to exist as anticipated, that may result in an increase in (a) the
+   compensation due Contractor; (b) reimbursable expenses and/or; (c) the number of hours necessary to
+   perform the work or which may delay completion of the work (or extend the completion date). For
+   purposes of this provision, “promptly” shall mean as soon as possible but in no event more than (3)
+   business days after Contractor’s discovery of the occurrence, condition or failure which gives rise to
+   the subject increase and/or delay.
+
+2. Disputes. If at any time the Contractor believes that there is: (1) a condition that will entitle it to
+   additional compensation; (2) a change in the schedule for completion of the Services; or (3) another
+   issue arising out of terms, conditions, or the respective parties’ fulfillment of their obligations under
+   the Contract (“Dispute”), within fifteen (15) days after the Contractor has knowledge, or should have
+   known, of the occurrence of a Dispute, the Contractor shall deliver a written notice to the Trust
+   stating the general nature of such Dispute. Senior executives of the parties shall negotiate in good
+   faith to resolve any Disputes. Pending the resolution of any Dispute, the Contractor shall diligently
+                                                     34
+                                                                                                    FORM 12/2018
+
+
+
+
+    continue to perform all Services under the Contract, including the Services that are the subject of such
+    Dispute. Written notification and good faith negotiation shall be a condition precedent to the
+    maintenance of any legal proceeding. The Contractor shall represent that it has complied with the
+    condition precedent in its initial notice and pleading in any legal proceeding instituted by the
+    Contractor or by the Trust.
+
+3. Suspension of Services. The Trust may, at any time and for any reason and by written notice thereby
+   (“Suspension Notice”), direct the Contractor to delay or suspend the services or any part thereof
+   under the Contract for a period of time not to exceed ninety (90) days. The Suspension Notice shall
+   specify the period during which such services are to be delayed or suspended. The Contract shall
+   automatically terminate after ninety (90) days’ suspension or delay unless the Trust and the
+   Contractor agree in writing to continue the Contract upon the same or newly negotiated terms, and the
+   Trust and the Contractor execute a “Release of Claims” with regards to the period of suspension or
+   delay. The Contractor shall resume such services upon the date the Trust may thereafter specify in
+   writing upon reasonable notice to Contractor. If the Contract is delayed, suspended or terminated, the
+   Contractor shall be entitled upon such delay, suspension or termination to payment of that portion of
+   the fee and reimbursable costs that have not been paid to Contractor commensurate with the Services
+   actually and satisfactorily performed by the Contractor prior to the date of delay, suspension or
+   termination. The Contractor shall not be entitled to any fee during the period of delay or suspension
+   unless the Trust, in its sole and absolute discretion, decides that the payment (and amount) of a fee is
+   reasonable under the particular circumstances that gave rise to the suspension or delay.
+
+4. Termination for Convenience. The parties acknowledge that the Trust may, at any time for the
+   Trust’s convenience and without cause, terminate the Contract without incurring any penalty or
+   damages on account of such termination upon seven (7) days’ written notice to the Contractor. In the
+   event of such termination, the Trust shall pay the Contractor for services actually and satisfactorily
+   performed by Contractor up to the date of such termination plus Trust-approved out-of-pocket
+   expenses incurred by the Contractor. The Contractor agrees to cause any agreement or contract
+   entered into by the Contractor with any Subcontractors to contain a termination for convenience
+   clause consistent with the provisions of this Subsection 4.
+
+5. Default by Contractor. The Trust may terminate the Contract for cause, including:
+
+      (a) a material breach of any covenant or agreement contained in the Contract;
+      (b) if the Contractor shall default in the timely performance of any of its obligations under the
+          Contract and such default shall continue for a period of three (3) days after written notice from
+          the Trust specifying the occurrence, omission or failure giving rise to such default, or if in the
+          opinion of the Trust, by reason of the nature of such default, such default cannot be cured
+          within such three (3) day period and the Contractor has not promptly prosecuted the curing of
+          such default;
+      (c) the Contractor shall fail to diligently, timely and expeditiously perform its obligations set forth
+          in the Contract;
+      (d) any representation or warranty made or deemed to have been made under the Contract by the
+          Contractor shall prove to be untrue in any material respect; or
+      (e) the Contractor shall make a general assignment for the benefit of its creditors, or a receiver or
+          trustee shall have been appointed on account of Contractor’s insolvency, or Contractor
+          otherwise shall be or become insolvent, or an order for relief shall have been entered against
+          Contractor under Chapter 7 or Chapter 11 of Title 11 of the United States Bankruptcy Code.
+
+
+                                                     35
+                                                                                                  FORM 12/2018
+
+
+
+
+    In addition to any other remedies or claims that the Trust may have with respect to such
+    representation or such default, the Trust may terminate the Contract immediately upon three (3) days’
+    written notice to the Contractor. In the event of such termination, the Trust, without waiving any
+    such remedy or claims, (including consequential damages) shall pay the Contractor that portion of the
+    fee and reimbursable costs, not paid to the Contractor, commensurate with those Services actually and
+    satisfactorily performed by the Contractor up to the date of such termination, provided, however, that
+    the Trust shall deduct from any amounts due to the Contractor for additional costs and expenses that
+    the Trust may incur in connection with the completion of the Services by another contractor(s) or
+    consultant(s).
+
+    The Contractor agrees to cause any agreement or contract entered into by the Contractor with any
+    Subcontractors to contain a termination for default clause consistent with the provisions of this
+    Subsection 5.
+
+6. Discontinuance of Services Upon Termination. Upon termination of the Contract the Contractor
+   shall:
+
+      (a) discontinue all its Services from and after the date of the notice of termination, except as may
+          be required to complete any item or portion of services to a point where discontinuance will not
+          cause unnecessary waste or duplicative work or cost as directed by the Trust;
+
+      (b) cancel, or if so directed by the Trust, assign to the Trust any and all commitments and
+          agreements made by the Contractor relating to the Services to the extent same are cancelable or
+          assignable by the Contractor.
+
+      (c) transfer to the Trust in the manner, to the extent, and at the time directed by the Trust, all
+          supplies, materials and other property produced (including warranties) as a part of, or acquired
+          in, the performance of the Services; and
+
+      (d) take any other actions as the Trust may reasonably direct.
+
+                                        ARTICLE V
+                              INDEMNIFICATION AND INSURANCE
+
+1. Indemnification. Notwithstanding anything to the contrary contained herein, the Contractor shall be
+   responsible for all injuries to persons, including death, or damage to property sustained while
+   performing or resulting from the Services under the Contract, if and to the extent the same results
+   from any act, omission, negligence, fault or default of Contractor or Subcontractors, or their
+   employees, agents, servants, independent contractors or subcontractors retained by Contractor
+   pursuant to the Contract. Contractor agrees to defend, indemnify and hold the Trust, the State of New
+   York, the New York State Office of Parks, Recreation and Historic Preservation, the New York State
+   Department of Environmental Conservation, the City of New York, the New York City Department
+   of Parks and Recreation and each of their respective commissioners, directors, officers, agents and
+   employees (collectively the “Indemnitees”) harmless from any and all claims, judgments and
+   liabilities, including but not limited to claims, judgments and liabilities for injuries to persons
+   (including death) and damage to property if and to the extent the same results from any act, omission,
+   negligence, fault or default of Contractor or its Subcontractors, or their agents, employees, servants,
+   independent contractors and subcontractors and from any claims against, or liability incurred by the
+   Indemnitees by reason of claims against Contractor or its Subcontractors, or their employees, agents,
+   servants, independent contractors and subcontractors for any matter whatsoever in connection with
+                                                    36
+                                                                                                    FORM 12/2018
+
+
+
+
+    the Services performed under the Contract, including, but not limited to, claims for compensation,
+    injury or death, and agree to reimburse the Indemnitees for reasonable attorney’s fees incurred in
+    connection with the above. Contractor shall be solely responsible for the safety and protection of all
+    its Subcontractors, or the employees, agents, servants, independent contractors, or subcontractors of
+    Contractor or its Subcontractors, and shall assume all liability for injuries, including death, that may
+    occur to said persons due to the negligence, fault or default of Contractor, its Subcontractors, or their
+    respective agents, employees, servants, independent contractors or subcontractors.
+
+    This Subsection 1 shall survive the expiration or earlier termination of the Contract.
+
+2. Insurance. At all times during the performance of the Services or for such other time periods as the
+   Trust may require, the Contractor, at its sole cost and expense, shall purchase and maintain the
+   insurance described in Appendix D unless the Trust determines, in its sole and absolute discretion,
+   that such insurance limits warrant a reduction due to a material change in the Project or the Services.
+
+                                     ARTICLE VI
+                       DOCUMENTS, CONFIDENTIALITY AND RECORDS
+
+1. Ownership of Documents.
+
+      (a) All originals, negatives, and electronic copies of all plans, drawings, reports, photograph,
+          charts, programs, models, specimens, specifications, and other documents or materials required
+          to be furnished by the Contractor under the Contract including drafts and reproduction copies
+          thereof (“Documents”), shall be and remain the exclusive property of the Trust, and the Trust
+          shall have the right to publish, transfer, sell, license and use all or any part of such reports,
+          plans, drawings, specification and other documents without payment of any additional royalty,
+          charge or other compensation to the Contractor. If the Documents are altered by the Trust or its
+          agents, the Trust holds the Contractor harmless from any liability for such use.
+
+      (b) The Contractor agrees that it shall not publish, transfer, license or, except in connection with
+          carrying out its obligations under the Contract, use or reuse all or any part of the Documents,
+          excluding the Contractor’s “Underlying Intellectual Property” (as defined hereinafter),
+          without the prior written approval of the Trust, except that the Contractor may retain copies of
+          such reports and other documents for general reference use.
+
+      (c) The Contractor’s Underlying Intellectual Property means the analytical concepts, approaches,
+          methodologies, or formats developed by the Contractor’s staff, and other materials not prepared
+          for delivery to the Trust and also includes any derivatives, improvements, enhancements or
+          extensions of the Contractor’s Underlying Intellectual Property conceived, reduced to practice,
+          or developed during the Term of the Contract that are not uniquely applicable to the Documents
+          prepared for the Trust under the Contract.
+
+      (d) The Contractor represents and warrants that, except for material which is in the public domain
+          and non-original material, the Documents:
+
+           (i) shall be wholly original material not published elsewhere;
+           (ii) shall not violate any copyright, trademark or other applicable law; and
+           (iii) shall not, to the best of Contractor’s knowledge, constitute a defamation or invasion of
+                 the right of privacy or publicity, or an infringement of any kind, of any rights of any
+                 third party.
+                                                     37
+                                                                                                  FORM 12/2018
+
+
+
+
+      (e) The Contractor shall not make any unauthorized use of copyrighted, trademarked or other
+          protected materials or intellectual property and agrees to defend, indemnify and hold harmless
+          the Trust and their respective officers, officials, agents, members, directors, and employees
+          against any damage or liability arising out of the Contractor’s infringement or unauthorized use
+          of any such material or property.
+
+2. Confidentiality. The Contractor hereby agrees that all documents, data, recommendations, reports
+   and other materials developed in the course of the Services authorized by the Contract are strictly
+   confidential between the Contractor and the Trust and the Contractor may not at any time reveal or
+   disclose such materials in whole or in part to any third party without first obtaining written
+   permission from the Trust. Notwithstanding the preceding sentence, the Contractor shall cooperate
+   fully with such third parties as the Trust may designate by written request.
+
+3. Maintenance, Audit and Examination of Records. Pursuant to Section 10 of the Standard Clauses
+   for NYS Contracts (attached hereto as Appendix A), the Contractor and its Subcontractors must
+   maintain their respective books and records for examination and audit as specifically detailed therein.
+   In the event of non-compliance thereof, the Trust shall not pay the Contractor any portion of the fee
+   then due or becoming due, as the case may be, with respect to such non-compliance, and if such fee
+   has already been paid, the Trust may require the Contractor to refund such fee. In addition, the
+   Contractor shall be responsible for any audit costs incurred by the Trust as a result of such non-
+   compliance.
+
+
+                                         ARTICLE VII
+                                 OTHER STANDARD PROVISIONS
+
+1. No Waiver. Failure by the Trust to insist upon the strict performance of any term or condition of the
+   Contract or to exercise any right or remedy consequent upon a breach thereof, and no acceptance of
+   full or partial performance during the continuance of any such breach shall constitute a waiver of any
+   such breach or such term or condition. No term or condition of the Contract to be performed or
+   complied with by Contractor, and no breach thereof, shall be waived, altered or modified except by a
+   written instrument executed by the Trust. No waiver of any breach shall affect or alter the Contract,
+   but each and every term and condition of the Contract shall continue in full force and effect with
+   respect to any other then existing or subsequent breach thereof. Contractor hereby waives any and all
+   rights and remedies to which Contractor might otherwise be or become entitled to because of any
+   wrongful act or omission of the Trust saving only Contractor’s right to money damages.
+
+2. Provisions Required by Law Deemed Inserted. Each and every provision of law and governmental
+   regulation required by law to be inserted in the Contract shall be deemed to be inserted therein and
+   the Contract shall read and enforced as though so included therein, and if through mistake or
+   otherwise any such provision is not inserted, or is not correctly inserted, then upon the application of
+   either party, the Contract shall be deemed to be amended to make such insertion or correction. If the
+   Contract contains any unlawful provision, the same shall be deemed of no effect and shall, upon the
+   application of either party, be deemed stricken from the Contract without affecting the binding force
+   of the remainder.
+
+3. Reimbursement of Legal Fees. In the event that Contractor and the Trust are involved in a legal
+   proceeding relating to any part of the Contract, Contractor shall reimburse the Trust for all costs
+   associated with said legal proceeding, including, but not limited to, court costs and reasonable
+                                                    38
+                                                                                                    FORM 12/2018
+
+
+
+
+    attorney’s fees incurred by the Trust where: (1) during said legal proceeding, a final determination by
+    a neutral third party finds the Contractor to have materially breached the terms of the Contract; or (2)
+    Contractor initiates said legal proceedings against the Trust and/or its directors, officers, or employees
+    and Contractor does not prevail in such action.
+
+4. Assignment by the Trust. The Trust may transfer and assign any and all of its rights and obligations
+   under the Contract, including transferring and assigning its rights to the Contractor’s performance of
+   any portion of the Services provided for herein, together with the Trust’s obligations and rights
+   pertaining to such portion of Services, to any partnership, trust, governmental agency or department
+   or other entity that the Trust determines has undertaken or will undertake any part of the Contract.
+   The Trust shall provide the Contractor written notice of any such transfer and assignment. Such
+   transfer and assignment shall relieve the Trust of any further liability or obligation hereunder.
+
+5. Entire Agreement/Amendment. The Contract constitutes the entire agreement between the parties
+   hereto and no statement, promise, condition, understanding, inducement, or representation, oral or
+   written, express or implied, which is not contained in the Contract shall be binding or valid and the
+   Contract shall not be changed, modified or altered in any manner except by an instrument in writing
+   executed by the parties hereto.
+
+6. Interests of Others. Nothing in the Contract shall be construed to give any person other than the
+   Trust and Contractor any legal or equitable right, remedy or claim. The Contract shall be held to be
+   for the sole and exclusive benefit of the Trust and Contractor.
+
+7. Modification. No change, termination or attempted waiver of any of the provisions of the Contract
+   shall be binding unless evidenced in a writing signed by both parties.
+
+8. Severability. If any term or provision of the Contract or the application thereof to any person or in
+   any circumstance shall to any extent be determined to be invalid or unenforceable, the remaining
+   provisions of the Contract, or the application of such terms or provisions to persons or circumstances
+   other than those as to which it is found to be invalid or unenforceable, shall in no way be affected
+   thereby, and each term and provision of the Contract shall be valid and binding upon the parties, and
+   enforced to the fullest extent permitted by law.
+
+9. Counterparts and Captions. The Contract may be executed in one or more counterparts, each of
+   which shall be deemed to be an original. Captions contained in the Contract are inserted only as a
+   matter of convenience and shall not affect the construction or interpretation of any of the provisions
+   hereof.
+
+
+
+
+                                                     39
+                                                             FORM 12/2018
+
+
+
+
+                            PART III
+                          APPENDICES
+
+
+APPENDIX A   STANDARD CLAUSES FOR NEW YORK STATE CONTRACTS
+
+APPENDIX B   SCOPE OF SERVICES
+
+APPENDIX C   FEE AND COST SCHEDULE
+
+APPENDIX D   INSURANCE REQUIREMENTS
+
+
+
+
+                                 40
+                                                FORM 12/2018
+
+
+
+
+                 APPENDIX A
+
+STANDARD CLAUSES FOR NEW YORK STATE CONTRACTS
+
+
+
+
+                     41
+                                                                                       FORM 12/2018
+
+
+
+
+                                  TABLE OF CONTENTS
+                                                                                            Page
+
+ 1.   Executory Clause                                                                           3
+ 2.   Non-Assignment Clause                                                                      3
+ 3.   Comptroller’s Approval                                                                     3
+ 4.   Workers’ Compensation Benefits                                                             3
+ 5.   Non-Discrimination Requirements                                                            3
+ 6.   Wage and Hours Provisions                                                                  3
+ 7.   Non-Collusive Bidding Certification                                                        4
+ 8.   International Boycott Prohibition                                                          4
+ 9.   Set-Off Rights                                                                             4
+10.   Records                                                                                    4
+11.   Identifying Information and Privacy Notification                                           4
+12.   Equal Employment Opportunities For Minorities and Women                                 4-5
+13.   Conflicting Terms                                                                          5
+14.   Governing Law                                                                              5
+15.   Late Payment                                                                               5
+16.   No Arbitration                                                                             5
+17.   Service of Process                                                                         5
+18.   Prohibition on Purchase of Tropical Hardwoods                                           5-6
+19.   MacBride Fair Employment Principles                                                        6
+20.   Omnibus Procurement Act of 1992                                                            6
+21.   Reciprocity and Sanctions Provisions                                                       6
+22.   Compliance with New York State Information Security Breach and Notification Act            6
+23.   Compliance with Consultant Disclosure Law                                                  6
+24.   Procurement Lobbying                                                                       7
+25.   Certification of Registration to Collect Sales and Compensating Use Tax by Certain         7
+      State Contractors, Affiliates and Subcontractors
+26.   Iran Divestment Act
+
+
+
+
+                                              42
+                                                                                                               FORM 12/2018
+
+
+
+
+                                STANDARD CLAUSES FOR NYS CONTRACTS
+
+The parties to the attached contract, license, lease, amendment or other agreement of any kind (hereinafter, "the
+contract" or "this contract") agree to be bound by the following clauses which are hereby made a part of the contract
+(the word "Contractor" herein refers to any party other than the State, whether a contractor, licenser, licensee, lessor,
+lessee or any other party):
+
+1. EXECUTORY CLAUSE. In accordance with Section 41 of the State Finance Law, the State shall have no liability
+under this contract to the Contractor or to anyone else beyond funds appropriated and available for this contract.
+
+2. NON-ASSIGNMENT CLAUSE. In accordance with Section 138 of the State Finance Law, this contract may not
+be assigned by the Contractor or its right, title or interest therein assigned, transferred, conveyed, sublet or otherwise
+disposed of without the State’s previous written consent, and attempts to do so are null and void. Notwithstanding the
+foregoing, such prior written consent of an assignment of a contract let pursuant to Article XI of the State Finance
+Law may be waived at the discretion of the contracting agency and with the concurrence of the State Comptroller
+where the original contract was subject to the State Comptroller’s approval, where the assignment is due to a
+reorganization, merger or consolidation of the Contractor’s business entity or enterprise. The State retains its right to
+approve an assignment and to require that any Contractor demonstrate its responsibility to do business with the State.
+The Contractor may, however, assign its right to receive payments without the State’s prior written consent unless this
+contract concerns Certificates of Participation pursuant to Article 5-A of the State Finance Law.
+
+3. COMPTROLLER'S APPROVAL. In accordance with Section 112 of the State Finance Law (or, if this contract
+is with the State University or City University of New York, Section 355 or Section 6218 of the Education Law), if
+this contract exceeds $50,000 (or the minimum thresholds agreed to by the Office of the State Comptroller for certain
+S.U.N.Y. and C.U.N.Y. contracts), or if this is an amendment for any amount to a contract which, as so amended,
+exceeds said statutory amount, or if, by this contract, the State agrees to give something other than money when the
+value or reasonably estimated value of such consideration exceeds $10,000, it shall not be valid, effective or binding
+upon the State until it has been approved by the State Comptroller and filed in his office. Comptroller's approval of
+contracts let by the Office of General Services is required when such contracts exceed $85,000 (State Finance Law
+Section 163.6-a). However, such pre-approval shall not be required for any contract established as a centralized
+contract through the Office of General Services or for a purchase order or other transaction issued under such
+centralized contract.
+
+4. WORKERS' COMPENSATION BENEFITS. In accordance with Section 142 of the State Finance Law, this
+contract shall be void and of no force and effect unless the Contractor shall provide and maintain coverage during the
+life of this contract for the benefit of such employees as are required to be covered by the provisions of the Workers'
+Compensation Law.
+
+5. NON-DISCRIMINATION REQUIREMENTS. To the extent required by Article 15 of the Executive Law (also
+known as the Human Rights Law) and all other State and Federal statutory and constitutional non-discrimination
+provisions, the Contractor will not discriminate against any employee or applicant for employment because of race,
+creed, color, sex (including gender identity or expression), national origin, sexual orientation, military status, age,
+disability, predisposing genetic characteristics, marital status or domestic violence victim status. Furthermore, in
+accordance with Section 220-e of the Labor Law, if this is a contract for the construction, alteration or repair of any
+public building or public work or for the manufacture, sale or distribution of materials, equipment or supplies, and to
+the extent that this contract shall be performed within the State of New York, Contractor agrees that neither it nor its
+subcontractors shall, by reason of race, creed, color, disability, sex, or national origin: (a) discriminate in hiring
+against any New York State citizen who is qualified and available to perform the work; or (b) discriminate against or
+intimidate any employee hired for the performance of work under this contract. If this is a building service contract
+as defined in Section 230 of the Labor Law, then, in accordance with Section 239 thereof, Contractor agrees that
+neither it nor its subcontractors shall by reason of race, creed, color, national origin, age, sex or disability: (a)
+discriminate in hiring against any New York State citizen who is qualified and available to perform the work; or (b)
+discriminate against or intimidate any employee hired for the performance of work under this contract. Contractor is
+subject to fines of $50.00 per person per day for any violation of Section 220-e or Section
+
+                                                           43
+                                                                                                                 FORM 12/2018
+
+
+
+
+239 as well as possible termination of this contract and forfeiture of all moneys due hereunder for a second or
+subsequent violation.
+
+6. WAGE AND HOURS PROVISIONS. If this is a public work contract covered by Article 8 of the Labor Law or
+a building service contract covered by Article 9 thereof, neither Contractor's employees nor the employees of its
+subcontractors may be required or permitted to work more than the number of hours or days stated in said statutes,
+except as otherwise provided in the Labor Law and as set forth in prevailing wage and supplement schedules issued
+by the State Labor Department. Furthermore, Contractor and its subcontractors must pay at least the prevailing wage
+rate and pay or provide the prevailing supplements, including the premium rates for overtime pay, as determined by
+the State Labor Department in accordance with the Labor Law. Additionally, effective April 28, 2008, if this is a
+public work contract covered by Article 8 of the Labor Law, the Contractor understands and agrees that the filing of
+payrolls in a manner consistent with Subdivision 3-a of Section 220 of the Labor Law shall be a condition precedent
+to payment by the State of any State approved sums due and owing for work done upon the project.
+
+7. NON-COLLUSIVE BIDDING CERTIFICATION. In accordance with Section 139-d of the State Finance Law,
+if this contract was awarded based upon the submission of bids, Contractor affirms, under penalty of perjury, that its
+bid was arrived at independently and without collusion aimed at restricting competition. Contractor further affirms
+that, at the time Contractor submitted its bid, an authorized and responsible person executed and delivered to the State
+a non-collusive bidding certification on Contractor's behalf.
+
+8. INTERNATIONAL BOYCOTT PROHIBITION. In accordance with Section 220-f of the Labor Law and
+Section 139-h of the State Finance Law, if this contract exceeds $5,000, the Contractor agrees, as a material condition
+of the contract, that neither the Contractor nor any substantially owned or affiliated person, firm, partnership or Trust
+has participated, is participating, or shall participate in an international boycott in violation of the federal Export
+Administration Act of 1979 (50 USC App. Sections 2401 et seq.) or regulations thereunder. If such Contractor, or
+any of the aforesaid affiliates of Contractor, is convicted or is otherwise found to have violated said laws or regulations
+upon the final determination of the United States Commerce Department or any other appropriate agency of the United
+States subsequent to the contract's execution, such contract, amendment or modification thereto shall be rendered
+forfeit and void. The Contractor shall so notify the State Comptroller within five (5) business days of such conviction,
+determination or disposition of appeal (2NYCRR 105.4).
+
+9. SET-OFF RIGHTS. The State shall have all of its common law, equitable and statutory rights of set-off. These
+rights shall include, but not be limited to, the State's option to withhold for the purposes of set-off any moneys due to
+the Contractor under this contract up to any amounts due and owing to the State with regard to this contract, any other
+contract with any State department or agency, including any contract for a term commencing prior to the term of this
+contract, plus any amounts due and owing to the State for any other reason including, without limitation, tax
+delinquencies, fee delinquencies or monetary penalties relative thereto. The State shall exercise its set-off rights in
+accordance with normal State practices including, in cases of set-off pursuant to an audit, the finalization of such audit
+by the State agency, its representatives, or the State Comptroller.
+
+10. RECORDS. The Contractor shall establish and maintain complete and accurate books, records, documents,
+accounts and other evidence directly pertinent to performance under this contract (hereinafter, collectively, "the
+Records"). The Records must be kept for the balance of the calendar year in which they were made and for six (6)
+additional years thereafter. The State Comptroller, the Attorney General and any other person or entity authorized to
+conduct an examination, as well as the agency or agencies involved in this contract, shall have access to the Records
+during normal business hours at an office of the Contractor within the State of New York or, if no such office is
+available, at a mutually agreeable and reasonable venue within the State, for the term specified above for the purposes
+of inspection, auditing and copying. The State shall take reasonable steps to protect from public disclosure any of the
+Records which are exempt from disclosure under Section 87 of the Public Officers Law (the "Statute") provided that:
+(i) the Contractor shall timely inform an appropriate State official, in writing, that said records should not be disclosed;
+and (ii) said records shall be sufficiently identified; and (iii) designation of said records as exempt under the Statute
+is reasonable. Nothing contained herein shall diminish, or in any way adversely affect, the State's right to discovery
+in any pending or future litigation.
+
+
+                                                            44
+                                                                                                                 FORM 12/2018
+
+
+
+
+11. IDENTIFYING INFORMATION AND PRIVACY NOTIFICATION. (a) Identification Number(s). Every
+invoice or New York State Claim for Payment submitted to a New York State agency by a payee, for payment for the
+sale of goods or services or for transactions (e.g., leases, easements, licenses, etc.) related to real or personal property
+must include the payee's identification number. The number is any or all of the following: (i) the payee’s Federal
+employer identification number, (ii) the payee’s Federal social security number, and/or (iii) the payee’s Vendor
+Identification Number assigned by the Statewide Financial System. Failure to include such number or numbers may
+delay payment. Where the payee does not have such number or numbers, the payee, on its invoice or Claim for
+Payment, must give the reason or reasons why the payee does not have such number or numbers.
+
+(b) Privacy Notification. (1) The authority to request the above personal information from a seller of goods or services
+or a lessor of real or personal property, and the authority to maintain such information, is found in Section 5 of the
+State Tax Law. Disclosure of this information by the seller or lessor to the State is mandatory. The principal purpose
+for which the information is collected is to enable the State to identify individuals, businesses and others who have
+been delinquent in filing tax returns or may have understated their tax liabilities and to generally identify persons
+affected by the taxes administered by the Commissioner of Taxation and Finance. The information will be used for
+tax administration purposes and for any other purpose authorized by law. (2) The personal information is requested
+by the purchasing unit of the agency contracting to purchase the goods or services or lease the real or personal property
+covered by this contract or lease. The information is maintained in the Statewide Financial System by the Vendor
+Management Unit within the Bureau of State Expenditures, Office of the State Comptroller, 110 State Street, Albany,
+New York 12236.
+
+12. EQUAL EMPLOYMENT OPPORTUNITIES FOR MINORITIES AND WOMEN. In accordance with
+Section 312 of the Executive Law and 5 NYCRR 143, if this contract is: (i) a written agreement or purchase order
+instrument, providing for a total expenditure in excess of $25,000.00, whereby a contracting agency is committed to
+expend or does expend funds in return for labor, services, supplies, equipment, materials or any combination of the
+foregoing, to be performed for, or rendered or furnished to the contracting agency; or (ii) a written agreement in excess
+of $100,000.00 whereby a contracting agency is committed to expend or does expend funds for the acquisition,
+construction, demolition, replacement, major repair or renovation of real property and improvements thereon; or (iii)
+a written agreement in excess of $100,000.00 whereby the owner of a State assisted housing project is committed to
+expend or does expend funds for the acquisition, construction, demolition, replacement, major repair or renovation of
+real property and improvements thereon for such project, then the following shall apply and by signing this agreement
+the Contractor certifies and affirms that it is Contractor’s equal employment opportunity policy that:
+
+(a) The Contractor will not discriminate against employees or applicants for employment because of race, creed,
+color, national origin, sex, age, disability or marital status, shall make and document its conscientious and active
+efforts to employ and utilize minority group members and women in its work force on State contracts and will
+undertake or continue existing programs of affirmative action to ensure that minority group members and women are
+afforded equal employment opportunities without discrimination. Affirmative action shall mean recruitment,
+employment, job assignment, promotion, upgradings, demotion, transfer, layoff, or termination and rates of pay or
+other forms of compensation;
+
+(b) at the request of the contracting agency, the Contractor shall request each employment agency, labor union, or
+authorized representative of workers with which it has a collective bargaining or other agreement or understanding,
+to furnish a written statement that such employment agency, labor union or representative will not discriminate on the
+basis of race, creed, color, national origin, sex, age, disability or marital status and that such union or representative
+will affirmatively cooperate in the implementation of the Contractor's obligations herein; and
+
+(c) the Contractor shall state, in all solicitations or advertisements for employees, that, in the performance of the State
+contract, all qualified applicants will be afforded equal employment opportunities without discrimination because of
+race, creed, color, national origin, sex, age, disability or marital status.
+
+Contractor will include the provisions of "a", "b", and "c" above, in every subcontract over $25,000.00 for the
+construction, demolition, replacement, major repair, renovation, planning or design of real property and improvements
+thereon (the "Work") except where the Work is for the beneficial use of the Contractor. Section 312 does not apply
+to: (i) work, goods or services unrelated to this contract; or (ii) employment outside New York State. The State shall
+                                                            45
+                                                                                                              FORM 12/2018
+
+
+
+
+consider compliance by a contractor or subcontractor with the requirements of any federal law concerning equal
+employment opportunity which effectuates the purpose of this section. The contracting agency shall determine
+whether the imposition of the requirements of the provisions hereof duplicate or conflict with any such federal law
+and if such duplication or conflict exists, the contracting agency shall waive the applicability of Section 312 to the
+extent of such duplication or conflict. Contractor will comply with all duly promulgated and lawful rules and
+regulations of the Department of Economic Development’s Division of Minority and Women's Business Development
+pertaining hereto.
+
+13. CONFLICTING TERMS. In the event of a conflict between the terms of the contract (including any and all
+attachments thereto and amendments thereof) and the terms of this Appendix A, the terms of this Appendix A shall
+control.
+
+14. GOVERNING LAW. This contract shall be governed by the laws of the State of New York except where the
+Federal supremacy clause requires otherwise.
+
+15. LATE PAYMENT. Timeliness of payment and any interest to be paid to Contractor for late payment shall be
+governed by Article 11-A of the State Finance Law to the extent required by law.
+
+16. NO ARBITRATION. Disputes involving this contract, including the breach or alleged breach thereof, may not
+be submitted to binding arbitration (except where statutorily authorized), but must, instead, be heard in a court of
+competent jurisdiction of the State of New York.
+
+17. SERVICE OF PROCESS. In addition to the methods of service allowed by the State Civil Practice Law & Rules
+("CPLR"), Contractor hereby consents to service of process upon it by registered or certified mail, return receipt
+requested. Service hereunder shall be complete upon Contractor's actual receipt of process or upon the State's receipt
+of the return thereof by the United States Postal Service as refused or undeliverable. Contractor must promptly notify
+the State, in writing, of each and every change of address to which service of process can be made. Service by the
+State to the last known address shall be sufficient. Contractor will have thirty (30) calendar days after service
+hereunder is complete in which to respond.
+
+18. PROHIBITION ON PURCHASE OF TROPICAL HARDWOODS. The Contractor certifies and warrants that
+all wood products to be used under this contract award will be in accordance with, but not limited to, the specifications
+and provisions of Section 165 of the State Finance Law, (Use of Tropical Hardwoods) which prohibits purchase and
+use of tropical hardwoods, unless specifically exempted, by the State or any governmental agency or political
+subdivision or public benefit Trust. Qualification for an exemption under this law will be the responsibility of the
+contractor to establish to meet with the approval of the State.
+
+In addition, when any portion of this contract involving the use of woods, whether supply or installation, is to be
+performed by any subcontractor, the prime Contractor will indicate and certify in the submitted bid proposal that the
+subcontractor has been informed and is in compliance with specifications and provisions regarding use of tropical
+hardwoods as detailed in §165 State Finance Law. Any such use must meet with the approval of the State; otherwise,
+the bid may not be considered responsive. Under bidder certifications, proof of qualification for exemption will be the
+responsibility of the Contractor to meet with the approval of the State.
+
+19. MACBRIDE FAIR EMPLOYMENT PRINCIPLES. In accordance with the MacBride Fair Employment
+Principles (Chapter 807 of the Laws of 1992), the Contractor hereby stipulates that the Contractor either (a) has no
+business operations in Northern Ireland, or (b) shall take lawful steps in good faith to conduct any business operations
+in Northern Ireland in accordance with the MacBride Fair Employment Principles (as described in Section 165 of the
+New York State Finance Law), and shall permit independent monitoring of compliance with such principles.
+
+20. OMNIBUS PROCUREMENT ACT OF 1992. It is the policy of New York State to maximize opportunities for
+the participation of New York State business enterprises, including minority and women-owned business enterprises
+as bidders, subcontractors and suppliers on its procurement contracts.
+
+Information on the availability of New York State subcontractors and suppliers is available from:
+                                                           46
+                                                                                                            FORM 12/2018
+
+
+
+
+   NYS Department of Economic Development
+   Division for Small Business
+   Albany, New York 12245
+   Telephone: 518-292-5100
+   Fax: 518-292-5884
+   email: opa@esd.ny.gov
+
+A directory of certified minority and women-owned business enterprises is available from:
+
+   NYS Department of Economic Development
+   Division of Minority and Women's Business Development
+   633 Third Avenue
+   New York, NY 10017
+   212-803-2414
+   email: mwbecertification@esd.ny.gov
+   https://ny.newnycontracts.com/FrontEnd/VendorSearchPublic.asp
+
+The Omnibus Procurement Act of 1992 requires that by signing this bid proposal or contract, as applicable, Contractors
+certify that whenever the total bid amount is greater than $1 million:
+
+(a) The Contractor has made reasonable efforts to encourage the participation of New York State Business Enterprises
+as suppliers and subcontractors, including certified minority and women-owned business enterprises, on this project,
+and has retained the documentation of these efforts to be provided upon request to the State;
+
+(b) The Contractor has complied with the Federal Equal Opportunity Act of 1972 (P.L. 92-261), as amended;
+
+(c) The Contractor agrees to make reasonable efforts to provide notification to New York State residents of
+employment opportunities on this project through listing any such positions with the Job Service Division of the New
+York State Department of Labor, or providing such notification in such manner as is consistent with existing collective
+bargaining contracts or agreements. The Contractor agrees to document these efforts and to provide said
+documentation to the State upon request; and
+
+(d) The Contractor acknowledges notice that the State may seek to obtain offset credits from foreign countries as a
+result of this contract and agrees to cooperate with the State in these efforts.
+
+21. RECIPROCITY AND SANCTIONS PROVISIONS. Bidders are hereby notified that if their principal place
+of business is located in a country, nation, province, state or political subdivision that penalizes New York State
+vendors, and if the goods or services they offer will be substantially produced or performed outside New York State,
+the Omnibus Procurement Act 1994 and 2000 amendments (Chapter 684 and Chapter 383, respectively) require that
+they be denied contracts which they would otherwise obtain. NOTE: As of May 15, 2002, the list of discriminatory
+jurisdictions subject to this provision includes the states of South Carolina, Alaska, West Virginia, Wyoming,
+Louisiana and Hawaii. Contact NYS Department of Economic Development for a current list of jurisdictions subject
+to this provision.
+
+22. COMPLIANCE WITH NEW YORK STATE INFORMATION SECURITY BREACH AND
+NOTIFICATION ACT. Contractor shall comply with the provisions of the New York State Information Security
+Breach and Notification Act (General Business Law Section 899-aa; State Technology Law Section 208).
+
+23. COMPLIANCE WITH CONSULTANT DISCLOSURE LAW. If this is a contract for consulting services,
+defined for purposes of this requirement to include analysis, evaluation, research, training, data processing, computer
+programming, engineering, environmental, health, and mental health services, accounting, auditing, paralegal, legal
+or similar services, then, in accordance with Section 163 (4-g) of the State Finance Law (as amended by Chapter 10
+of the Laws of 2006), the Contractor shall timely, accurately and properly comply with the requirement to submit an
+
+                                                          47
+                                                                                                                     FORM 12/2018
+
+
+
+
+annual employment report for the contract to the agency that awarded the contract, the Department of Civil Service
+and the State Comptroller.
+
+24. PROCUREMENT LOBBYING. To the extent this agreement is a "procurement contract" as defined by
+State Finance Law Sections 139-j and 139-k, by signing this agreement the contractor certifies and affirms that all
+disclosures made in accordance with State Finance Law Sections 139-j and 139-k are complete, true and accurate. In
+the event such certification is found to be intentionally false or intentionally incomplete, the State may terminate the
+agreement by providing written notification to the Contractor in accordance with the terms of the agreement.
+
+25. CERTIFICATION OF REGISTRATION TO COLLECT SALES AND COMPENSATING USE TAX BY
+CERTAIN STATE CONTRACTORS, AFFILIATES AND SUBCONTRACTORS.
+To the extent this agreement is a contract as defined by Tax Law Section 5-a, if the contractor fails to make the
+certification required by Tax Law Section 5-a or if during the term of the contract, the Department of Taxation and
+Finance or the covered agency, as defined by Tax Law 5-a, discovers that the certification, made under penalty of
+perjury, is false, then such failure to file or false certification shall be a material breach of this contract and this contract
+may be terminated, by providing written notification to the Contractor in accordance with the terms of the agreement,
+if the covered agency determines that such action is in the best interest of the State.
+
+26. IRAN DIVESTMENT ACT. By entering into this Contract, Contractor certifies in accordance with State
+Finance Law §165-a that it is not on the “Entities Determined to be Non-Responsive Bidders/Offerers pursuant to
+the New York State Iran Divestment Act of 2012” (“Prohibited Entities List”) posted at:
+http://www.ogs.ny.gov/about/regs/docs/ListofEntities.pdf
+
+Contractor further certifies that it will not utilize on this Contract any subcontractor that is identified on the Prohibited
+Entities List. Contractor agrees that should it seek to renew or extend this Contract, it must provide the same
+certification at the time the Contract is renewed or extended. Contractor also agrees that any proposed Assignee of
+this Contract will be required to certify that it is not on the Prohibited Entities List before the contract assignment will
+be approved by the State.
+
+During the term of the Contract, should the state agency receive information that a person (as defined in State Finance
+Law §165-a) is in violation of the above-referenced certifications, the state agency will review such information and
+offer the person an opportunity to respond. If the person fails to demonstrate that it has ceased its engagement in the
+investment activity which is in violation of the Act within 90 days after the determination of such violation, then the
+state agency shall take such action as may be appropriate and provided for by law, rule, or contract, including, but not
+limited to, imposing sanctions, seeking compliance, recovering damages, or declaring the Contractor in default.
+
+The state agency reserves the right to reject any bid, request for assignment, renewal or extension for an entity that
+appears on the Prohibited Entities List prior to the award, assignment, renewal or extension of a contract, and to pursue
+a responsibility review with respect to any entity that is awarded a contract and appears on the Prohibited Entities list
+after contract award.
+
+
+
+
+                                                              48
+                    FORM 12/2018
+
+
+
+
+   APPENDIX B
+SCOPE OF SERVICES
+
+
+
+
+       49
+                                                                                                   FORM 12/2018
+
+
+
+
+                                          APPENDIX C
+                                    FEE AND COST SCHEDULE
+
+
+
+The Contractor shall be paid pursuant to the Fee Schedule annexed hereto as Appendix C-1. The Fee
+Schedule will remain in effect for the Term of the Contract.
+
+     (b) The Contractor shall be paid pursuant to the Fee Schedule in a total amount not to exceed
+         $________________ (“Fee”). The Fee shall accrue and be paid in accordance with actual staff
+         time expended in the performance of the Services.
+
+     (c) The Contractor shall submit written requests for payment in a format determined by the Trust
+         on or about the first (1st) day of each calendar month for Services actually performed during
+         the immediately preceding calendar month (“Payment Requisition”). The Payment
+         Requisition shall contain detailed monthly invoices that include a description of the Services
+         performed, the staff hours expended for those Services and the hourly rates for each such
+         employee category, Reimbursable Expenses incurred during the billing period, Subcontractor
+         costs incurred during the billing period, and any M/WBE, SDVOBs and Workforce Utilization
+         Reports reporting requirements associated with Subcontractor payments. The Trust shall pay
+         the Contractor within thirty (30) days of the submittal of the Payment Requisition except as
+         provided in Subsection (d) below.
+
+     (d) Each Payment Requisition submitted to the Trust by the Contractor shall constitute a
+         representation that, except as specifically set forth in the Payment Requisition, as of the date of
+         the Requisition, all representations and warranties made by the Contractor under the Contract
+         are true, complete and accurate as if made as of the date of the submission of the Payment
+         Requisition.
+
+     (e) The Trust may withhold payment of a Payment Requisition, in whole or in part, to the extent
+         necessary for the following reasons:
+
+                      (i)     Failure of the Contractor to make payments properly and promptly to its
+                              Subcontractors;
+                      (ii)    Failure of the Contractor to comply with M/WBE, SDVOB and Workforce
+                              Utilization Reports requirements;
+                      (iii)   For lien(s) filed in connection with Services, except where the lien(s) has
+                              been discharged by bond or otherwise;
+                     (iv)     Reasonable evidence that the Services cannot be completed due to the
+                              Contractor’s negligent performance for such Services; or
+                      (v)     The Contractor’s failure to perform in accordance with the terms of the
+                              Contract.
+
+
+
+
+                                                    50
+               FORM 12/2018
+
+
+
+
+APPENDIX C-1
+
+FEE SCHEDULE
+
+
+
+
+     51
+                                                                                            FORM 12/2018
+
+
+
+
+                                           APPENDIX D
+                                           INSURANCE
+
+a)     Upon the execution date of the Contract or as of the date indicated in a “Notice to
+Proceed”, the Contractor shall provide the Trust with (i) Certificates of Insurance naming the
+Additional Insureds set forth below and, (ii) at the request of the Trust, the “Schedules of Forms
+and Endorsements” and copies of the Forms and Endorsements evidencing compliance with all
+coverage requirements contained in this Appendix D. Such certificates and Schedules of Forms
+and Endorsements shall be in form and substance acceptable to the Trust. Acceptance and/or
+approval of such certificates and/or Schedules of Forms and Endorsements and copies of the
+Forms and Endorsements by the Trust do not, and shall not, be construed to relieve the
+Contractor of any obligations, responsibilities or liabilities under this Appendix D.
+
+b)       All insurance required by this Appendix D shall include the following as “Additional
+Insured” if such coverage is available under such insurance policies: Hudson River Park Trust,
+the State of New York, the New York State Office of Parks, Recreation and Historic
+Preservation, the New York State Department of Environmental Conservation, the City of New
+York, and the New York City Department of Parks and Recreation. The Trust offices are located
+at Pier 40 - 353 West Street, Suite 201, New York, NY 10014 - Attn: Insurance Manager. The
+Additional Insured protection on the General Liability policy shall be provided on form CG 20
+10 11 85 or its equivalent, or may be obtained through a combination of CG 20 10 07 04 and CG
+20 37 07 04 or their equivalents. Additional Insured coverage must apply to direct and vicarious
+liability for both on-going and completed operations.
+
+c)      Contractor shall require that any subcontractors or sub-subcontractors that perform work
+for the Contractor under this Contract in a sub-contract amount of Five Thousand Dollars
+($5,000) or more carry insurance with the same limits and provisions provided herein unless
+otherwise approved by the Trust on a case-by-case basis. All subcontractor insurance policies
+must include ISO Endorsement CG 20 38 or its equivalent to ensure additional insured protection
+is afforded the Trust without regard to privity of contract.
+
+d)      Each insurance carrier must be rated at least “A-” Class “VII” in the most recently
+published A.M. Best’s Insurance Report. If, during the term of the policy, a carrier’s rating falls
+below “A-” Class “VII”, the insurance policy must be replaced no later than the renewal date of
+the policy with an insurer acceptable to the Trust and rated at least “A-” Class “VII” in the most
+recently published A.M. Best’s Insurance Report.
+
+e)      Contractor shall cause all insurance to be in full force and effect as of the execution date
+of the Contract , or as of the date indicated in a “Notice to Proceed” if issued by the Trust, and to
+remain in full force and effect throughout the Term of the Contract and as further required by
+this Appendix D . Contractor shall not take any action, or omit to take any action, that would
+suspend or invalidate any of the required coverages during the period of time such coverages are
+required to be in effect. Coverage shall:
+
+1.     Be primary and non-contributing to any insurance or self-insurance maintained by the
+Trust.
+                                                 52
+                                                                                               FORM 12/2018
+
+
+
+
+2.     Be obtained at the sole cost and expense of Contractor or its respective subcontractor(s),
+and shall be maintained with insurance carriers authorized to do business in New York State and
+acceptable to the Trust.
+
+3.     Provide written notice to the Trust, at least thirty (30) days prior to the termination,
+cancellation or non-renewal or material alteration of such insurance policies; notice shall be sent,
+via express or certified mail to:
+
+                                      Hudson River Park Trust
+                                      Attn: Insurance Manager
+                                          353 West Street
+                                       Pier 40, Second Floor
+                                       New York, NY 10014
+
+4.      Be solely responsible for the payment of their respective deductibles and self-insured
+retentions to which such insurance policies are subject. Self-Insured Retentions may not exceed
+Ten Thousand ($10,000) per claim unless otherwise approved by the Trust. General liability
+and umbrella/excess policies shall contain no deductibles in excess of Ten Thousand Dollars
+($10,000) per claim unless otherwise approved by the Trust.
+
+f)       Under no circumstances shall any insurance policies exclude coverage for claims that
+result from the imposition of New York Labor Law or for any Public Open Space or any portions
+of the premises used or for Public Access and Public Benefit Uses.
+
+g)     Upon the renewal date of any insurance policies, the Contractor shall supply the Trust
+with updated replacement proofs of coverage on Certificates of Insurance.
+
+    h) Contractor shall cause to be included in each of its insurance policies a waiver of the
+       insurer’s right of subrogation against the Trust and/or any Additional Insureds.
+
+i)      Contractor, throughout the Term of the Contract, or as otherwise required by this
+Appendix D, shall obtain and maintain in full force and effect, the following insurance with
+limits not less than those described below and as required by the terms of this Appendix D, or as
+required by law, whichever is greater (limits may be provided through a combination of
+endorsements, primary and umbrella/excess policies):
+
+(1)     Commercial General Liability Insurance with a limit of not less than One Million
+Dollars ($1,000,000) per occurrence. Such insurance shall be written on ISO Form CG 00 01 12
+07 or substitute form providing equivalent coverage and shall cover liability arising from
+premises operations, independent contractors, products-completed operations, personal and
+advertising injury, cross liability coverage, blanket contractual liability (including tort liability of
+another assumed in a contract), extended bodily injury coverage, and damage to rented premises
+If such insurance includes an aggregate limit, it shall apply separately on a per project or per
+location basis. If the Contractor’s work includes construction activities of any kind, then the
+Contractor must include a completed Acord 855 NY form when providing evidence of insurance.
+                                                  53
+                                                                                          FORM 12/2018
+
+
+
+
+(2)     Workers Compensation, Employers Liability and Disability Benefits Insurance at
+statutory limits as applicable to the Contractor’s operations and required by law. Proof of
+Workers Compensation coverage must be presented on the NYS WCB C-105.2 or equivalent
+form; proof of Disability coverage must be provided on a DB-120.1 form.
+
+       a. The NY State Workers Compensation Board guideline regarding these requirements
+          is available at:
+                      http://www.wcb.ny.gov/content/main/forms/AllForms.jsp
+
+       b. If Exempt from Worker Compensation please refer to the following link and provide
+          proof on the CE200 form issues by the NY State Workers Compensation Board:
+
+       http://www.wcb.ny.gov/content/ebiz/wc_db_exemptions/requestExemptionOverview.jsp
+
+       c. If the Contractor is not a NY State based business, then the Contractor must provide a
+          copy of its Workers’ Compensation policy’s Declarations Page to show that New
+          York is listed in Part 3A and to confirm the policy provides statutory Employer’s
+          Liability coverage applicable in NYS.
+
+(3)     Cyber Liability, Information (or Data) Security Insurance coverage, or equivalent
+coverage or endorsement under an approved policy, with a limit of not less than One Million
+Dollars ($1,000,000) per each claim; such insurance policies shall include coverage for the
+unauthorized access, accidental or deliberate disclosure of any person or organization’s
+confidential or personal information or data exchanged through oral, written or electronic means.
+Coverage shall apply to any data or information disclosure related liability arising from access or
+use of any confidential or personal information; including but not limited to trade secrets,
+processing methods, customer lists, financial information, credit card information or any other
+nonpublic information accessed or disclosed as indicated. Coverage shall also cover third party
+claims resulting from invasion of privacy, theft of data, data corruption and data restoration.
+
+The Trust and the Contractor shall cooperate in connection with the collection of any insurance
+proceeds that may be due in the event of loss, and each party shall execute and deliver such
+proofs of loss and other instruments that may be required for the purpose of obtaining the
+recovery of any such insurance proceeds. Contractor’s obligations as set forth in this Appendix D
+shall survive the expiration or earlier termination of the Contract.
+
+
+
+
+                                                54
+

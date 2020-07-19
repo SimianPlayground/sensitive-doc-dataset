@@ -1,0 +1,970 @@
+                                   City of West Hollywood RFP
+
+
+
+
+                Information Technology Strategic Plan
+                        Request for Proposal
+      Instructions
+      A copy of the RFP can be downloaded from the City’s website at www.weho.org/rfp.
+
+      The RFP can also be downloaded by registering with the City’s bid portal at this URL:
+      http://www.planetbids.com/portal/portal.cfm?CompanyID=22761
+
+      DEADLINE FOR PROPOSAL SUBMISSION: 12 AM, August 12, 2019.
+
+      Proposals must:
+
+          1. Must be submitted electronically on the City’s bid portal
+             (http://www.planetbids.com/portal/portal.cfm?CompanyID=22761)
+          2. All submissions must have a cover sheet that states “Information Technology Strategic Plan” and
+             identifies the firm.
+
+      All proposals shall include the following:
+
+          1.   Executive Summary
+          2.   Table of Contents
+          3.   Vendor Information
+          4.   Proposal
+          5.   Team Qualifications and Resumes
+          6.   Summary of Experience
+          7.   Cost Proposal
+          8.   References
+
+      The City reserves the right to reject any and all proposals and award the contract to the Contractor who
+      best meets the requirements set forth in the Specifications.
+
+Development of an IT Strategic Plan
+                                                      City of West Hollywood RFP
+
+
+                                                         Table of Contents
+
+OVERVIEW ........................................................................................................................................................... 1
+GENERAL INFORMATION ................................................................................................................................. 1
+SCOPE OF WORK ................................................................................................................................................. 3
+CONSULTANT QUALIFICATIONS AND CONDITIONS ................................................................................ 6
+RESPONSE INSTRUCTIONS ............................................................................................................................... 7
+EVALUATION CRITERIA ................................................................................................................................... 8
+EXHIBITS .............................................................................................................................................................. 8
+
+
+
+
+Development of an IT Strategic Plan
+                                     City of West Hollywood RFP
+
+
+OVERVIEW
+The City of West Hollywood (the City) is seeking proposals from qualified consultants for the following
+services:
+
+   •   Development of an Information Technology Strategic Plan
+
+The objective of this project is to develop and articulate a vision for the effective use of technology to support
+the work of the City of West Hollywood. The City is focused on the proposed IT Strategic Plan as the
+cornerstone of our efforts to improve the balance between demand for more and better technology, innovation,
+security, and available IT resources, capital, and operating funds.
+
+The City reserves the right to accept or reject any or all Proposals, or to alter the selection process in any way,
+to postpone the selection process for its own convenience at any time, and/or to waive any defects in the
+Proposals.
+
+This RFP shall in no way be deemed to create a binding contract or agreement of any kind between the City and
+the Vendor.
+
+Vendor’s personnel to be used for this project shall be knowledgeable in their areas of expertise. We reserve the
+right to perform investigations as may be deemed necessary to ensure that competent persons will be utilized in
+the performance of the contract.
+
+
+GENERAL INFORMATION
+
+The City Of West Hollywood
+The City of West Hollywood is a mid-size city located in Los Angeles County. Incorporated in 1984, the City
+serves an area of approximately 1.9 square miles and a population of approximately 34,000 with approximately
+25,000 residential units. The City’s fiscal year begins July 1st and ends June 30th.
+
+The City is a general-law city under California law which contracts for many of its major services, such as
+police and fire, as well as employing approximately 210 fulltime and 100 temporary and seasonal employees.
+The City operates under a Council/Manager form of government. The five members of the Council serve 4-year
+terms and are elected in staggered elections every 2 years.
+
+The City has an annual operating budget of 100 million dollars. West Hollywood is a place that’s proud to stand
+out. The progressive spirit and creativity of the people who live, work and play here have put West Hollywood
+at the leading edge of culture, entertainment and design. The City is home to the world-famous Sunset Strip and
+hosts the annual Halloween Carnaval in October, and the Christopher Street West Gay, Lesbian and
+Transgender Pride Parade and Festival in June, as well as dozens of visitor attractions that include a wide
+variety of restaurants and entertainment venues that cater to local residents, visitors and tourists.
+
+Mission Statement:
+
+Development of an IT Strategic Plan                                                                        Page 1
+                                   City of West Hollywood RFP
+
+As a premier city, we are proactive in responding to the unique needs of our diverse community, creative in
+finding solutions to managing our urban environment and dedicated to preserving and enhancing its well being.
+We strive for quality in all our actions, setting the highest goals and standards.
+
+For more information on the City’s Mission Statement or our Primary Strategic Goals or Ongoing Strategic
+Programs, you can request a copy of the Vision 2020 Strategic Plan from the City Clerk’s office by calling
+(323) 848-6400 or electronically by clicking West Hollywood Strategic Plan on City Services and Information
+pages of www.weho.org.
+
+Organizational Structure
+The City is organized into 10 departments and 25 divisions which can be seen in the organizational chart below:
+
+   •   City Council & City Manager Department
+           o City Manager
+           o Community & Legislative Affairs
+           o Urban Design & Architecture Studio
+   •   Administrative Services Department
+           o Legal Services
+           o City Clerk
+           o Human Resources
+   •   Finance & Technology Services Department
+           o Revenue Management
+           o General Accounting
+           o Information Technology
+   •   Public Safety Department
+   •   Human Services & Rent Stabilization Department
+           o Strategic Initiatives
+           o Social Services
+           o Rent Stabilization & Housing
+   •   Communications Department
+           o Public Information & Marketing
+   •   Economic Development Department
+           o Innovation
+           o Arts
+           o Business Development
+           o Event & Film Services
+   •   Facilities & Recreation Services Department
+           o Recreation Services
+           o Facilities & Field Services
+   •   Planning Development Services Department
+           o Current & Historic Preservation Planning
+           o Long Range Planning
+Development of an IT Strategic Plan                                                                     Page 2
+                                    City of West Hollywood RFP
+
+          o Building & Safety
+   •   Department of Public Works
+          o Code Compliance
+          o Engineering
+          o Parking
+
+
+
+
+Information Technology Division
+The Information Technology Division (IT) is part of the Finance & Technology Services Department, under the
+direction of the Director of Finance and managed by the Information Technology Manager. IT has seven (7)
+staff members: Information Technology Manager, Administrative Specialist IV, Systems Engineer Supervisor,
+two (2) Systems Engineers, Applications Developer, and Information Technology System Analyst.
+
+The Information Technology Division is responsible for supporting the organization’s Information Technology
+needs, including telecommunications, software/hardware procurement, licensing and maintenance, network
+connectivity and security, enterprise storage, Intranet, GIS, enterprise application and information management
+systems and databases.
+
+
+SCOPE OF WORK
+Vendor's response shall demonstrate an understanding of the subject matter and describe an approach that will
+be taken to accomplish the services requested.
+
+
+Development of an IT Strategic Plan                                                                     Page 3
+                                    City of West Hollywood RFP
+
+The overall objective of this project is to develop and articulate a vision for the effective use of technology to
+support the work of the City of West Hollywood as well as asses and validate the role of IT as a strategic
+partner and technology enabler. Vendors shall document that vision, and the resources likely to be required to
+support it, as well as any related recommendations, in an Information Technology Strategic Plan that will set the
+direction for the City’s use of technology for the next five years. The scope of the effort encompasses all City
+Departments.
+
+At a minimum, the City anticipates the project may include the following activities; however, Vendors should
+propose the project plan and activities they feel will most effectively meet the objective.
+
+Assessment of IT Systems, Structures, Policies and Processes
+The selected consultant will conduct an assessment and provide preliminary recommendations to address
+immediate, short- and long-term vulnerabilities and needs. The consultant will then facilitate a process to
+review the recommendations and determine the future direction of IT at the City of West Hollywood.
+
+The selected consultant will conduct an assessment including but not limited to the following topics:
+   • IT Infrastructure
+           o All existing technical infrastructure and technology systems used throughout the city
+           o Vulnerabilities in accessing the systems, including staff access rights
+           o Risks of system failure
+           o Cyber Security risks
+           o Inoperability of existing legacy systems
+           o Business continuity
+           o Emergency Preparedness
+           o Components that require an upgrade
+           o Ability to adequately recover from a disaster
+   • Staffing resources, including positions, roles, skills, organization structure for IT, required to support
+       information management and the IT strategy
+   • Current business processes, procedures, and forms used by staff as they access IT resources
+   • Needs & Opportunities
+           o Current and projected technology needs driven by organizational changes
+           o Potential for IT to be better integrated into programmatic work
+           o Business needs of all departments in the City
+           o The current and potential use of technology. For example, SharePoint primarily serves as a file
+               repository, and the full capabilities of SharePoint are not maximized.
+           o High-level analysis of enterprise architecture integration opportunities for key applications
+   • Other concerns or problem areas
+   • Direction and vision of IT
+
+Tasks undertaken by the consultant may include but are not limited to the following:
+   • Read and understand the City’s existing Strategic Plan and Wireless and Fiber infrastructure Strategic
+       plans.
+   • Interview Executive Team, IT staff and other staff and stakeholders as needed
+   • Research, compare and provide examples of IT systems, structures, processes and strategies of
+       organizations similar to the City
+   • Acquire information from City software\hardware\support vendors as needed
+
+Development of an IT Strategic Plan                                                                       Page 4
+                                     City of West Hollywood RFP
+
+   •   Review and validate information on infrastructure and systems from sources such as previously
+       completed IT assessments and staff knowledge of IT systems.
+   •   Review information in existing IT network diagrams
+   •   Review policies, forms, and procedures
+   •   Research costs of IT solutions
+   •   Update City regularly on work progress
+
+Following the conclusion of the assessment, City expects at minimum the following deliverables:
+    1. Inventory and analysis of City IT infrastructure and systems, including gaps and vulnerabilities,
+    2. Analysis of City IT structure and staffing, including gaps and vulnerabilities,
+    3. Analysis of City IT business process, including gaps, pain points the current and vulnerabilities,
+    4. Analysis of current IT strategy and IT role and recommendations on future IT strategy and IT role, and
+    5. Report of a prioritized set of recommendations for immediate, short- and long-term solutions. The report
+       shall include but shall not be limited to:
+           a. Solutions for risks that require immediate mitigation
+           b. Solutions for any identified risks, gaps, pain points or vulnerabilities
+           c. Opportunities to serve unmet needs
+           d. Metrics for measuring IT performance
+       Each recommendation shall also include cost and time estimates.
+
+The consultant will support the city in reviewing and validating the consultant’s findings. The consultant will
+facilitate discussions with the Executive Team to agree upon key recommendations that will serve as the
+foundation for the 5-year IT strategic plan.
+
+Following approval of the recommendations by City, the consultant will write a strategic plan to implement the
+recommendations.
+
+5-Year IT Strategic Plan
+The purpose of the 5-year IT strategic plan is to lay out the path to actualizing the IT strategy and vision across
+the agency and particularly in IT, given the resources identified in the assessment phase of the project. The
+consultant is expected to collaborate continuously with City staff in the development of the plan.
+
+Tasks undertaken by the consultant may include but are not limited to the following:
+   • Incorporate decisions made about vision, strategy and other foundational elements into the plan
+   • Incorporate learning and information gathered during the assessment
+   • Research costs of IT solutions
+   • Update City regularly on work progress
+   • Present drafts of the strategic plan to City
+   • Revise strategic plan upon gathering feedback
+
+The City expects that the 5-year IT strategic plan will cover topics such as, but not limited to:
+   • IT governance
+   • Replacement planning
+   • Service methodology
+
+
+
+Development of an IT Strategic Plan                                                                        Page 5
+                                     City of West Hollywood RFP
+
+   •   Updated policies and procedures (new policies and procedures if recommended)
+   •   Organization-wide technology project prioritization evaluation and prioritization process and visual
+       matrix.
+   •   Metrix for IT performance
+   •   IT structure and staffing appropriate for carrying out the strategy in relation to the size of the
+       organization
+   •   Internal and external resources required for implementation
+   •   Present findings and recommendations to the City’s Executive team and do a presentation at the City
+       Council meeting.
+   •   Revise findings and recommendations upon gathering feedback
+
+The plan shall describe major phases of work, tasks, short- and long-term milestones, and associated timelines.
+The plan shall address the prioritization and sequencing of projects and activities. The plan shall provide cost
+estimates for projects and activities. The plan shall identify the staff anticipated to perform under this plan and
+their anticipated tasks/roles.
+
+Implementation Support
+The City may choose to have the selected consultant assist in the implementation of the IT Strategic Plan. This
+third phase is contingent upon the results of the assessment and IT Strategic Plan, and thus will be developed
+upon completion of the first two phases of work. The City has the right not to proceed with the implantation
+support phase with the selected consultant.
+
+
+CONSULTANT QUALIFICATIONS AND CONDITIONS
+   1. A consulting company must have a minimum of five years’ experience in developing IT Strategic Plans.
+   2. A consulting company must be 100% independent, defined as receiving no fees or commissions from
+      any manufacturer, vendor or organization that could potentially be considered for the City as a qualified
+      provider of hardware or Software.
+   3. A consulting company must have prior experience with similar projects in the public sector.
+   4. Proof of insurance is not required to be submitted with your proposal but will be required prior to the
+      City's award of the contract.
+   5. Prior to the award of any work, the City and the selected contractor shall enter into the written contract
+      which is attached hereto as Exhibit A – City Contract Template. Proposers responding to this RFP are
+      strongly advised to review all the terms and conditions of the contract. The City maintains various
+      policies related to contractual service providers. Among these are an anti-discrimination, a living wage,
+      and equal benefits policy. In submitting proposals, vendors must indicate that they are prepared to
+      comply with City ordinances and policies. As part of the contract or during contract negotiations, the
+      City may request that the selected firm sign a statement affirming its compliance with these policies.
+   6. The City reserves the right to reject any or all proposals, to waive technicalities or formalities, and to
+      accept any proposal deemed to be in the best interest of the City. Where two or more firms are deemed
+      equal, the City reserves the right to make the award to one of the two firms.
+   7. Proposer and/or the Contractor shall not be allowed to take advantage of any errors in or omissions from
+      the Request for Proposals. Full instructions will be given if such error or omission is discovered and
+      timely called to the attention of the City.
+
+
+Development of an IT Strategic Plan                                                                        Page 6
+                                    City of West Hollywood RFP
+
+   8. Nothing contained in this Request for Proposals shall create any contractual relationship between the
+      proposer and the City. The City accepts no financial responsibility for costs incurred by any proposer
+      regarding this RFP. Each proposal prepared in response to this RFP shall be done at the sole cost and
+      expense of each proposing firm and with the express understanding that no claims against the City for
+      reimbursement will be accepted.
+
+
+RESPONSE INSTRUCTIONS
+Proposers must submit the following required documents through the online portal by 12:00 AM on August 12,
+2019 in order to be eligible for this RFP. All questions concerning this solicitation must be submitted online via
+the Q&A section of the bid management software. The official responses to questions or requests for
+interpretation to this solicitation will be posted on the Q&A section of the bid management software. The cut-
+off for the submission of questions or deviations shall be on July 29, 2019, before 9:00 AM. Any information
+resulting from questions that causes a material change in the solicitation will be posted on the Addenda &
+Emails section of the bid management system as an addendum.
+
+All narrative sections should be single-spaced, 11 point font with 1” margins.
+
+  1. Executive Summary (1 page)
+
+  2. Table of Contents
+
+  3. Vendor Information (1 page)
+
+  4. Proposal – (6 pages maximum) Describe the proposed work plan and methodology to accomplish the
+     activities and complete the deliverables within the proposed timeframe proposed. It is expected that the
+     proposer will use its expertise and offer suggestions to the scope of work to identify the required
+     processes and methods to perform each project.
+
+      If subcontractors are anticipated, describe what work will be subcontracted, experience with each
+      potential subcontractor, and how the subcontracted work will be controlled and monitored to ensure that
+      project goals are met.
+
+  5. Team Qualifications and Resumes – (4 pages maximum, not including resumes) Demonstrate staff and
+     team qualifications by providing the following:
+         1. Description of how the organization has adequate staff qualifications to complete the
+            deliverables of this RFP and ensure that project goals are met. Please include information about
+            lead personnel and key supporting personnel.
+         2. List of all staff and subcontractors that will perform or is anticipated to perform work under this
+            RFP and the anticipated task/role.
+         3. Resumes for key personnel and subcontractors performing work for the project (resumes must
+            clearly explain relevant background and qualifications of key personnel and subcontractors).
+
+  6. Summary of Experience – (3 pages maximum, not including sample strategic plan) Describe two (2)
+     relevant work experiences that specifically illustrate how proposer has been successful with previous
+     projects of similar scope and scale.
+Development of an IT Strategic Plan                                                                       Page 7
+                                     City of West Hollywood RFP
+
+           1. Sample IT Strategic plan form similar size and scope project.
+
+  7. Cost Proposal – (2 pages maximum) Provide a fixed fee cost proposal for the assessment phase and a
+     fixed fee cost proposal for the IT Strategic Plan phase of work. Please do not propose a cost for the
+     implementation support phase. Provide a cost breakdown for each of the proposed fixed fees and include
+     an explanation of your proposed costs. Also provide the hourly rate per staff anticipated to perform work
+     for this project, including any subcontractors. State each staff member’s name, title, and rate.
+
+  8. References – Provide a list of three (3) current or former references for which the proposer has
+     performed similar work. Include the name of the organization, name of a contact person, phone number,
+     e-mail address if available, description of services provided, and date/dates of service. At least one (1) of
+     the reference should be from a municipality or another government agency.
+
+Failure to submit all required attachments will constitute an incomplete proposal and may be grounds for
+disqualification. Proposers are responsible for any errors omissions in their proposals and applications.
+Proposals received after this deadline will not be considered. It is the responsibility of the proposer to ensure,
+prior to submission, that its proposal reflects the requirements of this solicitation.
+
+
+EVALUATION CRITERIA
+The City specifically reserves the right to evaluate, in its absolute discretion, the total proposal of each vendor
+so as to select the services which best serve the needs of the City, thus ensuring that the best interest of the City
+will be served.
+
+The following are the City of West Hollywood’s criteria for selection of a finalist.
+   • Total cost for the services proposed.
+   • Vendor’s demonstrated understanding of requirements and needs of the City based on submitted
+       response.
+   • Past experience and track record in completing projects of similar scope and complexity for
+       municipalities.
+   • Personnel assigned to the project and their experience with similar projects
+
+
+EXHIBITS
+Exhibit A – City Contract Template
+
+
+
+
+Development of an IT Strategic Plan                                                                          Page 8
+                                            CITY OF WEST HOLLYWOOD
+                                            AGREEMENT FOR SERVICES
+
+This Agreement is made on this ___th day of _____________, 2016, at West Hollywood,
+California, by and between the City of West Hollywood, a municipal corporation, 8300 Santa
+Monica Boulevard, West Hollywood, California 90069 (hereinafter referred to as the “CITY”) and
+XYZ Company, 1500 Main Street, City, CA 90000 (hereinafter referred to as the
+“CONTRACTOR”).
+
+                                                        RECITALS
+
+A. The CITY proposes to contract for services as outlined below;
+
+B. The CONTRACTOR is willing to perform such services and has the necessary qualifications
+   by reason of experience, preparation, and organization to provide such services;
+
+C. NOW, THEREFORE, the CITY and the CONTRACTOR, mutually agree as follows:
+
+        1.          SERVICES. The CONTRACTOR shall perform those services set forth in “Exhibit A,”
+                    which is attached hereto and incorporated herein by reference.
+
+        2.          TERM OF AGREEMENT. The term of this contract shall commence upon execution
+                    by both parties and shall expire on June 30, 20___ unless extended in writing in
+                    advance by both parties.
+
+        3.          TIME OF PERFORMANCE. The services of the CONTRACTOR are to commence
+                    upon receipt of a notice to proceed from the CITY and shall continue until all
+                    authorized work is completed to the CITY’s satisfaction, in accordance with the
+                    schedule incorporated in “Exhibit A,” unless extended in writing by the CITY.
+
+        4.          PAYMENT FOR SERVICES. The CONTRACTOR shall be compensated in an
+                    amount not to exceed $__________ for services provided pursuant to this Agreement
+                    as described in “Exhibit A.” Compensation shall under no circumstances be
+                    increased except by written amendment of this Agreement. The CONTRACTOR
+                    shall be paid within forty-five (45) days of presentation of an invoice to the CITY for
+                    services performed to the CITY’s satisfaction. The CONTRACTOR shall submit
+                    invoices monthly describing the services performed, the date services were
+                    performed, a description of reimbursable costs, and any other information requested
+                    by the CITY.
+
+        5.          CONTRACT ADMINISTRATION.
+
+                    5.1.       The CITY’s Representative. Unless otherwise designated in
+                               writing,_____________________, shall serve as the CITY’s representative for
+                               the administration of the project. All activities performed by the
+                               CONTRACTOR shall be coordinated with this person.
+
+                    5.2.       Manager-in-Charge. For the CONTRACTOR, _____________________,
+                               shall be in charge of the project on all matters relating to this Agreement and
+                               any agreement or approval made by her/him shall be binding on the
+                               CONTRACTOR. The Manager-in-Charge shall not be replaced without the
+                               written consent of the CITY.
+
+
+
+Contract_Over25K – Sept 2016                            Page 1 of 11
+                                                                                  CITY OF WEST HOLLYWOOD
+                                                                                  AGREEMENT FOR SERVICES
+
+                    5.3.       Responsibilities of the CITY. The CITY shall provide all relevant
+                               documentation in its possession to the CONTRACTOR upon request in order
+                               to minimize duplication of efforts. The CITY’s staff shall work with the
+                               CONTRACTOR as necessary to facilitate performance of the services.
+
+                    5.4.       Personnel. The CONTRACTOR represents that it has or will secure at its
+                               own expense all personnel required to perform the services under this
+                               Agreement. All of the services required under this Agreement will be
+                               performed by the CONTRACTOR or under its supervision, and all personnel
+                               engaged in the work shall be qualified to perform such services. The
+                               CONTRACTOR reserves the right to determine the assignment of its own
+                               employees to the performance of the CONTRACTOR’s services under this
+                               Agreement, but the CITY reserves the right, for good cause, to require the
+                               CONTRACTOR to exclude any employee from performing services on the
+                               CITY’s premises.
+
+        6.          TERMINATION.
+
+                    6.1.       Termination for Convenience. Either party may terminate this Agreement
+                               without cause and in its sole discretion at any time by giving the other party
+                               thirty (30) days' written notice of such termination. In the event of such
+                               termination, the CONTRACTOR shall cease services as of the date of
+                               termination and shall be compensated for services performed to the CITY's
+                               satisfaction up to the date of termination.
+
+                    6.2.       Termination for Cause. All terms, provisions, and specifications of this
+                               Agreement are material and binding, and failure to perform any material
+                               portion of the work described herein shall be considered a breach of this
+                               Agreement. Should the Agreement be breached in any manner, the CITY
+                               may, at its option, terminate the Agreement not less than five (5) days after
+                               written notification is received by the CONTRACTOR to remedy the violation
+                               within the stated time or within any other time period agreed to by the parties.
+                               In the event of such termination, the CONTRACTOR shall be responsible for
+                               any additional costs incurred by the CITY in securing the services from
+                               another contractor.
+
+        7.          INDEMNIFICATION. CONTRACTOR shall indemnify, defend with counsel approved
+                    by CITY, and hold harmless CITY, its officers, officials, employees and volunteers
+                    from and against all liability, loss, damage, expense, cost (including without limitation
+                    reasonable attorneys fees, expert fees and all other costs and fees of litigation) of
+                    every nature arising out of or in connection with CONTRACTOR's performance of
+                    work hereunder or its failure to comply with any of its obligations contained in this
+                    AGREEMENT, regardless of CITY’S passive negligence, but excepting such loss or
+                    damage which is caused by the sole active negligence or willful misconduct of the
+                    CITY. Should CITY in its sole discretion find CONTRACTOR’S legal counsel
+                    unacceptable, then CONTRACTOR shall reimburse the CITY its costs of defense,
+                    including without limitation reasonable attorneys fees, expert fees and all other costs
+                    and fees of litigation. The CONTRACTOR shall promptly pay any final judgment
+                    rendered against the CITY (and its officers, officials, employees and volunteers)
+                    covered by this indemnity obligation. It is expressly understood and agreed that the
+
+
+
+Contract_Over25K – Sept 2016                            Page 2 of 11
+                                                                                  CITY OF WEST HOLLYWOOD
+                                                                                  AGREEMENT FOR SERVICES
+
+                    foregoing provisions are intended to be as broad and inclusive as is permitted by the
+                    law of the State of California and will survive termination of this Agreement.
+
+        8.          INSURANCE REQUIREMENTS.
+
+                    8.1.       The CONTRACTOR, at the CONTRACTOR’s own cost and expense, shall
+                               procure and maintain, for the duration of the contract, the following insurance
+                               policies:
+
+                               8.1.1.   Workers’ Compensation Coverage. The CONTRACTOR shall
+                                        maintain Workers’ Compensation Insurance and Employer’s Liability
+                                        Insurance for its employees in accordance with the laws of the State
+                                        of California. In addition, the CONTRACTOR shall require any and
+                                        every subcontractor to similarly maintain Workers’ Compensation
+                                        Insurance and Employer’s Liability Insurance in accordance with the
+                                        laws of the State of California for all of the subcontractor’s
+                                        employees. Any notice of cancellation or non-renewal of all Workers’
+                                        Compensation policies must be received by the CITY at least thirty
+                                        (30) days prior to such change. The insurer shall agree to waive all
+                                        rights of subrogation against the CITY, its officers, agents,
+                                        employees, and volunteers for losses arising from work performed by
+                                        the CONTRACTOR for City.
+
+                                        This provision shall not apply if the CONTRACTOR has no
+                                        employees performing work under this Agreement. If the
+                                        CONTRACTOR has no employees for the purposes of this
+                                        Agreement, the CONTRACTOR shall sign the “Certificate of
+                                        Exemption from Workers’ Compensation Insurance” which is
+                                        attached hereto and incorporated herein by reference as “Exhibit B.”
+
+                               8.1.2.   General Liability Coverage. The CONTRACTOR shall maintain
+                                        commercial general liability insurance in an amount of not less than
+                                        one million dollars ($1,000,000) per occurrence for bodily injury,
+                                        personal injury, and property damage. If a commercial general
+                                        liability insurance form or other form with a general aggregate limit is
+                                        used, either the general aggregate limit shall apply separately to the
+                                        work to be performed under this Agreement or the general aggregate
+                                        limit shall be at least twice the required occurrence limit.
+
+                               8.1.3.   Automobile Liability Coverage. The CONTRACTOR shall maintain
+                                        automobile liability insurance covering bodily injury and property
+                                        damage for all activities of the CONTRACTOR arising out of or in
+                                        connection with the work to be performed under this Agreement,
+                                        including coverage for owned, hired, and non-owned vehicles, in an
+                                        amount of not less than three hundred thousand dollars ($300,000)
+                                        combined single limit for each occurrence. If CONTRACTOR or
+                                        CONTRACTOR’s employees will use personal autos in any way on
+                                        this project, CONTRACTOR shall obtain evidence of personal auto
+                                        liability coverage for each such person.
+
+
+
+
+Contract_Over25K – Sept 2016                            Page 3 of 11
+                                                                                  CITY OF WEST HOLLYWOOD
+                                                                                  AGREEMENT FOR SERVICES
+
+                    8.2.       Endorsements. Each general liability and automobile liability insurance
+                               policy shall be issued by insurers possessing a Best’s rating of no less than
+                               A-:VII. Each general liability insurance policy shall be endorsed with the
+                               specific language of Section 8.2.1 below. CONTRACTOR also agrees to
+                               require all contractors, and subcontractors to do likewise.
+
+                               8.2.1.   “The CITY, its elected or appointed officers, officials, employees,
+                                        agents, and volunteers are to be covered as additional insureds with
+                                        respect to liability arising out of work performed by or on behalf of the
+                                        CONTRACTOR, including materials, parts, or equipment furnished in
+                                        connection with such work or operations.”
+
+                               8.2.2.   This policy shall be considered primary insurance as respects the
+                                        CITY, its elected or appointed officers, officials, employees, agents,
+                                        and volunteers. Any insurance maintained by the CITY, including
+                                        any self-insured retention the CITY may have, shall be considered
+                                        excess insurance only and shall not contribute with this policy.
+
+                               8.2.3.   This insurance shall act for each insured and additional insured as
+                                        though a separate policy had been written for each, except with
+                                        respect to the limits of liability of the insuring company.
+
+                               8.2.4.   Notwithstanding the provisions included in any of the ISO Additional
+                                        Insured Endorsement forms, CONTRACTOR acknowledges that the
+                                        insurance coverage and policy limits set forth in this section
+                                        constitute the minimum amounts of coverage required. Any
+                                        insurance proceeds available to the CITY in excess of the limits and
+                                        coverage required in this agreement and which is applicable to a
+                                        given loss will be available to the CITY.
+
+                               8.2.5.   The insurer waives all rights of subrogation against the CITY, its
+                                        elected or appointed officers, officials, employees, or agents
+                                        regardless of the applicability of any insurance proceeds, and agrees
+                                        to require all subcontractors to do likewise.
+
+                               8.2.6.   Any failure to comply with reporting provisions of the policies shall not
+                                        affect coverage provided to the City, its elected or appointed officers,
+                                        officials, employees, agents, or volunteers.
+
+                               8.2.7.   The insurance provided by this policy shall not be suspended, voided
+                                        or reduced in coverage or in limits except after thirty (30) days’
+                                        written notice has been submitted to the CITY and approved of in
+                                        writing, except in the case of cancellation, for which ten (10) days’
+                                        written notice shall be provided.
+
+                               8.2.8.   Contractor agrees to provide immediate notice to City of any claim or
+                                        loss against Contractor arising out of the work performed under this
+                                        agreement. City assumes no obligation or liability by such notice, but
+                                        has the right (but not the duty) to monitor the handling of any such
+                                        claim or claims if they are likely to involve City.
+
+
+
+Contract_Over25K – Sept 2016                            Page 4 of 11
+                                                                                CITY OF WEST HOLLYWOOD
+                                                                                AGREEMENT FOR SERVICES
+
+                    8.3.       Self Insured Retention/Deductibles. All policies required by this Agreement
+                               shall allow City, as additional insured, to satisfy the self-insured retention
+                               (“SIR”) and/or deductible of the policy in lieu of the Owner (as the named
+                               insured) should Owner fail to pay the SIR or deductible requirements. The
+                               amount of the SIR or deductible shall be subject to the approval of the City
+                               Attorney and the Finance Director. Owner understands and agrees that
+                               satisfaction of this requirement is an express condition precedent to the
+                               effectiveness of this Agreement. Failure by Owner as primary insured to pay
+                               its SIR or deductible constitutes a material breach of this Agreement. Should
+                               City pay the SIR or deductible on Owner’s behalf upon the Owner’s failure or
+                               refusal to do so in order to secure defense and indemnification as an
+                               additional insured under the policy, City may include such amounts as
+                               damages in any action against Owner for breach of this Agreement in addition
+                               to any other damages incurred by City due to the breach.
+
+                    8.4.       Certificates of Insurance. The CONTRACTOR shall provide certificates of
+                               insurance with original endorsements to the CITY as evidence of the
+                               insurance coverage required herein. Certificates of such insurance shall be
+                               filed with the CITY on or before commencement of performance of this
+                               Agreement. Current certification of insurance shall be kept on file with the
+                               CITY at all times during the term of this Agreement. The CONTRACTOR shall
+                               provide written evidence of current automobile coverage to comply with the
+                               automobile insurance requirement.
+
+                    8.5.       Failure to Procure Insurance. Failure on the part of the CONTRACTOR to
+                               procure or maintain required insurance shall constitute a material breach of
+                               contract under which the CITY may terminate this Agreement pursuant to
+                               Section 6.2 above.
+
+        9.          ASSIGNMENT AND SUBCONTRACTING. The parties recognize that a substantial
+                    inducement to the CITY for entering into this Agreement is the professional
+                    reputation, experience, and competence of the CONTRACTOR. Assignments of any
+                    or all rights, duties, or obligations of the CONTRACTOR under this Agreement will be
+                    permitted only with the express consent of the CITY. The CONTRACTOR shall not
+                    subcontract any portion of the work to be performed under this Agreement without the
+                    written authorization of the CITY. If the CITY consents to such subcontract, the
+                    CONTRACTOR shall be fully responsible to the CITY for all acts or omissions of the
+                    subcontractor. Nothing in this Agreement shall create any contractual relationship
+                    between the CITY and subcontractor nor shall it create any obligation on the part of
+                    the CITY to pay or to see to the payment of any monies due to any such
+                    subcontractor other than as otherwise is required by law.
+
+     10.            COMPLIANCE WITH LAWS, CODES, ORDINANCES, AND REGULATIONS. The
+                    CONTRACTOR shall use the standard of care in its profession to comply with all
+                    applicable federal, state, and local laws, codes, ordinances, and regulations.
+
+                    10.1.      Taxes. The CONTRACTOR agrees to pay all required taxes on amounts paid
+                               to the CONTRACTOR under this Agreement, and to indemnify and hold the
+                               CITY harmless from any and all taxes, assessments, penalties, and interest
+                               asserted against the CITY by reason of the independent contractor
+                               relationship created by this Agreement. In the event that the CITY is audited
+
+
+Contract_Over25K – Sept 2016                           Page 5 of 11
+                                                                                 CITY OF WEST HOLLYWOOD
+                                                                                 AGREEMENT FOR SERVICES
+
+                               by any Federal or State agency regarding the independent contractor status of
+                               the CONTRACTOR and the audit in any way fails to sustain the validity of a
+                               wholly independent contractor relationship between the CITY and the
+                               CONTRACTOR, then the CONTRACTOR agrees to reimburse the CITY for all
+                               costs, including accounting and attorneys’ fees, arising out of such audit and
+                               any appeals relating thereto.
+
+                    10.2.      Workers’ Compensation Law. The CONTRACTOR shall fully comply with
+                               the workers’ compensation law regarding the CONTRACTOR and the
+                               CONTRACTOR’s employees. The CONTRACTOR further agrees to
+                               indemnify and hold the CITY harmless from any failure of the CONTRACTOR
+                               to comply with applicable workers’ compensation laws. The CITY shall have
+                               the right to offset against the amount of any compensation due to the
+                               CONTRACTOR under this Agreement any amount due to the CITY from the
+                               CONTRACTOR as a result of the CONTRACTOR’s failure to promptly pay to
+                               the CITY any reimbursement or indemnification arising under this Section.
+
+                    10.3.      Licenses. The CONTRACTOR represents and warrants to the CITY that it
+                               has all licenses, permits, qualifications, insurance, and approvals of
+                               whatsoever nature which are legally required of the CONTRACTOR to
+                               practice its profession. The CONTRACTOR represents and warrants to the
+                               CITY that the CONTRACTOR shall, at its sole cost and expense, keep in
+                               effect or obtain at all times during the term of this Agreement any licenses,
+                               permits, insurance, and approvals which are legally required of the
+                               CONTRACTOR to practice its profession. The CONTRACTOR shall maintain
+                               a City of West Hollywood business license, if required under CITY ordinance.
+
+     11.            CONFLICT OF INTEREST. The CONTRACTOR confirms that it has no financial,
+                    contractual, or other interest or obligation that conflicts with or is harmful to
+                    performance of its obligations under this Agreement. The CONTRACTOR shall not
+                    during the term of this Agreement knowingly obtain such an interest or incur such an
+                    obligation, nor shall it employ or subcontract with any person for performance of this
+                    Agreement who has such incompatible interest or obligation.
+
+     12.            NON-DISCRIMINATION AND EQUAL EMPLOYMENT OPPORTUNITY. The
+                    CONTRACTOR represents and agrees that it does not and will not discriminate
+                    against any employee or applicant for employment because of race, religion, color,
+                    national origin, sex, sexual orientation, gender identity, political affiliation or opinion,
+                    medical condition, or pregnancy or pregnancy-related condition. The CONTRACTOR
+                    will take affirmative action to ensure that applicants are employed, and that
+                    employees are treated during employment without regard to their race, religion, color,
+                    national origin, sex, sexual orientation, gender identity, political affiliation or opinion,
+                    medical condition, or pregnancy or pregnancy-related condition. Such action shall
+                    include, but not be limited to the following: employment, upgrading, demotion or
+                    transfer; recruitment or recruitment advertising; layoffs or termination; rates of pay or
+                    other forms of compensation; and selection for training, including apprenticeship.
+                    The CONTRACTOR agrees to include in all solicitations or advertisements for
+                    employment and to post in conspicuous places, available to employees and
+                    applicants for employment, notices setting forth the provisions of this
+                    nondiscrimination clause.
+
+
+
+Contract_Over25K – Sept 2016                           Page 6 of 11
+                                                                             CITY OF WEST HOLLYWOOD
+                                                                             AGREEMENT FOR SERVICES
+
+     13.            LIVING WAGE ORDINANCE. The CONTRACTOR shall abide by the provisions of
+                    the West Hollywood Living Wage Ordinance. During the term of this Agreement, the
+                    CONTRACTOR shall keep on file sufficient evidence of its employee compensation to
+                    enable verification of compliance with the West Hollywood Living Wage Ordinance.
+
+     14.            EQUAL BENEFITS ORDINANCE, No. 03-662. The CONTRACTOR shall abide by
+                    the provisions of the West Hollywood Equal Benefits Ordinance. During the term of
+                    this Agreement, the CONTRACTOR shall keep on file sufficient evidence of its
+                    employee compensation and any applicable benefits packages, as those benefits
+                    relate to the coverage of the domestic partners of contractor's employees, which shall
+                    include; bereavement leave; family medical leave, and health insurance benefits, to
+                    enable verification of compliance with the West Hollywood Equal Benefits Ordinance.
+
+     15.            RESTRICTIONS: Arab League Boycott of Israel. The CONTRACTOR hereby
+                    affirms it does not honor the Arab League Boycott of Israel.
+
+     16.            RECORDS AND AUDITS. The CONTRACTOR shall maintain accounts and records,
+                    including personnel, property, and financial records, adequate to identify and account
+                    for all costs pertaining to this Agreement and such other records as may be deemed
+                    necessary by the CITY or any authorized representative. All records shall be made
+                    available at the request of the CITY, with reasonable notice, during regular business
+                    hours, and shall be retained by the CONTRACTOR for a period of three years after
+                    the expiration of this Agreement.
+
+     17.            OWNERSHIP OF DOCUMENTS. It is understood and agreed that the CITY shall
+                    own all documents and other work product of the CONTRACTOR, except the
+                    CONTRACTOR’s notes and workpapers, which pertain to the work performed under
+                    this Agreement. The CITY shall have the sole right to use such materials in its
+                    discretion and without further compensation to the CONTRACTOR, but any re-use of
+                    such documents by the CITY on any other project without prior written consent of the
+                    CONTRACTOR shall be at the sole risk of the CITY. The CONTRACTOR shall at its
+                    sole expense provide all such documents to the CITY upon request.
+
+     18.            INDEPENDENT CONTRACTOR. The CONTRACTOR is and shall at all times
+                    remain as to the CITY a wholly independent CONTRACTOR. Neither the CITY nor
+                    any of its agents shall have control over the conduct of the CONTRACTOR or any of
+                    the CONTRACTOR’s employees or agents, except as herein set forth. The
+                    CONTRACTOR shall not at any time or in any manner represent that it or any of its
+                    agents or employees are in any manner agents or employees of the CITY. The
+                    CONTRACTOR shall have no power to incur any debt, obligation, or liability on behalf
+                    of the CITY or otherwise act on behalf of the CITY as an agent.
+
+     19.            NOTICE. All Notices permitted or required under this Agreement shall be in writing,
+                    and shall be deemed made when delivered to the applicable party’s representative as
+                    provided in this Agreement. Additionally, such notices may be given to the respective
+                    parties at the following addresses, or at such other addresses as the parties may
+                    provide in writing for this purpose.
+
+                    Such notices shall be deemed made when personally delivered or when mailed forty-
+                    eight (48) hours after deposit in the U.S. mail, first-class postage prepaid, and
+                    addressed to the party at its applicable address.
+
+
+Contract_Over25K – Sept 2016                        Page 7 of 11
+                                                                             CITY OF WEST HOLLYWOOD
+                                                                             AGREEMENT FOR SERVICES
+
+                                             City of West Hollywood
+                                            8300 Santa Monica Blvd.
+                                         West Hollywood, CA 90069-6216
+
+                                    Attention: __________________________
+
+                                                 CONTRACTOR:
+                                               Organization Name
+                                          Street Address, City State ZIP
+
+                                    Attention: __________________________
+
+     20.            GOVERNING LAW. This Agreement shall be governed by the laws of the State of
+                    California.
+
+     21.            ENTIRE AGREEMENT; MODIFICATION. This Agreement supersedes any and all
+                    other agreements, either oral or written, between the parties, and contains all of the
+                    covenants and agreements between the parties. Each party to this Agreement
+                    acknowledges that no representations, inducements, promises, or agreements, oral
+                    or otherwise, have been made by any party, or anyone acting on behalf of any party,
+                    which are not embodied herein. Any agreement, statement, or promise not contained
+                    in the Agreement, and any modification to the Agreement, will be effective only if
+                    signed by both parties.
+
+     22.            WAIVER. Waiver of a breach or default under this Agreement shall not constitute a
+                    continuing waiver of a subsequent breach of the same or any other provision under
+                    this agreement. Payment of any invoice by the CITY shall not constitute a waiver of
+                    the CITY’s right to obtain correction or replacement of any defective or noncompliant
+                    work product.
+
+     23.            EXECUTION. This Agreement may be executed in several counterparts, each of
+                    which shall constitute one and the same instrument and shall become binding upon
+                    the parties when at least one copy hereof shall have been signed by both parties
+                    hereto. In approving this Agreement, it shall not be necessary to produce or account
+                    for more than one such counterpart.
+
+     24.            AUTHORITY TO ENTER AGREEMENT. The CONTRACTOR has all requisite power
+                    and authority to conduct its business and to execute, deliver, and perform this
+                    Agreement. Each party warrants that the individuals who have signed this
+                    Agreement have the legal power, right, and authority to make this Agreement and to
+                    bind each respective party.
+
+
+
+
+Contract_Over25K – Sept 2016                        Page 8 of 11
+                                                     CITY OF WEST HOLLYWOOD
+                                                     AGREEMENT FOR SERVICES
+
+IN WITNESS WHEREOF, the parties have executed this Agreement the ____ day of
+________________, 20___.
+
+                                   CONTRACTOR:
+
+
+                                   _____________________________________
+                                   Name, Title
+
+CITY OF WEST HOLLYWOOD:
+
+
+Department Director
+
+
+
+Paul Arevalo, City Manager
+
+
+ATTEST:
+
+
+Yvonne Quarker, City Clerk
+
+
+
+
+Contract_Over25K – Sept 2016     Page 9 of 11
+                                CITY OF WEST HOLLYWOOD
+                                AGREEMENT FOR SERVICES
+                                             Exhibit A
+
+Scope of Services:
+
+Include specific tasks, in-person meetings, interim work products (if any) and at least one final
+work product (e.g., a report or memo).
+
+
+
+
+Time of Performance:
+
+Include a schedule or timeline for delivering interim and final work products. May include
+specific dates or the number of weeks (e.g., within 30 days of project initiation).
+
+
+
+
+Special Payment Terms:                                NONE
+(only if additional to section C.4. on page 1)
+
+E.g., include a pricing sheet or hourly rate, if required or implied. Otherwise, state “None”.
+
+
+
+
+Contract_Over25K – Sept 2016                Page 10 of 11
+                                              CITY OF WEST HOLLYWOOD
+
+                                              AGREEMENT FOR SERVICES
+
+                                                          Exhibit B
+
+                                               Certificate of Exemption from
+                                              Workers’ Compensation Insurance
+
+
+
+TO:                            City of West Hollywood
+
+
+SUBJECT:                       Sole Proprietor/Partnership/Closely Held Corporation
+                               with No Employees
+
+
+
+
+Please let this memorandum notify the City of West Hollywood that I am a
+
+                                                sole proprietor
+                                                partnership
+                                                nonprofit organization
+                                                closely held corporation
+
+
+and do not have any employees whose employment requires me to carry workers’
+compensation insurance. Therefore, I do not carry worker’s compensation insurance
+coverage.
+
+
+
+Contractor Signature                                ____________________________
+
+
+Printed Name of Contractor                          ____________________________
+
+
+Date                                                ____________________________
+
+
+
+
+Contract_Over25K – Sept 2016                             Page 11 of 11
+

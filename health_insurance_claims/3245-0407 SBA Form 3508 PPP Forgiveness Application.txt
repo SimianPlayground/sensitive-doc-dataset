@@ -1,0 +1,639 @@
+                                             Paycheck Protection Program                                 OMB Control Number 3245-0407
+                                               Loan Forgiveness Application                                 Expiration Date: 10/31/2020
+
+                                LOAN FORGIVENESS APPLICATION INSTRUCTIONS FOR BORROWERS
+
+  To apply for forgiveness of your Paycheck Protection Program (PPP) loan, you (the Borrower) must complete this application as
+  directed in these instructions, and submit it to your Lender (or the Lender that is servicing your loan). Borrowers may also
+  complete this application electronically through their Lender.
+
+  This application has the following components: (1) the PPP Loan Forgiveness Calculation Form; (2) PPP Schedule A; (3) the PPP
+  Schedule A Worksheet; and (4) the (optional) PPP Borrower Demographic Information Form. All Borrowers must submit (1) and
+  (2) to their Lender.
+
+                                      Instructions for PPP Loan Forgiveness Calculation Form
+
+  Business Legal Name (“Borrower”)/DBA or Tradename (if applicable)/Business TIN (EIN, SSN): Enter the same
+  information as on your Borrower Application Form.
+
+  Business Address/Business Phone/Primary Contact/E-mail Address: Enter the same information as on your Borrower
+  Application Form, unless there has been a change in address or contact information.
+
+  SBA PPP Loan Number: Enter the loan number assigned by SBA at the time of loan approval. Request this number from the
+  Lender if necessary.
+
+  Lender PPP Loan Number: Enter the loan number assigned to the PPP loan by the Lender.
+
+  PPP Loan Amount: Enter the disbursed principal amount of the PPP loan (the total loan amount you received from the Lender).
+
+  Employees at Time of Loan Application: Enter the total number of employees at the time of the Borrower’s PPP Loan
+  Application.
+
+  Employees at Time of Forgiveness Application: Enter the total number of employees at the time the Borrower is applying for
+  loan forgiveness.
+
+  PPP Loan Disbursement Date: Enter the date that you received the PPP loan proceeds from the Lender. If loan proceeds were
+  received on more than one date, enter the first date on which you received PPP loan proceeds.
+
+  EIDL Advance Amount: If the Borrower received an Economic Injury Disaster Loan (EIDL) advance, enter the amount.
+
+  EIDL Application Number: If the Borrower applied for an EIDL, enter the Borrower’s EIDL Application Number.
+
+  Payroll Schedule: Select the box that corresponds to your payroll schedule.
+
+  Covered Period: Enter the eight-week (56-day) Covered Period of your PPP loan. The first day of the Covered Period must be
+  the same as the PPP Loan Disbursement Date. For example, if the Borrower received its PPP loan proceeds on Monday, April 20,
+  the first day of the Covered Period is April 20 and the last day of the Covered Period is Sunday, June 14.
+
+  Alternative Payroll Covered Period: For administrative convenience, Borrowers with a biweekly (or more frequent) payroll
+  schedule may elect to calculate eligible payroll costs using the eight-week (56-day) period that begins on the first day of their first
+  pay period following their PPP Loan Disbursement Date (the “Alternative Payroll Covered Period”). For example, if the Borrower
+  received its PPP loan proceeds on Monday, April 20, and the first day of its first pay period following its PPP loan disbursement is
+  Sunday, April 26, the first day of the Alternative Payroll Covered Period is April 26 and the last day of the Alternative Payroll
+  Covered Period is Saturday, June 20. Borrowers who elect to use the Alternative Payroll Covered Period must apply the
+  Alternative Payroll Covered Period wherever there is a reference in this application to “the Covered Period or the Alternative
+  Payroll Covered Period.” However, Borrowers must apply the Covered Period (not the Alternative Payroll Covered Period)
+  wherever there is a reference in this application to “the Covered Period” only.
+
+  If Borrower Received PPP Loans in Excess of $2 Million: Check the box if the Borrower, together with its affiliates (to the
+  extent required under SBA’s interim final rule on affiliates (85 FR 20817 (April 15, 2020)) and not waived under 15 U.S.C.
+  636(a)(36)(D)(iv)), received PPP loans with an original principal amount in excess of $2 million.
+
+  Forgiveness Amount Calculation (see Summary of Costs Eligible for Forgiveness below):
+
+  Line 1: Enter total eligible payroll costs incurred or paid during the Covered Period or the Alternative Payroll Covered Period.
+
+SBA Form 3508 (05/20)
+Page 1
+                                             Paycheck Protection Program                                   OMB Control Number 3245-0407
+                                               Loan Forgiveness Application                                   Expiration Date: 10/31/2020
+
+  To calculate these costs, complete PPP Schedule A. Enter the amount from PPP Schedule A, line 10.
+
+  Line 2: Enter the amount of business mortgage interest payments during the Covered Period for any business mortgage obligation
+  on real or personal property incurred before February 15, 2020. Do not include prepayments.
+
+  Line 3: Enter the amount of business rent or lease payments for real or personal property during the Covered Period, pursuant to
+  lease agreements in force before February 15, 2020.
+
+  Line 4: Enter the amount of business utility payments during the Covered Period, for business utilities for which service began
+  before February 15, 2020.
+
+  NOTE: For lines 2-4, you are not required to report payments that you do not want to include in the forgiveness amount.
+
+  Line 5: Enter the number from PPP Schedule A, line 3. This amount reflects the loan forgiveness reduction required for
+  salary/hourly wage reductions in excess of 25% for certain employees as described in PPP Schedule A.
+
+  Line 6: Add lines 1 through 4, subtract line 5, enter the total. If this amount is less than zero, enter a zero.
+
+  Line 7: Enter the number from PPP Schedule A, line 13.
+
+  Line 8: Enter the amount on line 6 multiplied by the amount on line 7. This calculation incorporates the loan forgiveness
+  reduction required for any full-time equivalency (FTE) employee reductions as described in PPP Schedule A.
+
+  Line 9: Enter the PPP Loan Amount.
+
+  Line 10: Divide the amount on line 1 by 0.75, and enter the amount. This determines whether at least 75% of the potential
+  forgiveness amount was used for payroll costs. For more information, see Interim Final Rule on Paycheck Protection Program
+  posted on April 2, 2020 (85 FR 20811).
+
+  Line 11: Enter the smallest of lines 8, 9, or 10. Note: If applicable, SBA will deduct EIDL Advance Amounts from the
+  forgiveness amount remitted to the Lender.
+
+  Summary of Costs Eligible for Forgiveness:
+
+  Borrowers are eligible for loan forgiveness for the following costs:
+
+    1.   Eligible payroll costs. Borrowers are generally eligible for forgiveness for the payroll costs paid and payroll costs incurred
+         during the eight-week (56-day) Covered Period (or Alternative Payroll Covered Period) (“payroll costs”). Payroll costs are
+         considered paid on the day that paychecks are distributed or the Borrower originates an ACH credit transaction. Payroll
+         costs are considered incurred on the day that the employee’s pay is earned. Payroll costs incurred but not paid during the
+         Borrower’s last pay period of the Covered Period (or Alternative Payroll Covered Period) are eligible for forgiveness if paid
+         on or before the next regular payroll date. Otherwise, payroll costs must be paid during the Covered Period (or Alternative
+         Payroll Covered Period). For each individual employee, the total amount of cash compensation eligible for forgiveness may
+         not exceed an annual salary of $100,000, as prorated for the covered period. Count payroll costs that were both paid and
+         incurred only once. For information on what qualifies as payroll costs, see Interim Final Rule on Paycheck Protection
+         Program posted on April 2, 2020 (85 FR 20811).
+
+    2.   Eligible nonpayroll costs. Nonpayroll costs eligible for forgiveness consist of:
+             (a) covered mortgage obligations: payments of interest (not including any prepayment or payment of principal) on any
+             business mortgage obligation on real or personal property incurred before February 15, 2020 (“business mortgage
+             interest payments”);
+             (b) covered rent obligations: business rent or lease payments pursuant to lease agreements for real or personal property in
+             force before February 15, 2020 (“business rent or lease payments”); and
+             (c) covered utility payments: business payments for a service for the distribution of electricity, gas, water,
+             transportation, telephone, or internet access for which service began before February 15, 2020 (“business utility
+             payments”).
+         An eligible nonpayroll cost must be paid during the Covered Period or incurred during the Covered Period and paid on or
+         before the next regular billing date, even if the billing date is after the Covered Period. Eligible nonpayroll costs cannot
+         exceed 25% of the total forgiveness amount. Count nonpayroll costs that were both paid and incurred only once.
+
+  The amount of loan forgiveness the Borrower applies for may be subject to reductions as explained in PPP Schedule A.
+SBA Form 3508 (05/20)
+Page 2
+                                            Paycheck Protection Program                                  OMB Control Number 3245-0407
+                                              Loan Forgiveness Application                                  Expiration Date: 10/31/2020
+
+                                             PPP Loan Forgiveness Calculation Form
+
+                         Business Legal Name (“Borrower”)                                    DBA or Tradename, if applicable
+
+                                 Business Address                                  Business TIN (EIN, SSN)              Business Phone
+                                                                                                                (   )       -
+                                                                                       Primary Contact                  E-mail Address
+
+
+
+  SBA PPP Loan Number: ________________________               Lender PPP Loan Number: __________________________
+
+  PPP Loan Amount: _____________________________ PPP Loan Disbursement Date: _______________________
+
+  Employees at Time of Loan Application: ___________
+
+  Employees at Time of Forgiveness Application: ___________
+
+  EIDL Advance Amount: ________________________               EIDL Application Number: __________________________
+
+  Payroll Schedule: The frequency with which payroll is paid to employees is:
+
+    ☐ Weekly         ☐ Biweekly (every other week)            ☐ Twice a month             ☐ Monthly          ☐ Other _____________
+
+  Covered Period: ________________________ to ________________________
+
+  Alternative Payroll Covered Period, if applicable: ________________________ to _______________________
+
+  If Borrower (together with affiliates, if applicable) received PPP loans in excess of $2 million, check here: ☐
+
+  Forgiveness Amount Calculation:
+
+  Payroll and Nonpayroll Costs
+  Line 1. Payroll Costs (enter the amount from PPP Schedule A, line 10):                                     _____________________
+
+  Line 2. Business Mortgage Interest Payments:                                                               _____________________
+
+  Line 3. Business Rent or Lease Payments:                                                                   _____________________
+
+  Line 4. Business Utility Payments:                                                                         _____________________
+
+  Adjustments for Full-Time Equivalency (FTE) and Salary/Hourly Wage Reductions
+  Line 5. Total Salary/Hourly Wage Reduction (enter the amount from PPP Schedule A, line 3):                 _____________________
+
+  Line 6. Add the amounts on lines 1, 2, 3, and 4, then subtract the amount entered in line 5:               _____________________
+
+  Line 7. FTE Reduction Quotient (enter the number from PPP Schedule A, line 13):                            _____________________
+
+  Potential Forgiveness Amounts
+  Line 8. Modified Total (multiply line 6 by line 7):                                                        _____________________
+
+  Line 9. PPP Loan Amount:                                                                                   _____________________
+
+  Line 10. Payroll Cost 75% Requirement (divide line 1 by 0.75):                                             _____________________
+
+  Forgiveness Amount
+  Line 11. Forgiveness Amount (enter the smallest of lines 8, 9, and 10):                                    _____________________
+
+
+
+
+SBA Form 3508 (05/20)
+Page 3
+                                             Paycheck Protection Program                                OMB Control Number 3245-0407
+                                               Loan Forgiveness Application                                Expiration Date: 10/31/2020
+
+By Signing Below, You Make the Following Representations and Certifications on Behalf of the Borrower:
+
+The authorized representative of the Borrower certifies to all of the below by initialing next to each one.
+
+ _____     The dollar amount for which forgiveness is requested:
+               • was used to pay costs that are eligible for forgiveness (payroll costs to retain employees; business mortgage
+                    interest payments; business rent or lease payments; or business utility payments);
+               • includes all applicable reductions due to decreases in the number of full-time equivalent employees and
+                    salary/hourly wage reductions;
+               • does not include nonpayroll costs in excess of 25% of the amount requested; and
+               • does not exceed eight weeks’ worth of 2019 compensation for any owner-employee or self-employed
+                    individual/general partner, capped at $15,385 per individual.
+
+ _____     I understand that if the funds were knowingly used for unauthorized purposes, the federal government may pursue recovery
+           of loan amounts and/or civil or criminal fraud charges.
+
+ _____     The Borrower has accurately verified the payments for the eligible payroll and nonpayroll costs for which the Borrower is
+           requesting forgiveness.
+
+ _____     I have submitted to the Lender the required documentation verifying payroll costs, the existence of obligations and service
+           (as applicable) prior to February 15, 2020, and eligible business mortgage interest payments, business rent or lease
+           payments, and business utility payments.
+
+ _____     The information provided in this application and the information provided in all supporting documents and forms is
+           true and correct in all material respects. I understand that knowingly making a false statement to obtain forgiveness of
+           an SBA-guaranteed loan is punishable under the law, including 18 USC 1001 and 3571 by imprisonment of not more than
+           five years and/or a fine of up to $250,000; under 15 USC 645 by imprisonment of not more than two years and/or a fine
+           of not more than $5,000; and, if submitted to a Federally insured institution, under 18 USC 1014 by imprisonment of not
+           more than thirty years and/or a fine of not more than $1,000,000.
+
+ _____     The tax documents I have submitted to the Lender are consistent with those the Borrower has submitted/will submit
+           to the IRS and/or state tax or workforce agency. I also understand, acknowledge, and agree that the Lender can
+           share the tax information with SBA’s authorized representatives, including authorized representatives of the SBA
+           Office of Inspector General, for the purpose of ensuring compliance with PPP requirements and all SBA reviews.
+
+ _____     I understand, acknowledge, and agree that SBA may request additional information for the purposes of evaluating
+           the Borrower’s eligibility for the PPP loan and for loan forgiveness, and that the Borrower’s failure to provide
+           information requested by SBA may result in a determination that the Borrower was ineligible for the PPP loan or a
+           denial of the Borrower’s loan forgiveness application.
+
+ The Borrower’s eligibility for loan forgiveness will be evaluated in accordance with the PPP regulations and guidance issued by
+ SBA through the date of this application. SBA may direct a lender to disapprove the Borrower’s loan forgiveness application if
+ SBA determines that the Borrower was ineligible for the PPP loan.
+
+_____________________________________________________                                      ____________________________
+Signature of Authorized Representative of Borrower                                         Date
+
+_____________________________________________________                                      ____________________________
+Print Name                                                                                 Title
+
+
+
+
+SBA Form 3508 (05/20)
+Page 4
+                                             Paycheck Protection Program                                  OMB Control Number 3245-0407
+                                               Loan Forgiveness Application                                  Expiration Date: 10/31/2020
+
+                                                   Instructions for PPP Schedule A
+
+Lines 1 through 5: Enter the amounts from PPP Schedule A Worksheet Tables as directed.
+
+Enter the amount from line 3 of PPP Schedule A on line 5 of the Loan Forgiveness Application Form.
+
+For lines 6 through 9, during the Covered Period or the Alternative Payroll Covered Period:
+
+         Line 6: Enter the total amount paid by the Borrower for employer contributions for employee health insurance, including
+         employer contributions to a self-insured, employer-sponsored group health plan, but excluding any pre-tax or after tax
+         contributions by employees.
+
+         Line 7: Enter the total amount paid by the Borrower for employer contributions to employee retirement plans, excluding
+         any pre-tax or after-tax contributions by employees.
+
+         Line 8: Enter the total amount paid by the Borrower for employer state and local taxes assessed on employee compensation
+         (e.g., state unemployment insurance tax); do not list any taxes withheld from employee earnings.
+
+         Line 9: Enter any amounts paid to owners (owner-employees, a self-employed individual, or general partners). This
+         amount is capped at $15,385 (the eight-week equivalent of $100,000 per year) for each individual or the eight-week
+         equivalent of their applicable compensation in 2019, whichever is lower. See Interim Final Rule on Additional Eligibility
+         Criteria and Requirements for Certain Pledges of Loans posted on April 14, 2020 for more information (85 FR 21747,
+         21749).
+
+Line 10: Add lines 1, 4, 6, 7, 8, and 9. Enter this amount on line 1 on the PPP Loan Forgiveness Calculation Form.
+
+Line 11: Enter the Borrower’s total average weekly full-time equivalency (FTE) during the chosen reference period. For purposes
+of this calculation, the reference period is, at the Borrower’s election, either (i) February 15, 2019 to June 30, 2019; (ii) January 1,
+2020 to February 29, 2020; or (iii) in the case of seasonal employers, either of the preceding periods or a consecutive twelve-week
+period between May 1, 2019 and September 15, 2019. For each employee, follow the same method that was used to calculate
+Average FTE on the PPP Schedule A Worksheet. Sum across all employees during the reference period and enter that total on this
+line.
+
+The calculations on lines 11, 12, and 13 will be used to determine whether the Borrower’s loan forgiveness amount must be reduced
+based on reductions in full-time equivalent employees, as required by the statute. Specifically, the actual loan forgiveness amount that
+the Borrower will receive may be reduced if the Borrower’s average weekly FTE employees during the Covered Period (or the
+Alternative Payroll Covered Period) was less than during the Borrower’s chosen reference period. The Borrower is exempt from such
+a reduction if the FTE Reduction Safe Harbor applies. See PPP Schedule A Worksheet—FTE Reduction Safe Harbor.
+
+Line 12: Add lines 2 and 5.
+
+Line 13: Divide line 12 by line 11 (or enter 1.0 if the FTE Reduction Safe Harbor has been met, according to PPP Schedule A
+Worksheet—FTE Reduction Safe Harbor). If more than 1.0, enter 1.0. Enter this amount on line 7 of the Loan Forgiveness
+Calculation Form.
+
+
+
+
+SBA Form 3508 (05/20)
+Page 5
+                                              Paycheck Protection Program                             OMB Control Number 3245-0407
+                                                Loan Forgiveness Application                             Expiration Date: 10/31/2020
+
+                                                           PPP Schedule A
+
+PPP Schedule A Worksheet, Table 1 Totals
+
+Line 1. Enter Cash Compensation (Box 1) from PPP Schedule A Worksheet, Table 1:                            ___________________
+
+Line 2. Enter Average FTE (Box 2) from PPP Schedule A Worksheet, Table 1:                                  ___________________
+
+Line 3. Enter Salary/Hourly Wage Reduction (Box 3) from PPP Schedule A Worksheet, Table 1:                 ___________________
+        If the average annual salary or hourly wage for each employee listed on the PPP
+        Schedule A Worksheet, Table 1 during the Covered Period or the Alternative Payroll
+        Covered Period was at least 75% of such employee’s average annual salary or hourly
+        wage between January 1, 2020 and March 31, 2020, check here ☐ and enter 0 on line
+        3.
+
+PPP Schedule A Worksheet, Table 2 Totals
+
+Line 4. Enter Cash Compensation (Box 4) from PPP Schedule A Worksheet, Table 2:                            ___________________
+
+Line 5. Enter Average FTE (Box 5) from PPP Schedule A Worksheet, Table 2:                                  ___________________
+
+Non-Cash Compensation Payroll Costs During the Covered Period or the Alternative Payroll Covered Period
+
+Line 6. Total amount paid by Borrower for employer contributions for employee health insurance:            ___________________
+
+Line 7. Total amount paid by Borrower for employer contributions to employee retirement plans:             ___________________
+
+Line 8. Total amount paid by Borrower for employer state and local taxes assessed on employee
+        compensation:                                                                                      ___________________
+
+Compensation to Owners
+
+Line 9. Total amount paid to owner-employees/self-employed individual/general partners:                    _____________________
+        This amount may not be included in PPP Schedule A Worksheet, Table 1 or 2. If there is
+        more than one individual included, attach a separate table that lists the names of and
+        payments to each.
+
+Total Payroll Costs
+
+Line 10. Payroll Costs (add lines 1, 4, 6, 7, 8, and 9):                                                   ___________________
+
+Full-Time Equivalency (FTE) Reduction Calculation
+If you have not reduced the number of employees or the average paid hours of your employees between
+January 1, 2020 and the end of the Covered Period, check here ☐, skip lines 11 and 12 and enter 1.0 on line 13.
+
+
+Line 11. Average FTE during the Borrower’s chosen reference period:                                        ___________________
+
+Line 12. Total Average FTE (add lines 2 and 5):                                                            ___________________
+
+Line 13. FTE Reduction Quotient (divide line 12 by line 11) or enter 1.0 if FTE Safe Harbor is met:        ___________________
+
+
+
+SBA Form 3508 (05/20)
+Page 6
+                                           Paycheck Protection Program                               OMB Control Number 3245-0407
+                                             Loan Forgiveness Application                               Expiration Date: 10/31/2020
+
+                                           Instructions for PPP Schedule A Worksheet
+
+Complete the PPP Schedule A Worksheet or obtain an equivalent report from the Borrower’s payroll system or payroll processor.
+
+Table Instructions
+
+Employee’s Name: Separately list each employee. Do not include any independent contractors, owner-employees, self-employed
+individuals, or partners.
+
+Employee Identifier: Enter the last four digits of each employee’s Social Security Number.
+
+Cash Compensation: Enter the sum of gross salary, gross wages, gross tips, gross commissions, paid leave (vacation, family,
+medical or sick leave, not including leave covered by the Families First Coronavirus Response Act), and allowances for dismissal or
+separation paid or incurred during the Covered Period or the Alternative Payroll Covered Period. For each individual employee, the
+total amount of cash compensation eligible for forgiveness may not exceed an annual salary of $100,000, as prorated for the Covered
+Period; therefore, do not enter more than $15,385 in Table 1 or Table 2 for any individual employee.
+
+Average FTE: This calculates the average full-time equivalency (FTE) during the Covered Period or the Alternative Payroll Covered
+Period. For each employee, enter the average number of hours paid per week, divide by 40, and round the total to the nearest tenth.
+The maximum for each employee is capped at 1.0. A simplified method that assigns a 1.0 for employees who work 40 hours or more
+per week and 0.5 for employees who work fewer hours may be used at the election of the Borrower.
+
+This calculation will be used to determine whether the Borrower’s loan forgiveness amount must be reduced due to a statutory
+requirement concerning reductions in full-time equivalent employees. Borrowers are eligible for loan forgiveness for certain
+expenditures during the Covered Period or the Alternative Payroll Covered Period. However, the actual loan forgiveness amount that
+the Borrower will receive may be less, depending on whether the Borrower’s average weekly number of FTE employees during the
+Covered Period or the Alternative Payroll Covered Period was less than during the Borrower’s chosen reference period (see
+Instructions to PPP Schedule A, Line 11). The Borrower is exempt from such a reduction if the FTE Reduction Safe Harbor applies.
+See the FTE Reduction Safe Harbor instructions below.
+
+Salary/Hourly Wage Reduction: This calculation will be used to determine whether the Borrower’s loan forgiveness amount must
+be reduced due to a statutory requirement concerning reductions in employee salary and wages. Borrowers are eligible for loan
+forgiveness for certain expenditures during the Covered Period or the Alternative Payroll Covered Period. However, the actual
+amount of loan forgiveness the Borrower will receive may be less, depending on whether the salary or hourly wages of certain
+employees during the Covered Period or the Alternative Payroll Covered Period was less than during the period from January 1, 2020
+to March 31, 2020. If the Borrower restored salary/hourly wage levels, the Borrower may be eligible for elimination of the
+Salary/Hourly Wage Reduction amount. Borrowers must complete this worksheet to determine whether to reduce the amount of loan
+forgiveness for which they are eligible. Complete the Salary/Hour Wage Reduction column only for employees whose salaries or
+hourly wages were reduced by more than 25% during the Covered Period or the Alternative Payroll Covered Period as compared to
+the period of January 1, 2020 through March 31, 2020. For each employee listed in Table 1, complete the following (using salary for
+salaried employees and hourly wage for hourly employees):
+
+        Step 1. Determine if pay was reduced more than 25%.
+                 a. Enter average annual salary or hourly wage during Covered Period or Alternative Payroll Covered Period:
+                     ______________.
+                 b. Enter average annual salary or hourly wage between January 1, 2020 and March 31, 2020: ______________.
+                 c. Divide the value entered in 1.a. by 1.b.: ______________.
+                     If 1.c. is 0.75 or more, enter zero in the column above box 3 for that employee; otherwise proceed to Step 2.
+
+        Step 2. Determine if the Salary/Hourly Wage Reduction Safe Harbor is met.
+                 a. Enter the annual salary or hourly wage as of February 15, 2020: ______________.
+                 b. Enter the average annual salary or hourly wage between February 15, 2020 and April 26, 2020:
+                     ______________.
+                     If 2.b. is equal to or greater than 2.a., skip to Step 3. Otherwise, proceed to 2.c.
+                 c. Enter the average annual salary or hourly wage as of June 30, 2020: ______________.
+                     If 2.c. is equal to or greater than 2.a., the Salary/Hourly Wage Reduction Safe Harbor has been met – enter
+                     zero in the column above box 3 for that employee. Otherwise proceed to Step 3.
+
+        Step 3. Determine the Salary/Hourly Wage Reduction.
+                 a. Multiply the amount entered in 1.b. by 0.75: ______________.
+                 b. Subtract the amount entered in 1.a. from 3.a.: ______________.
+SBA Form 3508 (05/20)
+Page 7
+                                            Paycheck Protection Program                                OMB Control Number 3245-0407
+                                              Loan Forgiveness Application                                Expiration Date: 10/31/2020
+
+             If the employee is an hourly worker, compute the total dollar amount of the reduction that exceeds 25% as follows:
+                  c. Enter the average number of hours worked per week between January 1, 2020 and March 31, 2020:
+                      ______________.
+
+                  d.  Multiply the amount entered in 3.b. by the amount entered in 3.c. ______________. Multiply this amount by
+                      8: ______________. Enter this value in the column above box 3 for that employee.
+             If the employee is a salaried worker, compute the total dollar amount of the reduction that exceeds 25% as follows:
+                  e. Multiply the amount entered in 3.b. by 8: ______________. Divide this amount by 52: ______________.
+                      Enter this value in the column above box 3 for that employee.
+
+FTE Reduction Exceptions: Indicate the FTE of (1) any positions for which the Borrower made a good-faith, written offer to rehire
+an employee during the Covered Period or the Alternative Payroll Covered Period which was rejected by the employee; and (2) any
+employees who during the Covered Period or the Alternative Payroll Covered Period (a) were fired for cause, (b) voluntarily resigned,
+or (c) voluntarily requested and received a reduction of their hours. In all of these cases, include these FTEs on this line only if the
+position was not filled by a new employee. Any FTE reductions in these cases do not reduce the Borrower’s loan forgiveness.
+
+Boxes 1 through 5: Enter the sums of the amounts in each of the columns.
+
+FTE Reduction Safe Harbor
+
+A safe harbor under applicable law and regulation exempts certain borrowers from the loan forgiveness reduction based on FTE
+employee levels. Specifically, the Borrower is exempt from the reduction in loan forgiveness based on FTE employees described above
+if both of the following conditions are met: (1) the Borrower reduced its FTE employee levels in the period beginning February 15,
+2020, and ending April 26, 2020; and (2) the Borrower then restored its FTE employee levels by not later than June 30, 2020 to its FTE
+employee levels in the Borrower’s pay period that included February 15, 2020.
+
+
+
+
+SBA Form 3508 (05/20)
+Page 8
+                                             Paycheck Protection Program                               OMB Control Number 3245-0407
+                                              Loan Forgiveness Application                                Expiration Date: 10/31/2020
+
+                                                     PPP Schedule A Worksheet
+
+Table 1: List employees who:
+   • Were employed by the Borrower at any point during the Covered Period or the Alternative Payroll Covered Period whose
+        principal place of residence is in the United States; and
+   • Received compensation from the Borrower at an annualized rate of less than or equal to $100,000 for all pay periods in
+        2019 or were not employed by the Borrower at any point in 2019.
+                                              Employee                                                  Salary / Hourly Wage
+            Employee's Name                   Identifier    Cash Compensation        Average FTE             Reduction
+
+
+
+
+       FTE Reduction Exceptions:
+                  Totals:                                   Box 1                 Box 2               Box 3
+
+Table 2: List employees who:
+   • Were employed by the Borrower at any point during the Covered Period or the Alternative Payroll Covered Period whose
+        principal place of residence is in the United States; and
+   • Received compensation from the Borrower at an annualized rate of more than $100,000 for any pay period in 2019.
+                                               Employee
+            Employee's Name                    Identifier    Cash Compensation        Average FTE
+
+
+
+
+                  Totals:                                   Box 4                  Box 5
+
+Attach additional tables if additional rows are needed.
+
+FTE Reduction Safe Harbor:
+
+    Step 1. Enter the borrower’s total average FTE between February 15, 2020 and April 26, 2020. Follow the same method that
+            was used to calculate Average FTE in the PPP Schedule A Worksheet Tables. Sum across all employees and enter:
+            ______________.
+
+    Step 2. Enter the borrower’s total FTE in the Borrower’s pay period inclusive of February 15, 2020. Follow the same method
+            that was used in step 1: ______________.
+
+    Step 3. If the entry for step 2 is greater than step 1, proceed to step 4. Otherwise, the FTE Reduction Safe Harbor is not
+            applicable and the Borrower must complete line 13 of PPP Schedule A by dividing line 12 by line 11 of that schedule.
+
+    Step 4. Enter the borrower’s total FTE as of June 30, 2020: ______________.
+
+    Step 5. If the entry for step 4 is greater than or equal to step 2, enter 1.0 on line 13 of PPP Schedule A; the FTE Reduction Safe
+            Harbor has been satisfied. Otherwise, the FTE Reduction Safe Harbor does not apply and the Borrower must complete
+            line 13 of PPP Schedule A by dividing line 12 by line 11 of that schedule.
+
+
+
+
+SBA Form 3508 (05/20)
+Page 9
+                                            Paycheck Protection Program                               OMB Control Number 3245-0407
+                                              Loan Forgiveness Application                               Expiration Date: 10/31/2020
+
+                    Documents that Each Borrower Must Submit with its PPP Loan Forgiveness Application
+
+PPP Loan Forgiveness Calculation Form
+
+PPP Schedule A
+
+Payroll: Documentation verifying the eligible cash compensation and non-cash benefit payments from the Covered Period or the
+Alternative Payroll Covered Period consisting of each of the following:
+    a. Bank account statements or third-party payroll service provider reports documenting the amount of cash compensation paid
+         to employees.
+    b. Tax forms (or equivalent third-party payroll service provider reports) for the periods that overlap with the Covered Period
+         or the Alternative Payroll Covered Period:
+              i. Payroll tax filings reported, or that will be reported, to the IRS (typically, Form 941); and
+              ii. State quarterly business and individual employee wage reporting and unemployment insurance tax filings reported,
+                   or that will be reported, to the relevant state.
+    c. Payment receipts, cancelled checks, or account statements documenting the amount of any employer contributions to
+         employee health insurance and retirement plans that the Borrower included in the forgiveness amount (PPP Schedule A,
+         lines (6) and (7)).
+
+FTE: Documentation showing (at the election of the Borrower):
+    a. the average number of FTE employees on payroll per month employed by the Borrower between February 15, 2019 and
+         June 30, 2019;
+    b. the average number of FTE employees on payroll per month employed by the Borrower between January 1, 2020 and
+         February 29, 2020; or
+    c. in the case of a seasonal employer, the average number of FTE employees on payroll per month employed by the Borrower
+         between February 15, 2019 and June 30, 2019; between January 1, 2020 and February 29, 2020; or any consecutive twelve-
+         week period between May 1, 2019 and September 15, 2019.
+The selected time period must be the same time period selected for purposes of completing PPP Schedule A, line 11. Documents
+may include payroll tax filings reported, or that will be reported, to the IRS (typically, Form 941) and state quarterly business and
+individual employee wage reporting and unemployment insurance tax filings reported, or that will be reported, to the relevant state.
+Documents submitted may cover periods longer than the specific time period.
+
+Nonpayroll: Documentation verifying existence of the obligations/services prior to February 15, 2020 and eligible payments from
+the Covered Period.
+    a. Business mortgage interest payments: Copy of lender amortization schedule and receipts or cancelled checks verifying
+        eligible payments from the Covered Period; or lender account statements from February 2020 and the months of the Covered
+        Period through one month after the end of the Covered Period verifying interest amounts and eligible payments.
+    b. Business rent or lease payments: Copy of current lease agreement and receipts or cancelled checks verifying eligible
+        payments from the Covered Period; or lessor account statements from February 2020 and from the Covered Period through
+        one month after the end of the Covered Period verifying eligible payments.
+    c. Business utility payments: Copy of invoices from February 2020 and those paid during the Covered Period and receipts,
+        cancelled checks, or account statements verifying those eligible payments.
+
+                         Documents that Each Borrower Must Maintain but is Not Required to Submit
+
+PPP Schedule A Worksheet or its equivalent and the following:
+    a. Documentation supporting the listing of each individual employee in PPP Schedule A Worksheet Table 1, including the
+       “Salary/Hourly Wage Reduction” calculation, if necessary.
+    b. Documentation supporting the listing of each individual employee in PPP Schedule A Worksheet Table 2; specifically, that
+       each listed employee received during any single pay period in 2019 compensation at an annualized rate of more than
+       $100,000.
+    c. Documentation regarding any employee job offers and refusals, firings for cause, voluntary resignations, and written
+       requests by any employee for reductions in work schedule.
+    d. Documentation supporting the PPP Schedule A Worksheet “FTE Reduction Safe Harbor.”
+
+All records relating to the Borrower’s PPP loan, including documentation submitted with its PPP loan application, documentation
+supporting the Borrower’s certifications as to the necessity of the loan request and its eligibility for a PPP loan, documentation
+necessary to support the Borrower’s loan forgiveness application, and documentation demonstrating the Borrower’s material
+compliance with PPP requirements. The Borrower must retain all such documentation in its files for six years after the date the loan
+is forgiven or repaid in full, and permit authorized representatives of SBA, including representatives of its Office of Inspector
+General, to access such files upon request.
+SBA Form 3508 (05/20)
+Page 10
+                                              Paycheck Protection Program                                   OMB Control Number 3245-0407
+                                                Loan Forgiveness Application                                   Expiration Date: 10/31/2020
+
+
+                                      PPP Borrower Demographic Information Form (Optional)
+
+Instructions
+
+    1.   Purpose. Veteran/gender/race/ethnicity data is collected for program reporting purposes only.
+    2.   Description. This form requests information about each of the Borrower’s Principals. Add additional sheets if necessary.
+    3.   Definition of Principal. The term “Principal” means:
+         • For a self-employed individual, independent contractor, or a sole proprietor, the self-employed individual, independent
+             contractor, or sole proprietor.
+         • For a partnership, all general partners and all limited partners owning 20% or more of the equity of the Borrower, or any
+             partner that is involved in the management of the Borrower’s business.
+         • For a corporation, all owners of 20% or more of the Borrower, and each officer and director.
+         • For a limited liability company, all members owning 20% or more of the Borrower, and each officer and director.
+         • Any individual hired by the Borrower to manage the day-to-day operations of the Borrower (“key employee”).
+         • Any trustor (if the Borrower is owned by a trust).
+         • For a nonprofit organization, the officers and directors of the Borrower.
+    4.   Principal Name. Insert the full name of the Principal.
+    5.   Position. Identify the Principal’s position; for example, self-employed individual; independent contractor; sole proprietor;
+         general partner; owner; officer; director; member; or key employee.
+
+
+
+ Principal Name                                                            Position
+
+ Veteran           1=Non-Veteran; 2=Veteran; 3=Service-Disabled Veteran; 4=Spouse of Veteran; X=Not
+                   Disclosed
+ Gender            M=Male; F=Female; X=Not Disclosed
+ Race (more than 1 1=American Indian or Alaska Native; 2=Asian; 3=Black or African-American; 4=Native
+ may be selected) Hawaiian or Pacific Islander; 5=White; X=Not Disclosed
+ Ethnicity         H=Hispanic or Latino; N=Not Hispanic or Latino; X=Not Disclosed
+
+                         Disclosure is voluntary and will have no bearing on the loan forgiveness decision
+
+
+
+
+Paperwork Reduction Act – You are not required to respond to this collection of information unless it displays a currently valid OMB Control
+Number. The estimated time for completing this application, including gathering data needed, is 180 minutes. Comments about this time or the
+information requested should be sent to Small Business Administration, Director, Records Management Division, 409 3rd St., SW, Washington DC
+20416, and/or SBA Desk Officer, Office of Management and Budget, New Executive Office Building, Washington DC 20503.
+
+SBA Form 3508 (05/20)
+Page 11
+

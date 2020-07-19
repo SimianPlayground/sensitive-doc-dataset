@@ -1,0 +1,2792 @@
+Finance Department
+General Services Division
+                                       REQUEST FOR PROPOSALS (RFP)
+                                           Specification No. 19-11255-C
+                                                          FOR
+                                 Public Records Act (PRA) Request Software
+                       PROPOSALS WILL NOT BE OPENED AND READ PUBLICLY
+
+Dear Proposer:
+
+The City of Berkeley is soliciting written proposals from qualified firms or individuals for a Public Records Act
+(PRA) request software solution. As a Request for Proposal (RFP), this is not an invitation to bid and although price
+is very important, other factors will be taken into consideration.
+
+ The project scope, content of proposal, and vendor selection process are summarized in the RFP (attached).
+ Proposals must be received no later than 2:00 pm, on December 13, 2018. All responses must be in a sealed
+envelope and have “Public Records Act Request Software” and Specification No. 19-11255-C clearly marked
+on the outer most mailing envelope. Please submit one (1) unbound original and four (4)) unbound copies of
+                                           the proposal as follows:
+
+                                            Mail or Hand Deliver To:
+                                                 City of Berkeley
+                                   Finance Department/General Services Division
+                                           2180 Milvia Street, 3rd Floor
+                                               Berkeley, CA 94704
+
+Proposals will not be accepted after the date and time stated above. Incomplete proposal or proposals that do not
+conform to the requirements specified herein will not be considered. Issuance of the RFP does not obligate the City
+to award a contract, nor is the City liable for any costs incurred by the proposer in the preparation and submittal of
+proposals for the subject work. The City retains the right to award all or parts of this contract to several bidders, to
+not select any bidders, and/or to re-solicit proposals. The act of submitting a proposal is a declaration that the
+proposer has read the RFP and understands all the requirements and conditions.
+
+For questions concerning the anticipated work, or scope of the project, please contact Kathy Cassidy, Manager
+311 Customer Service, via email at kcassidy@cityofberkeley.info no later than November 28, 2018. Answers to
+questions will not be provided by telephone or email. Rather, answers to all questions or any addenda will be
+posted on the City of Berkeley’s site at http://www.cityofberkeley.info/ContentDisplay.aspx?id=7128 November
+30, 2018. It is the vendor’s responsibility to check this site. For general questions concerning the submittal
+process, contact purchasing at 510-981-7320.
+
+We look forward to receiving and reviewing your proposal.
+
+Sincerely,
+
+Shari Hamilton
+General Services Manager
+
+
+
+               2180 Milvia Street, Berkeley, CA 94704 Tel: 510.981.7320 TDD: 510.981.6903 Fax: 510.981.7390
+                          E-mail: finance@ci.berkeley.ca.us Website: http://www.ci.berkeley.ca.us/finance
+City of Berkeley                                          Specification No. 19-11255-C                                               Page 2 of 53
+Public Records Act (PRA) Request Software                                                                                Release Date 11/14/2018
+
+
+
+Table of Contents
+
+I.       INTRODUCTION ........................................................................................................................ 5
+      1.1      About the City ....................................................................................................................... 5
+      1.2      Project Background ............................................................................................................... 6
+      1.3      Project Goals.......................................................................................................................... 6
+      1.4      Notice to Vendors .................................................................................................................. 6
+      1.5      Solicitation Schedule ............................................................................................................. 6
+      Figure 1.5.1: Tentative Schedule..................................................................................................... 7
+      1.6      Project Elements .................................................................................................................... 7
+II.      SCOPE OF WORK ...................................................................................................................... 8
+      2.1      Implementation Services ....................................................................................................... 8
+      Figure 2.1.1: City Government Department and Services Chart .................................................... 9
+      Figure 2.1.2: Stakeholders ............................................................................................................. 10
+      2.2      Project Management / Implantation Deliverables ............................................................... 11
+      2.3      Project Staffing .................................................................................................................... 12
+      Figure 2.3.1: City Staffing Assumptions ........................................................................................ 12
+III.        BUSINESS, FUNCTIONAL AND TECHNICAL REQUIREMENTS ................................. 12
+IV.         SYSTEM REQUIREMENTS ................................................................................................. 13
+      4.1      Data Migration Requirements ............................................................................................. 13
+      4.2      Graphical User Interface ...................................................................................................... 13
+      4.3      Web Portal and Mobile Responsive .................................................................................... 13
+      4.4      Data Storage and Archiving ................................................................................................ 14
+      4.5      Reporting and Business Intelligence (BI) ............................................................................ 14
+      4.6      Interfaces (Internal / External) ............................................................................................. 14
+      Figure 4.6.2 System Interfaces ....................................................................................................... 14
+      4.7      Security ................................................................................................................................ 14
+      4.8      Redundancy, Backup and Disaster Recovery ...................................................................... 15
+      4.9      Service Levels: Performance, Scalability, Availability ....................................................... 16
+      4.10        System Architecture ......................................................................................................... 16
+      4.11        Database Architecture ...................................................................................................... 16
+V.       SUBMISSION REQUIREMENTS ............................................................................................ 17
+      5.1      Proposal Format ................................................................................................................... 17
+      5.2      Letter of Transmittal ............................................................................................................ 19
+      5.3      Proposal Sections ................................................................................................................. 19
+      SECTION 1 EXECUTIVE SUMMARY ..................................................................................... 19
+
+                                                            November 2018
+City of Berkeley                                       Specification No. 19-11255-C                                              Page 3 of 53
+Public Records Act (PRA) Request Software                                                                            Release Date 11/14/2018
+
+   SECTION 2: COMPANY BACKGROUND & QUALIFICATIONS ........................................ 19
+   SECTION 3: TECHNICAL PROPOSAL .................................................................................... 20
+   SECTION 4: PROJECT MANAGEMENT DELIVERABLES ................................................... 21
+   SECTION 5: PROJECT ORGANIZATION, STAFFING & KEY PERSONNEL ...................... 24
+   SECTION 6: RESPONSES TO REQUIREMENTS .................................................................... 25
+   SECTION 7: COST PROPOSAL ................................................................................................. 26
+   SECTION 8: EXCEPTIONS TO THE RFP ................................................................................. 27
+   SECTION 9: SAMPLE DOCUMENTS ....................................................................................... 27
+   SECTION 10: CONTRACT TERMINATIONS ........................................................................... 28
+   SECTION 11: CONTRACT ......................................................................................................... 28
+   SECTION 12: ELECTRONIC SUBMISSION ............................................................................. 28
+   Figure 5.14.1: Electronic Submission Documents ........................................................................ 28
+VI PROPOSAL EVALUATION .................................................................................................... 29
+   6.1      Evaluation Process ............................................................................................................... 29
+   6.2      Evaluation & Selection Team .............................................................................................. 29
+   6.3      Pre-qualification Process ..................................................................................................... 29
+   6.4      Phase One: Initial Selection ................................................................................................. 29
+   6.5      Phase Two: Elevation .......................................................................................................... 29
+   Figure 6.5.1: Evaluation Criteria Weighting .................................................................................. 30
+   6.6      Phase Three: Demonstrations .............................................................................................. 30
+   Figure 6.6.1: Phase III Demonstrations ......................................................................................... 31
+   6.7      Phase Five: Best and Final Offer (BAFO), Contract Negotiation and Selection ................ 31
+   6.8      Award .................................................................................................................................. 31
+VII      CONTRACT CONDITIONS FOR PROJECT ....................................................................... 32
+   7.1      Key Personnel ...................................................................................................................... 32
+   7.2      Implied and Express Warranty ............................................................................................ 32
+   7.3      Express Warranty Remedy and Software Escrow ............................................................... 32
+   7.4      System Acceptance .............................................................................................................. 32
+   7.5      Milestones Deliverables ...................................................................................................... 33
+   7.6      Additional Users and Modules ............................................................................................ 33
+   7.7      Restrictions on Growth ........................................................................................................ 33
+VIII     CITY REQUIREMENTS ........................................................................................................ 33
+   8.1      Non-Discrimination Requirements ...................................................................................... 33
+   8.2      Nuclear Free Berkeley Disclosure Form ............................................................................. 33
+   8.3      Oppressive States ................................................................................................................. 34
+   8.4      Conflict of Interest ............................................................................................................... 34
+   8.5      Berkeley Living Wage Ordinance ....................................................................................... 34
+
+                                                         November 2018
+City of Berkeley                                        Specification No. 19-11255-C                                              Page 4 of 53
+Public Records Act (PRA) Request Software                                                                             Release Date 11/14/2018
+
+   8.6       Berkeley Equal Benefits Ordinance .................................................................................... 34
+   8.7       Statement of Economic Interest ........................................................................................... 34
+IX OTHER REQUIREMENTS ....................................................................................................... 35
+   9.1       Insurance .............................................................................................................................. 35
+   9.2       Worker’s Compensation Insurance ..................................................................................... 35
+   9.3       Business License.................................................................................................................. 35
+   9.4       Recycled Paper .................................................................................................................... 36
+   9.4       State Prevailing Wage ......................................................................................................... 36
+   ATTACHMENT 1: RFP Submittal Checklist ............................................................................... 37
+   ATTACHMENT 2: Vendor Statement .......................................................................................... 38
+   ATTACHMENT 3: Business Process Maps (PDF) ....................................................................... 40
+   ATTACHMENT 4: PRA Business Process Functional & Technical Requirements (Excel) ........ 40
+   ATTACHMENT 5: Report Requirements (Excel) ........................................................................ 40
+   ATTACHMENT 6: Interface Requirements (Excel) ..................................................................... 40
+   ATTACHMENT 7: Security-Web Hosting Requirements (Excel) ............................................... 40
+   ATTACHMENT 8: Cost Proposal (Excel) .................................................................................... 40
+   ATTACHMENT 9: Maintenance and Support .............................................................................. 41
+   ATTACHMENT 10: Hosting Services .......................................................................................... 42
+   ATTACHMENT 11: Proposed Service Level Agreements ........................................................... 43
+   ATTACHMENT 12: Non-Discrimination/Workforce Composition Form for Non-Construction
+   Contracts......................................................................................................................................... 44
+   ATTACHMENT 13: Nuclear Free Zone Disclosure Form........................................................... 46
+   ATTACHMENT 14: Oppressive States Compliance Statement .................................................. 47
+   ATTACHMENT 15: Living Wage Certification for Providers of Services .................................. 48
+   ATTACHMENT 16: Form EBO-1 CITY OF BERKELEY CERTIFICATION OF
+   COMPLIANCE WITH EQUAL BENEFITS ORDINANCE ........................................................ 50
+   ATTACHMENT 17: City of Berkeley Right to Audit Form ......................................................... 52
+   ATTACHMENT 18: ...................................................................................................................... 53
+
+
+
+
+                                                          November 2018
+City of Berkeley                            Specification No. 19-11255-C                         Page 5 of 53
+Public Records Act (PRA) Request Software                                            Release Date 11/14/2018
+
+
+I.    INTRODUCTION
+
+The City of Berkeley (“City) is soliciting proposals from qualified companies to provide a comprehensive,
+all-in-one platform for managing Public Records Act (“PRA”) requests and complying with open
+government transparency. This RFP is for Hosted, Commercial Off-The-Shelf (“COTS”) system, including
+but not limited to configuration, data migration and training services.
+
+1.1      About the City
+
+The City of Berkeley is located in Alameda County on the east side of the San Francisco Bay. At the
+geographic midpoint of the greater San Francisco Bay Area, the City is 20 minutes (or 10 miles away) from
+San Francisco and within easy proximity to population centers in Contra Costa County and Silicon Valley.
+Encompassing 17.7 square miles and with a population of approximately 118,853 residents, Berkeley has the
+highest population density of any city in the East Bay region. The City is defined to a large degree, both
+culturally and economically, by the presence of the University of California campus located on the eastern
+side of the City.
+
+The City operates under its own charter with a Council/Manager form of government. The City Council
+consists of eight Councilmembers, elected by City’s for four-year terms, and one Mayor, and elected "at
+large" for a four-year term. The City provides a comprehensive set of community services common to
+similar-sized California cities such as public safety (police and fire); sanitation and sewer; public
+maintenance and infrastructure; leisure (parks, recreation and marina); animal control; planning and zoning;
+general and administrative services, and housing advocacy and support services. In addition, the City offers
+support services for public health and human services; and operates a city-owned public library system.
+
+The Mayor and Council select and confirm the City Manager, who acts as a Chief Executive Officer for the
+rest of the City government. The City Manager is responsible for the administration of City services and
+programs, enforcement of the City's Municipal Code and ordinances, and preparation of the annual budget.
+Department directors are selected by the City Manager and confirmed by the City Council.
+
+The City employs a two-year budget process. In year one of the biennial budget cycle, the City Council
+formally adopts authorized appropriations for the first year of the two-year budget and approves “planned”
+appropriations for the second fiscal year. In year two of the budget cycle, the City Council considers
+revisions and formally adopts authorized appropriations for the second fiscal year. Although the budget cycle
+covers a two-year period, the City Charter requires that the City Council adopt an annual appropriations
+ordinance for each budget year.
+
+The City’s fiscal year 2019 budget extending from July 1, 2018 through to June 30, 2019 is $474 million, of
+which $171 million is allocated from the General Fund. The City has a workforce of 1,530 full-time
+equivalent employees.
+
+ More information is available in the City located at the link below:
+ https://www.cityofberkeley.info/Home.aspx.
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                            Page 6 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+1.2       Project Background
+
+ The the City of Berkeley (the “City”) seeks to replace its current software used to process PRA requests.
+ Currently a Customer Relationship Management (CRM) software system, (Lagan/Verint) is used to record,
+ store history and report on PRA requests. As part of an overall assessment of its systems and processes the
+ City determined that a new PRA software system will improve public access to information, increase
+ internal operational efficiencies and provide the ability for the public to easily search on-line for public
+ information. The CRM system provides limited flexibility, no online redaction, and no integration with
+ outlook email and does not allow community members on-line web access to look up PRA requests or
+ history.
+
+ The City Council’s 2018-2019 Strategic Plan includes “Be a customer-focused organization that provides
+ excellent, timely, easily-accessible service and information to the community.” A new web based PRA
+ software solution will support the City’s Strategic Plan.
+
+1.3       Project Goals
+
+ The limited installed functionality, lack of workflow and reporting capabilities of the current system used to
+ process PRA’s require many manual work hours to complete a request. With this Project, the City’s goal is
+ to provide an organization-wide, web-based system for receiving, acknowledging, processing, tracking and
+ responding to public records request.
+
+ The Project’s key goals and success indicators include the following:
+      •   Improvement to business processes
+      •   Improvements to and updating of outdated technology
+      •   Improved administration and management of public records request
+      •   Implement searchable public-facing and internal employee-facing platform that is available 24 hours
+          a day, 7 days a week
+      •   Improvement to workflow
+      •   Elimination of duplicate public records requests
+      •   Implement auto-redactions tools
+      •   Provide access to source data and user-friendly reporting tools
+      •   Improved productivity and transparency
+      •   Reduce paper use
+
+1.4       Notice to Vendors
+
+Failure to carefully read and understand this RFP may cause the Proposal to be out of compliance, rejected by
+the City, or legally obligate the Vendor to more than intended. Information obtained by the Vendor from any
+officer, agent or employee of the City shall not affect the risks or obligations assumed by the Vendor or relieve
+the Vendor from fulfilling any of the RFP conditions or any subsequent contract conditions. Attempts by or on
+behalf of a prospective or existing vendor to contact or to influence any member of the selection committee,
+any member of the City Council, or any employee of the City with regard to the acceptance of a Proposal may
+lead to elimination of that Vendor from further consideration. Only the format described in the City’s RFP and
+the attachments included with this RFP will be accepted as compliant for the submitted proposal. Failure to
+completely fill out all required attachments may result in disqualification.
+
+1.5       Solicitation Schedule
+
+The City has developed a tentative schedule for procurement process activities and reserved corresponding
+times on staff calendars.
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                            Page 7 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+
+
+
+Figure 1.5.1: Tentative Schedule
+                            Event                                                         Date
+  Issue RFP to Potential Bidders:                                          November 14, 2018
+  Questions Due (1st round)                                                November 28, 2018
+  Questions and Answers Posted                                             December 3, 2018
+  Proposals Due from Potential Bidders at 2:00 pm PST                      December 13, 2018
+  Software Demonstration Presentations                                     Jan 9 (Wed), Jan 10 (Thu), 2019
+  Notification Sent to Semi-Finalists or Finalist                          Monday , January 14, 2019
+  Contract Negotiation complete                                            Thursday, February 28, 2019
+  Council Approval of Contract                                             Tuesday, April 23, 2019
+  Sign and Process Contract and Issue Notice to Proceed                    Tuesday, May 14, 2019
+
+1.6       Project Elements
+
+1.6.1     General Conditions
+
+      a) In the event that all RFP requirements are not met with products and services provided by one firm,
+         Vendors are encouraged to partner with another firm to submit a joint proposal. Failure to meet all
+         requirements will not disqualify a firm. However, the City will evaluate each proposal to determine
+         its overall fit in the best interests of the City.
+      b) In the event that multiple firms partner to submit a joint proposal, the Proposal must identify one
+         firm as the primary contact and sole contracting party. This primary contact will be the City’s
+         primary point of contact throughout the procurement process and will assume sole responsibility for
+         the entire scope of services to be performed by all partners included in a joint proposal. In addition,
+         the contracting firm agrees to ensure that all partnering firms comply with the City’s contracting
+         terms and conditions.
+      c) All third-party solutions proposed as part of a joint proposal are subject to the same requirements of
+         this RFP, unless otherwise stated.
+      d) Implementation pricing must be submitted on a “milestone” basis. For implementation services
+         under a milestone arrangement, the City compensates the Vendor a fixed amount upon the
+         completion and acceptance of major milestones; consequently, Vendors are to provide all work effort
+         and assumptions used to calculate a fixed fee for each milestone. The scope of the project will be
+         defined by the statement of work and requirements included as Attachment 4: PRA Business Process
+         Functional & Technical Requirements, Attachment 5: Report Requirements, Attachment 6: Interface
+         Requirements, and Attachment 7: Data Conversion Requirements.
+      e) All firms submitting proposals are encouraged to submit the most competitive proposal possible –
+         the failure to do so may lead to elimination prior to software demonstrations.
+      f) This RFP, its general provisions, and the terms and conditions identified in Section VII
+         (CONTRACT CONDITIONS FOR PROJECT) shall be incorporated in any agreement resulting
+         from this solicitation, and the RFP and its terms and conditions, plus attachments shall control unless
+         the Agreement expressly provides otherwise.
+      g) All Proposals and any subsequent clarification or response to the City’s questions shall be valid for a
+         minimum of 180 days.
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                             Page 8 of 53
+Public Records Act (PRA) Request Software                                                Release Date 11/14/2018
+
+
+
+1.6.2 City’s Rights Reserved
+
+      a) The City reserves the right to select the Proposal(s) which in its sole judgment best meets the needs
+         of the City.
+      b) The City reserves the right to award multiple contracts from this RFP.
+      c) The City reserves the right to reject any or all Proposals and to waive technicalities and informalities
+         when such waiver is determined by the City to be in the City’s best interest.
+      d) The City may modify this RFP by issuance of one or more written addenda. Addenda will be posted
+         on http://www.cityofberkeley.info/ContentDisplay.aspx?id=7128.
+      e) The City reserves the right to meet with select Vendors at any time to gather additional information.
+         Furthermore, the City reserves the right to remove or add functionality (i.e., modules, components,
+         and/or services) until the final contract signing.
+      f) This RFP does not commit the City to award a contract. All Proposals submitted in response to this
+         RFP become the property of the City and public records, and as such, may be subject to public
+         review following awarding of a contract.
+      g) The City shall not be liable for any pre-contractual expenses incurred by Vendors, including but not
+         limited to costs incurred in the preparation or submission of Proposals. The City shall be held
+         harmless and free from any and all liability, claims, or expenses whatsoever incurred by, or on behalf
+         of, any person or organization responding to this RFP.
+
+II.       SCOPE OF WORK
+
+The City desires a Software as a Service (SaaS), Cloud-hosted solution to enable members of the public to
+submit public records request through a web-based portal. The Web-based cloud-hosted solution will have
+flexibility, security and self-service capability to meet current and future public records governance. Vendors
+should prepare their proposals based on addressing the business function that are listed in Section III
+BUSINESS, FUNCTIONAL & TECHNICAL REQUIREMENTS. The City reserves the right to negotiate
+changes (including additions and deletions) to this list of functionalities as the scope and cost of the project
+evolves.
+
+It is the City’s intent to adopt industry best practices and standards wherever feasible in order to minimize the
+customization and configuration that is required to implement and maintain the various components of the
+proposed Public Records Act request software solution. Vendor selected as a result of this RFP must be
+prepared to begin work immediately upon contract execution.
+
+          The City is seeking a solution that will adequately service the current City environment, specific as:
+
+              •   Approximately 6,000 PRA requests a year
+              •   12 Departments (30 Divisions)
+
+2.1       Implementation Services
+
+The vendor will describe the overall project implementation approach that will ensure a successful
+deployment. Describe your methodology, including project phases, roles and responsibilities on each task for
+the Vendors and City, Change Control, implementation best practices and tools or models that your firm uses
+for best practice implementations.
+
+See Attachment 3, Berkeley As-Is & To-Be Business Process Maps, for information related to the desired
+business process automation. The City has made process decisions that are expected to be implemented in the
+new system.
+
+                                             November 2018
+City of Berkeley                               Specification No. 19-11255-C                         Page 9 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+
+
+
+Figure 2.1.1: City Government Department and Services Chart
+
+
+                                                  Berkeley Residents
+
+
+                                                      City Council &
+                                                          Mayor
+
+
+
+
+                                                       City Manager
+
+
+
+
+                                             City Departments and Services
+
+
+
+                 City Attorney’s                                  City Manager’s     Finance
+                                       City Clerk’s Office
+                      Office                                           Office       Department
+
+
+
+                                        Health, Housing
+                                                                                    Information
+                Fire Department         and Community           Human Resources
+                                                                                    Technology
+                                           Services
+
+
+
+               Parks, Recreation            Planning and
+                                                                Police Department   Public Works
+                and Waterfront              Development
+
+
+
+
+                                                November 2018
+City of Berkeley                            Specification No. 19-11255-C                Page 10 of 53
+Public Records Act (PRA) Request Software                                     Release Date 11/14/2018
+
+Figure 2.1.2: Stakeholders
+The table below list City Department and/or Division as well as the estimated total number of users.
+Count is subject to change and will be finalized during contact negotiation.
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                          Page 11 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+2.2      Project Management / Implementation Deliverables
+
+ To ensure quality throughout the implementation, the Project will include the following deliverables. Each
+ deliverable will be the responsibility of the Vendor and will be formally presented to the City for review and
+ sign off. For milestones with multiple phases, each phase is expected to contain each deliverable (unless noted
+ otherwise).
+
+        1.     Comprehensive Project Plan
+               • Project Implementation Plan: Detailed listing of phases, tasks and subtasks for the entire
+                  Project that including: start and completion dates, responsibility, and predecessors. Tasks to
+                  include all City and Vendor implementation activity, deadlines, milestones, draft
+                  deliverables, review periods, final deliverables and sign-offs.
+               • Communication Plan
+               • Risk Management Plan
+               • Change Management Plan
+               • Ongoing Communication, Coordination, and Project Status Reports
+
+         2.    Technical Infrastructure Design and Implementation Plan
+               Design for Hosted environments proposed by the Vendor, containing at a minimum
+               detailed information on:
+                    (a)    Methodology, tools, procedures, activities, and services
+                    (b)    Recommendations of physical upgrades to City’s current systems
+                    (c)    Hardware and Software specifications, server and storage, sizing, capacity planning,
+                           application, middleware and databases
+                    (d)     Security infrastructure and services (identify, protective, monitoring/detective, and
+                           responsive/recovery)
+                    (e)    Network and connectivity
+                    (f)    Performance characteristics
+                    (g)    Data warehouse and reporting requirements
+                    (h)    Availability, flexibility, and growth requirements.
+
+         3.    System Design Documents
+                • Requirements Validation Document: Work product that validates the desired future state
+                   business processes and required functionality.
+                • System Design Document: Work product that identifies both business process decisions as
+                   well as system configuration decisions for each in scoped business process and system
+                   feature.
+
+         4.    System Configuration, Migration and Integration
+                 • System Installation and Configuration
+                 • Legacy Data Migration (as required)
+                 • Report Implementation and Development
+
+         5.    Testing
+                • Test Plans
+                • Test Scripts: based on the functional requirements and system design document that
+                     require successful completion of each item in scope (functional requirements) and the
+                     set-up of the system (system configuration).
+                • User Acceptance Plan
+                • Pre-production security testing
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                              Page 12 of 53
+Public Records Act (PRA) Request Software                                                   Release Date 11/14/2018
+
+         6.    Training
+
+               The proposal should include user training for its staff members who will be using and
+               administering the PRA system.
+
+                  •   System Administration documentation and training: complete system manual for how to
+                      use the configured system (Manuals, training video, etc.)
+                  •   Provide training to appropriate staff to produce e-forms/smart forms
+                  •   Provide role-based End User documentation and training:
+                            o End-users: basic functionality of PRA system/processing
+                            o IT staff: integration with other system (Active Directory, other apps, etc.)
+                            o System Administration/Configuration – supporting system
+
+         7.    Cutover Plan
+               • Complete set of activities required for Go-Live including Go-Live and Post Go-Live support
+
+2.3      Project Staffing
+
+The City will exercise its best efforts to staff the Project appropriately; and understands that staffing this Project
+is important to its success. The following table lists resources the City expects to be available for the Project,
+their applicable areas of knowledge/assumed roles in the Project, and the maximum participation levels in the
+Project.
+
+Figure 2.3.1: City Staffing Assumptions
+              Resource                                  Quantity       % of FTE     Total FTEs
+              Project Manager                                1               0.10           0.10
+              Technical Lead                                 1               0.25           0.25
+              Technical Support                              1               0.25           0.25
+              SME and Business Owners                        12              0.15           1.80
+
+
+
+III.     BUSINESS, FUNCTIONAL AND TECHNICAL REQUIREMENTS
+
+Refer to attachment for a full list of features and functions and requirements identified by the City of
+Berkeley for the Public Records Act software.
+
+         Attachment 4: PRA Business Process Functional & Technical Requirements
+         Attachment 5: Report Requirements
+         Attachment 6: Interface Requirements
+
+         Please note that the City requires all submissions include answers to the Features & Functionality
+         Matrix (Attachments 4, 5, & 6). Please answer all of the questions with:
+              “Yes” – which means your proposed solution currently has the required
+              functionality, report, or feature. Please elaborate on your answer in column
+              to right providing more details.
+              “No” – which means your proposed solution does not currently have the required
+              functionality, report or feature; or
+              “Can be done, but requires customization” – which means your proposed solution
+              can be customized to have the required functionality, report or feature. If this answer
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                         Page 13 of 53
+Public Records Act (PRA) Request Software                                              Release Date 11/14/2018
+
+             is chosen, then please elaborate on your answer in the column to the right by
+             providing more details regarding the level of effort and specify if the City would have
+             to pay additional cost for it. Be sure to itemize these costs (if applicable) in your
+             proposal.
+
+
+IV.      SYSTEM REQUIREMENTS
+
+The Vendors will implement the Public Records Act software based upon proven best practices. This includes
+implementation of Software as a Service (SaaS), Cloud-hosted solution to enable members of the public to
+submit public records request through a web-based portal.
+
+4.1      Data Migration Requirements
+
+         The City seeks to migrate existing data from existing system; Lagan CRM software of closed and
+         current PRA requests from two year period. The information below is intended to establish a baseline
+         cost structure; a final data migration plan will be developed and agreed to during the contract
+         negotiation. Please include in proposal response if Vendor can comply with data conversion and
+         include break-out of pricing.
+
+              PRA Data Date                 Estimated               Estimated Pages     Estimated # of PRA
+                 Range                      Documents                  Produced          Requests for Data
+                                              Links                                       Conversation *
+          Selected PRA Cases                   102                         111,223            10,215
+          Between 2016 - 2018
+          *Numbers above represent PRA responses for 30 divisions as of 11/01/18 (Note: BPD incident
+         requests are created weekly and PRA requests are consolidated into one weekly request). City of
+         Berkeley will determine the departments and number of PRA records that are to be migrated based on
+         type of PRA request.
+
+4.2      Graphical User Interface
+
+         The proposed Public Records Act Request software will provide a contemporary and consistent
+         Graphical User Interface (GUI) across the entire solutions. This shall include logical menus, intuitive
+         navigation, and consistent visual cues (pull downs, checklists, check boxes, etc.). The GUI will
+         support a consistent user experience across all major browsers, i.e., Internet Explorer, Edge, Firefox,
+         Chrome, and Safari. The implemented system will provide a navigation that conforms to industry best
+         practices, across all modules including consistent use of good keyboard shortcuts, keyboard form
+         navigation, standardized form validation, and standardized use of lookup / search screens, dropdowns,
+         and pop-ups, tooltip text, icons, etc.
+
+4.3      Web Portal and Mobile Responsive
+
+4.3.1    The proposed PRA software will provide a Web Portal that incorporates a single point of
+         personalized, unified access to applications, content, processes and people, that integrates content
+         and applications, including a unified, collaborative workplace; transactional features (E-Commerce)
+         security, search, and workflow. The Portal when accessed on Mobile devices needs to be Mobile
+         responsive to iPhone, iPad and Android devices.
+
+4.3.2    The Hosting platform will not require proprietary Data and Services exchanges including but not
+         limited to Application Development Kits (ADK) The method of Data and Services exchange must be
+         stated in the Vendor Proposal.
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                           Page 14 of 53
+Public Records Act (PRA) Request Software                                                Release Date 11/14/2018
+
+4.4      Data Storage and Archiving
+
+4.4.1    The proposed PRA software systems should be readily expandable or field upgradeable. The
+         proposed systems should be sized to meet the performance standards for the projected volumes plus
+         a margin for unexpected volume growth.
+
+4.4.2    Archiving
+         1. The implemented system shall provide on-line access to the current year plus two (2) previous
+            years of data retained in the system and shall provide archive capabilities thereafter.
+         2. The implemented system shall provide the ability for users to selectively copy and/or archive
+            system data to external storage media (e.g., CD-ROM, Digital Video Disk (DVD)) based on
+            user-defined number of years or other user-defined criteria and the evolution of the external data
+            storage industry
+         3. The implemented system shall provide a process to purge archived documents/data and
+            automated purge capabilities and process to stop automatic purging if needed.
+
+4.5      Reporting and Business Intelligence (BI)
+
+4.5.1    The implemented system will provide a reporting and business intelligence (BI) capabilities that
+         provides the City with the ability to make educated and relatively fast decisions due to the
+         availability of reliable and easy to digest information. See Attachment 5 Requirements
+
+4.4.3    The implemented BI module functionality will include a decision support system driven by an
+         underlying data warehouse. The data warehouse feeds management with real-time data to ad hoc
+         reports, online charts and tables, as well as graphical dashboards that offer a host of information in
+         the form of financial reports, scorecards, and key performance indicators including alerts and
+         notifications that enable staff to focus on exceptions as well as on routine or steady-state operations.
+
+4.6      Interfaces (Internal / External)
+
+4.6.1    The Vendor shall provide system interfaces for the following internal and external applications and
+         databases.
+Figure 4.6.2 System Interfaces
+  Function                          Description                                             OS                 RDBMS
+
+  Existing Systems
+  Active Directory                  Directory Service                            Windows
+  Microsoft Exchange Service        Microsoft exchange service (2010/365)        Windows                     MS SQL
+
+  City of Berkeley Website          City Website (Currently Ektron)              Web based application
+                                    New City Website (Rolling Orange)
+
+  Outlook Calendar                  Microsoft Suite                              Windows                     MS SQL
+  SMARSH                            Electronic Communications/Archiving mail     Web based application
+
+
+
+4.7      Security
+
+         Security functionality must map to and address each function, category, and subcategory of the current
+         NIST Cybersecurity Framework. Core (NIST CSF). Security must apply to the hosts, infrastructure,
+         database, screen, processes and secured data elements. Security must be enforced across all
+
+                                              November 2018
+City of Berkeley                            Specification No. 19-11255-C                          Page 15 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+         transactions, workflows, modules and queries, even those coming from an external source (i.e.
+         reporting tool). Security identity and access includes user / job role-based access, authentication
+         (account management, password management and other account related activities) and single-sign on,
+         mobile device business application access, database access security, etc., utilizing LDAP (Lightweight
+         Directory Access Protocol) which supports single sign-on, account management, authentication,
+         password policy, and access control services. The implemented system shall provide identity and
+         access security by groups and individual users/services. Security must include minimum inquiry, add,
+         update, and delete levels. Proposers will fill out and submit the following with Proposals: Attachment
+         7 – Security_Web Hosting Requirements
+
+4.7.1    Security Documentation
+         Provide security documentation for your proposed solution. This should include security diagrams
+         and other documentation such as architecture, policies, procedures, and compliance with laws, NIST
+         CSF, SSAE-16, HIPAA, SOX, FedRAMP, etc. Security patches and software upgrades should be
+         current, and backup procedures for remote files and databases should be put in place. Third party
+         software integration should be verified.
+
+         1. Please attach the Data Center Security Guide, including but not limited to:
+            1) Physical, Admin and Technical Security Controls;
+            2) Data Breach Notification Procedures;
+            3) Security Program; and
+            4) System Upgrade Policy
+
+         2. Disaster Availability
+            In the event the Hosted Service or any component thereof is rendered permanently inoperative as
+            a result of a natural or other disaster, Provider will communicate immediately with the City, and
+            make all commercially reasonable efforts to facilitate the expeditious restoration of the services.
+            Where Provider is unable to restore Services in a reasonable timeframe, City may exercise its
+            right to terminate the agreement.
+
+         3. Return of City Data
+            Within thirty (30) days of notification of termination of this Agreement, Provider shall provide
+            City with all City-owned data in dedicated data files suitable for importation into commercially
+            available database software such as MS-SQL. The dedicated data files will be comprised of City’s
+            data contained in provider’s system. The structure of the relational database will be specific to the
+            City’s data and will not be representative of the proprietary Provider’s database.
+
+4.8      Redundancy, Backup and Disaster Recovery
+
+4.8.1    Software Redundancy
+         1. Software crash tolerance: Servers and client software should maintain its integrity in case of power
+            failures and abrupt shutdowns.
+         2. Restart/Recovery: system must be capable of restart and recovery after system failure with no loss
+            of data or software components.
+         3. Integrity checking feature: Must provide the capability of identifying the existence of program
+            and/or system discrepancies and issue an alert to the appropriate systems operations team.
+         4. Incremental, differential, and full backups and restores of the database, Core and customized
+            software, software and database configuration options, user preferences and rights, etc.
+
+ 4.8.2    Hardware Redundancy
+         1. The Vendor shall include a recommendation for hardware infrastructure that can support high
+            availability, load tolerance, real-time failover, as well as integration into an offsite disaster
+            recovery infrastructure.
+         2. The disaster recovery recommended solution shall include a complete offsite server and
+            networking installation that has the capability to roll from the primary hosted site to a secondary
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                          Page 16 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+             offsite location within a 24-hour recovery window. This roll over shall include all applications and
+             data.
+
+4.9      Service Levels: Performance, Scalability, Availability
+
+4.9.1    The proposed solution will meet or exceed the following system / service levels:
+          • Recommend the hardware to handle the average transaction load with an average CPU utilization
+             of no more than 35% - 40% of the CPU capacity. The peak CPU utilization shall never exceed
+             70% of CPU capacity at any given time.
+          • The average transaction on the server needs to occur on average less than one second. The
+             response time for the most common requests to reach a user shall not exceed 3 seconds.
+          • Maintain 99.99% availability — including planned maintenance.
+          • Track system uptime and transaction response times in order to demonstrate operation within
+             acceptable levels.
+          • Complete all simple, single-screen online inquiry transactions in under one second, during peak
+             usage.
+          • Complete an average of 99% of all online update transactions in under 5 seconds over any 60-
+             minute period, during peak usage.
+          • Recommend a window for batch processing in terms of the business cycles and minimal end-user
+             usage (i.e., the windows you anticipate the system workload to be low).
+          • Prior notification of schedule downtown
+          • Notification of unscheduled interruptions
+
+4.10     System Architecture
+
+4.10.1 The proposal will meet or exceed the following system architecture requirements:
+        • Employ multi-tier system architecture.
+        • Provide all screens, reports and transactions through a Web browser.
+        • Provide a graphical user interface (GUI).
+        • Provide easy deployment to desktops, i.e., deployment tools to push or pull software to the
+           desktop.
+        • Provide user-defined: Exits; Tables; Fields; Screens; Reports; Forms; Shortcut keys; Menus;
+           Business Rules and Workflows
+        • Provide application and system configuration tables accessible within all modules.
+        • Provide customizable user interfaces, including ability to customize menus and forms, and by
+           user.
+        • Provide support for inter-process communication including, but not limited to, the following:
+           Attachment of standard object types in an object library; Cut and paste capability from data fields
+           and screens to other applications.
+        • Provide the ability to attach imaged documents.
+        • Provide the ability to attach scanned documents to database objects.
+        • Provide the ability to facilitate upgrades to future operating systems, database and other software
+           upgrades.
+
+4.11     Database Architecture
+
+4.11.1 The proposal will meet or exceed the following system architecture requirements:
+        • Utilize utilities for database performance monitoring and tuning that comply with industry
+           standards, including but not limited to tools for table and file maintenance.
+        • Lock database records, e.g., row level, field level, or at the application level.
+
+
+
+
+                                             November 2018
+ City of Berkeley                            Specification No. 19-11255-C                          Page 17 of 53
+ Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+           •   Provide graphical data modeling, entity relationship diagram (ERD), data definition and data
+               dictionary components, including but not limited to business definitions and technical definitions
+               for data elements.
+           •   Accommodate separate instances of databases.
+           •   Support online modifications to database structures with minimal user downtime.
+           •   Allow for data replication including, but not limited to, copying an instance of any database to
+               other City specified locations (i.e. Storage Area Network (SAN)).
+           •   Provide the ability to set up log event triggers to automatically notify administrator when a user-
+               defined database condition or set maximum/minimums are exceeded.
+           •   Provide the ability for the administrator to track user behavior as well as database utilization.
+           •   Provide standard data extraction API to allow import and export of data.
+           •   Provide a architecture diagram of servers including replication details
+           •   Provide documented best practices including but not limited to optimum database configuration,
+               client maintenance and change control.
+
+       All Attachments and RFP responses will be made part of the contract.
+
+
+ V.       SUBMISSION REQUIREMENTS
+
+Before submitting a proposal, Vendors are encouraged to read the ENTIRE solicitation document. Failure to
+read any part shall not relieve the Contractor of its contractual obligations. Technical and Price proposals
+must be submitted at the same time, but in separate documents. Technical information provided shall not
+include price or cost data. The inclusion of price or cost data in the Technical proposal may be cause for the
+proposal being rejected. The Price proposal shall be submitted on Attachment 7, Cost Proposal Form. Include
+other information as requested or required.
+
+The proposal container must be completely and properly identified. The face of the proposal shall indicate the
+title of the RFP, time and date of acceptance, and whether it is the Technical, Price or Cost proposal. Proposals
+must be received by the City per the time specified on the acceptance date.
+
+ 5.1      Proposal Format
+
+ 5.1.1    All Proposals shall include the following information, organized as separate sections of the Proposal.
+          The Proposal should be concise and to the point.
+
+ 5.1.2    So that competing Proposals can be compared equally, a Proposal must be assembled in strict
+          adherence to the submittal requirements identified herein. Failure to follow all organizational
+          requirements may result in disqualification. Proposals should be prepared as simply as possible and
+          provide a straightforward, concise description of the proposed products and services to satisfy the
+          requirements of the RFP. Attention should be given to accuracy, completeness, relevance, and clarity
+          of content. Proposals must address the following questions and formatted in order contain the
+          following sections
+
+
+       The proposal should be organized into the following major sections:
+
+          Proposal Format & Content
+          Section Title
+
+                            Proposal Cover Page
+                            Letter of Transmittal
+                            Table of Contents
+
+                                              November 2018
+City of Berkeley                            Specification No. 19-11255-C                       Page 18 of 53
+Public Records Act (PRA) Request Software                                            Release Date 11/14/2018
+
+                           Attachment 1: Submittal Checklist
+                           Attachment 2: Vendor Statement
+         Section 1         Executive Summary
+         Section 2         Company Background & Qualifications
+                           2.1  Company Background
+                           2.2  Qualifications / Experience
+                           2.3  Project Team
+                           2.4  Customer References
+                           2.5  Financial Information
+
+         Section 3         Technical Proposal
+                           3.1    Proposed System Architecture
+                           3.2    Hardware and System Software
+                           3.3    Application Software
+                           3.4    Third Party Software
+                           3.5    Cloud Computing Hosting / Help Desk Options
+
+         Section 4         Scope of Work
+                           4.1    Project Approach & Methodology
+                           4.2    Project Management Methodology
+                           4.3    Work Plan, Assumptions & Deliverables
+                           4.4    Hosting
+                           4.5    On-Going Support and Maintenance
+                           4.6    Warranty and Maintenance
+                           4.7    Project Schedule
+
+         Section 5         Project Organization, Staffing & Key Personnel
+                           5.1     Project Team & Sub-consultants
+                           5.2     Project Manager & Staffing
+                           5.3     Staff Matrix
+                           5.4     Resumes
+                           5.5     Vendor Assumptions of City Project Staffing Support
+         Section 6         Responses to Technical Requirements
+                           6.1   PRA Business Process Features & Functions Requirements (Excel)
+                           6.2   Reporting Requirements (Excel)
+                           6.3   Interface Requirements (Excel)
+                           6.4   Security_Web Hosting Requirements (Excel)
+         Section 7         Cost Proposal
+                           7.1    Cost Summary
+                           7.2    Detailed Cost Proposal / Payment Schedule
+                                  Attachment 8 Cost Proposal Form (Excel)
+                           7.3    Optional Costs Not Identified in the RFP
+                           7.4    Hourly Rates
+         Section 8         Exceptions to the RFP
+         Section 9:        Sample Documents
+         Section 10        Contract Terminations
+         Section 11        Contract
+                           10.1  Vendor Comments to City Agreements
+                           10.2  Vendor Agreements
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                             Page 19 of 53
+Public Records Act (PRA) Request Software                                                  Release Date 11/14/2018
+
+
+
+5.1.3    Instructions relative to each part of the response to this RFP are defined in the remainder of this section.
+         The following should be submitted as part of the entire submittal
+
+           5.1.3.1    The Proposal shall be titled “Public Records Act Request System” and submitted in the
+                      following formats:
+                      5.1.3.1.1     One (1) complete, original hard copy, including ALL attachments.
+                      5.1.3.1.2     Four (4) hard copies, including all attachments
+                      5.1.3.1.3     One (1) electronic copy of the complete RFP response on USB Drive. These
+                                    digital responses should include all documents and all attachments in PDF,
+                                    Word or Excel format, as identified in this document.
+
+ 5.1.4 Proposals should be as succinct as possible, exclude all marketing materials and be bound.
+
+5.2      Letter of Transmittal
+
+         The proposal will include a letter of transmittal with the RFP name and number, name of the Vendor,
+         principal place of business address, company tax identification number, the name, telephone number,
+         and email address of the primary contract to whom all correspondence should be sent. This page must
+         be dated and signed in blue ink by an individual who is authorized to legally bind the firm submitting
+         the proposal.
+
+5.3      Proposal Sections
+
+SECTION 1 EXECUTIVE SUMMARY
+
+         1.1. The Executive Summary should be limited to a brief narrative (less than 3 pages), summarizing
+              the proposal.
+         1.2 Complete Attachment 1 (RFP Submittal Checklist)
+         1.3 Complete Attachment 2 (Vendor Statement)
+         1.4 Current Certificate of Insurance
+
+SECTION 2: COMPANY BACKGROUND & QUALIFICATIONS
+
+         2.1   Company Background
+               Provide a brief description of your firm’s background, i.e., locations, years in business, form of
+               ownership, type of business (Sole Proprietor, Corporation, Limited Liability Partnerships, etc.)
+               and principals of the firm. Provide a corporate organization chart and company information on
+               the Prime and Sub consultant (it applicable) firms.
+
+         2.2   Qualifications / Experience
+               Provide a description of the firms experience for the following:
+               1. Experience and expertise as an implementer of PRA technologies;
+               2. Experience with government clients / deployments;
+               3. Experience with PRA implementations, include brief project description for five (5) similar
+                  projects including: client name, project name, date (start – end), project manager, the
+                  “breadth” of the software solution implemented (e.g., modules) and whether the project was
+                  completed on schedule and/or budget.
+               4. Background information about the Vendors’ project partners, and any third-party firms so
+                  the City can evaluate the Vendor and its proposed partner’s stability and capability to
+                  execute the commitments set forth in response to the RFP.
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                          Page 20 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+         2.3   Customer References
+               Provide a minimum of five (5) client references. References should be California cities or
+               other large public sector entities.
+
+               All references provided will be contacted during the selection process. The names and
+               phone number of the project manager for each reference should be listed. Failure to
+               provide this information may result in the Vendors not being elevated to software
+               demonstrations. Vendors hereby releases listed references from all claims and liability for
+               damages that may result from the information provided by the reference. The City will attempt
+               to contact the reference twice and then will ask the primary contact in the Vendors’ proposal for
+               assistance. If the City fails to contact the reference after a third try, the reference will be
+               considered as a “no response” in the evaluation and scored accordingly.
+
+               Customer reference information should include at the minimum:
+               • Name of City or Organization
+               • Name and title of client reference
+               • Client Contact Information: project manager, address, and telephone and email
+               • Dates of implementation: start and completion dates
+               • Total Cost of Implementation: Software and Professional Services
+
+         2.4      Financial Information
+                  Provide most recent independently audited annual financial report for the last three (3) years,
+                  or a Dun & Bradstreet report.
+
+SECTION 3: TECHNICAL PROPOSAL
+
+         The Vendors should present, in detail, features and capabilities of the proposed application software.
+
+         3.1   Proposed System Architecture
+               Provide a description of the following:
+               1. A description of the proposed PRA solution architecture, including a diagram or figure of
+                  the host environment, as appropriate.
+               2. The recommended application server / hosted infrastructure.
+               3. The extent that the proposed PRA suite of applications utilizes service-oriented architecture
+                  (SOA) or other integration functions. Describe your suggested approach / foundation for
+                  governance of the environment both during implementation and in maintenance.
+               4. Describe key decision criteria such as transaction volume, real-time redundancy, failover,
+                  disaster recovery, and system distribution characteristics.
+               5. Describe the optimal and minimum database requirements.
+               6. Describe any required / suggested integration methodologies (i.e., composite application
+                  integration, middleware integration, data integration) that support the operation of your
+                  system.
+
+         3.2   Application Software
+               The Vendors will provide a description of all proposed software, features and functions provided
+               by the proposed PRA, as it corresponds to the functionality requirements identified in
+               Attachment 4, PRA Business Process Functional & Technical Requirements (Excel). Provide a
+               description of the following:
+               1. Describe the PRA Software, including functionality, administration / development tools,
+                  security, upgrade tools, reporting, and analytic tools.
+               3. If software is sold by module, the Vendor must explicitly state the software module name
+                  and versions that are proposed. Describe how modules are fully integrated with each other.
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                         Page 21 of 53
+Public Records Act (PRA) Request Software                                              Release Date 11/14/2018
+
+               4. Review Attachment 3, Berkeley As-Is & To-Be Business Process Maps and identify any
+                  defined process scope that cannot be address, or is not included, as part of the Proposal.
+
+         3.3   Third Party Software
+               Provide a description of the following:
+               1. All proposed third-party software. Include a statement for each third-party software and
+                  whether the Vendors’ contract will encompass the third-party product and/or whether the
+                  City will have to contract separately with the third-party firm for the product.
+               2. Degree of functional integration, shared security and workflow, and interface
+                  methodologies.
+               3. A specific disclosure of any Open Source software being proposed as part of the overall
+                  PRA solution, and which type of licensing this software is governed by.
+
+               Detailed information will be provided in the spreadsheet provided in Attachment 4, PRA
+               Business Process Functional & Technical Requirements.
+
+         3.4   Hardware and System Software
+               Provide a description of the following:
+               1. Recommended configuration of the hardware environment including hardware
+                  specifications.
+               2. Recommended description of the required system software.
+               3. Platforms and Storage, describe suggested/typical approach for failover and scalability of
+                  the system through application server clustering, load balancing, mirroring and associated
+                  technologies or approaches.
+               4. Back-up and Recovery, describe the back-up and recovery methods, including available
+                  back-up tools and real-time redundancy for the software. Describe the recovery expectations
+                  in your proposal.
+
+         3.5   Cloud Computing Hosting / Help Desk Options
+               Provide a description of the following:
+               1. Cloud computing / hosted solutions.
+               2. Hosting services, managed services and disaster recovery services at the Vendors’
+                  environment.
+               3. Temporary hosted application as part of the design and implementation phases, if applicable.
+
+SECTION 4: PROJECT MANAGEMENT DELIVERABLES
+
+         The Vendors should provide a detailed plan for implementing the proposed solution. This information
+         should include:
+
+         4.1   Project Approach & Methodology
+               Describe the overall project implementation approach that will ensure a successful deployment.
+               Describe your methodology, including project phases, implementation best practices, roles and
+               responsibilities on each task for the Vendors and City, Change Control, tools or models that your
+               firm uses for best practice implementations.
+
+         4.2   Project Management Methodology
+               Describe the overall best practice project management methodology that will be employed for
+               the PRA implementation. Describe the specific techniques and activities that will be used to
+               ensure the successful delivery of the project.
+               The following will be addressed:
+               1. Scope Management
+               2. Schedule Integrity Management
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                         Page 22 of 53
+Public Records Act (PRA) Request Software                                              Release Date 11/14/2018
+
+               3.    Project Cost Management
+               4.    Risk Management
+               5.    Quality Management
+               6.    Resource Allocation / Time Management
+               7.    Contract Change Management
+               8.    Integration Management
+               9.    Role of the Vendor’s Project Manager
+               10.   Expected role of the City’s Project Manager
+
+         4.3   Work Plan, Assumptions & Deliverables
+               The Vendor will provide a description for the following:
+               1. Work Plan: Provide a detailed work plan reflecting a logical, best practice method. The work
+                  plan should reflect a detailed Work Breakdown Structure (WBS) illustrating project phases,
+                  tasks, sub-tasks, deliverables and assumptions.
+               2. Deliverables.
+               3. Proposed Vendor Staffing:
+                  • Project organization chart.
+                  • How many staff will the Vendor assign to the Project
+                  • Approximate dedication to the Project of each resource and approximate time that work
+                       will be completed on-site vs. off-site
+                  • Major roles and responsibilities for each resource
+               4. Proposed City Staffing:
+                  • Assumed participation in the Project (average portion of FTE). This should include all
+                       time spent working on the Project (including time spent with and without Vendor’s
+                       consultants)
+                  • Assumptions about staff prior skills / competencies of resources
+               5. Risks: This section will include an explanation of advantages AND risks associated with
+                  this plan.
+               6. Training Plan: Provide an overview of proposed training plan/strategy, specifying how and
+                  when training is to be delivered for both on-site and off-site training and web training
+                  services for the core project team, end users, and technology personnel (if required). Add
+                  details
+                  • Explain any roles and responsibilities the City is expected to provide for the training
+                       effort including (but not limited to) training coordination, training material
+                       development, training delivery, etc.
+                  • Please include how the training would be available and provided post implementation
+                       such as web videos, printed materials etc.
+
+               The work plan will be carefully reviewed by the City to confirm that the Vendors understands
+               the intent of the project and has effectively applied proven best practices.
+
+               The following typical project tasks is a conceptual list; Vendors will propose the means, methods
+               and procedures they believe will result in a successful deployment. The City expects Vendors to
+               employ whatever best practice approach they believe will prove most effective in delivering a
+               fully functional PRA software implementation:
+
+               •     Project Management
+                     o   Project Plan
+                     o   Communication Plan
+                     o   Risk Management Plan
+                     o   Change Management Plan
+                     o   Finalize Project Schedule
+                     o   Ongoing Communication, Coordination, Project Status Reports
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                         Page 23 of 53
+Public Records Act (PRA) Request Software                                              Release Date 11/14/2018
+
+                •   Design
+                    o Requirements Validation
+                    o System Environment (Development, Test, Production)
+                    o Software Configuration (PRA software, Forms, Workflow, Third Party (if applicable)
+                    o Data Conversion
+                    o Integration
+                •   Development
+                    o Software Installation and Configuration
+                    o Data Conversion
+                    o Report Development
+                    o Integrations / Interfaces
+               •    Testing
+                    o Test Plans
+                    o Functional and Technical Test Scripts
+                    o User Acceptance Testing
+                •   Documentation:
+                    o System Documentation
+                    o Security Documentation
+                    o End User Documentation
+                •   Training
+                    o System Administration
+                    o End User Training
+                •   Quality Assurance Review Process
+                •   Disaster Recovery Plan
+                •   System Operations Knowledge Transfer Acceptance
+                •   System Deployment / Go-Live
+                •   Project Closure
+                •   On-Going Support and Maintenance
+                •   Warranty and Maintenance
+
+                This section shall describe assumptions made for each phase and/or project task described in the
+                Work Plan.
+
+                The successful Vendors shall be responsible for the implementation and the satisfactory
+                performance of any third-party software included in the proposal. A proposal should describe
+                any products, features or other value-added components recommended for use with the proposed
+                system that have not been specifically requested in this RFP.
+
+         4.4   Hosting
+               This Section addresses hosting services provided by the Vendor, including a description of the
+               following:
+               1. Information on the specific hosting services provided
+               2. Service desk support services
+               3. User Setup, Authentication and Management processes
+               4. Application support
+               5. Operational support services
+               6. Technology infrastructure services including Security
+               7. Data Center Security Documentation
+
+                                             November 2018
+City of Berkeley                             Specification No. 19-11255-C                               Page 24 of 53
+Public Records Act (PRA) Request Software                                                     Release Date 11/14/2018
+
+                 8. Disaster recovery (Backups, mode of access, system availability, # of user accounts
+                     available to access in disaster recovery situation)
+                 9. Will all products (including third-party products) be hosted through the same provider?
+                 10. Will the City need to host anything on its servers?
+
+         4.5. On-Going Support and Maintenance
+                 Describe the ongoing technical support options provided by the Vendors. Include all software
+                 (PRA Software and Third Party) identified in the proposal. Address the following:
+               1. Post-implementation support (e.g., number of months of on-site support after go live).
+               2. Telephone support (e.g., include toll-free support hotline, hours of operation, availability of
+                  hotline twenty-four (24) hours per day and seven (7) days per week). Include the geographic
+                  location of the telephone support staff.
+               3. Special plans defining “levels” of customer support (e.g., gold, silver, etc.). Define what level
+                  of support is being proposed.
+               4. Response time for and definition of various types (levels of severity) of problems reported to
+                  the support network (e.g., critical issue response time).
+               5. Disaster Recovery Testing Plan
+               6. For each of the services proposed, explain service levels that are used to guarantee
+                  performance for the City through the proposed hosting agreement. Complete Attachment 11:
+                  Proposed Service Level Agreement.
+
+         4.6     Warranty and Maintenance
+                 Describe the warranty and maintenance options typically provided by the Vendor. This should
+                 include all software (PRA Software and Third Party) identified in the proposal.
+                 1. Delivery method of future upgrades and product enhancements including historical
+                    frequency of upgrades by module.
+                 2. Problem reporting and resolution procedures.
+                 3. Bug fixes and patches.
+                 4. Other support (e.g., on-site, remote dial-in, website access to patches, fixes and
+                    knowledge base).
+
+         4.7     Project Schedule
+                 The Vendors will provide a detailed MS Project Schedule (or other similar artifact) reflecting
+                 the proposed Work Breakdown Structure illustrating all phases, tasks, subtasks, deliverables,
+                 and key milestones in a Gant chart format. The detailed Gantt chart should identify task
+                 durations; start and completion dates; and tasks where City staff is required to participate on a
+                 task. Project schedule assumptions made by Vendor should also be noted on a separate page
+                 following the project schedule.
+
+SECTION 5: PROJECT ORGANIZATION, STAFFING & KEY PERSONNEL
+
+         The Vendors will provide the following:
+
+         5.1     Project Team & Sub-consultants
+                 Provide a project organization chart showing City and Vendor staff. Illustrate the Vendor’s team
+                 structure and project titles, including key Prime and Subconsultant project staff. The project org
+                 chart will illustrate the proposed level of City staff participation and their related classifications.
+
+         5.2     Project Manager & Staffing
+                 Provide a brief overview on the proposed Project Manager background highlighting the Project
+                 Management experience, strengths, and accomplishments in the successful execution of similar
+                 government enterprise PRA software deployments in the government space or comparable
+
+
+                                               November 2018
+City of Berkeley                            Specification No. 19-11255-C                          Page 25 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+               environments. The City seeks a project Manager with at least 5 years’ experience or at least
+               three successful similar implementations – or both.
+
+               Provide a brief description of the Prime and Subconsultant(s) project team members and resumes
+               of the implementation team Project Manager and key team members. Because the experience
+               and expertise of the implementation team will play an important role in the success of the
+               implementation, proposals that do not provide this information will be deemed unresponsive.
+
+         5.3   Staff Matrix
+               Include a matrix showing the name / title, education / professional experience and the specific
+               role each member will play on the project and the defined scope of work/tasks.
+
+         5.4   Resumes
+               Provide resumes of the Project Manager and key staff who will be assigned to this project.
+
+SECTION 6: RESPONSES TO REQUIREMENTS
+
+         6.1   PRA Features & Functions
+               The Vendors will refer to Attachment 4: PRA Business Process Functional & Technical
+               Requirements (Excel)
+
+                           1. Submit filled out Attachment 4. All functional requirements that are responded
+                              to with a positive response (anything except “N”) are considered to be in scope.)
+                              and fill it out to denote the functionality the proposed PRA software will provide.
+                           2. This Section describes the software and implementation scope of the overall
+                              Project and the requirements for each functional area. Responses to the functional
+                              requirements should be completed to identify the capability of the software, the
+                              scope of the implementation as well as whether the requirement will be included
+                              under the scope of any proposed support agreement.
+                           3. The submitted requirements responses will become part of the agreement.
+                              Vendors are expected to warrant both software and implementation of all positive
+                              responses (every response except “N”)
+                           4. The City will clarify any requirements with the response of “with configuration”
+                              during Software Demonstration Presentations.
+                           5. All responses which are marked “Y” will be considered to be included in the
+                              scope, and the cost proposal and all other information submitted in the Proposal
+                              should reflect this. Furthermore, the module necessary to perform the specified
+                              functionality must be included in the scope and cost of the Proposal.
+                           6. Vendors must be ready to demonstrate any requirements listed as “Y” during
+                              Presentation.
+                           7. Indicate if a feature will be supported in the product as part of the proposed
+                              maintenance and support offering and include the proposed support provider.
+                              Support services shall comprise any of, technical support, access to patches and
+                              upgrades that accommodate the requirement, and help desk support for the
+                              requirement.
+               Failure to provide this information in the proposal will be grounds for lack of further
+               consideration.
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                           Page 26 of 53
+Public Records Act (PRA) Request Software                                                Release Date 11/14/2018
+
+         6.2   Reporting Requirements
+
+               Vendors will refer to Attachment 5: Report Requirements (Excel) and fill it out to denote the
+               report capabilities the proposed PRA software will provide.
+
+               Failure to provide this information in the proposal will be grounds for lack of further
+               consideration.
+
+         6.3   Interface Requirements
+
+               The Vendors will refer to Attachment 6: Interface Requirements (Excel) and fill it out to denote
+               what interfaces the Vendors will provide. If additional interfaces are proposed, please add them
+               to the form and indicate how they will be implemented using the same key.
+
+               Failure to provide this information in the proposal will be grounds for lack of further
+               consideration.
+
+SECTION 7: COST PROPOSAL
+
+         7.1   Cost Summary
+               This Section addresses price and should be presented according to the format shown in
+               Attachment 8: Cost Proposal Form.
+
+               1. Identify major Project milestones. It is required that costs will be invoiced upon
+                  acceptance and completion of major milestones.
+               2. The Cost Proposal format must coincide with the Vendors’ Scope of Work and
+                  Deliverables as defined in the vendor’s Proposal. Cost Proposals that do not parallel the
+                  Technical Proposal, or omit cost data for the proposed work items, may be omitted from
+                  further consideration in the evaluation process.
+               3. Provide a schedule of payments necessary to complete the proposed scope.
+               4. Complete and submit Attachment 8: Cost Proposal Form.
+                  • It is important that Vendors use the format provided herein. Attachment 8: Cost
+                      Proposal Form should include total price for all software, services, and additional costs
+                      to acquire all software and services referenced in the Proposal including third-party
+                      prices. If third-party products or services are included, do not provide separate versions
+                      of Attachment 8 for each third-party product.
+                  • All pricing must be submitted as deliverable-based invoice fixed by milestone.
+                      Costs listed as “to-be-determined” or “estimated” will not be scored.
+                  • All service costs must be provided on a task or completion basis with costs assigned to
+                      each milestone, deliverable and/or task. Vendors are required to fill in deliverables and
+                      tasks under the provided headers (initial knowledge transfer, process analysis/system
+                      design, system build, testing, training, and closure) Additional details may be provided
+                      to further explain deliverable/task costs.
+                  • Vendors should include all software modules and state any limitations on module use.
+                      If no limitations are listed, the City will consider that pricing is based on full enterprise
+                      wide access for the City.
+                  • Vendors must submit implementation costs as fully loaded rates that include all
+                      necessary travel and other expenses. By submitting a Proposal, all Vendors
+                      acknowledge that all pricing (including travel) is fixed fee and included within
+                      milestones.
+                  • Vendors shall list ongoing maintenance costs for a period of 5 years.
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                           Page 27 of 53
+Public Records Act (PRA) Request Software                                                Release Date 11/14/2018
+
+         7.2   Detailed Systems Costs & Payment Schedule
+
+               Vendors will provide a detailed cost and payment schedule for your proposed products and
+               services in this section. The payment schedule should be based on, and list, project deliverables
+               and associated payments. (The payment schedule should be aligned and reflect the same
+               numbering as the Scope of Work and the MS Project Schedule.)
+                  1.   Software Costs
+                  2.   Software Hosting Cost (if separate from software costs)
+                  3.   Maintenance Cost
+                  4.   System Software
+                  5.   Other Costs (not identified in the City’s RFP document)
+
+               Vendors will fill out Attachment 8: Cost Proposal Form (Excel), to provide their detailed system
+               costs.
+
+         7.3   Optional Costs Not Identified in the RFP
+               Vendors will also provide any costs for products and/or services not specified in this document.
+               Vendors will fill out Attachment 8: Cost Proposal Form spreadsheet, to provide their optional
+               costs.
+
+         7.4   Hourly Rates
+
+               Vendors will provide a table indicating the hourly billing rate for all project personnel. This will
+               also include the hourly billing rates for all subcontractors, if applicable. One averaged hourly
+               billing rate for project team members will not meet this required and may deem the Proposal
+               non-responsive. This information may be referenced for future work.
+
+SECTION 8: EXCEPTIONS TO THE RFP
+
+         This Section addresses the Vendor identified Exceptions to the RFP. All requested information in
+         this RFP should be provided; however, the City will consider identified exceptions to requirements
+         in this RFP. The City, at its sole discretion, may accept or reject any such Exceptions identified in
+         the Proposal.
+
+         Exceptions shall be clearly identified in this Section, with a written explanation of the
+         Exception and an alternate proposal (if applicable).
+
+         To avoid the scenario where the City is unable to negotiate successfully with its finalist Vendor,
+         any material Exceptions to the RFP, including those to the terms and conditions listed in Section
+         VII (CONTRACT CONDITIONS FOR PROJECT), will be clarified prior to the issuance of
+         Notification for elevation to Software Demonstration Presentations.
+
+SECTION 9: SAMPLE DOCUMENTS
+
+         This Section addresses documents originating from the Vendor; including sample copies of the
+         following:
+             1. Any sample agreements that the City would be required to sign upon contract award. This
+                 would include any applicable software license agreements, professional service agreements,
+                 hosting agreements, third-party agreements, etc.
+             2. Sample of or excerpt from a PRA software system design document.
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                          Page 28 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+
+
+SECTION 10: CONTRACT TERMINATIONS
+
+         If your organization has had a contract terminated in the last five (5) years, describe such
+         incident. Termination for default is defined as notice to stop performance due to the vendor’s non-
+         performance or poor performance and the issue of performance was either (a) not litigated due to
+         inaction on the part of the vendor, or (b) litigated and such litigation determined that the vendor was
+         in default.
+
+         Submit full details of the terms for default including the other party’s name, address, and phone
+         number. Present the vendor’s position on the matter. The City will evaluate the facts and may, at its
+         sole discretion, reject the Proposal on the grounds of the past experience.
+
+         If the firm has not experienced any such termination for default or early termination in the past five
+         (5) years, so indicate.
+
+SECTION 11: CONTRACT
+
+         11.1     Vendor Comments to City Agreements
+                  Vendors may take exception to certain terms and conditions in the standard City
+                  Agreement. Vendors shall provide their comments in this section. The City, at its sole
+                  discretion, may negotiate or reject any exceptions within the proposal.
+
+         11.2     Vendor Agreements
+                  Vendors should include sample copies of the following documents:
+                  1. Sample software licensing agreement
+                  2. Sample hosting agreement
+                  3. Sample maintenance agreement
+                  4. Sample implementation services agreement if applicable
+
+SECTION 12: ELECTRONIC SUBMISSION
+
+Electronic copies of all files must be provided on a flash drive using the file formats specified in the table
+below. Attachments not listed in the table below do not have a required file format and may be supplied in
+either the original file format or PDF. Hard copies must also be included in the unbound and bound hard
+copies of the proposal submission per RFP instructions for hardcopy submission.
+
+Figure 5.14.1: Electronic Submission Documents
+                                                                                REQUIRED FILE
+ RFP SECTION ATTACHMENT/DOCUMENT
+                                                                                FORMAT
+                      Attachment 4 Business Process Functional &
+ Section III                                                                    Microsoft Excel (.xlsx)
+                      Technical Requirements
+ Section III          Attachment 5 Report Requirements                          Microsoft Excel (.xlsx)
+ Section IV           Attachment 6 Interface Requirements                       Microsoft Excel (.xlsx)
+ Section IV           Attachment 8 Cost Proposal                                Microsoft Excel (.xlsx)
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                             Page 29 of 53
+Public Records Act (PRA) Request Software                                                  Release Date 11/14/2018
+
+
+VI       PROPOSAL EVALUATION
+6.1      Evaluation Process
+
+         6.1.1    The City shall make an award on the basis of best value. Best value is defined as a combination
+                  of quality, price, and the elements of required services that in total are optimal relative to the
+                  City’s needs.
+
+         6.1.2    The City’s evaluation process will be comprised of several phases:
+                  1.   Phase One: Initial Selection
+                  2.   Phase Two: Elevation
+                  3.   Phase Three: Demonstration
+                  4.   Phase Four: Best and Final Offer (BAFO), Negotiations and Final Selection
+
+6.2      Evaluation & Selection Team
+
+         6.2.1    A cross-functional team of City staff will comprise the Evaluation Selection Team, with
+                  representation from the functional areas identified herein, the City’s department stakeholders
+                  includes Information Technology department. This team is responsible for evaluation and
+                  scoring of the proposals, Vendors demonstrations, and other evaluation tasks that may include
+                  site visits.
+
+         6.2.2    A broader Advisory Group consisting of subject matter experts from the City’s departments
+                  will be established to participate in various phases and provide input on specific modules that
+                  are being assessed.
+
+         6.2.3    The Evaluation Selection Team will make a procurement recommendation to the Project’s
+                  Advisory Group.
+
+         6.2.4    The City reserves the right to award the contract in phases, in total, or not at all.
+
+6.3      Pre-qualification Process
+
+         Vendors that do not demonstrate they meet the minimum qualifications outlined in this document
+         will not be considered for further evaluation. This determination will be at the sole discretion of the
+         City
+
+6.4      Phase One: Initial Selection
+
+         The Selection Committee will first determine if each submitted proposal is responsive to this RFP. A
+         responsive proposal is a proposal that conforms to all the material aspects of the requirements in the
+         RFP, a demonstrated understanding of the RFP requirements and the financial stability to successfully
+         implement a comprehensive PRA software. The Committee will determine whether each Vendor
+         correctly submitted and completed all of the necessary forms, documents, attachments and information
+         in the format requested. If the City, at its sole discretion, determines a proposal to be non-responsive,
+         the proposal will not be elevated to Phase Two of the process.
+
+6.5      Phase Two: Elevation
+
+         In Phase Two of the review process, the Selection Committee will review the Vendor’s written
+         proposals and determine that each responsible Vendor has the capacity, experience, knowledge,
+         understanding, and reliability to fully perform the contract requirements. Phase Two will be weighted
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                             Page 30 of 53
+Public Records Act (PRA) Request Software                                                  Release Date 11/14/2018
+
+         following the criteria listed on the figure below. The Committee will short-list up to two vendors to
+         software demonstrations and interviews.
+
+         Figure 6.5.1: Evaluation Criteria Weighting
+            Criteria                                                                                        Score
+
+            Qualifications / Personnel Assigned to the Project                                                15%
+            •    Vendor Background
+            •    Project Manager Experience: 5+ years’ experience, a track record of several successful
+                 PRA software implementations. The personnel assigned to the project will also be
+                 carefully assessed
+            •    Vendor’s proposed Technical Team experience and expertise
+            •    Vendor’s prior experience successfully implementing PRA software of equal or greater
+                 size than the City of Berkeley
+            •    Customer references with other California cities
+
+            Software Functional Requirements                                                                  30%
+
+            Project Implementation Plan                                                                       25%
+
+            Training, Support, and Technical Documentation                                                    10%
+
+            Cost Proposal / Best Value                                                                        20%
+
+            Maximum Score                                                                                   100%
+
+
+6.6      Phase Three: Demonstrations
+
+         In this phase, no more than the top two (2) ranking vendors will be elevated and invited by the City
+         for demonstration of the firm’s proposed software. The City will interview key Vendor staff to be
+         assigned to the project. Vendors that are elevated will be given a date for its scheduled presentation.
+         The City will use the following evaluation scoring method for Phase 3.
+
+         A schedule and demonstration scripts for presentation components will be provided to each Vendor
+         two weeks prior to its scheduled presentation date. The objective of the demonstration phase will be
+         to assess the extent the Vendors’ product will meet the business needs of the City. Vendors selected
+         to continue on to this phase will be expected to follow demonstration “scripts” provided by the City.
+
+         6.6.1    These scripted demonstrations will be used to assess the following:
+                  • Ability to successfully address business requirements as required by the scripts.
+                  • Ability to support the City’s business process and service delivery improvement goals.
+                  • Ability to propose solutions to meet the City’s current and future needs.
+         6.6.2    The flexibility offered by the System and its ease of use.
+         6.6.3    Demonstrations will not include any functionality that is considered beta or part of a future
+                  release.
+         6.6.4    This phase may also include site visits to other agencies by the City’s evaluation team to see
+                  successfully installed solutions.
+
+
+
+
+                                             November 2018
+City of Berkeley                             Specification No. 19-11255-C                              Page 31 of 53
+Public Records Act (PRA) Request Software                                                    Release Date 11/14/2018
+
+         Figure 6.6.1: Phase III Demonstrations
+           Criteria                                                                                         Score
+           1.   Ability to demonstrate software effectively supports business requirements                     20%
+
+           2.   Ability to support the City’s business processes / service delivery                            20%
+
+           3.   Ability to propose solutions to the City’s current and future needs                            20%
+
+           4.   The flexibility offered by the System and its ease of use.                                     30%
+
+           6.   Ability to support City’s Report Requirement for State Reporting                               10%
+
+                Maximum Total Score                                                                          100%
+
+
+          The City will provide an Internet connection if needed; however, access and/or response time
+          problems may be experienced. Such access will be coordinated in advance upon request by the
+          Vendors. Each Vendors should evaluate the risks and consider supplying their Internet access.
+
+6.7      Phase Four: Best and Final Offer (BAFO), Contract Negotiation and Selection
+
+         The City will select a finalist to complete software and implementation negotiations. If third-party
+         software is involved, the City may elect to negotiate with these vendors first. Price shall be considered
+         but need not be the sole determining factor. The primary vendor will be expected to assist with
+         negotiations, including submis sion of best and final offer(s).
+
+         The City may ask for written clarification to the initial proposal from the finalist, including any
+         exceptions the Vendors may have to contract conditions included in the RFP. Contract negotiations
+         will allow all parties to seek clarification on project scope, expectations, deliverables, and ask any
+         remaining questions. Negotiations with elevated Vendors will seek any information the City needs to
+         satisfy concerns and issues and may include a review of any aspect of the proposal where questions
+         remain. Software licensing agreements will be reviewed in detail with these Vendors, and exceptions
+         to the proposed contract conditions will be reviewed and evaluated.
+
+         If the negotiations result in a satisfactory agreement, a contract will be recommended to Berkeley’s
+         City Council for approval. If negotiations with the top finalist Vendor are not satisfactory, the City
+         will go to the next highest ranked Vendor and so on until an agreement can be reached.
+
+6.8      Award
+
+         As part of the award process, the City reserves the rights to:
+         • Accept or reject any or all proposals;
+         • Waive any informality in proposals received;
+         • Accept or reject any or all of the items in the proposal;
+         • Award the contract in whole or in part and/or negotiate any or all items with individual Vendors
+             if it is deemed in City’s best interest;
+         • Make no selection if proposals are deemed to be outside the fiscal constraint or not in the best
+             interests of the City;
+         • Waive any irregularities and technicalities and may, at its sole discretion, request a clarification or
+             other information to evaluate any or all proposals;
+         • Prior to awarding the contract, require Vendors to submit evidence of qualifications or any other
+             information the City may deem necessary;
+         • Prior to award cancel the RFP or portions thereof, without penalty.
+
+
+                                               November 2018
+City of Berkeley                            Specification No. 19-11255-C                           Page 32 of 53
+Public Records Act (PRA) Request Software                                                Release Date 11/14/2018
+
+
+VII      CONTRACT CONDITIONS FOR PROJECT
+Below are important contract terms and conditions that the City expects to be part of an agreement with the
+finalist Vendor. Please indicate your willingness to comply with each condition by noting any exceptions per
+the instructions in Section V. Submission Requirements, EXCEPTIONS TO THE RFP. Contract terms in the
+final agreement should include but will not be limited to those listed below. The City will carefully evaluate
+any Exceptions to the terms and conditions listed below.
+
+7.1      Key Personnel
+
+         The City requires assurances as to the consistency and quality of the Vendor’s staffing for this Project.
+         Key points of the City’s key Consultant’s personnel provision will include:
+
+         Work under this Agreement shall be performed only by competent personnel under the
+         supervision of and in the employment of Vendor. The City shall have the ability to interview
+         and approve or reject project manager and project team members proposed by the Vendor.
+         Vendor’s project manager and project team members who have been approved by the City may
+         not be removed from the Project without the City’s approval. The City shall have the right to
+         dismiss project manager and project team members from the Project if it believes they are not
+         performing adequately.
+
+7.2      Implied and Express Warranty
+
+         Vendor expressly warrants that the proposed and implemented system will conform in all material
+         respects to the requirements and specifications stated in the Scope of Services including the functional
+         requirements in Attachment 4: Business Process Functional & Technical Requirements for a period no
+         less than 36 months after final acceptance. The rights and remedies provided herein are in addition to
+         and do not limit any rights afforded to the City by any other clause of this contract.
+
+7.3      Express Warranty Remedy and Software Escrow
+
+         Vendor agrees to repair or replace any function not working in the system during the life of the
+         warranty. In the event a problem cannot be fixed or replaced, the Vendor shall refund the full amount
+         paid for the software, its implementation, and any paid hosting and/or maintenance costs.
+
+7.4      System Acceptance
+
+         For purposes of acceptance of the system (or portions thereof), the City intends to use a two-staged
+         acceptance procedure for each phase and for the entire Project. Key points include:
+
+         7.4.1    “Conditional Acceptance” will occur at or prior to go-live. The City will have up to forty-five
+                  (45) days to test the system (“pre-live testing”) before going live.
+
+         7.4.2    The City will have a 90-day period after Conditional Acceptance to “live test” the system.
+                  Live testing is the City’s opportunity to verify that the system complies with the functional
+                  requirements and any other written specifications delivered to the City by the vendor during
+                  the course of the project.
+         7.4.3    If after the live testing the system performs in accordance with the system specifications
+                  (including the design document and functional requirements), the City will issue “Final
+                  Acceptance.” The 90-day timeframe for Final Acceptance shall be extended if problems are
+                  found in the live test. Specifically, the City expects to document the date the problem is found
+                  and the date it is certified as fixed. The acceptance period would pause when issues are
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                           Page 33 of 53
+Public Records Act (PRA) Request Software                                                Release Date 11/14/2018
+
+                  reported and would restart on the date the problem is certified as fixed. The warranty period
+                  shall begin at the time of Final Acceptance.
+
+7.5      Milestones Deliverables
+
+         The City requires that all payments be based on successful completion of milestones. After the City’s
+         acceptance of the milestone, the vendor will invoice for any applicable milestone payments. Milestone
+         payment amount shall be a fixed fee for the milestone.
+
+7.6      Additional Users and Modules
+
+         The City will require “price protection” for a minimum of two (2) years from the effective date of
+         the agreement for additional City users and modules that are listed in the Proposal but are not
+         initially purchased.
+
+7.7      Restrictions on Growth
+
+         The City requires that any proposed licenses or fees to access the software be adequate to allow the
+         City to use the system unrestricted for all business purposes of the City and the City agencies,
+         departments, and other third-party entities listed in this RFP. The City will not be subject to expansion
+         fees, additional license purchases, or fees for additional users, increases in City employee count,
+         budget size, population size, or data storage requirements for a period of 5 years from the effective
+         date of the agreement.
+
+
+VIII CITY REQUIREMENTS
+8.1      Non-Discrimination Requirements
+
+         Ordinance No. 5876-N.S. codified in B.M.C. Chapter 13.26 states that, for contracts worth more than
+         $3,000 bids for supplies or bids or proposals for services shall include a completed Workforce
+         Composition Form. Businesses with fewer than five employees are exempt from submitting this form.
+         (See B.M.C. 13.26.030)
+
+         Under B.M.C. section 13.26.060, the City may require any bidder or vendor it believes may have
+         discriminated to submit a Non-Discrimination Program. The Contract Compliance Officer will make
+         this determination. This applies to all contracts and all consultants (contractors). Berkeley Municipal
+         Code section 13.26.070 requires that all contracts with the City contain a non-discrimination clause,
+         in which the contractor agrees not to discriminate and allows the City access to records necessary to
+         monitor compliance. This section also applies to all contracts and all consultants. Bidders must
+         submit the attached Non-Discrimination Disclosure Form with their proposal
+
+8.2      Nuclear Free Berkeley Disclosure Form
+
+         Berkeley Municipal Code section 12.90.070 prohibits the City from granting contracts to companies
+         that knowingly engage in work for nuclear weapons. This contracting prohibition may be waived if
+         the City Council determines that no reasonable alternative exists to doing business with a company
+         that engages in nuclear weapons work. If your company engages in work for nuclear weapons, explain
+         on the Disclosure Form the nature of such work. Bidders must submit the attached Nuclear Free
+         Disclosure Form with their proposal.
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                           Page 34 of 53
+Public Records Act (PRA) Request Software                                                Release Date 11/14/2018
+
+8.3      Oppressive States
+
+         The City of Berkeley prohibits granting of contracts to firms that knowingly provide personal services
+         to specified Countries. This contracting prohibition may be waived if the City Council determines that
+         no reasonable alternative exists to doing business with a company that is covered by City Council
+         Resolution No. 59,853-N.S. If your company or any subsidiary is covered, explain on the Disclosure
+         Form the nature of such work. Bidders must submit the attached Oppressive States Disclosure
+         Form with their proposal.
+
+8.4      Conflict of Interest
+
+         In the sole judgment of the City, any and all proposals are subject to disqualification on the basis of a
+         conflict of interest. The City may not contract with a vendor if the vendor or an employee, officer or
+         director of the Vendor's firm, or any immediate family member of the preceding, has served as an
+         elected official, employee, board or commission member of the City who influences the making of the
+         contract or has a direct or indirect interest in the contract.
+
+         Furthermore, the City may not contract with any vendor whose income, investment, or real property
+         interest may be affected by the contract. The City, at its sole option, may disqualify any proposal on
+         the basis of such a conflict of interest. Please identify any person associated with the firm that has
+         a potential conflict of interest.
+
+8.5      Berkeley Living Wage Ordinance
+
+         Chapter 13.27 of the Berkeley Municipal Code requires that contractors offer all eligible employees
+         with City mandated minimum compensation during the term of any contract that may be awarded by
+         the City. If the Contractor is not currently subject to the Living Wage Ordinance, cumulative contracts
+         with the City within a one-year period may subject Contractor to the requirements under B.M.C.
+         Chapter 13.27. A certification of compliance with this ordinance will be required upon execution of a
+         contract. The Living Wage rate is currently $14.04 (if medical benefits are provided) or $16.37 (if
+         medical benefits are not provided). The Living Wage rate is adjusted automatically effective June 30th
+         of each year commensurate with the corresponding increase in the Consumer Price Index published in
+         April of each year. If the Living Wage rate is adjusted during the term of your agreement, you must
+         pay the new adjusted rate to all eligible employees, regardless of what the rate was when the contract
+         was executed.
+
+8.6      Berkeley Equal Benefits Ordinance
+
+         Chapter 13.29 of the Berkeley Municipal Code requires that contractors offer domestic partners the
+         same access to benefits that are available to spouses. A certification of compliance with this ordinance
+         will be required upon execution of a contract.
+
+8.7      Statement of Economic Interest
+
+         The City’s Conflict of Interest Code designates “consultants” as a category of persons who must
+         complete Form 700, Statement of Economic Interest, at the beginning of the contract period and again
+         at the termination of the contract. The selected contractor will be required to complete the Form 700
+         before work may begin.
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                         Page 35 of 53
+Public Records Act (PRA) Request Software                                              Release Date 11/14/2018
+
+
+IX       OTHER REQUIREMENTS
+9.1      Insurance
+
+         General Liability and Automobile Insurance The selected contractor will be required to maintain
+         general liability insurance in the minimum amount of $2,000,000, automobile liability insurance in the
+         minimum amount of $1,000,000 and a professional liability insurance policy in the amount of
+         $2,000,000 to cover any claims arising out of the performance of the contract. The general liability
+         and automobile insurance must name the City, its officers, agents, volunteers and employees as
+         additional insureds.
+
+         Technology Professional Liability Errors and Omissions Insurance appropriate to the Vendor’s
+         profession and work hereunder, with limits not less than $2,000,000 per occurrence. Coverage shall
+         be sufficiently broad to respond to the duties and obligations as is undertaken by the Vendor in this
+         agreement and shall include, but not be limited to, claims involving infringement of intellectual
+         property, copyright, trademark, invasion of privacy violations, information theft, release of private
+         information, extortion and network security. The policy shall provide coverage for breach response
+         costs as well as regulatory fines and penalties as well as credit monitoring expenses with limits
+         sufficient to respond to these obligations.
+
+         a. The Policy shall include, or be endorsed to include, property damage liability coverage for
+         damage to, alteration of, loss of, or destruction of electronic data and/or information “property” of
+         the Agency in the care, custody, or control of the Vendor. If not covered under the Vendor’s liability
+         policy, such “property” coverage of the Agency may be endorsed onto the Vendor’s Cyber Liability
+         Policy as covered property as follows:
+
+         b. Cyber Liability coverage in an amount sufficient to cover the full replacement value of damage
+         to, alteration of, loss of, or destruction of electronic data and/or information “property” of the
+         Agency that will be in the care, custody, or control of Vendor.
+
+         c. The Insurance obligations under this agreement shall be the greater of 1—all the Insurance coverage
+         and limits carried by or available to the Vendor; or 2—the minimum Insurance requirements shown in
+         this agreement. Any insurance proceeds in excess of the specified limits and coverage required, which
+         are applicable to a given loss, shall be available to Agency. No representation is made that the
+         minimum Insurance requirements of this agreement are sufficient to cover the indemnity or other
+         obligations of the Vendor under this agreement.
+
+9.2      Worker’s Compensation Insurance
+
+         A selected contractor who employs any person shall maintain workers' compensation insurance in
+         accordance with state requirements. Sole proprietors with no employees are not required to carry
+         Worker’s Compensation Insurance.
+
+9.3      Business License
+
+         Virtually every contractor that does business with the City must obtain a City business license as
+         mandated by B.M.C. Ch. 9.04. The business license requirement applies whether or not the contractor
+         has an office within the City limits. However, a "casual" or "isolated" business transaction (B.M.C.
+         section 9.04.010) does not subject the contractor to the license tax. Warehousing businesses and
+         charitable organizations are the only entities specifically exempted in the code from the license
+         requirement (see B.M.C. sections, 9.04.295 and 9.04.300). Non-profit organizations are granted partial
+         exemptions (see B.M.C. section 9.04.305). Persons who, by reason of physical infirmity, unavoidable
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                            Page 36 of 53
+Public Records Act (PRA) Request Software                                                 Release Date 11/14/2018
+
+         misfortune, or unavoidable poverty, may be granted an exemption of one annual free license at the
+         discretion of the Director of Finance. (see B.M.C. sections 9.04.290).
+
+         Vendor must apply for a City business license and show proof of application to Purchasing Manager
+         within seven days of being selected as intended contractor.
+
+         The Customer Service Division of the Finance Department located at 1947 Center Street, Berkeley,
+         CA 94704, issues business licenses. Contractors should contact this division for questions and/or
+         information on obtaining a City business license, in person, or by calling 510-981-7200.
+
+9.4      Recycled Paper
+
+         All reports to the City shall be on recycled paper that contains at least 50% recycled product when
+         such paper is available at a cost of not greater than ten percent more than the cost of virgin paper, and
+         when such paper is available at the time it is required. If recycled paper is not available the Contractor
+         shall use white paper. Written reports or studies shall be printed on both sides of the page whenever
+         practical.
+
+9.4      State Prevailing Wage
+
+         Certain labor categories under this project may be subject to prevailing wages as identified in the State
+         of California Labor Code commencing in Section 1770 et. seq. These labor categories, when employed
+         for any “work performed during the design and preconstruction phases of construction including, but
+         not limited to, inspection and land surveying work,” constitute a “Public Work” within the definition
+         of Section 1720(a)(1) of the California Labor Code requiring payment of prevailing wages.
+
+         Wage information is available through the California Division of Industrial Relations web site at:
+         http://www.dir.ca.gov/OPRL/statistics_and_databases.html
+
+Thank you for your interest in working with the City of Berkeley for this service. We look forward to
+receiving your Proposal.
+
+ATTACHMENTS:
+
+Attachment 1          RFP Submittal Checklist
+Attachment 2          Vendor Statement
+Attachment 3          Business Process Maps
+Attachment 4          Business Process Functional & Technical Requirements (Excel)
+Attachment 5          Report Requirements (Excel)
+Attachment 6          Interface Requirements (Excel)
+Attachment 7          Security-Web Hosting Requirements (Excel)
+Attachment 8          Cost Proposal (Excel)
+Attachment 9          Maintenance and Support
+Attachment 10         Hosting Services
+Attachment 11         Proposed Service Level Agreements
+Attachment 12         Non-Discrimination/Workforce Composition
+Attachment 13         Nuclear Free Zone Disclosure Form
+Attachment 14         Oppressive States Compliance Statement Form
+Attachment 15         Living Wage Certificate for Providers of Services
+Attachment 16         Form EBO-1 Certification of Compliance with Equal Benefits Ordinance
+Attachment 17         City of Berkeley Right to Audit Form
+Attachment 18         City of Berkeley Commercial General Automobile Liability Endorsement
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C             Page 37 of 53
+Public Records Act (PRA) Request Software                                  Release Date 11/14/2018
+
+                               ATTACHMENT 1: RFP Submittal Checklist
+
+       Proposal: (one (1) unbound original, four (4) bound copies, and one electronic copy)
+       Proposal Cover Page
+       Letter of Transmittal
+       Table of Contents
+       Attachment 1: RFP Submittal Checklist
+       Attachment 2: Vendor Statement
+       Section 1    Executive Summary
+       Section 2    Company Background & Qualifications
+       Section 3    Technical Proposal
+       Section 4    Project Management Deliverables
+       Section 5    Project Organization, Staffing & Key Personnel
+       Section 6    Responses to Technical Requirements
+              Attachment 4: Business Process Functional & Tech. Requirements (Excel)
+              Attachment 5: Report Requirements (Excel)
+              Attachment 6: Interface Requirements (Excel)
+              Attachment 7: Security Web Hosting Requirement (Excel)
+    Section 7 Cost Proposal
+              Attachment 8: Cost Proposal (Excel)
+    Section 8 Exceptions to the RFP
+    Section 9 Sample Documents
+    Section 10 Contract Terminations
+    Section 11 Contract
+    Attachment 9: Maintenance and Support
+    Attachment 10: Hosting Services
+    Attachment 11: Proposed Service Level Agreement
+The following forms, completed and signed in blue ink (attached):
+    Attachment 12: Non-Discrimination/Workforce Composition Form
+    Attachment 13: Nuclear Free Disclosure Form
+    Attachment 14: Oppressive States Form
+    Attachment 15: Living Wage Form
+    Attachment 16: Form EBO-1 Certification of Compliance with Equal Benefits Ordinance
+    Attachment 17: City of Berkeley Right to Audit Form
+    Attachment 18: City of Berkeley Commercial General Automobile Liability Endorsement
+
+
+Additional submittals required from selected vendor after council approval to award contract.
+
+        Provide original-signed in blue ink Evidence of Insurance
+              • Auto
+              • General Liability
+              • Cyber Liability
+              • Worker’s Compensation
+        Right to Audit Form
+        Commercial General and Automobile Liability Endorsement Form
+        Berkeley Business License
+                                                   .
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                         Page 38 of 53
+Public Records Act (PRA) Request Software                                              Release Date 11/14/2018
+
+                                   ATTACHMENT 2: Vendor Statement
+                                 Public Records Act Request Software System
+VENDOR'S STATEMENT
+
+I have read and fully understand all the special conditions herein set forth in the foregoing paragraphs, and
+by my signature set forth hereunder, I hereby agree to comply with all said special conditions as stated or
+implied. In consideration of the above statement, the following proposal is hereby submitted.
+
+                                                             $
+ Written Amount                                              Amount
+
+
+
+WE, THE UNDERSIGNED, HEREBY ACKNOWLEDGE RECEIPT OF
+
+ Addenda #                                                   Addenda #
+
+
+If None, please write NONE.
+
+
+ ________________________________                            ___________________________________
+ Company Name                                                Date
+
+ ________________________________                            ___________________________________
+ Address                                                     Signature
+
+ ________________________________                            ___________________________________
+ City, State, Zip Code                                       Printed Name
+
+ ________________________________                            ___________________________________
+ County                                                      Title
+
+ ________________________________                            ___________________________________
+ Telephone                                                   Fax
+
+ ____________________________________________________________________
+ E-mail Address
+
+
+Software Demonstrations:
+Software demonstrations will be scheduled as needed. Please indicate your availability in the event your
+proposal is elevated to software demonstrations. Elevated Vendors will be notified of the scheduled
+demonstrate date when elevated.
+
+Identify the scope of the proposal and if the proposal contains software and services for each scope option.
+Scope options are defined in the RFP in table of contents sections 2 and 3.
+
+Software and Implementation Services:
+
+Primary Software Firm       ___________________________________________________________
+Software Product Proposed _______________________________ Version _________________
+Primary Implementation Firm ______________________________________________________
+
+Third Party Products/Services
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                Page 39 of 53
+Public Records Act (PRA) Request Software                                     Release Date 11/14/2018
+
+     Third Party Products/Services Proposed
+     No Third-Party Products/Services Proposed
+
+
+
+Firm _______________________________Purpose ______________________________________
+Firm _______________________________Purpose ______________________________________
+Firm _______________________________Purpose ______________________________________
+Firm _______________________________Purpose ______________________________________
+Firm _______________________________Purpose ______________________________________
+Firm _______________________________Purpose ______________________________________
+
+
+
+Name of Individual / Firm Submitting Proposal: ________________________________________
+
+
+
+Signature of Vendor: _______________________________________________________________
+
+
+
+
+                                                                           Attachment 2, Page 2
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C             Page 40 of 53
+Public Records Act (PRA) Request Software                                  Release Date 11/14/2018
+
+
+
+
+ATTACHMENT 3: Business Process Maps (PDF)
+
+ATTACHMENT 4: PRA Business Process Functional & Technical Requirements (Excel)
+
+ATTACHMENT 5: Report Requirements (Excel)
+
+ATTACHMENT 6: Interface Requirements (Excel)
+
+ATTACHMENT 7: Security-Web Hosting Requirements (Excel)
+
+ATTACHMENT 8: Cost Proposal (Excel)
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C             Page 41 of 53
+Public Records Act (PRA) Request Software                                  Release Date 11/14/2018
+
+                               ATTACHMENT 9: Maintenance and Support
+
+ Proposed Maintenance and Support
+ Post-implementation Support:
+ Days of on-site support after go-live
+
+ Other support as related to disaster recovery
+
+ Telephone Support:
+ Hours available (and time zone)
+
+ Problem Reporting and Resolution Procedures
+
+ Response time for various levels of severity
+
+
+ User Groups:
+ Local User Group
+
+ User Group Members (number)
+
+ Third Parties:
+ Support provided for third party products?
+
+ Upgrades/Patches:
+ Upgrade Frequency (major and minor releases)
+
+ How are upgrades delivered?
+
+ Are upgrades required?
+
+ How many versions are currently supported?
+
+ Training:
+ End-users: basic functionality of PRA
+ system/processing
+ (Implementation/changes/upgrades)
+
+ IT Staff: integration with other systems (Active
+ Directory, other apps, etc.) answer question
+ available for directional revi
+ ew
+
+ System Administration/Configuration – Support
+ System pre and post support as needed
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C             Page 42 of 53
+Public Records Act (PRA) Request Software                                  Release Date 11/14/2018
+
+                                    ATTACHMENT 10: Hosting Services
+
+ Hosting Delivery Options
+
+ Options
+ Is system available through hosted model                    Yes/No
+ (City owns license; system hosted by vendor)
+ Is the system available through a managed services          Yes/No
+ model (City owns and hosts system; vendor
+ maintains system)
+ Where is the data center and disaster recovery data
+ center located?
+ Network Bandwidth
+ If ASP, what are the internet bandwidth
+ requirements for optimal performance?
+
+ Contract
+ Describe any minimum contract periods (example:
+ Minimum of 5 year)
+ After contract period, is it possible to transition to
+ self-hosted model? Describe what is required for
+ transition and cost
+ Proposed Services
+ Number of application & database instances (please
+ list)
+ Describe proposed disaster recovery services
+ Describe proposed application availability service
+ level
+ Security
+ Describe security including firewalls,
+ authentication, and architecture of data center
+ Describe network level security
+ Describe physical security of data center
+ Describe data center security policies including
+ background checks on employees and other
+ measures to protect confidentiality and sensitivity
+ of City’s data
+ Support
+ Describe operations support
+ Describe back up procedures and testing of backups
+ and other quality assurance processes to ensure the
+ backup is working correctly.
+ Describe process for installing patches and updates
+ Describe process for roll-back of patches and
+ updates if major functionality is broken as a result
+ of the patch and/or update
+
+
+
+
+                                             November 2018
+City of Berkeley                              Specification No. 19-11255-C                      Page 43 of 53
+Public Records Act (PRA) Request Software                                             Release Date 11/14/2018
+
+                        ATTACHMENT 11: Proposed Service Level Agreements
+
+If hosting services are proposed, please complete the following table identifying proposed service level
+guarantees. For each service, please indicate the metric used to measure the service quality, the proposed
+requirement (target for service), and the proposed remedy/penalty if guarantee is not met.
+
+ Proposed Service Level Guarantees
+
+ Service                             Metric                    Requirement/         Remedy if Not Met
+                                                               Guarantee
+ System Availability
+ (Unscheduled Downtime)
+ System Availability
+ (Scheduled Downtime)
+ System Response
+ (Performance)
+ Issue Response Time
+ Issue Resolution Time
+ System Data Restore
+ Implementation of System
+ Patches
+ Notification of Security
+ Breach
+ Please list other proposed
+ service levels
+
+ Proposed Service Level Guarantees
+
+
+ How is performance against service levels reported
+ to the City
+ Describe process for City reporting issue to the
+ vendor
+
+
+
+
+                                               November 2018
+City of Berkeley                              Specification No. 19-11255-C                              Page 44 of 53
+Public Records Act (PRA) Request Software                                                     Release Date 11/14/2018
+
+          ATTACHMENT 12: Non-Discrimination/Workforce Composition Form for Non-
+                               Construction Contracts
+
+To assist the City of Berkeley in implementing its Non-Discrimination policy, it is requested that you furnish information
+regarding your personnel as requested below and return it to the City Department handling your contract:
+Organization: _____________________________________________________________________________________
+Address: _______________________________________________________________
+Business Lic. #: ___________
+
+
+Occupational Category:
+__________________________             (See
+                                                Total       White          Black       Asian        Hispanic      Other
+reverse side for explanation of terms)
+                                              Employees    Employees     Employees   Employees     Employees    Employees
+
+                                              Female Male Female Male Female Male Female Male Female Male Female Male
+Official/Administrators
+Professionals
+Technicians
+Protective Service Workers
+Para-Professionals
+Office/Clerical
+Skilled Craft Workers
+Service/Maintenance
+Other (specify)
+Totals:
+
+Is your business MBE/WBE/DBE certified? Yes _____ No _____ If yes, by what agency? _______________________
+
+If yes, please specify: Male: _____     Female: _____      Indicate ethnic identifications: ___________________________
+
+Do you have a Non-Discrimination policy?        Yes: _____      No: _____
+
+Signed: ________________________________________________________________ Date: __________________
+
+Verified by: _____________________________________________________________ Date: __________________
+City of Berkeley Contract Compliance Officer
+
+
+
+
+                                                November 2018
+City of Berkeley                            Specification No. 19-11255-C                            Page 45 of 53
+Public Records Act (PRA) Request Software                                                 Release Date 11/14/2018
+
+Occupational Categories
+
+Officials and Administrators - Occupations in which employees set broad policies, exercise overall
+responsibility for execution of these policies, or provide specialized consultation on a regional, district or
+area basis. Includes: department heads, bureau chiefs, division chiefs, directors, deputy superintendents,
+unit supervisors and kindred workers.
+
+Professionals - Occupations that require specialized and theoretical knowledge that is usually acquired
+through college training or through work experience and other training that provides comparable knowledge.
+Includes: personnel and labor relations workers, social workers, doctors, psychologists, registered nurses,
+economists, dietitians, lawyers, systems analysts, accountants, engineers, employment and vocational
+rehabilitation counselors, teachers or instructors, and kindred workers.
+
+Technicians - Occupations that require a combination of basic scientific or technical knowledge and manual
+skill that can be obtained through specialized post-secondary school education or through equivalent on-the-
+job training. Includes: computer programmers and operators, technical illustrators, highway technicians,
+technicians (medical, dental, electronic, physical sciences) and kindred workers.
+
+Protective Service Workers - Occupations in which workers are entrusted with public safety, security and
+protection from destructive forces. Includes: police officers, fire fighters, guards, sheriffs, bailiffs,
+correctional officers, detectives, marshals, harbor patrol officers, and kindred workers.
+
+Para-Professionals - Occupations in which workers perform some of the duties of a professional or
+technician in a supportive role, which usually requires less formal training and/or experience normally
+required for professional or technical status. Such positions may fall within an identified pattern of a staff
+development and promotion under a "New Transporters" concept. Includes: library assistants, research
+assistants, medical aides, child support workers, police auxiliary, welfare service aides, recreation assistants,
+homemaker aides, home health aides, and kindred workers.
+
+Office and Clerical - Occupations in which workers are responsible for internal and external
+communication, recording and retrieval of data and/or information and other paperwork required in an office.
+Includes: bookkeepers, messengers, office machine operators, clerk-typists, stenographers, court
+transcribers, hearings reporters, statistical clerks, dispatchers, license distributors, payroll clerks, and kindred
+workers.
+
+Skilled Craft Workers - Occupations in which workers perform jobs which require special manual skill and
+a thorough and comprehensive knowledge of the processes involved in the work which is acquired through
+on-the-job training and experience or through apprenticeship or other formal training programs. Includes:
+mechanics and repairpersons, electricians, heavy equipment operators, stationary engineers, skilled
+machining occupations, carpenters, compositors and typesetters, and kindred workers.
+
+Service/Maintenance - Occupations in which workers perform duties which result in or contribute to the
+comfort, convenience, hygiene or safety of the general public or which contribute to the upkeep and care of
+buildings, facilities or grounds of public property. Workers in this group may operate machinery. Includes:
+chauffeurs, laundry and dry cleaning operatives, truck drivers, bus drivers, garage laborers, custodial
+personnel, gardeners and groundskeepers, refuse collectors, and construction laborers.
+
+                                                                                  Attachment 12, Page 2
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                          Page 46 of 53
+Public Records Act (PRA) Request Software                                               Release Date 11/14/2018
+
+                       ATTACHMENT 13: Nuclear Free Zone Disclosure Form
+
+I (we) certify that:
+
+  1.     I am (we are) fully cognizant of any and all contracts held, products made or otherwise handled
+         by this business entity, and of any such that are anticipated to be entered into, produced or
+         handled for the duration of its contract(s) with the City of Berkeley. (To this end, more than
+         one individual may sign this disclosure form, if a description of which type of contracts each
+         individual is cognizant is attached.)
+
+  2.     I (we) understand that Section 12.90.070 of the Nuclear Free Berkeley Act (Berkeley
+         Municipal Code Ch. 12.90; Ordinance No. 5784-N.S.) prohibits the City of Berkeley from
+         contracting with any person or business that knowingly engages in work for nuclear weapons.
+
+  3.     I (we) understand the meaning of the following terms as set forth in Berkeley Municipal Code
+         Section 12.90.130:
+
+         "Work for nuclear weapons" is any work the purpose of which is the development, testing,
+         production, maintenance or storage of nuclear weapons or the components of nuclear
+         weapons; or any secret or classified research or evaluation of nuclear weapons; or any
+         operation, management or administration of such work.
+
+         "Nuclear weapon" is any device, the intended explosion of which results from the energy
+         released by reactions involving atomic nuclei, either fission or fusion or both. This definition
+         of nuclear weapons includes the means of transporting, guiding, propelling or triggering the
+         weapon if and only if such means is destroyed or rendered useless in the normal propelling,
+         triggering, or detonation of the weapon.
+
+         "Component of a nuclear weapon" is any device, radioactive or non-radioactive, the primary
+         intended function of which is to contribute to the operation of a nuclear weapon (or be a part
+         of a nuclear weapon).
+
+  4.     Neither this business entity nor its parent nor any of its subsidiaries engages in work for
+         nuclear weapons or anticipates entering into such work for the duration of its contract(s) with
+         the City of Berkeley.
+
+Based on the foregoing, the undersigned declares under penalty of perjury under the laws of the State of
+California that the foregoing is true and correct.
+
+Printed Name:
+___________________________________Title:______________________________________
+
+Signature:
+_______________________________________Date:_____________________________________
+
+Business Entity:
+___________________________________________________________________________
+
+Contract Description/Specification No: Public Reports Act Request Software/19-11255-C
+
+
+
+
+                                             November 2018
+City of Berkeley                               Specification No. 19-11255-C                                   Page 47 of 53
+Public Records Act (PRA) Request Software                                                           Release Date 11/14/2018
+
+                     ATTACHMENT 14: Oppressive States Compliance Statement
+The undersigned, an authorized agent of__________________________________________________(hereafter
+"Vendor"), has had an opportunity to review the requirements of Berkeley City Council Resolution No. 59,853-N.S.
+(hereafter "Resolution"). Vendor understands and agrees that the City may choose with whom it will maintain business
+relations and may refrain from contracting with those Business Entities which maintain business relationships with
+morally repugnant regimes. Vendor understands the meaning of the following terms used in the Resolution:
+
+"Business Entity" means "any individual, firm, partnership, corporation, association or any other commercial
+organization, including parent-entities and wholly-owned subsidiaries" (to the extent that their operations are
+related to the purpose of the contract with the City).
+
+"Oppressive State" means: Tibet Autonomous Region and the Provinces of Ado, Kham and U-Tsang
+
+“Personal Services” means “the performance of any work or labor and shall also include acting as an independent
+contractor or providing any consulting advice or assistance, or otherwise acting as an agent pursuant to a contractual
+relationship.”
+
+Contractor understands that it is not eligible to receive or retain a City contract if at the time the contract is executed, or
+at any time during the term of the contract it provides Personal Services to:
+
+    a.   The governing regime in any Oppressive State.
+    b.   Any business or corporation organized under the authority of the governing regime of any Oppressive State.
+    c.   Any person for the express purpose of assisting in business operations or trading with any public or private
+         entity located in any Oppressive State.
+
+Vendor further understands and agrees that Vendor's failure to comply with the Resolution shall constitute a default of
+the contract and the City Manager may terminate the contract and bar Vendor from bidding on future contracts with the
+City for five (5) years from the effective date of the contract termination.
+
+The undersigned is familiar with, or has made a reasonable effort to become familiar with, Vendor's business structure
+and the geographic extent of its operations. By executing the Statement, Vendor certifies that it complies with the
+requirements of the Resolution and that if any time during the term of the contract it ceases to comply, Vendor will
+promptly notify the City Manager in writing.
+
+Based on the foregoing, the undersigned declares under penalty of perjury under the laws of the State of California that
+the foregoing is true and correct.
+
+Printed Name: ___________________________________Title:________________________________________
+
+Signature: _______________________________________ Date:_______________________________________
+
+Business Entity: ______________________________________________________________________________
+
+Contract Description/Specification No: Public Reports Act Request Software/19-11255-C
+
+I am unable to execute this Statement; however, Vendor is exempt under Section VII of the Resolution. I have attached
+a separate statement explaining the reason(s) Vendor cannot comply and the basis for any requested exemption.
+
+Signature: _______________________________________ Date:_______________________________________
+
+
+
+
+                                                 November 2018
+City of Berkeley                            Specification No. 19-11255-C                                Page 48 of 53
+Public Records Act (PRA) Request Software                                                     Release Date 11/14/2018
+
+             ATTACHMENT 15: Living Wage Certification for Providers of Services
+TO BE COMPLETED BY ALL PERSONS OR ENTITIES ENGAGING IN A CONTRACT FOR PERSONAL
+SERVICES WITH THE CITY OF BERKELEY.
+
+The Berkeley Municipal Code Chapter 13.27, Berkeley's Living Wage Ordinance (LWO), provides that contractors who
+engage in a specified amount of business with the City (except where specifically exempted) under contracts which
+furnish services to or for the City in any twelve (12) month period of time shall comply with all provisions of this
+Ordinance. The LWO requires a City contractor to provide City mandated minimum compensation to all eligible
+employees, as defined in the Ordinance. In order to determine whether this contract is subject to the terms of the LWO,
+please respond to the questions below. Please note that the LWO applies to those contracts where the contractor has
+achieved a cumulative dollar contracting amount with the City. Therefore, even if the LWO is inapplicable to this
+contract, subsequent contracts may be subject to compliance with the LWO. Furthermore, the contract may become
+subject to the LWO if the status of the Contractor's employees change (i.e. additional employees are hired) so that
+Contractor falls within the scope of the Ordinance.
+
+Section I.
+
+    1.   IF YOU ARE A FOR-PROFIT BUSINESS, PLEASE ANSWER THE FOLLOWING QUESTIONS
+
+    a. During the previous twelve (12) months, have you entered into contracts, including the present contract, bid, or
+    proposal, with the City of Berkeley for a cumulative amount of $25,000.00 or more?
+    YES ____                                 NO ____
+
+If no, this contract is NOT subject to the requirements of the LWO, and you may continue to Section II. If yes, please
+continue to question 1(b).
+
+    b. Do you have six (6) or more employees, including part-time and stipend workers?
+    YES ____                             NO ____
+
+If you have answered, “YES” to questions 1(a) and 1(b) this contract IS subject to the LWO. If you responded
+"NO" to 1(b) this contract IS NOT subject to the LWO. Please continue to Section II.
+
+   2. IF YOU ARE A NON-PROFIT BUSINESS, AS DEFINED BY SECTION 501(C) OF THE INTERNAL
+REVENUE CODE OF 1954, PLEASE ANSWER THE FOLLOWING QUESTIONS.
+
+    a. During the previous twelve (12) months, have you entered into contracts, including the present contract, bid or
+    proposal, with the City of Berkeley for a cumulative amount of $100,000.00 or more?
+    YES ____                                 NO ____
+
+If no, this Contract is NOT subject to the requirements of the LWO, and you may continue to Section II. If yes, please
+continue to question 2(b).
+
+     b. Do you have six (6) or more employees, including part-time and stipend workers?
+     YES ____                             NO ____
+
+If you have answered, “YES” to questions 2(a) and 2(b) this contract IS subject to the LWO. If you responded
+"NO" to 2(b) this contract IS NOT subject to the LWO. Please continue to Section II.
+
+Section II
+
+Please read, complete, and sign the following:
+
+THIS CONTRACT IS SUBJECT TO THE LIVING WAGE ORDINANCE.
+
+THIS CONTRACT IS NOT SUBJECT TO THE LIVING WAGE ORDINANCE.
+
+
+
+
+                                              November 2018
+City of Berkeley                             Specification No. 19-11255-C                                 Page 49 of 53
+Public Records Act (PRA) Request Software                                                       Release Date 11/14/2018
+
+Section II
+
+Please read, complete, and sign the following:
+
+THIS CONTRACT IS SUBJECT TO THE LIVING WAGE ORDINANCE.
+
+THIS CONTRACT IS NOT SUBJECT TO THE LIVING WAGE ORDINANCE.
+
+The undersigned, on behalf of himself or herself individually and on behalf of his or her business or organization,
+hereby certifies that he or she is fully aware of Berkeley's Living Wage Ordinance, and the applicability of the Living
+Wage Ordinance, and the applicability of the subject contract, as determined herein. The undersigned further agrees to
+be bound by all of the terms of the Living Wage Ordinance, as mandated in the Berkeley Municipal Code, Chapter
+13.27. If, at any time during the term of the contract, the answers to the questions posed herein change so that
+Contractor would be subject to the LWO, Contractor will promptly notify the City Manager in writing. Contractor
+further understands and agrees that the failure to comply with the LWO, this certification, or the terms of the Contract
+as it applies to the LWO, shall constitute a default of the Contract and the City Manager may terminate the contract and
+bar Contractor from future contracts with the City for five (5) years from the effective date of the Contract termination.
+If the contractor is a for-profit business and the LWO is applicable to this contract, the contractor must pay a living
+wage to all employees who spend 25% or more or their compensated time engaged in work directly related to the
+contract with the City. If the contractor is a non-profit business and the LWO is applicable to this contract, the
+contractor must pay a living wage to all employees who spend 50% or more or their compensated time engaged in work
+directly related to the contract with the City.
+
+These statements are made under penalty of perjury under the laws of the state of California.
+
+Printed Name: ___________________________________Title:________________________________________
+
+Signature: _______________________________________ Date:_______________________________________
+
+Business Entity: ______________________________________________________________________________
+
+Contract Description/Specification No: Public Reports Act Request Software/19-11255-C
+
+
+Section III
+_____________________________________________________________________________________________
+
+         •   * * FOR ADMINISTRATIVE USE ONLY -- PLEASE PRINT CLEARLY * * *
+
+
+I have reviewed this Living Wage Certification form, in addition to verifying Contractor's total dollar amount contract
+commitments with the City in the past twelve (12) months, and determined that this Contract IS / IS NOT (circle
+one) subject to Berkeley's Living Wage Ordinance.
+
+_________________________________                               _________________________________________
+Department Name                                                        Department Representative
+
+
+
+
+                                                                                                Attachment 15, Page 2
+
+
+
+
+                                               November 2018
+City of Berkeley                                    Specification No. 19-11255-C                                       Page 50 of 53
+Public Records Act (PRA) Request Software                                                                    Release Date 11/14/2018
+  T
+
+
+
+ ATTACHMENT 16: Form EBO-1 CITY OF BERKELEY CERTIFICATION OF
+        COMPLIANCE WITH EQUAL BENEFITS ORDINANCE
+If you are a contractor, return this form to the originating department/project manager. If you are a vendor (supplier of
+goods), return this form to the Purchasing Division of the Finance Dept.
+
+SECTION 1. CONTRACTOR/VENDOR INFORMATION
+      Name:                                                                                               Vendor No.:
+      Address:                                                   City:                           State:                       ZIP:
+      Contact Person:                                                                       Telephone:
+      E-mail Address:                                                                       Fax No.:
+
+SECTION 2. COMPLIANCE QUESTIONS
+A. The EBO is inapplicable to this contract because the contractor/vendor has no employees.
+     Yes     No (If “Yes,” proceed to Section 5; if “No”, continue to the next question.)
+
+B. Does your company provide (or make available at the employees’ expense) any employee benefits?
+     Yes       No
+      If “Yes,” continue to Question C.
+      If “No,” proceed to Section 5. (The EBO is not applicable to you.)
+
+C. Does your company provide (or make available at the employees’ expense) any benefits to
+   the spouse of an employee? ......................................................................................... Yes      No
+
+D. Does your company provide (or make available at the employees’ expense) any benefits to
+   the domestic partner of an employee? .......................................................................... Yes           No
+
+      If you answered “No” to both Questions C and D, proceed to Section 5. (The EBO is not applicable
+      to this contract.) If you answered “Yes” to both Questions C and D, please continue to Question E.
+      If you answered “Yes” to Question C and “No” to Question D, please continue to Section 3.
+
+E. Are the benefits that are available to the spouse of an employee identical to the benefits that
+   are available to the domestic partner of the employee? ............................................... Yes                    No
+
+      If you answered “Yes,” proceed to Section 4. (You are in compliance with the EBO.)
+      If you answered “No,” continue to Section 3.
+
+SECTION 3. PROVISIONAL COMPLIANCE
+A. Contractor/vendor is not in compliance with the EBO now but will comply by the following date:
+
+              By the first effective date after the first open enrollment process following the contract start date,
+              not to exceed two years, if the Contractor submits evidence of taking reasonable measures to
+              comply with the EBO; or
+
+              At such time that administrative steps can be taken to incorporate nondiscrimination in benefits in
+              the Contractor’s infrastructure, not to exceed three months; or
+
+              Upon expiration of the contractor’s current collective bargaining agreement(s).
+
+
+
+
+                                                      November 2018
+City of Berkeley                            Specification No. 19-11255-C                              Page 51 of 53
+Public Records Act (PRA) Request Software                                                   Release Date 11/14/2018
+
+B. If you have taken all reasonable measures to comply with the EBO but are unable to do so,
+   do you agree to provide employees with a cash equivalent?* ..................................... Yes      No
+
+* The cash equivalent is the amount of money your company pays for spousal benefits that are unavailable for domestic
+partners.
+
+SECTION 4. REQUIRED DOCUMENTATION
+At time of issuance of purchase order or contract award, you may be required by the City to provide
+documentation (copy of employee handbook, eligibility statement from your plans, insurance provider
+statements, etc.) to verify that you do not discriminate in the provision of benefits.
+
+
+SECTION 5. CERTIFICATION
+
+I declare under penalty of perjury under the laws of the State of California that the foregoing is true and
+correct and that I am authorized to bind this entity contractually. By signing this certification, I further agree
+to comply with all additional obligations of the Equal Benefits Ordinance that are set forth in the Berkeley
+Municipal Code and in the terms of the contract or purchase order with the City.
+
+Executed this _______day of _________________, in the year __________, at __________________,
+________
+(City)          (State)
+
+_____________________________________
+      ______________________________________
+Name (please print)                                                    Signature
+
+_____________________________________
+      ______________________________________
+Title                                                                  Federal ID or Social Security Number
+
+                                            FOR CITY OF BERKELEY USE ONLY
+     Non-Compliant (The City may not do business with this contractor/vendor)
+     One-Person Contractor/Vendor                        Full Compliance                    Reasonable Measures
+     Provisional Compliance Category, Full Compliance by Date: _________________________________________
+ Staff Name(Sign and Print): _____________________________________Date: ____________ ________________
+
+
+
+
+                                                                                           Attachment 16 – Page 2
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                        Page 52 of 53
+Public Records Act (PRA) Request Software                                             Release Date 11/14/2018
+
+                      ATTACHMENT 17: City of Berkeley Right to Audit Form
+
+
+The contractor agrees that pursuant to Section 61 of the Berkeley City Charter, the City Auditor’s
+office may conduct an audit of Contractor’s financial, performance and compliance records
+maintained in connection with the operations and services performed under this contract.
+
+In the event of such audit, Contractor agrees to provide the Auditor with reasonable access to
+Contractor’s employees and make all such financial, performance and compliance records available
+to the Auditor’s office. City agrees to provide Contractor an opportunity to discuss and respond
+to/any findings before a final audit report is filed.
+
+
+Signed:______________________________________                          Date:__________________
+
+Print Name & Title:_______________________________________________________
+
+Company:_______________________________________________________________
+
+Contract Description/Specification No: Public Reports Act Request Software/19-11255-C
+
+Please direct questions regarding this form to the Auditor's Office, at (510) 981-6750.
+
+
+
+
+                                             November 2018
+City of Berkeley                            Specification No. 19-11255-C                       Page 53 of 53
+Public Records Act (PRA) Request Software                                            Release Date 11/14/2018
+
+                                    ATTACHMENT 18:
+          City of Berkeley Commercial General and Automobile Liability Endorsement
+
+The attached Certificates of Insurance are hereby certified to be a part of the following policies having
+the following expiration dates:
+
+     Policy No.                        Company Providing Policy                        Expir. Date
+     _______________                   __________________________                      _________
+     _______________                   __________________________                      _________
+     _______________                   __________________________                      _________
+     _______________                   __________________________                      _________
+
+The scope of the insurance afforded by the policies designated in the attached certificates is not less
+than that which is afforded by the Insurance Service Organization's or other "Standard Provisions"
+forms in use by the insurance company in the territory in which coverage is afforded.
+
+         Such Policies provide for or are hereby amended to provide for the following:
+
+1.       The named insured is ________________________________________.
+
+2.       CITY OF BERKELEY ("City") is hereby included as an additional insured with respect to
+         liability arising out of the hazards or operations under or in connection with the following
+         agreement:
+         _______________________________________________________.
+
+         The insurance provided applies as though separate policies are in effect for both the named
+         insured and City, but does not increase the limits of liability set forth in said policies.
+
+3.       The limits of liability under the policies are not less than those shown on the certificate to which
+         this endorsement is attached.
+
+4.       Cancellation or material reduction of this coverage will not be effective until thirty (30) days
+         following written notice to __________________________________, Department of
+         ___________________________, Berkeley, CA.
+
+5.       This insurance is primary and insurer is not entitled to any contribution from insurance in effect
+         for City.
+
+         The term "City" includes successors and assigns of City and the officers, employees, agents and
+         volunteers.
+                               _______________________________________
+                               Insurance Company
+
+Date: _____________                 By: ______________________________________
+                                           Signature of Underwriter's
+                                           Authorized Representative
+
+Contract Description/Specification No: Public Reports Act Request Software/19-11255-C
+
+
+                                             November 2018
+

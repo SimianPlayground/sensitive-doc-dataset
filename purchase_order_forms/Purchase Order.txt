@@ -1,0 +1,402 @@
+                  SYSTEM ADMINISTRATIVE AND CLINICAL MANUAL
+                                                              NO:                                          204
+                         TITLE:                               PAGE:                                      1 of 7
+                                                              EFFECTIVE DATE:               10/30/2011
+            PURCHASE ORDER                                    LAST REVISION DATE:           05/30/2017
+                                                              LAST REVIEW DATE:             05/30/2017
+
+
+
+1. PURPOSE
+
+   The purpose of this policy is to provide a standardized definition and approach to the issuance of
+   purchase orders (POs) to facilitate the acquisition and distribution of supplies, equipment, and
+   services throughout Aurora Health Care. Additionally, this policy defines methods by category
+   for procuring items and services. This policy pertains to requisitions and purchase orders
+   generated from any Aurora Health Care information system unless otherwise noted as
+   MMIS/IREQ (Materials Management Information System).
+
+2. SCOPE
+
+   This policy applies to all purchasing via Aurora Health Care information systems conducted on
+   behalf of Aurora Health Care, Inc. and any entity or facility owned or controlled by Aurora Health
+   Care, Inc. (collectively “Aurora”).
+
+3. DEFINITIONS
+
+   Accounts Payable: or AP is a team within the Finance Department responsible for executing
+   payment to vendors and Aurora business partners.
+
+   ASL or Purchasing: the Aurora System Logistics Department or Supply Chain. Purchasing is
+   the division of Supply Chain that process purchase orders to transact with a vendor.
+
+   EDI: Electronic Data Interchange
+
+   AFE: Approval for Expenditure otherwise known as our capital request system
+
+   IREQ: Aurora’s electronic requisition tool used to request the purchase of non-capital goods or
+   services through Sourcing Operations.
+
+   MMIS: Aurora’s Materials Management Information System.
+
+   New Vendor: a vendor that is not included within Aurora’s Vendor Master File.
+
+   PO: or Purchase Order is a commercial document issued by a buyer (Aurora Purchasing) to a
+   seller, indicating types, quantities, and agreed prices for products or services the seller will
+   provide to Aurora Health Care. Sending a PO to a supplier constitutes a legal offer to buy
+   products or services.
+
+   Requestor: an authorized Aurora caregiver who requests the purchase of a product or service
+   through IREQ.
+
+   Draw Down PO: Previously referred to as standing, blanket, equipment maintenance, service,
+   support purchase orders. These are purchase orders intended for services only (exceptions
+   below) and used when the supplier typically is expected to provide the service multiple times over
+   a specified period of time.
+
+   Special Purchase Order: This is a PO that can bypass the New Item Request process (New
+   Item Approval Policy). These items must be non-medical items that are ordered less than one
+                SYSTEM ADMINISTRATIVE AND CLINICAL MANUAL
+                                                            NO:                                          204
+                       TITLE:                               PAGE:                                      2 of 7
+                                                            EFFECTIVE DATE:               10/30/2011
+            PURCHASE ORDER                                  LAST REVISION DATE:           05/30/2017
+                                                            LAST REVIEW DATE:             05/30/2017
+
+
+
+  time per month. They must be requisitioned through the special process within MMIS/IREQ and
+  are receivable goods. Services do not qualify for a Special PO.
+
+
+4. POLICY
+
+  4.1    Overview of Key Internal Controls
+
+         a)      Only ASL’s Purchasing department will have the authority to commit company
+                 funds through the issuance of Purchase Orders. The procurement of supplies,
+                 equipment, and services required for operations and patient care, including
+                 inventory supplies, non-inventory departmental supplies, major and minor
+                 equipment, maintenance agreements and other services is a commitment
+                 accomplished by the issuance of a PO through ASL’s Purchasing or other
+                 caregivers as approved by Aurora’s Controller.
+
+         b)      Responsibility for the completion of the receiving a PO resides with the caregiver
+                 in the department who signed for the delivery of the goods or approves the
+                 completion of services rendered. (If the goods are physically received at a
+                 delivery dock maintained by ASL’s Distribution Department, that department is
+                 responsible for completion of receiving within MMIS. In other circumstances, the
+                 caregiver signing for the goods is responsible for completion of the receiving
+                 report within MMIS).
+
+         c)      Aurora’s Accounts Payable Department receives invoices, enters the invoices
+                 into MMIS and issues payment to the vendor. To ensure that all procurement
+                 activities are subject to appropriate controls, Aurora requires a “three-way match”
+                 prior to any payment for goods and services. This “three-way match” requires
+                 consistency between the Purchase Order, the PO receipt or Invoice approval and
+                 the vendor’s invoice.
+
+  4.2    Purchase Order Transactions
+
+         a)      All appropriate transactions requiring a PO are governed by the PROCURE TO
+                 PAY Policy. Please see that policy to determine when a PO should be utilized.
+
+         b)      An approved purchase order is required prior to commitment of funds for
+                 supplies, equipment, services and capital items (with the exception of the non-
+                 PO categories listed in PROCURE TO PAY Policy Appendix A).
+
+         c)      A vendor must be fully vetted by Aurora System Logistics Contract Administration
+                 team before a PO can be issued to that vendor (see VENDOR VETTING Policy).
+
+         d)      The existence of a contract does not preclude the need for a purchase order.
+                 The business owner is responsible for starting the contract process and obtaining
+                 appropriate signoff (see SIGNATURE AUTHORITY AND CONTRACTING Policy). At
+                 the discretion of the legal department a contract may be required before the
+                 issuance of a PO.
+      SYSTEM ADMINISTRATIVE AND CLINICAL MANUAL
+                                                   NO:                                         204
+             TITLE:                                PAGE:                                     3 of 7
+                                                   EFFECTIVE DATE:              10/30/2011
+ PURCHASE ORDER                                    LAST REVISION DATE:          05/30/2017
+                                                   LAST REVIEW DATE:            05/30/2017
+
+
+
+e)     An Aurora MMIS/IREQ electronic purchase requisition is the primary document to
+       initiate the procurement of goods and services and is the electronic document to
+       communicate to ASL’s Purchasing specifications concerning a product or service
+       to be purchased.
+
+f)     POs will only be issued when an MMIS/IREQ electronic purchase requisition
+       containing complete and accurate information required for processing has been
+       approved within the Aurora MMIS/IREQ as defined by the SIGNATURE
+       AUTHORITY AND CONTRACTING Policy.
+
+g)         A PO is a legal document governed by the law of contract and the Uniform
+           Commercial Code of Law (UCC). The PO is intended to be the legal document
+           evidencing the terms and conditions of an agreement between Aurora Health
+           Care and the other party or parties. For this reason:
+        i.         The PO must contain all of the terms, conditions and agreements
+                   between and among the parties governing the parties' respective duties
+                   and obligations. Note: EDI transactions may not contain the above due
+                   to technology constraints however a contract or signed
+                   acknowledgement that Aurora Terms and conditions apply for all EDI
+                   vendor governing the transaction.
+     ii.           If a contract other than the PO governs the terms and conditions of the
+                   relationship between or among the parties, the other agreement(s)
+                   governs such contracting relationship and supersedes the terms and
+                   conditions of the PO.
+
+h)      Supplier Communication and Responsibility
+        i.      A copy of the PO will be sent to the supplier via fax transmission or EDI
+                when possible and will contain the relevant terms and conditions of the
+                transaction within the PO. AFE orders will typically be processed via
+                email.
+       ii.      Suppliers who accept POs issued by Aurora Health Care shall agree to
+                abide by the terms and conditions set forth on the PO. Additional terms
+                may be added to the order as required, such as significant/specific terms
+                regarding freight, delivery, etc. ASL’s Sourcing Strategies team will
+                negotiate any and all terms.
+      iii.      Suppliers are responsible for notifying via EDI or facsimile the ASL
+                Purchasing department within 24 hours of receiving the Aurora PO with
+                the confirming information below.
+                1.      Price per the Unit of Measure as defined on the Aurora PO or
+                        Price per Unit of Measure invoice will display;
+                2.      Anticipated Delivery date or note shipping date;
+                3.      Freight Terms
+                4.      Minimum Order Fees, if applicable
+                5.      Additional fees not noted on the original Aurora PO
+
+i)     Only authorized ASL Purchasing staff may transmit Aurora MMIS POs. An
+       MMIS/IREQ purchase requisition is not a PO and shall not be used or
+       represented as such.
+
+j)     ASL Purchasing may consolidate requisitions at their discretion.
+      SYSTEM ADMINISTRATIVE AND CLINICAL MANUAL
+                                                      NO:                                         204
+                 TITLE:                               PAGE:                                     4 of 7
+                                                      EFFECTIVE DATE:              10/30/2011
+ PURCHASE ORDER                                       LAST REVISION DATE:          05/30/2017
+                                                      LAST REVIEW DATE:            05/30/2017
+
+
+
+
+k)          Pharmaceutical purchases through the distributor or manufacturer order entry
+            system do not require a PO from the MMIS systems. Pharmaceutical products
+            that are carried/stored in storeroom inventory do require a purchase order.
+
+l)          In the event a purchase order has been created for a category that is defined as
+            a non-purchase order transaction or a non-purchase order transaction is
+            processed for a purchase order transaction category, the requester is to consult
+            with Purchasing or Accounts Payable for direction on how payment should be
+            processed moving forward . In limited instances, it may be determined beneficial
+            to utilize a purchase order to facilitate efficient operational processes. These
+            instances will be applied universally, as appropriate, with the approval of the
+            Aurora Health Care Senior Vice President of ASL.
+
+m)          Aurora AFE or MMIS/IREQ requisitions submitted to create a purchase order at
+            no cost/charge is acceptable to document products for consignment, trialing of
+            product/equipment, product samples and replacement of product/equipment.
+
+
+n)          Types of Transactions requiring a PO:
+      i.           Standard Operating PO’s – A standard operating PO is intended for use
+                   on receivable goods and services that are expenses related to day to
+                   day operations. These types of PO’s are requisitioned through the
+                   MMIS/IREQ process.
+
+     ii.            Draw Down PO’s – Previously referred to as standing, blanket,
+                    equipment maintenance, service, support purchase orders. These are
+                    purchase orders intended for services only (exceptions below) and used
+                    when the supplier is typically expected to provide the service multiple
+                    times over a specified period of time. The quantity and/or amount of
+                    each service may or may not be known. An electronic receiving
+                    transaction is not performed on a draw down PO. Draw Down PO’s have
+                    a 13 month duration maximum unless otherwise governed by a contract.
+                    1.      There are a limited acceptable categories for the issuance of a
+                            Draw Down PO for physical goods:
+                              i.     Custom Orthotics and Prosthetics
+                             ii.     Medical and industrial gases
+                            iii.     Dental products
+                            iv.      Custom Hearing Aids
+                             v.      Custom embroidery and linens
+                            vi.      Aurora at Home drop shipped goods
+
+     iii.           Special PO’s – This is a PO that can bypass the New Item Request
+                    process (New Item Approval Policy). These items must be non-medical
+                    items that are ordered less than one time per month. They must be
+                    requisitioned and approved through the special PO process within
+                    MMIS/IREQ and are receivable goods. Services do not qualify for a
+                    Special PO.
+                    1.       There are a limited acceptable categories for the issuance of a
+                             Special PO for medical items:
+            SYSTEM ADMINISTRATIVE AND CLINICAL MANUAL
+                                                           NO:                                           204
+                   TITLE:                                  PAGE:                                       5 of 7
+                                                           EFFECTIVE DATE:                10/30/2011
+       PURCHASE ORDER                                      LAST REVISION DATE:            05/30/2017
+                                                           LAST REVIEW DATE:              05/30/2017
+
+
+
+                               i. Pharmaceutical items. These transitions will be reviewed
+                                  monthly for appropriateness by the Pharmacy Supply Chain
+                                  team.
+
+           iv.        Bill Only Purchase Order - A Bill Only PO is intended for use when a
+                      supplier representative delivers product(s) or services directly related to
+                      that specific patient case. A Bill Only PO provides an automated /
+                      expedited PO number in MMIS.
+
+            v.        PO Only – Aurora MMIS requisitions submitted to create a purchase
+                      order after the supply, equipment or service has been physically
+                      acquired or work performed is not an acceptable practice or in
+                      compliance with this Policy. These transactions are commonly referred
+                      to as “After the Fact PO” or “PO Only”.
+                      1.       A purchase order will not be created for the sole purpose to pay
+                               an invoice, unless the service in question will continue to be
+                               provided in the future.
+                      2.       There are a limited acceptable reasons for the acquisition of
+                               goods/services prior to obtaining a purchase order:
+                                i.      Inpatient      Custom       Orthotics/Prosthetics/Hearing
+                                        Aids/Dental goods.
+                               ii.      Controlled substances purchased directly from the
+                                        manufacturer.
+                              iii.      Replacement of goods from loss, theft or shrinkage.
+
+           vi.        AFE PO – Is a PO created from the AFE system. The request for funds
+                      is fully approved and vetted in the AFE system, once approved a
+                      requisitioner can submit a request against the approved AFE. This
+                      request interfaces with the MMIS system where an official PO is created.
+                      See CAPITALIZATION Policy for further details on what qualifies for
+                      capital expenditure.
+
+
+      o)        If a purchase (commitment) is made for goods and/or services that are required
+                to have a PO and a PO was not issued prior to the invoice date, Aurora Health
+                Care may execute the right to not pay the Supplier.
+             i.          A purchase requisition for which delivery or performance has begun or is
+                         completed without the proper purchasing authorization, or is otherwise
+                         an unauthorized procurement transaction, the purchase requisition may
+                         be cancelled. The requester, the hospitals VP of Finance, and Accounts
+                         Payable will be informed of the cancelled requisition.
+            ii.          An individual who initiates an unauthorized purchase for goods/services
+                         may be held responsible for all costs incurred and may be subject to
+                         disciplinary action in accordance with CAREGIVER ACCOUNTABILITY
+                         policy even if the unauthorized procurement is ultimately ratified and paid
+                         by Aurora
+
+
+4.3   Non-Purchase Order Transactions
+                SYSTEM ADMINISTRATIVE AND CLINICAL MANUAL
+                                                             NO:                                           204
+                       TITLE:                                PAGE:                                       6 of 7
+                                                             EFFECTIVE DATE:                10/30/2011
+         PURCHASE ORDER                                      LAST REVISION DATE:            05/30/2017
+                                                             LAST REVIEW DATE:              05/30/2017
+
+
+
+        a) See Procure to Pay Policy for approved transactions not requiring a PO.
+
+
+ 4.4    Violation of Purchase Order Requirement
+
+        a)       First Violation: An initial email notification to the caregiver reminding them of the
+                 violation and the appropriate process to follow.
+
+        b)       Second Violation: An email warning may be issued to the caregiver and their
+                 supervisor.
+
+        c)       Subsequent  Violations:       Violations   may     be    subject   to    CAREGIVER
+                 ACCOUNTABILITY policy.
+
+5. PROCEDURE
+
+  5.1   The following steps will outline the process for obtaining a Purchase Order for goods and
+        services. See AUTHORIZATION FOR EXPENDITURES Policy for Expenditure for AFE
+        processing.
+
+        a) Obtain Access to the IREQ application.
+
+        b) Request new item be added to IREQ via the NIRF process where appropriate. See
+           NEW ITEM APPROVAL Policy.
+
+        c) Requisition for goods and services in IREQ.
+
+
+  5.2   IREQ
+
+        a)       Use of IREQ. Requests to purchase non-capital goods or services are submitted
+                 using Aurora’s electronic requisition (IREQ) tool. IREQ can be located on
+                 Caregiver Connect. Requests for capital expenditures are processed through a
+                 separate AFE process. See CAPITALIZATION Policy and AUTHORIZATION FOR
+                 EXPENDITURES .
+
+         b)         IREQ Access Rights. IREQ access rights must be requested via Caregiver
+                    Connect SMS ticket.
+                 i.        All IREQ applicants must identify the specific organization and area
+                           number for orders to be charged.
+                ii.        The IREQ applicant’s leader must send an email approval of the
+                           applicant’s request to the IREQ administration email box:
+                           IREQ.Administration@aurora.org.
+               iii.        Failure of the manager to submit an email approval within ten (10)
+                           business days will result in the IREQ applicant’s request being denied.
+               iv.         An email will be sent to the IREQ Requestor and the Requestor’s
+                           manager notifying them of the denial. IREQ access rights are reviewed
+                           by ASL’s Data Team to ensure that appropriate segregation of duties is
+                           maintained at all times.
+                   SYSTEM ADMINISTRATIVE AND CLINICAL MANUAL
+                                                                NO:                                           204
+                          TITLE:                                PAGE:                                       7 of 7
+                                                                EFFECTIVE DATE:                10/30/2011
+               PURCHASE ORDER                                   LAST REVISION DATE:            05/30/2017
+                                                                LAST REVIEW DATE:              05/30/2017
+
+
+
+              c)      Requisition Limits. ASL in conjunction with Finance will impose dollar limits on
+                      individual caregivers requisition authority based on the FINANCIAL APPROVAL
+                      AUTHORITY Policy.
+                   i.         In the event that an individual requisition exceeds the authority of the
+                              requesting caregiver, the requisition will be routed to successively higher
+                              levels of authority until appropriate approval is received via IREQ.
+
+              d)    Requisition to Purchase Order. Once approved, each requisition of products or
+                    services becomes a Purchase Order that is issued to the appropriate vendor and
+                    each requisition of products maintained in stock is transmitted to the appropriate
+                    Distribution department for order fulfillment. All PO’s issued directly to vendors
+                    are processed by ASL Purchasing Team.
+
+              e)    IREQ Training. IREQ training can be requested by sending an email to the IREQ
+                    administrator at IREQ.Administration@aurora.org
+
+
+
+
+CROSS              CAREGIVER ACCOUNTABILITY
+REFERENCES:        PROCURE TO PAY
+                   CAREGIVER BUSINESS MILEAGE EXPENSE REIMBURSEMENT
+                   PROFESSIONAL ORGANIZATIONS MEMBERSHIP
+                   CONFLICTS OF INTEREST-CAREGIVERS
+                   GIFTS AND BUSINESS COURTESIES
+                   PROCUREMENT CARD
+                   SIGNATURE AUTHORITY AND CONTRACTING
+                   FINANCIAL APPROVAL AUTHORITY
+                   PETTY CASH
+                   EDUCATIONAL ASSISTANCE
+                   CAREGIVER BUSINESS MILEAGE EXPENSE REIMBURSEMENT
+                   BUSINESS, TRAVEL AND ENTERTAINMENT EXPENSE
+                   CAREGIVER APPRECIATION
+                   AUTHORIZATION FOR EXPENDITURES
+                   CAPITALIZATION
+                   NEW ITEM APPROVAL
+                   VENDOR VETTING
+
+REFERENCES:        None
+
+
+PRIOR REVIEW /     10/11, 03/13, 01/14
+REVISION DATES:
+

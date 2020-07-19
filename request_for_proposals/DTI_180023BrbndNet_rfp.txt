@@ -1,0 +1,1697 @@
+   DEPARTMENT OF TECHNOLOGY AND INFORMATION
+              REQUEST FOR PROPOSALS
+
+
+
+                               RFP Number: DTI180023-BRBND_NET
+                            RURAL BROADBAND INTERNET NETWORK
+         Submission Due Date/Time: Thursday, October 4, 2018 at 2:00 P.M. Local Time
+                       Seven (7) year term with three (3) one year extensions.
+                      Multiple Agreements may be awarded from this solicitation.
+                                           29 Del.C. §6982b
+
+PROJECT INFORMATION
+ This Request for Proposal (RFP) issued by the Delaware Department of Technology and Information
+ (DTI) is for the purpose of acquiring proposals from interested firms to provide affordable broadband
+ access for underserved and unserved residents in the rural parts of the State. This RFP is part of
+ DTI’s work to expand affordable broadband in unserved and underserved areas.
+
+PROJECT DESCRIPTION
+ DTI seeks to identify one or more qualified firms to build, operate, and maintain a network to
+ provide broadband internet service to unserved and underserved residents and businesses in key
+ target areas (Target Areas) of the State. Through this RFP, DTI will evaluate Firms who commit to
+ building and sustaining new broadband service capabilities to Target Areas.
+
+ DTI estimates Target Areas include approximately 127,700 homes and businesses in the rural parts
+ of Sussex and Kent Counties. Target Areas are defined in Exhibit 1 – TARGET AREAS of this RFP.
+
+ DTI will provide funding for startup costs of a defined service radius that may include Wireless
+ Infrastructure, Network Infrastructure, UPS Installation Tower Lease, Internet Bandwidth, Marketing,
+ Customer Premise Equipment (CPE), installation and purchase of communications equipment but will
+ not provide any funding toward operations or maintenance of the facilities and broadband network.
+ DTI seeks bids from potential Firms who will use the State funds to construct and procure the
+ network with a commitment to operating and maintaining the network, at their own cost and risk, for
+ at least seven years.
+
+ DTI has placed prioritization on low-cost services for low-income families to enable them to take full
+ advantage of the internet.
+
+PROJECT REQUIREMENTS
+ Through this RFP, DTI seeks a qualified Firm(s) to deploy, operate, and maintain a terrestrial (i.e.,
+ not satellite) broadband internet network to provide data services.
+
+ DTI’s requirements with respect to the Firm are as follows:
+
+ 1. Technical
+    This RFP does not dictate which technologies the Firm should select or build, but rather leaves it
+    to the Firm to propose terrestrial (non-satellite) technologies that are suitable for deployment
+    and able to reach the Target Areas.
+
+    Firms proposed solutions should meet the following technical performance requirements:
+
+        A. Network should have controllers to manage quality of service on a customer-by-customer
+           basis for multiple tiers of service
+       B. 15 Megabits per second (Mbps) download throughput and >2 Mbps upload throughput to
+          more than 75% of the homes and businesses in coverage area
+
+       C. 50 Mbps download throughput and >5 Mbps upload throughput to more than 33% of
+          homes and businesses in coverage area
+
+       D. Latency <30 ms to U.S. destinations support VoIP services to more than 75% of homes
+          and businesses in coverage area
+
+       E. System will have backup power of at least 4 hours at each base station site in case of
+          electric outage
+
+       F. System designed to 99.9% uptime
+
+       G. Network Backhaul capacity per base station site must be 1 Gigabit per second (Gbps)
+          minimum, but capable of scaling to accommodate the maximum customer capacity as
+          designed. Total Internet peering capacity must accommodate the aggregate backhaul
+          bandwidth of all base stations be scalable if implementing a hub and spoke design.
+
+2. Service
+   DTI has identified key service requirements for the services to be covered by this RFP. Firms
+   should indicate how they will enable the following if awarded:
+
+       A. Develop the potential for service to as many as possible customer premises in the Target
+          Areas. Develop a buildout and service strategy for a network serving as many unserved
+          and underserved customers as possible.
+
+       B. Firms should have experience in providing efficient and effective customer service support
+          to residents and businesses in the following areas:
+
+          •   placing orders,
+          •   customer inquiries and response time to inquiries,
+          •   sales support, account representation and customer relationship
+          •   services and strategies offered,
+          •   billing
+
+       C. Provide cost-effective services that are competitively priced. Bidding Firms should also
+          offer creative ideas about low-cost pricing to meet the needs of low-income families,
+          including those families with children who are eligible for the federal free and reduced
+          school lunch program. Providers certified with programs such as Lifeline Program for Low-
+          Income Consumers are encouraged to apply.
+
+       D. Offer data services that do not limit, quota, cap, or otherwise ration a user’s total upload
+          and download data capacity to an extent that limits reasonable use of broadband.
+
+3. Funding
+   DTI seeks bids from potential Firm(s) that are willing and able to contract based on the following
+   financial parameters:
+
+   A. Ownership of Assets
+      DTI seeks bids with the understanding that all equipment or infrastructure procured with
+      State funds will remain the property of DTI for seven years, at which time it will become the
+      property of the Firm(s). DTI intends to retain an ownership interest in the equipment for the
+      seven-year time period so as to ensure that, in the event of Firm default, DTI could take back
+      the assets and seek another Firm to operate and maintain the network. In the event that the
+      Firm fails at any time during the seven-year performance period to meet the requirements of
+      this RFP and the obligations of its bid, DTI may terminate the lease and take immediate
+
+                                                  2
+        possession of all the assets, equipment, and facilities purchased with DTI funds in accordance
+        with the termination language found in Appendix B of this RFP.
+
+QUESTIONS
+ Questions are to be submitted to DTI_Vendorservices@state.de.us. In order to ensure a timely
+ response, questions must be submitted at least fifteen (15) business days before the Proposal due
+ date. The Department’s response to questions, along with this RFP and related information, are
+ posted on the State of Delaware Bid Solicitation Directory Website: http://www.bids.delaware.gov/.
+ Firm names will be removed from questions in the responses released. Questions should be
+ submitted in the following format where applicable. Deviations from this format will not be
+ accepted.
+
+    •   Section name
+    •   Paragraph number
+    •   Page number
+    •   Text of passage being questioned
+
+PROCUREMENT SCHEDULE
+
+                Action Item                                Date                         Time
+ Deadline for Questions to ensure            Fifteen (15) business days prior
+                                                                                2:00 P.M. Local Time
+ response:                                       to the proposal due date
+                                                Ten (10) business days prior
+ Final Response to Questions posted by:                                         2:00 P.M. Local Time
+                                                 to the proposal due date
+ Proposals Due by:*                            Thursday, October 4th 2018       2:00 P.M. Local Time
+        NOTE: Only asterisk (*) marked date changes will be communicated (via posted Addendums).
+
+PROPOSAL REQUIREMENTS
+ Interested firms must submit the material required herein or they may not be considered for the
+ project:
+ 1. Proposals must be received prior to the Submission due date and time indicated above.
+
+    Facsimile and E-mail responses to this RFP are not acceptable. No response hand-delivered or
+    otherwise will be accepted after the above date and time. It is the responsibility of the submitter
+    to ensure the Proposal is received on time. The DTI's time is considered the official time for
+    determining the cut-off for accepting submissions. To be considered for this agreement, firms must
+    submit the Proposal as set forth herein. Any variation, including additions, may negatively impact
+    the scoring.
+
+    Proposals are to be delivered to the RFP Point of Contact:
+       Shelly K. Alioa, IT Procurement Officer
+       RFP: DTI180023-BRBND_NET
+       Delaware Department of Technology
+       801 Silver Lake Blvd.
+       Dover, DE 19904
+
+    Should the office be closed at the time responses are due (such as an unexpected event or
+    inclement weather) the submission due date shall be the following business day, at the time
+    originally scheduled.
+ 2. Submit one (1) original hard copy of the Proposal. Receipt of insufficient copies or non-
+                                                   3
+   compliance with providing the requested information in the desired format, may negatively
+   impact the scoring.
+
+3. Submit two (2) .pdf format electronic copies (e.g. CD, flash drive) of the Proposal; one
+   original and one a redacted copy. The original must be a .pdf file of the original signed proposal as
+   submitted and should be clearly marked “Original” on the first page of the .pdf. The redacted copy
+   must be a .pdf file of the original signed proposal with any proprietary or confidential information
+   redacted, and this copy should be clearly marked as “Redacted” on the first page of the .pdf version
+   of the proposal. Electronic copies are to be submitted with the printed Proposal. The electronic
+   redacted copy is required even if the submission contains no proprietary or confidential information.
+
+   Firms should review Delaware’s Freedom of Information Regulations in Section 10002(l) “Public
+   record” of the Delaware Code, http://delcode.delaware.gov/title29/c100/index.shtml to determine
+   what information may be considered proprietary or confidential and may be redacted from their
+   proposal.
+
+4. A Letter of Interest should accompany each proposal to briefly summarize the proposing firm’s
+   interest in providing the required services. The Letter of Interest is limited to four (4) pages on
+   two (2) sheets of paper and must indicate the following:
+
+   A. An understanding of the anticipated assignments, services required, and approach to
+      providing the services required.
+
+   B. The location, size, and description of the firm.
+
+   C. Confirmation that the Firm shall not store or transfer non-public State of Delaware data
+      outside of the United States.
+
+   D. Firms should review and confirm the ability to adhere to the Delaware Department of
+      Technology and Information Standard Terms and Conditions included in this solicitation in
+      Appendix B.
+
+   E. Name and contact information of the Project Manager for this project.
+
+   F. Sub-contractor usage if anticipated. Indicate the percentage of work estimated to be
+      performed by the sub-contractor vs. the prime Firm. Also, indicate if the prime consultant
+      has previously worked with the proposed sub-contractor and give a brief example of the
+      previous relationship(s).
+
+5. Firm Technical Capability and Experience should be demonstrated by explanation of how the
+   Firm is suitable for this project. Please provide a proposal discussing past performance,
+   capabilities, and qualifications. At a minimum, please address the following:
+
+   A. Identify a maximum of five (5) other networks your firm (or the management team you
+      propose here) has operated, as well as any network design and build experience; include the
+      levels of broadband speed, technology type, availability and adoption among different
+      categories of end-users and unique capabilities or attributes. Discuss your capabilities with
+      regard to engineering and design of broadband wireless systems (or an alternative
+      technology, if that is what you propose). If you are proposing a wireless network, describe
+      your experience deploying and operating wireless systems in each of the following bands:
+                                                   4
+      900 MHz, 2.4 GHz, 5 GHz, and TV White Spaces. If you are proposing an alternative
+      technology, please describe your experience with that type of technology. Additionally,
+      because delivery of residential broadband services differs significantly from delivery of
+      commercial services, please illustrate your ability and describe your past experience
+      engineering and designing a system capable of serving and supporting residential and
+      business customers identified as underserved or unserved.
+
+   B. Describe agreements with other service providers, government, or non-profit entities you
+      have undertaken, particularly any in which you provide service to rural unserved or
+      underserved populations. Describe the nature of the projects and your firm’s role.
+
+   C. Discuss your capabilities regarding operation and maintenance of the form of broadband
+      technology you propose. Overall operation, including routine and emergency maintenance, of
+      the network will be crucial to its success. Please demonstrate through experience your ability
+      to operate and maintain all aspects of the network.
+
+   D. Provide example(s) of existing Customer Relationship Management system(s) or equivalent
+      that demonstrate your ability to deliver quality customer service.
+
+   E. Provide an example of a web customer interface or portal you have provided in a residential
+      or business deployment.
+
+   F. Discuss your firm’s ability to provide customer service to the Target Areas as identified in this
+      RFP.
+
+6. Technical Proposal
+   In this section of your proposal, please tell DTI how you will meet the technical requirements
+   described in this RFP. You should address the following in your proposal numbered and in order
+   as they appear below:
+
+   A. Describe your ability to meet the requirements as listed in the Project Requirements Section,
+      Part 1. Technical, Items A – G.
+
+   B. Describe your ability to report quarterly on the requirements as listed in the Project
+      Requirements Section, Part 1. Technical, Items A – G. Provide report sample with your
+      proposal.
+
+   C. Describe your approach to developing service for the network described above. Specify
+      locations of equipment (such as, for example, base station antennas) and how they will
+      provide coverage for the service areas for which you are requesting funding.
+
+   D. Describe the technologies and entities you plan to use. Provide a network diagram with key
+      links, key components, and their location. Describe what protocols will be used, loss budget,
+      and capacities of each link. Provide make and model of base station and customer premises
+      equipment. Describe a typical customer installation, including antenna mounting and
+      interface with customer equipment.
+
+   E. Describe the approach you will use for backhaul and how you will ensure that your network
+      has sufficient commodity internet bandwidth to meet the needs of your customers.
+
+   F. Describe how you will perform installation and network management. Describe at what sort of
+      facility (or facilities) you would place network electronics.
+
+   G. Describe and provide maps of the expected coverage area and number of homes and
+                                                  5
+        businesses served with each technology and service level.
+
+   H. Describe your technological roadmap for providing increases in performance.
+
+   I.   Describe your plan to perform network maintenance on an ongoing and as-needed basis.
+
+   J. Discuss the spectrum you propose to use, your access to that spectrum, and any interference
+      concerns.
+
+   K. Provide a detailed bill of materials (BOM) of the equipment you propose to purchase and
+      facilities you propose to install with DTI funds throughout the project. Please include a
+      description of the customer premises equipment (CPE) you propose to purchase and install,
+      including quantities anticipated.
+
+   L. Outline your proposed schedule for design, construction, and initiation of service. Please offer
+      a timeline with key milestones.
+
+7. Firm Financial Viability Financial information (balance sheets and income statements) for the
+   past three years. Include background, balance sheets and income statements for the past three
+   years and/or Dun & Bradstreet report.
+
+8. Staff Qualifications
+   Follow instructions below:
+
+   A. Proposed Team: Indicate Name, Position, and approximate percentage of contract cost each
+      member will perform. Organization Chart format is preferred. Confirm availability of personnel
+      for immediate placement.
+
+   B. Resumes of Key Personnel Proposed for this Contract;
+      Resume information is limited to eight (8) individuals regardless of affiliation. Each resume is
+      limited to a single sided page.
+
+9. Consumer Service and Cost Proposal should include these three sections:
+
+   A. Pricing Proposal should include:
+
+        •   List service options, including low-income options if available, you plan to offer over this
+            network with price offerings for each to include installation fees and any other applicable
+            fees to be charged to users.
+        •   For each priced service option, describe how your residential and business offerings will
+            differ, if at all. Discuss whether and to what degree your service plans will limit, quota,
+            throttle, or otherwise ration a user’s total upload and download data capacity in relation to
+            each price option given. If the services vary based on service area, please describe.
+        •   Describe your ability to hold price over the initial 24 months of the contract and projected
+            annual increases over the life of the contract.
+        •   Describe how customers will receive notification of price increase and period in which they
+            will receive prior notification.
+
+   B. Customer Service offering should be defined with the Firm describing the following:
+
+        •   Marketing Plan that will be implemented to acquire customers including but not limited to:
+            - The strategy to market your services to each of the proposed service areas
+            - Incentives for customers and businesses
+        •   Basic customer service functions to include:
+            - The process for placing orders
+
+                                                    6
+             - The process for handling customer inquiries and response time to inquiries
+             - The proposed sales support/account representation and customer relationship
+             - Services and strategies offered to residents and businesses served
+             - Billing procedures
+         •   Firms must describe hours of operation, operator responsibilities, technical skill levels and
+             what the response time and maintenance window would be should service be lost within
+             the area of responsibility. Firms should provide any statistics that indicate the time
+             duration from the time of problem detection to the time of problem resolution.
+
+      C. Proposed Coverage Area based on the data and maps provided in this RFP, please describe
+         and map the areas to which you propose to provide broadband coverage in the Target Areas.
+         Please specify the number of unserved and underserved homes and businesses you anticipate
+         will have the potential of service based on your proposed deployment. In detail, state the
+         amount of funding you seek from the Department to support the proposed plan. Please
+         provide a proposal with respect to the following items:
+
+         •   Amount sought for network deployment (funds to be dispersed to you and used for
+             equipment purchase, but equipment to remain DTI property for seven years)
+         •   Amount sought for Customer Premise Equipment (CPE) purchase (funds to be dispersed
+             based on demonstrated customer commitments)
+
+ 10. Proof of Lifeline provider certification, if applicable.
+
+ 11. Required Certification Forms. All firms responding to the RFP must complete and return the
+     submission forms located in Appendix A of this RFP.
+
+       No promotional materials or brochures are to be included as part of the submission.
+
+RATING CRITERIA
+ All proposals shall be evaluated using the same criteria and scoring process. The following criteria
+ shall be used by the Selection Committee to evaluate proposals:
+
+  #                                     Criteria Description:                                   Weight
+  1    Firm Technical Capability and Experience                                                  20 %
+  2    Technical Proposal                                                                        20 %
+  4    Firm Financial Viability                                                                  15 %
+  5    Consumer Service and Cost Proposal                                                        30 %
+  6    Pricing program for Low-Income Residents                                                   15%
+                                                                                         TOTAL : 100%
+
+
+
+
+                                Remainder of page intentionally left blank.
+
+
+
+
+                                                     7
+Exhibit 1 – TARGET AREAS
+  1. The Target Areas are generally represented on the following map:
+
+
+
+
+                                              8
+2. The following map includes approximate locations of the homes and businesses DTI believes,
+   based on communications from Delaware residents and businesses, to lie within the unserved
+   and underserved Target Areas:
+
+
+
+
+                                            9
+3. For the purpose of providing potentially useful data to prospective Firms, the following maps
+   include approximate locations of State of Delaware wireless towers, as well as those owned
+   by private sector companies. DTI encourages prospective Firms to seek information from the
+   tower owners about rates, terms, and conditions under which space can be leased for this
+   effort.
+
+
+
+
+                                             10
+11
+Appendix A    - REQUIRED FORMS
+The following completed forms are required to be returned with each proposal:
+
+
+   •   NO PROPOSAL REPLY FORM
+   •   NON-COLLUSION STATEMENT
+   •   EXCEPTION FORM
+   •   CONFIDENTIAL INFORMATION FORM
+   •   BUSINESS REFERENCES
+   •   SUBCONTRACTOR INFORMATION FORM
+
+
+
+
+                                                 12
+                                                                                       Attachment 1
+                                   DTI180023-BRBND_NET
+                            RURAL BROADBAND INTERNET NETWORK
+
+                                    NO PROPOSAL REPLY FORM
+
+To assist us in obtaining good competition on our Request for Proposals, we ask that each firm that has
+received a proposal, but does not wish to bid, state their reason(s) below and return in a clearly
+marked envelope displaying the contract number.
+
+
+Unfortunately, we must offer a "No Proposal" at this time because:
+
+
+       1.       We do not wish to participate in the proposal process.
+
+       2.       We do not wish to bid under the terms and conditions of the Request for Proposal
+                document. Our objections are:
+
+
+
+
+       3.       We do not feel we can be competitive.
+
+       4.       We cannot submit a Proposal because of the marketing or franchising policies of the
+                manufacturing company.
+
+       5.       We do not wish to sell to the State. Our objections are:
+
+
+
+
+       6.       We do not sell the items/services on which Proposals are requested.
+
+
+       7.       Other:________________________________________________________________
+
+
+
+
+FIRM NAME                                                   SIGNATURE
+
+
+
+
+                                                  13
+                                                                                                           Attachment 2
+                                         DTI180023-BRBND_NET
+                                  RURAL BROADBAND INTERNET NETWORK
+                                          NON-COLLUSION STATEMENT
+This is to certify that the undersigned Firm has neither directly nor indirectly, entered into any agreement,
+participated in any collusion or otherwise taken any action in restraint of free competitive bidding in connection
+with this proposal, and further certifies that it is not a sub-contractor to another Firm who also
+submitted a proposal as a primary Firm in response to this solicitation submitted this date to the State
+of Delaware, Department of Technology and Information.
+
+It is agreed by the undersigned Firm that the signed delivery of this bid represents, subject to any express
+exceptions set forth at Attachment 3, the Firm’s acceptance of the terms and conditions of this solicitation
+including all specifications and special provisions.
+
+NOTE: Signature of the authorized representative MUST be of an individual who legally may enter his/her
+organization into a formal contract with the State of Delaware, Department of Technology and Information.
+                                                                                                               Corporation
+COMPANY NAME___________________________________________________________(Check one)
+                                                                                                               Partnership
+NAME OF AUTHORIZED REPRESENTATIVE (Please type or print)
+                                                              ___________________                               Individual
+
+SIGNATURE                                                              _____ TITLE
+
+COMPANY ADDRESS
+
+PHONE NUMBER                                                   FAX NUMBER                                  _______
+
+EMAIL ADDRESS _____________________________________________________________________________
+
+FEDERAL EIN                                 STATE OF DELAWARE LICENSE NUMBER________________________
+
+                                 Certification type(s)                                                      Circle all that apply
+COMPANY CLASSIFICATIONS:         Minority Business Enterprise (MBE)                                         Yes        No
+                                 Woman Business Enterprise (WBE)                                            Yes        No
+                                 Disadvantaged Business Enterprise (DBE)                                    Yes        No
+CERT. NO.:                       Veteran Owned Business Enterprise (VOBE)                                   Yes        No
+                                 Service Disabled Veteran Owned Business Enterprise (SDVOBE)                Yes        No
+                               [The above table is for informational and statistical use only.]
+
+PURCHASE ORDERS SHOULD BE SENT TO:
+COMPANY NAME                                                                            _____________________
+
+ADDRESS
+
+CONTACT
+
+PHONE NUMBER                                                          FAX NUMBER
+
+EMAIL ADDRESS
+
+AFFIRMATION: Within the past five years, has your firm, any affiliate, any predecessor company or entity, owner,
+Director, officer, partner or proprietor been the subject of a Federal, State, Local government suspension or debarment?
+
+YES                NO              if yes, please explain
+
+   THIS PAGE SHALL HAVE ORIGINAL SIGNATURE, BE NOTARIZED AND BE RETURNED WITH YOUR PROPOSAL
+
+SWORN TO AND SUBSCRIBED BEFORE ME this __________ day of                            _______            ,   20 __________
+
+Notary Public                                                         My commission expires
+
+City of __________________________________ County of _________________________________ State of _________
+
+
+
+
+                                                             14
+                                                                               Attachment 3
+                            DTI180023-BRBND_NET
+                     RURAL BROADBAND INTERNET NETWORK
+
+                                 EXCEPTION FORM
+
+ Proposals must include all exceptions to the specifications, terms or conditions contained in
+ this RFP. If the Firm is submitting the proposal without exceptions, please state so below.
+
+        By checking this box, the Firm acknowledges that they take no exceptions to the
+ specifications, terms or conditions found in this RFP.
+
+   Paragraph #       Exceptions to Specifications,
+                                                               Proposed Alternative
+   and Page #            terms or conditions
+
+
+
+
+Note: Firm may use additional pages as necessary, but the format shall be the same as
+                                                                     provided above.
+
+
+                                          15
+                                                                                    Attachment 4
+                                 DTI180023-BRBND_NET
+                          RURAL BROADBAND INTERNET NETWORK
+
+                            CONFIDENTIAL INFORMATION FORM
+
+            By checking this box, the Firm acknowledges that they are not providing any
+      information they declare to be confidential or proprietary for the purpose of production under
+      29 Del. C. ch. 100, Delaware Freedom of Information Act.
+
+     Confidentiality and Proprietary Information
+
+
+
+
+Note: Firm may use additional pages as necessary, but the format shall be the same as provided
+above.
+
+
+
+
+                                                16
+                                                                                       Attachment 5
+                                   DTI180023-BRBND_NET
+                            RURAL BROADBAND INTERNET NETWORK
+
+                                     BUSINESS REFERENCES
+
+Provide at least three (3) business references consisting of current or previous customers of similar
+scope and value. Include business name, mailing address, contact name and phone number, number
+of years doing business with, and type of work performed. The selection committee will not consider
+personal references. Please do not list any State Employee as a business reference. If you have held a
+State contract within the last 5 years, please provide a separate list of the contract(s).
+
+
+  Contact Name & Title:
+  Business Name:
+  Address:
+
+  Email:
+  Phone # / Fax #:
+  Number of Years Associated:
+  Type of Work Performed:
+
+
+
+
+  Contact Name & Title:
+  Business Name:
+  Address:
+
+  Email:
+  Phone # / Fax #:
+  Number of Years Associated:
+  Type of Work Performed:
+
+
+
+
+  Contact Name & Title:
+  Business Name:
+  Address:
+
+  Email:
+  Phone # / Fax #:
+  Number of Years Associated:
+  Type of Work Performed:
+
+
+
+
+                                                 17
+                                                                                               Attachment 6
+                                  DTI180023-BRBND_NET
+                           RURAL BROADBAND INTERNET NETWORK
+
+                            SUBCONTRACTOR INFORMATION FORM
+
+PART I – STATEMENT BY PROPOSING VENDOR
+1. CONTRACT NUMBER                                     2. PRIME VENDOR NAME:        3. MAILING ADDRESS
+
+DTI180023-BRBND_NET
+RURAL BROADBAND INTERNET NETWORK
+
+
+4. SUBCONTRACTOR
+a. NAME                                                c. COMPANY OSD CLASSIFICATION:
+
+                                                       CERTIFICATION NUMBER: _____________________
+b. MAILING ADDRESS:
+                                                       4d. Women Business Enterprise           Yes       No
+                                                       4e. Minority Business Enterprise        Yes       No
+                                                       4f. Disadvantaged Business Enterprise   Yes       No
+                                                       4g. Veteran Owned Business Enterprise   Yes       No
+                                                       4h. Service Disabled Veteran Owned
+                                                       Business Enterprise                     Yes       No
+
+5.   DESCRIPTION OF WORK BY SUBCONTRACTOR
+
+
+
+
+6a. NAME OF PERSON SIGNING         7. BY (Signature)                       8. DATE SIGNED
+
+6b. TITLE OF PERSON SIGNING
+
+PART II – ACKNOWLEDGEMENT BY SUBCONTRACTOR
+
+9a. NAME OF PERSON SIGNING         10. BY (Signature)                      11. DATE SIGNED
+
+
+9b. TITLE OF PERSON SIGNING
+
+
+
+
+     * Use a separate form for each subcontractor
+
+
+
+
+                                                    18
+Appendix B – STANDARD TERMS AND CONDITIONS
+Professional Services RFP Administrative Information
+
+   A. RFP Issuance
+
+      1.      Public Notice
+           Public notice has been provided in accordance with 29 Del. C. §6981.
+
+      2.       Obtaining Copies of the RFP
+           This RFP is available in electronic form through the State of Delaware Procurement
+           website at www.bids.delaware.gov. Paper copies of this RFP will not be available.
+
+      3.       Assistance to Firms with a Disability
+           Firms with a disability may receive accommodation regarding the means of
+           communicating this RFP or participating in the procurement process.           For more
+           information, contact the Designated Contact no later than ten days prior to the deadline
+           for receipt of proposals.
+
+      4.       RFP Designated Contact
+           All requests, questions, or other communications about this RFP shall be made in writing
+           to the Department.        Address all communications to the person listed below;
+           communications made to other State of Delaware personnel or attempting to ask
+           questions by phone or in person will not be allowed or recognized as valid and may
+           disqualify the Firm. Firms should rely only on written statements issued by the RFP
+           designated contact.
+
+           Shelly K. Alioa, IT Procurement Officer
+           RFP: DTI180023-BRBND_NET
+           Delaware Department of Technology
+           801 Silver Lake Blvd.
+           Dover, DE 19904
+           DTI_Vendorservices@state.de.us
+
+           To ensure that written requests are received and answered in a timely manner, electronic
+           mail (e-mail) correspondence is acceptable, but other forms of delivery, such as postal
+           and courier services can also be used.
+
+      5.      Consultants and Legal Counsel
+           The Department may retain consultants or legal counsel to assist in the review and
+           evaluation of this RFP and the Firms’ responses. Firms shall not contact the Department’s
+           consultant or legal counsel on any matter related to the RFP.
+
+      6.       Contact with State Employees
+           Direct contact with State of Delaware employees other than the Designated Contact
+           regarding this RFP is expressly prohibited without prior consent. Firms directly contacting
+           State of Delaware employees risk elimination of their proposal from further consideration.
+            Exceptions exist only for organizations currently doing business in the State who require
+           contact in the normal course of doing that business.
+
+      7.       Organizations Ineligible to Bid
+           Any individual, business, organization, corporation, consortium, partnership, joint
+           venture, or any other entity including subcontractors currently debarred or suspended is
+           ineligible to bid. Any entity ineligible to conduct business in the State of Delaware for any
+           reason is ineligible to respond to the RFP.
+
+
+                                                  19
+   8.       Exclusions
+        The Proposal Evaluation Team reserves the right to refuse to consider any proposal from a
+        Firm who:
+        a. Has been convicted for commission of a criminal offense as an incident to obtaining or
+            attempting to obtain a public or private contract or subcontract, or in the performance
+            of the contract or subcontract:
+        b. Has been convicted under State or Federal statutes of embezzlement, theft, forgery,
+            bribery, falsification or destruction of records, receiving stolen property, or other
+            offense indicating a lack of business integrity or business honesty that currently and
+            seriously affects responsibility as a State contractor:
+        c. Has been convicted or has had a civil judgment entered for a violation under State or
+            Federal antitrust statutes:
+        d. Has violated contract provisions such as;
+            1)      Knowing failure without good cause to perform in accordance with the
+                    specifications or within the time limit provided in the contract; or
+            2)      Failure to perform or unsatisfactory performance in accordance with terms of
+                    one or more contracts;
+        e. Has violated ethical standards set out in law or regulation; and
+        f. Any other cause listed in regulations of the State of Delaware determined to be serious
+            and compelling as to affect responsibility as a State contractor, including suspension
+            or debarment by another governmental entity for a cause listed in the regulations.
+
+B. RFP Submissions
+   1.     Acknowledgement of Understanding of Terms
+      By submitting a bid, each Firm shall be deemed to acknowledge that it has carefully read
+      all sections of this RFP, including all forms, schedules and exhibits hereto, and has fully
+      informed itself as to all existing conditions and limitations.
+
+   2.      Proposal Modifications
+        Any changes, amendments or modifications to a proposal must be made in writing,
+        submitted in the same manner as the original response and conspicuously labeled as a
+        change, amendment or modification to a previously submitted proposal. Changes,
+        amendments or modifications to proposals shall not be accepted or considered after the
+        hour and date specified as the deadline for submission of proposals.
+
+   3.       Proposal Costs and Expenses
+        The Department will not pay any costs incurred by any Firm associated with any aspect of
+        responding to this solicitation, including proposal preparation, printing or delivery,
+        attendance at Firm’s conference, system demonstrations or negotiation process.
+
+   4.       Proposal Expiration Date
+        Prices quoted in the proposal shall remain fixed and binding on the Firm at least through
+        contract award. The Department reserves the right to ask for an extension of time if
+        needed.
+
+   5.       Late Proposals
+        Proposals received after the specified date and time will not be accepted or considered.
+        To guard against premature opening, sealed proposals shall be submitted, plainly marked
+        with the proposal title, Firm name, and time and date of the proposal opening. Evaluation
+        of the proposals is expected to begin shortly after the proposal due date. To document
+        compliance with the deadline, the proposal will be date and time stamped upon receipt.
+
+
+
+
+                                              20
+6.     Proposal Opening
+   The Department will receive proposals until the date and time shown in this RFP.
+   Proposals will be opened in the presence of Department personnel. Any unopened
+   proposals will be returned to the submitting Firm.
+7.     Non-Conforming Proposals
+   Non-conforming proposals will not be considered. Non-conforming proposals are defined
+   as those that do not meet the requirements of this RFP. The determination of whether an
+   RFP requirement is substantive or a mere formality shall reside solely within the
+   Department.
+
+8.       Concise Proposals
+      The Department discourages overly lengthy and costly proposals. It is the desire that
+      proposals be prepared in a straightforward and concise manner. Unnecessarily elaborate
+      brochures or other promotional materials beyond those sufficient to present a complete
+      and effective proposal are not desired. The Department’s interest is in the quality and
+      responsiveness of the proposal.
+
+9.         Realistic Proposals
+      It is the expectation of the Department that Firms can fully satisfy the obligations of the
+      proposal in the manner and timeframe defined within the proposal. Proposals must be
+      realistic and must represent the best estimate of time, materials and other costs including
+      the impact of inflation and any economic or other factors that are reasonably predictable.
+
+      The Department shall bear no responsibility or increase obligation for a Firm’s failure to
+      accurately estimate the costs or resources required to meet the obligations defined in the
+      proposal.
+
+10.       Price Not Confidential
+      Firms shall be advised that as a publically bid contract, no Firm shall retain the right to
+      declare their pricing confidential.
+
+11.      Multi-Firm Solutions (Joint Ventures)
+      Multi-Firm solutions (joint ventures) will be allowed only if one of the venture partners is
+      designated as the “prime contractor”. The “prime contractor” must be the joint
+      venture’s contact point for the Department and be responsible for the joint venture’s
+      performance under the contract, including all project management, legal and financial
+      responsibility for the implementation of all Firm systems. If a joint venture is proposed, a
+      copy of the joint venture agreement clearly describing the responsibilities of the partners
+      must be submitted with the proposal. Services specified in the proposal shall not be
+      subcontracted without prior written approval by the Department, and approval of a
+      request to subcontract shall not in any way relieve Firm of responsibility for the
+      professional and technical accuracy and adequacy of the work. Further, Firm shall be and
+      remain liable for all damages to the Department caused by negligent performance or non-
+      performance of work by its subcontractor or its sub-subcontractor.
+
+      Multi-Firm proposals must be a consolidated response with all cost included in the cost
+      summary. Where necessary, RFP response pages are to be duplicated for each Firm.
+
+      a. Primary Firm
+         The Department expects to negotiate and contract with only the “prime Firm”. The
+         Department will not accept any proposals that reflect an equal teaming arrangement
+         or from Firms who are co-bidding on this RFP. The prime Firm will be responsible for
+         the management of all subcontractors.
+
+         Any contract that may result from this RFP shall specify that the prime Firm is solely
+         responsible for fulfillment of any contract with the State as a result of this
+         procurement. The State will make contract payments only to the awarded Firm.
+                                          21
+         Payments to any-subcontractors are the sole responsibility of the prime Firm (awarded
+         Firm).
+
+         Nothing in this section shall prohibit the State of Delaware from the full exercise of its
+         options under Appendix B – STANDARD TERMS AND CONDITIONS, Section B, Item 16
+         regarding multiple source contracting.
+      b. Sub-contracting
+         The Firm selected shall be solely responsible for contractual performance and
+         management of all subcontract relationships. This contract allows subcontracting
+         assignments; however, Firms assume all responsibility for work quality, delivery,
+         installation, maintenance, and any supporting services required by a subcontractor.
+
+         Use of subcontractors must be clearly explained in the proposal, and major
+         subcontractors must be identified by name. The prime Firm shall be wholly
+         responsible for the entire contract performance whether or not
+         subcontractors are used.         Any sub-contractors must be approved by the
+         Department.
+      c. Multiple Proposals
+         A primary Firm may not participate in more than one proposal in any form. Sub-
+         contracting Firms may participate in multiple joint venture proposals.
+
+12.       Sub-Contracting
+      The Firm selected shall be solely responsible for contractual performance and
+      management of all subcontract relationships.        This contract allows subcontracting
+      assignments; however, Firms assume all responsibility for work quality, delivery,
+      installation, maintenance, and any supporting services required by a subcontractor.
+
+      Use of subcontractors must be clearly explained in the proposal, and subcontractors must
+      be identified by name. Any sub-contractors must be approved by the Department.
+
+13.       Discrepancies and Omissions
+      Firm is fully responsible for the completeness and accuracy of their proposal, and for
+      examining this RFP and all addenda. Failure to do so will be at the sole risk of Firm.
+      Should Firm find discrepancies, omissions, unclear or ambiguous intent or meaning, or
+      should any questions arise concerning this RFP, Firm shall notify the Department’s
+      Designated Contact, in writing, of such findings at least ten (10) days before the proposal
+      opening. This will allow issuance of any necessary addenda. It will also help prevent the
+      opening of a defective proposal and exposure of Firm’s proposal upon which award could
+      not be made. All unresolved issues should be addressed in the proposal.
+
+      Protests based on any omission or error, or on the content of the solicitation, will be
+      disallowed if these faults have not been brought to the attention of the Designated
+      Contact, in writing, at least ten (10) calendar days prior to the time set for opening of the
+      proposals.
+
+14.       Department’s Right to Reject Proposals
+      The Department reserves the right to accept or reject any or all proposals or any part of
+      any proposal, to waive defects, technicalities or any specifications (whether they be in the
+      Department’s specifications or Firm’s response), to sit and act as sole judge of the merit
+      and qualifications of each product offered, or to solicit new proposals on the same project
+      or on a modified project which may include portions of the originally proposed project as
+      the Department may deem necessary in the best interest of the State of Delaware.
+
+15.      Department’s Right to Cancel Solicitation
+      The Department reserves the right to cancel this solicitation at any time during the
+      procurement process, for any reason or for no reason. The Department makes no
+
+                                             22
+      commitments expressed or implied, that this process will result in a business transaction
+      with any Firm.
+
+      This RFP does not constitute an offer by the Department. Firm’s participation in this
+      process may result in the Department selecting your organization to engage in further
+      discussions and negotiations toward execution of a contract. The commencement of such
+      negotiations does not, however, signify a commitment by the Department to execute a
+      contract nor to continue negotiations. The Department may terminate negotiations at any
+      time and for any reason, or for no reason.
+
+16.      Department’s Right to Award Multiple Source Contracting
+      Pursuant to 29 Del. C. § 6986, the Department may award a contract for a particular
+      professional service to two or more Firms if the agency head makes a determination that
+      such an award is in the best interest of the State of Delaware.
+
+17.       Potential Contract Overlap
+      Firms shall be advised that the Department, at its sole discretion, shall retain the right to
+      solicit for goods and/or services as required by its agencies and as it serves the best
+      interest of the State. As needs are identified, there may exist instances where contract
+      deliverables, and/or goods or services to be solicited and subsequently awarded, overlap
+      previous awards. The Department reserves the right to reject any or all bids in whole or
+      in part, to make partial awards, to award to multiple Firms during the same period, to
+      award by types, on a zone-by-zone basis or on an item-by-item or lump sum basis item
+      by item, or lump sum total, whichever may be most advantageous to the State of
+      Delaware.
+
+18.       Notification of Withdrawal of Proposal
+      Firm may modify or withdraw its proposal by written request, provided that both proposal
+      and request is received by the Department prior to the proposal due date. Proposals may
+      be re-submitted in accordance with the proposal due date in order to be considered
+      further.
+
+      Proposals become the property of the Department at the proposal submission deadline.
+      All proposals received are considered firm offers at that time.
+
+19.        Revisions to the RFP
+      If it becomes necessary to revise any part of the RFP, an addendum will be posted on the
+      State of Delaware’s website at www.bids.delaware.gov . The Department is not bound by
+      any statement related to this RFP made by any State of Delaware employee, contractor or
+      its agents.
+
+20.       Exceptions to the RFP
+      Any exceptions to the RFP, or the Department’s terms and conditions, must be recorded
+      on Appendix A, Attachment 3. Acceptance of exceptions is within the sole discretion of
+      the evaluation committee.
+
+21.      Award of Contract
+      The final award of a contract is subject to approval by the Department. The Department
+      has the sole right to select the successful Firm(s) for award, to reject any proposal as
+      unsatisfactory or non-responsive, to award a contract to other than the lowest priced
+      proposal, to award multiple contracts, or not to award a contract, as a result of this RFP.
+
+      Notice in writing to a Firm of the acceptance of its proposal by the Department and the
+      subsequent full execution of a written contract will constitute a contract, and no Firm will
+      acquire any legal or equitable rights or privileges until the occurrence of both such events.
+
+
+                                             23
+   22.      RFP Award Notifications
+
+         The contract shall be awarded to the Firm whose proposal is most advantageous, taking
+         into consideration the evaluation factors set forth in the RFP.
+
+         It should be explicitly noted that the Department is not obligated to award the contract to
+         the Firm who submits the lowest bid or the Firm who receives the highest total point
+         score, rather the contract will be awarded to the Firm whose proposal is the most
+         advantageous to the State of Delaware. The award is subject to the appropriate
+         Department approvals.
+
+         After a final selection is made, the winning Firm will be invited to negotiate a contract
+         with the Department; remaining Firms will be notified in writing of their selection status.
+
+   24.       Cooperatives
+         Firms, who have been awarded similar contracts through a competitive bidding process
+         with a cooperative, are welcome to submit the cooperative pricing for this solicitation.
+
+C. RFP Evaluation Process
+   An evaluation team composed of representatives of the Department will evaluate proposals
+   on a variety of quantitative criteria. Neither the lowest price nor highest scoring proposal will
+   necessarily be selected.
+
+   The Department reserves full discretion to determine the competence and responsibility,
+   professionally and/or financially, of Firms. Firms are to provide in a timely manner any and
+   all information that the Department may deem necessary to make a decision.
+
+   1.        Proposal Evaluation Team
+         The Proposal Evaluation Team shall be comprised of representatives of the State of
+         Delaware. The Team shall determine which Firms meet the minimum requirements
+         pursuant to selection criteria of the RFP and procedures established in 29 Del. C. §§ 6981
+         and 6982. Professional services for this solicitation are considered under 29 Del. C.
+         §6982(b). The Team may negotiate with one or more Firms during the same period and
+         may, at its discretion, terminate negotiations with any or all Firms. The Team shall make
+         a recommendation regarding the award to the Department of Technology and
+         Information, IT Procurement Officer, who shall have final authority, subject to the
+         provisions of this RFP and 29 Del. C. § 6982(b), to award a contract to the successful Firm
+         in the best interests of the State of Delaware.
+
+   2.       Proposal Selection Criteria
+         The Proposal Evaluation Team shall assign up to the maximum number of points for each
+         Evaluation Item to each of the proposing Firm’s proposals. All assignments of points shall
+         be at the sole discretion of the Proposal Evaluation Team.
+
+         The proposals shall contain the essential information on which the award decision shall be
+         made. The information required to be submitted in response to this RFP has been
+         determined by the Department to be essential for use by the Team in the bid evaluation
+         and award process. Therefore, all instructions contained in this RFP shall be met in order
+         to qualify as a responsive and responsible contractor and participate in the Proposal
+         Evaluation Team’s consideration for award. Proposals which do not meet or comply with
+         the instructions of this RFP may be considered non-conforming and deemed non-
+         responsive and subject to disqualification at the sole discretion of the Team.
+
+         The Team reserves the right to:
+         • Select for contract or for negotiations a proposal other than that with lowest costs.
+         • Reject any and all proposals or portions of proposals received in response to this RFP
+            or to make no award or issue a new RFP.
+                                               24
+        •   Waive or modify any information, irregularity, or inconsistency in proposals received.
+        •   Request modification to proposals from any or all Firms during the contract review and
+            negotiation.
+        •   Negotiate any aspect of the proposal with any Firm and negotiate with more than one
+            Firm at the same time.
+        •   Select more than one Firm pursuant to 29 Del. C. §6986.
+
+   3.      Proposal Clarification
+        The Evaluation Team may contact any Firm in order to clarify uncertainties or eliminate
+        confusion concerning the contents of a proposal. Proposals may not be modified as a
+        result of any such clarification request.
+
+   4.      References
+        The Evaluation Team may contact any customer of the Firm, whether or not included in
+        the Firm’s reference list, and use such information in the evaluation process. Additionally,
+        the Department may choose to visit existing installations of comparable systems, which
+        may or may not include Firm personnel. If the Firm is involved in such site visits, the
+        Department will pay travel costs only for State of Delaware personnel for these visits.
+
+   5.       Oral Presentations
+        After preliminary scoring and a determination that Firm(s) are qualified to perform the
+        required services, selected Firms may be invited to make oral presentations to the
+        Evaluation Team. All Firm(s) selected will be given an opportunity to present to the
+        Evaluation Team.
+
+        The selected Firms will have their presentations scored or ranked based on their ability to
+        successfully meet the needs of the contract requirements, successfully demonstrate their
+        product and/or service, and respond to questions about the solution capabilities.
+
+        The Firm representative(s) attending the oral presentation shall be technically qualified to
+        respond to questions related to the proposed system and its components.
+
+        All of the Firm's costs associated with participation in oral discussions and system
+        demonstrations conducted for the Department are the Firm’s responsibility.
+
+D. Contract Terms and Conditions
+
+   1.      General Information
+        a. The selected Firm will be required to enter into a written agreement with the
+           Department.     The Department reserves the right to incorporate standard State
+           contractual provisions into any contract negotiated as a result of a proposal submitted
+           in response to this RFP. Any proposed modifications to the terms and conditions of the
+           standard contract are subject to review and approval by the Department. Firms will be
+           required to sign the contract for all services, and may be required to sign additional
+           agreements.
+        b. The selected Firm or Firms will be expected to enter negotiations with the Department,
+           which will result in a formal contract between parties. Procurement will be in
+           accordance with subsequent contracted agreement. This RFP and the selected Firm’s
+           response to this RFP will be incorporated as part of any formal contract.
+        c. The Department’s standard contract will most likely be supplemented with the Firm’s
+           software license, support/maintenance, source code escrow agreements, and any
+           other applicable agreements. The terms and conditions of these agreements will be
+           negotiated with the finalist during actual contract negotiations.
+        d. No Firm is to begin any service prior to receipt of a State of Delaware purchase order
+           signed by two authorized representatives of the agency requesting service, properly
+
+                                               25
+        processed through the State of Delaware Accounting Office and the Department of
+        Finance. The purchase order shall serve as the authorization to proceed in accordance
+        with the bid specifications and the special instructions, once it is received by the
+        successful Firm.
+     e. If the Firm to whom the award is made fails to enter into the agreement as herein
+        provided, the award will be annulled, and an award may be made to another Firm.
+        Such Firm shall fulfill every stipulation embraced herein as if they were the party to
+        whom the first award was made.
+
+2.        Collusion or Fraud
+     Any evidence of agreement or collusion among Firm(s) and prospective Firm(s) acting to
+     illegally restrain freedom from competition by agreement to offer a fixed price, or
+     otherwise, will render the offers of such Firm(s) void.
+
+     By responding, the Firm shall be deemed to have represented and warranted that its
+     proposal is not made in connection with any competing Firm submitting a separate
+     response to this RFP, and is in all respects fair and without collusion or fraud; that the
+     Firm did not participate in the RFP development process and had no knowledge of the
+     specific contents of the RFP prior to its issuance; and that no employee or official of the
+     State of Delaware participated directly or indirectly in the Firm’s proposal preparation.
+
+     Advance knowledge of information which gives any particular Firm advantages over any
+     other interested Firm(s), in advance of the opening of proposals, whether in response to
+     advertising or an employee or representative thereof, will potentially void that particular
+     proposal.
+
+3.      Lobbying and Gratuities
+     Lobbying or providing gratuities shall be strictly prohibited. Firms found to be lobbying,
+     providing gratuities to, or in any way attempting to influence a State of Delaware
+     employee or agent of the State of Delaware concerning this RFP or the award of a contract
+     resulting from this RFP shall have their proposal immediately rejected and shall be barred
+     from further participation in this RFP.
+
+     The selected Firm will warrant that no person or selling agency has been employed or
+     retained to solicit or secure a contract resulting from this RFP upon agreement or
+     understanding for a commission, or a percentage, brokerage or contingent fee. For
+     breach or violation of this warranty, the Department shall have the right to annul any
+     contract resulting from this RFP without liability or at its discretion deduct from the
+     contract price or otherwise recover the full amount of such commission, percentage,
+     brokerage or contingent fee.
+
+     All contact with State of Delaware employees, contractors or agents of the State of
+     Delaware concerning this RFP shall be conducted in strict accordance with the manner,
+     forum and conditions set forth in this RFP.
+
+4.       Solicitation of State Employees
+     Until contract award, Firms shall not, directly or indirectly, solicit any employee of the
+     State of Delaware to leave the State of Delaware’s employ in order to accept employment
+     with the Firm, its affiliates, actual or prospective contractors, or any person acting in
+     concert with Firm, without prior written approval of the Department’s IT Procurement
+     Officer. Solicitation of State of Delaware employees by a Firm may result in rejection of
+     the Firm’s proposal.
+
+     This paragraph does not prevent the employment by a Firm of a State of Delaware
+     employee who has initiated contact with the Firm. However, State of Delaware employees
+     may be legally prohibited from accepting employment with the contractor or subcontractor
+
+                                           26
+   under certain circumstances. Firms may not knowingly employ a person who cannot
+   legally accept employment under state or federal law. If a Firm discovers that they have
+   done so, they must terminate that employment immediately.
+5.     General Contract Terms
+   a. Independent Contractors
+       The parties to the contract shall be independent contractors to one another, and
+       nothing herein shall be deemed to cause this agreement to create an agency,
+       partnership, joint venture or employment relationship between parties. Each party
+       shall be responsible for compliance with all applicable workers’ compensation,
+       unemployment, disability insurance, social security withholding and all other similar
+       matters. Neither party shall be liable for any debts, accounts, obligations or other
+       liability whatsoever of the other party or any other obligation of the other party to pay
+       on the behalf of its employees or to withhold from any compensation paid to such
+       employees any social benefits, workers compensation insurance premiums or any
+       income or other similar taxes.
+
+       It may be at the Department’s discretion as to the location of work for the contractual
+       support personnel during the project period. The Department may provide working
+       space and sufficient supplies and material to augment the Contractor’s services.
+
+   b. Licenses and Permits
+      In performance of the contract, the Firm will be required to comply with all applicable
+      federal, state and local laws, ordinances, codes, and regulations. The cost of permits
+      and other relevant costs required in the performance of the contract shall be borne by
+      the successful Firm. The Firm shall be properly licensed and authorized to transact
+      business in the State of Delaware as provided in 30 Del. C. § 2502.
+
+       Prior to receiving an award, the successful Firm shall either furnish the Department
+       with proof of State of Delaware Business Licensure or initiate the process of application
+       where required. An application may be requested in writing to: Division of Revenue,
+       Carvel State Building, P.O. Box 8750, 820 N. French Street, Wilmington, DE 19899 or
+       by telephone to one of the following numbers: (302) 577-8200—Public Service, (302)
+       577-8205—Licensing Department.
+
+       Information regarding the award of the contract will be given to the Division of
+       Revenue. Failure to comply with the State of Delaware licensing requirements may
+       subject Firm to applicable fines and/or interest penalties.
+
+   c. Notice
+      Any notice to the Department required under the contract shall be sent by registered
+      mail to:
+
+       Shelly K. Alioa, IT Procurement Officer
+       Delaware Department of Technology
+       801 Silver Lake Blvd.
+       Dover, DE 19904
+
+   d. Indemnification
+      1.     General Indemnification
+         By submitting a proposal, the proposing Firm agrees that in the event it is awarded
+         a contract, it will indemnify and otherwise hold harmless the State of Delaware, its
+         agents and employees from any and all liability, suits, actions, or claims, together
+         with all costs, expenses for attorney’s fees, arising out of the Firm’s, its agents and
+         employees’ performance work or services in connection with the contract.
+
+
+
+
+                                           27
+   2.        Proprietary Rights Indemnification
+        Firm shall warrant that all elements of its solution, including all equipment,
+        software, documentation, services and deliverables, do not and will not infringe
+        upon or violate any patent, copyright, trade secret or other proprietary rights of
+        any third party. In the event of any claim, suit or action by any third party against
+        the State of Delaware, the State of Delaware shall promptly notify the Firm in
+        writing and Firm shall defend such claim, suit or action at Firm’s expense, and Firm
+        shall indemnify the State of Delaware against any loss, cost, damage, expense or
+        liability arising out of such claim, suit or action (including, without limitation,
+        litigation costs, lost employee time, and counsel fees) whether or not such claim,
+        suit or action is successful.
+
+        If any equipment, software, services (including methods) products or other
+        intellectual property used or furnished by the Firm (collectively “”Products”) is or
+        in Firm’s reasonable judgment is likely to be, held to constitute an infringing
+        product, Firm shall at its expense and option either:
+
+        a. Procure the right for the State of Delaware to continue using the Product(s);
+        b. Replace the product with a non-infringing equivalent that satisfies all the
+            requirements of the contract; or
+        c. Modify the Product(s) to make it or them non-infringing, provided that the
+            modification does not materially alter the functionality or efficacy of the
+            product or cause the Product(s) or any part of the work to fail to conform to
+            the requirements of the Contract, or only alters the Product(s) to a degree that
+            the State of Delaware agrees to and accepts in writing.
+
+e. Insurance
+   1. Firm recognizes that it is operating as an independent contractor and that it is
+      liable for any and all losses, penalties, damages, expenses, attorney’s fees,
+      judgments, and/or settlements incurred by reason of injury to or death of any and
+      all persons, or injury to any and all property, of any nature, arising out of the
+      Firm’s negligent performance under this contract, and particularly without limiting
+      the foregoing, caused by, resulting from, or arising out of any act of omission on
+      the part of the Firm in their negligent performance under this contract.
+   2. The Firm shall maintain such insurance as will protect against claims under
+      Worker’s Compensation Act and from any other claims for damages for personal
+      injury, including death, which may arise from operations under this contract. The
+      Firm is an independent contractor and is not an employee of the State of Delaware.
+   3. During the term of this contract, the Firm shall, at its own expense, also carry
+      insurance minimum limits as follows:
+
+        a. Firm shall in all instances maintain the following insurance during the term of
+            this Agreement.
+
+              i.    Worker’s Compensation and Employer’s Liability Insurance in accordance
+                    with applicable law.
+
+              ii.    Commercial General Liability
+                    $1,000,000.00 per occurrence/$3,000,000 per aggregate.
+
+        b. The successful Firm must carry at least one of the following depending on the
+            scope of work being delivered.
+
+              i.     Medical/Professional Liability
+                    $1,000,000.00 per occurrence/$3,000,000 per aggregate
+                                        28
+               ii.    Miscellaneous Errors and Omissions
+                     $1,000,000.00 per occurrence/$3,000,000 per aggregate
+
+              iii.    Product Liability
+                     $1,000,000 per occurrence/$3,000,000 aggregate
+
+          c. If the contractual service requires the transportation of departmental clients or
+              staff, the Firm shall, in addition to the above coverage’s, secure at its own
+              expense the following coverage.
+
+                     i. Automotive Liability Insurance (Bodily Injury) covering all automotive
+                     units transporting departmental clients or staff used in the work with
+                     limits of not less than $100,000 each person and $300,000 each
+                     accident.
+
+                     ii. Automotive Property Damage (to others) - $25,000
+
+     4.     The Firm shall provide a Certificate of Insurance (COI) as proof that the Firm
+            has the required insurance. The COI shall be provided prior to agency contact
+            prior to any work being completed by the awarded Firm(s).
+     5.     The Department shall not be named as an additional insured.
+     6.     Should any of the above described policies be cancelled before expiration date
+            thereof, notice will be delivered in accordance with the policy provisions.
+
+f.   Performance Requirements
+     The selected Firm will warrant that it possesses, or has arranged through
+     subcontractors, all capital and other equipment, labor, materials, and licenses
+     necessary to carry out and complete the work hereunder in compliance with any and
+     all Federal and State laws, and County and local ordinances, regulations and codes.
+
+g. Firm Emergency Response Point of Contact
+   The awarded Firm(s) shall provide the name(s), telephone, or cell phone number(s) of
+   those individuals who can be contacted twenty-four (24) hours a day, seven (7) days a
+   week where there is a critical need for commodities or services when the Governor of
+   the State of Delaware declares a state of emergency under the Delaware Emergency
+   Operations Plan or in the event of a local emergency or disaster where a state
+   governmental entity requires the services of the Firm.        Failure to provide this
+   information could render the proposal as non-responsive.
+
+     In the event of a serious emergency, pandemic or disaster outside the control of the
+     State, the State may negotiate, as may be authorized by law, emergency performance
+     from the Contractor to address the immediate needs of the State, even if not
+     contemplated under the original Contract or procurement. Payments are subject to
+     appropriation and other payment terms.
+
+h. Costs and Payment Schedules
+   All contract costs must be as detailed specifically in the Firm’s cost proposal.  No
+   charges other than as specified in the proposal shall be allowed without written
+   consent of the Department. The proposal costs shall include full compensation for all
+   taxes that the selected Firm is required to pay.
+
+     The Department will require a payment schedule based on defined and measurable
+     milestones. Proposals should be submitted for proposed work. Payments for services
+     will not be made in advance of work performed. The Department may require
+
+
+                                         29
+     holdback of contract monies until acceptable performance is demonstrated (as much
+     as 25%).
+
+     Payments made under the resulting contract are subject to audit and will be based on
+     actual costs. Invoices submitted for the duration of the resulting contract shall include,
+     but not be limited to, the task order assignment number, a brief description of the
+     assignment, and proof of actual retail cost of all equipment related to the invoice. Final
+     settlement for total payment to the Firm will be made within ninety (90) days from the
+     date of final written Department acceptance of each task/project.
+
+i.   Project Schedule
+     Work assigned under the resulting contract will be by individual task orders for
+     services as required in this RFP, throughout the State of Delaware. The Firm will
+     prepare a specific proposal for each task order assignment including a work plan, cost
+     proposal, and schedule to be approved by the Department.
+
+     Within three (3) working days the Firm shall acknowledge each work assignment. The
+     Firm shall contact the Department to discuss project requirements and will provide a
+     work plan, schedule and cost proposal to the Department within five (5) working days
+     following the initial project scoping meeting. The Firm shall submit a monthly status
+     report for each assigned task and shall advise of any decisions needed concerning
+     matters that appear to be preventing progress.
+
+     Notify the Department in writing if the Firm is of the opinion that any work or service
+     is beyond the scope of the contract. If by its sole discretion the Department concurs,
+     in accordance with Delaware law, a Supplemental Agreement may be executed in
+     writing. No work covered by Supplemental Agreements shall be begin unless ordered
+     in writing by the Department and receipt of a Notice to Proceed.
+
+     The Firm will proceed with the work and services for each task within three (3)
+     working days after receipt of a written Notice to Proceed issued by the DTI
+     Procurement Office.
+
+j.   Liquidated Damages
+     The Department may include in the final contract liquidated damages provisions for
+     non-performance.
+
+k. Dispute Resolution
+   At the option of, and in the manner prescribed by the Department, the parties shall
+   attempt in good faith to resolve any dispute arising out of or relating to this
+   Agreement promptly by negotiation between executives who have authority to settle
+   the controversy and who are at a higher level of management than the persons with
+   direct responsibility for administration of this Agreement. All offers, promises, conduct
+   and statements, whether oral or written, made in the course of the negotiation by any
+   of the parties, their agents, employees, experts and attorneys are confidential,
+   privileged and inadmissible for any purpose, including impeachment, in arbitration or
+   other proceeding involving the parties, provided evidence that is otherwise admissible
+   or discoverable shall not be rendered inadmissible.
+
+     If the matter is not resolved by negotiation, as outlined above, or, alternatively, the
+     Department elects to proceed directly to mediation, then the matter will proceed to
+     mediation as set forth below. Any disputes, claims or controversies arising out of or
+     relating to this Agreement shall be submitted to mediation by a mediator selected by
+     the Department. The Department reserves the right to proceed directly to arbitration
+     or litigation without negotiation or mediation. Any such proceedings held pursuant to
+     this provision shall be governed by Delaware law and venue shall be in Delaware. The
+     parties shall maintain the confidential nature of the arbitration proceeding and the
+                                         30
+     Award, including the Hearing, except as may be necessary to prepare for or conduct
+     the arbitration hearing on the merits. Each party shall bear its own costs of mediation,
+     arbitration or litigation, including attorneys’ fees.
+
+l.   Termination of Contract
+     The contract resulting from this RFP may be terminated as follows by the Department of
+     Technology and Information.
+
+     1. Termination for Cause
+        If, for any reasons, or through any cause, the Firm fails to fulfill in timely and proper
+        manner its obligations under this Contract, or if the Firm violates any of the
+        covenants, agreements, or stipulations of this Contract, the Department shall
+        thereupon have the right to terminate this contract by giving written notice to the
+        Firm of such termination and specifying the effective date thereof, at least twenty
+        (20) days before the effective date of such termination. In that event, all finished or
+        unfinished documents, data, studies, surveys, drawings, maps, models, photographs,
+        and reports or other material prepared by the Firm under this Contract shall, at the
+        option of the Department, become its property, and the Firm shall be entitled to
+        receive just and equitable compensation for any satisfactory work completed on such
+        documents and other materials which is usable to the Department.
+
+        On receipt of the contract cancellation notice from the Department, the Firm shall
+        have no less than five (5) days to provide a written response and may identify a
+        method(s) to resolve the violation(s). A Firm response shall not effect or prevent the
+        contract cancellation unless the Department provides a written acceptance of the
+        Firm response. If the Department does accept the Firm’s method and/or action plan
+        to correct the identified deficiencies, the Department will define the time by which
+        the Firm must fulfill its corrective obligations. Final retraction of the Department’s
+        termination for cause will only occur after the Firm successfully rectifies the original
+        violation(s). At its discretion the Department may reject in writing the Firm’s
+        proposed action plan and proceed with the original contract cancellation timeline.
+
+     2. Termination for Convenience
+        The Department may terminate this Contract at any time by giving written notice of
+        such termination and specifying the effective date thereof, at least twenty (20) days
+        before the effective date of such termination. In that event, all finished or unfinished
+        documents, data, studies, surveys, drawings, models, photographs, reports,
+        supplies, and other materials shall, at the option of the Department, become its
+        property and the Firm shall be entitled to receive compensation for any satisfactory
+        work completed on such documents and other materials, and which is usable to the
+        Department.
+
+     3. Termination for Non-Appropriations
+        In the event the General Assembly fails to appropriate the specific funds necessary to
+        enter into or continue the contractual agreement, in whole or part, the agreement
+        shall be terminated as to any obligation of the Department requiring the expenditure
+        of money for which no specific appropriation is available at the end of the last fiscal
+        year for which no appropriation is available or upon the exhaustion of funds. This is
+        not a termination for convenience and will not be converted to such.
+
+m. Non-discrimination
+   In performing the services subject to this RFP the Firm, as set forth in Title 19
+   Delaware Code Chapter 7 section 711, will agree that it will not discriminate against
+   any employee or applicant with respect to compensation, terms, conditions or
+   privileges of employment because of such individual's race, marital status, genetic
+   information, color, age, religion, sex, sexual orientation, gender identity, or national
+   origin. The successful Firm shall comply with all federal and state laws, regulations
+                                          31
+   and policies pertaining to the prevention of discriminatory employment practice.
+   Failure to perform under this provision constitutes a material breach of contract.
+
+n. Covenant against Contingent Fees
+   The successful Firm will warrant that no person or selling agency has been employed
+   or retained to solicit or secure this contract upon an agreement of understanding for a
+   commission or percentage, brokerage or contingent fee excepting bona-fide
+   employees, bona-fide established commercial or selling agencies maintained by the
+   Firm for the purpose of securing business. For breach or violation of this warranty the
+   Department shall have the right to annul the contract without liability or at its
+   discretion to deduct from the contract price or otherwise recover the full amount of
+   such commission, percentage, brokerage or contingent fee.
+
+o. Firm Activity
+   No activity is to be executed in an off shore facility, either by a subcontracted firm or a
+   foreign office or division of the Firm. The Firm must attest to the fact that no activity
+   will take place outside of the United States in its transmittal letter. Failure to adhere
+   to this requirement is cause for elimination from future consideration.
+
+p. Firm Responsibility
+   The successful Firm(s) shall be responsible for all products and services as required by
+   this RFP whether or not the Firm or its subcontractor provided final fulfillment of the
+   order. Subcontractors, if any, shall be clearly identified in the Firm’s proposal, and are
+   subject the approval and acceptance of the Department.
+
+q. Supplier Diversity
+   State of Delaware, Office of Supplier Diversity Certification Applications are available
+   here for download:
+
+                        http://gss.omb.delaware.gov/osd/certify.shtml
+
+   Submission of a completed Office of Supplier Diversity (OSD) application is optional
+   and does not influence the outcome of any award decision.
+
+   The minimum criteria for certification require the entity must be at least 51% owned
+   and actively managed by a person or persons who are eligible: minorities, women,
+   veterans, and/or service disabled veterans. Any one or all of these categories may
+   apply to a 51% owner
+
+   Complete application and mail, email or fax to:
+
+   Office of Supplier Diversity (OSD)
+   100 Enterprise Place, Suite 4
+   Dover, DE 19904-8202
+   Telephone: (302) 857-4554 Fax: (302) 677-7086
+   Email: osd@state.de.us
+   Web site: http://gss.omb.delaware.gov/osd/index.shtml
+
+r. Personnel, Equipment and Services
+   1.    The Firm represents that it has, or will secure at its own expense, all personnel
+         required to perform the services required under this contract.
+   2.    All of the equipment and services required hereunder shall be provided by or
+         performed by the Firm or under its direct supervision, and all personnel,
+         including subcontractors, engaged in the work shall be fully qualified and shall
+         be authorized under State and local law to perform such services.
+   3.    None of the equipment and/or services covered by this contract shall be
+         subcontracted without the prior written approval of the State. Only those
+                                     32
+            subcontractors identified in Attachment 6 are considered approved upon award.
+            Changes to those subcontractor(s) listed in Attachment 6 must be approved in
+            writing by the State.
+
+s. Fair Background Check Practices
+   Pursuant to 29 Del. C. §6909B, the State does not consider the criminal record, criminal
+   history, credit history or credit score of an applicant for state employment during the
+   initial application process unless otherwise required by state and/or federal law. Firms
+   doing business with the State are encouraged to adopt fair background check practices.
+   Firms can refer to 19 Del. C. §711(g) for applicable established provisions.
+
+t. Firm Background Check Requirements
+   Firm(s) selected for an award that access state property or come in contact with
+   vulnerable populations, including children and youth, shall be required to complete
+   background checks on employees serving the Department’s on premises contracts.
+   Unless otherwise directed, at a minimum, this shall include a check of the following
+   registry:
+   •       Delaware Sex Offender Central Registry at:
+           https://sexoffender.dsp.delaware.gov/
+
+     Individuals that are listed in the registry shall be prevented from direct contact in the
+     service of an awarded state contract, but may provide support or off-site premises
+     service for contract Firms. Should an individual be identified and the Firm(s) believes
+     their employee’s service does not represent a conflict with this requirement, may apply
+     for a waiver to the primary agency listed in the solicitation. The Agency’s decision to
+     allow or deny access to any individual identified on a registry database is final and at
+     the Agency’s sole discretion.
+
+     By Agency request, the Firm(s) shall provide a list of all employees serving an
+     awarded contract, and certify adherence to the background check requirement.
+     Individual(s) found in the central registry in violation of the terms stated, shall be
+     immediately prevented from a return to state property in service of a contract award.
+     A violation of this condition represents a violation of the contract terms and conditions,
+     and may subject the Firm to penalty, including contract cancellation for cause.
+
+     Individual contracts may require additional background checks and/or security
+     clearance(s), depending on the nature of the services to be provided or locations
+     accessed, but any other requirements shall be stated in the contract scope of work or
+     be a matter of common law. The Firm(s) shall be responsible for the background
+     check requirements of any authorized Subcontractor providing service to the Agency’s
+     contract.
+
+u. Contract Documents
+   The RFP, the purchase order, the executed contract and any supplemental documents
+   between the Department and the successful Firm shall constitute the contract between
+   the Department and the Firm. In the event there is any discrepancy between any of
+   these contract documents, the following order of documents governs so that the
+   former prevails over the latter: contract, Department’s RFP, Firm’s response to the RFP
+   and purchase order. No other documents shall be considered. These documents will
+   constitute the entire agreement between the Department and the Firm.
+
+v.     Applicable Law
+     The laws of the State of Delaware shall apply, except where Federal Law has
+     precedence. The successful Firm consents to jurisdiction and venue in the State of
+     Delaware.
+
+
+
+                                         33
+     In submitting a proposal, Firms certify that they comply with all federal, state and
+     local laws applicable to its activities and obligations including:
+
+     1.     the laws of the State of Delaware;
+     2.     the applicable portion of the Federal Civil Rights Act of 1964;
+     3.     the Equal Employment Opportunity Act and the regulations issued there under
+            by the federal government;
+     4.     a condition that the proposal submitted was independently arrived at, without
+            collusion, under penalty of perjury; and
+     5.     that programs, services, and activities provided to the general public under
+            resulting contract conform with the Americans with Disabilities Act of 1990, and
+            the regulations issued there under by the federal government.
+
+     If any Firm fails to comply with (1) through (5) of this paragraph, the Department
+     reserves the right to disregard the proposal, terminate the contract, or consider the
+     Firm in default.
+
+     The selected Firm shall keep itself fully informed of and shall observe and comply with
+     all applicable existing Federal and State laws, and County and local ordinances,
+     regulations and codes, and those laws, ordinances, regulations, and codes adopted
+     during its performance of the work.
+
+w.     Severability
+     If any term or provision of this Agreement is found by a court of competent jurisdiction
+     to be invalid, illegal or otherwise unenforceable, the same shall not affect the other
+     terms or provisions hereof or the whole of this Agreement, but such term or provision
+     shall be deemed modified to the extent necessary in the court's opinion to render such
+     term or provision enforceable, and the rights and obligations of the parties shall be
+     construed and enforced accordingly, preserving to the fullest permissible extent the
+     intent and agreements of the parties herein set forth.
+
+x. Assignment Of Antitrust Claims
+   As consideration for the award and execution of this contract by the Department, the
+   Firm hereby grants, conveys, sells, assigns, and transfers to the Department all of its
+   right, title and interest in and to all known or unknown causes of action it presently
+   has or may now or hereafter acquire under the antitrust laws of the United States and
+   the State of Delaware, regarding the specific goods or services purchased or acquired
+   for the State pursuant to this contract. Upon either the Department’s or the Firm
+   notice of the filing of or reasonable likelihood of filing of an action under the antitrust
+   laws of the United States or the State of Delaware, the Department and Firm shall
+   meet and confer about coordination of representation in such action.
+
+y.     Scope of Agreement
+     If the scope of any provision of the contract is determined to be too broad in any
+     respect whatsoever to permit enforcement to its full extent, then such provision shall
+     be enforced to the maximum extent permitted by law, and the parties hereto consent
+     and agree that such scope may be judicially modified accordingly and that the whole
+     of such provisions of the contract shall not thereby fail, but the scope of such
+     provisions shall be curtailed only to the extent necessary to conform to the law.
+
+z.     Affirmation
+     The Firm must affirm that within the past five (5) years the firm or any officer,
+     controlling stockholder, partner, principal, or other person substantially involved in the
+     contracting activities of the business is not currently suspended or debarred and is not
+     a successor, subsidiary, or affiliate of a suspended or debarred business.
+
+
+                                         34
+aa. Audit Access to Records
+    The Firm shall maintain books, records, documents, and other evidence pertaining to
+    this Contract to the extent and in such detail as shall adequately reflect performance
+    hereunder. The Firm agrees to preserve and make available to the Department, upon
+    request, such records for a period of five (5) years from the date services were
+    rendered by the Firm. Records involving matters in litigation shall be retained for one
+    (1) year following the termination of such litigation. The Firm agrees to make such
+    records available for inspection, audit, or reproduction to any official Department
+    representative in the performance of their duties under the Contract. Upon notice
+    given to the Firm, representatives of the Department or other duly authorized State or
+    Federal agency may inspect, monitor, and/or evaluate the cost and billing records or
+    other material relative to this Contract. The cost of any Contract audit disallowances
+    resulting from the examination of the Firm's financial records will be borne by the
+    Firm. Reimbursement to the Department for disallowances shall be drawn from the
+    Firm's own resources and not charged to Contract cost or cost pools indirectly charging
+    Contract costs.
+
+bb. Other General Conditions
+    1.  Current Version – “Packaged” application and system software shall be the
+        most current version generally available as of the date of the physical
+        installation of the software.
+    2.  Current Manufacture – Equipment specified and/or furnished under this
+        specification shall be standard products of manufacturers regularly engaged in
+        the production of such equipment and shall be the manufacturer’s latest
+        design. All material and equipment offered shall be new and unused.
+    3.  Volumes and Quantities – Activity volume estimates and other quantities
+        have been reviewed for accuracy; however, they may be subject to change
+        prior or subsequent to award of the contract.
+    4.  Prior Use – The Department reserves the right to use equipment and material
+        furnished under this proposal prior to final acceptance. Such use shall not
+        constitute acceptance of the work or any part thereof by the Department.
+    5.  Status Reporting – The selected Firm will be required to lead and/or
+        participate in status meetings and submit status reports covering such items as
+        progress of work being performed, milestones attained, resources expended,
+        problems encountered and corrective action taken, until final system
+        acceptance.
+    6.  Regulations – All equipment, software and services must meet all applicable
+        local, State and Federal regulations in effect on the date of the contract.
+    7.  Assignment – Any resulting contract shall not be assigned except by express
+        prior written consent from the Agency.
+    8.  Changes – No alterations in any terms, conditions, delivery, price, quality, or
+        specifications of items ordered will be effective without the written consent of
+        the Department.
+    9.  Billing – The successful Firm is required to "Bill as Shipped" to the respective
+        ordering agency(s). Ordering agencies shall provide contract number, ship to
+        and bill to address, contact name and phone number.
+    10. Payment – The Department reserves the right to pay by Automated Clearing
+        House (ACH), Purchase Card (P-Card), or check. The agencies will authorize
+        and process for payment of each invoice within thirty (30) days after the date of
+        receipt of a correct invoice. Firms are invited to offer in their proposal value
+        added discounts (i.e. speed to pay discounts for specific payment terms). Cash
+        or separate discounts should be computed and incorporated as invoiced.
+    11. Purchase Orders – Agencies that are part of the First State Financial (FSF)
+        system are required to identify the contract number DTI180023-BRBND_NET on
+
+                                      35
+                all Purchase Orders (P.O.) and shall complete the same when entering P.O.
+                information in the state’s financial reporting system.
+            12. Purchase Card – The State of Delaware intends to maximize the use of the P-
+                Card for payment for goods and services provided under contract. Firms shall
+                not charge additional fees for acceptance of this payment method and shall
+                incorporate any costs into their proposals. Additionally there shall be no
+                minimum or maximum limits on any P-Card transaction under the contract.
+            13. Additional Terms and Conditions – The Department reserves the right to
+               add terms and conditions during the contract negotiations.
+
+E. RFP Miscellaneous Information
+   1.   No Press Releases or Public Disclosure
+        The Department reserves the right to pre-approve any news or broadcast advertising
+        releases concerning this solicitation, the resulting contract, the work performed, or any
+        reference to the State of Delaware with regard to any project or contract performance.
+         Any such news or advertising releases pertaining to this solicitation or resulting
+        contract shall require the prior express written permission of the Department.
+
+          The Department will not prohibit or otherwise prevent the awarded Firm(s) from direct
+          marketing to the State of Delaware agencies, departments, municipalities, and/or any
+          other political subdivisions, however, the Firm shall not use the State’s seal or imply
+          preference for the solution or goods provided.
+
+   2.     Definitions of Requirements
+          To prevent any confusion about identifying requirements in this RFP, the following
+          definition is offered: The words shall, will and/or must are used to designate a
+          mandatory requirement.        Firms must respond to all mandatory requirements
+          presented in the RFP. Failure to respond to a mandatory requirement may cause the
+          disqualification of your proposal.
+
+
+
+
+                          Remainder of page intentionally left blank.
+
+
+
+
+                                              36
+

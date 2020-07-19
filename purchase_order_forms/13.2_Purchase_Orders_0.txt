@@ -1,0 +1,114 @@
+Acquisition Guide
+                                                             Chapter 13.2 (November 2009)
+
+
+                                PURCHASE ORDERS
+                                                             GUIDING PRINCIPLES
+
+                                                 J   Purchase Orders should normally be issued on a
+                                                     fixed-price basis.
+
+                                                 J   Modifications of Purchase Orders may be used for
+                                                     unpriced orders and for administrative matters on
+                                                     priced orders.
+
+                                                 J   Purchase orders cannot exceed the simplified
+                                                     acquisition threshold.
+
+
+
+This section discusses the Department of Energy's (DOE) use of purchase orders as described in
+Federal Acquisition Regulation (FAR) 13.302 and the Department of Energy's Acquisition
+Regulation (DEAR) Section 913.304. Only contracting officers acting within the scope of their
+authority are empowered to execute purchase orders on behalf of DOE.
+
+Authority
+
+A. Federal Acquisition Regulation (FAR) Subpart 13.302.
+
+B. DEAR 913.307
+
+Background
+
+When shouldpurchase orders be used? Due to the administrative cost of preparing and handling
+the purchase order document, purchase orders for less than $3,000 should be used only when the
+commodity, conditions, or amount of the procurement precludes use of a simpler award method,
+such as the DOE Purchase Card or Blanket Purchase Agreement call.
+Acquisitions that must be made by written purchase orders are:
+
+       (1) All open market purchases over $3,000;
+
+       (2) Acquisitions that require multiple, separate deliveries or performance of multiple
+       tasks with multiple invoices/payments over 2 or more months (excluding annual service
+       plans with fixed monthly charges);
+
+       (3) Construction of $2,000 or more subject to the Davis-Bacon Act;
+
+       (4) Unpriced orders (FAR 13.302-2)
+
+
+
+Purchase Order Types
+
+Maximum effort should be made to award purchase orders on a fixed-price basis including a firm
+price for shipping, handling and other ancillary changes.
+
+Except as provided under FAR 13.302-2 concerning the unpriced purchase order and FAR
+12.207, purchase orders are generally issued on a fixed-price basis.
+
+A single purchase order value shall not exceed the simplified acquisition threshold (SAT).
+
+Contracting Officers shall not "split" requirements into multiple orders to avoid thresholds for a
+General Services Administration (GSA) Federal Supply Schedule, Blanket Purchase Agreement,
+or other more appropriate contracting vehicle.
+
+Purchase Order Options
+
+Even when purchases are below SAT, a purchase order should not include options (see FAR
+17.2). If the use of options is contemplated for purchases under the SAT, and if inclusion of
+options would be in the best interest of the government, then the Contracting Officer should
+consider placing an order against a more appropriate contracting instrument such as a GSA
+Federal Supply Schedule, Blanket Purchase Agreement, or other Government-wide Acquisition
+Contract.
+
+Purchase Order Forms
+
+Optional Forms 347 and 348, or DOE F 4250.3, may be used for purchase orders following
+simplified acquisition procedures. However, these forms shall not be used as the contractor's
+invoice. See 48 CFR 12.204 regarding the use of SF-1449 for the acquisition of commercial
+items using simplified acquisition procedures.
+Purchase Order Modifications
+
+(1) In the event that it becomes necessary to modify or cancel a purchase order, use Standard
+Form 30, Amendment of Solicitationhlodification of Contract. The quantity and amount shown
+for the amendment line items and total should be the amount of the increase or decrease, not the
+revised total for the order. The SF 30, Block 14, Description of ArnendmentJModification, must
+contain a recap of the adjustment (original quantity, increase or decrease, and new total).
+
+(2) Modifications to purchase orders should be kept to a minimum. Prior to any modifications
+being made to purchase orders, the Contracting Officer must ensure that the changes do not
+affect the scope of work and that funding is available. Some particular examples follow:
+
+   a. Unpriced Orders: When the price of a product or service is not established at the
+   time of issuance of the order, in accordance with FAR 13.302-2, an unpriced purchase
+   order may be executed. However, a bilateral modification must be executed to
+   definitize the unpriced order.
+
+   b. Administrative: In certain circumstances a modification may be issued to make a
+   correction or to change administrative information contained within the original
+   purchase order such as an inadvertent error in the address or an inadvertent spelling
+   error. All administrative changes are limited to specific changes that do not have a
+   material impact on the substance of the contract.
+
+    c. Increase Funding: If a modification is being contemplated for the purposes of
+    increasing funding, or if additional work is required, the Contracting Officer must
+    consider all procurement guidance and regulations to ensure that the changes do not
+    affect the scope of work, unfairly restrict competition, or otherwise circumvent
+    acquisition planning for a new requisition. For example, ifapurchase order was
+    issued for a particular product and the delivery charge was inadvertently omitted at
+    the time of issuance, the purchase order would require a modijkation to increase the
+   funding by an amount equal to the previously quoted delivery charge. This would not
+    be an opportunity to order additional products and services on that same purchase
+    order as those changes would more than likely result in aprohibitedpractice such an
+    out-of-scope modiJication.
+

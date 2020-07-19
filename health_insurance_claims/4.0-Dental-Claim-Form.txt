@@ -1,0 +1,590 @@
+Mississippi Medicaid Provider Billing Handbook
+
+Section: ADA Dental Claim Form Instructions
+
+4.0 Dental Claim Form Instructions
+
+This section explains the procedures for obtaining reimbursement for dental services submitted to Medicaid.
+Mississippi Medicaid accepts both electronic and paper dental claims. Dentists are strongly encouraged to
+bill electronic claims to reduce the potential for error and speed reimbursement. This section only
+addresses billing procedures and must be used in conjunction with the Administrative Code Title 23 Part
+204. The Dental Fee Schedule is available on the Medicaid web site at http://www.medicaid.ms.gov or on the
+Web Portal at https:/ / ms-medicaid.com/ msenvision/ index.do. If you have questions, please contact the
+fiscal agent’s Provider and Beneficiary Services Call Center toll-free at 1-800-884-3222.
+
+
+Provider Types
+
+The follow ing provider types should bill using the Dental claim form :
+
+         Dentists
+         Federally Qualified Health Centers (FQHC) dentists
+         Rural Health Clinic (RHC) dentists
+
+
+
+
+                   Before You Bill Medicaid
+
+         Check the beneficiary’s eligibility for Med icaid .
+         Check the beneficiary’s eligibility for d ental services.
+         Check the beneficiary’s service lim its.
+         Check the proced ure code on the d ental fee schedule to d eterm ine if prior authorization is
+          need ed .
+         Check for other d ental insurance coverage.
+         Check the proced ure code on the fee sched ule to see if Mississippi Med icaid covers that cod e.
+         Check the current version of the ADA’s Current Dental Terminology code boo k for correct
+          proced ure cod es.
+         Check to see if the proced ure cod e requires tooth, surface, or quad rant indicators.
+         Check to see if co-payment is required .
+
+
+
+
+Current Dental Terminology (including procedure codes, nomenclature, descriptors and other data contained therein) is copyright © 2008 American
+Dental Association. All rights reserved. Applicable FARS/DFARS apply.
+
+
+
+
+                                                   ADA Dental Claim Form
+                                                       Instructions
+                                                       Page 1 of 11
+                                                           Mississippi Medicaid Provider Billing Handbook
+
+
+Electronic D ental Claims
+
+    Electronic d ental claims m ay be subm itted to Mississippi Med icaid by these m ethod s:
+       Using the Web Portal Claim s Entry feature
+       Using WINASAP (free softw are available from the fiscal agent)
+       Using other proprietary softw are purchased by the d ental provid er.
+Electronic d ental claims m ust be subm itted in a form at that is H IPAA com pliant w ith the AN SI X12
+Dental claim stand ard .
+
+
+Paper Dental Claims
+
+Claim s should be com pleted accurately to ensure proper claim adjud ication. Rem em ber the follow ing:
+
+       Com plete an original ADA American Dental Association Dental Claim form . Mississippi
+        Med icaid w ill only accept the ADA Am erican Dental Association Dental Claim form ; no other
+        versions w ill be accepted.
+       N o photocopied claim s w ill be accepted .
+       Use blue or black type or ink.
+       Be sure the inform ation on the form is legible.
+       Do not use highlighters.
+       Do not use correction fluid or correction tape.
+       Ensure that names, cod es, num bers, etc., print in the d esignated field s for proper alignm ent.
+       Claim m ust be signed . Rubber signature stam ps are acceptable.
+
+Multi-Page Paper Claims
+When subm itting ADA Am erican Dental Association Dental claim s form w ith m ultiple pages, please
+       follow these guid elines:
+
+       If the num ber of proced ures reported exceed s the num ber of lines available on one claim
+        (10 lines per claim ), the rem aining proced ures m ust be listed on a separate, fully com pleted
+        claim form .
+       Do not total the first form .
+       Staple or clip the 2 pages together.
+       If reporting TPL paym ent, indicate in field #35 on the first claim.
+       Only one copy of an attachm ent (e.g. EOB, EOMB, Consent Form ) is required .
+
+
+
+
+                                       ADA Dental Claim Form
+                                           Instructions
+                                           Page 2 of 11
+                                                        Mississippi Medicaid Provider Billing Handbook
+
+
+
+Paper Claims w ith Attachments
+
+When subm itting attachm ents w ith the ADA American Dental Association Dental claim form , please
+follow these guid elines:
+
+      Do not staple attachm ents m ore than once.
+      Any attachm ent should be m arked w ith the beneficiary’s nam e and Medicaid ID num ber.
+      For d ifferent claim s that refer to the sam e attachm ent, a copy of the attachm ent m ust
+       accom pany each claim .
+
+ Billing Tip
+
+
+
+     Be sure to include Treatment Authorization N umber (TAN ), timely filing Transaction Control
+N umber (TCN ), proper procedure codes, modifiers, units, etc. to prevent your claim from denying
+inappropriately.
+
+Claim Mailing Address
+
+Once the claim form has been com pleted and checked for accuracy, please m ail the com pleted claim
+form to:
+                                  Mississippi Medicaid Program
+                                         P. O. Box 23076
+                                     Jackson, MS 39225-3076
+
+
+
+
+                                    ADA Dental Claim Form
+                                        Instructions
+                                        Page 3 of 11
+                             Mississippi Medicaid Provider Billing Handbook
+
+
+ADA American Dental Association Dental Claim Form
+
+
+
+
+            ADA Dental Claim Form
+                Instructions
+                Page 4 of 11
+                                                      Mississippi Medicaid Provider Billing Handbook
+
+
+  ADA American Dental Association Dental Claim Form Instructions for Mississippi
+                                   Medicaid
+
+Field Requirement          Field Name and Instructions for ADA Dental Claim Form
+                      Type of Transaction: N ot Required .
+ 1    N ot Required
+                      Predetermination/Preauthorization N umber:              Enter TAN num ber for
+                      services that require PA and approval by the UM/ QIO. Refer to the
+       Required if
+ 2                    Ad m inistrative        Code       and      Dental         Fee     Sched ule      at
+       Applicable
+                      http:/ / w w w .m ed icaid .m s.gov for specific instructions about services that
+                      require PA.
+                      Company/Plan N ame, Address, City, State, and Zip Code: Enter the nam e
+                      and ad d ress for the insurance com pany that is the third party payer receiving
+                      the claim . For Mississippi Med icaid , enter Mississippi Med icaid Program ,
+ 3      Required
+                      P. O. Box 23076, Rid geland , MS 39225-3076. If the beneficiary has m ore than
+                      one d ental insurance plan and Med icaid is the second ary payer, enter the
+                      Med icaid ad d ress in this field and com plete field s 4 through 11 and field 17.
+                      Other D ental or Medical Coverage? Check “N O” if the patient d oes not
+                      have d ental coverage und er any other d ental or m ed ical benefit plan and d o
+ 4      Required
+                      not com p lete field s 5-11. Check “YES” if the patient has d ental coverage
+                      und er any other d ental or m ed ical plan.
+                      N ame of Policyholder/Subscriber w ith Other Coverage Indicated in #4
+                      (Last, First, Middle Initial, Suffix): If “yes” is checked in field #4, enter the
+       Required if
+ 5                    nam e of the policyhold er for the other d ental or m ed ical plan. If the patient
+       Applicable
+                      has other coverage through a spouse, d om estic partner or, if a child , through
+                      a parent, the nam e of the person w ho has other coverage is reported here.
+                      D ate of Birth (MM/D D /CCYY): If “yes” is checked in field #4, enter the d ate
+       Required if
+ 6                    of birth of the person listed in field #5. The d ate m ust be entered w ith tw o
+       Applicable
+                      d igits for the m onth and d ay, and four d igits for the year of birth .
+       Required if    Gender: If “yes” is checked in field #4, mark the gend er of the person w ho is
+ 7                    listed in field #5. Mark “M” for male or “F” for female as applicable.
+       Applicable
+                      Policyholder/Subscriber Identifier (SSN or ID #): If “yes” is checked in field
+       Required if    #4, enter the Social Security N um ber or the id entifier for the person listed in
+ 8
+       Applicable     field #5. The id entifier num ber is a num ber assigned by the payer/ insurance
+                      com pany to this ind ividual.
+       Required if    Plan/Group N umber: If “yes” is checked in field #4, enter the group plan or
+ 9
+       Applicable     policy num ber for the person id entified in field #5.
+                      Patient’s Relationship to Person N amed in Field #5: If “yes” is checked in
+       Required if
+ 10                   field #4, check the box correspond ing to the patient’s relationship to the other
+       Applicable
+                      insured nam ed in field #5.
+                      Other Insurance Company/D ental Benefit Plan N ame, Address, City, State,
+       Required if
+ 11                   Zip Code: If “yes” is checked in field #4, enter the com plete inform ation of
+       Applicable
+                      the ad d itional payer, benefit plan or entity for the insured nam ed in field #5.
+
+
+                                 ADA Dental Claim Form
+                                     Instructions
+                                     Page 5 of 11
+                                                       Mississippi Medicaid Provider Billing Handbook
+
+
+Field Requirement          Field Name and Instructions for ADA Dental Claim Form
+                      Policyholder/Subscriber N ame (Last, First, Middle Initial, Suffix), Address,
+ 12     Required      City, State, and Zip Code: Enter the com plete nam e, ad d ress and zip code of
+                      the Medicaid beneficiary receiving treatm ent.
+                      D ate of Birth (MM/D D /CCYY): Enter the Med icaid beneficiary’s d ate of
+ 13     Required
+                      birth w ith tw o d igits for the m onth and d ay and four d igits for the year.
+                      Gender: Mark “M” for male or “F” for female as applicable for the
+ 14     Required
+                      beneficiary’s gend er.
+                      Policyholder/Subscriber Identifier (SSN or ID #): Enter the full 9-digit
+ 15     Required      Med icaid ID num ber for the beneficiary as indicated on the beneficiary’s
+                      Med icaid ID card .
+ 16   N ot Required   Plan/ Group N um ber: N ot required .
+                      Employer N ame: Required if the beneficiary has other d ental insurance in
+       Required if
+ 17                   ad d ition to Med icaid . Enter the nam e of the policyhold er/ subscriber’s
+       Applicable
+                      em ployer.
+                      Relationship to Policyholder/Subscriber in #12 Above: Mark the
+                      relationship of the patient to the person id entified in field #12 w ho has the
+ 18     Required
+                      prim ary insurance coverage. For Med icaid beneficiaries, m ark the box titled
+                      “Self” and skip to field #24.
+ 19   N ot Required   Stud ent Status: N ot required .
+                      N am e (Last, First, Mid d le Initial, Suffix), Ad d ress, City, State, and Zip Cod e:
+ 20   N ot Required
+                      N ot required .
+ 21   N ot Required   Date of Birth (MM/ DD/ CCYY): N ot required .
+ 22   N ot Required   Gend er: N ot required .
+                      Patient ID/ Account# (Assigned by Dentist): N ot required .
+ 23   N ot Required
+                      Procedure D ate (MM/D D /CCYY): Enter the proced ure d ate for actual
+ 24     Required      services perform ed . The d ate m ust have tw o d igits for the m onth, tw o for the
+                      d ay, and four for the year.
+                      Area of Oral Cavity: Enter the area of the oral cavity designated by a tw o-
+                      d igit cod e as follow s:
+       Required if
+ 25                   00 Entire oral cavity                   10 Upper right quad rant
+       Applicable
+                      01 Maxillary arch                       20 Upper left quad rant
+                      02 Mandibular arch                      30 Low er left quad rant
+                                                              40 Low er right quad rant
+ 26   N ot Required   Tooth System : N ot required .
+
+
+
+
+                                 ADA Dental Claim Form
+                                     Instructions
+                                     Page 6 of 11
+                                                      Mississippi Medicaid Provider Billing Handbook
+
+
+Field Requirement           Field Name and Instructions for ADA Dental Claim Form
+                      Tooth N umber(s) or Letter(s): Enter the appropriate tooth num ber or letter
+                      w hen the proced ure directly involves a tooth or range of teeth. Otherw ise,
+                      leave blank.
+
+                      If the sam e proced ure is perform ed on m ore than a single tooth on the sam e
+                      d ate of service, report each proced ure cod e and tooth involved on separate
+                      lines on the claim form .
+
+       Required if    When a proced ure involves a range of teeth, the range is reported in this
+ 27
+       Applicable     field . This is d one either w ith a hyphen “ -“to separate the first and last tooth
+                      in the range (e.g., 1-4; 7-10; 22-27), or by the use of com m as to separate
+                      ind ivid u al tooth num bers or ranges (e.g., 1, 2, 4, 7-10, 3-5, 22-27).
+                      Supernum erary teeth in the perm anent d entition are id entified by tooth
+                      num bers 51 through 82; for prim ary d entition, supernum erary is id entified
+                      by placem ent of the letter “S” follow ing the letter id entifying the adjacent
+                      prim ary tooth. See Figure 4-2 for a list of procedure cod es that require either
+                      a tooth num ber or a quad rant cod e.
+
+                      Tooth Surface: Enter a tooth surface cod e w hen the proced ure perform ed by
+       Required if    tooth involves one or m ore tooth surfaces. See Figure 4-2 for a list of
+ 28
+       Applicable     proced ure cod es that require a surface cod e.
+
+                      Procedure Code: Enter the appropriate proced ure cod e from the current
+                      version of the Am erican Dental Association (ADA) Current Dental
+ 29     Required
+                      Term inology Manual.
+
+
+29a     Required      D iag Pointer: (“A” through “D ”: as applicale from Item 34a)
+
+
+29b   N ot Required   Qty
+
+                      D escription: Enter a brief d escription of the service provid ed (e.g.,
+ 30     Required      abbreviation of the proced ure cod e’s nom enclature).
+
+                      Fee: Report the d entist’s full fee or usual and custom ary charge. Do not
+ 31     Required      d ed uct co-paym ent from your usual and custom ary charge.
+
+31a   N ot Required   Other Fee(s): N ot required
+ 32     Required      Total Fee: Enter the sum of all fees from lines in field #31.
+                      Missing Teeth Information: Report a m issing tooth/ teeth w hen pertinent to
+       Required if
+ 33                   period ontal, prosthod ontic (fixed and rem ovable), or im plant proced ures.
+       Applicable
+
+
+
+                                 ADA Dental Claim Form
+                                     Instructions
+                                     Page 7 of 11
+                                                     Mississippi Medicaid Provider Billing Handbook
+
+
+Field Requirement          Field Name and Instructions for ADA Dental Claim Form
+
+ 34     Required      Diagnosis Cod e List Qualifier: (B for ICD-9-CM; AB for ICD-10-CM)
+
+                      Diagnosis Cod e(s)/ A, B, C, D (up to four, w ith the prim ary ad jacent to the
+34a     Required
+                      letter “A”)
+                      Remarks: If subm itting a claim that w as originally subm itted w ithin tw elve
+                      (12) m onths from the d ate of service, but is now ov er tw elve (12) m onths old ,
+       Required if    enter the 17-digit transaction control num ber (TCN ). If the beneficiary has
+ 35
+       Applicable     d ental insurance other than Med icaid , and Med icaid is the second ary payer,
+                      enter the payment am ount received from the prim ary d ental insurance in this
+                      field .
+                      Patient Consent: The beneficiary m ust sign his/ her name ind icating he/ she
+                      has agreed that he/ she has been inform ed of the treatm ent plan, the costs of
+                      treatm ent and the release of any inform ation necessary to carry out payment
+                      activities related to the claim . If the beneficiary cannot w rite his/ her nam e,
+                      he/ she should sign by a m ark and have a w itness sign his/ her nam e and
+                      ind icate by w hom the nam e w as entered . If the beneficiary is a m inor or is
+                      otherw ise unable to sign, any responsible p erson such as a parent or
+                      guard ian m ust enter the beneficiary’s nam e and w rite “By,” sign his/ her
+                      ow n nam e in the space, show his/ her relationship to the beneficiary, and
+ 36     Required      explain briefly w hy the beneficiary cannot sign. In lieu of having the
+                      beneficiary sign a claim form on each visit, the provid er m ay retain a copy of
+                      a statem ent of release signed by the beneficiary or his/ her guardian.
+                      Med icaid w ill allow a beneficiary signature for a lifetim e w hen the provid er
+                      has a signature authorization on file. On th e claim form , the provid er w ould
+                      enter “Signature on file” to satisfy the signature guid elines. If the beneficiary
+                      is unable to sign, the billing clerk m ay sign the beneficiary’s nam e and
+                      ind icate “By: (nam e of office person signing).” In ad dition, the rea son the
+                      beneficiary is not available m ust be specified .
+
+ 37   N ot Required   Insured ’s Signature: N ot required .
+                      Place of Treatment: Check the appropriate box to ind icate the place w here
+                      services w ere provid ed .
+
+                      Provider’s Office     Service provid ed in the d entist office
+ 38     Required
+                      Hospital              Service provid ed in the inpatient or outpatient hospital
+                      ECF                  Service provid ed in an extend ed care facility, e.g.,
+                                           nursing hom e, PRTF, ICF/ MR
+                      Other                 Service provid ed in a location other than those listed .
+ 39   N ot Required   N um ber of Enclosures (00 to 99): N ot required .
+ 40   N ot Required   Is Treatm ent for Orthod ontics? N ot required .
+ 41   N ot required   Date Appliance Placed (MM/ DD/ CCYY): N ot required .
+ 42   N ot Required   Months of Treatm ent Rem aining: N ot required .
+ 43   N ot Required   Replacem ent of Prosthesis? N ot required .
+ 44   N ot Required   Date of Prior Placem ent (MM/ DD/ CCYY): N ot required .
+                                ADA Dental Claim Form
+                                    Instructions
+                                    Page 8 of 11
+                                                     Mississippi Medicaid Provider Billing Handbook
+
+
+Field Requirement          Field Name and Instructions for ADA Dental Claim Form
+ 45   N ot Required   Treatm ent Resulting From : N ot required .
+ 46   N ot Required   Date of Accid ent (MM/ DD/ CCYY): N ot required .
+ 47   N ot Required   Auto Accid ent State: N ot required .
+                      Billing D entist N ame, Address, City, State, and Zip Code: Enter the nam e
+ 48    Required
+                      and com plete ad d ress of the billing d entist, d ental group, FQH C, or RH C.
+                      Billing D entist N PI (N ational Provider Identifier): Enter the appropriate
+                      N PI num ber for the billing d entist, d ental group, FQH C, or RH C. The NPI is
+ 49    Required       an id entifier assigned by the fed eral governm ent to all p rovid ers consid ered
+                      to be H IPAA covered entities. An NPI is required for paym ent of Med icaid
+                      claim s.
+ 50   N ot Required   License N um ber: N ot required .
+ 51   N ot Required   SSN or TIN : N ot required .
+ 52   N ot Required   Phone N um ber: N ot required .
+                      Additional Provider ID : Enter the Medicaid provid er num ber for the billing
+52A     Optional
+                      provid er, i.e., d entist, d ental group, FQH C, or RH C.
+                      Certification: Enter the signature of the treating or rend ering d entist and the
+                      d ate the form w as signed . The provid er m ust sign and d ate the claim form ; a
+                      rubber stam p signature is not acceptable. If anyone other than the provider is
+                      d esignated to sign the provid er’s nam e, a pow er of attorney m ust be on file
+ 53    Required
+                      and available on request. The provid er is certifying that it is u nd erstood that
+                      paym ent and satisfaction of the claim w ill be from fed eral or state fund s, and
+                      that any false claim s, statem ents, or d ocum ents or concealm ent of a m aterial
+                      fact m ay be prosecuted und er applicable fed eral and state law s.
+                      Treating D entist N PI: (N ational Provid er Id entifier): Enter the appropriate
+                      N PI num ber for the treating d entist. The N PI is an id entifier assigned by the
+ 54    Required
+                      fed eral governm ent to all provid ers consid ered to be H IPAA covered
+                      entities. An NPI is required for paym ent of Medicaid claim s.
+ 55   N ot Required   License N um ber: N ot required .
+ 56   N ot Required   Ad d ress, City, State, Zip Cod e: N ot required .
+                      Provider Specialty Code: Enter the cod e that ind icates the type of d ental
+                      professional w ho d elivered the treatm en t. Provid er specialty cod es, also
+                      know n as “provid er taxonom y” cod es, com e from the Dental Service
+56A    Required
+                      Provid ers section of the H ealthcare Provid ers Taxonom y cod e list, w hich is
+                      used in H IPAA transactions. The current full list of provid er taxonom y cod es
+                      is posted at w w w .w pc-ed i.com / cod es/ cod es.asp .
+ 57   N ot Required   Phone N um ber: N ot required .
+                      Additional Provider ID : Enter the Med icaid provid er num ber for the
+ 58     Optional
+                      treating or rend ering d entist.
+
+
+
+
+                                ADA Dental Claim Form
+                                    Instructions
+                                    Page 9 of 11
+                                                                                 Mississippi Medicaid Provider Billing Handbook
+
+
+
+                   Figure 4-1. Checklist of Required AD A D ental Claim Form Fields
+
+
+
+
+                                             Required if
+
+
+
+
+                                                                                                                               Required if
+                                             Applicable
+
+
+
+
+                                                                                                                               Applicable
+                                  Required
+
+
+
+
+                                                                      Required
+
+
+
+
+                                                                                                                    Required
+
+
+
+
+                                                                                                                                                        Required
+                                                           Optional
+
+
+
+
+                                                                                                                                             Optional
+       Dental Claim                                                                      Dental Claim
+       Checklist for                                                                     Checklist for
+
+
+
+
+                                                                      Not
+
+
+
+
+                                                                                                                                                        Not
+      Required Fields                                                                   Required Fields
+1 Type of Transaction                                                           29 Procedure Code                  
+2 Predetermination/                                                             29a Diag Pointer                   
+Preauthorization Number                                                          29b Qty                                                                
+3 Company/Plan Name,                                                            30 Description                     
+Address, City, State, Zip Code
+                                                                                 31 Fee                             
+4 Other Dental or Medical                                    
+Coverage?                                                                        31a Other Fee(s)                                                       
+5 Name of                                                                       32 Total Fee                       
+Policyholder/Subscriber with                                                     33 Missing Teeth Information                    
+Other Coverage Indicated in
+Field #4
+                                                                                 34 Diagnosis code List Qualifier   
+6 Date of Birth                                                                 34a Diagnosis Code                              
+7 Gender                                                                        35 Remarks                                      
+8 Policyholder/Subscriber                                                       36 Patient Consent                 
+Identifier (SSN or ID#)                                                          37 Insured’s Signature                                                  
+9   Plan/Group Number                                                           38 Place of Treatment              
+10 Patient’s Relationship to                                                   39 Number of Enclosures                                                 
+Person Named in Field #5                                                         40 Is Treatment for                                                     
+11 Other Insurance Company/                                                    Orthodontics?
+Dental Benefit Plan Name,                                                        41 Date Appliance Placed                                                
+Address, City, State, Zip Code                                                   42 Months of Treatment                                                  
+12 Policyholder/Subscriber                                                      Remaining
+Name, Address, City, State, Zip
+Code
+                                                                                 43 Replacement of Prosthesis?                                           
+13 Date of Birth                                                                44 Date of Prior Placement                                              
+                                                                                 45 Treatment Resulting From                                             
+14 Gender                         
+                                                                                 46 Date of Accident                                                     
+15 Policyholder/                  
+Subscriber Identifier (SSN or                                                    47 Auto Accident State                                                  
+    ID#)                                                                         48 Billing Dentist Name,           
+16 Plan/Group Number                                                            Address, City, State, Zip Code
+                                                                                 49 Billing Dentist NPI             
+17 Employer Name                                                                50 License Number                                                       
+18 Relationship to                                                              51 SSN or TIN                                                           
+Policyholder/Subscriber in #12
+Above                                                                            52 Phone Number                                                         
+19 Student Status                                                               52A Additional Provider ID                                  
+                                                                                 53 Certification                   
+20 Name, Address, City, State,                                         
+Zip Code                                                                         54 Treating Dentist NPI            
+21 Date of Birth                                                                55 License Number                                                       
+22 Gender                                                                       56 Address, City, State, Zip                                            
+                                                                                 Code
+23 Patient ID/Account#                                                 
+                                                                                 56A Provider Specialty Code        
+24 Procedure Date                 
+                                                                                 57 Phone Number                                                         
+25 Area of Oral Cavity                         
+                                                                                 58 Additional Provider ID                                   
+26 Tooth System                                                        
+27 Tooth Number(s) or                          
+   Letter(s)
+28 Tooth Surface                               
+                                                     ADA Dental Claim Form
+                                                         Instructions
+                                                         Page 10 of 11
+                                             Mississippi Medicaid Provider Billing Handbook
+
+
+
+
+          Figure 4-2. Required Fields for Certain Dental Procedure Codes
+
+        Surface    Tooth                               Surface       Tooth
+Code                        Quadrant         Code                               Quadrant
+                  Number                                            Number
+
+D1351                X                       D3310                     X
+D2140     X          X                       D3320                     X
+D2150     X          X                       D3330                     X
+D2160     X          X                       D4210                                  X
+D2161     X          X                       D4211                                  X
+D2330     X          X                       D4240                                  X
+D2331     X          X                       D4241                                  X
+D2332     X          X                       D4260                                  X
+D2335     X          X                       D4261                                  X
+D2390     X                                  D4341                                  X
+D2391     X          X                       D4342                                  X
+D2392     X          X                       D7140                     X
+D2393     X          X                       D7210                     X
+D2394     X          X                       D7220                     X
+D2750                X                       D7230                     X
+D2751                X                       D7240                     X
+D2752                X                       D7241                     X
+D2930                X                       D7250                     X
+D2931                X                       D7280                     X
+D2933                X                       D7310                                  X
+D2934                X                       D7311                                  X
+D2940                X                       D7320                                  X
+D3220                X                       D7321                                  X
+
+
+
+
+                            ADA Dental Claim Form
+                                Instructions
+                                Page 11 of 11
+

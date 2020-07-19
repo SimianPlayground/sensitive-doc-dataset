@@ -1,0 +1,568 @@
+                                               City Of Cheney
+                                      Cindy Niemeier, Finance Director
+                                                    609 Second Street
+                                                  Cheney, WA 99004
+                                                        509-498-9215
+                                    Email: cniemeier@cityofcheney.org
+
+
+
+
+               REQUEST FOR PROPOSAL
+TO PROVIDE INFORMATION TECHNOLOGY SUPPORT SERVICES
+
+
+
+                   CITY OF CHENEY
+           REQUEST FOR PROPOSAL 18-001
+                ISSUED April 26, 2018
+       PROPOSALS ARE DUE 5:00 p.m., JUNE 1, 2018
+
+
+
+         SUBMIT COMPLETED APPLICATION TO:
+
+                     City of Cheney
+                  Finance Department
+               Attention: Cindy Niemeier
+                   609 Second Street
+                  Cheney, WA 99004
+
+
+
+                Phone: (509) 498-9209
+              cniemeier@cityofcheney.org
+                 www.cityofcheney.org
+             INSTRUCTIONS AND ADMINISTRATIVE REQUIREMENTS
+
+I.     Issuing Agency
+
+       This Request for Proposal (RFP) is issued by the City of Cheney, Washington,
+       subsequently referred to as the “City.”
+
+II.    IT Services Request for Proposal (RFP) Specifications
+
+       To contract with the City of Cheney, applicants must be an established legal
+       entity, which includes possessing a Federal Tax Identification Number, as
+       required by IRS regulations, and a Uniform Business Identification Number,
+       required by the Washington State Department of Revenue.
+
+III.   Procurement Schedule
+
+       The following Time Table will be utilized for the awarding of a contract for
+       the City’s IT services and support:
+
+       Proposal Application Available              April 26, 2018
+
+       RFP Applicant’s Inquiries Due               May 14, 2018 by 11:00 a.m.
+
+       Answers to Applicants’ Inquiries Released   May 18, 2018
+
+       Deadline for Submission                     June 1, 2018 at 5:00 p.m.
+
+       Evaluation and Negotiations Completed       June 15, 2018
+
+       Contract Award Recommended to Council June 26, 2018
+
+       Contract Services Begin                     July 15, 2018
+
+IV.    General Instructions
+
+       a. Applicants’ Inquiries
+
+          All applicants’ inquiries are due on Monday, May 14, 2018 by 11:00 a.m.
+          Questions may be sent via email to: cniemeier@cityofcheney.org. No
+          inquiries, written or oral, will be accepted after this date.
+
+                                         2
+   In order for all potential Contractors to be treated equally, all questions
+   raised regarding the Request for Proposal process and the responses
+   made by the City of Cheney will be made available to all applicants.
+
+   Written responses to questions received through Monday, May 14, 2018
+   will be posted online at www.cityofcheney.org no later than May 18,
+   2018. Any follow-up questions will be due by May 23, 2018 with answers
+   posted to the website by 5:00 p.m. May 25, 2018. No further questions
+   will be taken after that time.
+
+b. Deadline for Submittal
+
+   All proposal documents must be completed and received no later than
+   9:00 a.m. Friday, June 1, 2018 at the following address:
+
+      City of Cheney
+      Attention: Cindy Niemeier
+      609 Second Street
+      Cheney, WA 99004
+
+c. Format
+
+   Proposal documents may be submitted in any reasonable format, as long
+   as all information requested is included. See “Submittal Requirements”
+   below.
+
+   Proposers shall submit one complete original and two (2) copies of the
+   original proposal.
+
+d. Period of Performance
+
+   The period of performance for contracts issued as a result of this RFP
+   process will be for a five-year period (beginning on July 15, 2018 and
+   ending on July 14, 2023). Mutually agreed-upon annual renewals may be
+   made for three (3) one-year periods.
+
+
+
+
+                                   3
+                           GUIDELINES FOR APPLICANTS
+
+I.     Introduction
+
+       The City of Cheney, Washington, is soliciting proposals from qualified
+       professional vendors for Information Technology support services. The
+       qualified vendor will maintain and improve information technology (IT)
+       effectiveness, enhance its quality of services, minimize down time and
+       support costs, ensure security of data, and maximize return on investment
+       in IT. The City does not have a professional IT staff. The vendor will work in
+       conjunction with City of Cheney Finance Director as the main point of contact
+       for the general city infrastructure, equipment, and employee needs and the
+       Police Director of Communications for all law enforcement related
+       equipment and requirements.
+
+II.    Background Information
+
+       The City of Cheney uses a wide variety of systems including but not limited
+       to VMware, Windows SQL, Windows Server 2008, Windows Server 2012 R2,
+       Windows Server 2016 Standard, Cisco, IBM AS400, ShoreTel IP phone
+       system, NetMotion Server, 20 city wide iPads, 25 windows based tablets, and
+       Windows based desktop operating systems. The City uses Fortinet firewalls
+       and VPN for remote server contact, and Net Motion VPN is used for mobile
+       vehicle units at the Police Department. The City has approximately 110
+       employees working at 9 locations within the city that require support and
+       are connected through a fiber backbone. The City has approximately 130
+       user workstations, 16 Windows Servers, and 2 IBM servers.
+
+III.   Scope of Work
+
+       The City of Cheney desires a fully outsourced IT management provider to
+       provide proactive maintenance, support, and other IT related functions. The
+       following details the minimum services to be provided to the City of Cheney
+       in the area of information services:
+
+       a. Initial Assessment
+
+          With the assistance of city staff, compile an inventory of all information
+          technology related assets, assess system assets, and make
+          recommendations for improved city-wide IT system performance.
+
+                                          4
+b. Desktop Applications Support
+
+   Perform basic support functions including installation of PC’s, laptops,
+   printers, and software; diagnose and correct desktop application
+   problems; configure laptops and desktops for standard applications; and
+   identify and correct hardware problems, performing advanced
+   troubleshooting. Assist designated City personnel with hardware and
+   software purchases as needed. Assist with warranty and other technical
+   support.
+
+c. Server Administration Services
+
+   Manage computer network and associated hardware, software,
+   communications, and operating system necessary for the quality,
+   security, performance, availability, recoverability, and reliability of the
+   system. Monitor server performance and capacity management services.
+   Ensure scheduled preventive maintenance for equipment is promptly
+   performed; develop back-up plans and procedural documentation for
+   active servers to include the 6 month Washington State Digital archive
+   backup. Confidentiality of information is vital. The selected vendor and
+   their employees will be required to sign and adhere to a confidentiality
+   clause that information in the system must remain confidential under
+   penalty of law. All vendor employees with access to the City network will
+   be required to undergo fingerprint background checks at the vendor’s
+   expense, training, and be expected to maintain CJIS security standards at
+   all times.
+
+d. Network Administration Services
+
+   Scope of activity includes all City network equipment including switches,
+   firewalls, routers, IP phone system and other security devices. Manage
+   backup and disaster recovery systems. The scope also includes primary
+   installation and maintenance of printers, network copiers/scanners,
+   group policy, software updates, etc. as deemed necessary. Monitor
+   network performance and capacity management services. Maintain city-
+   wide network diagram.
+
+
+
+
+                                   5
+e. Security
+
+   Maintenance of virus/malware detection and spam reduction programs
+   on City servers, email and all other City computers and laptops. Perform
+   security audits as requested and notify City personnel immediately of
+   suspected breaches of security. Assist the City of Cheney in complying
+   with best practices as well as ISB and CJIS requirements.
+
+f. Strategic Planning
+
+   Provide technical leadership for all technology issues.            Make
+   recommendations for future purchasing and technology needs. Keep City
+   up to date on new technology changes and uses that will enable the City
+   to increase efficiency and reduce costs. Install equipment including new
+   servers, software, and hardware and transfer data when required. Assist
+   with policy formulation and application.
+
+g. Help Desk Support
+
+   End user support must be timely, friendly, and professional. Urgent and
+   emergent support must be available 24/7/365. Routine support must be
+   available Monday – Friday from 7:00 a.m. to 5:00 p.m.
+
+h. End User Training
+
+   Provide training for various technology as needed. This would normally
+   be for common software or hardware used in a business setting or new
+   equipment installed. This can be at the request of the City or when a need
+   is identified by the vendor.
+
+i. Onsite Support
+
+   Provide regular scheduled and dedicated onsite support sixteen (16)
+   hours each month to address city-wide and/or departmental hardware
+   and software issues. Additional onsite support may be needed for major
+   projects.
+
+
+
+
+                                  6
+      j. Public Records
+
+         Provide assistance in public records key word searches through active and
+         archived e-mail and network files of current and former employees.
+         Preserve original metadata of e-mails and network files while saving
+         contents to electronic files. Vendor must be knowledgeable in
+         Washington State Public Record Laws.
+
+      k. Computer Inventory and Disposal
+
+         Vendor must provide monthly hardware inventory reporting and proper
+         and legal electronic disposal of surplus electronic equipment.
+
+IV.   Submittal Requirements
+
+      The following information shall be required in the RFP submittal:
+
+            • Letter of Transmittal, to include:
+
+               o Company name, address and telephone number of the firm
+                 submitting the proposal.
+
+               o Copy of current W-9.
+
+               o Briefly state your understanding of the services to be performed
+                 and make a positive commitment to provide the services as
+                 specified.
+
+               o Provide a statement which includes the language “proposal and
+                 cost schedule shall be valid and binding for ninety (90) days
+                 following proposal due date and will become part of the
+                 contract that is negotiated with the City.”
+
+            • General Vendor Information, to include:
+
+               o Length of time in business.
+
+               o Total number of clients and total number of public sector
+                 clients.
+
+                                        7
+   o Number of full-time personnel and number specifically assigned
+     for customer support. Identify names and major certifications
+     of key personnel who will actually provide the information
+     technology services. Summarize the experience and technical
+     expertise of these staff. The local availability of the staff
+     providing these services will be an important consideration.
+
+   o Location of the office that would service our account.
+
+• Describe your approach to providing these services and your
+  methodology for providing ongoing support.
+
+• Provide the name, title, address, and contact information of three
+  (3) references of clients for whom you have provided similar
+  services. Please provide information referencing the actual
+  services provided, customer size (number of users), and the length
+  of time you have provided services to this client.
+
+• Support Services – Please answer the following:
+
+   o Is help desk support available?
+
+   o When is support available? (Indicate xx a.m. to xx p.m. and the
+     days of the week.)
+
+   o How are charges for support structures documented and
+     tracked?
+
+   o Describe your problem escalation process, including:
+
+       Initial problem identification.
+
+       Determination of priority and severity of problem.
+
+       Steps for resolving problem escalation when a solution is not
+        forthcoming or an implemented solution is unsatisfactory.
+
+   o Indicate your response time goals and your statistics regarding
+     meeting that goal.
+
+                            8
+           • As a municipal government, City departments include those of
+             Police, Fire, Light, Water, and Wastewater. Explain your familiarity
+             and experience in the support of the specialized technology
+             requirements of these departments. With the understanding that
+             these departments operate on a 24/7, 365 days per year schedule,
+             what would your availability be in the event of any technology
+             issues requiring immediate attention during any non-routine
+             business hours?
+
+           • Beyond the scope of the RFP, what services (related or otherwise)
+             does your organization provide that could benefit and/or may be
+             of interest to the City?
+
+           • Cost of Services:
+
+              o The proposal must include a fee schedule that indicates either
+                hourly rates or a flat monthly rate for the proposed services.
+
+              o Describe how your services are priced, and any specific pricing
+                you are able to provide.
+
+              o Define any additional charges (e.g. travel expenses).
+
+              o Define any tiers of service and costs associated with those tiers.
+
+V.   Evaluation and Criteria Process
+
+     Staff will make a recommendation to the City Council for their review and
+     award of the contract. Staff will evaluate and rate each submittal based upon
+     the following criteria:
+
+                         Evaluation Table                % of Points
+         Experience & personnel experience                    25%
+         Understanding of the City’s needs and                25%
+         services to be provided
+         Compatibility with end users and City staff          10%
+         needs
+         Satisfaction of clients/end users                     5%
+         Availability                                          5%
+         Cost                                                 30%
+
+                                        9
+VI.    Contract
+
+       The City anticipates a five-year contract that will be renewable for an
+       addition (3) three one-year periods. Renewal of the contract will require City
+       Council reauthorization. All fees should be set for an annual term and clearly
+       state that in the proposal. The City expects all submitting firms to consent
+       to the City Scope of Work and Specifications. Exceptions desired must be
+       noted in the proposal submittal. The City reserves the right to revise the
+       stated contract terms and conditions prior to contract signature.
+
+VII.   Termination of Contract
+
+       The contract may be terminated by mutual agreement in writing or it may be
+       terminated at any time by either party by delivery of a sixty (60) day written
+       notice to the other party.
+
+VIII. Inquiries
+
+       Inquiries regarding this RFP should be directed to:
+          City of Cheney
+          RFP-18-001 - IT Services
+          Attention: Cindy Niemeier
+          609 Second Street
+          Cheney, WA 99004
+
+          Phone: (509) 498-9215
+          Email: cniemeier@cityofcheney.org
+
+IX.    Submission Instructions
+
+       The City reserves the right to request additional written or oral information
+       to supplement all written statements of qualifications or proposals.
+
+       Submit all material no later than June 1, 2018 at 5:00 p.m. to:
+          City of Cheney
+          RFP-18-001 - IT Services
+          Attention: Cindy Niemeier
+          609 Second Street
+          Cheney, WA 99004
+
+
+                                         10
+X.     RFP Amendments
+
+       The City reserves the right to change the schedule or issue amendments to
+       the RFP at any time. The City also reserves the right to cancel or reissue the
+       RFP.
+
+XI.    Vendor’s Cost to Develop Proposal
+
+       Costs for developing proposals in response to the RFP are entirely the
+       obligation of the vendor and shall not be chargeable in any manner to the
+       City.
+
+XII.   Withdrawal of Proposals
+
+       Proposals may be withdrawn at any time prior to the submission time
+       specified in this RFP, provided notification is received in writing. Proposals
+       cannot be changed or withdrawn after the time designated for receipt.
+
+XIII. Rejection of Proposals – Waiver of Informalities or Irregularities
+
+       The City reserves the right to reject any or all proposals, to waive any minor
+       informalities or irregularities contained in any proposal, and to accept any
+       proposal deemed to be in the best interest of the City.
+
+XIV. Single Response
+
+       A single response to the RFP may be deemed a failure of competition, and in
+       the best interest of the City of Cheney, this RFP may be terminated,
+       readvertised, or may choose to negotiate with submitting vendor.
+
+XV.    Proposal Validity Period
+
+       Submission of the proposal will signify the vendor’s agreement that its
+       proposal and the content thereof are valid for 180 days following the
+       submission deadline and will become part of the contract that is negotiated
+       between the City and the successful vendor.
+
+
+
+
+                                         11
+XVI. City Taxation
+
+      The contractor awarded contract will be required to obtain a City of Cheney
+      Business License.
+
+XVII. Public Records
+
+      Under Washington state law, the documents (including but not limited to
+      written, printed, graphic, electronic, photographic or voice mail materials
+      and/or transcriptions, recordings or reproductions thereof) submitted in
+      response to this request for proposals (the “documents”) become a public
+      record upon submission to the City, subject to mandatory disclosure upon
+      request by any person, unless the documents are exempted from public
+      disclosure by a specific provision of law. If the City receives a request for
+      inspection or copying of any such documents provided by a vendor in
+      response to this RFP, it will promptly notify the vendor at the address given
+      in response to this RFP that it has received such a request. Such notice will
+      inform the vendor of the date the City intends to disclose the documents
+      requested and affording the vendor a reasonable opportunity to obtain a
+      court order prohibiting or conditioning the release of the documents. The
+      City assumes no contractual obligation to enforce any exemption.
+
+XVIII. Acquisition Authority
+
+      This RFP and acquisition are authorized pursuant to RCW 39.04.270.
+
+XIX. Contract Award and Execution
+
+      The City reserves the right to make an award without further discussion of
+      the proposal submitted. Therefore, the proposal should be initially
+      submitted on the most favorable terms the vendors can offer. It is
+      understood that the proposal will become a part of the official file on this
+      matter without obligation to the City.
+
+      The City reserves the right to request clarification of information submitted
+      and to request additional information from any proposer.
+
+      Any proposal may be withdrawn up until the date and time set above for
+      opening of the proposals. Any proposal not so timely withdrawn shall
+      constitute an irrevocable offer, for a period of ninety (90) days to sell the City
+                                          12
+      the services described in the attached specifications, or until one or more of
+      the proposals have been approved by the City administration, whichever
+      occurs first.
+
+      The general conditions and specifications of the RFP and as proposed by the
+      City and the successful vendor’s response, as amended by agreements
+      between the City and the vendor, will become part of the contract
+      documents. Additionally, the City will verify vendor representations that
+      appear in the proposal. Failure of the vendor’s products to meet the
+      mandatory specifications may result in elimination of the vendor from
+      competition or in contract cancellation or termination.
+
+      The vendor selected as the apparently successful vendor will be expected to
+      enter into a contract with the City. The City reserves the right to reject any
+      proposed agreement or contract that does not conform to the specifications
+      contained in this RFP, and which is not approved by the City Attorney.
+
+      If the selected vendor fails to sign the contract within five (5) business days
+      of delivery of the final contract, the City may elect to cancel the award and
+      award the contract to the next highest‐ranked vendor.
+
+XX.   Defense, Indemnification, Hold Harmless and Insurance Requirements
+
+      In addition to other standard contractual terms the City will need, the City
+      will require the selected vendor to comply with the defense, indemnification,
+      hold harmless and insurance requirements as outlined below.
+
+      Proposer shall defend, indemnify and hold the City, its officers, officials,
+      employees and volunteers harmless from any and all claims, injuries,
+      damages, losses or suits including attorney fees, arising out of or resulting
+      from the acts, errors or omissions of the Consultant in performance of this
+      Agreement, except for injuries and damages caused by the sole negligence
+      of the City.
+
+      The vendor shall procure and maintain, for the duration of this Agreement,
+      insurance against claims for injuries to persons or damages to property
+      which may arise from or in connection with the performance of the work
+      hereunder by the Contractor, his agents, representatives, employees or
+      subcontractors. The cost of such insurance shall be paid by the Contractor.
+
+
+                                         13
+XXI. Equal Opportunity Compliance
+
+      The City is an equal opportunity employer and requires all Proposers to
+      comply with policies and regulations concerning equal opportunity.
+
+      The Proposer, in the performance of this Agreement, agrees not to
+      discriminate in its employment because of the employee’s or applicant’s
+      race, religion, national origin, ancestry, sex, sexual preference, age, or
+      physical handicap.
+
+XXII. Other Compliance Requirements
+
+      In addition to nondiscrimination and affirmative action compliance
+      requirements previously listed, the Proposer awarded a contract shall
+      comply with federal, state and local laws, statutes, and ordinances relative
+      to the execution of the work. This requirement includes, but is not limited
+      to, protection of public and employee safety and health, environmental
+      protection, waste reduction and recycling, the protection of natural
+      resources, permits, fees, taxes, and similar subjects.
+
+XXIII. Ownership of Documents
+
+      Any reports, studies, conclusions, and summaries prepared by the Proposer
+      shall become the property of the City.
+
+XXIV. Confidentiality of Information
+
+      All information and data furnished to the Proposer by the City, and all other
+      documents to which the Proposer’s employees have access during the term
+      of the contract, shall be treated as confidential to the City. Any oral or
+      written disclosure to unauthorized individuals is prohibited.
+
+
+
+
+                                        14
+

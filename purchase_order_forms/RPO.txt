@@ -1,0 +1,103 @@
+                                                                         EAST SIDE UNION HIGH SCHOOL DISTRICT
+                                                                    REQUEST FOR PURCHASE ORDER
+                                              REQUISITIONER TO COMPLETE                                                                          DISTRICT OFFICE USE ONLY
+SUGGESTED                                             PHONE                       REQUEST DATE                                 APPROVED                B.T. PENDING             P.O. NO. ASSIGNED
+ VENDOR                                                                                                                        PURCHASING                               Date
+                                                                                                                               AGENT                   FINANCE             OD
+PRICES QUOTED BY NAME                             DATE                 BID NO.              DELIVERY DATE REQUESTED
+                                                                                                                                                VANDALISM REPORT NO.            DATE
+ADDRESS                                     REQUISITIONER              SCHOOL               DEPARTMENT
+
+                                                                                                                                      Non Confirming       Confirm To:
+CITY                             ZIP CODE         ACCOUNT NO.
+                                                                                                                                  Telequote             3 Written Quotes         Price Verify
+                                                   FUND       LOC    PRGM    GOAL        FUNC   OBJECTRESOURCE YR     M/CODE
+ITEM NO. QTY          UNIT                          DESCRIPTION                                    UNIT PRICE   EXTENSION                                                  PHONE (        )
+                                                                                                                               VENDOR ASSIGNED
+
+                                                                                                                      0.00
+                                                                                                                               ADDRESS                                     ATTN.
+                                                                                                                      0.00
+                                                                                                                               CITY                                        ZIP CODE
+                                                                                                                      0.00
+
+                                                                                                                      0.00
+                                                                                                                                                       WAREHOUSE- ATTENTION
+                                                                                                                                                       SCHOOL & REQUISITIONER
+                                                                                                                      0.00
+                                                                                                                               DELIVER
+                                                                                                                               TO:                      W- CALL
+                                                                                                                      0.00
+
+                                                                                                                      0.00                             OTHER- ATTEN. OF___________________
+
+
+                                                                                                                               CONF.                                F            DESTINATION
+                                                                                                                      0.00     TO                                   O
+                                                                                                                                                                                SHIPPING POINT
+                                                                                                                                                                    B
+                                                                                                                      0.00     DATE
+                                                                                                                                                                    Ship Via:
+
+                                                                                                                      0.00     TERMS                                     UPS       TRUCK         V/D
+
+                                                                                                                               DEL.
+                                                                                                                      0.00     DATE
+                                                                                                                                                                         FREIGHT PREPAID & ADD
+
+                                                                                                                      0.00
+                                                                                                                                          Do Not Mail Vendor Copy
+
+                                                                                                                      0.00
+                                                                                                                                       RETURN TO REQUESTOR
+       WILL PICK UP                                              Delete Info                     SUB-
+                                                                                                 TOTAL                0.00
+                                                             (SIGNATURE)- REQUISITONER
+  VANDALISM             REPAIR      REPLACEMENT
+                                                                                                 SALES
+                                                                                                 TAX                           REMARKS :
+VANDALISM REPORT:                                           (SIGNATURE)-DEPARTMENT HEAD
+                                                                                                 FREIGHT
+   ATTACHED TO REQUEST FOR
+                                                                                                 CHARGES
+   PURCHASE ORDER
+                                                             (APPROVED)- ADMINISTRATOR           GRAND
+   FORWARDED TO BUSINESS OFFICE                              AUTHORIZED TO EXPEND FUNDS          TOTAL                0.00
+
+                                                                    Instructions are on second page.
+East Side Union High School District
+Business Services
+
+Request for Purchase Order Form Application
+
+You do not need FileMaker Pro to use this program.
+
+Once you have properly installed the compressed program, you should see a folder
+called "RPO.fmp". Inside that folder you will find two files - "RPO.fmp" and
+"RPO_original.fmp". Double click on the "RPO_original.fmp" file and the program
+should begin running. If you have used the computer version of this form before
+or are familiar with FileMaker Pro, most of the functions should be familiar to
+you.
+
+Your RPO program has no records to begin. In order to create a new record you
+must go to the menu bar and select "Record/New Record". You may note there is a
+key combination you may use.
+
+Fill in all the information as you would on a hard copy of this document.
+
+You must fill in QTY and UNIT PRICE and the program will automatically compute
+the EXTENSION and SUB-TOTAL. You have two lines to describe the item, but you
+may use as many as necessary. Simply do not enter information into the QTY and
+UNIT PRICE fields and move to the next DESCRIPTION line.
+
+You must compute the tax and enter the information. Again the program will add
+the SUB-TOTAL, SALES TAX, and FREIGHT CHARGES to get the GRAND TOTAL.
+
+The last step is to print the form out and sign it.
+
+This program will store all of the PO's you create. If you have to create a
+second PO for the same vendor, you may find your previously created PO and
+duplicate it. You will then only have to change the dates, item information, and
+possibly the account numbers. Again, those commands are located in the menu bar
+under "Record".
+

@@ -1,0 +1,2174 @@
+Caribbean Electric Utility Services Corporation
+
+
+
+
+       REQUEST FOR PROPOSAL (RFP) for
+        Information, Communications &
+    Technology (ICT) Infrastructure Upgrades
+                                                                               Contents
+1.      INTRODUCTION ...............................................................................................................................................3
+     1.1 STATEMENT OF PURPOSE .............................................................................................................................3
+     1.2 OVERALL OBJECTIVES ..................................................................................................................................4
+     1.3 STRUCTURE OF RFP ........................................................................................................................................5
+2. INSTRUCTIONS TO BIDDERS ...........................................................................................................................6
+     2.1 PRELIMINARY INSTRUCTIONS ....................................................................................................................6
+     2.2 OVERALL INSTRUCTIONS .............................................................................................................................6
+     2.3 ELIGIBILITY REQUIREMENTS ......................................................................................................................7
+     2.4 INFORMATION / DOCUMENTS TO BE SUPPLIED BY BIDDER ...............................................................8
+     2.5 QUALIFICATION OF BIDDERS ......................................................................................................................9
+     2.6 ONLY ONE BID PER BIDDER ....................................................................................................................... 11
+     2.7 BID EXPENSES................................................................................................................................................ 11
+     2.8 SITE INSPECTION........................................................................................................................................... 11
+     2.9 HEALTH AND SAFETY.................................................................................................................................. 12
+     2.10 INSURANCE .................................................................................................................................................. 12
+     2.11 LIQUIDATED DAMAGES ............................................................................................................................ 12
+3. BID DOCUMENTS ............................................................................................................................................... 13
+     3.1 CONTENT OF BID DOCUMENTS ................................................................................................................. 13
+     3.2 EXPLANATIONS CONCERNING BID DOCUMENTS ................................................................................ 14
+     3.3 AMENDMENTS TO BID DOCUMENTS ....................................................................................................... 14
+     3.4 LAW .................................................................................................................................................................. 14
+4. PREPARATION OF BIDS ................................................................................................................................... 15
+     4.1 LANGUAGE OF BIDS ..................................................................................................................................... 15
+     4.2 CONTENT AND PRESENTATION OF BID................................................................................................... 15
+     4.3 BID PRICES ...................................................................................................................................................... 16
+     4.4 CURRENCY OF BID AND PAYMENT .......................................................................................................... 16
+     4.5 PERIOD OF VALIDITY OF BID ..................................................................................................................... 16
+5. SUBMISSION OF BIDS ....................................................................................................................................... 17
+     5.1 SEALING AND MARKING OF BIDS ............................................................................................................ 17
+     5.2 EXTENSION OF TIME FOR SUBMISSION OF BIDS .................................................................................. 17
+     5.3 CLOSING DATE .............................................................................................................................................. 17
+     5.4 LATE BIDS ....................................................................................................................................................... 17
+     5.5 BID ALTERATIONS AND WITHDRAWALS ............................................................................................... 17
+6. OPENING AND EVALUATION OF BIDS ........................................................................................................ 18
+     6.1 CONFIDENTIALITY OF PROCEDURE ......................................................................................................... 18
+
+
+
+                                                                                        1
+   6.2 CLARIFICATION OF BIDS............................................................................................................................. 19
+   6.3 CHECKING OF BIDS AND COMPLIANCE WITH THE REQUIREMENTS ............................................. 19
+   6.4 EVALUATION AND COMPARISON OF BIDS............................................................................................. 20
+   6.5 EVALUATION CRITERIA .............................................................................................................................. 20
+7. AWARD OF CONTRACT ................................................................................................................................... 24
+   7.1 RECOMMENDATION FOR AWARD ............................................................................................................ 24
+   7.2 RIGHT TO ACCEPT ANY BID AND TO REJECT ANY OR ALL BIDS ..................................................... 24
+   7.3 NOTIFICATION OF AWARD, CONTRACT CLARIFICATIONS ................................................................ 24
+   7.4 CONTRACT SIGNING AND PERFORMANCE GUARANTEE ................................................................... 25
+   7.5 COMMENCEMENT OF WORKS ................................................................................................................... 26
+   7.6 ETHICS CLAUSES........................................................................................................................................... 26
+   7.7 DISCLAIMERS................................................................................................................................................. 26
+   7.8 CONFIDENTIALITY AND FREEDOM OF INFORMATION ....................................................................... 27
+   7.9 CANVASSING AND COLLUSIVE BIDDING ............................................................................................... 27
+8. TECHNICAL SPECIFICATIONS ...................................................................................................................... 28
+   8.1 LOT 1: Unified Communication System (UCS) or VOIP Hybrid PBX. ........................................................... 28
+      8.1.1 SUMMARIZED CONSIDERATIONS FOR THE UC SOLUTION ......................................................... 34
+      8.1.2 MAINTENANCE CONTRACT AND SERVICE LEVELS ...................................................................... 46
+   8.2 LOT 2: Partial PRI or IP voice Trunking........................................................................................................... 46
+      8.2.1 Fixed to Mobile Calling .............................................................................................................................. 47
+      8.2.2 Quality of Service Requirements: ............................................................................................................... 47
+   8.3 LOT 3: Internet Services ................................................................................................................................... 48
+      8.3.1 Quality of Service Requirements ................................................................................................................ 48
+   8.4 LOT 4: MOBILE PLANS ................................................................................................................................ 49
+      8.4.1 GENERAL SERVICE REQUIREMENTS ................................................................................................ 49
+      8.4.2 OTHER REQUIREMENTS ....................................................................................................................... 50
+      8.4.3 OTHER CONSIDERATIONS ................................................................................................................... 51
+      8.4.4 Mobile Phone Service Specifications ......................................................................................................... 51
+   8.5 LOT 5: SYSTEM UPGRADES ON ICT PLATFORM .................................................................................... 55
+      8.5.1 OBJECTIVE ............................................................................................................................................... 55
+      8.5.1 DESCRIPTION OF REQUIRED SERVICES ........................................................................................... 56
+
+
+
+
+                                                                                  2
+1. INTRODUCTION
+
+The Caribbean Electric Utility Services Corporation (CARILEC) is an association of electric
+services, dealers, manufactures and other stakeholders operating in the electricity industry in the
+Caribbean region, Central and South Americas and Globally. The CARILEC Secretariat (based
+in Saint Lucia) endeavors to improve communication among its members, providing technical
+information, training, capacity building, conference and other services. The Secretariat plays a
+leading role in electric utility advocacy, growth and sustainability in the Caribbean region,
+Central and South Americas.
+
+
+       1.1 STATEMENT OF PURPOSE
+
+CARILEC is seeking proposals from suitably experienced and qualified bidders for an enterprise
+level Unified Communications (UC) Solution to be installed and configured at CARILEC’s main
+office at Sans Souci, Castries. UC is an increasingly important investment for CARILEC, which
+is looking to improve productivity and responsiveness while reducing its Information
+Communications Technology (ICT) costs. The convergence of voice, video, and data
+communications around a shared network infrastructure allows CARILEC to simplify the way in
+which they communicate through digital media.
+
+
+In addition to traditional methods of digital communication such as voice calls and messaging,
+there is an ever increasing need for collaboration and integrated productivity solutions which
+shall enable its users to communicate from anywhere, using any device, on any network (Internet
+included for overseas business travels) in a cost-effective, reliable and secure manner. The
+solution shall deliver people-centric user and administrative experiences while supporting the
+full range of collaboration services including video, voice, Instant Messaging (IM) and presence,
+messaging and mobility on any third-party devices.
+
+
+CARILEC has plans for a new modern building and anticipates that any investment made in
+technology presently will serve their needs in the future. It is anticipated that this building will
+
+
+                                                 3
+facilitate space rental to other entities. CARILEC would like to make available the UCS
+available to its tenants at an all-inclusive rate thereby making their rental offerings even more
+attractive. The bidder is expected to make significant allowance for this functionality in their
+proposal.
+
+       1.2 OVERALL OBJECTIVES
+
+
+    a. Extending flexibility that fits CARILEC’s business requirements. The solution shall
+        offer a centralized appliance or server based system capable of multiuser tenanting with
+        a minimum capacity of 100 users. This shall also include fixed to mobile convergence
+        improvements to help integrate mobile and desk phones using standards-based IP
+        Multimedia Subsystem (IMS) integration and the provision of a common feature base,
+        regardless of the device or the operating system that is used.
+    b. Least cost routing (LCR) through partial PRI or SIP trunk connectivity to the local
+        exchange and the internet. Additionally capability for fixed to mobile plans and
+        international direct dialing.
+    c. Cost avoidance through LCR and Dial via Office Reverse Call-back (DVO-R) is a major
+        requirement especially for frequent travelers to assist in the reduction of roaming
+        charges.
+    d. Security is a major consideration for CARILEC which needs to balance the
+        restrictiveness of a highly secure environment with the greater collaboration, mobility
+        and productivity that an open system affords.
+    e. Suitably customized mobile plans which take into consideration the general calling
+        patterns of CARILEC’s employees and their current data usage.
+    f. Reliable mission critical internet service which can facilitate software as a service
+        (SaaS), online training, video and audio conferencing and VoIP.
+    g. CARILEC focused maintenance agreements which provide suitable key performance
+        indicators for monitoring service delivery, response times, quality and availability.
+
+
+
+
+                                                4
+        1.3 STRUCTURE OF RFP
+
+
+This RFP is divided into five Lots, Responses to this RFP may be for any one of the Lots or a
+multiple of the Lots. The lots are described as follows:
+    •   Lot 1 speaks to a proposal for the purchase of a Unified Communication System along
+        with a 3-5 year term maintenance contract.
+    •   Lot 2 speaks to the provision of a partial PRI or SIP trunks for interconnection with the
+        local and international network. Also included in this lot is the provision of a Fixed to
+        mobile calling service to facilitate least cost routing.
+    •   Lot 3 speaks to the provision on lease terms of a fast and reliable internet service capable
+        of meeting the mission critical nature of CARILEC’s business.
+    •   Lot 4 speaks to the provision of customized mobile plans designed for maximum
+        efficiency, productivity with cost reduction.
+    •   Lot 5 speaks to the provision of an upgraded ICT environment with all the essential
+        enhancements of a modern ICT infrastructure.
+
+
+It is therefore not anticipated that all contracts will be signed with a single provider although that
+is a possibility.
+
+
+Further to any contract awarded under this RFP, it is anticipated that the features mentioned will
+be implemented with utmost care and detail. All responses to this RFP are to be submitted no
+later than Friday, 5th April, 2019 at 4:00 pm.
+
+
+
+
+                                                   5
+    2. INSTRUCTIONS TO BIDDERS
+
+        2.1 PRELIMINARY INSTRUCTIONS
+
+In submitting his/her bid, the Bidder accepts in full and without restrictions the special and
+general conditions, including any addendum, governing this contract as the sole basis of this
+bidding procedure, whatever may be his/her own conditions of sale, which he/she hereby waives.
+
+
+Bidders are expected to examine carefully and comply with all instructions, forms, terms and
+specifications contained in this bid dossier. Failure to furnish on time all the required information
+and documentation, or the submission of bids not substantially responsive in every respect to the
+bid dossier may result in the rejection of the Bid.
+
+
+NOTE:
+The Bid Dossier is the document drafted by CARILEC and which contains the necessary
+documents for the preparation and presentation of an offer.
+
+
+
+        2.2 OVERALL INSTRUCTIONS
+
+Bidders shall submit their offers for the whole Works or any part thereof as required per this Bid
+dossier. Bids will be accepted for individual lots.
+
+
+The Bidder shall bear all costs associated with the preparation and submission of his Bid and
+CARILEC will in no case be responsible or liable for those costs, regardless of the conduct or
+outcome of the Bidding process.
+
+
+
+
+                                                  6
+    2.3 ELIGIBILITY REQUIREMENTS
+
+•   Bid participation is open on equal terms to all qualified Vendors.
+
+
+•   The terms refer to all legal entities, companies, partnerships, constituted under and
+    governed by the laws of Saint Lucia.
+
+
+•   Bidders shall certify that they meet conditions and prove their eligibility by a document,
+    drawn up in accordance with the laws of Saint Lucia. CARILEC may accept other
+    satisfactory evidence that these conditions are met.
+
+
+•   Bidders shall not be considered eligible if they:
+
+
+       o Are bankrupt or being wound up, are having their affairs administered by the
+           courts, have entered into arrangements with creditors or have suspended business
+           activities;
+       o Are the subject of proceedings for a declaration of bankruptcy, for winding up, for
+           administration by the courts, for arrangements with creditors or for similar
+           procedure provided for under the laws of Saint Lucia;
+       o Have been convicted of an offence concerning professional conduct;
+       o Are guilty of grave professional misconduct proven by any means which
+           CARILEC can justify;
+       o Are guilty of serious misrepresentation in supplying the information required by
+           CARILEC as a condition of participation in an invitation to bid or contract;
+       o They have been declared to be in serious breach of contract for failure to comply
+           with obligations in connection with another contract previously tendered by
+           CARILEC.
+
+
+
+
+                                              7
+       2.4 INFORMATION / DOCUMENTS TO BE SUPPLIED BY BIDDER
+
+In order for Bidders to be considered eligible for award of Contract it will be necessary for them
+to provide evidence that they meet or exceed certain minimum qualifying criteria. This evidence
+shall be provided by Bidders in the form of the information and documents described below,
+through the provision of all parts of each Bidder’s Bid, and in whatever additional form Bidders
+may wish to utilize.
+
+
+All Bidders must supply the following information and documents with their Bid:
+
+
+          i.   Copies of documents showing the organization chart of their organization.
+               a. General Information about the Bidder.
+               b. Organizational Chart
+               c. Power of Attorney (As may be required)
+
+
+         ii.   Information about the Bidder’s technical qualifications.
+
+
+        iii.   A presentation of the Bidder’s organization.
+
+
+        iv.    A list of staff proposed to be employed for the execution of the Contract,
+               including CV’s of key employees. In this particular case, the following members
+               of staff will be taken into consideration; Project Manager, Quality Control
+               Manager, Lead Engineer, IT Practitioner
+
+
+         v.    A Work Programme with brief descriptions of major activities showing the order
+               of procedure and timelines in which the Bidder proposes to carry out the Works.
+               In particular, the proposal shall detail the temporary and permanent works to be
+               constructed. The Bidder shall submit a comprehensive Method statement with
+               drawings where applicable, showing the methods proposed by the Bidder for
+
+
+
+
+                                                8
+               carrying out the Works. In particular, the Bidder shall indicate the numbers, job
+               titles of the workforce he proposes to use on the major activities of the work.
+
+
+ vi.           Evidence of relevant experience in execution of Works of a similar nature,
+               including the extent and value of the relevant contracts, as well as Works in hand
+               and contractually committed to. The Evidence shall include successful experience
+               as the prime Contractor in implementation of at least two (2) projects of the same
+               nature and complexity comparable to the bid works during the last 10 years.
+
+
+vii.           An outline of the Quality Assurance System(s) to be used.
+
+
+viii.          Any other relevant information.
+
+
+2.5 QUALIFICATION OF BIDDERS
+
+The minimum qualifying criteria for each Bidder include:
+          i.      The Bidder shall carry out at least 70% of the Contract Works by his own
+                  means, defined as meaning that he must have the equipment, materials, human
+                  and financial resources necessary to enable him to carry out his percentage of
+                  the contract.
+
+
+        ii.       If the Bidder is a sole Bidder he also must have access to credit and other
+                  financial facilities adequate to assure the required cash flow for the duration of
+                  the contract. In any case the credit amount should exceed US$25,000.00.
+
+
+        iii.      The Bidder shall have completed at least 2 projects of the same
+                  nature/amount/complexity comparable to the bid works. The Procuring
+                  Authority reserves the right to ask for copies of the respective certificates of
+
+
+
+
+                                                 9
+           final completion signed by the project managers / Procuring Authority of the
+           concerned projects.
+
+
+    iv.    All his key personnel shall have a minimum of 4 years of adequate experience
+           and proven qualifications relevant to works of a similar nature to this project.
+
+
+Bids submitted by companies being partners of two or more firms forming a Joint
+Venture / Consortium shall additionally fulfill the following requirements:
+
+
+     v.    The bid shall comprise all information required above for each partner of the
+           Joint venture/Consortium as well as the summary data for execution of Works
+           by the Bidder.
+
+
+    vi.    The Bid shall be signed in a way that legally binds all partners.
+
+
+    vii.   One partner shall be appointed as the Leading Partner responsible for the
+           Contract and such appointment shall be confirmed by submission of Powers
+           of Attorney signed by legally authorized signatories representing all
+           individual partners.
+
+
+   viii.   The Bid shall include a preliminary agreement or letter of intent stating that
+           all partners shall be legally responsible, jointly and severally, for the
+           execution of the Contract, that the Leading Partner shall be authorized to
+           obligate and receive instructions for and on behalf of each and all the partners,
+           and that the execution of the contract, including payments, shall be the
+           responsibility of the Leading Partner.
+
+
+
+
+                                         10
+     ix.    All partners in the Joint Venture/Consortium shall be bound to remain in the
+            Joint Venture/Consortium for the whole period of the execution of the
+            Contract.
+
+
+2.6 ONLY ONE BID PER BIDDER
+
+A Bidder may participate in only one Bid, either individually or as a partner in a Joint
+Venture/Consortium for the same Contract. Submission or participation by the Bidder in
+more than one Bid for a Contract will result in the disqualification of all Bids for that
+Contract in which the party is involved. The same company may only participate as a
+sub-contractor in different Bids, if it is justified by market specificities.
+
+
+2.7 BID EXPENSES
+
+All costs associated with the preparation and submission of the Bid shall be exclusively
+for the account of the Bidder.
+
+
+CARILEC shall not be responsible for, or pay for, any expenses or losses of which kind
+may be incurred by the Bidder in connection with visits to, and examination of the site of
+the Works, or of any other aspect of this Bid.
+
+
+2.8 SITE INSPECTION
+
+The Procuring Authority will facilitate site visits by all Bidders requesting to do so in
+order to familiarize them with the scope of works.
+
+
+It is the responsibility of each Bidder to make detailed visit and site inspection of the
+Works and it surrounds for the purpose of assessing, at his own responsibility, expense
+and risk, the scope of works and all data which may be necessary to prepare his Bid and
+sign the Contract for the Works.
+
+
+                                           11
+2.9 HEALTH AND SAFETY
+
+The Bidder must demonstrate his willingness, in writing, to take due precautions, at his
+own cost, to ensure the safety of the general public and, his staff and labour and, in
+collaboration with and to the requirements of local health authorities, to ensure that first
+aid and medical services are easily accessible at all times throughout the period of the
+Contract.
+
+
+The Bidder must demonstrate his willingness, in writing, to take all reasonable steps to
+make sure the work done is carried out in a safe manner. This includes having a health
+and safety plan for the site and making sure employees:
+
+
+   •   Have the right training to do the work.
+   •   Follow all relevant safety procedures.
+   •   Use tools and equipment in a safe manner.
+   •   Safely store and secure all materials, equipment and tools.
+
+
+The Bidder must demonstrate his willingness, in writing, to be responsible for following
+all safety procedures, rules guidelines and regulations in force or that may be required at
+the time of execution of such works.
+
+
+2.10 INSURANCE
+
+The Bidder must demonstrate his willingness, in writing, to provide third party liability
+and workers liability for the duration of the job.
+
+
+2.11 LIQUIDATED DAMAGES
+
+The Bidder must demonstrate his willingness, in writing, to provide Liquidated Damages,
+where Liquidated Damages is defined as "a sum which a party to a contract agrees to pay
+
+
+                                          12
+ or a deposit which he agrees to forfeit if he breaks some promise and which, having been
+ arrived at by a good faith effort to estimate in advance the actual damage which would
+ probably ensue the breach, are legally recoverable or retainable as agreed damages if the
+ breach occurs."
+
+
+
+
+3. BID DOCUMENTS
+
+
+ 3.1 CONTENT OF BID DOCUMENTS
+
+ The set of Bid Documents should be read in conjunction with any Clauses that reference
+ a Performance Bond, Performance Security or Performance Guarantee
+
+
+ Bidders shall be solely responsible for examining with appropriate care the Bid
+ Documents, including those Design Documents available for inspection, any Addendum
+ to the Bid Documents issued during the bidding period, and for obtaining reliable
+ information with respect to any and all conditions and obligations which may in any way
+ affect the amount or nature of the Bid or the execution of the works. In the event that the
+ Bidder is successful, no claim for alteration of the Bid Amount will be entertained on the
+ grounds of errors or omissions in the obligations of the Bid described above.
+
+
+ The Bidder shall provide all documents required by the provisions of this Bid Dossier.
+ All such documents, without exception, shall be strictly in accordance with the conditions
+ and provisions contained within the Bid Documents and with no alterations made by the
+ Bidder. Bids which are not compliant with the requirements of the Bid Documents shall
+ be rejected.
+
+
+
+
+                                         13
+3.2 EXPLANATIONS CONCERNING BID DOCUMENTS
+
+Bidders may submit questions in writing on or before Monday 18th March 2019. The
+Procuring Authority must reply to all Bidders’ questions no later than Monday 25th March
+2019.
+Copies of written responses will be sent to all Bidders (including the query but without
+identifying the source of the enquiry). Bidders should confirm receipt of these answers in
+writing within 3 days.
+
+3.3 AMENDMENTS TO BID DOCUMENTS
+
+CARILEC may amend the Bid Documents through the issuance of addenda at any time
+before the bid submission deadline date.
+
+
+        Each Addendum published must constitute a part of the Bid Documents and shall
+        be sent, in writing, to all known Bidders.
+
+
+        Receipt of each addenda must be acknowledged by the bidder, via an email.to the
+        Responsible Officer.
+
+
+        CARILEC may, as necessary extend the deadline for submission of Bids to give
+        Bidders sufficient time to take into account such Addendum when preparing Bids.
+
+
+3.4 LAW
+
+By submitting their Bids, Bidders are considered to have become familiar with all
+relevant Laws, Acts and Regulations of Saint Lucia that in any manner affect, or apply to
+the operations and activities under the Bid and subsequent Contract.
+
+
+The laws of Saint Lucia shall govern this Bid.
+
+
+
+                                           14
+    4. PREPARATION OF BIDS
+
+       4.1 LANGUAGE OF BIDS
+
+       The Bid and all correspondence and documents related to the Bid exchanged by the
+       Bidder and the Procuring Authority shall be written in the language of the procedure, the
+       English language.
+
+
+       4.2 CONTENT AND PRESENTATION OF BID
+
+       Bids shall comply with the following conditions:
+
+
+              The bidder is required to submit one original, marked “original”, and 2 copies
+              signed in the way as the original.
+
+
+               Technical and financial bids to be contained in ONE sealed plain envelope or
+              package and marked: "CONFIDENTIAL”.
+
+
+       Bid Envelope should be clearly marked:
+       Attn: Executive Director
+       CARILEC
+       Desir Avenue
+       Sans Souci
+       P.O Box CP5907
+       Castries
+       Saint Lucia
+
+
+Both the financial and the technical envelopes should be placed in one sealed envelope marked
+“CONFIDENTIAL” and submitted to the Procurement Unit addressed as follows:
+
+
+Bid For: Bid for the Information, Communication & Technology Upgrades for CARILEC
+
+
+                                               15
+ The closing date for submission is Friday April 5th 2019. Bids should be submitted prior to
+4:00pm “Closing Time” on Friday, April 5th, 2019 “Closing Date”.
+
+
+      4.3 BID PRICES
+
+      The Bid Price shall be detailed by Lot as described in the Bid Documents.
+
+
+              The Bidder shall provide a breakdown of the Bid Lump Sum in US Dollars.
+
+
+              If discount is offered by the Bidder, it must be clearly specified in the breakdown
+              of the Bid Lump Sum
+
+
+      4.4 CURRENCY OF BID AND PAYMENT
+
+      The currency of Bid is United States Dollars (USD). All sums in the breakdown of Bid
+      Lump Sum, Questionnaire, and other documents shall be expressed in United States
+      Dollars (USD).
+
+
+      Payments shall be made only at the request of the Contractor, approved by CARILEC.
+
+
+      4.5 PERIOD OF VALIDITY OF BID
+
+      Bids shall remain valid for a period of 90 days after the deadline for submission of Bids
+      indicated in the Notice of Invitation to Bid. Any Bid valid for a shorter period shall be
+      rejected.
+
+
+      The successful Bidder must maintain its Bid for a further 60 days from the date of
+      notification of award.
+
+
+
+
+                                              16
+5. SUBMISSION OF BIDS
+
+  5.1 SEALING AND MARKING OF BIDS
+
+  The Bids shall be delivered by hand, registered mail, or courier to CARILEC’s main
+  office at Sans Souci. Bidders shall seal the original and all the copies of the Technical
+  and Financial Bid in a single envelope or package.
+
+
+  5.2 EXTENSION OF TIME FOR SUBMISSION OF BIDS
+
+  CARILEC may, at its sole discretion, extend the deadline for submission of Bids by
+  issuing a Notice of said extension. In such case, all rights and obligations of CARILEC
+  and the Bidder regarding the original date specified in the Notice of Invitation to Bid
+  shall be subject to the new date.
+
+
+  5.3 CLOSING DATE
+
+  Proposals are to reach CARILEC’s main Office at Sans Souci, no later than 4:00pm on
+  Friday, 5th April 2019.
+
+
+  5.4 LATE BIDS
+
+  All Bids received after the deadline for submission will be returned unopened to the
+  Bidder.
+
+
+  5.5 BID ALTERATIONS AND WITHDRAWALS
+
+  Bidders may modify or withdraw their Bids by written notification prior to the deadline
+  as stated above. No Bid may be modified or withdrawn after the deadline for submissions
+  of Bids.
+
+
+
+
+                                         17
+        Any such notification of modification or withdrawal shall be prepared, sealed, marked
+        and submitted as stipulated above and the envelope shall, in addition, be clearly marked
+        as “Modification” or “Withdrawal”.
+
+
+
+     6. OPENING AND EVALUATION OF BIDS
+
+
+
+Bids shall be opened in a closed session by CARILEC
+
+
+Bids will be opened using the single-envelope process and as such there will be one opening.
+
+
+At the opening, envelopes marked “Withdrawal” shall be opened and read aloud and recorded
+first. Any bid subject to a withdrawal notice shall be returned unopened to the respective
+representative. ‘Modification’ envelopes will be opened next.
+
+
+After the opening of the Bids, qualifying bidders will be advised. Thereafter no further
+information will be provided until the evaluation process is complete and winning bidders are
+notified.
+
+
+        6.1 CONFIDENTIALITY OF PROCEDURE
+
+Information concerning checking, explanation, opinions and comparison of Bids, and also
+recommendations concerning the award of Contract, shall not be disclosed to Bidders or to any
+other person who is not officially involved in the process until the name of the successful Bidder
+is announced.
+
+
+Any attempt by a Bidder to directly approach any member of the CARILEC, or its Evaluation
+Committee during the evaluation period shall be considered as a legitimate reason to disqualify
+that Bidder’s Bid.
+
+
+
+                                               18
+       6.2 CLARIFICATION OF BIDS
+
+Bids which are incomplete, conditional, illegible and obscure, or that contain any other
+irregularities may be rejected.
+
+
+The Evaluation Committee may, at its discretion - without benefit to bidder and without
+prejudice to the interest of other bidders - ask any Bidder to clarify any aspect of his/her Bid,
+when this is required to check and compare Bids.
+
+
+       6.3 CHECKING OF BIDS AND COMPLIANCE WITH THE REQUIREMENTS
+
+Before a detailed analysis of Bids is undertaken the Evaluation Committee shall determine if
+each Bid:
+   •   has been properly signed, and in its substance complies with the requirements stated in
+       the Instructions to Bidders.
+   •   A complying Bid is one which conforms to the requirements and specifications described
+       in the Bid Documents without essential deviations or restrictions. Essential deviations
+       and reservations include those which:
+                   o in any way influence the scope, quality or execution of the Works, or
+                   o limit the rights of CARILEC or the obligations of the Bidder under the
+                       Contract in a way inconsistent with the Bid Documents, or
+                   o whose rectification would unfairly affect the competitive position of other
+                       Bidders representing the Bids.
+
+
+   •   If any Bid does not comply with the requirements of the Bid Documents, it shall be
+       rejected by the Evaluation Committee during the conformity check:
+
+
+
+
+                                                19
+6.4 EVALUATION AND COMPARISON OF BIDS
+
+The Evaluation Committee shall evaluate and compare only those Bids determined as
+substantially compliant in accordance with the stipulations outlined herein.
+
+
+The aim of the Bid Evaluation process is to identify the Bidder who is most likely to
+enable the Procuring Authority to achieve its objectives of having a completed facility on
+time, meeting the required quality criteria and within the budget for the Works. The
+evaluation of the Bids may take into account not only Design, Construction and
+Installation costs, but also operation cost and resources required (ease of operation and
+maintenance) in line with the evaluation criteria and requirements of the technical
+specifications as specified within the Bid Documents.
+
+
+The above will feature in the assessment of which Bid (if any) appears to be in the
+Procuring Authority’s best interests. The Evaluation Committee will scrutinize in detail
+all of the information supplied by the Bidders and will formulate its judgement on the
+basis of the evaluation criteria as stated herein.
+
+
+The Government of Saint Lucia reserves the right to seek such clarification on any part
+of, and verification of information submitted, on any part of the Bidder’s offer as the
+Evaluation Committee may consider necessary for the evaluation of the offer.
+
+
+6.5 EVALUATION CRITERIA
+
+Bids must be delivered in a single package. Each package should contain one envelope;
+The envelope should contain three (3) sets of the combined technical proposals, and
+financial proposals. One copy should be marked “Original” and will rule in case of
+discrepancies. The Bid should contain a letter of transmittal agreeing to the terms of
+competition.
+
+
+
+                                           20
+       Evaluation of proposals will use the one-envelope process. Evaluation of the technical
+       and financial portion of the will be done together in accordance to the criteria outlined in
+       the table below.
+
+
+Criteria for evaluating the Technical Proposal for the various Lots are shown in Tables below:
+
+
+Criteria for evaluating Bids for Lot 1 and Lot 5
+              Area                               Subsection                                  Section
+                                                 Weighting                                   Weighting
+         A    Overall Program Concept            Indication that the vendor has a well- 7%
+                                                 defined concept and program structure
+                                                 for all components of service desired
+                                                 by CARILEC (Including equipment,
+                                                 availability, training and start-up time)
+         B    Project               Management Indication of Project Management 7%
+              Methodology                        Capabilities for Large Scale data
+                                                 networks; focus on solution and
+                                                 timeline and achieve desired results
+         C    Understanding                      Indication that the vendor understands 7%
+                                                 the nature of CARILEC services and
+                                                 constraints in providing those services
+                                                 and that the vendor has thoroughly
+                                                 analyzed     CARILEC        needs    and
+                                                 requirements
+         D    Financial Condition                Indication that the vendor, or vendors 10%
+                                                 is financially stable and able to
+                                                 provide related services in its entirety
+         E    History and Description of Firm    Provide a brief history and description 7%
+
+
+
+
+                                                21
+                                       of your firm. The description should
+                                       include the size(number of employees)
+                                       and areas of specialization
+F   Credentials of Staff               Indication of the Qualifications and 15%
+                                       experience of the personnel proposed
+G   References                         Provide       the     names,       telephone 7%
+                                       numbers, emails and addresses of at
+                                       least     three     business      references;
+                                       Particular attention will be given to the
+                                       quality     of      the    response       from
+                                       references.       Issues   that    will     be
+                                       addressed            include          contract
+                                       performance, quality of personnel,
+                                       responsiveness, etc.
+H   Soundness of Solution              The solution is one that meets the 15%
+                                       requirements of the CARILEC current
+                                       and future needs.
+I   Warranty     and       Maintenance Provide details of warranty service 10%
+    Services                           being offered for the solution
+J   Price                              Provide details on tool(s) used to 15%
+                                       manage the switches being used for
+                                       the solution
+Total                                                                                   100%
+
+
+
+
+                                      22
+Criteria for evaluating Bids for Lot 2 and Lot 3:
+
+ Rated Criteria Category                                    Weighting   Minimum
+                                                            (Points)    Threshold
+                                                                        (75%)
+ Experience/Qualifications     of        implementing   WAN 20          15.00
+ Communication Links
+ Responses to business/technical requirements               35          26.25
+ Conformity to the General Requirements                     20          15.00
+ Subtotal of Technical Score                                75          56.25
+
+ Financial Score                                            Weighting
+                                                            (Points)
+ Cost of proposed Services/ Commercial Evaluation           25          N/A
+
+ Total Points                                               100         N/A
+
+
+Criteria for evaluating Bids for Lot 4
+
+
+ Rated Criteria Category                                    Weighting   Minimum
+                                                            (Points)    Threshold
+                                                                        (75%)
+ Experience/Qualifications Providing Mobile Services        20          15.00
+ Responses to business/technical requirements               35          26.25
+ Conformity to the General Requirements                     20          15.00
+ Subtotal of Technical Score                                75          56.25
+
+ Financial Score                                            Weighting
+                                                            (Points)
+ Cost of proposed Services/ Commercial Evaluation           25          N/A
+
+ Total Points                                               100         N/A
+
+
+
+
+                                                23
+7. AWARD OF CONTRACT
+
+ 7.1 RECOMMENDATION FOR AWARD
+
+ The Evaluation Committee shall recommend to CARILEC the Bidder whose Bid has
+ been determined to be the responsive bidder with the highest combined score.
+
+ 7.2 RIGHT TO ACCEPT ANY BID AND TO REJECT ANY OR ALL BIDS
+
+ CARILEC, reserves the right to accept or reject any Bidder and/or cancel the whole
+ process of Bidding and/or reject all Bids at any time before awarding the Contract
+ without liability to itself. CARILEC reserves the right to initiate a new Bid process.
+
+
+ Should the Bid sum of the successful Bid exceed the available budget, CARILEC
+ reserves the right to negotiate with the relevant Bidder with the aim of reducing the scope
+ of the Work and or revising other provisions of the Contract, which shall produce
+ reductions in contract value satisfactory to CARILEC.
+
+
+ CARILEC reserves the right to conclude the Contract agreement with the successful
+ Bidder for the sum of available funds only.
+
+
+ 7.3 NOTIFICATION OF AWARD, CONTRACT CLARIFICATIONS
+
+ CARILEC will notify the selected Bidder, in writing, that his bid has been considered the
+ most favourable.
+
+
+ This notification may be in the form of an Invitation to contract clarifications, listing a
+ number of issues to be the subject of the discussion. The output of the Contract
+ clarifications will be reflected in a memorandum of Contract clarifications, to be signed
+
+
+
+
+                                          24
+by both parties, which shall then be included in the Contract Documents forming a part of
+the Contract.
+
+
+Only the signed Contract Agreement shall constitute an official commitment on the part
+of the CARILEC and no activities can commence before the Contract Agreement has
+been signed by CARILEC and the successful Bidder.
+
+
+7.4 CONTRACT SIGNING AND PERFORMANCE GUARANTEE
+
+The successful Bidder will be required to enter into a Contract Agreement with
+CARILEC.
+
+
+Prior to the signing of the Contract the Bidder could further be required to provide an up-
+to-date financial statement. This statement shall indicate the Bidder’s access to credit
+facilities sufficient to ensure his liquidity during his Contract performance. In case of
+failure by the Bidder in providing this statement, the Bidder will no longer be considered
+and the Bidder whose Bid has been evaluated as second most advantageous may be
+invited for contracting and so forth.
+
+
+Upon signing of the contract by the successful Bidder:
+   •   The successful Bidder shall become the Contractor; and
+
+
+   •   The Contract shall become effective.
+
+
+If the successful Bidder fails to sign the Contract and/or any financial guarantee required
+within 10 days after receipt of notification, CARILEC may consider the acceptance of the
+Bid to be cancelled without prejudice to any claims, rights or remedies CARILEC may
+have in respect of such failure and the successful Bidder shall have no claim whatsoever
+on CARILEC.
+
+
+
+                                        25
+7.5 COMMENCEMENT OF WORKS
+
+Following the signature of the contract by both parties, CARILEC’s Representative will
+issue a written “Notice to Commence the Works” in accordance with the Contract.
+
+
+The Contractor shall inform CARILEC’s Representative by return of the date of receipt
+of the notice.
+
+
+7.6 ETHICS CLAUSES
+
+Any attempt by the candidate or Bidder to obtain confidential information, enter into
+unlawful agreements with competitors or influence CARILEC personnel involved in the
+procurement process during the process of examining, clarifying, evaluating and
+comparing bids will lead to the rejection of his candidacy or Bid.
+
+
+When putting forward a candidacy or bid, the Candidate or Bidder must declare that he is
+affected by no potential conflict of interest, and that he has no particular link with other
+Bidders or parties involved in the project.
+
+
+7.7 DISCLAIMERS
+
+The information in this Bid is provided for information only. No representation, warranty
+or undertaking, express or implied, is or will be made and CARILEC shall have no
+responsibility or liability as to, or in relation to, the accuracy or completeness of this Bid
+or any other written or oral information made available to any party responding to this
+Bid ("Bidders") or their advisers. No information contained in this Bid will form the basis
+of any warranty or representation made by or on behalf of CARILEC to any Bidder.
+
+
+No response made by or on behalf of CARILEC to any proposal received in response to
+this Bid shall constitute an agreement or contract between the CARILEC and any Bidder.
+
+
+                                          26
+All Bidders responding to this Bid do so at their own cost and expense and no
+reimbursement shall be made by CARILEC whether or not an award of contract is made.
+
+
+CARILEC is not bound to accept the lowest or any Bid and shall be free to abandon the
+procurement pursuant to which this Bid is issued at any time.
+
+
+CARILEC reserves the right to procure any part, or none, of the services proposed as it
+considers necessary.
+
+
+7.8 CONFIDENTIALITY AND FREEDOM OF INFORMATION
+
+This Bid and the information it contains are confidential and may be used only for the
+purposes of preparing and submitting a response to this document. Any unauthorized use
+by any Bidder of the information contained in this Bid may lead to disqualification of that
+Bidder. This Bid and its accompanying documents are and shall remain the property of
+CARILEC and any party receiving a copy of the same will return them upon demand by
+CARILEC. Return postage will be refunded.
+
+
+7.9 CANVASSING AND COLLUSIVE BIDDING
+
+Any Bidder who directly or indirectly canvasses any official of CARILEC or any other
+official involved in the procurement process concerning the award of the contract for the
+provision of the Services or who directly or indirectly obtains or attempts to obtain
+information from any official concerning any other Proposal for the Services will be
+disqualified.
+
+
+       Any Bidder who:
+       •   fixes or adjusts the indicative pricing contained within its proposal by or in
+           accordance with any agreement or arrangements with any other person; or
+
+
+
+                                        27
+        •   communicates to any person, other than through the submission of the sealed
+            bid, the amount or approximate amount of its proposal (except where such
+            disclosure is made in confidence in order to obtain quotations necessary for
+            the preparation of the proposal for insurance); or
+        •   enters into any agreement or arrangement with any other person that he shall
+            refrain from submitting a proposal or as to the indicative pricing contained
+            within any proposal to be submitted; or
+        •   offers or agrees to pay or give or does pay or give any sum of money,
+            inducement or valuable consideration directly or indirectly to any person for
+            doing or having done or causing or having caused to be done in relation to any
+            other Proposal for the Services any act or omission;
+
+
+        shall without prejudice to any other civil remedies available to CARILEC (and
+        without prejudice to any criminal liability which such conduct by a Bidder may
+        attract) be disqualified.
+
+
+8. TECHNICAL SPECIFICATIONS
+
+ 8.1 LOT 1: Unified Communication System (UCS) or VOIP Hybrid PBX.
+
+
+ Implementation of a VOIP Hybrid (Physical and Cloud) PBX Solution to include the
+ following:
+
+
+ The bidder is required to provide a modern unified communications system meeting the
+ following requirements:
+    1. Open architecture which does not lock the business into a single vendor or
+        deployment strategy.
+    2. Multi user single site hosted premise system with cloud connectivity
+
+
+
+
+                                         28
+       a. Allow for tenanting of the system between two or more separate
+           organisations while maintaining individuality and billing of each entity.
+3. Capacity of up to 100 users with immediate requirements for 35 IP handsets:
+       a. Five (5) high end handsets
+       b. Ten (10) middle tier handsets
+       c. Eighteen (18) basic handsets
+       d. Two (2) IP Conference devices
+4. Enhanced mobility capability with one number, extension to cellular etc.
+       a. Enable Telecommuters and travelling employees to use VoIP and the
+           corporate network to reduce international and long distance charges.
+5. Softphone application for Windows or IPad, capable of the following:
+       a. make and receive voice and video calls and
+       b. Send and receive email and Instant Messages
+       c. Manage presence status and view the presence and on call status of other
+           users
+       d. Start a Web Collaboration session
+       e. Initiate a Meet Me or Ad hoc conference
+       f. Access call history and contacts including system, personal, and local
+6. Web based user portal
+7. Integration with Microsoft Outlook
+8. Conferencing,
+       a. provide at least 64 ad Hoc user conferencing
+       b. at least 64 Meet-Me user conferencing capability
+       c. Capable of Conference scheduling
+       d. Web collaboration
+9. IP based appliance or server based system
+10. Cost avoidance and Least cost routing- the solution shall ensure that mobile
+   communications shall have features such as Dial via Office (which intelligently
+   routes mobile calls through the corporate system to remove long-distance or
+
+
+                                    29
+   international costs) and IP soft-phone capabilities on the smart devices which
+   allow for securely placing and receiving calls over a corporate Wi-Fi network or
+   any Wi-Fi hotspot;
+11. Security -This must be an integral part of this solution with signaling encrypted
+   using industry standard Transport Layer Security and audio encryption using
+   Secure Real Time Protocol or other suitable industry approved methods. Some
+   protection against man in the middle attacks is necessary. This can be
+   implemented using Third Party Server Certificate Validation or other suitable
+   method to create a trust relationship with the UCS. The bidder shall consider the
+   following:
+       a. Pervasive control - the enforcement of security shall be done within the
+           network, CARILEC infrastructure. The hosting of essential features such
+           as session encryption, intrusion prevention and spam blocking is more
+           easily managed there as is the ability to trace, identify and grant or deny
+           access to any resource under highly granular policy control in real time.
+           The UC Solution shall employ a comprehensive “defense-in-depth”
+           security framework that has been proven in the most demanding enterprise
+           environments;
+       b. Pervasive access -The UC solution shall provide wide legitimate access to
+           users without imposing cumbersome procedures. A secure mobility client
+           for accessing UC services from smartphones and tablets (mobile devices)
+           shall be included. It shall provide secure connectivity in a lightweight
+           customizable download including an always-on intelligent VPN, built-in
+           web security, malware defense and compliance validation and smooth
+           handoff between wired and wireless networks with low administrative
+           overhead; and
+       c. Survivability - The UC security considerations shall also include the
+           ability to survive an attack from a worm or virus that may temporarily
+           cripple servers. The solution end-to-end approach shall encompass both
+
+
+                                    30
+                  the network and the entire telephony system and shall guarantee dial tone
+                  even in worst-case denial-of service (DoS) scenarios. The unified
+                  communication capabilities shall still be online even if head offices and
+                  WAN links are affected.
+12. Enterprise-Class Support - The Unified Communication solution shall not add
+   unnecessary burden to IT operations. Several areas to consider here include the depth of
+   vendor support, the manageability of the solution and its ability.
+
+   To provide the following services and monitoring and reporting of same:
+
+a. Vendor support commitment - Areas to carefully examine are the degree to which the
+   proponent has committed to support CARILEC users directly rather than through third
+   parties, provision of global coverage on a 24x7x365 basis and implementation of
+   comprehensive troubleshooting and escalation processes to ensure a successful outcome;
+
+b. The Solution provided shall have global technical support services which provide direct
+   access to the solution engineers and expertise, sophisticated diagnostics, real-time trace
+   tools and rigorous escalation policies that are tracked until the case is resolved;
+
+c. Enterprise-class provisioning - Provisioning of the UC system shall require careful
+   configuration of each service to each client and server within CARILEC. Static exercises
+   that create a semi-permanent maintenance overhead for IT and delays for CARILEC’s
+   business shall be avoided;
+
+d. The UC architecture may include a service advertisement framework that allows servers,
+   clients and applications the ability to advertise and discover their services dynamically
+   thus significantly reducing IT maintenance and delays;
+
+e. Monitoring and reporting - Administrators shall have access to a wide range of real-time
+   monitoring, diagnostics and reporting tools to keep the Unified Communication solution
+   running smoothly. They shall be able:
+
+     i.   To automatically scan and inventory the entire system end to end;
+
+
+
+                                             31
+ ii.       Adjust utilization and quality levels;
+
+ iii.      Set customized alerts and notifications; and
+
+ iv.       Obtain comprehensive reports and statistics that can help capacity planning and
+           service-level agreement (SLA) measurement.
+
+Additional Features and Benefits:
+
+The UCS must include the following features and benefits among others:
+1. One Number Access
+       •   Provide a single office phone number to customers
+       •   Configure calls to ring simultaneously to any other phone (mobile, remote office,
+           home), thus eliminating missed calls while keeping the secondary phone number
+           hidden
+2. Collaboration via Integrated Conferencing Capabilities
+       •   64-party conferencing capacity
+       •   Up to 64 parties on a single conference call
+       •   Increase communication with staff, vendors, suppliers, and customers while
+           cutting costs
+3. Advanced Call Routing and Auto Attendants
+       •   Route calls to the appropriate person or group based on caller identification
+       •   Provide options to callers in queue via easily customizable automated attendants
+       •   Customize caller greetings so key clients receive a personalized message
+4. Embedded Professional Voicemail
+       •   No additional hardware required
+       •   Retrieve voicemail messages from any telephone or via the email inbox
+       •   Save, delete, forward, repeat, rewind, fast forward, and skip messages
+5. Additional Basic Call Features
+       •   Automatic Callback
+       •   Caller Identification
+
+
+                                             32
+          •   Hold Call Waiting
+          •   Message Waiting Indication
+          •   Multilingual Automation capabilities
+          •   Location Time Zone setting
+          •   Music on Hold
+          •   Park and Page
+          •   Toggle Calls
+          •   Transfer
+
+
+
+      Least Cost Routing – The UCS must be configured to route calls over the most cost
+      effective route to facilitate cost avoidance and reduction for CARILEC
+
+
+
+
+Figure: VoIP PBX solution example
+
+
+
+                                             33
+        8.1.1 SUMMARIZED CONSIDERATIONS FOR THE UC SOLUTION
+
+
+The bidder shall be responsible for ensuring that the following is relevant or higher are provided
+with the solution:
+
+
+Licensing       and      a. User licensing based on user profiles
+
+Reporting
+
+
+Platform                 a. Presence capabilities allowing for interoperability            among
+                            Government Agencies’ legacy solutions.
+Functionality
+                         b. Mobile video conferencing may be considered.
+
+                         c. Site survivability capabilities which shall ensure that calls in
+                            session shall not be interrupted and new calls, both outgoing and
+                            incoming, shall be established.
+
+                         d. Integrated common client graphical interface.
+
+
+Video                    a. Unified voice and video capabilities shall be on one common
+                            platform.
+
+                         b. SIP normalization and transparency              that   allow    better
+                            interoperability between video endpoints.
+
+                         c. Seamless transition to include video— the solution shall allow
+                            transition to a video conversation with just one touch or click from
+                            a multi-party IM or audio communication.
+
+                         d. Support for high-definition video—High-definition video
+                            (resolution 1270 x 720; aspect ratio 16:9) and VGA video
+                            (resolution 640 x 480; aspect ratio 4:3).
+
+                         e. Video Interoperability—shall be able to connect solution users with
+                            3rd party video conference room systems promoting collaboration
+
+
+
+                                               34
+                        between desktop video conferencing users and those who have
+                        access to video systems in a conference room.
+
+
+Native IM and        a. Software alignment within Voice, Video, IM and Presence for an
+                        integrated deployment model allowing endpoints to negotiate
+presence
+                        multiplexed media near channels for exchanging data like
+                        conference roster and opens channels for many more endpoint and
+                        conferencing applications.
+
+                     b. Reduces operating expense with common install, administration
+                        and licensing.
+
+                     c. Device indication— the solution shall allow users to see when
+                        other user are signed from a mobile device or from an IP phone that
+                        cannot accept instant messages.
+
+                     d. Privacy settings— users can choose how much presence
+                        information can be viewed by others.
+
+
+Messaging            a. Conversation history—the solution shall keep copies of instant
+                        messaging exchanges that include participants, date and timestamp.
+
+                     b. Tabbed chat— shall be able to engage in and monitor a number of
+                        different IM conversations at the same time.
+
+                     c. Posting messages— the solution shall support text, images, file
+                        posts, hyperlinks and emoticons in persistent chats.
+
+                     d. Searching for information—search persistent chat history by field,
+                        including author, date, chat room or keyword.
+
+
+Web                  a. Program or desktop sharing—the solution shall allow sharing of
+                        programs or the entire desktop by one click for the Meeting
+Conferencing
+                        presenters and permissioned attendees.
+and        Content
+                     b. Embedded Media in PowerPoint or equivalent support—play a
+                        video file, with audio embedded in PowerPoint or equivalent in a
+
+
+
+                                          35
+Sharing       web meeting.
+
+           c. Whiteboards and polling—allow sharing of a common whiteboard
+              or initiate a poll directly from within a meeting.
+
+           d. Attachments and downloads—Meeting organizers or presenters
+              shall be able to choose to attach documents and other files to be
+              made accessible to meeting participants.
+
+           e. Customizable meeting view— users shall be able to select from
+              several meeting view options including Gallery View (all
+              participant photos or videos), Speaker View (meeting content and
+              presenter image or video), Presentation View (meeting content
+              only) or Compact View (participant photos only).
+
+
+Mobility   a. Provides improved mobility user experience with video and Voice
+              calling.
+
+           b. Offers ability to receive video or participate in a video conference
+              in both Wi-Fi and cellular modes allowing users to move voice and
+              video sessions between mobile and desk phones.
+
+           c. The solution shall Offer session resumption capability for Dial via
+              Office Reverse Call-back (DVO-R) and Single Number Reach
+              scenarios so that end users can call back to the final target.
+
+           d. Provides consistent user experience for voice-over-IP (VoIP) and
+              cellular modes for mobile devices.
+
+           e. Enhances the overall DVO-R user experience.
+
+           f. Ensures network and data security while enabling an easy and
+              consistent user experience for CARILEC users.
+
+           g. Allows access to collaboration applications from mobile devices.
+
+           h. Ensures that smartphones, tablets, and other mobile devices and
+              rich-media applications work transparently in new virtualized
+
+
+
+
+                                36
+               environment.
+
+
+Directory   a. Enabling web-service applications to interact with end-user
+               information by supporting user directory search and preferences
+Features
+               settings.
+
+            b. Custom directory attributes can be added and synchronized.
+
+
+Telephony   a. Pause in Speed Dials shall enable CARILEC users to configure the
+               phone speed-dial button with strings including directory number
+Features
+               (DN), Forced Authorization Code (FAC) or Client Matter Code
+               (CMC), dual-tone multi-frequency (DTMF) digits and dialing
+               pauses.
+
+            b. Native queuing shall allow CARILEC users to queue calls to hunt
+               pilot using top-down, circular, longest-idle and broadcast methods.
+               It also shall provide the flexibility to configure queue depth and
+               hold time, play unique announcements and Music on Hold (MoH),
+               log in and log out users from a queue and basic queue statistics
+               (from the phone).
+
+            c. Multilevel Precedence and Pre-emption (MLPP) shall be supported
+               on SIP-based phones.
+
+            d. Connected number support for hunt pilot shall allow users to send
+               the answered party number from a hunt list versus the pilot in a
+               configurable way.
+
+            e. SIP redirection counter inclusion in the SIP diversion header
+               contains call forwarding and other routing loops that are detected.
+
+            f. Enhanced 9-1-1 services – the solution shall allow for Emergency
+               dialing availability internationally, with local emergency
+               numbering being used as appropriate for the CARILEC user’s
+               location.
+
+            g. Anywhere access—inclusion of calling features from a desktop,
+
+
+
+
+                                 37
+                    laptop or mobile device through secure means.
+
+                 h. Call handling— ability to answer a call or have it forwarded to
+                    voice mail, a mobile phone, another PSTN number or to a delegate
+                    assigned to answer calls.
+
+                 i. Device switching—ability to switch devices, for example, a
+                    headset to speakerphone without interrupting a current call or
+                    without placing a call on hold.
+
+                 j. Visual Voicemail—Solution shall be able to integrate with
+                    Microsoft Outlook to allow users to receive emails that have a
+                    preview of the voice mail. The user shall be able to view the voice
+                    mail preview in Microsoft Outlook or equivalent where necessary.
+
+                 k. Call delegation—users shall be allowed to delegate call handling to
+                    one or more assistants who can perform a number of tasks on
+                    behalf of the user such as screening person-to-person calls, placing
+                    calls and initiating conferences.
+
+                 l. Team calling - the solution shall be capable of simultaneous
+                    ringing of any number of users that a user designates as members a
+                    team.
+
+                 m. Infrastructure interoperability—the solution shall use industry
+                    standards and published interfaces to interoperate with existing
+                    infrastructure.
+
+
+UC     Session   a. Extend and Connect, a new device type on UCS representing
+                    remote devices, shall deliver features and services like instant
+Management
+                    messaging and presence to public-switched-telephone-network
+                    (PSTN) and third-party private-branch-exchange (PBX) devices.
+
+                 b. Provide improved total end-to-end round-trip time between the
+                    nodes in a Session Management Edition (SME) cluster allow nodes
+                    to exist in multiple continents.
+
+                 c. Administrators shall have the ability to specify codec preferences
+
+
+
+                                      38
+                         for outbound SIP trunks and inbound PSTN SIP trunks.
+
+
+Hosted services       a. The solution shall be able to initiate and monitor the backup
+                         procedure and configuration through an application programming
+                         interface (API) enabling a multi-customer toolset to orchestrate and
+                         coordinate backup
+
+
+Licensing       and   a. Licensing usage and reporting shall be simplified and based on user
+                         licensing.
+Reporting
+                      b. User licensing based on user profiles.
+
+
+Platform              a. Presence capabilities allowing for interoperability          among
+                         Government Agencies’ legacy solutions.
+Functionality
+                      b. Mobile video conferencing may be considered.
+
+                      c. Site survivability capabilities which shall ensure that calls in
+                         session shall not be interrupted and new calls, both outgoing and
+                         incoming, shall be established.
+
+                      d. Integrated common client graphical interface.
+
+
+Native IM and         a. Software alignment within Voice, Video, IM and Presence for an
+                         integrated deployment model allowing endpoints to negotiate
+presence
+                         multiplexed media near channels for exchanging data like
+                         conference roster and opens channels for many more endpoint and
+                         conferencing applications.
+
+                      b. Reduces operating expense with common install, administration
+                         and licensing.
+
+                      c. Device indication— the solution shall allow users to see when
+                         other user are signed from a mobile device or from an IP phone that
+                         cannot accept instant messages.
+
+
+
+
+                                           39
+            d. Privacy settings— users can choose how much presence
+               information can be viewed by others.
+
+            e. Presence in Current Office Solution— allow for touch or hovering
+               over a user’s presence icon to display a contact card and menu that
+               can be used to initiate a conversation from the application.
+
+            f. Contact tagging—allow for tagging contacts to get automatic
+               notification when a contact’s availability status changes.
+
+            g. Contact grouping—allow for group contacts in a variety of ways
+               including user-defined groups, organization-defined groups,
+               contact presence, or tagged contacts.
+
+
+Messaging   a. Conversation history—the solution shall keep copies of instant
+               messaging exchanges that include participants, date and timestamp.
+
+            b. Tabbed chat— shall be able to engage in and monitor a number of
+               different IM conversations at the same time.
+
+            c. Posting messages— the solution shall support text, images, file
+               posts, hyperlinks and emoticons in persistent chats.
+
+            d. Searching for information—search persistent chat history by field,
+               including author, date, chat room or keyword.
+
+
+Mobility    a. Provides improved mobility user experience with video and Voice
+               calling.
+
+            b. Offers ability to receive video or participate in a video conference
+               in both Wi-Fi and cellular modes allowing users to move voice and
+               video sessions between mobile and desk phones.
+
+            c. The solution shall Offer session resumption capability for Dial via
+               Office Reverse Call-back (DVO-R) and Single Number Reach
+               scenarios so that end users can call back to the final target.
+
+            d. Provides consistent user experience for voice-over-IP (VoIP) and
+
+
+
+                                 40
+               cellular modes for mobile devices.
+
+            e. Enhances the overall DVO-R user experience.
+
+            f. Ensures network and data security while enabling an easy and
+               consistent user experience for CARILEC users.
+
+            g. Allows access to collaboration applications from mobile devices.
+
+               Ensures that smartphones, tablets, and other mobile devices and
+               rich-media applications work transparently in new virtualized
+               environment.
+
+
+Directory   a. Clients and endpoints have the ability to discover services (such as
+               voicemail, IM and Web meeting applications) and are notified of
+Features
+               any changes in those services.
+
+            b. Enabling web-service applications to interact with end-user
+               information by supporting user directory search and preferences
+               settings.
+
+            c. Custom directory attributes can be added and synchronized.
+
+
+
+
+                                 41
+Telephony   a. Pause in Speed Dials shall enable CARILEC users to configure the
+               phone speed-dial button with strings including directory number
+Features
+               (DN), Forced Authorization Code (FAC) or Client Matter Code
+               (CMC), dual-tone multi-frequency (DTMF) digits and dialing
+               pauses.
+
+            b. Native queuing shall allow CARILEC users to queue calls to hunt
+               pilot using top-down, circular, longest-idle and broadcast methods.
+               It also shall provide the flexibility to configure queue depth and
+               hold time, play unique announcements and Music on Hold (MoH),
+               log in and log out users from a queue and basic queue statistics
+               (from the phone).
+
+            c. Multilevel Precedence and Pre-emption (MLPP) shall be supported
+               on SIP-based phones.
+
+            d. Connected number support for hunt pilot shall allow users to send
+               the answered party number from a hunt list versus the pilot in a
+               configurable way.
+
+            e. SIP redirection counter inclusion in the SIP diversion header
+               contains call forwarding and other routing loops that are detected.
+
+            f. Enhanced 9-1-1 services – the solution shall allow for Emergency
+               dialing availability internationally, with local emergency
+               numbering being used as appropriate for the CARILEC user’s
+               location.
+
+            g. Anywhere access—inclusion of calling features from a desktop,
+               laptop or mobile device through secure means.
+
+            h. Call handling— ability to answer a call or have it forwarded to
+               voice mail, a mobile phone, another PSTN number or to a delegate
+               assigned to answer calls.
+
+            i. Device switching—ability to switch devices, for example, a
+               headset to speakerphone without interrupting a current call or
+               without placing a call on hold.
+
+
+
+
+                                 42
+                 j. Visual Voicemail—Solution shall be able to integrate with
+                    Microsoft Outlook to allow users to receive emails that have a
+                    preview of the voice mail. The user shall be able to view the voice
+                    mail preview in Microsoft Outlook or equivalent where necessary.
+
+                 k. Call delegation—users shall be allowed to delegate call handling to
+                    one or more assistants who can perform a number of tasks on
+                    behalf of the user such as screening person-to-person calls, placing
+                    calls and initiating conferences.
+
+                 l. Team calling - the solution shall be capable of simultaneous
+                    ringing of any number of users that a user designates as members a
+                    team.
+
+                 m. Infrastructure interoperability—the solution shall use industry
+                    standards and published interfaces to interoperate with existing
+                    infrastructure.
+
+
+
+UC     Session   a. Extend and Connect, a new device type on UCS representing
+                    remote devices, shall deliver features and services like instant
+Management
+                    messaging and presence to public-switched-telephone-network
+                    (PSTN) and third-party private-branch-exchange (PBX) devices.
+
+                 b. Provide improved total end-to-end round-trip time between the
+                    nodes in a Session Management Edition (SME) cluster allow nodes
+                    to exist in multiple continents.
+
+                 d. Administrators shall have the ability to specify codec preferences
+                    for outbound SIP trunks and inbound PSTN SIP trunks.
+
+
+
+
+                                      43
+Hosted services         a. The solution shall be able to initiate and monitor the backup
+                           procedure and configuration through an application programming
+                           interface (API) enabling a multi-customer toolset to orchestrate and
+                           coordinate backups.
+
+                        b. Enterprise supplementary services shall be supported on the
+                           solution - voice over LTE (VoLTE) IMS mobile device. The UCS
+                           shall act as an IMS application server supporting supplementary
+                           services on fourth-generation (4G) mobile phones.
+
+
+
+
+Handset features are listed in the table below.
+
+Basic IP Handset                     a. 3 line LCD display;
+                                     b. Up to 6 lines with call appearances;
+                                     c. Minimum of 8 programmable keys with LEDs;
+                                     d. Distinctive ringing, priority alerting;
+                                     e. Personal directory;
+                                     f. Call forward;
+                                     g. Call transfer;
+                                     h. Call waiting;
+                                     i. Call timer;
+                                     j. Caller and calling line information;
+                                     k. Callers log;
+                                     l. Local 3-way conference;
+                                     m. Intercom with auto-answer;
+                                     n. Paging and auto-answer;
+                                     o. Capabilities;
+                                     p. Redial list;
+                                     q. Do Not disturb;
+
+
+
+                                              44
+                       r. Missed call Notification;
+                       s. Busy Lamp Field (BLF); and
+                       t. Shared Call and bridged line appearance.
+
+Manager IP Handset     a. 144 x 128 pixel graphical backlit LCD display;
+                       b. Up to 9 Lines with call appearances;
+                       c. Minimum of 12 programmable keys with LEDs;
+                       d. Distinctive ringing, priority alerting;
+                       e. Personal directory;
+                       f. Call forward;
+                       g. Call transfer;
+                       h. Call waiting;
+                       i. Call timer;
+                       j. Caller and calling line information;
+                       k. Callers log;
+                       l. Local 3-way conference;
+                       m. Intercom with auto-answer;
+                       n. Paging and auto-answer;
+                       o. Capabilities;
+                       p. Redial list;
+                       q. Do Not disturb;
+                       r. Missed call Notification;
+                       s. Busy Lamp Field (BLF); and
+                       t. Shared Call and bridged line appearance.
+Soft Phones            a. Support Desktop OS environments including windows
+                          and MAC OS, tablet devices and smartphones.
+Survivability Device   a. Ability to reroute calls to secondary environment
+                          without connectivity disruption.
+
+
+
+                                45
+       8.1.2 MAINTENANCE CONTRACT AND SERVICE LEVELS
+
+
+The bidder is expected to provide a 3 year and 5 year term maintenance contract for the selection
+of CARILEC.
+
+The bidder shall maintain the following support KPIs as part of the maintenance contract.
+
+Incident KPIs
+
+Priority   Response Time           Resolution Time        (Hrs.) Resolution Time (Hrs.) On
+                                   Remote Support                Site    Support    (Total
+                                                                 Resolution Time)
+
+1          Within 20 minutes       Within 2 hours                Within 6 hours
+
+2          Within 30 minutes       Within 4 hours                Within 8 hours
+
+3          Within 60 minutes       Within 8 hours                Within 12 hours
+
+4          Within 90 minutes       Within 16 hours               Within 20 hours
+
+
+
+
+       8.2 LOT 2: Partial PRI or IP voice Trunking
+
+
+The bidder is required to quote for the following services:
+
+1 x 8 trunk Partial Primary Rate Interface (ETSI/CEPT) to interface with the UCS and provide
+voice connectivity and signaling to the central office telephone switch. Diagram below
+illustrates:
+
+
+
+
+                                                46
+OR
+
+1 x 8 SIP IP trunks to provide voice connectivity and signaling from the UCS and to the Central
+office telephone switch. Diagram below illustrates:
+
+
+
+
+8.2.1 Fixed to Mobile Calling
+The partial PRI or SIP link will also facilitate the transmission of Mobile calls to and from the
+UCS in lieu of a GSM gateway. Therefore the provider must offer CARILEC a Fixed to Mobile
+(F2M) service plan for this purpose. The F2M plan needs to provide 2000 anywhere minutes and
+detail any out of plan rates or other charges clearly. Alternatively the provider can provide an
+F2M gateway that provides the same benefits as the F2M plan.
+
+8.2.2 Quality of Service Requirements:
+
+   1. This is to be preferably delivered over fiber optics or secure commercial microwave
+   2. The network availability should be a minimum of 99.95 percent
+   3. Time to restore should be no greater than 2 hours
+
+
+
+
+                                               47
+        8.3 LOT 3: Internet Services
+
+
+The bidder is required to provide the following Internet service:
+
+2 x 25 Mb/s of mission critical internet connections in a load balancing, single multi-homed
+topology. This is to support CARILEC’s requirement for on demand conferencing facilities
+using Zoom or other third party system and other mission critical activities. For avoidance of
+doubt the requirement is for one 25 Mb/s connection per Internet Service Provider. The diagram
+below illustrates:
+
+
+
+
+8.3.1 Quality of Service Requirements
+
+
+The internet connection must meet the following quality of service and other criteria:
+
+   1.   Network availability minimum 99.5 percent
+   2.   Time to restore no greater than 2 hours
+   3.   Packet loss less than 0.5%
+   4.   latency below 100 milliseconds and
+   5.   jitter below 20 milliseconds
+
+
+
+
+                                                48
+          8.4 LOT 4: MOBILE PLANS
+
+
+          8.4.1 GENERAL SERVICE REQUIREMENTS
+
+
+   1. SERVICE
+
+   A. SERVICE for the CELL PHONES shall provide:
+
+   i.       nationwide coverage for voice and data services, including email, Internet, and
+            SMS/MMS text messaging;
+
+   ii.      4G network or better (greater weighting will be given to faster networks);
+
+   iii.     Voicemail; and
+
+   iv.      Free cell phones to each participant of all Group plans.
+
+   B. Adequate voice and data coverage nationwide, and throughout the Waterfront Complex,
+      including chambers, other government office locations, meeting rooms, basements, and
+      parking lots (responder shall provide signal boosters and other equipment, at responder's
+      expense, to ensure that this requirement is met).
+
+
+
+2. PLAN
+
+   a. The plan shall be provided at a flat monthly rate, based on the number of User Accounts
+      or bundled minutes for which service is provided.
+
+   b. The plan shall include but not be limited to the following for the flat monthly rate:
+
+               i. free OECS roaming for voice and data services;
+
+               ii. unlimited (or a very high number of pooled minutes) nationwide voice and
+                   data services for CELL PHONES, including email, Internet, and SMS/MMS
+                   text messaging;
+
+               iii. voicemail, call waiting, and call forwarding; and conference calling.
+
+c. Greater weighting shall be given to plans that include:
+
+               i. free mobile to mobile minutes;
+
+
+                                                 49
+             ii. free or inexpensive phone upgrades on an annual or bi-annual basis;
+
+             iii. or international roaming, calling, and data packages included in the plan or
+                  offered at a competitive rate.
+
+             iv. A host of other free features and benefits at the provider’s discretion.
+
+
+
+8.4.2 OTHER REQUIREMENTS
+
+
+  A. BILLING
+
+     I.   Billing shall be in the aggregate, but detailed and broken down based on the number
+          of user accounts for which service is provided.
+
+    II.   Bills sent to CARILEC may not include or identify the following:
+
+          1. Phone numbers of people called or texted;
+
+          2. Phone numbers of people from which calls or texts were received;
+
+          3. Information that indicates or identifies websites visited, or other identifiable
+             electronic addresses to which information was sent or from which information
+             was received.
+
+   III.   Bills shall be provided in electronic format and allow ease of import into Microsoft
+          Excel.
+
+  B. CARILEC shall be given the ability to determine which user account shall be given the
+     authority to incur charges above the flat monthly rate per account.
+
+  C. Responder shall provide CARILEC with free phone activation, and free phone
+     termination.
+
+  D. CARILEC shall have the ability to add accounts to the plan on the same terms (or better
+     terms) as the accounts originally placed on the plan.
+
+  E. Responder shall provide toll-free maintenance and technical support on a 24-hour per
+     day, seven-day per week basis.
+
+
+
+
+                                               50
+   F. Responder must be flexible and work with CARILEC to provide a smooth, uninterrupted
+      transition from CARILEC's current Mobile phone system to the new mobile phone
+      system provided to CARILEC by the responder.
+
+   G. All Phones and other hardware provided by responder:
+
+       i. shall be in new, unused condition;
+
+       ii. shall be in current production;
+
+       iii. may not be announced by the manufacturer as discontinued on or before the date
+            provided; and
+
+       iv. may not be, and may not include components or parts that are, discontinued,
+           refurbished, rebuilt, reconditioned, remanufactured, or newly remanufactured.
+
+
+
+8.4.3 OTHER CONSIDERATIONS
+
+Greater weighting will be given to a response that:
+
+               1. Allows CARILEC to deactivate lines of service, without fee or penalty, if the
+                  deactivation is due to a decrease in the number of user accounts needed by
+                  CARILEC;
+
+               2. Provides a few extra Phones, batteries, battery covers, chargers, car chargers,
+                  holsters, or other accessories free of charge or at a reduced charge that
+                  CARILEC can keep on hand for immediate replacement of lost or damaged
+                  items;
+
+8.4.4 Mobile Phone Service Specifications
+
+
+A. Group #1: Comprises service for senior staff. In addition to text, data and voice
+communication capabilities, the phones in Group #1 should include the following features:
+
+   1. All phones should be high end data phones such as IPhone, or the latest high end
+      Samsung Galaxy Series.
+
+   2. All phones should be 4G LTE data compatible.
+
+   3. This group should include a 500 minutes monthly plan.
+
+
+                                                51
+   4. This group should include 1GB data plan.
+
+   5. This group should include only 10 Free SMS per month.
+
+   6. Voice and Data Roaming
+
+   7. Free Caribbean Roaming (Home based calling with no additional roaming charges)
+
+   8. Replacement handsets should be provided to users at 18 month intervals.
+
+   9. All phones are provided at the cost of the provider.
+
+   10. All phones should be new.
+
+B. Group #2:
+
+   1.     All handsets should be 4G LTE data capable handsets.
+
+   2.     This group should include a minimum of 250 monthly minutes.
+
+   3.     This group should include 10 Free SMS per month.
+
+   4.     This group should include 3GB data plan.
+
+   5.     Voice and Data Roaming.
+
+   6.     Free Caribbean Roaming (Home based calling with no additional roaming charges)
+
+   7.     Replacement handsets should be provided to users at 24 month intervals.
+
+   8.     All phones are provided at the cost of the provider.
+
+   9.     All phones should be new.
+
+
+
+C. Group # 3:
+
+   1.     All handsets should be 4G data capable phones.
+
+   2.     This group should include a minimum of 100 monthly minutes.
+
+   3.     This group should include 10 free text messages.
+
+   4.     This group should include 1GB data plan
+
+
+
+                                               52
+     5.      No International Roaming
+
+     6.      Free Caribbean Roaming (Home based calling with no additional roaming charges)
+
+     7.      Replacement handsets should be provided to users at 24 month intervals.
+
+     8.      All phones are provided at the cost of the provider.
+
+     9.      All phones should be new.
+
+D. Group #4:
+
+     1.      The phones should be 4G LTE data capable phones.
+
+     2.      This group should include a minimum of 50 monthly minutes.
+
+     3.      This group should include 500 MB data plan
+
+     4.      This group should include 10 free text messages.
+
+     5.      No International Roaming.
+
+     6.      Free Caribbean Roaming (Home based calling with no additional roaming charges)
+
+     7.      Replacement handsets should be provided to users at 24 month intervals.
+
+     8.      All phones are provided at the cost of the provider.
+
+     9.      All phone should be new.
+
+E. Group #5: Unbundled
+
+1.        The phones can be basic professional phones.
+
+2.        All phones are provided at the cost of the provider.
+
+3.        Replacement handsets should be provided to users at 36 month intervals
+
+4.        All phones should be new.
+
+
+
+The following requirements are applicable to all phones included in Group #1 to Group #4:
+
+     1.      The Provider must identify all additional services included in the package.
+
+
+
+                                                   53
+   2.      The ability to transfer existing cell phone numbers to the new phones where possible.
+
+   3.      Closed User Group must include all Government of St. Lucia plans with the selected
+           carrier and one additional person spouse/friend outside the Government group.
+
+
+
+ROAMING
+
+   1. Provide zero rated Voice and Data Roaming in the nine member OECS grouping,
+      Barbados and Trinidad and Tobago.
+
+   2. Provide home based rate Voice roaming throughout the CARICOM countries including
+      Anguilla, Bermuda, British Virgin Islands, Cayman, Turks and Caicos.
+
+   3. Provide one rate Data roaming throughout the CARICOM countries including Anguilla,
+      Bermuda, British Virgin Islands, Cayman, Turks and Caicos.
+
+   4. All Group plans MUST include the following:
+
+                   i. Free Anywhere and Bundled Minutes*
+
+                  ii. Per Second Billing
+
+                  iii. No Connection Fees
+
+                  iv. One rate all the time
+
+                  v. Dropped Call Compensation
+
+                  vi. Details of International and Local out of plan rates.
+
+                 vii. Details of International Roaming out of plan roaming rates.
+
+*Bundled minutes must include calls to, all local fixed and mobile providers plus, all CARICOM
+member states and associates, United States, Taiwan, China, France, USVI, Puerto Rico,
+Canada and United Kingdom (fixed line).
+
+The ability to provide a three (3) year, thirty six (36), month contract with the option to extend
+the contract terms on expiry.
+
+
+
+
+                                                54
+        8.5 LOT 5: SYSTEM UPGRADES ON ICT PLATFORM
+
+
+        8.5.1 OBJECTIVE
+Strategic enhancements to the organization’s infrastructure have been planned to enhance its
+efficiency, deliver its planned objectives, and provide improved value for shareholders. A key
+requirement is to improve the reliability of the Secretariat’s operations and enhance business
+continuity. In preparation, an Information & Communication Technology (ICT) assessment of
+the Secretariat’s current infrastructure and future growth needs was recently conducted, which
+highlighted the necessity for ICT infrastructural upgrades to support anticipated improvements in
+CARILEC’s operations. CARILEC requires technological solutions that are economically
+viable, operationally efficient, scalable, robust and consistent with international best practice.
+The bidder shall include the following enhancements:
+
+   1. A revised Network Layout to include Perimeter Firewall and VLAN segmentation
+      for Securing network resources.
+
+        The proposal should include as a minimum the following:
+
+           o Where in the network the firewall will be positioned and why
+           o High availability cluster configuration preferred
+           o Detailed firewall architectural design
+           o Firewall management plans once implemented
+
+
+   2.   System backup
+
+        A data backup system shall be used to prevent data loss or for auditing and archiving
+        purposes.
+
+           o   Proper capacity planning for minimum cost of hardware required
+
+           o   Encryption of backed up data for security
+
+           o   Data backed up to external storage unit such as disk or hard drives
+
+           o   Disks shall be used to create quick, easy, redundant backups of critical fil
+
+
+
+
+                                                55
+  3.   Administration of hosted e-mail with custom domain (carilec.org)
+
+       The cloud-based email management system shall provide:
+
+          o   Simplified administration
+
+          o   Email security, archives and continuity
+
+          o   Message confidentiality, integrity and authentication
+
+          o   Automatic network encryption, multi-layered anti-spam, anti-malware protection
+              and message protection
+
+          o   Secure SMTP, PGP, SPF/Sender ID, S/MIME and DKIM preferred
+
+          o   In-house hosted private email cloud or use of Office 365, google apps or similar
+
+          o   Prevention against threat such as:
+
+                    Credentials theft and sender impersonations
+
+                    Spam, ransomware and virus payload attachments
+
+                    Typo squatting or URL hijacking via DNS hijacking
+
+                    Internal employee data leakage and inside threat
+
+  4.   Active directory services
+
+  5.   File/document management system to support remote working and file sharing
+
+  6.   Initial training/orientation and support for the upgraded environment
+
+
+
+8.5.1 DESCRIPTION OF REQUIRED SERVICES
+
+
+  1. Provide cloud-based migration strategy, based on using the Microsoft Office 365
+     platform or suitable alternative.
+
+  2. Assess and recommend the details of a suitable technical ICT platform, inclusive of the
+     cost associated with the options needed to support the operations of the Secretariat.
+
+
+
+
+                                               56
+  3. Implement the technical ICT platform for the Secretariat, being mindful to reduce the
+     impact on existing operations wherever possible.
+
+
+
+DELIVERABLES
+
+  1. An upgraded technical ICT platform for the CARILEC local environment.
+
+  2. Post production (‘go live’) support, inclusive of initial training in the use of the new
+     platform.
+
+
+
+
+                                            57
+

@@ -1,0 +1,638 @@
+           STAFFORD MUNICIPAL SCHOOL DISTRICT
+                            RFP #19 – 002
+             Request for Competitive Sealed Proposals For
+           The Construction of New Administration Building
+                          ADDENDUM No. 4
+
+The purpose of this Addendum is to revise the RFP Documents, advertised February 8th and
+15th, 2019 in the Houston Business Journal and February 13th and 20th, 2019 in the Fort Bend
+Star for the above-referenced project. When received, this Addendum shall be considered an
+integral part of the Contract Documents. Acknowledge receipt of this Addendum on the
+Proposal Form. Specifically, the changes are as follows:
+
+
+Item 1        Find Attached a log of, with responses to, all RFIs submitted to the architect up to
+              2:00 PM Monday, March 19, 2019. (note: 2:00 PM Monday March 19, 2019 was
+              the final deadline for prebid RFIs on the project; no RFIs received after this
+              deadline were responded to.
+
+
+
+Item 2        Revise Specification Section 08 11 13 – Hollow Metal Doors and Frames as
+              follows:
+
+                     2.1/A: Add item 8. Pearland Industries.
+
+
+
+Item 3        Revise Specification Section 10 21 13 19 – Solid Plastic Toilet Compartments as
+              follows:
+
+                     2.1/A: Add Scranton Products as an approved manufacturer.
+
+
+
+
+Addendum No. 4                                                                     Page 1 of 15
+Item 4           Find under separate file the following Specifications Issued in Addendum 4:
+                 (Note: specifications listed in bold italics are new; specifications listed in italics are
+                 revised.)
+
+         Division 00 – Procurement and Contracting Requirements
+
+                 Document 00 01 10         Table of Contents                                            7
+
+         Division 01 – General Requirements
+
+                 Section 01 23 00          Alternates                                                   2
+                 Section 01 32 00          Photographic Documentation                          5
+                 Section 01 50 00          Temporary Facilities and Controls                            10
+
+         Division 05 – Metals
+
+                 Section 05 50 00          Metal Fabrications                                           15
+
+         Division 06 – Woods, Plastics, and Composites
+
+                 Section 06 40 00          Architectural Woodwork                                       5
+
+         Division 08 – Openings
+
+                 Section 08 41 00          Entrances and Storefront                                     16
+                 Section 08 90 00          Louvers                                                      4
+
+         Division 09 - Finishes
+
+                 Section 09 65 00          Resilient Flooring                                           4
+
+         Division 10 – Specialties:
+
+                 Section 10 73 16          Canopies                                                     4
+
+         Division 11 – Equipment:
+
+                 Section 11 31 00          Residential Appliances                                       5
+                 Section 11 52 13          Projection Screens                                           2
+
+         Division 21 – Fire Suppression
+
+                 Section 21 00 00          General Requirements for Fire Suppression                    20
+
+
+
+
+Addendum No. 4                                                                                  Page 2 of 15
+Item 5     Find under separate file the following Drawing Issued in Addendum 4:
+
+
+           GENERAL DRAWINGS
+
+           A0.00   INFORMATION &           -   Added Alternate 05 for exterior CMU.
+                   INDEX
+
+
+
+
+           CIVIL DRAWINGS
+
+           C3.01   SANITARY SEWER          -   Revised key notes to meet Fort Bend Water Control
+                   & WATER                     & Improvement District 2 (WC&ID2) requirements.
+                   UTILITIES PLAN          -   Revised water meter connections to meet WC&ID2
+                                               requirements.
+
+           C5.01   CONSTRUCTION            -   Revised WC&ID2 Standard Notes.
+                   NOTES
+
+           C5.04   CONSTRUCTION            -   Added note that Manhole Covers indicated on this
+                   DETAILS                     sheet are to be required in public rights of way only.
+
+           STRUCTURAL DRAWINGS
+
+           S2.01   FOUNDATION              -   Indicated grade beam size and pier size increase in
+                   PLAN                        area affected by cmu veneer height increase per
+                                               Alternate 05. See clouded areas.
+
+           S2.02   SECOND FLOOR            -   Indicated 2nd floor beam size increase on east side
+                   PLAN                        of building due to cmu veneer height increase per
+                                               Alternate 05. See clouded area.
+                                           -   Added support posts for knee wall at elevator.
+
+           S2.03   ROOF FRAMING            -   Indicated location of RTU screenwall location and
+                   PLAN                        framing per Alternate 03. See clouded area.
+
+           S3.01   PIER & PLINTH           -   Added concrete beam type on concrete beam
+                   SCHEDULE                    schedule for Alternate 05. See clouded area.
+
+           S6.03   FLOOR FRAMING           -   Added detail 6A for Alternate 05 condition.
+                   DETAILS
+
+           S6.05   ROOF FRAMING            -   Added details for RTU screenwall per Alternate 03.
+                   DETAILS                     See clouded details.
+
+
+
+
+Addendum No. 4                                                                     Page 3 of 15
+           ARCHITECTURAL DRAWINGS
+
+           A1.00   SITE PLAN         -   Revised keyed notes S07 (re: Monument Sign) and
+                                         S14 (re: Control & Expansion Joints) per RFIs.
+                                     -   Revised Limits of Work to coordinate with Civil
+                                         Drawings at North (existing) parking lot. (added
+                                         keyed note re striping at existing lot.)
+
+           A2.40   RCP-LEVEL 1       -   Added light fixtures at canopies, overhangs, and
+                                         Mechanical Rooms.
+                                     -   Revised ceiling plans at Lobby and Board Room for
+                                         clarity (now indicated on 2nd floor RCP)
+
+           A2.41   RCP-LEVEL 2       -   Added light fixtures at entrance canopy, and
+                                         Mechanical Rooms.
+                                     -   Revised ceiling plans at Lobby and Board Room for
+                                         clarity (now indicated on 2nd floor RCP)
+                                     -   Added notes to plenum spaces for clarity.
+                                     -   Added third projector and screen at board room per
+                                         Owner request.
+
+           A3.00   BUILDING          -   Revised elevations to add CMU veneer (to be priced
+                   ELEVATIONS            as alternate 05).
+
+           A4.10   WALL SECTIONS &   -   Revised wall sections to coordinate with additional
+                   DETAILS               CMU on elevations.
+
+           A4.11   WALL SECTIONS &   -   Revised details to coordinate with additional CMU
+                   DETAILS               on elevations.
+                                     -   Clarified dimensions for knee wall at corridor
+                                         (detail 17)
+
+           A5.00   DOOR SCHEDULE     -   Revised dimension from ground to sill of louvers
+                   & WINDOW TYPES        (new dimension applies only to Alternate 05; old
+                                         dimension shall be kept for base bid).
+
+           A6.00   FINISHES –        -   Added walk-off mats at north, east, and west
+                   SIGNAGE –             entrances.
+                   FURNITURE –
+                   LEVEL 1
+
+           A8.00   INTERIOR          -   Revised south elevation of lobby to coordinate with
+                   ELEVATIONS            Addendum 3.
+                                     -   Clarified Marker Boards and Electronic Marker
+                                         Boards in Computer Training Room and Board
+                                         Conference Room.
+                                     -   Indicated monitor adjacent to board room entrance
+                                         per Owner Request.
+
+           A9.00   MILLWORK          -   Revised Board Room Desk details to include bullet
+                   ELEVATIONS &          resistant polyester per Owner Request.
+                   DETAILS
+
+
+
+
+Addendum No. 4                                                             Page 4 of 15
+           MECHANICAL DRAWINGS
+
+           M1.01   SCHEDULES          -   Revised schedules per City requirements.
+
+           M2.01   FLOOR PLAN –       -   Miscellaneous revisions for coordination.
+                   LEVEL 1 - HVAC
+
+           M2.02   FLOOR PLAN –       -   Miscellaneous revisions for coordination.
+                   LEVEL 2 – HVAC
+
+           M2.03   ROOF PLAN - HVAC   -   Miscellaneous revisions for coordination.
+
+           M3.01   DETAILS            -   Deleted Detail 12.
+
+           M3.02   DETAILS            -   Deleted details 3 and 5
+                                      -   Revised notes on details 1, 4, and 8 for clarity.
+
+           M4.01   CONTROLS           -   Revisions for clarity
+
+           M4.02   CONTROLS           -   Detail 1 Revised to Single Zone VAV Air Handling
+                                          Unit with DX Coil.
+                                      -   Detail 2 revised.
+
+
+
+
+           ELECTRICAL DRAWINGS
+
+           E1.01   SYMBOLS, NOTES,    -   Added note about fire alarm system.
+                   AND LEGENDS.
+
+           E1.02   ONE LINE           -   Revised Lighting schedule to coordinate with
+                   DIAGRAM                architectural requirements.
+
+           E2.01   FLOOR PLAN –       -   Added power & data at Board Room Desk per
+                   LEVEL 1 - POWER        Owner Request.
+                                      -   Added power & data for additional (third) projector
+                                          and projector screen at Board Room.
+
+           E3.01   FLOOR PLAN –       -   Revised ceiling plan and lighting layout at Board
+                   LEVEL 1 LIGHTING       Room to coordinate with architectural drawings.
+
+
+           PLUMBING DRAWINGS
+
+           P2.01   FLOOR PLAN –       -   Added vent for sanitary line in Fire Riser Room.
+                   SANITARY – LEVEL   -   Added Oil/Water separator at elevator sump pump
+                   1                      per WC&ID2 requirements.
+
+
+           P2.02   FLOOR PLAN –       -   Added vent for sanitary line in Fire Riser Room.
+                   SANITARY – LEVEL
+                   2
+           P2.03   ROOF PLAN –        -   Added vent for sanitary line in Fire Riser Room.
+                   SANITARY
+
+
+Addendum No. 4                                                                Page 5 of 15
+           P5.01    DETAILS           -   Added oil / water separator to elevator pit sump
+                                          pump detail 9.
+
+           P5.02    DETAILS           -   Clarified routing of gas line at Gas Meter and
+                                          Regulator Detail 7.
+
+
+           TECHNOLOGY DRAWINGS
+
+           T2.01    FLOOR PLAN –      -   Added Duress Buttons (DBs) at Board Room Desk
+                    LEVEL 1 -             per Owner Request.
+                    TECHNOLOGY        -   Added Data connections for additional (third)
+                                          projector at Board Room.
+
+
+
+
+           FIRE PROTECTION DRAWINGS
+
+           FP1.01   FIRE PROTECTION   -   Indicated that building is to be sprinklered in note II
+                    PLAN                  of Code Review.
+
+
+
+
+Addendum No. 4                                                                Page 6 of 15
+Number   Question                                                                            Response
+
+         The glass specifications call for Solarban 60 on Clear over Clear. The solar
+         heat gain coefficient of 0.22. The glass performance chart states that this
+1-1      particular make up would have a heat gain coefficient of 0.39. Is this correct?     Confirmed.
+         Division 95100 indicates Type 2 - Tectum ceilings to match existing. Where
+1-2      does this occur at?                                                                 Tectum Ceilings do not occur in the Admin Building and shall be deleted from the Spec by Addendum 3.
+1-3      How high is the edge trim at the cloud ceilings?                                    Edge trim shall be 6" high (from manufacturer's standard).
+         RCP and finish schedule conflict in rooms 100B and 201A. Please clarify ceiling
+1-4      type.                                                                               See revised drawings A6.00 and A6.01 with corrected ceiling types in the finish schedule.
+
+         The RCP does not indicate all the ceiling grilles as shown on mechanical
+1-5      drawings. Will this be incorporated into future drawings?                           See revised MEP Drawings.
+1-6      The IFP-1000 FACP specified has been discontinued. Replacement?                     Provide IFP-4000ES refer to updated specifications in addendum 3.
+1-7      Is the AHJ for this project going to require Voice Evacuation?                      Response forthcoming in Addendum 4, to be issued on 3-22-2019.
+
+         Are the directories part of the signage scope? They are based on design by
+         APCO, a company I use for room signs. If so, how many are there? Seems like
+         two-letterboards and the usual glass case. There are only 3 room #s
+         designated for the directory-114, 206 & 209. Does that mean the directory
+         only has those 3 or does that mean that they are the ones who get
+         letterboards ? 10 13 00-5 3.3 says “install directories in locations and    Directories are part of the scope. One directory is indicated in the Lobby. Verbiage on Directory is TBD. See revised drawings A6.00 and
+1-8      mounting hts indicated on drawings.” Don’t see them in drawings.            A6.02
+
+         Specs 10 14 00-3 E mentions die cut vinyl. A0.13 has a star and No 1 with
+         braille beneath on figure 407, then 2 and C with brailles on separate signs.
+         Because of the braille, the numbers and letters have to sit on a substrate like
+         metal or acrylic. Mainly I need to know how many needed, sizing, substrate
+         material. Is this the die cut they are talking about? Should I ignore the die cut
+         vinyl mention? Are these symbols going to be provided by the elevator mfg?
+         The 10 14 00 summary #4 says part of scope is vinyl cut signs-don’t see it any
+         where else. 10 14 00-5 2.5 promises a schedule I don’t find for 1” H letters.       Star, floor/level number, and braille on the elevator door jambs shall be by Elevator Manufacturer. Vinyl Cut interior signage for elevators
+1-9      The elevator letters/numbers are 2” H.                                              are separate and occur on the outside wall of the elevator shaft at levels 1 and 2.
+         10 14 00—4, 2.2 marquee sign B #26 -plaque schedule, then 10 14 00-8 C
+         mount plaques instructions on marquee sign-no visual of marquee as                  There is no marquee sign in scope for the Admin Building. The referefnces in the spec shall be deleted for Addendum 3. Note however
+1-10     promised on p 4.                                                                    that a marquee sign exists outside the scope that will connect to this building as indicated in the MEP site plans.
+                                                                                             The "bidders list" was issued in Addendum 1, in the form of the Pre-Proposal Conference Sign-In Sheet, and a scan of attendees' business
+1-12     Is there a complete bidders list that you could send my way?                        cards.
+         I understand that a pattern has not been established yet for the flooring on        Confirmed. Floor Patterns are not yet established and are pending bids/ pricing and approval of alternates (if any). Both fields and accent
+1-13     drawings A6.00 & A6.01, for the carpet and VCT.                                     colors for VCT and Carpet shall be from manufacturer's standard range in the specified lines.
+                                                                                          At the time of procurement, Proposers must complete the Small Business Program participation form and submit the Exhibit at the time
+                                                                                          set forth in the RFP. SMSD will follow its Small Business Program Procedures, including the portion therein governing the determination of
+                                                                                          satisfaction of the good faith efforts requirement, which provide, in pertinent part:
+
+                                                                                      The Proposer must submit a Contractor’s Small Business Plan (the “Plan”) setting out how the SBP goal for the proposed project is to be
+                                                                                      met. The Plan is to be submitted with the proposal response or within a period designated within the solicitation document, or upon
+                                                                                      notification of finalist or successful Proposer status. Failure to respond within the designated period could result in a determination by
+                                                                                      SMSD that a Proposer is nonresponsive and thereby removed from consideration for an award. The Plan should be a simple and short
+                                                                                      statement of small business participation in the SBP-eligible contract. The Plan must include a list of SBP-certified small businesses
+                                                                                      proposed as subcontractors and suppliers. All small businesses listed must be approved as SBP-certified small businesses by SMSD prior to
+                                                                                      submitting the proposal or bid, unless otherwise stated in the procurement solicitation.
+                                                                                      The Plan must also include executed subcontract(s) or letter(s) of intent for each listed small business, including the name of the small
+                                                                                      business, description of the scope of work to be performed, and the dollar value and percentage amount for each small business contract.
+                                                                                      Agreements between a Proposer and a small business in which the small business promises not to provide subcontracting quotations to
+                                                                                      other Proposers shall be prohibited.
+                                                                                      The Proposer shall adhere to the Plan submitted unless a waiver is received from the Small Business Program Director of SMSD.
+                                                                                      If the Proposer is unable to meet the SBP goal, the Proposer must submit documentation of good faith efforts to meet the small business
+                                                                                      participation goal. Such documentation shall be presented to the Small Business Program Director for review.
+                                                                                      SMSD may consider, in future procurements, whether any contractor who has failed to make good faith efforts to meet a contract small
+       What is required by SMSD as their good faith efforts for this project? Such as business participation goal and may consider, in future procurements, whether any small business has failed to make good faith efforts to
+1-14   proof of direct contact with SBE companies either via phone or email.          meet all requirements necessary for participation as an SBP-certified small business.
+       Does the good faith effort have a deadline which needs to be met before a
+       proposal? EX: Notification emails must be sent directly to 10 SBE companies
+1-15   10 days before the proposal deadline                                           See answer to number 1-14, above.
+
+                                                                                          The first page of Exhibit N (page 49 of the RFP) details SMSD’s Supplier Diversity Program, which is separate from SMSD’s Small Business
+                                                                                          Program. To be eligible as a small business under the SBP, a business must meet the requirements detailed on page 50 of the RFP:
+
+                                                                                          To be eligible as a small business under the SBP, a business shall:
+                                                                                          (1) Demonstrate that the firm’s gross revenues or number of employees averaged over the past three years, inclusive of any affiliates as
+                                                                                          defined by 13 C.F.R. § 121.103, does not exceed the size standards as defined pursuant to Section 3 of the Small Business Act and 13 C.F.R.
+                                                                                          § 121.201.
+                                                                                          (2) Have one of the following eligible small business certifications:
+       The first page of Exhibit N refers to Minority and Woman owned business            • Port of Houston Authority SBE Certification;
+       certifications. To my knowledge these certifications are different from SBE.       • Metropolitan Transit Authority of Harris County (METRO) SBE Certification;
+       Specifically for this project, will MBE & WBE certifications be acceptable as      • City of Houston SBE Certification; • Fort Bend Independent School District SBE Certification; or
+       part of the SBE requirements? It is my understanding that SMSD is only             • Any other certification agency specified by the District in the procurement solicitation, as may be appropriate for the particular
+1-16   looking for the specific SBE certifications listed on page 50 of 60 of Exhibit N   procurement and determined by the Superintendent or designee.
+       Exhibit N also refers me to “see SMSD Board Policy CV (Local)”. I have
+       searched the internet and the school’s website and cannot find this. Can this
+1-17   be provided for review?                                                            A copy of SMSD’s Board Policy CV (Local) is attached to this Addendum.
+       Exhibit N, page 49 of 60, on the bottom/bolded section states, “I, the
+       authorized representative for the company named below, certify that the
+       information concerning residency certification, and MWBE and HUB
+       certification have been reviewed by me and the information furnished is true
+       to the best of my knowledge.” Can you please provide further explanation as
+       to what residency certification is? DTC follows under the state residency
+       requirements, but does this statement apply to state or specifically Stafford,
+1-18   TX?                                                                                The residency certification is certifying that the Contractor’s address listed on Exhibit N is the place of residence.
+       If the above refers to Stafford resident and not state, and DTC is not a
+1-19   “Stafford resident” will this have a negative effect on our grading?               SMSD will use the selection criteria and weighting detailed in the RFP, including page 2 of the RFP.
+       The Contractor and Subcontractor Participation Form requests a list of Non-
+       Small Business Subcontractors. Does this mean that the District would like a
+                                                                                      Proposers should, at a minimum, include their small business subcontractor(s) as well as at least the key subcontractors, who may be small
+       full copy of all of the subs we have selected for this project, even if they are
+1-20   not SBE?                                                                       business or non-small business subcontractor(s). on the Contractor and Subcontractor Participation Form.
+       Could you please clarify the location of doors 100 B and 100A? Are those       Confirmed. Doors 100A and 100B are the front doors to the building, indicated on drawing A2.00. Door keys have been added for
+1-21   doors supposed to be for the front door on drawing A2.00?                      Addendum 3.
+                                                                                      Confirmed. Hardware set for Door 100A shall be similar to set 1.0 as specified for Door 100B. However, provisions shall be added to the
+       Door 100A is not listed in the hardware schedule. Am I to assume that it is to door hardware to allow for a Card Reader and AIPhone at this door. (see drawing A5.00 as issued in Addendum 1; and reissued in
+1-22   just match door 100 B?                                                         Addendum 3.)
+       Door type “E” is not labeled anywhere in the Door Schedule, is it correct that
+1-23   it will not be used anywhere on this project?                                  Type E Doors occur at the second floor, doors 200, 202, 218A, and 218B. See drawing A5.00 as issued in Addendum 3.
+                                                                                      No. Drawings are available for download (in PDF format) from the District's website:
+1-24   Do you have the drawings available for deposit?                                http://www.staffordmsd.org/departments/business_operations/bids_and_proposals
+
+       Under General Window Notes - #4 says that security film is required at all
+       entrances. Does this mean all exterior entries? Or does this include all
+1-25   exterior and interior entries, including offices?                                  Security Film was deleted and General Window Notes re-written in Addendum 1. There is No Security Film in the Admin Building Scope.
+       15 Mil security film type S1 is not listed on any elevations. Are there
+1-26   elevations that could be highlighted?                                              See response to 1-25 above.
+
+1-27   Can door types also be called out with either S1 (15 mil) or S2 (7 mil)?           See response to 1-25 above.
+1-28   Will all exterior glass be getting 15 mil?                                         See response to 1-25 above.
+       There’s currently no locations of interior window types on the floor plans. Can
+       there be a “thus” listed in the interior window types or can it be listed on a     Re: Drawings A2.00 and A2.01, as well as A5.01 for interior glazing. Interior window types were detailed for Addendum 1 and are marked
+1-29   floor plan?                                                                        with the prefix "I" (IA; IB; etc.).
+1-30   Is Dow 995 included with both the 7 Mil and 15 Mil film?                           See response to 1-25 above.
+       Drawing T2.01 – Board Room 105. The drawing indicates two projectors
+       however there is only one AV input plate. Are we to assume that the one AV
+       input plate controls one projector and the other projector is controlled by
+1-31   either the LAN or Wirelessly?                                                      Refer to updated addendum 3 drawings.
+
+       Specification 274116 2.2.A.1 – Wall Mounted Projector. The specification
+       sheet call for the projectors to be short throw wall mount projectors however
+       on drawing T2.01 in the Board Room 105, the drawing indicates the position
+       of the projectors are 12-15 feet from the wall. Are there different projectors
+1-32   for this area or are they to be mounted to the wall?                           Refer to updated specifications in addendum 3.
+       Specification 274116 2.10 Cafeteria Projection and Screen. The drawings
+       provided for this project don’t indicated a Cafeteria area. Is this section not
+1-33   used or is it misidentified?                                                    Refer to updated specification sections in addendum 3.
+       The T drawings show cameras and access control for doors but there are no
+       specs in Section 28. Will CCTV and Access Control be included in Section 28 as
+1-34   an Addendum?                                                                    Refer to added specifications in addendum 3.
+
+       The last Stafford Project (Middle School) had an emergency radio
+       communications system for first responders. I believe it was added once the
+1-35   fire marshal reviewed the plans. Will this building require one as well?           Refer to updated sheet E1.01 in addendum 3.
+
+       Specification 11 52 13 does not indicate the actual size of the specified          Spec Section 274116.2.10 refers to Basis of Design projection screen; see revised spec section 274116.2.10 and new spec section 11 52 13
+1-36   projector screen nor is it indicated in the drawings. Please provide size.         for projection screens.
+       Is Fire Alarm a part of the scope of work for this project? Will Fire Alarm
+       drawings be issued as they cannot be found in any of the Addenda or Issued
+1-37   Drawings?                                                                          Fire Alarm shall be included in the project. See specification section 28 31 11 as issued in Addendum 3.
+
+
+       Please provide a location in the drawings where this Section can be found:
+       SECTION 10 14 00 – SIGNAGE (pg.5) 2.5 INTERIOR VINYL DIE-CUT FILM
+       A. Provide 1-inch high, upper case, Helvetica Medium vinyl die-cut letters
+       fabricated from, opaque
+       non-reflective vinyl film, 0.0035-inch minimum thickness, with pressure
+       sensitive adhesive
+       backing, suitable for exterior and interior applications as follows.
+       B. Interior Vinyl Die Cut Film Schedule: Please provide size, details, message,
+1-38   finishes and locations in the drawings where this Section can be found.            There is no die-cut vinyl in the Admin Building project, and references for it shall be deleted from the project in Addendum 3.
+       Regarding spec. 12 24 00 – could you please verify if these are manual shades
+       only or if motorized shades should be used at store front or any other
+       location (Lobby level 2 open to lobby level 1). The spec sheets indicate
+       manual shades in detail 2.1 B however, 3.1 B indicates motors be connected
+1-39   to electrical system.                                                              All shades on the project are to be manual.
+       It does not appear that there is a specification for the LVT referenced in
+1-40   Alternate #4                                                                       Specification for LVT has been added to Section 09 65 00 RESILIENT FLOORING, revised and issued with Addendum 4.
+       It does not appear that there is a specification for the exterior canopy
+1-41   structures referenced as B12 on sheet A3.00                                        Specification Section 10 73 16 CANOPIES has been added in Addendum 4.
+       It does not appear that there is a specification for the Sun Shades referenced     Sun shades are to be integral to the storefront system into which they are mounted. Further information shall be provided in Addendum
+1-42   in section 13/A5.02                                                                4, to be issued on 3-22-2019.
+
+       It does not appear that thee is a specification for the “Premanufactured           Specification for Premanufacturered Screen Wall louvers has been added to Section 08 90 00 LOUVERS, revised and issued with
+1-43   Mechanical Screen Wall” Referenced as Alternate #3                                 Addendum 4.
+1-44   The cut sections for the Front Desk 06/A2.50 are missing                           Sections have been added for the Front Desk, see drawing A9.00 and keyed from 06/A2.50.
+       The exterior wall louver on sheet A5.00 is called out to be 6”-8” x 2’-0” and on
+1-45   the Mechanical sheet M3.01 it is called out as 12”x12”                             Provide per architectural drawing: 6'-8" x 2'-0" re: A5.00.
+       10 14 00—4, 2.2 marquee sign B #26 -plaque schedule, then 10 14 00-8 C
+       mount plaques instructions on marquee sign-no visual of marquee as
+1-46   promised on p 4.                                                                   See response to 1-10 above. No Marquee sign in Admin Scope.
+       What is the real physical address of the project? The specs say 1625 & the
+2-1    plans say 1633 Staffordshire Rd. Please advise.                                   The Correct Address of the project is 1633 Staffordshire Rd.
+
+       How should the bid bond be made out? The specs refer to Stafford ISD and          The official name of our client is Stafford Municipal School District. This is the wording that shall be used in all documentation pertaining
+2-2    some documents say Stafford Municipal School District. Please advise.             to your bids.
+
+       Spec section 01 75 00-02 item C. Commissioning Agent: selected by the            SMSD is to hire the Commissioning Agent and Testing And Balancing subcontractor separately from the AE contract. (note: code requires
+2-3    Architect. Is this person or firm paid by the Architect or Owner? Please advise. Commissioning Agent be hired. The project is not LEED).
+
+       Sheet C1.01 and sheet A1.00 do not match for sidewalks etc. Please advise,        Confirm that the most current drawings are used for bidding. The sidewalks were coordinated in Addendum 1. Only the limits of work at
+2-4    which plan we should go by for estimating?                                        the north parking lot (existing asphalt parking lot) were not coordinated. See revised Architectural site plan in Addendum 4.
+
+                                                                                         The "Monument Sign" refered to by note S07 on A1.00 is actually the district's existing Marquee Sign. The existing marquee sign is
+                                                                                         currently controlled from the old administration building and is to be controlled from the new administration building. This will require
+                                                                                         repair/replacement of the existing sign driver equipment; installation of underground conduits and cabling for data and power; and any
+       Sheet A1.00 note S07 says to refurbish monument sign as necessary. Please         other necessary work to ensure that the marquee sign is functional upon substantial completion of the project. Note that this is not a
+2-5    be specific, what is as necessary??                                               requirement for a new monument sign or marquee on the project. Only refurbishmen of the existing sign.
+       Sheet A1.00 note S14 calls for expansion every (24’ or 30’) which is it 24’ or    Expansion Joints shall be evenly spaced along the driveways, with spacing falling between 24' and 30'. Note S14 has been revised for
+2-6    30’? Please be specific.                                                          Addendum 4.
+2-7    Sheet A5.00 door #100C is not on the door schedule. Please advise.                Door 100C is indicated in the door schedule as issued in Addendum 1 and Addendum 3.
+       Sheet A2.00 there is no door # on the main double door entries from exterior
+2-8    to lobby 100? Please advise.                                                      The doors were numbered in Addendum 3.
+       Sheet A2.00 door 1C03 no information. Is it H.M. frame? Aluminum? Please
+2-9    advise?                                                                           Door 1C03 was detailed (information provided in Door Schedule) for Addendum 1.
+2-10   Please proved a spec. for the wall hung canopies.                                 See response to RFI 1-41 above.
+       Spec section 01 50 00-9 2a says the G.C. should pay for Owner’s
+       representatives “long distance” phone calls. This can get out of hand. Please
+2-11   address this issue.                                                               Long distance calls are not required since everyone uses a cell phone. The requirement has been stricken from the spec for Addendum 4.
+       The Geo-Tech Report does not recommend the use void forms under the
+       grade beams due to water collecting under the void forms. Sheet S4.02 shows
+       void forms at all grade beam details. Clarify if the Geo-Tech or the details on   Yes void forms are required under grade beams otherwise expansive soils will push up on the concrete beams and cause movement issues.
+2-12   Sheet S4.02 should be used.                                                       Follow structural drawings.
+
+       The Geo-Tech Report describes in detail as to how the under slab piping
+       should be constructed and provides the reasoning behind their
+       recommendations. The Super Void Form System Detailed in the Structural            Since the soil under the building slab is highly expansive and it is not being treated the detail shown in structural drawings for underground
+       and Plumbing Drawings are in direct conflict with the Geo-Tech Report. Clarify    plumbing lines is the most appropriate method to prevent damage on underground plumbing lines due to soil movement from expansive
+2-13   if we are to follow the Geo-Tech recommendations.                                 soils.
+       If the Super Void Form System is to used clarify if all components of the         Hanger rod to be stainless steel since is in direct contact with ground. The other components inside the pipe saddle void space can be
+2-14   hanger systems are to be Stainless Steel                                          galvanized steel.
+       The Geo-Tech explains how the site work is to proceed regarding testing and
+       monitoring. Will the Geo-Tech be part of the testing process and will their
+2-15   services be reimbursed via the Owner?                                             HVJ is our CMT and Geotech. So these costs will be covered by SMSD
+       Section 01-32-00 Construction Video Tapes. It is very necessary to establish if
+       the video monitoring will be for 24 hours per day or for a lesser taping
+       duration Regarding the voice insertion with the video a time period is
+       required to determine how long the narration and what will need to be
+       inserted. This information is required to obtain pricing as the range of pricing
+       quoted by 3 production companies have been In the range between
+       $90,000.00 dollars to $150,00,00 dollars to video monitor, voice over the
+       actual time lapsed tapes, and provide an accompanying typed narrative.
+2-16   Clarification is requested for the requested Video Tapes and Narration.          Videotape requirement has been deleted from spec for Addendum 4.
+
+       Sheet A8.00 elevation detail 19 & 20. What is it showing on the wall, marker
+       boards, tack boards, projection screens or something that is owner furnished?
+       There is a spec. section 10 10 00 Visual display surfaces, however, none
+       shown on plans. Plan sheet A2.00 and A2.01 plan key note A10 refers to wall
+2-17   mounted smartboards. Please clarify.                                          Wall mounted smartboards and visual display surfaces have been clarified for Addendum 4. (See Revised sheets A6.00 and A8.00)
+
+       Sheet A8.00 Lobby 100 detail 27 indicates 2 display cases, however, there is
+2-18   no spec section or details. Please provide information, specs, or details.        Display cases are to be provided as millwork. These were clarified in Addendum 3. (Details are on the new sheet A9.10)
+
+       Spec. section 11 31 00 page 3 2.1 residential appliances item #2 refers to a
+2-19   microwave, however, then it refers to a top freezer? Please clarify.              Spec section 11 31 00 has been revised for clarity and issued with Addendum 4.
+       Spec. section 11 52 13 Projection screens page 2 item C.1a calls for item 1 &
+       item 2 or quantity? No size shown or clear on documents as to quantity.           Refer to RCPs as issued in Addendum 3 for location of projection screens. Spec section item C.1.indicates which manufacturers are
+2-20   Please clarify.                                                                   acceptable for the matte white viewing surface on the screens.
+       Spec. section 12 24 00 window shades in reading 1.2 summary item 1 & 2. I
+       assume we are to put mechoshades on all exterior windows except window
+       wall & sidelights associated with entrance doors . Please advise if that is not
+2-21   correct.                                                                          Confirmed. Provide shades per spec.
+       Spec. section 12 48 13 Entrance mats. Please furnish size and location, none
+2-22   shown on documents.                                                               Provide per revised sheet A6.00, issued in Addendum 4.
+       Spec Section 10 44 13 Fire extinguishers and cabinets page 2 2.2 C & D FE-1
+       5# FE-2 10#, however, plan sheet A0.20 does not indicate which ones are FE-1
+2-23   or FE-2? Please clarify.                                                          Provide only 10 pound (Type 'FE-2') portable extinguishers at locations indicated on sheet A0.20. Omit FE-1 (5 pound) type.
+       Plan sheet A4.20 detail 04 shows the handrails to be 1 ½ “ OD metal and
+       detail 25 same page shows the handrails to be 1 ½” brushed aluminum?
+2-24   Please clarify.                                                                   Provide 1 1/2" OD metal (shop primed and painted to match stairs) at stairs
+       I wanted to find out if the AV for this project is under your contract? The table
+       of contents in the spec sheet mentions that division 27-41 is (12) pages.
+       When I look in the spec sheets, it goes from 26-95 to 27-70. It appears that 27-
+2-24   41 is missing? Please clarify.                                                    Integrated Audio Visual System Spec Section 27 41 16 was reiussued in Addendum 3, and is complete.
+
+       In the specs, it says both direct (fiber) connect or wireless communications.
+       For direct connect, can you tell me how far in linear feet is the sign from the   The distance from the existing marquee sign to the southwest corner of the building is 100' as the crow flies. From there to the MDF Room is
+2-25   point of the building closest to the MDF room?                                    60' as the crow flies (these dimensions rounded up to the nearest 10').
+       Storefront spec calls for 2 – coat painted finish, curtain wall spec calls out     Provide Clear Annodized Finish on all aluminum storefronts, curtain walls, and entrances (including interior storefronts). Spec for
+2-26   clear anodized finish, what is the intended finish?                                Entrances and Storefront has been revised for Addendum 4.
+       Specs call out for interior storefront 1 ¾” x 4 ½”, adden drawings, interior
+2-27   storefront drawn raco type framing, which is correct?                              Provide per spec.
+
+
+       A. Provide 1 – inch high, upper case, Helvetica Medium vinyl die-cut letters
+       fabricated from, opaque non-reflective vinyl film, 0.0035-inch minimum
+       thickness, with pressure sensitive adhesive backing, suitable for exterior and
+       interior applications as follows. B. Interior Vinyl Die Cut Film Schedule: Refer
+       to Drawing for size, details, message, finishes and locations required.
+2-28   I did not locate drawing indicating locations and messages. Please supply.         There is no die-cut vinyl film on the project. See response to RFI 1-38 (response in Addendum 3) above.
+       Spec section 09 90 00; Painting page 12 E.2.a. item 7) other items as directed     Other items to be painted may include (but not limited to) sprinkler lines, fire equipment, etc. and will be done at the request of the
+       by Architect. Please clarify? What & how much money does the painting sub          Owner or the Authorities Having Jurisdiction. The cost of painting such items is expected to be minimal, and should be addressed during
+2-29   need to add to his bid to cover that statement?                                    construction when the parties indicated above require it.
+       Spec section 10 13 00 Directories, none shown on documents, please advise if
+2-30   there is more than one (1)?                                                        Directory location was indicated on sheet A6.00 in Addendum 3.
+       Sheet C1.02 Key note 4 refers to handrails. Please provide detail and length
+2-31   required.                                                                          Key Note 4 on sheet C1.02 was deleted and replaced in Addendum 1. Please ensure that the most current drawings are used for bidding.
+       Sheet C1.01 Key note 4 street light to be relocated. Is the city going to
+2-32   relocate this item or is the G.C. to relocate same? Please advise.                 GC shall assume street light relocation is in contract. If City relocates, GC shall provide full credit back to owner.
+       I see the spec’s required an AISC Certified Fabricator. Can we possibly get this   No portions of the spec can be waived prior to bid. However, this may be discussed during the post-bid value-engineering process
+2-33   waived?                                                                            between the Owner, AE, and chosen General Contractor.
+       Do you have insurance requirements that show the limits required on this
+2-34   project for liability coverages?                                                   This is shown in the RFP as well as the sample AIA contracts posted on the SMSD website
+
+                                                                                          The project is in the City of Stafford, TX. The City has jurisdiction for code review (see sheet A0.00 for codes in force). Additionally,
+2-35   What is the governing agency for permits?                                          drawings are reviewed by the Municipal Utility District for the Area: Fort Bend Water Control & Improvement District No. 2 ("FBWC&ID2").
+       21 00 00-Fire Suppression—This specification references an alternate that is
+       not listed on the Bid Form. Should be omit this portion of the specification or
+2-36   will there be an alternate added?                                                  There are no fire-suppression related alternates on the project. Disregard portion of section 21 00 00 that discusses alternates.
+       21 00 00-Page 20—Page 20 was not provided electronically. It looks like what
+       should have been page 20 did not scan or upload properly. Should there truly
+2-37   be a page 20? [Attachment RFI 3]                                                   A revised Spec Section 21 00 00 has been issued with Addendum 4.
+       11 52 13-2, Part 2 Paragraph C, states to provide projector screen in sizes
+       indicated. Please confirm exact projector screen dimensions as they are not
+2-38   specified in drawings or spec sheets.                                              Screen size indicated on drawings is approx 18' (216") diag.
+       Upon reviewing the Site Plan A1.00, the area that includes the replaced
+       asphalt paving: The plans are not printed strongly enough to show new              The area in question in the PDF is actually existing and has no new striping. However, site plan A1.00 has been revised for Addendum 4
+       striping for the amount of the parking lot we remove and replace.                  with respect to the limits of the work on the pavement in order to meet existing pavement while maintaining acceptable slopes for
+2-39   [Attachment RFI 5&6]                                                               accessibility.
+       Have not found where there is any lime stabilization required below the
+       replace asphalt paving. We understand the use of cement stabilized base, but
+       no indication found for lime stabilization of the subgrade. [Attachment RFI
+2-40   5&6]                                                                               No lime stabilization is required below the replaced asphalt paving. Instead 10" of black base will be used.
+
+2-41   Is this building Factory Mutual insured?                                           This is for all subs/suppliers that bidder are documenting or identifying as SBP status. Not for all subcontractors included in their bid.
+       In regards to the attached page 52 of 60 – CONTRACTOR AND
+       SUBCONTRACTOR PARTICIPATION FORM, is it correct that we need to have a
+       separate line for every work category required in this bid (i.e. masonry, steel
+       fabrication, steel erection, rough carpentry, etc.) and list the name, address,
+       telephone number, contact person, scope of work, Small Business status,
+       dollar amount, and percentage of the bid for all subcontractors and suppliers
+2-42   all by 4:00 on bid day? This is likely to be around 40 companies?               All portions of the front-end of the spec shall remain in force with no changes.
+
+       Putting together a Small Business Participation Plan requires an enormous
+       amount of communication, bid qualifications, and information gathering with
+       subcontractors who may not even be accessible in the 5 hour window
+       between 11:00 and 4:00. Why can’t the due date / time for the Small
+       Business Participation Plan be moved to the day after the bid day at 4:00?
+2-43   The rest of part 2 can still be turned in on bid day at 4:00.               Due date and time for bids shall remain unchanged.
+
+       Paragraph 1.7.B.1 of spec section 051200 calls for A QUALIFIED FABRICATION
+       WHO PARTICIPATES IN THE AISC QUALITY CERTIFICATION PROGRAM AND IS
+       DESIGNATED AN AISC-CERTIFED PLANT, CATEGORY SBD. This required greatly
+       reduces the number of steel fabricators in the Houston area that can bid. This
+       typically raises the cost of the structural steel fabrication. Less than 10% of
+       the projects of this type require AISC Certification. Can this requirement be
+2-44   waived?                                                                            See response to question 2-33 above.
+       Spec 096816, paragraph 2.1.A calls for an allowance of $30.00 / sy for carpet.
+       Is this to be per sy of carpet installed or purchased which would include
+2-45   waste?                                                                             Cost listed in spec section 096816 is for carpet installed.
+       The Room Finish Schedule Alternate 4 calls for LVT in lieu of VCT in specified
+       rooms. However, the LVT manufacture, color, and model are all listed as TO
+       BE DETERMINED. Can a spec for the LVT be added so we can price this
+2-46   alternate?                                                                         Specification for LVT is provided in Addendum 4, see RFI 1-40 above.
+       Structural plans show slab on grade. Will detail 12, P501 be required?
+       (typically used on plank projects) This will double the price of the
+       underground work. We will break out price as an add unless notified                Structural Plans do NOT show slab on grade. The building has a Structural Slab, as detailed on sheets S4.02 and S4.03. Detail 12/P5.01 is
+2-47   otherwise.                                                                         required.
+
+2-48   Will detail 5, P501 be required or will water heater set on pad on floor?          Provide per detail 5/P5.01.
+       P2.01: 2” vent in east wall of Chair storage 105a is not shown on P2.02. We
+2-49   will draw in & include to 2” VTR.                                                  The vent line has been added for Addendum 4.
+       P2.02 2” vent from restroom below is missing. We will draw in & include to 2”
+2-50   VTR.                                                                               The vent line has been added for Addendum 4.
+       Will gas piping rise to roof on exterior of building as shown on P3.03 or inside
+2-50   building per detail 9, P5.02.                                                      Gas piping has been revised for Addendum 4.
+  Unless otherwise specified above, all provisions of the RFP Documents remain unchanged.
+
+
+
+
+                              END OF ADDENDUM No. 4
+
+
+
+
+Addendum No. 4                                                              Page 15 of 15
+

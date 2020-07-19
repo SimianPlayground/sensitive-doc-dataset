@@ -1,0 +1,172 @@
+                                                                                 Select your Plan
+
+                                                                                                                           TRANSACTION AND PREDETERMINATION INFORMATION
+                                                                                                                               13. Type of Transaction (Mark all Applicable Boxes)
+                                                                                                                                         Statement of Actual Services                          Request for Predetermination/Pre-treatment Estimate
+  SUBSCRIBER INFORMATION                                                                                                                 EPSDT/ Title XIX                                      Encounter
+1. Policyholder / Subscriber Name (Last, First, Middle Initial, Suffix), Address, City, State, ZIP Code                        14. Predetermination/
+                                                                                                                                   Pre-treatment
+                                                                                                                                   Estimate Number
+                                                                                                                               TREATMENT INFORMATION
+                                                                                                                               15. Treatment Resulting From
+                                                                                                                                           Occupational Illness/injury                        Auto accident                     Other accident
+
+                                                                                                                               16. Date of Accident (MMDDCCYY)                                                               17. Auto Accident State
+  2. Date of Birth           (MMDDCCYY)        3. Gender                4. Policyholder / Subscriber ID (SSN or ID#)           18. Place of Treatment                                                                 19. Number of Enclosures (00 to 99)
+                                                      M           F                                                                                                                                                      Radiograph(s)     Oral Image(s)     Model(s)
+                                                                                                                                           Provider's Office         Hospital          ECF           Other
+  5. Plan or Group                          6. Employer
+     Number                                    Name                                                                            20. Is Treatment for Orthodontics?                                             21. Date Appliance Placed (MMDDCCYY)
+                                                                                                                                           No (Skip 21-22)             Yes (Complete 21-22)
+  PATIENT INFORMATION
+                                                                                                                               22. Months of                       23. Replacement of Prosthesis?             24. Date of Prior Placement (MMDDCCYY)
+  7. Relationship to Policyholder/Subscriber in #1 Above                                                                           Treatment
+                                                                                                                                   Remaining                              No       Yes (Complete 44)
+              Self              Spouse        Dependent Child               Other
+                                                                                                                           OTHER INSURANCE COVERAGE
+  8. Patient Name (Last, First, Middle Initial, Suffix), Address, City, State, ZIP Code
+                                                                                                                               25. Other Coverage?                  None                Dental (Complete 26-32)                     Medical (Complete 26-32)
+                                                                                                                               26. Name of Other Coverage Policyholder / Subscriber (Last, First, Middle Initial, Suffix)
+
+
+                                                                                                                               27. Date of Birth (MMDDCCYY)                    28. Gender                29. Policyholder / Subscriber ID (SSN or ID#)
+                                                                                                                                                                                      M              F
+  9. Date of Birth (MMDDCCYY)                 10. Gender               11. Patient ID/Account # (Assigned by Dentist)          30. Plan or                                     31. Patient's Relationship to Person Named in #26
+                                                      M           F                                                                Group
+                                                                                                                                                                                         Self                Spouse              Dependent                 Other
+                                                                                                                                   Number
+  12. Remarks
+                                                                                                                               32. Other Insurance Company / Dental Benefit Plan Name, Address, City, State, ZIP Code
+
+
+
+
+ 33. Diagnosis Codes                 A.                                                   B.                                                     C.                                                          D.
+
+ RECORD OF SERVICES PROVIDED
+                                                                                                                                         40. Diagnosis
+        34. Procedure Date           35. Area of    36. Tooth Number(s) 37. Tooth   38. Quantity                39. Procedure                Pointer                                         41. Description                                           42. Fee
+            (MMDDCCYY)                  Oral Cavity     or Letter(s)        Surface                                 Code                      (A, B, etc.)
+
+  1
+
+  2
+
+  3
+
+  4
+
+  5
+
+  6
+
+  7
+
+  8
+
+ MISSING TEETH INFORMATION                                                                     Permanent                                                                           Primary
+                                                                                                                                                                                                                               43. Total
+                                                  1       2      3     4     5      6    7       8    9    10   11   12   13        14      15    16    A      B      C        D   E     F       G       H        I      J         Fee             0.00
+ 44. (Place an 'X' on each missing tooth)
+                                                 32   31         30    29    28     27   26      25   24   23   22   21   20        19      18   17      T     S      R        Q   P     O       N       M     L         K
+
+ AUTHORIZATION - RELEASE OF INFORMATION                                                                                        AUTHORIZATION - ASSIGNMENT OF BENEFITS
+  45. I have been informed of the treatment plan and associated fees. I agree to be responsible for all                        46. I hereby authorize and direct payment of the dental benefits otherwise payable to me, directly to the below named
+  charges for dental services and materials not paid by my dental benefit plan, unless prohibited by law, or                   dentist or dental entity
+  the treating dentist or dental practice has a contractual agreement with my plan prohibiting all or a portion of
+  such charges. To the extent permitted by law, I consent to your use and disclosure of my protected health
+  information to carry out payment activities in connection with this claim.
+                                                                                                                               X
+                                                                                                                                   Subscriber signature                                                                          Date
+
+                                                                                                                               TREATING DENTIST AND TREATMENT LOCATION INFORMATION
+ X                                                                                                                             53. I hereby certify that the procedures as indicated by date are in progress (for procedures that require multiple
+     Patient/Guardian signature                                                           Date                                     visits) or have been completed
+
+ BILLING DENTIST OR DENTAL ENTITY
+ 47. Dentist or Entity Name, Address, City, State, ZIP Code                                                                    X
+                                                                                                                                   Signed (Treating Dentist)                                                                      Date
+
+
+                                                                                                                               54. Treatment Location Address, City, State, ZIP Code - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+  48. NPI                                                                                                                      55. NPI
+                                                          50. SSN                                                                                                                               57. Provider
+  49. License                                                                                                                  56. License
+                                                              or                                                                                                                                    Specialty
+      Number                                                                                                                       Number
+                                                              TIN                                                                                                                                   Code
+  51. Phone                                                   52. Additional                                                   58. Phone                                                        59. Additional
+      Number                                                      Provider ID                                                      Number                                                           Provider ID
+Delta Dental Enterprise Claim Form
+Version 1, Rev 0        10/12/2011
+                                                               Claim Form Disclosure
+You may be subject to civil and criminal penalties for knowingly providing false or misleading information.
+Alabama: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or who knowingly presents false information
+in an application for insurance is guilty of a crime and may be subject to restitution fines or confinement in prison, or any combination thereof.
+Alaska: A person who knowingly and with intent to injure, defraud, or deceive an insurance company files a claim containing false, incomplete or
+                                                  For your protection Arizona law requires the following
+misleading information may be prosecuted under this title. Arizona:
+
+statement to appear on this form. Any person who knowingly presents a false or fraudulent claim for
+payment of a loss is subject to criminal and civil penalties. Arkansas: Any person who knowingly presents a false or
+fraudulent claim for payment for a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be
+subject to fines and confinement in prison. California: For your protection, California law requires the following to appear on this form: Any person
+who knowingly presents false or fraudulent claim for the payment of a loss is guilty of a crime and may be subject to fines and confinement in state
+prison. Colorado: It is unlawful to knowingly provide false, incomplete, or misleading facts or information to an insurance company for the purpose of
+defrauding or attempting to defraud the company. Penalties may include imprisonment, fines, denial of insurance and civil damages. Any insurance
+company or agent of an insurance company who knowingly provides false, incomplete, or misleading facts or information to a policyholder or claimant
+for the purpose of defrauding or attempting to defraud the policyholder or claimant with regard to a settlement or award payable from insurance
+proceeds shall be reported to the Colorado division of insurance within the department of regulatory agencies. Delaware: Any person who knowingly,
+and with intent to injure, defraud or deceive any insurer, files a statement of claim containing any false, incomplete or misleading information is guilty of
+a felony. District of Columbia: WARNING: It is a crime to provide false or misleading information to an insurer for the purpose of defrauding the
+insurer or any other person. Penalties include imprisonment and/or fines. In addition, an insurer may deny insurance benefits if false information
+materially related to a claim was provided by the applicant. Florida: Any person who knowingly and with intent to injure, defraud or deceive any
+insurance company files a statement of claim containing any false, incomplete, or misleading information is guilty of a felony of the third degree.
+Hawaii: For your protection, Hawaii law requires you to be informed that presenting a fraudulent claim for payment of a loss or benefit is a crime
+punishable by fines or imprisonment, or both. Idaho: Any person who knowingly, and with intent to defraud or deceive any insurance company, files a
+statement containing any false, incomplete, or misleading information is guilty of a felony. Indiana: Any person who knowingly, and with intent to
+defraud an insurer, files a statement of claim containing false, incomplete or misleading information commits a felony. Kansas: Any person who
+knowingly files a statement of claim containing any misrepresentation or any false, incomplete or misleading information may be guilty of a criminal act
+punishable under law and may be subject to civil penalties. Kentucky: Any person who knowingly and with intent to defraud any insurance company
+or other person files a statement of claim containing any materially false information or conceals, for the purpose of misleading, information any fact
+material thereto commits a fraudulent insurance act, which is a crime. Louisiana: Any person who knowingly presents a false or fraudulent claim for
+payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and
+confinement in prison. Maine: It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the
+purposes of defrauding the company. Penalties may include imprisonment, fines or a denial of insurance benefits. Maryland: Any person who
+knowingly and willfully presents a false or fraudulent claim for payment for a loss or benefit or who knowingly and willfully presents false information in
+an application for insurance is guilty of a crime and may be subject to fines and confinement in prison. Minnesota: A person who files a claim with
+intent to defraud or helps commit a fraud against an insurer is guilty of a crime. New Hampshire: Any person who, with a purpose to injure, defraud
+or deceive any insurance company, files a statement of claim containing any false, incomplete or misleading information is subject to prosecution and
+punishment for insurance fraud as provided in R.S.A. 638.20. New Jersey: Any person who knowingly files a statement of claim containing any false
+or misleading information is subject to civil and criminal penalties. New Mexico: Any person who knowingly presents a false or fraudulent claim for
+payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to civil fines
+and criminal penalties. New York: Any person who knowingly and with intent to defraud any insurance company or other person files an application
+for insurance or statement of claim containing any materially false information, or conceals for the purpose of misleading, information concerning any
+fact material thereto, commits a fraudulent insurance act, which is a crime shall also be subject to a civil penalty not to exceed five thousand dollars and
+the stated value of the claim for each such violation. Ohio: Any person who, with the intent to defraud or knowing that he is facilitating a fraud
+against an insurer, submits an application or files a claim containing a false or deceptive statement is guilty of insurance fraud. Oklahoma: WARNING:
+Any person who knowingly, and with intent to injure, defraud or deceive any insurer, makes any claim for the proceeds of an insurance policy containing
+any false, incomplete or misleading information is guilty of a felony. Pennsylvania: Any person who knowingly and with intent to defraud any
+insurance company or other person files an application for insurance or statement of claim containing any materially false information or conceals for
+the purpose of misleading, information concerning any fact material thereto commits a fraudulent insurance act, which is a crime and subjects such
+person to criminal and civil penalties. Puerto Rico: Any person who knowingly and with the intention to defraud presents false information in an
+insurance application or, who presents helps or has a fraudulent claim presented for the payment of a loss or other benefit, or presents more than one
+claim for the same loss or damage, will incur in a felony and if convicted, will be sanctioned for each violation with a fine of no less than five thousand
+($5,000) dollars or no more than ten thousand ($10,000) dollars or imprisonment by the fixed term of three years, or both punishments. With
+aggravating circumstances the fixed term of the punishment could go up to five (5) years; with mitigating circumstances the punishment could be
+reduced to a minimum of two (2) years. Rhode Island: Any person who knowingly presents a false or fraudulent claim for payment of a loss or
+benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+Tennessee: It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purposes of defrauding the
+company. Penalties may include imprisonment, fines or a denial of insurance benefits. Utah: Any person who knowingly presents false or fraudulent
+underwriting information, files or causes to be filed a false or fraudulent claim for disability compensation or medical benefits, or submits a false or
+fraudulent report or billing for health care fees or other professional services is guilty of a crime and may be subject to fines and confinement in state
+prison. Virginia: It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purpose of defrauding
+the company. Penalties include imprisonment, fines and denial of insurance benefits. Washington: It is a crime to knowingly provide false,
+incomplete, or misleading information to an insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines, and
+denial of insurance benefits. West Virginia: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or
+knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+

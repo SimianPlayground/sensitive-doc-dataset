@@ -1,0 +1,600 @@
+                                       REQUEST FOR PROPOSALS (RFP)
+                                     For Information Technology Services
+
+
+
+
+                                      Chicago Ridge School District 127.5
+                                            Chicago Ridge, IL. 60453
+
+
+1.0 Purpose
+The purpose and intent of this Request for Proposal is to solicit Managed Information Technology (IT) Services
+from a qualified Offeror and to establish a contract through negotiations for continuing development and
+support of specific IT services for the Chicago Ridge School District, herein referred to as CRSD1275.
+
+
+1.1 IT Management Services Sought
+   NOC (24x7x365 monitoring, security, support and maintenance)
+
+          Server alert monitoring
+          Server repair
+          Server OS service packs
+          Server OS hotfixes
+          Server BIOS updates as required
+          Firewall and other denoted devices
+          Security administration
+          Wireless access point updating
+          Wireless access point configurations as required
+          Wireless access point monitoring
+          Antivirus licensing
+          Virus definition and prevention
+          Microsoft patch management
+          Event log monitoring as required
+          Log file maintenance as required
+          Drive space monitoring and remediation
+          Installation and configuration of servers due to disaster
+          Applications including, but not limited to:
+               o Network operating systems
+                                                        1
+           o   Backup
+           o   Major database and critical applications
+           o   Support and troubleshooting of critical line of business applications
+           o   Student information systems applications
+   Helpdesk (Monday through Friday 30 minutes (7:30 a.m.) prior to school start and 30 minutes after
+   the business office end (4:30 p.m.)
+
+          Chromebook, workstation desktop, laptop and tablet support and maintenances
+          User account administration
+          File sharing permission administration
+          Basic end user support
+   Onsite Support (Monday through Friday Full-Time 7:00 a.m. – 3:30 p.m.)
+
+          Chromebook, workstation desktop, laptop and tablet failure
+          Hard drive failure
+          Memory failure
+          Power supply failure
+          Keyboard and mouse failure
+          Internet service provider management
+          Router management
+          Switch management
+          Antivirus management
+          Firewall management
+          VPN management
+          Outside printed management
+          Outside vendor support
+          Online asset management
+          Online case management
+          Automated desktop optimization and management
+          Spyware and Adware removal
+          VPN client management
+          Antivirus software management
+          Software patch management
+          Mail and anti-spam support
+2.0 BACKGROUND
+   Chicago Ridge School District 127.5 is a small suburban school district with approximately 200
+employees and 1,500 students. The District operates a total of 3 instructional buildings made up of 2
+elementary and 1 middle school facilities and 1 administrative facility.
+
+
+
+
+                                                    2
+      As a result of decentralized management philosophy, the expectation of producing higher levels of services
+      in an environment with limited resources, the district foresees the necessity to maximize value.
+      CRSD1275 seeks a technology management solution that will provide stable and reliable IT services to
+      students and staff. The Offeror will be responsible for providing the resources necessary to provide these
+      services at a high quality and efficient manner.
+      3.0 CURRENT CRSD1275 IT ENVIRONMENT
+         3.1     Architecture
+                 The Offeror shall thoroughly understand the CRSD1275 IT environment and shall demonstrate
+                 this knowledge in their Proposal; the Offeror shall be responsible for maintaining/upgrading as
+                 well as improving the operational status of the CRSD1275 IT Architecture.
+         3.2     Organic Support
+                 CRSD1275 organic IT support consists of the Technology Services Facilitator. This position
+                 currently oversees the operations of administrative IT services; contracted IT support staff and
+                 Federal E-Rate Programs.
+         3.3     Contractor Support
+                 The bulk of CRSD1275 IT support will be contracted. The contracted staff will report to the
+                 CRSD1275 Technical Services Facilitator.
+
+
+4.0      SCOPE OF SERVICES
+         4.1     Current Environment
+     In order for prospective Offerors to size this contract properly, Table 4.1 provides an overview of the
+number of locations and network devices supported by IT.
+
+ CRSD1275 IT Profile Approximation                 Count
+ Total number of location                          4
+ Total number of Administration buildings          1
+ Total number of instructional buildings           3
+ Total number of students                          1,500
+ Total number of employees                         219
+ Total number of classrooms                        94
+ Total number of network devices                   1,800
+ Total number of Windows Servers                   4
+ Total number of routers                           2
+ Total number of switches                          25
+ Total number of AP’s                              109
+ Total number of network printers                  27
+ Total number of network users                     1720
+ Average monthly Helpdesk service tickets          373
+
+                                                         3
+4.2   Management Activities
+      4.2.1 Managed Service Plan
+            The Offeror shall describe the managed service approach and method(s) it plans to use
+            to provide the support required in this RFP. After award, the Management Service Plan
+            will become the Offeror’s base plan to fulfill the Contract. It will incorporate other plans
+            required by this RFP.
+
+                  Describe the Offeror’s proposed organization(s) and management structure,
+                   graphically and by narrative, responsible for fulling the Contract requirements.
+                   The Offeror must describe their reporting structure from the corporate level to
+                   their CRSD1275 IT Services Facilitator.
+                  Describe the methodologies, processes, and procedures the Offeror’s proposed
+                   organization(s) will follow to provide the required support for Help Desk, NOC
+                   and onsite support.
+                  Describe the methodologies, process, and procedures, the Offeror will undertake
+                   to adjust levels of operation should the scope of CRSD1275’s IT Architecture
+                   change significantly.
+                  Define the deliverable review process (e.g. Monthly Report, Contract Annual
+                   Report, Status and Performance Report(s) and describe how communication and
+                   review will be conducted between all parties.
+                  Describe the Offeror’s methodology for developing and maintaining a schedule
+                   for NOC, helpdesk and onsite services.
+                  Describe the Offeror’s approach, if applicable, to effectively select and manage
+                   its subcontractors. If subcontractor participation is proposed on this effort, the
+                   Offeror must include a teaming agreement with all proposed contractors as part
+                   of their Proposal.
+                  Describe the Offeror’s approach to identifying potential problem areas, provide
+                   recommended solutions to those problem areas, and any assumptions used in
+                   developing solutions.
+               The delivery requirements for the Management Plan are as follows:
+
+                  The Offeror shall provide a Draft Management Plan with the submission of their
+                   proposal.
+                  The Offeror shall update the Draft Management Plan and deliver 60 days after
+                   Contract start
+
+
+                                              4
+             The Offeror shall maintain the Management Plan for the duration of the Contract
+              and provide page changes to CRSD1275 management for review and approval.
+4.2.2 IT Support Services Contractor Transition
+                The Offeror shall work in conjunction with CRSD1275 and the current incumbent
+contractor to ensure the smooth transition of IT Support Services. The current incumbent
+contractor is required to provide a smooth transition not to exceed 45 Calendar days. Describe
+the Offeror’s approach to transition.
+4.2.3 Monthly Reports
+              The contractor shall submit a Monthly Report based on the agreed upon Services
+              Level Agreements (SLA). The Monthly Report will be due no later than the 10 th
+              day of every month.
+              The Monthly Report may include, but not be limited to:
+
+                 Planned projects
+                 System performance summary
+                 Fixed asset summary
+                 Issues/concerns
+4.2.4 CRSD1275 IT Architecture Support
+              The Offeror shall update the CRSD1275 IT Architecture as new technology is
+              implemented or removed.
+              The Offeror shall, in collaboration with CRSD1275, provide a comprehensive
+              reassessment and update document of the CRSD1275 IT Architecture, due to
+              CRSD1275 no later than 60 days before the expiration of each Contract Year.
+4.2.5 Operating Plan
+              The Offeror shall provide an Operating Plan within the Management Plan. The
+              Operating Plan will include a Personnel Profile Summary. Key personnel must be
+              available immediately after the award of the contract. Key onsite personnel shall
+              not be replaced and/or reassigned without CRSD1275 management review and
+              approval. The Offeror shall identify in their proposal if the proposed key
+              personnel are a current employee, a subcontractor, or a potential new hire.
+              The plan shall contain the following information:
+
+                 A Personnel Profile Summary, clearly defining skill sets, years of experience
+                  and customer work references, along with a resume for each team member
+                  proposed.
+                 A contingency plan that shows the ability to add more staff if needed to meet
+                  the Contract’s performance requirements.
+                 A statement of the Offeror’s ability to be fully staffed for the Contract.
+
+                                       5
+                A statement of the Offeror’s ability to provide qualified replacement
+                 personnel.
+                A statement of the Offeror’s Professional Development Strategy for its staff
+                 and its staff’s ability to remain at the leading edge of IT support services
+                 relative to the K-12 education industry.
+                A statement of ability to operate and meet all requirements within this RFP.
+4.2.6 Non-disclosure Stipulation on CRSD1275 Confidential/Proprietary Data
+             The Offeror shall take all precautions necessary and appropriate to ensure the
+             confidentiality of CRSD1275 record information. The Offeror shall limit access to
+             the CRSD1275 records only to its authorized representatives. Except as
+             authorized by CRSD1275, the Offeror shall not reproduce any CRSD1275 records.
+             CRSD1275 shall have the right to review the Offeror’s procedures for handling
+             CRSD1275 records and may make such inspections, as it deems necessary to
+             ensure that the contractor is safeguarding the CRSD1275 record information
+             adequately.
+4.2.7 Supervision/Time & Attendance Accounting
+             In addition to the scope of work for the required support services, the Selected
+             Offeror shall be required to abide by the following:
+
+                Helpdesk operations can be both remote and onsite at CRSD1275 Central
+                 Office when needed.
+                Onsite individuals shall be required to work from CRSD1275 buildings, unless
+                 another facility is mutually agreed upon.
+                The Offeror shall submit monthly invoices, on the 10 th day of each month for
+                 the service provided during the preceding month, to the CRSD1275 key
+                 contact for their review and approval. The monthly invoices must identify
+                 each service type and description of project work charges if applicable.
+                 CRSD1275 will process the invoice and submit payment up to 30 days after
+                 receipt.
+                The Offeror shall be required to provide helpdesk (7:30 a.m. – 4:30 p.m.) and
+                 onsite proposed services covering all working hours of CRSD1275 personnel
+                 using IT (7:00 a.m. – 3:30 p.m.).
+                The Offeror shall discuss in the proposal if support for CRSD1275 staff after
+                 working after hours will be provided.
+                The Offeror shall provide support, as required, for after normal working
+                 hours at no additional cost to CRSD1275 for critical events. Examples of this
+                 support include, but is not limited to:
+                Network Outages
+                Disaster Recovery
+                Testing
+                Cyber-Security
+
+                                      6
+                 Software Upgrades
+                 End-Of-Year Processing
+             In the event of unforeseen circumstances identified by CRSD1275, the Offeror
+             shall provide CRSD1275, in writing, a formal plan when tasks require working
+             after normal business hours. If overtime is ever required and approved by
+             CRSD1275, the overtime rate will be at the normal billable hourly rate as
+             depicted in the Offeror’s Cost Proposal.
+
+
+
+
+4.2.8 Exit Plan
+      90 days prior to the expiration of the Contract Period and/or immediately upon the
+      termination of this Contract for any reason, the contractor shall perform the following:
+      The Offeror shall establish a written plan and timeline (with milestones), acceptable to
+      CRSD1275 Management, for the accomplishment of the Termination Assistance Services
+      and orderly transition of the services, as described in this RFP, from the contractor (“Exit
+      Plan”). The Exit Plan shall include but not be limited to:
+
+                 Software Development Folders
+                 Update CRSD1275 IT Architecture
+                 Status of in-progress projects with all documentation
+                 Training Classes and Documentation
+                 Disaster Recovery Plan and Testing documentation
+                 Process of collecting employee badges, keys, etc.
+                 Location and description of all desktop images
+                 Contents of IT documentation Library
+                 Process to inactivate all contractor staff network access
+                 Administrative passwords of all servers
+                 Diagram and documentation of all communication systems
+      The Offeror shall deliver the Exit Plan to CRSD1275 90 days prior to the expiration of the
+      Contract Base Period or any of the option yours of the Contract, and/or immediately
+      upon the termination of the Contract, as directed by CRSD1275. Immediately up
+      expiration or termination of the Contract, the Offeror shall provide the Termination
+      Assistance Services as listed in Paragraph 6.3 of this RFP.
+4.3   District Wide IT Requirements
+      The contractor shall provide district wide technical support to maintain/enhance the IT
+      architecture, to deployed applications, both organic and cloud. The Offeror shall
+      provide the support as listed in the Technical Support Requirements, Table 4.3, below.
+      The Offeror shall also provide support to the unique requirements listed within the
+
+                                        7
+                     following paragraphs of this section. Support requirements shall include, but are not to
+                     be limited to:
+
+                                       Technical Support Requirements
+        Enhancement of system performance
+        Ensuring operational status
+        Installation, implementation, and management of upgrades/updates
+        Installation of new software
+        Maintenance of user security and user profiles
+        Ongoing enhancements of systems performance
+
+
+                                Table 4.3 Technical Support Requirements
+Ninety (90) days prior to the end of each year of the contract, CRSD1275 and the contractor shall review
+support requirements to adjust current and add any new requirement based on CRSD1275 usage and need.
+              4.3.1 Local Area Network/Wide Area Network/Virtual Local Area Network/Wi-Fi
+              (LAN/WAN/VLAN/Wi-Fi) Connectivity
+                     4.3.1.1 LAN/WAN/VLAN/Wi-Fi Administrator
+                            The Offeror shall administer the various administrative and instructional (school)
+                            LANs/VLANs and support their connectivity to the CRSD1275 WAN. Each site
+                            contains VLANs for network administration, the CRSD1275 core network, site-
+                            specific networks, wireless network, security. As a result of this configuration
+                            network traffic can be more effectively managed, secured, and monitored.
+                     Support shall include the requirements identified in the Technical Support Requirements
+                     table above, as well as:
+
+                                   Network backup and recovery
+                                   Maintenance of user accounts
+                                   Network configuration management
+                     The Offeror shall support the connectivity of client desktop workstations and
+                     peripherals (where applicable) to the LAN/WAN/VLAN. This support shall include
+                     upgrade/installation of client connectivity software and the facilitation of warranty work
+                     for covered hardware and break/fix service for non-warranty hardware, including
+                     routers, switches, and network interface cards (NICs). The contractor shall also provide
+                     to CRSD1275 recommendations as to whether it is more cost effective to service or
+                     replace non-operation equipment. For the purchase of parts or equipment
+                     replacement, the contractor shall submit a purchase request with recommendations to
+                     CRSD1275 management for approval/execution.
+                     LAN/WAN/VLAN requirements shall include but not be limited to the following areas.
+
+
+
+
+                                                      8
+      E-Mail Administration
+      Network Design and Architecture
+      Network Tuning
+      Network Cabling
+      Network Wireless Network Printing
+Support requirements can be found in the following paragraphs.
+4.3.1.2 Network Cabling
+       The Offeror shall coordinate with CRSD1275 Facilities and Operations staff to
+       provide maintenance for any CRSD1275 owned existing CAT – 5/6 and fiber optic
+       cabling as well as their associated connections throughout the district.
+4.3.1.3 Network Printer/Scanner
+       The Offeror shall maintain and support network printer and scanner connections
+       throughout the district and coordinate services with outsourced printer
+       management company.
+4.3.1.4 Internet Support
+       The Offeror shall maintain district-wide connectivity to the Internet via the WAN
+       in compliance with the terms and conditions of the CRSD1275 Internet
+       Acceptable Use Policy.
+4.3.2 Client Software Technical Support
+       The Offeror shall provide technical/functional software support for the various
+       client desktops, laptops, and tablets as well as standalone computer equipment
+       and peripherals throughout the CRSD1275 Architecture.
+Support Shall include technical support identified in Table 4.3, as well as:
+
+      Operating system upgrades/maintenance
+      Deployment of software on workstations (physical and/or remote management)
+      Reimaging, if applicable
+      Software configuration
+      System configuration, if applicable
+      Connectivity to CRSD1275 Local Area Network/Wide Area Network/Virtual Local
+       Area Network (LAN/WAN/VLAN) and the Internet, if applicable.
+      Maintaining/ensuring full capability of installed software
+      Knowledge of the education process involved with the given applications. This
+       will include provision of Helpdesk support for:
+      The standard set of educational software packages approved by CRSD1275 and
+       used by teaching staff and,
+      The standard set of administrative software applications, approved by CRSD1275
+       and used by administrative staff.
+
+                                  9
+4.3.3 Enterprise Data Management Support
+The Offeror shall provide support to the current CRSD1275 Student Information
+System(s) Teacherease (Common Goal Systems INC.). Teacherease system is a hosted
+service designed to help teachers, administrators, and parents support student
+achievement. Connectivity to Teacherease (Common Goal Systems INC.) network is
+provided via LAN-to-LAN connection as well as potential future changes with CRSD1275
+Student Information System(s).
+4.3.4 SchoolMessenger Support
+       The Offeror shall provide technical support to maintain the SchoolMessenger
+       attendance/parent callback system as it is deployed at CRSD1275 buildings
+       across the district.
+4.3.5 Nwea Map Support
+       The Offeror shall provide technical support to maintain and update student
+       upload data as needed across the CRSD1275 buildings across the district.
+4.3.6 PearsonAccessNext Illinois Assessment of Readiness (IAR) Support
+       The Offeror shall provide technical support to maintain and update student
+       upload data as needed across the CRSD1275 buildings across the district.
+4.3.7 Illinois State Board of Education (ISBE IWAS) Student Data Support
+       The Offeror shall provide technical support to maintain and update student
+       upload data across the CRSD1275 buildings across the district as needed.
+4.3.8 Instructional Software Technical Support
+       The Offeror shall, throughout the term of the Contract, and at the direction of
+       the CRSD1275 Facilitator, provide technical support for new or existing
+       instructional software applications. This will include provision of Helpdesk
+       support.
+4.3.8.1 Administrative Software Technical Support
+       The Offeror shall, throughout the term of the contract, and/or at the direction of
+       CRSD1275 Facilitator, provide technical support for new or existing
+       administrative software applications, including version upgrades/updates, to be
+       used by administrative staff. This will include provision of Helpdesk support for
+       the standard set of administrative software applications, approved by CRSD1275
+       and used by administrative staff.
+4.3.8.2 Technical Support of Government Mandated Non-Standard Support
+       The Offeror, in collaboration with CRSD1275, shall evaluate mandates from state
+       and federal agencies of any non-standard software application that is currently
+       or may, in the future, be mandated by state or federal agencies to be used by
+                                10
+      departments within CRSD1275. The Offeror shall, in collaboration with
+      CRSD1275, reallocate resources to support the implementation and operation of
+      government mandated software.
+4.3.9 Information Technology Helpdesk
+      The Offeror shall establish and staff a Helpdesk from 7:30 a.m. – 4:30 p.m. and
+      extend hours if negotiated. Helpdesk will be the first line of support for all IT
+      issues across the district.
+      The Helpdesk will be responsible for providing support to approximately 1720
+      users (1,500 students and 219 Employees) across the full scope of the CRSD1275
+      IT architecture, receiving an average of 373 service tickets per month. Helpdesk
+      staff providing support must have extensive functional knowledge of the
+      instructional and administrative applications utilized throughout the district.
+      4.3.9.1 Helpdesk Support
+      The helpdesk shall be responsible for receiving service tickets, gathering
+      information on the end user issue. Helpdesk shall provide initial troubleshooting
+      over the telephone, if applicable, before escalating to onsite field service
+      support.
+      Helpdesk staff shall be responsible for contacting end users who have placed
+      service tickets without resolution.
+      Helpdesk staff shall set up, remove, and manage user accounts in accordance to
+      the CRSD1275 Acceptable Use Policy.
+      4.3.9.2 Helpdesk Performance Requirements
+      The Offeror shall provide resolution to Helpdesk tickets as per negotiated SLA, or
+      provide disposition to CRSD1275 as to why timely resolution to the ticket(s)
+      cannot be provided.
+      4.3.9.3 Remote Management Technical Support
+      The Help Desk shall maintain a database that logs all tickets, level of support
+      required, response times, resolution times, type of issue reported, and
+      resolution to the issue.
+      The Offeror shall assemble critical Help Desk performance statistics and provide
+      them to CRSD1275 in the Monthly Report. The Monthly Help Desk Performance
+      statistics shall, at a minimum, include the following information:
+
+             Total number of tickets opened and closed
+             A breakout of tickets requiring support
+             Minimum, maximum, and average response times
+             Minimum, maximum, and average resolution times
+             Types of issues reported
+                               11
+       Resolution to the issues
+       A recommendation of better operability
+The Offeror shall analyze the current CRSD1275 helpdesk structure, processes,
+and methodologies and provide CRSD1275 with recommendations for
+improvements.
+4.3.10 Remote Management Technical Support
+        The Offeror shall fully implement and utilize existing remote
+        management systems by which troubleshooting and initial technical
+        support can be executed remotely to reduce response and resolution
+        time.
+4.3.11 System Security
+        4.3.11.1 Automated Backup
+        The Offeror shall develop and implement policies and procedures to
+        automate the routine backup of all servers across the district. The
+        Offeror shall fully implement existing automatic backup systems by which
+        server backups can be executed with minimal user intervention.
+
+
+        4.3.11.2 Backup/Disaster Recovery
+        The Offeror shall develop a CRSD1275 Disaster Recovery Plan and provide
+        Backup/Disaster Recovery Technical support ensuring the timely recovery
+        of CRSD1275 Mission Critical Systems (as determined by CRSD1275) and
+        their data, including annual testing of backup/disaster recovery systems
+        and procedures to ensure operational status.
+        The Offeror shall deliver a Disaster Recovery Plan 180 days after contract
+        start. This plan will be updated on an annual basis. Recommendations
+        for disaster recovery services will be implemented 60 days after
+        CRSD1275 approval, pending funding.
+        4.3.11.3 Comprehensive Computer Virus Protection
+        The offeror shall provide and maintain virus protection which at a
+        minimum includes communications, servers, and clients.
+        4.3.11.4 Data Security
+        The Offeror shall ensure the security of CRSD1275 confidential and
+        proprietary data through the administration of user accounts and
+        passwords, allowing varying levels of access as directed by CRSD1275.
+        The Offeror shall also protect CRSD1275 data and the network and
+
+
+                         12
+                                      architecture from external violations through the maintenance of a
+                                      secure firewall at the CRSD1275 WAN’s connection to the Internet.
+                4.4    Departmental Software Technical Support
+                       The Offeror shall provide technical support, maintenance and facilitation of remediation
+                       for business software applications.
+                       The following table, departmental Technical Support Cross Reference, and the
+                       paragraphs that follow detail the technical support required. Departmental Technical
+                       Support Requirements, identifies technical support requirements to support the
+                       Departmental requirements in this section. Support requirements shall include, but are
+                       not to be limited to.
+
+
+
+                                 Departmental Technical Support Requirements
+ Ensure operational status
+ Installation, implementation, and management of upgrades/updates
+ Installation of new software
+ Testing (e.g. unit/module, integration, system, regression)
+ Troubleshooting
+
+
+                           Table 4.4 Departmental Technical Support Requirements
+
+
+       5.0      INSTRUCTIONS TO OFFERORS
+                5.1    Technical Proposal
+               The Technical Proposal shall concisely describe the Offeror’s approach to satisfying all of the
+requirements of this contract as depicted in Section 4.0 Scope of Services and the following services. Any
+Technical Proposal not fulfilling all requirements as defined in this RFP shall be excused from further
+consideration.
+
+
+Help Desk Services:
+       A.    Provide a detailed description of your suggested Helpdesk solution software and features.
+       B.    Provide a detailed description of the Helpdesk ticket lifecycle
+       C.    Describe the SLA’s you will hold yourself accountable to and penalty if not met
+       D.    Describe your remote management and monitoring (RMM) solution
+       E.    Provide your average # of open tickets per technician
+       F.    Provide your average # of people staffed at a remote help desk
+       G.    Describe your ticket escalation and dispatch of onsite technician’s process
+       H.    Provide an example of a monthly performance report
+       I.    Describe your process of communication with external vendors and manufactures
+                                                       13
+       J. Describe additional services that would support your response
+NOC Services:
+       A.    Describe your process and plan for data backup and disaster recovery
+       B.    What virus protection software would you utilize?
+       C.    Describe how you will provide security for data and other sensitive materials
+       D.    Describe your process for maintaining IT inventory
+Online Support Services:
+       A.    List manufacturer repair certifications
+       B.    Provide a detailed description of your suggested onsite support structure
+       C.    Provide an organizational chart of proposed onsite support staff
+       D.    Describe what inventory system you will utilize
+Describe knowledge and experience with the following programs/applications:
+       A.    G Suite
+       B.    Teacherease (Common Goal INC) SIS Systems
+       C.    School Messenger
+       D.    NWEA MAP
+       E.    PEARSON IAR
+       F.    DRC INSIGHT - WIDA Assessment Management Systems
+       G.    Pearson Review 360
+
+
+       6.0      TERMINIATION CLAUES
+                6.1    Termination for Convenience:
+                CRSD1275 may terminate the agreement, in whole or in part, whenever it is determined that
+                such termination is in the best interest of the District, without showing cause, upon giving 90
+                days written notice to the firm. CRSD1275 shall pay all reasonable cost incurred by the firm up
+                to the date of termination. The firm shall not be reimbursed for any profits which may have
+                been anticipate but which have not been earned up to the date of termination.
+                6.2    Termination for Default:
+                When the firm has not performed or has unsatisfactorily performed, the repairs CRSD1275 may
+                terminate the agreement for default. Upon termination for default, payment may be withheld
+                at all discretion of CRSD1275. Failure on the part of a firm to fulfill the agreement obligations
+                shall be considered just cause for termination of the agreement. The firm will be paid for work
+                satisfactorily performed prior to the termination less any excess costs incurred by the Chicago
+                Ridge School Board of Education in procuring and completing the terms of the agreement. If at
+                any time during the term of the agreement, the school district determines that the firm has not
+                kept and observed the conditions of the agreement, and has not corrected the breach within
+
+
+                                                        14
+            five (5) working days following receipt of written notice, CRSD1275 shall have the right, in its
+            sole discretion to terminate said agreement upon five (5) days additional written notice.
+            6.3    Termination Assistance
+            In the event of the expiration or termination of the Contract resulting from this RFP for any
+            reason, the contract shall (1) cooperate with CRSD1275 in effecting the orderly transfer of the
+            services to a third part or the resumption of the services by CRSD1275 (2) transfer, license, or
+            obtain for CRSD1275, as appropriate, any tools and equipment used by the contractor in the
+            provision of the services that are not use exclusively for CRSD1275’s account (tools and
+            equipment used exclusively for CRSD1275’s account shall be owned by CRSD1275), and (3)
+            continue to perform those services and deliverables requested by CRSD1275 in accordance with
+            this Assistance Services to be provided in connection with the expiration of the Term, such
+            services will be provided during the last 12 months of the Term during, and as part of, the
+            performance of the services hereunder at no additional cost.
+            Termination Assistance Services in all other events of termination shall be provided for up to
+            180 days after the effective date of the termination. The allocation of costs associated with
+            termination shall consist of only the labor hours specified as necessary per CRSD1275 for
+            Termination Assistance, and there shall be no additional cost to CRSD1275 other than specified.
+            Notwithstanding the reasons for any termination of this Contract, termination shall have no
+            effect on the parties’ rights and obligations under: Ownership and Licensing, Confidentiality,
+            and Limitation of Liability.
+
+
+
+
+Please contact Gino Fricano at gfricano@crsd1275.org with any questions and interests in regards to the
+                                RFP for information technology services.
+
+
+
+
+                                                     15
+

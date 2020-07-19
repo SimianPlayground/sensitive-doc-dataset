@@ -1,0 +1,584 @@
+              CITY OF DULUTH
+
+
+        REQUEST FOR PROPOSALS FOR
+
+
+COMMUNITY DEVLEOPMENT SOFTWARE SOLUTION
+
+
+            RFP NUMBER 20-05AA
+
+              ISSUED 2/10/2020
+
+
+
+
+           PROPOSALS DUE 3/2/2020
+
+                 SUBMIT TO
+
+               CITY OF DULUTH
+             ATTN: PURCHASING
+            CITY HALL, ROOM 120
+            411 WEST 1ST STREET
+              DULUTH, MN 55802
+
+
+
+
+                 Page 1 of 14
+                                              PART I
+
+                                   GENERAL INFORMATION
+
+I-1.    Introduction. The City of Duluth is soliciting proposals for the purchase of a state-of-the
+art, integrated Community Development Management Software Suite including Planning,
+Permitting and Licensing as well an integrated online customer portal. The total Project will
+include the selection and acquisition of software and hardware, installation, training and
+maintenance costs to replace or upgrade the current system.
+
+The overall goals are as follows:
+   • Improve service to the public
+   • Provide user-friendly software applications for planning, permitting and licensing
+      personnel
+   • Provide an accurate and efficient means to manage the various Community Development
+      data needs
+   • Provide security to ensure confidentiality while providing ease of access through roles and
+      permissions.
+   • Provide flexibility to allow for emerging technologies and future expansion
+   • Enhance field worker safety and efficiency by providing remote access to the necessary
+      data in the field.
+   • Provide integrated solutions for data sharing and workflow amongst various departments
+      and our customers as necessary.
+
+I-2.   Calendar of Events. The City will make every effort to adhere to the following schedule:
+
+                                 Activity                                             Date
+
+  Pre-proposal Conference.                                                   2/19/2020 at 10:30 am
+
+  Answers to questions will be posted to the City website no later than
+                                                                                    2/21/2020
+  this date.
+
+  Proposals must be received in the Purchasing Office by 4:30 PM on
+                                                                                    3/2/2020
+  this date.
+
+I-3.    Rejection of Proposals. The City reserves the right, in its sole and complete discretion,
+to reject any and all proposals or cancel the request for proposals, at any time prior to the time a
+contract is fully executed, when it is in its best interests. The City is not liable for any costs the
+Vendor incurs in preparation and submission of its proposal, in participating in the RFP process
+or in anticipation of award of the contract.
+
+I-4.    Pre-proposal Conference. The City will hold a Pre-proposal conference on Wednesday,
+February 19, 2020 at 10:30 am in the Large Admin Conference Room. Interested Proposers may
+participate by conference call. Please email purchasing@duluthmn.gov for call-in number and
+instructions.
+
+
+
+
+                                            Page 2 of 14
+The purpose of this conference is to provide opportunity for clarification of the RFP. Attendance
+at the Pre-proposal Conference is optional.
+
+I-5.   Questions & Answers. Any questions regarding this RFP must be submitted by e-mail
+to the Purchasing Office at purchasing@duluthmn.gov no later than close of business on
+2/19/2020. Answers to the questions will be posted as an Addendum to the RFP.
+
+I-6.     Addenda to the RFP. If the City deems it necessary to revise any part of this RFP before
+the proposal response date, the City will post an addendum to its website
+http://www.duluthmn.gov/purchasing/bids-request-for-proposals/ . Although an e-mail notification
+will be sent, it is the Vendor’s responsibility to periodically check the website for any new
+information.
+
+I-7.  Intent to Propose. Prospective Vendors are encouraged to send an e-mail to
+purchasing@duluthmn.gov indicating their intent to submit a proposal. Indicating an intent to
+propose does not obligate the vendor, however it will ensure that the Vendor will be notified when
+any addenda or other notices are posted pertaining to the RFP.
+
+I-8.     Modification or Withdrawal of Proposals. Vendors may modify or withdraw their
+proposals prior to the due date and time by submitting their modifications or request to withdraw
+in writing to the Purchasing Division.
+I-9.   Proposals. To be considered, hard copies of proposals must arrive at the City on or
+before the time and date specified in the RFP Calendar of Events. The City will not accept
+proposals via email or facsimile transmission. The City reserves the right to reject proposals or
+to deduct evaluation points for late proposals.
+Proposals must be signed by an authorized official. If the official signs the Proposal Cover Sheet
+attached as Appendix A, this requirement will be met. Proposals must remain valid for 90 days
+or until a contract is fully executed.
+Please submit one (1) paper copy of the Technical Submittal and one (1) paper copy of the Cost
+Submittal. The Cost Submittal should be in a separate sealed envelope within the proposal
+package. In addition, Bidders shall submit one copy of the entire proposal (Technical and Cost
+submittals, along with all requested documents) on flash drive in Microsoft Office-compatible or
+pdf format.
+All materials submitted in response to this RFP will become property of the City and will become
+public record after the evaluation process is completed and an award decision made.
+
+I-10. Disadvantaged Business Enterprises. The City encourages participation by minority,
+women, and veteran-owned businesses as prime contractors, and encourages all prime
+contractors to make a significant commitment to use minority, women, veteran-owned and other
+disadvantaged business entities as subcontractors and suppliers, if possible.
+
+A list of certified Disadvantaged Business Enterprises is maintained by the Minnesota Unified
+Certification Program at http://mnucp.metc.state.mn.us/ .
+
+I-11. Tax Exempt Status. The City is exempt from paying sales tax. A copy of the Certificate
+of Exemption will provided upon request.
+
+
+                                           Page 3 of 14
+I-12. Term of Contract. The term of the contract will begin once the contract is fully executed.
+The selected Bidder shall not start the performance of any work nor shall the City be liable to pay
+the selected Bidder for any service or work performed or expenses incurred before issuance of a
+Notice to Proceed.
+
+I-13. Mandatory Disclosures. By submitting a proposal, each Bidder understands, represents,
+and acknowledges that:
+       A.      Their proposal has been developed by the Bidder independently and has been
+               submitted without collusion with and without agreement, understanding, or
+               planned common course of action with any other vendor or suppliers of materials,
+               supplies, equipment, or services described in the Request for Proposals, designed
+               to limit independent bidding or competition, and that the contents of the proposal
+               have not been communicated by the Bidder or its employees or agents to any
+               person not an employee or agent of the Bidder.
+
+
+       B.      There is no conflict of interest. A conflict of interest exists if a Bidder has any
+               interest that would actually conflict, or has the appearance of conflicting, in any
+               manner or degree with the performance of work on the project. If there are
+               potential conflicts, identify the municipalities, developers, and other public or
+               private entities with whom your company is currently, or have been, employed and
+               which may be affected.
+       C.      It is not currently under suspension or debarment by the State of Minnesota, any
+               other state or the federal government.
+       D.      The company is either organized under Minnesota law or has a Certificate of
+               Authority from the Minnesota Secretary of State to do business in Minnesota, in
+               accordance with the requirements in M.S. 303.03.
+I-14. Notification of Selection. Vendors whose proposals are not selected will be notified in
+writing when contract negotiations have been successfully completed and the City has received
+the final negotiated contract signed by the selected Vendor.
+
+
+
+
+                                          Page 4 of 14
+                                           PART II
+
+                                PROPOSAL REQUIREMENTS
+
+II-1. Format of Technical Submittal. To facilitate the evaluation of proposals, Vendors should
+prepare their technical response in the sequence specified below.
+       A. Cover Page
+       B. Table of Contents
+       C. Section 1: Letter of Intent/Executive Summary
+       D. Section 2: Response to Technical Requirements Work Sheet
+       E. Section 3: Vendor Attachments
+       F. Attachment A- Vendor Offer Signature and Certification Form
+       G. Attachment B- Vendor Profile
+       H. Attachment C- Description of Service
+       I.   Attachment D- General Training Guidelines
+       J. Attachment E- Vendor/Solution Provider Contact Data
+       K. Attachment F- Vendor References
+
+   Vendors must complete and include the Attachment forms provided in their Proposal.
+
+II-2. Cost Submittal. The Cost Submittal shall be placed in a separate sealed envelope from
+the Technical Submittal. The Cost Submittal must include:
+       A. A breakdown of all costs involved, including all hardware, software, installation and
+          training costs.
+       B. A description and cost of any reoccurring fees such as annual maintenance and
+          support costs.
+
+The City will reimburse the selected Vendor for work satisfactorily performed after
+execution of a written contract and the start of the contract term, in accordance with
+contract requirements, and only after the City has issued a notice to proceed.
+
+
+
+
+                                         Page 5 of 14
+                                            PART III
+
+                                 CRITERIA FOR SELECTION
+
+III-1. Evaluation. The City has selected a committee of qualified personnel, composed of City
+staff to review and evaluate timely submitted proposals. The Vendor whose proposal is
+determined to be the most advantageous to the City will be selected.
+
+III-2. Evaluation Criteria. The following criteria will be used in evaluating each proposal:
+
+  A. Technical: The City has established the weight for the Technical criteria for this RFP as
+     70% of the total points. The following components will comprise the technical portion of the
+     evaluation:
+
+       1. Application Functionality
+       The evaluation team will rate the Vendor response to each module as listed in “Technical
+       Requirements”. A requirement should be viewed as a minimum need that must be met
+       by the Vendor.
+       The evaluation team may eliminate any Vendor who does not fulfill all requirements and/or
+       does not propose an acceptable alternative or modification. All responses designated as
+       alternative or modified must be accompanied by a detailed explanation stating the
+       commitment to meet the requirement and all pertinent information relative to the alternate
+       or modification. The City reserves the right, at its sole discretion, to determine what
+       constitutes an acceptable alternative or modification, and to waive or convert a
+       requirement to a desirable feature or drop a requirement altogether from inclusion.
+       All responses must indicate the Vendor’s present capability.
+       2. Technical Environment and Support
+       Factors for evaluation may include, but are not limited to, feature set, capability for
+       interface with current systems, standards compliance, operations system(s), suitability
+       and flexibility of application software, hardware limitations, ease of use, and ease of
+       configuration, administration and security.
+
+       3. Level of Integration
+       Preference will be given to those vendors offering a fully integrated suite of applications.
+       Preference will also be given to those products that eliminate redundant entry and provide
+       a seamless workflow between the various key stakeholder departmental areas of Project
+       Planning, Permitting, Licensing, Code Enforcement and the Online Customer Portal.
+       Evaluation consideration will also be given to those Vendors who have successful local
+       installations of their applications.
+
+       4. System / Information Security
+       This set of criteria will evaluate how well the vendor meets regulatory mandates for PCI
+       as well as security standards and requirements relating to maintaining the integrity and
+       security of internal and external information. The focus of this evaluation will be the
+       Vendor’s ability to provide sound hardware, software and operational safeguards and
+       compliance requirements of the PCI DSS, Minnesota state government guidelines and
+       industry best practices.
+
+       5. Project Implementation and Support
+
+                                          Page 6 of 14
+       This set of criteria will evaluate the Vendor’s capability to implement and support the full
+       suite of products as requested in the RFP. The evaluation team will also take into
+       consideration the implementation plan, the overall timing and duration of the Project, the
+       technical capability of and experience of the Vendor, and the Vendor’s vision and strategy.
+
+       6. User Support and Training
+       Initial training and ongoing training are critical factors in the evaluation of the Vendor’s
+       ability to deliver the final results desired in the RFP. The evaluation team will review
+       training and support documentation within the Proposal and rate according to costs,
+       desired and future direction.
+
+   The City reserves the right to eliminate from the selection process any proposal that
+   scores below to 70% of the total available technical points.
+
+   B. Cost: The City has established the weight for the Cost portion for this RFP as 30% of the
+      total points. Cost points are calculated by giving the proposal with the lowest total cost
+      the maximum number of Cost points available, and the remaining proposals a lesser
+      number of points calculated in reference to the lowest cost.
+       The evaluation factors may include, but are not limited to, base price, cost of alternate
+       responses or modified responses, annual maintenance, and training. The valuation team
+       reserves the right to adjust cost proposals to reflect factors that, in the team’s judgment,
+       would result in more accurate costs for their environment. These factors may include, but
+       are not limited to, extracting items that are not afforded in the allotted budget for this
+       Project, reduction of number of personnel licensed for any application proposed, reduction
+       or extraction of various hardware options, and/or reduction of total Project scope.
+
+III-3. Proposal Clarification. After the RFP proposal submission closure date, an award may
+be made on the basis of the proposals initially submitted, without any further discussion,
+clarification or modification. Therefore, Vendors should make sure their proposals contain their
+best offer.
+
+III-4. Product Demonstrations/Presentations. The Evaluation Team will determine if product
+demos are required of any Vendor.
+
+
+
+
+                                          Page 7 of 14
+ ATTACHMENT A – VENDOR SIGNATURE & CERTIFICATION FORM
+
+ Vendor Name:
+                     (Please type or print name of Vendor)
+ Street Address:
+
+ City:                                      State:               Zip:
+
+
+ Phone:                    Fax:                       E-Mail:
+
+
+
+
+I certify that I am a duly authorized representative of the Vendor listed above. The City
+of Duluth is hereby authorized to request from any individual or Vendor any information
+it deems necessary to verify any information provided by in this Proposal and to
+determine the capabilities and responsibility of Vendor as a prospective contractor with
+the City of Duluth.
+
+
+
+ Signature:
+                (Must be signed in full in ink by an officer of your Company)
+ Name:                                                          (please type or print)
+
+
+ Title:                                                         (please type or print)
+
+
+                                               Date:
+
+
+
+
+                                       Page 8 of 14
+ATTACHMENT B – VENDOR PROFILE
+
+  1. Vendor legal name:
+
+  2. Address of the office handling the Project:
+
+
+  3. Federal ID number:
+
+  4. Type of              Individual    Partnership      Corporation      Government
+     Operation:
+
+  5. Can your company provide, upon request, certificates of insurance meeting the
+     following requirements?
+                                                                   Yes     No
+
+       Consultant shall obtain and maintain for the Term of this Agreement the following
+       minimum amounts of insurance from insurance companies authorized to do
+       business in the State of Minnesota.
+  a.   Public Liability and Automobile Liability Insurance with limits not less than
+       $1,500,000 Single Limit, shall be in a company approved by the city of Duluth;
+       and shall provide for the following: Liability for Premises, Operations, Completed
+       Operations, and Contractual Liability. City of Duluth shall be named as
+       Additional Insured by endorsement under the Public Liability and Automobile
+       Liability, or as an alternate, Consultant may provide Owners-Contractors
+       Protective policy, naming himself and City of Duluth. Upon execution of this
+       Agreement, Consultant shall provide Certificate of Insurance evidencing such
+       coverage with 30-days’ notice of cancellation, non-renewal or material change
+       provisions included.
+  b.   Professional Liability Insurance in an amount not less than $1,500,000 Single
+       Limit; provided further that in the event the professional malpractice insurance is
+       in the form of “claims made,” insurance, 60 days’ notice prior to any cancellation
+       or modification shall be required; and in such event, Consultant agrees to provide
+       the City with either evidence of new insurance coverage conforming to the
+       provisions of this paragraph which will provide unbroken protection to the City, or,
+       in the alternative, to purchase at its cost, extended coverage under the old policy
+       for the period the state of repose runs; the protection to be provided by said
+       “claims made” insurance shall remain in place until the running of the statute of
+       repose for claims related to this Agreement.
+  c.   Consultant shall also provide evidence of Statutory Minnesota Workers’
+       Compensation Insurance.
+  d.   A certificate showing continued maintenance of such insurance shall be on file
+       with the City during the term of this Agreement.
+  e.   The City of Duluth does not represent or guarantee that these types or limits of
+       coverage are adequate to protect the Engineer’s interests and liabilities.
+
+
+                                       Page 9 of 14
+6. The selected Vendor will be expected to sign an agreement containing the
+   following indemnity clause:
+
+   “To the extent allowed by law, Consultant shall defend, indemnify and hold City
+   and its employees, officers, and agents harmless from and against any and all
+   cost or expenses, claims or liabilities, including but not limited to, reasonable
+   attorneys’ fees and expenses in connection with any claims resulting from the
+   Consultant’s a) breach of this agreement or b) its negligence or misconduct or
+   that of its agents or contractors in performing the Services hereunder or c) any
+   claims arising in connection with Consultant’s employees or contractors, or d) the
+   use of any materials supplied by the Consultant to the City unless such material
+   was modified by City and such modification is the cause of such claim. This
+   Section shall survive the termination of this Agreement for any reason.”
+
+7. Is the Vendor currently for sale or involved in any transaction to expand or to
+   become acquired by another business entity? If yes, please explain the impact
+   both in organizational and direction terms.
+                                                                     Yes     No
+
+8. Are there any past or pending litigation or claims filed against the Vendor? If yes,
+   please provide details of each including any affect they may have on their
+   performance.
+                                                                       Yes       No
+9. Is the Vendor currently in default on any loan agreement or financing agreement
+   with any bank, financial institute, or other entity? If yes, specify date(s), details,
+   circumstances and prospects for resolution.
+                                                                       Yes       No
+
+10. Does any current relationship whether a relative, business associate, capital
+    funding agreement or any other such kinship, exist between the Vendor and any
+    City of Duluth employee or official? If yes, please explain relationship.
+                                                                      Yes     No
+
+11. Are there any circumstances impacting the Vendor that could affect their ability to
+    perform under any award made through RFP process? If yes, please explain
+    both the circumstances and impact.
+                                                                 Yes         No
+
+12. Please provide a brief overview of the Vendor’s history and relevant experience.
+
+
+13. How will the City of Duluth benefit from the proposed solution?
+
+
+14. What additional value can the Vendor provide over its competition?
+                                    Page 10 of 14
+ATTACHMENT C – DESCRIPTION OF SERVICES
+
+1.   Provide a statement of the project approach, any unique benefits, and other
+     considerations.
+2.   Provide an estimate of the earliest start date following execution of a contract.
+3.   Submit a work plan with key dates and milestones. Response should include:
+     3a. Identification of tasks to be performed by Vendor.
+     3b. Identification of tasks to be performed by the City of Duluth.
+     3c. Timeframes to complete performance of the identified tasks or expected
+         timeframe in which the project would be completed.
+     3d. Implementation strategy including transition plan if necessary.
+4.   Provide summary resumes for proposed project team members or assigned staff,
+     including their specific experiences with similar projects, qualifications and
+     special expertise, and number of years with your company.
+
+
+
+
+                                     Page 11 of 14
+ATTACHMENT D – GENERAL TRAINING GUIDELINES
+
+The Vendor shall provide for Administrative/Technical Support, Supervisor and End
+User training. Training is defined as those hours specifically set aside for the sole
+purpose of training and not time spent providing instructions to staff prior to final
+inspection and acceptance.
+
+The training should provide users with an understanding of how to best integrate and
+configure the system, assist them with development of skills necessary to take full
+advantage of the system’s functions and features, and provide them with a working
+knowledge of the system as it relates to their daily job functions and the procedures of
+the department.
+
+The agenda of training should include, but not be limited to, installation and upgrades,
+configuration, administration and maintenance of the system, system failure, backup
+and recovery procedures, data and program backup procedures, understanding the
+elements of each application and how it relates to the total system, integration between
+systems, basic and advanced use of each application of the software, etc.
+
+Vendor should include in the cost proposal all training that will be offered as part of the
+total bid inclusive of all travel and per diem expenses and/or fees. Vendor should
+include on-site instructors, instructional materials, guides, training aids or workbooks,
+sample techniques, etc. If a “train the trainer” concept is proposed, please also provide
+cost options for complete on-site training, if available.
+
+Vendors should keep the following parameters in mind when proposing a training
+regimen:
+
+   •   Training should be job specific to the needs of each of the Department areas or
+       divisions. Specific areas could be defined as: IT Technical Support, Planning –
+       Project Planning, Animal and Business Licensing, Rental Housing Licensing, Fire
+       Prevention Permitting, Construction Services Permitting, Traffic Permitting,
+       Residential Parking Permitting, Inspections Processing, Customer Portal,
+       Revenue Collections Processing, Data and Statistical Reporting and Analysis,
+       Administration and Support Data Entry and Retrieval.
+   •   “Hands-on” training is the preferred method for the above areas
+   •   Training should include a documentation of processes, including examples
+   •   In order to expedite total overall Departmental training, any “train the trainer”
+       sessions should include multiple staff.
+   •   Specify a variety of cost, content, etc. of training sessions to allow the Department
+       flexibility in selecting training options
+
+Provide a detailed written description that explains how the training provided will satisfy
+the needs of the City while adhering to the guidelines listed above.
+
+
+
+                                       Page 12 of 14
+ATTACHMENT E – PARTNER/SUB CONSULTANT CONTACT DATA
+
+This section is for Vendors to enter information for any partners and associated vendors
+they are recommending for the core products they are proposing. This also includes the
+proposed peripheral hardware recommendations for the associated systems to support
+the applications proposed.
+
+While this may not be the final contractual list of providers, it must represent the
+Vendors best representation of the final architecture as understood currently.
+
+                             Prime Contractor Information:
+                                                Information
+            Vendor Name:
+            Address:
+            Address:
+            Contact Name:
+            Contact Title:
+            Office Phone:
+            Email:
+            Comments:
+
+
+                                      Other Vendor:
+                                                Information
+            Vendor Name:
+            Address:
+            Address:
+            Contact Name:
+            Contact Title:
+            Office Phone:
+            Email:
+            Comments:
+
+
+
+
+                                       Page 13 of 14
+ATTACHMENT F – VENDOR REFERENCES
+
+DETAIL REFERENCES - PLEASE LIST MINNESOTA AGENCIES THAT ARE ACTIVE SITES
+
+REFERENCE (1):
+
+Customer Name:
+
+Address:
+City:
+State:
+Zip:
+
+Contact Name:
+Telephone:
+Fax:
+E-Mail:
+
+No. of Years Installed:
+
+
+REFERENCE (2):
+
+Customer Name:
+
+Address:
+City:
+State:
+Zip:
+
+Contact Name:
+Telephone:
+Fax:
+E-Mail:
+
+No. of Years Installed:
+
+
+REFERENCE (3):
+
+Customer Name:
+
+Address:
+City:
+State:
+Zip:
+
+Contact Name:
+Telephone:
+Fax:
+E-Mail:
+
+No. of Years Installed:
+
+
+
+
+                                  Page 14 of 14
+

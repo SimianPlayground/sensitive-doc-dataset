@@ -1,0 +1,574 @@
+                                      Information Technology Staff Augmentation Services
+                                                          Request for Proposal (RFP) 4309
+
+          Proposals Due: 04/15/2020 by 3:00 PM Eastern Standard Time*
+
+
+The New York State Energy Research and Development Authority (NYSERDA) seeks proposals from a
+company, or team of companies, (hereinafter referred to as “Proposer”) to provide Information Technology
+Staff Augmentation Services to support Information Technology projects.
+
+Proposals may be submitted by an individual firm or a team arrangement of firms, to provide optimal
+services to NYSERDA at the lowest cost possible. Individual engagements of services will vary based on
+the needs of each individual project or program, and may vary by skills sought, experience required, and
+geographic coverage needs.
+
+Proposal Submission: Submit proposal to NYSERDA via the following online form:
+https://nyserda.seamlessdocs.com/f/RFP4309. Proposers may submit Word, Excel, or PDF files. For
+ease of identification, all files must be named using the proposer’s entity name in the title of the
+document. A proposal should not be excessively long or submitted in an elaborate format, such as
+including unnecessary graphics. Proposals should be 15 pages or less; plus, required Attachments A and D.
+All Proposals must be submitted by 3:00 p.m. on April 15, 2020.
+
+No communication intended to influence this procurement is permitted except by contacting Wendy Fleitz
+– primary contact (Designated Contact) at (518) 862-1090, ext.3238 or by e-mail
+RFP4309@nyserda.ny.gov or Glen Kaatz – secondary contact (Designated Contact) at (518) 862- 1090,
+ext. 3203 or by e-mail RFP4309@nyserda.ny.gov (for technical questions). If you have contractual
+questions concerning this solicitation, contact (Venice Forbes) (Designated Contact) at (518) 862-1090,
+ext. 3507 or Venicesolicitations@nyserda.ny.gov. Contacting anyone other than the Designated Contacts
+(either directly by the proposer or indirectly through a lobbyist or other person acting on the proposer’s
+behalf) in an attempt to influence the procurement: (1) may result in a proposer being deemed a non-
+responsible offerer, and (2) may result in the proposer not being awarded a contract.
+
+* All proposals must be received by 3:00 p.m. Eastern Standard Time on April 15, 2020. Late,
+proposals will not be accepted. Incomplete proposals may be subject to disqualification. It is the
+proposer’s responsibility to ensure that all sections have been included in the proposal. If changes are made
+to this solicitation, notification will be posted on NYSERDA’s web site at
+https://www.nyserda.ny.gov/.
+Introduction
+
+NYSERDA is a public benefit corporation committed to identifying opportunities for reducing commercial
+and residential energy consumption, promoting the use of renewable energy sources, and protecting
+the environment. NYSERDA provides financial and technical assistance to help consumers, businesses
+and institutions assess and implement cost-saving energy efficiency measures.
+
+
+
+The primary technologies in use at NYSERDA include: Salesforce (force.com), Microsoft technologies
+(Windows desktop and server, SQL Server, .NET, etc.), Office 365 including SharePoint Online, Tableau
+(for Business Intelligence), Atlassian products (Jira) for Service Desk and Oracle PeopleSoft Financials.
+
+
+NYSERDA will be looking for professionals to work in and / or support technology efforts in these areas.
+Roles such as technical implementor, project manager, business analyst, technical writer, quality
+assurance analyst and technology trainer are the focus of this solicitation.
+
+NYSERDA’s strategy with regard to systems and technology is to consolidate disparate commercial
+and internally developed products and platforms onto COTS or enterprise solutions; reduce
+complexity, integration points, and ongoing cost of operations; and reduce customization wherever
+possible by modifying workflow in order to fit out-of-the-box or configured solutions. This will enhance
+NYSERDA’s ability to calibrate and adapt its technology layer to best support its evolving
+programmatic and policy goals.
+PROJECT SCOPE AND REQUIREMENTS
+The goal of this RFP is to create a panel of selected firms from which NYSERDA can quickly and easily
+acquire staff augmentation and consulting resources to support Authority initiatives across the entire spectrum
+of its information technology stack.
+NYSERDA expects to achieve the following objectives:
+        Provide a cost-effective source of resources to support its information technology staffing needs.
+        Streamline business processes around onboarding consulting resources.
+        Create sustainable partnerships with qualified firms to create mutually beneficial relationships.
+        Provide a flexible configuration to meet new and changing business requirements and programs.
+        Reduce administrative overhead and maintenance costs associated with initiating individual contracts.
+        Enable identification and procurement of potential full-time resources for NYSERDA should the need
+         be deemed ongoing rather than project based.
+
+Selected Proposer(s) will enter into a master agreement, and work assignments will be issued on an
+individual Task Work Order basis.
+
+The specific Task Work Order issued for each work assignment will provide requirements for the exact location
+of work that is needed, expectations of skills, and experience necessary to be considered. NYSERDA
+reserves the right to end any specific Task Work Order or the contract as a whole at any time with or without
+cause. If replacement resources are needed, NYSERDA may obtain replacement resources for that work via
+the selected Proposer, or another source contracted separately at NYSERDA’s sole discretion.
+
+All billable hours completed during each calendar month shall be submitted in a valid and complete invoice
+by the 21st of the following month without exception. Invoices submitted late or missing hours may not be
+paid.
+
+NYSERDA reserves the right to convert a candidate provided in response to this RFP to full-time
+NYSERDA staff. The Proposer must identify conditions, timelines and fees associated with converting a
+resource to NYSERDA staff after a minimum of 6-months from the start of the individual contract.
+
+It is the responsibility of the selected Proposer to complete background checks on all selected staff
+identified by the Proposer prior to placement. Upon selection, Proposer agrees that it shall perform or
+have performed, within the two years immediately preceding the placement of any candidate, a
+background check; by virtue of making such placement, Proposer shall certify that such background
+check on the candidate has been performed. Proposer agrees that it will inform NYSERDA's Director of
+Human Resources by phone or email (518.862.1090. ext. 3640; donna.rabito@nyserda.ny.gov),
+simultaneously with or preceding such placement, if:
+
+        (1) such background check reveals, with respect to the referred employee, (a) a felony conviction,
+            or (b) any other conviction involving theft, misrepresentation or violent behavior of any sort, or
+
+        (2) immediately upon it becoming aware that such individual has been convicted of such a crime.
+
+
+
+
+         Proposers Requirements
+  Information Technology Staff Augmentation Services:
+  Proposers must demonstrate the following:
+
+      •    A proven track record of providing skilled staff and other services across the skill sets noted
+           in section 2 under “Proposer Qualifications”;
+      •    Lowest cost for the highest quality of service;
+      •    Successful experience, including engagements with other state agencies or authorities; and
+      •    Successful experience in engagements within the Information Technology field.
+
+  All Proposers must demonstrate a willingness and commitment to minimize costs for NYSERDA.
+  NYSERDA reserves the right to negotiate lower or different fee structures during the contracting process
+  with any Proposer.
+
+  If a Proposal does not include all required information, it may be deemed non-responsive.
+
+  The Proposer must agree to provide NYSERDA with access to documents, personnel and other information
+  necessary to conduct audits upon request during the terms of the Contract, and for up to six
+  (6) years after the contract term expires.
+
+
+          Proposal Requirements and Format
+
+  In compliance with §139-j and §139-k of the State Finance Law (see the General Conditions section
+  below for additional information), proposers will be required to answer questions during proposal
+  submission, which will include making required certification under the State Finance Law and to disclose
+  any Prior Findings of Non-Responsibility.
+
+  Proposals should not exceed fifteen (15) pages, excluding attachments and Sample Resumes (Section
+  5), or be submitted in an elaborate format that includes expensive binders, graphics, or page formats
+  other than 8.5 x 11” letter sized paper. Unnecessary attachments beyond those sufficient to present a
+  complete, comprehensive, and effective response will not influence the evaluation of the proposal. Each
+  page of the proposal should state the name of the proposer, the RFP number, and the page number.
+
+  The Proposal for Information Technology Staff Augmentation Services
+
+      must follow the following format:
+
+      Section 1: Executive Summary
+      Section 2: Proposer Qualifications
+      Section 3: Rate Card
+      Section 4: Master Contract Cost Structure
+      Section 5: Sample Resumes
+
+
+
+
+          Section 1 – Executive Summary
+The Executive Summary in the Proposal is to provide a brief description of the Proposer’s qualifications,
+approach, flexibility, and demonstrated commitment to minimizing costs to NYSERDA. The intent of the
+Executive Summary is to be a brief summary, therefore, Executive Summaries that exceed two (2) pages may
+not be read by the Scoring Committee.
+        Section 2 – Proposer Qualifications
+
+  The Proposer Qualifications section of the RFP is to demonstrate a Proposer’s ability to meet the
+  Information Technology Staff Augmentation Services as well as a detailed description of the
+  Proposer’s Qualifications, as listed below.
+
+
+  A Proposer shall provide a description of their proven successful track record of delivering staff and other
+  services across a wide variety of skill sets, such as but not limited to:
+      1) Software Development
+              a. Salesforce Administrator
+              b. Salesforce Developer
+              c. Net Developer
+              d. SharePoint Developer
+              e. Geographic Information System (GIS) Developer
+      2) Database technology
+              a. Microsoft SQL / ETL Developer
+              b. Microsoft SQL Server Database Administrator
+      3) Information Technology Project Manager
+      4) Information Technology Business Analyst
+      5) Information Technology Trainer / Training Coordinator
+      6) Service Desk Technician
+      7) Windows Server Administrator
+      8) Information Security Engineer
+
+
+Proposer’s Qualifications
+
+  The Proposer must provide details of the following qualifications and attributes:
+     1) Proposer’s organizational structure- including the specific resumes of key partners or principals
+         who will be responsible for managing the engagement with NYSERDA.
+     2) Successful experience, including engagements with other state agencies or authorities.
+     3) Note any special certifications relevant to this RFP that your firm or proposed staff may possess
+         (i.e. PMI-Project Management Professional, PMI-Professional Business Analyst, PMI-Agile
+         Certified Professional, Cisco Certified Network Engineer, VMware Certified Professional,
+         Microsoft Certified Software Engineer etc.), and describe how your firm keeps staff current in
+         their skills.
+     4) Applicable Certification of Minority or Women owned Business Enterprise (MWBE) with Empire
+         State Development, or Service-Disabled Veteran Owned Business (SDVOB) Enterprise withthe
+         Office of General Services, attached as Appendices. Note that both a 30% MWBE and 6%
+         SDVOB requirement over the life of the contract are required. Please see the attachments –
+         Article 15-A (MWBE) and Article 17-B (SDVOB) for details.
+     5) Describe the Proposer’s approach to meeting NYSERDA’s needs for first-rate and reliable
+         candidates, at the lowest possible cost, including the monitoring and management of work
+         assignments. Demonstrate the Proposers willingness and commitment to minimize costs for
+         NYSERDA.
+     6) Confirmation that successful Proposers will be available to provide staff that are able to work at,
+         or travel to, the following locations:
+              a. On-site at NYSERDA offices, located in Albany, New York City, Buffalo and West Valley;
+              b. Field work, if needed and appropriate for the project being supported, at
+                   NYSERDA sites; or
+        c.   Remotely, either by working from Proposer’s office or teleworking from home.
+             Note: The specific location(s) of work will be identified in writing in the specific Task Work
+             Order issued for specific work assignments.
+7) Identify the total number of resources currently available in each of the following regions of the
+   State:
+       a. Albany, NY;
+       b. New York, NY
+       c. Buffalo, NY
+       d. West Valley, NY
+     Section 3 – Rate Card (Attachment A) Mandatory
+The purpose of the Rate Card section of this RFP is to help NYSERDA compare all Proposers on an equal basis. Rates provided on this form will
+be in effect for the five (5) year contract period.
+
+                                                                                 Billable Rate           Billable Rate            Billable Rate
+                                                                                 per Hour                per Hour                 per Hour
+                                                                                 Experience              Experience               Experience
+                                                                                 Level                   Level                    Level
+        Title Series                                                             (1-3 years)             (4-7 years)              (8+ years)
+
+
+        Salesforce Administrator
+        Salesforce Developer
+        .Net Developer
+        SharePoint Developer
+
+        Geographic Information System (GIS) Developer
+        Microsoft SQL / ETL Developer
+
+        Microsoft SQL Server Database Administrator
+        Information Technology Project Manager
+        Information Technology Business Analyst
+
+        Information Technology Trainer / Training Coordinator
+        Service Desk Technician
+        Windows Server Administrator
+        Information Security Engineer
+     Section 4 – Master Contract Cost Structure
+The purpose of this section is to provide NYSERDA a clear explanation of all fees and costs. If a
+Proposal does not include all required information, it may be deemed non-responsive.
+
+    1) List all costs and fees for which the Proposer would expect reimbursement.
+                     i. Specifically list fees, if charged, for background checks.
+
+    2) Indicate any reductions in fees or rates from normal amounts, and the reason for those
+       reductions (e.g. Standard Reduction Provided to all State Agencies, or Proposed Specific for
+       this RFP,etc.).
+
+    3) NYSERDA will indicate at the time of the request for a resource whether the candidate will be
+       considered for insourcing. If so indicated, the resource will not be insourced prior to 6-
+       months from their start date. In the Proposal, Proposers must outline the conditions,
+       timelines and fees associated with converting a resource into a NYSERDA staff member.
+
+        Note: Any costs or fees not specifically identified here may not be considered for inclusion in
+        invoices or contracting at a later date.
+
+NYSERDA reserves the right to negotiate lower or different fee structures during the contracting
+process with any firms recommended for contract negotiation as part of its evaluation process.
+
+
+
+     Section 5 – Sample Resumes
+The purpose of this section is to demonstrate that the Proposer has immediate access to staff that
+can meet NYSERDA’s needs. The Proposer should provide a variety of skills, experience levels, and
+physical locations of candidates. Proposer should provide no less than five (5) and no more than ten
+(10) resumes. Proposer must affirm that each of the staff whose resume is included in this section
+would be available for at least 25% of their time within the next three (3) months. Please include rate
+card title series, experience level and proposed rate for each sample resume.
+
+
+
+
+     Evaluation of Proposals
+
+     General Selection Process
+The evaluation process will begin immediately after the due date, with a review of all Proposals
+properly received to verify that they have met the minimum conditions necessary to be considered
+complete. Only Proposals determined to be complete will be shared with the Scoring Committee for
+full review. The Scoring Committee will then review and score each Proposal determined to be
+complete.
+
+
+     Interviews
+NYSERDA reserves the right to determine if an interview with the Proposer will be necessary.
+NYSERDA may interview some or all Proposers being considered. NYSERDA will set aside one day
+for interviews, and Proposers will be notified of the predetermined date by email following the due
+date of this RFP. If selected for an interview, the Proposer shall be required to further document the
+Proposer’s ability to provide the required services at the best cost to NYSERDA. The Proposed lead
+principal and other key staff necessary to demonstrate the Proposer’s capability to meet NYSERDA’s
+needs should be present at the interview. The results of the interview will be included in the Scoring
+Committee’s final scores for the Proposer.
+     Evaluation Categories
+The following categories and weighting shall be used by NYSERDA to evaluate each Proposal.
+
+                                                                                      Total Points
+           Category          Category Description                                     Available
+                             Demonstrated ability to provide services as
+                             described in the RFP (Section 1 and Section 2 –
+                  1          Proposer Qualifications)                                           35
+                  2          Competitiveness of Rate Card (Section 3)                           20
+                             Competitiveness of proposed Master Contract
+                  3          Cost Structure (Section 4)                                         15
+                  4          Sample Resumes (Section 5)                                         20
+                  5          Diversity Practices Questionnaire                                  10
+
+
+                                                                                              100
+                            Sample Request to Selected Contracting Firm(s)
+                   (For informational purposed only. This is NOT a current request)
+
+
+     NYSERDA is looking for one Server Systems Administrator via Staff Augmentation to supplement
+     the Server/Network Operations Team.
+
+     Please submit all applicants to Glen Kaatz (glen.kaatz@nyserda.ny.gov) by EOB 2/25/2019.
+
+     Please submit only your best 4 candidates.
+
+     LOCATION
+     This position is located in Albany, NY. The Program and Project Manager on the NYSERDA
+     IT Operations team are located in Albany, New York.
+
+     WORK SCOPE
+     The scope of work to be performed by the Contractor consists of tasks listed in the
+     following functional areas.
+
+     Tasks:
+•    VMware Horizon/ VMware vCenter administration
+•    Windows server administration
+•    Windows Active Directory and Group Policy
+•    Advanced SCCM administration for windows desktop and server patching
+•    Windows imaging, management of VDI snapshots, gold images
+•    Corp antivirus administration – NYSERDA uses ESET
+•    0365 administration (email, distribution groups, shared mailboxes)
+•    Use Microsoft System Center Orchestrator to manage scheduled jobs and system administration
+•    Work closely with the Senior Server Administrators to do capacity planning, patching, maintenance
+     and support of the server, storage and network infrastructure
+•    Manage Veeam based VM backups and restore requests
+•    Manage multiple Windows file servers and maintain storage quotas
+•    Assist with VoIP implementation and administration
+•    Assist with handling off-hours support and outages
+•    Receive and respond to incoming requests regarding IT infrastructure problems
+•    Work with server administrators at various cloud-based facilities to stand up new systems or
+     resolve problems and perform maintenance on existing systems
+•    Rack equipment in the data center such as UPS’s, servers, network gear and storage
+•    Follow change management and production turnover procedures as defined by the manager of IT
+     Operations
+
+     Expected Deliverables
+a.   On-time creation and administration of user credentials for above listed systems
+b.   Software patching reports
+c.   Stable configuration of storage, compute, network and VoIP resources
+
+     Experience Level: mid-level
+     The Contractor should be able to demonstrate the following skills
+
+•    Required 3+ years of experience with VMware Infrastructure experience (not necessarily VDI)
+•    Required 3+ years of experience as a Windows Server admin
+•    2-4 years’ experience performing tasks as listed above
+•    Ability to work a flexible schedule to accommodate project and emergency support work
+•    Excellent communication and analytical skills
+•    Nice to have, but not required: Cisco, NetApp or VMware View (VDI) experience
+
+     Transition to permanent? YES, NYSERDA would prefer this to be a permanent position.
+     General Conditions
+
+     PROPRIETARY INFORMATION
+Proprietary Information - Careful consideration should be given before confidential information
+is submitted to NYSERDA as part of your proposal. Review should include whether it is critical for
+evaluating a proposal, and whether general, non-confidential information, may be adequate for
+review purposes.
+
+The NYS Freedom of Information Law, Public Officers law, Article 6, provides for public access to
+information NYSERDA possesses. Public Officers Law, Section 87(2)(d) provides for exceptions to
+disclosure for records or portions thereof that "are trade secrets or are submitted to an agency by a
+commercial enterprise or derived from information obtained from a commercial enterprise and which if
+disclosed would cause substantial injury to the competitive position of the subject enterprise."
+Information submitted to NYSERDA that the proposer wishes to have treated as proprietary, and
+confidential trade secret information, should be identified and labeled "Confidential" or "Proprietary"
+on each page at the time of disclosure. This information should include a written request to except it
+from disclosure, including a written statement of the reasons why the information should be excepted.
+See Public Officers Law, Section 89(5) and the procedures set forth in 21 NYCRR Part 501
+http://www.nyserda.ny.gov/About/-
+/media/Files/About/Contact/NYSERDA-Regulations.ashx. However, NYSERDA cannot guarantee the
+confidentiality of any information submitted.
+
+Omnibus Procurement Act of 1992 - It is the policy of New York State to maximize opportunities for
+the participation of New York State business enterprises, including minority- and women-owned
+business enterprises, as bidders, subcontractors, and suppliers on its procurement Agreements.
+
+
+Information on the availability of New York subcontractors and suppliers is available
+
+        from: Empire State Development
+        Division For Small
+        Business 625 Broadway
+        Albany, NY 12207
+
+A directory of certified minority- and women-owned business enterprises is available
+
+        from: Empire State Development
+        Minority and Women's Business Development
+        Division 625 Broadway
+        Albany, NY 12207
+
+New York Executive Law Article 15-A - NYSERDA is required under the law to promote opportunities
+for maximum feasible participation of certified minority-and women-owned business enterprises and the
+employment of minority group members and women in the performance of NYSERDA contracts. The
+MWBE participation goals and obligations of the selected Contractor are set forth in the Sample
+Agreement.
+
+Diversity Practices - NYSERDA has determined, pursuant to New York State Executive Law Article
+15-A, that the assessment of the diversity practice of respondents to this procurement is practical,
+feasible, and appropriate. Accordingly, respondents to this procurement shall be required to include as
+part of their response, as described in Section III herein, Attachment D, Diversity Practices
+Questionnaire.
+New York State Executive Law Article 17-B, NYSERDA recognizes its obligation under the law to promote
+opportunities for maximum feasible participation of certified service-disabled veteran-owned business
+enterprises (SDVOB) in the performance of NYSERDA contracts. Executive Law Article 17-B and its
+associated regulations require, among other things, that NYSERDA establish goals for maximum feasible
+participation of New York State Certified SDVOBs in the performance of New York State contracts. The
+SDVOB participations goals and obligations of the selected Contractor are set forth in the Sample Agreement.
+
+
+State Finance Law sections 139-j and 139-k - NYSERDA is required to comply with State Finance Law
+sections 139-j and 139-k. These provisions contain new procurement lobbying requirements which can
+be found at https://online.ogs.ny.gov/legal/lobbyinglawfaq/default.aspx. In compliance with §139-j and
+§139-k of the State Finance Law (see Section V, General Conditions below for additional information),
+proposers will be required to answer questions during proposal submission, which will include making
+required certification under the State Finance Law and to disclose any Prior Findings of Non-
+Responsibility.
+
+Tax Law Section 5-a - NYSERDA is required to comply with the provisions of Tax Law Section 5-a,
+which requires a prospective contractor, prior to entering an agreement with NYSERDA having a value in
+excess of $100,000, to certify to the Department of Taxation and Finance (the "Department")
+whether the contractor, its affiliates, its subcontractors and the affiliates of its subcontractors have
+registered with the Department to collect New York State and local sales and compensating use
+taxes. The Department has created a form to allow a prospective contractor to readily make such
+certification. See, ST-220-TD (available at
+http://www.tax.ny.gov/pdf/current_forms/st/st220td_fill_in.pdf). Prior to contracting with NYSERDA,
+the prospective contractor must also certify to NYSERDA whether it has filed such certification with
+the Department. The Department has created a second form that must be completed by a
+perspective contractor prior to contacting and filed with NYSERDA. See, ST-220-CA (available at
+http://www.tax.ny.gov/pdf/current_forms/st/st220ca_fill_in.pdf). The Department has developed
+guidance for contractors which is available at
+http://www.tax.ny.gov/pdf/publications/sales/pub223.pdf.
+
+Limitation - This solicitation does not commit NYSERDA to award a contract, pay any costs incurred
+in preparing a proposal, or to procure or contract for services or supplies. NYSERDA reserves the
+right to accept or reject any or all proposals received, to negotiate with all qualified sources, or to
+cancel in part or in its entirety the solicitation when it is in NYSERDA's best interest. NYSERDA
+reserves the right to reject proposals based on the nature and number of any exceptions taken to the
+standard terms and conditions of the Sample Agreement (Attachment G). NYSERDA reserves the
+right to disqualify proposers based upon the results of a background check into publicly available
+information and the presence of a material possibility of any reputational or legal risk in making of the
+award.
+
+
+Disclosure Requirement - The proposer shall disclose any indictment for any alleged felony, or any
+conviction for a felony within the past five years, under the laws of the United States or any state or
+territory of the United States, and shall describe circumstances for each. When a proposer is an
+association, partnership, corporation, or other organization, this disclosure requirement includes the
+organization and its officers, partners, and directors or members of any similarly governing body. If
+an indictment or conviction should come to the attention of NYSERDA after the award of a contract,
+NYSERDA may exercise its stop-work right pending further investigation, or terminate the
+agreement; the contractor may be subject to penalties for violation of any law which may apply in the
+particular circumstances. Proposers must also disclose if they have ever been debarred or
+suspended by any agency of the U.S. Government or the New York State Department of Labor.
+
+Contract Award - NYSERDA anticipates making one or multiple awards under this solicitation. It
+may award a contract based on initial applications without discussion, or following limited discussion
+or negotiations pertaining to the Statement of Work. Each offer should be submitted using the most
+favorable cost and technical terms. NYSERDA may request additional data or material to support
+applications. NYSERDA will use the Sample Agreement (Attachment D) to contract successful
+proposals. NYSERDA may at its discretion elect to extend and/or add funds to any project funded
+through this solicitation. NYSERDA reserves the right to limit any negotiations to exceptions to
+standard terms and conditions in the Sample Agreement to those specifically identified in the
+submitted proposal (see Attachment A: Proposal Checklist). Proposers should keep in mind that
+acceptance of all standard terms and conditions will generally result in a more expedited contracting
+process. NYSERDA expects to notify proposers in approximately six (6) weeks from the proposal
+due date whether your proposal has been selected to receive an award. NYSERDA may decline to
+contract with awardees that are delinquent with respect to any obligation under any previous or
+active NYSERDA agreement.
+
+Accessibility Requirements - NYSERDA requires contractors producing content intended to be
+posted to the Web to adhere to New York State’s Accessibility Policy. This includes, but is not
+limited to, deliverables such as: documents (PDF, Microsoft Word, Microsoft Excel, etc.), audio
+(.mp3, .wav, etc.), video (.mp4, .mpg, .avi, etc.), graphics (.jpg, .png, etc.), web pages (.html, .aspx,
+etc.), and other multimedia and streaming media content. For more information, see NYSERDA's
+  Accessibility Requirements.
+
+Limitation - This solicitation does not commit NYSERDA to award a contract, pay any costs incurred in
+preparing a proposal, or to procure or contract for services or supplies. NYSERDA reserves the right to
+accept or reject any or all proposals received, to negotiate with all qualified sources, or to cancel in part or
+in its entirety the solicitation when it is in NYSERDA's best interest. NYSERDA reserves the right to reject
+proposals based on the nature and number of any exceptions taken to the standard terms and conditions
+of the Sample Agreement. NYSERDA reserves the right to disqualify proposers based upon the results of
+a background check into publicly available information and the presence of a material possibility of any
+reputational or legal risk in making of the award.
+
+Disclosure Requirement - The proposer shall disclose any indictment for any alleged felony, or any
+conviction for a felony within the past five years, under the laws of the United States or any state or
+territory of the United States and shall describe circumstances for each. When a proposer is an
+association, partnership, corporation, or other organization, this disclosure requirement includes the
+organization and its officers, partners, and directors or members of any similarly governing body. If an
+indictment or conviction should come to the attention of NYSERDA after the award of a contract,
+NYSERDA may exercise its stop-work right pending further investigation or terminate the agreement; the
+contractor may be subject to penalties for violation of any law which may apply in the particular
+circumstances. Proposers must also disclose if they have ever been debarred or suspended by any
+agency of the U.S. Government or the New York State Department of Labor.
+
+Vendor Assurance of No Conflict of Interest or Detrimental Effect - The proposer shall disclose any
+existing or contemplated relationship with any other person or entity, including any known relationships
+with any member, shareholders of 5% or more, parent, subsidiary, or affiliated firm, which would
+constitute an actual or potential conflict of interest or appearance of impropriety, relating to other
+clients/customers of the proposer or former officers and employees of NYSERDA, in connection with
+proposer’s rendering services as proposed. If a conflict does or might exist, please describe how your
+company would eliminate or prevent it. Indicate what procedures will be followed to detect, notify
+NYSERDA of, and resolve any such conflicts.
+
+The proposer must disclose whether it, or any of its members, or, to the best of its knowledge,
+shareholders of 5% or more, parents, affiliates, or subsidiaries, have been the subject of any investigation
+or disciplinary action by the New York State Commission on Public Integrity or its predecessor State
+entities (collectively, “Commission”), and if so, a brief description must be included indicating how any
+matter before the Commission was resolved or whether it remains unresolved.
+
+Public Officers Law – For any resulting awards, the Contractor and its subcontractors shall not engage
+any person who is, or has been at any time, in the employ of the State to perform services in violation of
+the provisions of the New York Public Officers Law, other laws applicable to the service of State
+employees, and the rules, regulations, opinions, guidelines or policies promulgated or issued by the New
+York State Joint Commission on Public Ethics, or its predecessors (collectively, the “Ethics
+Requirements”). Proposers are reminded of the following Public Officers Law provision: contractors,
+consultants, vendors, and subcontractors may hire former NYSERDA employees. However, as a general
+rule and in accordance with New York Public Officers Law, former employees of NYSERDA may neither
+appear nor practice before NYSERDA, nor receive compensation for services rendered on a matter
+before NYSERDA, for a period of two years following their separation from NYSERDA service. In
+addition, former NYSERDA employees are subject to a “lifetime bar” from appearing before any state
+agency or authority or receiving compensation for services regarding any transaction in which they
+personally participated, or which was under their active consideration during their tenure with NYSERDA.
+
+Any awardee will be required to certify that all of its employees, as well as employees of any
+subcontractor, whose subcontract is valued at $100,000 or more who are former employees of the State
+and who are assigned to perform services under the resulting contract, shall be assigned in accordance
+with all Ethics Requirements. During the term of any agreement, no person who is employed by the
+contractor or its subcontractors and who is disqualified from providing services under the contract
+pursuant to any Ethics Requirements may share in any net revenues of the contractor or its
+subcontractors derived from the contract. NYSERDA may request that contractors provide it with
+whatever information the State deems appropriate about each such person’s engagement, work
+cooperatively with the State to solicit advice from the New York State Joint Commission on Public Ethics,
+and, if deemed appropriate by the State, instruct any such person to seek the opinion of the New York
+State Joint Commission on Public Ethics. NYSERDA shall have the right to withdraw or withhold approval
+of any subcontractor if utilizing such subcontractor for any work performed would be in conflict with any of
+the Ethics Requirements. NYSERDA shall have the right to terminate any contract at any time if any work
+performed is in conflict with any of the Ethics Requirements.
+
+
+
+  Attachments
+      Attachment A: Rate Card Example - Mandatory Submission
+      Attachment B: Article 15-A (MWBE) Provisions
+      Attachment C: Article 17-B (SDVOB) Provisions
+      Attachment D: Diversity Practices Questionnaire – Mandatory Submission
+      Attachment E: Vendor Assurance of No Conflict of Interest – Mandatory Submission
+      Attachment G: Sample Agreement
+

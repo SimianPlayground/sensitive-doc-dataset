@@ -1,0 +1,628 @@
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 1 of 17
+
+
+Introduction
+
+The ADA Dental Claim Form has been revised to incorporate key changes to the HIPAA standard
+electronic dental claim transaction. This version of the form, front and reverse sides, is illustrated on the
+next two pages.
+
+Comprehensive completion instructions for this version (2012 © American Dental Association) follow the
+illustration. Please note that changes to the form and changes to the completion instructions are
+highlighted.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 2 of 17
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 3 of 17
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 4 of 17
+
+
+DATA ELEMENT SPECIFIC INSTRUCTIONS
+
+Form completion instructions are provided for each data item, which is indicated by a number. Please
+note that data items are in groups of related information. These instructions explain the reasons for such
+groupings, and the relationships (if any) between groups.
+
+Header Information
+
+The ‘header’ provides information about the type of submission being made. This information applies to
+the entire transaction.
+
+
+
+
+    1. Type of Transaction: There are three boxes that may apply to this submission. If services have
+       been performed, mark the “Statement of Actual Services” box. If there are no dates of service,
+       mark the box marked “Request for Predetermination / Preauthorization”. If the claim is through
+       the Early and Periodic Screening, Diagnosis and Treatment Program, mark the box marked
+       ‘EPSDT/Title XIX’.
+
+    2. Predetermination/Preauthorization Number: If you are submitting a claim for a procedure that has
+       been pre-authorized by a third party payer, enter the preauthorization or predetermination number
+       provided by the insurance company.
+
+Insurance Company/Dental Benefit Plan Information
+
+
+
+
+    3. Company/Plan Name, Address, City, State, Zip Code: This Item is always completed. Enter
+       the information for the insurance company or dental benefit plan that is the third party payer
+       receiving the claim.
+
+            •   If the patient is covered by more than one plan, enter the primary insurance company
+                information here for the initial claim submission.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 5 of 17
+
+
+            •   When submitting a separate claim to the secondary carrier, place the secondary carrier’s
+                company/plan name and address information here.
+
+Other Coverage
+
+This area of the claim form provides information on the existence of additional dental or medical
+insurance policies. This is necessary to determine if multiple coverages are in effect, and the possibility
+of coordination of benefits.
+
+    •   When the claim form is being prepared for submission to the primary carrier the information in
+        “Other Coverage” applies to the secondary carrier.
+
+    •   When the claim form is being prepared for submission to the secondary carrier the information in
+        “Other Coverage” applies to the primary carrier.
+
+
+
+
+    4. Other Dental or Medical Coverage?: Mark the box after “Dental?” or “Medical?” whenever a
+       patient has coverage under any other dental or medical plan, without regard to whether the
+       dentist or the patient will be submitting a claim to collect benefits under the other coverage.
+
+            •   Leave blank when the dentist is not aware of any other coverage(s).
+
+            •   When either box is marked, complete Items 5 through 11 in the “Other Coverage” section
+                for the applicable benefit plan.
+
+            •   If both Dental and Medical are marked, enter information about the dental benefit plan in
+                Items 5 through 11.
+
+    5. Name of Policyholder/Subscriber with Other Coverage Indicated in #4 (Last, First, Middle Initial,
+       Suffix): If the patient has other coverage through a spouse, domestic partner or, if a child,
+       through both parents, the name of the person who has the other coverage is reported here.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 6 of 17
+
+
+   6. Date of Birth (MM/DD/CCYY): Enter the date of birth of the person listed in Item #5. The date
+      must be entered with two digits each for the month and day, and four digits for the year of birth.
+
+   7. Gender: Mark the gender of the person who is listed in Item #5. Mark “M” for Male or “F” for
+      Female as applicable.
+
+   8. Policyholder/Subscriber Identifier (SSN or ID#): Enter the social security number or the identifier
+      number of the person who is listed in Item #5. The identifier number is a number assigned by the
+      payer/insurance company to this individual.
+
+   9. Plan/Group Number: Enter the group plan or policy number of the person identified in Item #5.
+
+   10. Patient’s Relationship to Person Named in Item #5: Mark the patient’s relationship to the other
+       insured named in Item #5.
+
+   11. Other Insurance Company/Dental Benefit Plan Name, Address, City, State, Zip Code: Enter the
+       complete information of the additional payer, benefit plan or entity for the insured named in Item
+       #5.
+
+Policyholder/Subscriber Information (For Insurance Company Named in Item #3)
+
+This section documents information about the insured person who may or may not be the patient.
+
+   •   When the claim form is being prepared for submission to the primary carrier the information
+       supplied applies to the person insured by the primary carrier.
+
+   •   When the claim form is being prepared for submission to the secondary carrier the information
+       entered applies to the person insured by secondary carrier.
+
+
+
+
+   12. Policyholder/Subscriber Name (Last, First, Middle Initial, Suffix), Address, City, State, Zip Code:
+       Enter the complete name, address and zip code of the policyholder/subscriber with coverage
+       from the company/plan named in #3.
+
+   13. Date of Birth (MM/DD/CCYY): A total of eight digits are required in this field; two for the month,
+       two for the day of the month, and four for the year.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 7 of 17
+
+
+    14. Gender: This applies to the primary insured, who may or may not be the patient. Mark “M” for
+        male or “F” for female.
+
+    15. Policyholder/Subscriber Identifier (SSN or ID#): Enter the unique identifying number assigned by
+        the third-party payer (e.g., insurance company) to the person named in Item #12, which is on their
+        identification card.
+
+    16. Plan/Group Number: Enter the policyholder/subscriber’s group plan/policy number.
+
+    17. Employer Name: If applicable, enter the name of the policyholder/subscriber’s employer.
+
+Patient Information
+
+The information in this section of the claim form pertains to the patient.
+
+
+
+
+    18. Relationship to Policyholder/Subscriber in #12 Above: Mark the relationship of the patient to the
+        person identified in Item #12 who has the primary insurance coverage. The relationship between
+        the insured and the patient may affect the patient’s eligibility or benefits available. If the patient
+        is also the primary insured, mark the box titled ‘Self’ and skip to item #23.
+
+    19. Reserved For Future Use: Leave blank and skip to Item #20. (#19 was previously used to report
+        “Student Status.”)
+
+    20. Name (Last, First, Middle Initial, Suffix), Address, City, State, Zip Code: Enter the complete
+        name, address and zip code of the patient.
+
+    21. Date of Birth (MM/DD/CCYY): A total of eight digits are required in this field; two for the month,
+        two for the day of the month, and four for the year of birth of the patient.
+
+    22. Gender: This applies to the patient. Mark “M” for male or “F” for female.
+
+    23. Patient ID/Account # (Assigned by Dentist): Enter if the dentist’s office has assigned a number to
+        identify the patient. This is not required to process claim.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 8 of 17
+
+
+Record Of Services Provided
+
+The ‘Record Of Services Provided' contains information regarding the proposed treatment
+(predetermination/preauthorization), or treatment performed (actual services).
+
+
+
+
+NOTE: Items 24 through 31, following, apply to each of the 10 available lines on the claim form for
+reporting dental procedures provided to the patient. The remaining Items in this section of the form
+(33-35) do not repeat.
+
+   24. Procedure Date (MM/DD/CCYY): Enter procedure date for actual services performed or leave
+       blank if the claim is for preauthorization/predetermination. The date, if included, must have two
+       digits for the month, two for the day, and four for the year.
+
+       The presence or absence of a Procedure Date should be consistent with the type of
+       transaction(s) marked in Item #1 (e.g., actual services; predetermination / preauthorization).
+
+   25. Area of Oral Cavity: Use of this field is conditional. Always report the area of the oral cavity
+       when the procedure reported in Item #29 (Procedure Code) refers to a quadrant or arch and the
+       area of the oral cavity is not uniquely defined by the procedure’s nomenclature. For example:
+
+               a. Report the applicable area of the oral cavity when the procedure code nomenclature
+                  includes a general reference to an arch or quadrant, such as D4263 bone
+                  replacement graft – first site in quadrant
+
+               b. Do not report the applicable area of the oral cavity when the procedure either: 1)
+                  incorporates a specific area of the oral cavity in its nomenclature, such as D5110
+                  complete denture – maxillary; or 2) does not relate to any portion of the oral cavity,
+                  such as D9220 deep sedation/general anesthesia – first 30 minutes.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 9 of 17
+
+
+       Area of the oral cavity is designated by a two-digit code, selected from the following code list:
+
+                           Code                 Area
+                           00        entire oral cavity
+                           01        maxillary arch
+                           02        mandibular arch
+                           10        upper right quadrant
+                           20        upper left quadrant
+                           30        lower left quadrant
+                           40        lower right quadrant
+
+   26. Tooth System: Enter “JP” when designating teeth using the ADA’s Universal/National Tooth
+       Designation System (1-32 for permanent dentition and A-T for primary dentition). Enter “JO”
+       when using the International Standards Organization System. Additional information regarding
+       the tooth numbering systems can be found in Sections 3 (Tooth Numbering) and 6 (Glossary) of
+       this manual.
+
+   27. Tooth Number(s) or Letter(s): Enter the appropriate tooth number or letter when the
+       procedure directly involves a tooth or range of teeth. Otherwise, leave blank.
+
+       If the same procedure is performed on more than a single tooth on the same date of service,
+       report each procedure and tooth involved on separate lines on the claim form.
+
+       When a procedure involves a range of teeth, the range is reported in this field. This is done either
+       with a hyphen “-” to separate the first and last tooth in the range (e.g., 1-4; 7-10; 22-27), or by the
+       use of commas to separate individual tooth numbers or ranges (e.g., 1, 2, 4, 7-10; 3-5, 22-27).
+
+       Supernumerary teeth in the permanent dentition are identified in the ADA’s Universal/National
+       Tooth Designation System (“JP”) by the numbers 51 through 82, beginning with the area of the
+       upper right third molar, following around the upper arch and continuing on the lower arch to the
+       area of the lower right third molar (for example, supernumerary number 51 is adjacent to the
+       upper right molar number 1; supernumerary number 82 is adjacent to the lower right third molar
+       number 32). This enumeration is illustrated in the following chart:
+
+       Upper Arch (commencing in the upper right quadrant and rotating counterclockwise)
+
+       Tooth #       1    2     3    4     5    6      7    8    9    10   11   12   13   14   15   16
+
+       ‘Super’ #     51   52    53   54    55   56     57   58   59   60   61   62   63   64   65   66
+
+       Lower Arch
+
+       Tooth #      32    31    30   29   28    27     26   25   24   23   22   21   20   19   18   17
+
+       ‘Super’ #    82    81    80   79   78    77     76   75   74   73   72   71   70   69   68   67
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 10 of 17
+
+
+       Supernumerary teeth in the primary dentition are identified by the placement of the letter "S"
+       following the letter identifying the adjacent primary tooth (for example, supernumerary "AS" is
+       adjacent to "A"; supernumerary "TS" is adjacent to "T"). This enumeration is illustrated in the
+       following chart:
+
+       Upper Arch (commencing in the upper right quadrant and rotating counterclockwise)
+
+         Tooth
+                    A        B        C         D     E       F        G       H        I       J
+           #
+        ‘Super’
+                    AS      BS       CS         DS    ES      FS       GS     HS       IS      JS
+           #
+
+       Lower Arch
+
+         Tooth
+                    T        S        R         Q     P       O        N       M        L       K
+          “#”
+         Super
+                    TS      SS       RS         QS    PS     OS        NS     MS       LS      KS
+          “#”
+
+   28. Tooth Surface: This Item is necessary when the procedure performed by tooth involves one or
+       more tooth surfaces. Otherwise leave blank. The following single letter codes are used to
+       identify surfaces:
+
+                                     Surface                   Code
+                                      Buccal                       B
+                                      Distal                       D
+                                 Facial (or labial)                F
+                                      Incisal                      I
+                                     Lingual                       L
+                                      Mesial                       M
+                                     Occlusal                      O
+
+       Do not leave any spaces between surface designations in multiple surface restorations (e.g.,
+       MOD).
+
+   29. Procedure Code: Enter the appropriate procedure code found in the version of the Code on
+       Dental Procedures and Nomenclature in effect on the “Procedure Date” (Item #24).
+
+   29a Diagnosis Code Pointer: Enter the letter(s) from Item 34 that identify the diagnosis code(s)
+       applicable to the dental procedure. List the primary diagnosis pointer first.
+
+   29b Quantity: Enter the number of times (01-99) the procedure identified in Item 29 is delivered to
+       the patient on the date of service shown in Item 24. The default value is “01.”
+
+   30. Description: Provide a brief description of the service provided (e.g., abbreviation of the
+       procedure code’s nomenclature).
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 11 of 17
+
+
+   31. Fee: Report the dentist’s full fee for the procedure. Resolution 44-2009 Statement on Reporting
+       Fees on Dental Claims adopted by the ADA House of Delegates, as follows, provides guidance
+       on the appropriate entry for this item.
+
+                            Statement on Reporting Fees on Dental Claims
+
+                1. A full fee is the fee for a service that is set by the dentist, which reflects
+                   the costs of providing the procedure and the value of the dentist’s
+                   professional judgment.
+
+                2. A contractual relationship does not change the dentist’s full fee.
+
+                3. It is always appropriate to report the full fee for each service reported to
+                   a third-party payer.
+
+   (Note: Item 31 above is the last of the repeating ‘service line’ items.)
+
+   31a Other Fee(s): When other charges applicable to dental services provided must be reported,
+       enter the amount here. Charges may include state tax and other charges imposed by regulatory
+       bodies.
+
+   32. Total Fee: The sum of all fees from lines in Item #31, plus any fee(s) entered in Item #31a.
+
+   33. Missing Teeth Information: Mark an “X” on the number of the missing tooth – for identifying
+       missing permanent dentition only. Report missing teeth when pertinent to Periodontal,
+       Prosthodontic (fixed and removable), or Implant Services procedures on a particular claim.
+
+   34. Diagnosis Code List Qualifier: Enter the appropriate code to identify the diagnosis code source:
+
+                B = ICD-9-CM              AB = ICD-10-CM (as of October 1, 2013)
+
+       This information is required when the diagnosis may have an impact on the adjudication of the
+       claim in cases where specific dental procedures may minimize the risks associated with the
+       connection between the patient’s oral and systemic health conditions.
+
+   34a Diagnosis Code(s): Enter up to four applicable diagnosis codes after each letter (A. – D.). The
+       primary diagnosis code is entered adjacent to the letter “A.”
+
+        This information is required when the diagnosis may have an impact on the adjudication of the
+        claim in cases where specific dental procedures may minimize the risks associated with the
+        connection between the patient’s oral and systemic health conditions.
+
+   35. Remarks: This space may be used to convey additional information for a procedure code that
+       requires a report, or for multiple supernumerary teeth. It can also be used to convey additional
+       information you believe is necessary for the payer to process the claim (e.g., for a secondary
+       claim, the amount the primary carrier paid).
+
+       Remarks should be concise and pertinent to the claim submission. Claimants should note that an
+       entry in “Remarks” may prompt review by a person as part of claim adjudication, which may affect
+       overall time required to process the claim.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 12 of 17
+
+
+Authorizations
+
+This section provides consent for treatment as well as permission for the payer to send any patient
+benefit available for procedures performed directly to the dentist or the dental business entity.
+
+
+
+
+    36. Patient Consent: The patient is defined as an individual who has established a professional
+        relationship with the dentist for the delivery of dental health care. For matters relating to
+        communication of information and consent, the term includes the patient’s parent, caretaker,
+        guardian, or other individual as appropriate under state law and the circumstances of the case.
+
+        By signing (or “Signature on File” notice) in this location of the claim form, the patient or patient’s
+        representative has agreed that he/she has been informed of the treatment plan, the costs of
+        treatment and the release of any information necessary to carry out payment activities related to
+        the claim.
+
+        Claim forms prepared by the dentist’s practice management software may insert “Signature on
+        File” when applicable in this Item.
+
+    37. Authorize Direct Payment: The signature and date (or “Signature on File” notice) are required
+        when the Policyholder/Subscriber named in Item #12 wishes to have benefits paid directly to the
+        dentist/provider. This is an authorization of payment. It does not create a contractual relationship
+        between the dentist or dental entity and the insurance company.
+
+        Claim forms prepared by the dentist’s practice management software may insert “Signature on
+        File” when applicable in this Item.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 13 of 17
+
+
+Ancillary Claim/Treatment Information
+
+This section of the claim form provides additional information to the third party payer regarding the claim.
+
+
+
+
+    38. Place of Treatment: Enter the 2-digit Place of Service Code for Professional Claims, a
+        HIPAA standard. Frequently used codes are:
+
+            11 = Office; 12 = Home; 21 = Inpatient Hospital; 22 = Outpatient Hospital; 31 =
+            Skilled Nursing Facility; 32 = Nursing Facility
+
+        All current codes are available online from the Centers for Medicare and Medicaid
+        Services (search for CMS place of service codes downloads).
+
+    39. Number of Enclosures (00 to 99): Enter a “Y” or “N” to indicate whether or not there are
+        enclosures of any type included with the claim submission (e.g., radiographs, oral
+        images, models).
+
+    40. Is Treatment for Orthodontics?: If no, skip to Item #43. If yes, answer Items 41 & 42.
+
+    41. Date Appliance Placed (MM/DD/CCYY): Indicate the date an orthodontic appliance was placed.
+        This information should also be reported in this section for subsequent orthodontic visits.
+
+    42. Months of Treatment: Enter the total number of months required to complete the orthodontic
+        treatment. (Note: This is the total number of months from the beginning to the end of the
+        treatment plan. Some versions of the paper claim form incorrectly include the word “Remaining”
+        at the end of this data element’s name)
+
+    43. Replacement of Prosthesis?: This Item applies to Crowns and all Fixed or Removable
+        Prostheses (e.g., bridges and dentures).
+
+        Please review the following three situations in order to determine how to complete this Item.
+
+            a) If the claim does not involve a prosthetic restoration mark “NO” and proceed to Item 45.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 14 of 17
+
+
+            b) If the claim is for the initial placement of a crown, or a fixed or removable prosthesis,
+               mark “NO” and proceed to Item 45.
+
+            c) If the patient has previously had these teeth replaced by a crown, or a fixed or removable
+               prosthesis, or the claim is to replace an existing crown, mark the “YES” field and
+               complete section 44.
+
+    44. Date of Prior Placement (MM/DD/CCYY): Complete if the answer to Item #43 was “YES.”
+
+    45. Treatment Resulting From: If the dental treatment listed on the claim was provided as a result of
+        an accident or injury, mark the appropriate box in this item, and proceed to Items #46 and #47. If
+        the services you are providing are not the result of an accident, this Item does not apply;
+        skip to Item #48.
+
+    46. Date of Accident (MM/DD/CCYY): Enter the date on which the accident noted in Item #45
+        occurred. Otherwise, leave blank.
+
+    47. Auto Accident State: Enter the state in which the auto accident noted in Item #45 occurred.
+        Otherwise, leave blank.
+
+Billing Dentist Or Dental Entity
+
+The ‘Billing Dentist’ or ‘Dental Entity’ section provides information on the individual dentist’s name, the
+name of the practitioner providing care within the scope of their state licensure, or the name of the group
+practice/corporation that is responsible for billing and other pertinent information. Depending on the
+business relationship of the practice and the treating dentist, the information provided in this section may
+not be the treating dentist. If the patient is submitting the claim directly, do not complete Items 48-
+52A.
+
+
+
+
+    48. Name, Address, City, State, Zip Code: Enter the name and complete address of a dentist or the
+        dental entity (corporation, group, etc.).
+
+    49. NPI (National Provider Identifier): Enter the appropriate NPI type for the billing entity. A Type 2
+        NPI is entered when the claim is being submitted by an incorporated individual, group practice or
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 15 of 17
+
+
+       similar legally recognized entity. Unincorporated practices may enter the individual practitioners
+       Type 1 NPI.
+
+                NOTE: The NPI is an identifier assigned by the Federal government to all providers
+                considered to be HIPAA covered entities. Dentists who are not covered entities may
+                elect to obtain an NPI at their discretion, or may be enumerated if required by a
+                participating provider agreement with a third-party payer, or applicable state
+                law/regulation.
+
+                An NPI is unique to an individual dentist or dental entity, and has no intrinsic meaning.
+                There are two types of NPI available to dentists and dental practices:
+
+                    Type 1 Individual Provider - All individual dentists are eligible to apply for Type 1
+                    NPIs, regardless of whether they are covered by HIPAA.
+
+                    Type 2 Organization Provider - A health care provider that is an organization, such as
+                    a group practice or corporation. Individual dentists who are incorporated may
+                    enumerate as Type 2 providers, in addition to being enumerated as a Type 1. All
+                    incorporated dental practices and group practices are eligible for enumeration as
+                    Type 2 providers.
+
+                On paper, there is no way to distinguish a type 1 from a type 2 in the absence of any
+                associated data; they are identical in format. Additional information on NPI and
+                enumeration can be obtained from the ADA’s Internet Web Site:
+                http://www.ada.org/goto/npi.
+
+   50. License Number: If the billing dentist is an individual, enter the dentist’s license number. If a
+       billing entity (e.g., corporation) is submitting the claim, leave blank.
+
+   51. SSN or TIN: Report the: 1) SSN or TIN if the billing dentist is unincorporated; 2) corporation TIN
+       of the billing dentist or dental entity if the practice is incorporated; or 3) entity TIN when the billing
+       entity is a group practice or clinic.
+
+   52. Phone Number: Enter the business phone number of the billing dentist or dental entity.
+
+ 52A. Additional Provider ID: This is an identifier assigned to the billing dentist or dental entity other
+      than a Social Security Number (SSN) or Tax Identification Number (TIN). It is not the provider’s
+      NPI.
+
+       The additional identifier is sometimes referred to as a Legacy Identifier (LID). LIDs may not be
+       unique as they are assigned by different entities (e.g., third-party payer; federal government).
+       Some Legacy IDs have an intrinsic meaning.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 16 of 17
+
+
+Treating Dentist And Treatment Location Information
+
+This section must be completed for all claims. Information that is specific to the dentist or practitioner
+acting within the scope of their state licensure who has provided treatment is entered in this section.
+
+
+
+
+    53. Certification: Signature of the treating or rendering dentist and the date the form is signed. This
+        is the dentist who performed, or is in the process of performing, procedures, indicated by date, for
+        the patient. If the claim form is being used to obtain a pre-estimate or pre-authorization, it is not
+        necessary for the dentist to sign the form.
+
+        Claim forms prepared by the dentist’s practice management software may insert the treating
+        dentist’s printed name in this Item.
+
+    54. NPI (National Provider Identifier): Enter the treating dentist’s Type 1 – Individual Provider NPI in
+        Item # 54. (See Item #49 for more NPI information.)
+
+    55. License Number: Enter the license number of the treating dentist. This may vary from the billing
+        dentist.
+
+    56. Address, City, State, Zip Code: Enter the physical location where the treatment was rendered.
+        Must be a street address, not a Post Office Box.
+
+  56A Provider Specialty Code: Enter the code that indicates the type of dental professional who
+      delivered the treatment. Available codes describing treating dentists follow. The general code
+      listed as “Dentist” may be used instead of any other dental practitioner codes.
+ADA Dental Claim Form (2012 © American Dental Association) Completion
+Instructions
+Page 17 of 17
+
+
+                                   Category / Description                                       Code
+                                           Dentist /
+       A dentist is a person qualified by a doctorate in dental surgery (D.D.S) or          122300000X
+       dental medicine (D.M.D.) licensed by the state to practice dentistry, and
+       practicing within the scope of that license.
+                                   General Practice /
+       Many dentists are general practitioners who handle a wide variety of dental          1223G0001X
+       needs.
+                                     Dental Specialty /
+                                                                                              Various
+       Other dentists practice in one of the nine specialty areas recognized by the
+                                                                                         (see following list)
+       American Dental Association.
+
+                                    Dental Public Health                                    1223D0001X
+
+                                        Endodontics                                         1223E0200X
+
+                                        Orthodontics                                        1223X0400X
+
+                                     Pediatric Dentistry                                    1223P0221X
+
+                                        Periodontics                                        1223P0300X
+
+                                       Prosthodontics                                       1223P0700X
+
+                               Oral & Maxillofacial Pathology                               1223P0106X
+
+                               Oral & Maxillofacial Radiology                               1223D0008X
+
+                                Oral & Maxillofacial Surgery                                1223S0112X
+
+
+       ”Provider specialty codes” (also known as provider taxonomy codes) come from the”Dental
+       Service Providers” section of the Healthcare Providers Taxonomy code list, which is used in
+       HIPAA transactions. Provider taxonomy codes listed above are a subset of the full code set
+       under dental providers, which includes codes in categories for dental assistants, dental
+       hygienists, denturists, and dental lab technicians. The current full list is posted at http://www.wpc-
+       edi.com/codes/codes.asp.
+
+   57. Phone Number: Enter the business telephone number of the treating dentist.
+
+   58. Additional Provider ID: This is an identifier assigned to the treating dentist other than a Social
+       Security Number (SSN) or Tax Identification Number (TIN). It is not the provider’s NPI.
+
+       The additional identifier is sometimes referred to as a Legacy Identifier (LID). LIDs may not be
+       unique as they are assigned by different entities (e.g., third-party payer; Federal government).
+       Some Legacy IDs have an intrinsic meaning.
+

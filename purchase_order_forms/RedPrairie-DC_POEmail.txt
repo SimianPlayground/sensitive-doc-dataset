@@ -1,0 +1,394 @@
+RedPrairie: Direct Commerce
+
+
+
+Configuring RedPrairie
+Purchase Order output for
+Emailing
+                                                           Emailing Ecometry Purchase Orders
+
+
+
+Why the need to configure?
+    RedPrairie’s (formerly Ecometry) purchase order output for emailing, contains little
+    formatting of it’s data and no ability to add a purchase order form to the data output for
+    emailing. With eFORMz, a RedPrairie client can now utilize the RedPrairie output to
+    format the data, add a form, and email a pdf file to their vendors.
+
+
+
+
+Configuring eFORMz for RedPrairie’s
+Purchase Order output
+    To configure RedPrairie’s purchase order output for emailing using eFORMz, a
+    RedPrairie user must be on version 8.03 or later of eFORMz. With the eFORMz
+    installation, a sample purchase order template (purchase_order_email.efz) will be made
+    available. Also included, is a sample purchase order template (Rich Text Format) that can
+    be edited and refreshed to your company look and feel.
+
+     Once eFORMz has been installed, open the eFORMz Composer:
+
+    1.   From your Start menu, open the eFORMz Composer by selecting Programs >
+         eFORMz 8 > eFORMz Composer:
+
+
+
+
+                                                                                                 1
+    Emailing Ecometry Purchase Orders
+
+            2.   From the eFORMz Main Menu select File > Open Project.
+
+
+
+
+            3.   Open the following purchase order template by selecting:
+                 C:\Minisoft\eFORMz_6\Projects\SoftwareProvider_Templates\RedPrairie\
+                 DirectCommerce\po\purchase_order_email.efz
+
+
+
+
+2
+                                                  Emailing Ecometry Purchase Orders
+
+4.   The template will display in the eFORMz Composer.
+
+
+
+
+                                                                                  3
+    Emailing Ecometry Purchase Orders
+
+
+
+    eFORMz Preprocessor
+            In order for eFORMz to format the data, the Replace occurrences of a string, Text file
+            pagination and Text to XML Converter preprocessors needed to be added. To view these
+            configurations, select Project Properties > Advanced.
+
+
+
+     Replace Occurrences of a String
+            The Replace occurrences of a string preprocessor finds the form feed in the data file and
+            replaces it with an at sign. The replacing of the form feed allows eFORMz to handle the
+            formatting and page breaks.
+
+
+
+
+     Text File Pagination
+            The Text file pagination preprocessor is utilized to force a line termination after every
+            84th column. Forcing a line termination allows the text file to “wrap” and the data to be
+            formatted for later use in changing the file from text to XML.
+
+
+
+
+4
+                                                          Emailing Ecometry Purchase Orders
+
+Text to XML Conversion
+    The Text to XML preprocessor converts the Ecometry data output to XML. The purchase_
+    order_email.efz template utilizes a specific configuration for RedPrairie purchase orders.
+
+
+
+
+    To edit the Text to XML Converter Properties, select Project Properties > Advanced. Pick
+    the Text to XML Converter and select the Edit option.
+
+
+
+
+                                                                                                 5
+    Emailing Ecometry Purchase Orders
+
+
+
+    Modifying the form template
+            The purchase order project file contains an RTF (Rich Text Format) template form. The
+            template form can be edited through Microsoft Word and imported into eFORMz.
+
+            1.   Open the purchase order template form from the following default directory:
+                 C:\Minisoft\eFORMz_6\Projects\SoftwareProvider_Templates\RedPrairie\
+                 DirectCommerce\po\purchaseorder.rtf
+            2.   The RTF file will display in Microsoft Word:
+
+
+
+
+6
+                                                  Emailing Ecometry Purchase Orders
+
+3.   Make any necessary modifications.
+
+
+
+
+4.   Return to the eFORMz Composer. Highlight the form from the Project Window and
+     select the Reload Form icon from the toolbar.
+
+
+
+
+                                                                                     7
+    Emailing Ecometry Purchase Orders
+
+            5.   The changes will be updated and shown in the Viewer.
+
+
+
+
+8
+                                                      Emailing Ecometry Purchase Orders
+
+The Document Template
+      The Document Template is utilized to place the purchase order total on every
+      dynamically created page (‘POTotal’). Through the use of the Text to XML
+      preprocessor, Ecometry’s formatting of page breaks are removed to allow eFORMz
+      to place as many detail lines as possible to one page. When the detail line count
+      exceeds a certain number a new page will dynamically be created.
+
+
+
+
+                                                                                          9
+     Emailing Ecometry Purchase Orders
+
+             To edit the position of the Document Template:
+             1.   Right click the Paragraph element and select Edit > Margins.
+
+
+
+
+             2.   Alter the margins as needed.
+
+
+
+
+10
+                                                         Emailing Ecometry Purchase Orders
+
+
+
+EMAIL Address Lookup
+    Configure a database connection to retrieve the email address corresponding to the
+    vendor number contained within the data file. To setup or configure your database
+    connection through eFORMz, right click the Project name and select Properties >
+    Databases. An SQL Server database name will appear in the Database dialog box. The
+    SQL Server database can either be configured (Edit) or a new database configuration can
+    be created (New).
+
+
+
+
+                                                                                              11
+     Emailing Ecometry Purchase Orders
+
+             For this example, select the SQL Server database name and select Edit.
+
+
+
+
+              NOTE: For a list of supported databases and URL and driver classes, view
+                    Appendix B, Database URL and Driver Classes of the eFORMz Manual.
+
+
+
+
+12
+                                                           Emailing Ecometry Purchase Orders
+
+
+
+SQL Lookup
+    An SQL Lookup has been configured for the ‘EMAILADDRESS’ variable. This lookup
+    is designed to call the email addresses from the Ecometry database that match the vendor
+    number contained within the data file.
+
+    1.   To access the settings, right click the SQL Lookup and select Edit.
+
+
+
+
+    2.   The settings will display. Edit the SQL statement, if necessary, and enter the correct
+         table and column the email address resides in. The Parameter added below represents
+         your database key, in this case, the vendor number is our key.
+
+
+
+
+                                                                                                  13
+     Emailing Ecometry Purchase Orders
+
+
+
+     Sort
+             1.   The sort must be set so that purchase order’s are grouped together and split by the
+                  purchase order number when there are multiple orders in a data file. To do this, right
+                  click the Project and select Properties > Sort.
+             2.   Select the New option to the right of the Sort keys field.
+
+
+
+
+             3.   Check the By variable option and select the variable for the purchase order number
+                  (‘PONUM’) from the drop down menu. Choose the Ascending option.
+
+
+
+
+14
+                                                       Emailing Ecometry Purchase Orders
+
+4.   Select the Set Group button. An asterisk will appear after Ascending to indicate it has
+     been set.
+
+
+
+
+                                                                                               15
+     Emailing Ecometry Purchase Orders
+
+
+
+     Emailing an Ecometry Purchase Order
+     with eFORMz
+             1.   To set up the purchase order template for emailing, switch to the eDIRECT PLUS (or
+                  eDIRECT) tab and select Add Output > E-Mail.
+
+
+
+
+             2.   Right click the E-Mail and select Add provider > JavaMail.
+
+
+
+
+16
+                                                         Emailing Ecometry Purchase Orders
+
+3.   Enter values in the respective fields.
+
+
+
+
+4.   Right click the E-Mail and select Add attachment.
+
+
+
+
+                                                                                       17
+     Emailing Ecometry Purchase Orders
+
+             5.   Choose PDF from the drop down menu and navigate to the File tab.
+
+
+
+
+             6.   Select the Variable for the purchase order number.
+
+
+
+
+18
+                                                       Emailing Ecometry Purchase Orders
+
+7.   Right click the content and select Add Form(s).
+
+
+
+
+8.   Select the appropriate form.
+
+
+
+
+9.   From the eFORMz main menu, select Run > Process w/eDIRECT PLUS (or
+     eDIRECT) to email the purchase orders.
+
+
+
+
+                                                                                     19
+     Emailing Ecometry Purchase Orders
+
+
+
+     Local Toolkit Setup
+             1.   To set up the purchase order template for automated emailing, open the Local Toolkit
+                  by navigating to the eFORMz Main Menu and selecting Host Tools > Local Tookit.
+             2.   The Local Toolkit will display. Right click the configuration and select Add Input >
+                  Directory.
+
+
+
+
+20
+                                                        Emailing Ecometry Purchase Orders
+
+3.   Select the browse button (...) for the Input Directory and locate the input directory.
+     This is where the source print file will reside and then be pulled to be merged with
+     the eFORMz Project. For Ecometry users this is likely the SPOOLOUT directory,
+     though eFORMz is capabale of monitoring multiple directories.
+
+
+
+
+4.   Right click the Input Directory and choose the Add File Selector option.
+
+
+
+
+                                                                                              21
+     Emailing Ecometry Purchase Orders
+
+             5.   Enter the print file that has been selected to merge with the eFORMz Project. In
+                  the SPOOLOUT directory, there will be several purchase order data files. In order
+                  for eFORMz to pick up and process them all, they can be wildcarded by using an
+                  asterisk. Also, be sure to check the Append “.hld” to the selected file option. This
+                  retains the extension of the print file, which with Ecometry, refers to the job number
+                  that produced the output.
+
+
+
+
+             6.   Right click the File Selector, highlight the Add Processor and pick the eFORMz
+                  option.
+
+
+
+
+             7.   Choose the purchase_order_email.efz project template.
+
+
+
+
+22
+                                                       Emailing Ecometry Purchase Orders
+
+8.   Right click the eFORMz Project, highlight Add Output Process and select Process w/
+     eDIRECT PLUS.
+
+
+
+
+9.   Enter the directory that will store the email records. Select Disable standard
+     subdirectories to disable the creation and indexing of new subdirectories for each
+     batch of emails.
+
+
+
+
+                                                                                          23
+     Emailing Ecometry Purchase Orders
+
+             10. The Local Toolkit has been configured to email RedPrairie Direct Commerce
+                 purchase orders.
+
+
+
+
+24
+

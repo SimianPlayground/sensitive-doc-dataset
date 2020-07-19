@@ -1,0 +1,829 @@
+               Request for Proposal (RFP) # 19-0035
+
+                         Consultant Services
+
+                                for a
+
+                  Business Technology Assessment
+
+
+CONTRACT PERIOD: The term of this contract is for one year (time
+frame) or as negotiated. There will be an option for four (4) one-year
+                      renewals or as negotiated.
+
+
+                  Issue Date: November 30, 2018
+
+   Proposal Due Date and Hour: December 21, 2018 at 12:00 PM
+                                   TABLE OF CONTENTS
+                            Request for Proposal Number: 19-0035
+                   Consultant Services for a Business Technology Assessment
+
+Section #     Description
+
+General Information Form
+
+I             Introduction
+
+II            Background and Purpose
+
+III           Scope of Services
+
+IV            Proposal Preparation and Submission Requirements
+
+V             Evaluation and Award of Contract
+
+VI            Reservation of Rights
+
+VII           Contract Administration
+
+VIII          Payment Procedures
+
+
+ATTACHMENT A: Terms and Conditions
+
+ATTACHMENT B: Sample Contract
+                             TOWN OF CHRISTIANSBURG, VIRGINIA
+                                         RFP # 19-0035
+                                  ISSUE DATE: November 30, 2018
+                              (TO BE COMPLETED AND RETURNED)
+                                GENERAL INFORMATION FORM
+
+QUESTIONS: All inquiries for information regarding this solicitation should be directed to: Kim Widrig,
+Purchasing Coordinator, Phone: (540) 382-6128 x1135; faxed to (540) 382-3762, or e-mail:
+kwidrig@christiansburg.org.
+
+DUE DATE: Sealed Proposals will be received until December 21, 2018, up to and including 12:00PM.
+Failure to submit proposals to the correct location by the designated date and hour will result in
+disqualification.
+
+ADDRESS: Proposals should be mailed or hand delivered to: Town of Christiansburg Purchasing
+Department, 100 East Main Street, Christiansburg, Virginia 24073. Reference the Due Date and Hour,
+and RFP number in the lower left corner of the return envelope or package.
+
+COMPANY INFORMATION/SIGNATURE: In compliance with this Request For Proposal and to all
+conditions imposed herein and hereby incorporated by reference, the undersigned offers and agrees to
+furnish the services and goods in accordance with the attached signed proposal or as mutually agreed
+upon by subsequent negotiation.
+
+
+ Full Legal Name (print)                  Federal Taxpayer Number         Contractor’s Registration
+                                          (ID#)
+
+ Business Name / DBA Name / TA            Payment Address                 Purchase Order Address
+ Name and Address
+
+
+
+
+ Contact Name/Title                       Signature (ink)                 Date
+
+
+
+ Telephone            Fax Number          Toll Free Number                E-mail Address
+ Number
+                                 TOWN OF CHRISTIANSBURG
+                                           RFP # 19-0035
+                     Consultant Services for a Business Technology Assessment
+
+
+I       INTRODUCTION:
+
+        The Town of Christiansburg is soliciting proposals from qualified vendors to assist in the
+        evaluation of its core business information software and workflow. The intent of this Request
+for Proposals (RFP) is to hire an experienced, capable consultant to perform the scope detailed within.
+
+
+II      BACKGROUND AND PURPOSE:
+
+        Originally a concentration of taverns and rest stops along the Great Wilderness Road (now U.S.
+Route 11); the Town of Christiansburg was established in 1792 and incorporated in 1833. Since then,
+Christiansburg has grown to over 14 square miles of the New River Valley in the Blue Ridge
+Mountains in the Commonwealth of Virginia. The Town is now home to approximately 23,000
+residents and serves as the county seat of Montgomery County.
+
+          The Town desires to evaluate its core business information software and workflow with a new
+suite of integrated systems to increase efficiency. The Town currently uses several disparate      systems
+across departments to perform its necessary functions. The Town does not have a clear, comprehensive
+look at how technology is being utilized throughout the organization as well as in         individual
+departments and believe opportunities for efficiency exist. The following is a key, but not a
+comprehensive list of all of the Town’s information software:
+
+           Microsoft Dynamics GP/Cogsdale - Financial system; Cash Receipts, Fixed Assets,
+            Accounting/Budgeting, Accounts Receivable/Payable, Utility Billing, HR, Payroll, and
+            Purchasing
+           Integrity Data – ACA compliance, electronic W-2 and paystub distribution
+           GovCollect – BPOL, taxes, citation, parking tickets
+           Time Clock Plus - Time and attendance
+           iWorq - Building Inspections, Erosion and Sediment Control inspections
+           HiperWeb – Public Works work order management, asset management
+           ActiveNet – Parks and Recreation, Aquatics – Membership, class, and program registration;
+            rentals; Point-of-sale
+           When to Work – Aquatics online employee scheduling software
+
+
+        The primary goal of this project is to assess the current technology and workflow of the Town’s
+core business functions and create a strategic, organizational technology use plan to help meets the
+goals of the Town’s businesses and residents.
+
+        The new systems must improve service to residents and increase employee productivity and
+mobility. It must also be reliable and secure. The Town anticipates enhancing its processes by
+        implementing systems that take advantage of the most current system technology and services.
+The new systems must maintain current capabilities while easily linking to third-party      applications, if
+necessary, to provide additional functionality not available in the base software.
+
+
+III     STATEMENT OF NEED:
+
+         Offerors shall include in the proposal a description of any significant task not listed in the Scope
+of Work which they know to be necessary, either as reimbursable expenses under the Contract or as a
+service to be contracted for separately by the Town. The Town requires a qualified             professional
+with proven experience in business technology projects, including overall project              management,
+needs assessment, RFP development, software selection, contract negotiations, and              implementation
+to provide direction for selecting a comprehensive ERP software system. An           integrated solution is
+the key to this project and, as such, the Town recognizes that one solution          may not exist for all of
+the required business units.
+
+
+
+        The successful Offeror shall provide services including, but not necessarily limited to, the
+following tasks:
+
+
+
+        Phase I: Evaluation of current systems and needs assessment
+
+         The focus of this phase is to gather functional requirements needed to run and streamline the
+         Town's business practices. Departments will be interviewed to assess needs and discuss industry
+and governmental best practices. Major outcomes of this phase include documentation of current systems
+and workflow along with recommendations for improvements or system changes.                 Documentation
+shall be approved by all stakeholders.
+
+        The consultant must provide, but not limited to, the following tasks:
+
+           Project management
+           Evaluation of current systems and workflow across all departments
+           High-level software demonstrations to give stakeholders an understanding of current business
+            technology
+           Identify deficiencies within the current workflow and proposed opportunities for improved
+            system design and efficiency
+           Identify other relevant system or resource components or issues that may factor into the need
+            to replace or enhance the current systems
+           Conduct business process reviews and make recommendations. It is expected that the
+            consultant would conduct a series of on-site interviews with the various department and
+            various agency users as identified to fully assess the organization
+
+
+        Phase II: Software Selection and Strategic Plan Development
+         The successful Offeror shall create a comprehensive plan of action to implement solutions to
+         issues identified within Phase I including estimated costs. The plan of action shall include a
+prioritization of solution requirements, potentials for phasing-in solution implementations,
+         suggested timeframes for implementing the project, and estimated costs for potential replacement
+options, including software, hardware, data conversion, and training.
+
+        The consultant must provide, but not limited to, the following tasks:
+
+           Project management
+           Development of Request for Proposal(s) for any necessary software or technology. Managing
+            the vendor Q&A and working with the Town to prepare an RFP addendum is also a part of
+            this phase.
+           Vendor response analysis and selection
+
+
+        Phase III: Implementation of strategic plan
+
+        The successful Offeror shall manage the implementation of the technology and services from
+        Phase II.
+
+        The consultant must provide, but not limited to, the following tasks:
+
+           Maintain authority over the project to meet business needs
+           Work very closely with senior leadership for change management and resource allocation
+           Control project scope and manage risk
+           Communicate project needs on a regular basis
+           Continuously monitor project charter to ensure goals are met
+
+
+
+IV      PROPOSAL PREPARATION AND SUBMISSION REQUIREMENTS:
+
+
+        Proposals should be as concise as possible and include only necessary information, tables,
+        illustrations, photographs, etc. needed to adequately convey the requested information. Proposal
+        shall be limited to a maximum of 30 pages (front and back acceptable and excludes tabs) using no
+        less than a 12 font type size. Proposal content shall contain the following information:
+
+
+
+        1. Title Page
+               a. Furnish the information requested on the REQUEST FOR PROPOSALS TITLE
+                   PAGE 2 of this solicitation and include it as the first page of your proposal. The
+                   name stated on the Title Sheet must be the full legal name of the Offeror and the
+                   address must be that of the office which will have the responsibility for the services
+                   provided.
+        2. Management Approach/Methodology
+                 a. Statement by the prospective Offeror of his understanding of the work to be
+                      performed with descriptions of the approach and illustrations of the procedures to be
+                      employed.
+                 b. Discussion of procedures to be employed and additional information to be required of
+                      the Town in connection with the work.
+                 c. Tentative schedule of each significant phase of the work.
+                 d. Organization of consulting team and approximate percentage of time spent by each
+                      level.
+                 e. Use of specialists.
+                 f. Typical assistance expected from the Town’s staff
+        3.   References/Experience
+                 a. State whether the organization is national, regional or local. Identify headquarters and
+                      nearest office, and identify the office which will serve as the managing office for the
+                      work.
+                 b. Provide a list of all Virginia local governments consulting clients for the past three
+                      years. Indicate the type(s) of services performed and the number of years served for
+                      each. Provide the name of a reference and the individual’s telephone number and
+                      email for each local government. Provide a brief description of the project outcomes.
+        4.   Staffing
+                 a. Provide the names, titles, qualifications, degrees, certifications, resumes and licenses
+                      of key employees, consultants, and sub-consultants proposed to be involved in the
+                      project. Show only experience directly related to their assigned duties under the
+                      proposed project.
+                 b. Include qualifications of any subcontractors or special consultants to be used for the
+                      work in the proposal. If subcontractors or special consultants will be used, they
+                      should be identified and provide references.
+        5.   Cost
+                 a. Fees for services and all other anticipated costs are to be included with your proposal
+                      response.
+                 b. Provide fees for Phases 1, 2, & 3 separately.
+                 c. Provide a list of hourly rates for all personnel proposed to be assigned work under
+                      this contract. If you anticipate using any subcontractors in this contract, include their
+                      proposed fees (hourly rates and other charges). Prices submitted by the Offeror shall
+                      remain firm for the initial term of the contract.
+        6.   Other Information
+                 a. Include other relevant information the Offeror deems necessary to describe its
+                      qualifications to provide the services needed to successfully complete work described
+                      in the Scope of Services or which the Offeror deems are relevant to its selection.
+
+
+Based on the information provided in this Request for Proposals, the Offeror should identify all materials
+and services expected from the Town in addition to general assistance.
+
+
+
+
+Pre-proposal meeting/conference call (optional)
+A pre-proposal meeting will be held at 2:00 PM, on December 11, 2018, at Christiansburg Town Hall,
+100 E Main St, Christiansburg, VA 24073 in the Administrative Conference Room. The purpose of the
+pre-proposal meeting will be to discuss the requirements and objectives of this solicitation and answer
+any questions potential respondents may have. Attendance at the pre-proposal meeting is voluntary.
+However, offerors shall comply with and be responsible for the specifications and information discussed
+at the meeting regardless of whether or not they attend. If potential respondents wish to attend the meeting
+remotely via telephone, contact Mrs. Kim Widrig, Purchasing Coordinator, at kwidrig@christiansburg.org
+by 5:00 PM, on December 10 to receive conference call access information.
+
+
+
+RFP Schedule
+
+As a guideline, The Town of Christiansburg anticipates the following timetable:
+
+Date Activity/Event
+
+       November 30, 2018 - Issue Request For Proposal
+       December 10, 2018 – Registration of pre-bid by 5:00 p.m.
+       December 11, 2018 – 2:00 p.m. Optional pre-bid meeting – all questions are due at this time
+       December 14, 2018 – Deadline of posting of addendum, if necessary
+       December 21, 2018 - Proposals due at 12:00 p.m.
+       January 11, 2019 - Evaluation of proposals completed
+       January 14, 2019 - Notify top-ranked Offerors to be interviewed
+       January 24-25, 2019 - Interviews with top-ranked Offerors (Offerors are asked to reserve these
+        dates)
+       February 12, 2019 – Town Council approval and contract award
+
+
+    GENERAL REQUIREMENTS:
+
+        RFP Response: In Order to be considered for selection, Offerors must submit a complete
+        response to this RFP. One (1) digital and four (3) hardcopies of each proposal must be submitted
+        to:
+
+                                 Kim Widrig, Purchasing Coordinator
+                             Town of Christiansburg, Purchasing Department
+                                         100 East Main Street
+                                      Christiansburg, VA 24073
+
+            Identify on the outside of envelope: Sealed RFP # 19-0035
+
+            RFP Due date/Opening date and hour: December 21, 2018 at 12:00 P.M.
+
+            The Offeror shall make no other distribution of the proposal.
+
+
+     1. Proposal Preparations:
+        a.    Proposal shall be signed by an authorized representative of the Offeror. All information
+             requested should be submitted. The Purchasing Coordinator will review all proposals to
+             ensure require information is included. Failure to submit all information requested may
+             result in a request to submit the missing information. Proposals which are substantially
+             incomplete or lack key information may be rejected as incomplete. Mandatory
+             requirements are those required by law or regulation or are such that they cannot be
+             waived and are not subject to negotiation.
+
+        b. Proposals will be reviewed and evaluated by a Committee as designated by the Town.
+
+        c. Proposal should be prepared simply and economically, providing a straight forward,
+           concise description of capabilities to satisfy the requirements of the RFP. Emphasis
+           should be placed on completeness and clarity of content.
+
+        d. Proposal should be organized in the order in which the requirements are presented in the
+           RFP. All pages of the proposal should be numbered. Each paragraph in the proposal
+           should reference the paragraph number of the corresponding section of the RFP. It is
+           also helpful to cite the paragraph number, subletter, and repeat the text of the
+           requirements as it appears in the RFP if a response covers more than one page. The
+           proposal should contain a table of contents which cross references the RFP
+           requirements. Information which the offeror desires to present that does not fall within
+           any of the requirements of the RFP should be inserted at an appropriate place or be
+           attached at the end of the proposal and designated as additional material. Proposals that
+           are not organized in this manner risk elimination from consideration if the evaluators are
+           unable to find where the RFP requirements are specifically addressed.
+
+        e. Each copy of the proposal should be bound or contained in a single volume where
+           practical. All documentation submitted with the proposal should be contained in that
+           single volume.
+
+        f.   Ownership of all data, materials and documentation originated and prepared for the
+             Town pursuant to the RFP shall belong exclusively to the Town and be subject to public
+             inspection in accordance with the Virginia Freedom of Information Act. Trade secrets
+             or proprietary information submitted by an Offeror shall not be subject to public
+             disclosure under the Virginia Freedom of Information Act; however, the Offeror must
+             invoke the protections of Section 2.2-4342D of the Code of Virginia, in writing, either
+             before or at the time the data or other materials to be protected and state the reasons why
+             protection is necessary The proprietary or trade secret material submitted must be
+             identified by some distinct method such as highlighting or underlining and must indicate
+             only the specific words, figures, or paragraphs that constitute trade secret or proprietary
+             information. The classification of an entire proposal document, line item prices and/or
+             total proposal prices as proprietary or trade secrets is not acceptable and will result in
+             rejection of the proposal.
+
+
+
+
+V.   EVALUATION AND AWARD OF CONTRACT:
+       A. AWARD OF CONTRACT:
+          Selection shall be made of two or more offerors deemed to be fully qualified and best suited
+          among those submitting proposals on the basis of the evaluation factors included in the
+          Request for Proposal, including price, if so stated in the Request for Proposal. Negotiations
+          shall be conducted with the offerors so selected. Price shall be considered but need not be the
+          sole determining factor. After negotiations have been conducted with each offeror so
+          selected, the Town shall select the offeror which, in its opinion, has made the best proposal,
+          and shall award the contract to that offeror. The Town may cancel the Request for Proposal
+          or reject proposals at any time prior to an award, and is not required to furnish a statement of
+          the reason why a particular proposal was not deemed to be the most advantageous. Should
+          the Town determine in writing and in its sole discretion that only one offeror is fully
+          qualified, or that one offeror is clearly more highly qualified than the others under
+          consideration, a contract may be negotiated and awarded to that offeror. The award
+          document will be a contract incorporating by reference all the requirements, terms and
+          conditions of the solicitation and the contractor’s proposal as negotiated. See Attachment B
+          for sample contract form.
+
+       B. EVALUATION CRITERIA:
+
+       Proposals shall be evaluated by the Town using the following criteria:
+
+       1) Methodology - Specific plans or methodology to be used to perform the services. The ability,
+       capacity, and skill of the firm to perform the work described herein in a manner consistent with
+       Town goals and standards. – 40 Points
+
+       2) Qualifications - Qualifications and experience of offerors staff to be assigned to perform the
+       services. - 35 Points
+
+       3) Strength of proposal - How thoroughly the proposal submitted specifically addresses the
+       Town’s RFP including the basic approach and understanding of the Town’s objectives – 15
+       Points
+
+       4) Price - The ability to provide a cost-efficient service. – 10 Points
+
+
+
+VI     RESERVATION OF RIGHTS:
+       The Town reserves the right to award in part or in whole, to one or more vendors, or to reject any
+       or all proposals, whichever is deemed to be in its best interest.
+
+VII    CONTRACT ADMINISTRATION:
+       Adam Carpenetti, Assistant to the Town Manager, or his designee, shall be identified as the
+       Contract Administrator and shall use all powers under the contract to enforce its faithful
+       performance. The Contract Administrator, or his designee, shall determine the amount, quantity,
+       acceptability, fitness of all aspect of the services and shall decide all other questions in connection
+       with the services. The Contract Administrator, or his designee, shall not have the authority to
+       approve changes in the services which alter the concept or which call for an extension of time for
+       this contract. Any modifications made must be authorized by the Town’s Purchasing Coordinator
+       through a written amendment to the contract.
+
+VIII   PAYMENT PROCEDURES:
+The Town will authorize payment to the Town after receipt of Contractor’s correct invoice for
+services rendered. Invoices shall be sent to:
+
+Valerie Tweedie
+100 East Main Street
+Christiansburg, VA 24073
+Vtweedie@christiansburg.org
+
+
+
+
+                               ATTACHMENT A
+                            TERMS AND CONDITIONS
+                                      TOWN OF CHRISTIANSBURG
+
+A.   Acceptance of Bids/Proposals: Unless otherwise specified, all bids/proposals submitted shall be valid for
+     a minimum period of 60 calendar days following the date established for receiving bids/proposals. At the
+     end of the 60 calendar days the bid/proposal may be withdrawn at the written request of the
+     bidder/proposer. If the bid/proposal is not withdrawn at that time, it remains in effect until an award is
+     made or the solicitation is cancelled.
+B.   Anti-Discrimination: By submitting their bids/proposals, bidders/proposers certify to the Town of
+     Christiansburg that they will conform to the provisions of the Federal Civil Rights Act of 1964, as
+     amended, as well as the Virginia Fair Employment Contracting Act of 1975, as amended, where applicable,
+     the Virginians With Disabilities Act, the Americans With Disabilities Act and § 2.2-4311 of the Virginia
+     Public Procurement Act (VPPA). If the award is made to a faith-based organization, the organization shall
+     not discriminate against any recipient of goods, services, or disbursements made pursuant to the contract on
+     the basis of the recipient's religion, religious belief, refusal to participate in a religious practice, or on the
+     basis of race, age, color, gender or national origin and shall be subject to the same rules as other
+     organizations that contract with public bodies to account for the use of the funds provided; however, if the
+     faith-based organization segregates public funds into separate accounts, only the accounts and programs
+     funded with public funds shall be subject to audit by the public body. (Code of Virginia, § 2.2-4343.1E).
+     In every contract over $10,000 the provisions in 1 and 2 below apply:
+
+              1. During the performance of this contract, the contractor agrees as follows:
+
+                       a. The contractor will not discriminate against any employee or applicant for employment
+                       because of race, religion, color, sex, national origin, age, disability, or any other basis
+                       prohibited by state law relating to discrimination in employment, except where there is a
+                       bona fide occupational qualification reasonably necessary to the normal operation of the
+                       contractor. The contractor agrees to post in conspicuous places, available to employees
+                       and applicants for employment, notices setting forth the provisions of this
+                       nondiscrimination clause.
+
+                       b. the contractor, in all solicitations or advertisements for employees placed by or on
+                       behalf of the contractor, will state that such contractor is an equal opportunity employer.
+
+                       c. Notices, advertisements and solicitations placed in accordance with federal law, rule,
+                       or regulation shall be deemed sufficient for the purpose of meeting these requirements.
+
+              2.   The contractor will include the provisions of 1 above in every subcontract or purchase order
+                   over $10,000, so that the provisions will be binding upon each subcontractor or vendor.
+C.   Antitrust: By entering into a contract, the contractor conveys, sells, assigns, and transfers to the Town of
+     Christiansburg all rights, title and interest in and to all causes of action it may now have or hereafter
+     acquire under the antitrust laws of the United States and the Commonwealth of Virginia, relating to the
+     particular goods or services purchased or acquired by the Town of Christiansburg under said contract.
+D.   Applicable Laws and Courts: This solicitation and any resulting contract shall be governed in all respects
+     by the laws of the Commonwealth of Virginia and any litigation with respect thereto shall be brought in the
+     courts of Montgomery County, Virginia. The Contractor shall comply with federal, state, local laws, and
+     regulations.
+E.   Assignment of Contract: A contract shall not be assignable by the contractor in whole or in part without
+     the written consent of the Town of Christiansburg.
+F.   Availability of Funds: It is understood and agreed between the parties herein that the Town of
+     Christiansburg shall be bound hereunder only to the extent of the funds available or which may hereafter
+     become available for the purpose of this agreement.
+G.   Bid/Proposal Pricing: The Bid/Proposal price shall be an all-inclusive price to deliver the specified goods
+     and/or services FOB Destination to the address specified address per the specifications. Invoices must be
+     itemized and will be paid at the unit price in the proposal. The Town will not accept or pay for additional
+     line items such as freight, shipping and handling, delivery, downtime, equipment, lost time due to
+     inclement weather or any other charges additional to the unit prices quoted in the Bid/Proposal.
+H.   Changes to the Contract: Changes can be made to the contract in any of the following ways:
+               1. The parties may agree in writing to modify the scope of the contract. An increase or decrease
+                   in the price of the contract resulting from such modification shall be agreed to by the parties
+                   as a part of their written agreement to modify the scope of the contract.
+               2.       The Town of Christiansburg may order changes within the general scope of the contract
+                   at any time by written notice to the contractor. Changes within the scope of the contract
+                   include, but are not limited to, things such as services to be performed, the method of packing
+                   or shipment, and the place of delivery or installation. The contractor shall comply with the
+                   notice upon receipt. The contractor shall be compensated for any additional costs incurred as
+                   the result of such order and shall give the Town of Christiansburg a credit for any savings.
+                   Said compensation shall be determined by one of the following methods:
+                        a. By mutual agreement between the parties in writing; or
+                        b. By agreeing upon a unit price or using a unit price set forth in the contract, if the
+                             work to be done can be expressed in units, and the contractor accounts for the
+                             number of units of work performed, subject to the Town of Christiansburg’s right to
+                             audit the contractor’s records and/or to determine the correct number of units
+                             independently; or
+                        c. By ordering the contractor to proceed with the work and keep a record of all costs
+                             incurred and savings realized. A markup for overhead and profit may be allowed if
+                             provided by the contract. The same markup shall be used for determining a decrease
+                             in price as the result of savings realized. The contractor shall present the Town of
+                             Christiansburg with all vouchers and records of expenses incurred and savings
+                             realized. The Town of Christiansburg shall have the right to audit the records of the
+                             contractor as it deems necessary to determine costs or savings. Any claim for an
+                             adjustment in price under this provision must be asserted by written notice to the
+                             Town of Christiansburg within thirty (30) days from the date of receipt of the written
+                             order from the Town of Christiansburg. If the parties fail to agree on an amount of
+                             adjustment, the question of an increase or decrease in the contract price or time for
+                             performance shall be resolved in accordance with the procedures for resolving
+                             disputes provided by the Disputes Clause of this contract. Neither the existence of
+                             a claim nor a dispute resolution process, litigation or any other provision of this
+                             contract shall excuse the contractor from promptly complying with the changes
+                             ordered by the Town of Christiansburg or with the performance of the contract
+                             generally.
+I.   Claims: Contractual claims, whether for money or other relief, shall be submitted in writing to the Town
+     Manager, Town of Christiansburg Office of the Town Manager, 100 East Main Street, Christiansburg, VA
+     24073, no later than sixty (60) days after final payment; however, written notice of the contractor’s
+     intention to file such claim shall have been given at the time of the occurrence or beginning of the work
+     upon which the claim is based. Nothing herein shall preclude a contract from requiring submission of an
+     invoice for final payment within a certain time after completion and acceptance of the work or acceptance
+     of the goods. Pending claims shall not delay payment of amounts agreed due in the final payment (Code of
+     Virginia, Section 2.2-4363). A contractor may not institute legal action prior to receipt of the Town
+     Manager’s decision on the claim, unless that office fails to render such decision within thirty (30) days.
+     Failure of the Town to render a decision within thirty (30) days shall not result in the contractor being
+     award the relief claimed or in any other relief or penalty. The sole remedy for the Town’s failure to render
+     a decision within thirty (30) days shall be the contractor’s right to institute immediate legal action. The
+     decision of the Town Manager shall be final and conclusive unless the contractor, within six (6) months of
+     the date of the final decision of the claim, institutes legal action as provided in the Code of Virginia,
+     Section 2.2-4364.
+J.    Clarification of Terms: If any prospective bidder/proposer has questions about the specifications or other
+     solicitation documents, the prospective bidder/proposer should contact the buyer whose name appears on
+     the face of the solicitation no later than three (3) working days before the due date. The bidder/proposer
+     may be asked to submit such questions in writing. Any revisions to the solicitation will be made only by
+     addendum issued by the buyer.
+K.   Debarment Status: By submitting their bids/proposals, bidders/proposers certify that they are not currently
+     debarred by the Commonwealth of Virginia from submitting bids/proposals on contracts for the type of
+     goods and/or services covered by this solicitation, nor are they an agent of any person or entity that is
+     currently so debarred.
+L.   Default: In case of failure to deliver goods or services in accordance with the contract terms and
+     conditions, the Town of Christiansburg, after due oral or written notice, may procure them from other
+     sources and hold the contractor responsible for any resulting additional purchase and administrative costs.
+     This remedy shall be in addition to any other remedies which the Town of Christiansburg may have. In
+     addition, the Town of Christiansburg reserves the right to cancel any orders placed that are not delivered by
+     the date specified in the Invitation for Proposal.
+M.   Drug-Free Workplace: During the performance of this contract, the contractor agrees to (i) provide a
+     drug-free workplace for the contractor's employees; (ii) post in conspicuous places, available to employees
+     and applicants for employment, a statement notifying employees that the unlawful manufacture, sale,
+     distribution, dispensation, possession, or use of a controlled substance or marijuana is prohibited in the
+     contractor's workplace and specifying the actions that will be taken against employees for violations of
+     such prohibition; (iii) state in all solicitations or advertisements for employees placed by or on behalf of the
+     contractor that the contractor maintains a drug-free workplace; and (iv) include the provisions of the
+     foregoing clauses in every subcontract or purchase order of over $10,000, so that the provisions will be
+     binding upon each subcontractor or vendor.
+     For the purposes of this section, “drug-free workplace” means a site for the performance of work done in
+     connection with a specific contract awarded to a contractor, the employees of whom are prohibited from
+     engaging in the unlawful manufacture, sale, distribution, dispensation, possession or use of any controlled
+     substance or marijuana during the performance of the contract.
+N.   Ethics in Public Contracting: By submitting their bids/proposals, bidders/proposers certify that their
+     bids/proposals are made without collusion or fraud and that they have not offered or received any
+     kickbacks or inducements from any other bidder/proposer, supplier, manufacturer or subcontractor in
+     connection with their bid/proposal, and that they have not conferred on any public employee having official
+     responsibility for this procurement transaction any payment, loan, subscription, advance, deposit of money,
+     services, or anything of more than nominal value, present or promised, unless consideration of substantially
+     equal or greater value was exchanged.
+O.   Facsimile and Email Proposals: Facsimile or email unsealed proposals received in the Town of
+     Christiansburg Purchasing Office prior to the time and date designated for proposal submission will be
+     accepted. It is the bidder’s/proposer’s responsibility to ensure these bids/proposals are received by the
+     Town of Christiansburg Purchasing Office. Facsimile or email bids/proposals will not be accepted for
+     sealed bids or proposals.
+P.   Immigration Reform and Control Act of 1986: By submitting their bids/proposals, bidders/ proposers
+     certify that they do not and will not during the performance of this contract employ illegal alien workers or
+     otherwise violate the provisions of the federal Immigration Reform and Control Act of 1986.
+Q.   Indemnification: Contractor agrees to indemnify, defend, and hold harmless the Town of Christiansburg
+     its officers, agents, and employees from any claims, damages and actions of any kind or nature, whether at
+     law or in equity, arising from or caused by any kind or nature of services furnished by the contractor or
+     contractor’s use of any materials, goods, or equipment of any kind or nature, provided that such liability is
+     not attributable to the sole negligence of the Town of Christiansburg.
+R.   Late Proposals: To be considered for selection, bids/proposals must be received by the Town of
+     Christiansburg Purchasing Office, 100 East Main Street, Christiansburg, VA 24073, by the designated date
+     and hour. Bids/Proposals received in the Town of Christiansburg Purchasing Office after the date and hour
+     designated are automatically disqualified and will not be considered. The Town of Christiansburg is not
+     responsible for delays in the delivery of mail by the U.S. Postal Service, private couriers, or other means of
+     delivery. It is the sole responsibility of the bidder/proposer to ensure that its bid/proposal reaches the Town
+     of Christiansburg Purchasing Office by the designated time and hour.
+S.   Mandatory use of Town Form and Terms and Conditions: Failure to submit a bid/proposal on the
+     official Town of Christiansburg form provided for that purpose shall be a cause for rejection of the
+     bid/proposal. Modification of or additions to any portion of the Invitation for Bid/Request for Proposal
+     may be cause for rejection of the bid/proposal; however, the Town of Christiansburg reserves the right to
+     decide, on a case by case basis, in its sole discretion, whether to reject such a bid/proposal as
+     nonresponsive. As a precondition to its acceptance, the Town of Christiansburg may, in its sole discretion,
+     request that the bidder/proposer withdraw or modify nonresponsive portions of a bid/proposal which do not
+     affect quality, quantity, price, or delivery. No modification of or addition to the provisions of the contract
+     shall be effective unless reduced to writing and signed by the parties.
+T.   Negotiation with the Lowest Bidder: Unless all bids are cancelled or rejected, the Town of Christiansburg
+     reserves the right granted by § 2.2-4318 of the Code of Virginia to negotiate with the lowest responsive,
+     responsible bidder to obtain a contract price within the funds available to the Town whenever such low bid
+     exceeds the Town’s available funds. For the purpose of determining when such negotiations may take
+     place, the term “available funds” shall mean those funds which were budgeted by the agency for this
+     contract prior to the issuance of the written Invitation for Bid. Negotiations with the low bidder may
+     include both modifications of the bid price and the Scope of Work/Specifications to be performed. The
+     Town shall initiate such negotiations by written notice to the lowest responsive, responsible bidder that its
+     bid exceeds the available funds and that the Town wishes to negotiate a lower contract price. The times,
+     places, and manner of negotiating shall be agreed to by the Town and the lowest responsive, responsible
+     bidder.
+U.   Nondiscrimination of Contractors: A bidder, proposer, offeror, or contractor shall not be discriminated
+     against in the solicitation or award of this contract because of race, religion, color, sex, national origin, age,
+     disability, faith-based organizational status, any other basis prohibited by state law relating to
+     discrimination in employment. If the award of this contract is made to a faith-based organization and an
+     individual, who applies for or receives goods, services, or disbursements provided pursuant to this contract
+     objects to the religious character of the faith-based organization from which the individual receives or
+     would receive the goods, services, or disbursements, the public body shall offer the individual, within a
+     reasonable period of time after the date of his objection, access to equivalent goods, services, or
+     disbursements from an alternative provider.
+V.   Payment:
+               1. To Prime Contractor:
+
+                       a.    Invoices for items ordered, delivered, and accepted shall be submitted by the
+                             contractor directly to the payment address shown on the purchase order/contract.
+                             All invoices shall show the Town of Christiansburg or state contract number and/or
+                             purchase order number; social security number (for individual contractors) or the
+                             federal employer identification number (for proprietorships, partnerships, and
+                             corporations).
+
+                       b.    Any payment terms requiring payment in less than 45 days will be regarded as
+                             requiring payment 45 days after invoice or delivery, whichever occurs last. This
+                             shall not affect offers of discounts for payment in less than 45 days, however.
+
+                       c.    All goods or services provided under this contract or purchase order, that are to be
+                             paid for with public funds, shall be billed by the contractor at the contract price,
+                             regardless of which public agency is being billed.
+
+                       d.    The following shall be deemed to be the date of payment: the date of postmark in all
+                             cases where payment is made by mail, or the date of offset when offset proceedings
+                             have been instituted as authorized under the Virginia Debt Collection Act.
+                       e.    Unreasonable Charges. Under certain emergency procurements and for most time
+                             and material purchases, final job costs cannot be accurately determined at the time
+                             orders are placed. In such cases, contractors should be put on notice that final
+                             payment in full is contingent on a determination of reasonableness with respect to
+                             all invoiced charges. Charges which appear to be unreasonable will be researched
+                             and challenged, and that portion of the invoice held in abeyance until a settlement
+                             can be reached. Upon determining that invoiced charges are not reasonable, the
+                          Town of Christiansburg shall promptly notify the contractor, in writing, as to those
+                          charges which it considers unreasonable and the basis for the determination. A
+                          contractor may not institute legal action unless a settlement cannot be reached
+                          within thirty (30) days of notification. The provisions of this section do not relieve
+                          an agency of its prompt payment obligations with respect to those charges which
+                          are not in dispute (Code of Virginia, § 2.2-4363).
+              2. To Subcontractors:
+
+                       a.    A contractor awarded a contract under this solicitation is hereby obligated:
+
+                             (1) To pay the subcontractor(s) within seven (7) days of the contractor’s receipt of
+                                 payment from the Town of Christiansburg for the proportionate share of the
+                                 payment received for work performed by the subcontractor(s) under the
+                                 contract; or
+
+                             (2) To notify the Town of Christiansburg and the subcontractor(s), in writing, of
+                                 the contractor’s intention to withhold payment and the reason.
+
+                       b.    The contractor is obligated to pay the subcontractor(s) interest at the rate of one
+                             percent per month (unless otherwise provided under the terms of the contract) on all
+                             amounts owed by the contractor that remain unpaid seven (7) days following receipt
+                             of payment from the Town of Christiansburg, except for amounts withheld as stated
+                             in (2) above. The date of mailing of any payment by U. S. Mail is deemed to be
+                             payment to the addressee. These provisions apply to each sub-tier contractor
+                             performing under the primary contract. A contractor’s obligation to pay an interest
+                             charge to a subcontractor may not be construed to be an obligation of the Town of
+                             Christiansburg.
+
+W.    Precedence of Terms: The following General Terms and Conditions ANTI-DISCRIMINATION,
+      ANTITRUST, APPLICABLE LAWS AND COURTS, CLARIFICATION OF TERMS, DEBARMENT
+      STATUS, ETHICS IN PUBLIC CONTRACTING, IMMIGRATION REFORM AND CONTROL ACT
+      OF 1986, MANDATORY USE OF TOWN FORM AND TERMS AND CONDITIONS, PAYMENT shall
+      apply in all instances. In the event there is a conflict between any of the other General Terms and
+      Conditions and any Special Terms and Conditions in this solicitation, the Special Terms and Conditions
+      shall apply.
+X.    Public Notice of Award: Upon the award or the announcement of the decision to award a contract as a
+      result of this solicitation, the Town of Christiansburg will publicly post such notice on the Town of
+      Christiansburg website (www.christiansburg.org) if the amount of the transaction is $30,000 or more.
+      Award information may also be obtained by contacting the buyer whose name appears on this solicitation.
+Y.    Qualification of Bidders/Proposers: The Town of Christiansburg may make such reasonable
+      investigations as deemed proper and necessary to determine the ability of the bidder/proposer to perform
+      the services/furnish the goods and the bidder/proposer shall furnish to the Town of Christiansburg all such
+      information and data for this purpose as may be requested. The Town of Christiansburg reserves the right
+      to inspect bidder’s/proposer’s physical facilities prior to award to satisfy questions regarding the
+      bidder/proposer’s capabilities. The Town of Christiansburg further reserves the right to reject any
+      (bid/proposal) if the evidence submitted by, or investigations of, such bidder/proposer fails to satisfy the
+      Town of Christiansburg that such bidder/proposer is properly qualified to carry out the obligations of the
+      contract and to provide the services and/or furnish the goods contemplated therein.
+Z.    Supremacy Clause: Notwithstanding any provision in the bidder’s/proposer’s response to the contrary, the
+      bidder/proposer agrees that the terms and conditions contained in the Town of Christiansburg’s IFB/RFP
+      prevail over contrary terms and conditions contained in the bidder’s/proposer’s response.
+AA.   Taxes: Sales to the Town of Christiansburg are normally exempt from State sales tax. State sales and use
+      tax certificates of exemption will be issued upon request. Deliveries against this contract shall usually be
+      free of Federal excise and transportation taxes.
+BB.   Transportation and Packaging: By submitting their bids/proposals, all bidders/proposers certify and
+      warrant that the price offered for FOB destination includes only the actual freight rate costs at the lowest
+      and best rate and is based upon the actual weight of the goods to be shipped. Except as otherwise specified
+      herein, standard commercial packaging, packing and shipping containers shall be used. All shipping
+      containers shall be legibly marked or labeled on the outside with purchase order number, commodity
+      description, and quantity.
+CC.   Testing and Inspection: The Town of Christiansburg reserves the right to conduct any test/inspection it
+      may deem advisable to assure goods and services conform to the specifications.
+DD.   Use of Brand Names: Unless otherwise provided in this solicitation, the name of a certain brand, make or
+      manufacturer does not restrict proposers to the specific brand, make or manufacturer named, but conveys
+      the general style, type, character, and quality of the article desired. Any article which the public body, in
+      its sole discretion, determines to be the equivalent of that specified, considering quality, workmanship,
+      economy of operation, and suitability for the purpose intended, shall be accepted. The bidder/proposer is
+      responsible to clearly and specifically identify the product being offered and to provide sufficient
+      descriptive literature, catalog cuts and technical detail to enable the Town to determine if the product
+      offered meets the requirements of the solicitation. This is required even if offering the exact brand, make
+      or manufacturer specified. Normally in competitive sealed bids only the information furnished with the
+      bids will be considered in the evaluation. Failure to furnish adequate data for evaluation purposes may
+      result in declaring a bid/proposal nonresponsive. Unless the bidder/proposer clearly indicates in its
+      bid/proposal that the product offered is an equivalent product, such bid/proposal will be considered to offer
+      the brand name product referenced in the solicitation.
+EE.   Termination:
+               1. The Town may terminate this contract with or without cause by giving contractor a thirty (30)
+                    day notice in writing. Upon delivery of said notice and upon expiration of the thirty (30) day
+                    period, contractor shall discontinue all services in connection with the performance of this
+                    contract and shall proceed to cancel promptly all related third party contracts. Termination of
+                    the Contract by the Town pursuant to this paragraph shall terminate all of the Town’s
+                    obligations hereunder and no charges, penalties or other costs shall be due contractor except
+                    for compensation of work timely and satisfactorily completed.
+               2. In addition to the Town’s right of termination, either party may terminate this contract in the
+                    event the other party violates or fails to perform any covenant, provision, obligation, term, or
+                    condition contained in this contract, provided that unless otherwise provided in this contract,
+                    such failure or violation shall not be cause for termination if the defaulting party cures such
+                    default (if the default is susceptible to cure) within thirty (30) days of receipt of a written
+                    notice of default. The notice of default shall state the party’s intent to terminate the contract if
+                    the default is not cured within a specified time period.
+               3. Appropriation Approval. Contractor acknowledges that the Town’s performance and
+                    obligation to pay under this contract is contingent upon annual appropriation by Town
+                    Council. Contractor agrees that in the event that such appropriation is not forthcoming, the
+                    Town may terminate this contract and no charges, penalties, or other costs shall be assessed.
+
+
+SPECIAL TERMS AND CONDITONS
+
+
+
+       1.   Award: The Town of Christiansburg will make the award on a Unit Price basis to the lowest
+            responsive and responsible bidder. The purchasing office reserves the right to conduct any test it
+            may deem advisable and to make all evaluations. The Town also reserves the right to reject any or
+            all bids, in whole or in part, to waive informalities and to delete items prior to making the award,
+            whenever it is deemed in the sole opinion of the procuring public body to be in its best interest.
+       2.   Extra Charges Not Allowed: The bid price shall be for complete delivery of equipment, ready for
+            use by the Town of Christiansburg, and shall include all applicable freight and installation charges;
+            extra charges will not be allowed.
+       3.   Insurance: Contractor certifies that it and its subcontractors, if any, will have the insurance coverage
+            set forth below at the time the contract is awarded and that such insurance will be maintained during
+     the entire term of the contract and that all insurance coverage will be provided by insurance
+     companies authorized to sell insurance in Virginia by the Virginia State Corporation Commission.
+     MINIMUM INSURANCE REQUIRED:
+         a. Workers’ Compensation: Statutory requirements and benefits. Coverage is compulsory
+              for employers of three or more employees, to include the employer.
+         b. Employer’s Liability: $100,000
+         c. Commercial General Liability: $1,000,000 per occurrence. Commercial General Liability
+              shall include bodily injury and property damage, personal injury, advertising injury,
+              products and completed operations coverage. The “Town of Christiansburg, its officers,
+              agents, and employees,” shall be named as additional insured on a primary basis and so
+              endorsed on the policy. Such additional insured status shall be primary without
+              participation by the Town’s insurers.
+         d. Automobile Liability - $1,000,000 per occurrence.
+         e. Professional Liability, if applicable: $1,000,000 per occurrence.
+         f. Umbrella Liability: $1,000,000 per occurrence.
+4.   Maintenance Manuals: The Contractor shall provide with each piece of equipment an operations
+     and maintenance manual with wiring diagrams, parts list, and a copy of all warranties when
+     applicable.
+5.   Warranty (Commercial): The Contractor agrees that the supplies or services furnished under any
+     award resulting from this solicitation shall be covered by the most favorable commercial warranties
+     the contractor gives any customer for such supplies or services and that the rights and remedies
+     provided therein are in addition to and do not limit those available to the Town of Christiansburg by
+     any other clause of this solicitation. A copy of this warranty must be furnished with the bid.
+                                          ATTACHMENT B
+                                          SAMPLE CONTRACT
+
+CONTRACT FOR
+
+
+
+Contract Number:
+
+
+
+This contract entered into this ____ day of July 2018, by __________hereinafter called the “Contractor”
+and the Town of Christiansburg, hereinafter called the “Town”.
+
+
+
+WITNESSETH that the Contractor and the Town, in consideration of mutual covenants, promises and
+agreements herein contained, agree as follows:
+
+
+
+SCOPE OF SERVICES: The Contractor shall provide the services to the Town as set forth in the
+______________________________________________.
+
+
+
+CONTRACT PERIOD: The contract period is from ______________________________.
+
+
+
+COMPENSATION AND METHOD OF PAYMENT: The Contractor shall be paid in accordance with the
+Contract Documents in the amount of ____________________.
+
+
+
+CONTRACT DOCUMENTS: The Contract Documents shall consist of _____________________.
+
+
+
+CONTRACTOR:                           TOWN OF CHRISTIANSBURG:
+
+
+
+By:                                      By:_______________________________
+
+Title:                                   Title: Town Manager
+Date: _________________________   Date: ___________________________
+

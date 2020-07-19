@@ -1,0 +1,159 @@
+1.3: Request for Proposals – Timeline
+Guide
+
+A Request for Proposal (RFP) is a document created when an agency determines it would like to
+contract with an external business, vender, consultant, or supplier for a specific product or needed
+service. Typically, an RFP is used to announce funding has been made available for a particular
+project to acquire a product or service. Then potential suppliers/vendors submit business proposals,
+often called bids, to provide the needed product or service. The purpose of the RFP is to find the best
+product or service at the best price, based on agency requirements.
+
+
+
+
+   Instructions for RFP Tools
+
+   Module 1 contains three tools for developing a RFP. We recommend you use these tools
+   together and follow the step-by-step process.
+
+     1. Read through 1.3: Request for Proposals — Timeline Guide to learn the necessary
+        steps and the approximate time needed to complete each step of an RFP. Taking
+        notes about where your agency practice may differ could be helpful.
+
+     2. Adapt and complete 1.4: Request for Proposals — Timeline Template, which will be
+        based on information gained by reading the Timeline Guide and your agency policies.
+
+     3. Use this timeline to complete 1.5: Request for Proposals — Template. This will be the
+        document you send to prospective vendors.
+
+
+
+
+tribaleval.org
+MODULE 1               DATA SYSTEM IMPROVEMENT TOOLKIT
+
+
+
+Suggested Timeline
+     Release the RFP — Start Date
+
+            •    RFP release date is the Start Date for the timeline.
+            •    The agency identifies a project lead and members of an internal review team. When
+                 choosing members for the review team, consider individuals who understand the
+                 established internal processes for releasing and reviewing an RFP, are
+                 knowledgeable of the data system requirements, and may have experience
+                 requesting and receiving bids for a data system.
+            •    Create the RFP document with details about the agency, the RFP process, and the
+                 required product or service.
+            •    See the “RFP Requirements Template” as a resource and an example of what to
+                 include.
+            •    Determine the method of release. An RFP can be released in a variety of ways—
+                 mailed directly to hand-selected vendors, promoted on a temporary Web site created
+                 specifically for the project, or posted as an announcement to a notice board.
+                 Depending on the required product or service, determine which method of release
+                 would be most appropriate to reach potential businesses or vendors. Your agency
+                 may have experience working with vendors; or as a starting place for identifying
+                 potential vendors, you may want to contact other programs/agencies for
+                 recommendations. In addition, you may want to consult the 1.2: Scan of COTS.
+
+     RFP Responses – 1 Month
+
+            •    The deadline for responses to be returned is approximately 1 month from the Start
+                 Date.
+            •    In the RFP, it is important to designate a time for “a period of questions” between the
+                 RFP Start Date and the deadline. A period of questions is a designated time in which
+                 vendors are allowed to ask questions of the organization releasing the RFP, also
+                 known as the solicitor. This is an opportunity for vendors to clarify their
+                 understanding of the RFP to ensure their proposals are targeted to realistically meet
+                 your needs.
+            •    Following the period of questions, all vendors submit the completed documents to
+                 the designated project lead by midnight on the deadline date.
+            •    Proposals are reviewed for missing information.
+
+     Response Evaluation – 1 Month
+
+            •    The review process for responses takes approximately 1 month from the deadline.
+            •    The project lead prints and gathers all proposals to create binders for each member
+                 of the review team.
+
+
+tribaleval.org                                                                                      2
+MODULE 1               DATA SYSTEM IMPROVEMENT TOOLKIT
+
+
+
+            •    The review team makes an action plan for proposals missing information (e.g.,
+                 automatic disqualification, a certain number of days to respond to a request for the
+                 missing information).
+            •    The internal review is completed in approximately 1 month.
+            •    Requesting a product demonstration from potential vendors is common.
+            •    Once the top candidates (vendors) have been selected by the review team, they are
+                 given at least a 1-week notice before requesting a product demonstration.
+
+     Product Demonstrations – 1 Week
+
+            •    All demonstrations are conducted shortly after the completion of the internal review
+                 and last approximately 1 week.
+            •    Verify agenda, date, time, and necessary equipment with all vendors.
+            •    Ensure equipment necessary for the vendor demonstrations are available and in
+                 working order.
+            •    Use the Vendor Response section of the “RFP Requirements Template” as a guide for
+                 building the agenda. Request the vendors demonstrate the key features of their data
+                 systems described in the RFP.
+
+     Vendor Selection – 1 Week
+
+            •    Once demonstrations are completed, the internal review team discusses the original
+                 RFP and notes/summaries from the production demonstration.
+            •    The final selection is completed within 1 week.
+            •    Once a selection is made by the review team, notify the vendor of the official
+                 selection at least 1 week prior to the start of the implementation plan development.
+            •    Notify the individuals or companies not selected.
+
+     Implementation Plan Development – 2 Weeks
+
+            •    An agency project team is created to oversee the remainder of the data system
+                 planning and implementation process. The project team may or may not have the
+                 same members as the review team.
+            •    The development of the implementation plan will begin with a scheduled kick-off
+                 meeting which takes approximately 2 weeks.
+            •    The project team and vendor schedule the kick-off implementation meeting as soon
+                 as possible.
+            •    The project team and vendor develop an implementation plan with measurable
+                 product deliverables, timelines, milestones, trainings, and a plan for project closure.
+
+
+
+tribaleval.org                                                                                       3
+MODULE 1               DATA SYSTEM IMPROVEMENT TOOLKIT
+
+
+     Finalize Contracts – 1 Week
+
+            •    Once the implementation plan is created and agreed upon by all parties, the finale
+                 contracts for work are signed within 1 week.
+            •    All contracts are reviewed for accuracy and completeness by the project team and
+                 appropriate agency personnel.
+
+     Implementation and Training – 1 Year
+
+            •    A data system implementation plan and the training can be completed within 1 year
+                 of contract signing. However, this must be decided on a case-by-case basis, and the
+                 project team decides on the completion date.
+            •    The project team schedules regular status meetings with vendor management and
+                 team throughout implementation.
+            •    The vendor updates the implementation plan with progress and completed project
+                 milestones.
+            •    The vendor supplies the project team with status documentation (e.g., status reports,
+                 updated implementation plan) according to a schedule set by the project team.
+
+
+Additionally, the vendor is available to provide input and assistance throughout the development of
+the implementation plan, including meeting with project team members during on-site visits and
+conference calls and during the actual implementation and training phases.
+
+
+
+
+tribaleval.org                                                                                    4
+

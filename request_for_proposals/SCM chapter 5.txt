@@ -1,0 +1,1007 @@
+5. COMPETITIVE BIDDING METHODS
+5.0 • INTRODUCTION
+This chapter provides recommended guidelines and procedures that should be used when
+seeking vendors and contractors to perform services and for consultant service contracts. Most
+of these guidelines are based on existing State policy and established practices; some are also
+based on statutory requirements.
+5.01 • TABLE OF CONTENTS
+         (Rev 11/12)
+
+     DESCRIPTION                                                                    SECTION
+     Introduction                                                                   5.00
+     Table of Contents                                                              5.01
+     Statutory and Regulatory References                                            5.02
+     Fundamental Rules                                                              5.03
+     Preliminary Considerations and Decisions                                       5.04
+     Competitive Bidding Requirements and Alternatives                              5.05
+     Comparison Chart of Bidding Methods                                            5.06
+     Differences Between IFBs and Primary RFPs                                      5.07
+     Primary RFP and Secondary RFP Differences                                      5.08
+     Invitation for Bids                                                            5.11
+     Request for Proposals                                                          5.15
+     Request for Proposals: Primary Method                                          5.20
+     Request for Proposals: Secondary Method (Point Count or High Score)            5.25
+     Required Language in Competitive Bidding Documents                             5.30
+     Drafting an RFP                                                                5.35
+     Guidelines for Criteria and Considerations in Evaluating RFPs                  5.40
+     Tie Bids                                                                       5.45
+     Time for Completion of the Competitive Bidding Process                         5.60
+     Posting and Notification Requirements                                          5.65
+     Competitive Bidding Issues                                                     5.70
+     Advertising State-Contracting Opportunities                                    5.75
+     Contracts Exempt from Advertising in the CSCR and Competitive Bidding          5.80
+     Amendments                                                                     5.81
+     Multiple Awards                                                                5.85
+     Contracts Under Ten-Thousand Dollars                                           5.90
+
+
+
+
+                                              52
+5.02 • STATUTORY AND REGULATORY REFERENCES
+        (Rev 1/14)
+A.     Public Contract Code Sections
+       1.      DVBE participation and incentives. (PCC § 10115 see also Mil &Vet code § 999, et
+               seq.)
+       2.      Service contracts. (PCC §§ 10295, and 10335 et seq.)
+       3.      Consultant services contracts. (PCC §§ 10295, and 10335 et seq.)
+       4.      Conflict of interest by current and former State employees. (PCC §§ 10410 – 10411.)
+B.     Government Code Sections
+       1.      Target Area Contract Preference Act (TACPA) (GC §§ 4530 – 4535).
+       2.      Antitrust claims (GC §§ 4550-4554).
+       3.      Small business bidder preference (GC § 14838).
+       4.      Nondiscrimination compliance programs (GC § 12990).
+       5.      California State Contracts Register advertising (GC §§ 14825 - 14829.2).
+       6.      SB and DVBE quotes (GC §§ 14838.5, 14838.7)
+C.     Title 2, California Code of Regulations
+       1.      Contract protest procedures (section 1195).
+       2.      Application of small business, TACPA, and DVBE regulations (section 1896 et
+               seq.).
+
+5.03 • FUNDAMENTAL RULES
+       (Rev 10/98)
+A.     An agency may not draft any competitive bidding document (i.e., IFB or RFP) in a manner
+       that limits bidding directly or indirectly to any one bidder. (PCC § 10339.)
+B.     Services may not be split to avoid the need to advertise or obtain competitive bids. In
+       particular, a series of related services that would normally be combined and bid as one job
+       cannot be split into separate tasks, steps, phases, locations, or delivery times to avoid
+       adhering to a State law, policy, or departmental procedure. (PCC § 10329.)
+C.     Sealed bids must be received at the place and by the time stated in the IFB or RFP. Bids
+       received after the time stated in the solicitation document are not valid regardless of the
+       circumstances causing the late submittal. (PCC § 10341.)
+D.     The sealed cost bids for an IFB and RFP primary must be publicly opened. (PCC §§ 10341
+       and 10344.)
+
+5.04 • PRELIMINARY CONSIDERATIONS AND DECISIONS
+        (Renumbered and revised 11/12)
+Many of the questions and decisions needed to establish a sound basis for a final contract must
+be addressed by the contract users. They are the individuals most concerned with both quality
+and usability of what will be produced under the contract. They are the individuals best equipped
+to ask and to answer the main questions about the performance leading to the final service or
+product that prompts the need for the contract.
+
+
+
+                                                 53
+     Primary Contracting Considerations:
+              1.      What type of service is needed and why and when is it needed?
+              2.      Can services be provided within the agency?
+              3.      Can another State agency provide the service through an Interagency Agreement?
+                      (If agency staff cannot provide the services, a justification consistent with GC §
+                      19130 is required.)
+              4.      If an outside contractor is to be used, how will the contractor be obtained? Will it
+                      be necessary to competitively bid, or does one of the exemptions to bidding apply?
+              5.      What type of contract is involved? Goods, IT goods, IT services, IT consulting
+                      services, non-IT services, non-IT consulting services?
+
+     Note: The Scope of Work is the key to a satisfactory contract. The level of satisfaction depends on fully
+     assessing and defining the contract need. The determination of a level of quality sufficient to meet the
+     need and guarantee the desired outcome and identification of the capability and qualifications required
+     of a contractor to accomplish the outcome will produce a successful contract
+
+
+5.05 • COMPETITIVE BIDDING REQUIREMENTS AND ALTERNATIVES
+          (New 11/12)
+Contracts must be competitively bid using the Public Contract Code process, unless there is a
+legally authorized basis for bid exemption. (PCC §10340(a).) Basic grounds for exemption include:
+A.       Statutorily exempt;
+B.       DGS Approved Exemptions (PCC § 10348)
+         1.        Categorical Exemptions
+         2.        Non-competitively bid exemption (NCB) or Special Category (SCR) approval.
+See SCM I, section 5.80 for more information regarding exemptions and alternative methods for award.
+
+5.06 • COMPARISON CHART OF BIDDING METHODS
+          (Rev 6/17)
+There are three basic types of services contract solicitations: Invitation for Bid, Primary Request
+for Proposal, and Secondary Request for Proposal. (See PCC §§ 10340-10345.)
+                                                 Table 5.1
+ Considerations                Invitation for Bid              Primary RFP                Secondary RFP
+When this method To obtain simple, common,             To obtain complex services     To obtain very complex
+is typically used or routine services that may         in which professional          and/or unique services in
+                  require personal or                  expertise is needed and        which professional
+                  mechanical skills. Little            may vary. Where different      expertise and methods
+                  discretion is used in                methods and approaches         may vary greatly.
+                  performing the work.                 may be applied during          Creative or innovative
+                                                       performance.                   approaches are needed.
+
+                        Examples: routine pest       Examples: professional           Examples: public
+                        control, equipment           services such as auditing,       relations and advertising,
+                        maintenance, uniform rentals specialized data collection      complex research
+                                                                                      projects
+
+                                                       54
+ Cost/value of        $5,000 or more                $5,000 or more                 $5,000 or more
+ services
+ CSCR advertising     Yes                            Yes                           Yes
+ Formal bidder        Optional                       Optional                      Optional
+ Q&As with
+ submittal
+ deadline
+ Bidders'             Optional, but bidders’         Optional. Held if needed to   Optional. Held if needed
+ conference or site   conference is rarely needed    clarify service needs.        to clarify service needs.
+ inspection           for an IFB.
+ How award is         Lowest responsible bidder: Lowest qualified                  Highest-scored
+ made                 public bid opening         responsible proposer;             responsible proposer
+                                                 public bid opening
+ Oral Interviews  Not applicable.                Optional. Held if needed.          Optional. Held if needed.
+ What information Bid form and other material Narrative proposal and a             Narrative proposal,
+ is submitted     deemed necessary by the        separate envelope                  including a cost
+                  awarding agency.               containing cost                    component, in one
+                                                 information.                       envelope
+ Statement of     SOW contains all contract      Objectives, major tasks,          Goals and objectives are
+ Work (SOW)       requirements except price.     and timelines are                  stated. Proposer offers
+ considerations                                  identified. Proposer offers        detailed work plans,
+                                                 detailed work plans,               approaches, methods,
+                                                 methods, etc.                      etc.
+ How small        The cost bid of a certified     The bid of a certified small      Certified small business
+ business         small business is reduced for business is reduced for             will have its points
+ preference is    evaluation purposes by 5 % evaluation purposes by 5               increased by 5% of the
+ applied          of the lowest cost bid offered % of the lowest cost               total points awarded to
+                  by a noncertified small         offered by a noncertified         the highest scored non-
+                  business.                       small business.                   small business bidder.
+ Is TACPA         If the total contract is more   If the total contract is more     If the total contract is
+ applied?         than $100,000 and the work than $100,000 and the                  more than $100,000 the
+                  site is not fixed.              work site is not fixed.           work site is not fixed.
+ DVBE             Determined by Agency            Determined by Agency             Determined by Agency
+ participation
+ required?
+
+
+5.07 • DIFFERENCES BETWEEN IFBs AND PRIMARY RFPs
+        (Rev 1/18)
+The general differences are indicated in Table 5.2. To easily distinguish the two methods, different
+terminology is used. Generally, in IFBs the terms Bid and Bidder are used, and in RFPs the terms
+Proposal and Proposer are used, although the PCC uses them interchangeably.
+                                                 Table 5.2
+
+                  Invitation for Bid                              Primary Request for Proposal
+  Bidders may need to certify only that they meet        Narrative proposals containing varying amounts
+  the IFB requirements. Bidders acknowledge that         of proposer information are usually required to be
+  they meet the IFB requirements.                        submitted.
+
+
+
+                                                    55
+  Sealed bids or price quotes are submitted. A            Sealed cost proposals are submitted in separate
+  single-envelope or two-envelope process may be          envelopes from the narrative proposals.
+  used.
+  A pass/fail determination is made for                   Proposals are reviewed for responsiveness to
+  responsiveness to IFB requirements. This can be         RFP format requirements. Proposals may be
+  accomplished after bids are opened and read             rated or scored. Cost/price offerings of qualified
+  aloud.                                                  proposers are opened and read aloud for
+                                                          responsible proposers.
+  Bidders' conferences are optional but are rarely        Bidders' conferences are optional but are often
+  needed.                                                 held to clarify the services being sought.
+
+  To obtain services valued at $10,000 or more.           Same as for IFB.
+
+  IFBs are used to secure simple services calling for     RFPs secure complex services calling for
+  routine personal or mechanical skills. Work             technical and/or professional skills and expertise.
+  methods are standard, or little discretion exists in    The proposer uses discretion in applying various
+  terms of how the work is performed.                     approaches or methods.
+
+  Bidder capabilities are not rated or scored.            Proposer qualifications, capability, and
+  Bidders either pass or fail IFB requirements.           experience may be scored on evaluation criteria
+                                                          stated in the RFP.
+  The statement of work (SOW) is clearly stated.          The SOW contains as much detail/depth as
+  Bidders are generally told what, how, when, and         possible but may include an agency’s needs,
+  where work and services are to be done.                 goals, and objectives. Proposers are relied on to
+                                                          recommend methods or approaches to meet an
+                                                          agency’s needs.
+  Award is made to the lowest responsible bidder.         Same as for IFB.
+
+
+5.08 • PRIMARY RFP AND SECONDARY RFP DIFFERENCES
+       (Rev 6/17)
+Table 5.3 outlines the differences between primary and secondary RFPs.
+                                               Table 5.3
+
+                      Primary RFP                                            Secondary RFP
+ Services are complex, but not uncommon or unique.           Services are complex, uncommon, or unique.
+ Examples: Complex data collection, auditing                 Examples: Public relations and advertising,
+                                                             complex research and consulting
+
+ Performance requires varying methods or approaches          Performance requires unusual, innovative, or
+ but not innovation or creativity.                           creative techniques, methods and
+                                                             approaches.
+ The methods and approaches used may not differ
+ significantly from one proposer to another, which           The quality of expertise and approaches,
+ allows costs to be used as the deciding factor for          methods, and innovation used may differ
+ making the award.                                           significantly from one proposer to another.
+
+
+
+
+                                                     56
+  The statement of work (SOW) is fairly well defined in       The SOW is less precisely defined and may
+  terms of services or functions that must be performed,      contain only the agency’s business needs,
+  as are the time frames that are required.                   goals or objectives that must be met.
+
+  Costs proposals are submitted in a separate sealed          Price may appear as a section within the
+  envelope apart from the narrative proposal.                 narrative proposal and must be a significant
+                                                              factor. Price does not mean cost
+                                                              effectiveness.
+
+  Narrative proposals are reviewed, evaluated, and            Narrative proposals are evaluated and
+  scored for compliance with format, content, and             scored. Oral interviews are optional.
+  qualification requirements.                                 Passing points may be set to determine the
+                                                              finalists.
+  Cost proposals are not scored.                              The cost component is either scored against
+                                                              criteria stated in the RFP or subjected to a
+                                                              formula to convert the quoted cost into score
+                                                              or point values.
+  Qualified proposals that are responsive to the RFP          Cost proposals are not announced or publicly
+  requirements will have their cost/price proposals           read.
+  publicly opened and read.
+
+  Following the opening and reading of cost proposals,        Cost proposals are adjusted for applicable
+  cost proposals are then adjusted for applicable small       small business, TACPA, and DVBE
+  business, TACPA, and DVBE Incentives.                       Incentives.
+  A certified small business receives an amount equal to      A certified small business will have its total
+  5 % of the lowest cost proposal submitted by a non-         points increased by 5% of the total points
+  certified small business reduced from its cost proposal.    awarded to the highest scored non-small
+                                                              business bidder.
+
+  Award is to the responsible proposer offering the           Award is to the responsible proposer earning
+  lowest cost for its services.                               the highest overall score.
+
+5.09 • RESERVED (Rev 11/12)
+[Former content of 5.09 has been merged into 5.30.]
+
+5.10 · RESERVED (Rev 11/12)
+[Former content of 5.10 was moved to 5.70.]
+
+
+5.11 • INVITATION FOR BIDS (Rev 11/12)
+
+
+   A.      An Invitation for Bids (IFB) must be exact and clear to ensure that all bids received will be
+           competitive as the result of all bidders bidding on exactly the same work or equipment,
+           specifications, and contract obligations.
+           An IFB seeks an answer to the following:
+           “Here is exactly what we need to have done. Here are the qualification requirements,
+           performance specifications, time frames, and requirements that must be met. How much
+           will you charge us?”
+                                                      57
+B.   An IFB must indicate the specific requirements of the State. Timely bids are reviewed to
+     determine which bidders meet the requirements indicated in the IFB.
+     For each specific requirement, a basic yes or no answer is required. There is no “fully,”
+     ”barely,” “almost,” or “exceeded” level of evaluation. After identifying which bidders are
+     responsive to all requirements stated in the IFB, it is then a matter of determining which
+     bidder is offering the lowest cost for its services.
+C.   All bids may be rejected whenever the agency determines that the cost is not reasonable,
+     the cost exceeds the amount estimated, or otherwise in the best interest of the State.
+     Although many agencies reserve the right to reject all bids, no bid may be rejected
+     arbitrarily or without reasonable cause.
+
+5.15 • REQUEST FOR PROPOSALS
+     (Rev 10/05)
+A.   A Request for Proposals (RFP) must be as precise as possible to ensure that all proposals
+     are accomplishing the same goal. An objective evaluation procedure must be used to
+     determine which proposers have complied with the RFP requirements and to whom the
+     contract should be awarded.
+B.   An RFP seeks an answer to the following:
+     “Here is what we wish to accomplish. Here are the qualification requirements,
+     performance specifications, time frames, and other requirements that must be met. How
+     would you accomplish the job for us and for how much?”
+C.   An RFP should not be used when the service or equipment to be hired is standard,
+     routine, or common, or when there is a standard associated with the service or equipment
+     to be hired. For example, the hiring of a pest-control firm to do routine exterminations
+     should be accomplished through an IFB, not an RFP.
+D.   There are two (2) methods for evaluating proposals and awarding contracts (PCC §
+     10344):
+     1.     Primary Method: By this method, the contract is awarded to the responsible and
+            qualified proposer offering the lowest cost for its services. For more information on
+            the primary RFP method, see SCM I, section 5.20.
+     2.     Secondary Method: This method requires evaluation of proposals by an evaluation
+            committee with the award made to the responsible proposer earning the highest
+            score. For more information on the secondary RFP method, see SCM 1, section
+            5.25.
+E.   Before soliciting proposals, agencies must determine which method of evaluation will be
+     used in order to include the appropriate information in the RFP, as follows:
+     1.     A comprehensive evaluation plan must be developed and finalized. All rating and
+            scoring factors which are to be considered must be included, criteria for
+            considering costs to the State must be developed, and the evaluation plan must
+            provide for a fair and equitable evaluation of all proposals (PCC § 10344).
+     2.     All proposals and all evaluation and scoring sheets must be available for public
+            inspection at the conclusion of the scoring process (PCC § 10342).
+F.   When an evaluation committee is appointed:
+     1.     The voting members used in the selection process shall be from the agency
+            soliciting the proposals or awarding the contract.
+
+
+                                              58
+       2.     Private consultants may not be voting members of the committee and may only be
+              used to provide clarification or subject matter expertise to the committee members.
+       3.     If the contract is awarded by a State board or commission, the recommendations
+              of an evaluation committee shall be considered advisory in nature, and the board
+              or commission must make the ultimate decision unless statute expressly permits
+              the board or commission to delegate that responsibility.
+
+5.20 • REQUEST FOR PROPOSALS: PRIMARY METHOD
+        (Rev 3/03)
+A.     In addition to the requirements identified elsewhere in this chapter, an RFP primary must
+       include a requirement that each proposer submit its proposal with the cost proposal and all
+       cost information in a separate, sealed envelope (PCC § 10344).
+B.     Proposals received as a result of the primary RFP method must be evaluated and the
+       contract awarded in the following manner:
+       1.     Review all eligible proposals (i.e., those filed on time and in the manner prescribed)
+              to determine which ones meet the format requirements and the standards
+              specified in the RFP. Proposals meeting the minimum standards and format
+              requirements can then be rated or scored. Proposal standards should be set so
+              that every proposer deemed to meet the standards specified in the RFP could
+              perform at the required level.
+       2.     The sealed envelopes containing the cost proposal for those proposals that meet
+              the format requirements and standards shall then be publicly opened and read.
+              The contract must be awarded to the lowest-cost responsible proposer.
+
+5.25 • REQUEST FOR PROPOSALS: SECONDARY METHOD (POINT
+       COUNT OR HIGH SCORE)
+        (Rev 11/12)
+A.     Use of the secondary RFP method should be limited to those instances in which
+       agencies are seeking a unique solution to a problem or situation that cannot necessarily
+       be resolved by the lowest bidder (i.e., when the methods, approaches, and procedures
+       to be used in performing the work are of primary importance).
+B.     When scoring a proposal, cost/value effectiveness and cost adequacy may be judged,
+       evaluated and awarded points as part of the technical score, but this must be in addition
+       to the cost points (PCC § 10344). Agencies should discuss the RFP with their assigned
+       DGS/OLS attorney if considering developing a solicitation where cost points
+       (dollars/actual price component) are less than 30% of the total points, or risk non-
+       approval of the resulting contract.
+The following formula may be used for the award of cost points:
+Lowest cost proposal is awarded the maximum cost points. Other proposals are awarded cost
+points based on the following calculation:
+Lowest Proposer’s Cost = (factor) X maximum cost points = cost points for other proposer
+
+Other Proposer’s Cost
+
+       EXAMPLE: Lowest cost proposal = $ 75,000
+                 Other proposal =       $100,000
+                                        30 cost points available
+
+                                               59
+           (Lowest cost proposal) $75,000 = ¾ X 30 = 22.5 cost points awarded to
+                                   $100,000                  other proposal
+C.   Proposals received as a result of the secondary RFP method must be evaluated and the
+     contract awarded in the following manner (PCC § 10344):
+     1.     Review all eligible proposals (i.e., those that are received in the time and manner
+            prescribed) to determine which ones meet the format requirements specified in the
+            RFP.
+     2.     Those proposals that meet the format requirements shall then be submitted to an
+            agency evaluation committee. The evaluation committee will evaluate and score
+            proposals using the methods specified in the RFP. The contract must be awarded
+            to the responsible proposer whose proposal is given the highest score by an
+            evaluation committee.
+
+5.30 • REQUIRED LANGUAGE IN COMPETITIVE BIDDING DOCUMENTS
+     (Rev 6/17)
+A.   All competitive bid proposal packages (IFBs and RFPs) shall contain (as applicable):
+     1.     Date, time, and place bids are due (PCC §§ 10341, and 10344)
+     2.     Small Business Preference Program information (GC § 14835) (SCM 1, chapter 8)
+     3.     DVBE participation goals (PCC § 10115 et seq.) (SCM 1, chapter 8)
+            Each State agency is required to have DVBE participation goals in contracts for
+            construction, professional services, materials, supplies, equipment, alteration,
+            repair, or improvement (PCC § 10115 et seq.) except those services subject to
+            Chapter 6 commencing with GC § 16850. Participation goals apply to the overall
+            dollar amount expended each year by the awarding agency. Each agency is
+            allowed to determine the dollar level and types of contracts that are subject to or
+            exempt from DVBE goal participation. If the contract is of a type or total dollar
+            amount subject to DVBE participation in accord with departmental procedures or
+            regulations, the bid document used to procure such services, should contain
+            applicable DVBE participation instructions and forms and DVBE audit language.
+            For information on DVBE participation goals, refer to applicable State agency
+            policies, procedures, or regulations or the statutes on this topic. (See SCM 1,
+            chapter 8.)
+     4.     DVBE Incentive or Documentation of Incentive Exemption (GC §§ 14600, 14615; 2
+            CCR § 1896.99.100) (SCM 1, chapter 8).
+     5.     Conflict of Interest provisions (PCC §§ 10410, 10411); these provisions are now in
+            the CCCs, available on the DGS/OLS website.
+     6.     Corporate qualifications to do business in California (R&TC § 23101); these
+            provisions are now in the CCCs, available on the DGS/OLS website.
+            a.      When contracts are to be performed in the State by corporations, the
+                    contracting agencies should obtain verification that the contractor is
+                    currently qualified to do business in California in order to ensure that all
+                    obligations due to the State are fulfilled.
+            b.      “Doing business” is defined in Revenue and Taxation Code § 23101 as
+                    actively engaging in any transaction for the purpose of financial or
+                    pecuniary gain or profit. Although there are some statutory exceptions to
+                    taxation, rarely will a corporate contractor performing services within the
+                    State not be subject to the franchise tax.
+
+                                              60
+               c.      Both domestic and foreign corporations (those incorporated outside of
+                       California) must be in good standing in order to be qualified to do business
+                       in California. Agencies may determine whether a corporation is in good
+                       standing by accessing the Office of the Secretary of State’s web site at
+                       www.sos.ca.gov.
+               d.      Contracting and approving agencies may obtain assistance from the
+                       Franchise Tax Board in evaluating a contractor’s claim of exemption.
+                       Inquiries should be directed to the Exempt Organizations Unit desk,
+                       telephone (916) 845-4171.
+       7.      Drug-free requirements (GC § 8350 et seq.); these provisions are now in the GTCs
+               available on the DGS/OLS website
+       8.      Statement of Compliance (GC § 12990(a - f), 2 CCR § 11109); this provision is
+               now in the CCCs, available on the DGS/OLS website
+       9.      Antitrust claims (GC §§ 4552, 4553, and 4554); this provision is now in the GTCs,
+               available on the DGS/OLS website
+      10.      TACPA preference, if applicable (GC § 4530, et seq. and 2 CCR § 1896.30);
+               Each IFB or RFP for goods or services, in which the cost is estimated to be in
+               excess of $100,000, except when the work site is fixed by the terms of the
+               contract, should contain a provision applying work site and hiring preferences, as
+               applicable, to eligible California-based firms. Bidders and proposers may apply for
+               such preferences by means of a Target Area Contract Preference Request - STD
+               830S (for services) or STD 830G (for goods) (2 CCR § 1896 et seq., see also
+               SCM 1, chapter 8). Contact DGS/Dispute Resolution/Preference Program Section
+               for information on TACPA at (916) 375-4604 or (916) 375-4600.
+      11.      Protest procedures (SCM 1, chapter 6);
+      12.      Loss leader provisions (PCC § 10344).
+      13.      Darfur Certification (PCC § 10475 et seq.)
+      14.      Iran Contracting Act Certification (PCC § 2202)
+      15.      Insurance requirements (see SCM 1, §§ 3.12, 7.40)
+      16.      Priority Hiring Considerations for Contracts with a Value in Excess of $200,000;
+               these provisions are now in the GTCs available on the DGS/OLS website.)
+               Every contract for services in excess of $200,000 shall contain a provision
+               requiring the contractor to give priority consideration in filling vacancies in
+               positions funded by the contract to qualified recipients of aid under Welfare and
+               Institutions Code § 11200 (PCC § 10353).
+       17.     Civil Rights Certification PCC § 2010 (see SCM 1, § 3.33)
+
+B.     The general terms and conditions of the contract and any unique provisions should
+       be included in the bid document to inform bidders of these requirements. See also 5.35.4.
+
+5.35 • DRAFTING AN RFP
+       (Renamed 11/12)
+In addition to other requirements set forth in this chapter, further consideration should be given to
+effective drafting of RFPs. The more thoroughly that a State agency communicates its specific
+
+
+                                                 61
+needs, requirements, goals, and objectives in the RFP, the more complete, responsive, and
+acceptable the proposals received will be. RFPs should include:
+       1.     A statement of work that contains:
+              a.      A clear, precise description of the work to be performed, services to be
+                      provided, problem to be solved, or the goals and objectives to be met.
+              b.      An explanation in realistic terms of what the proposer is expected to
+                      accomplish including any desired approach to the problem and the specific
+                      functions, tasks, or activities that must be performed, in their order of
+                      importance and probable sequence.
+              c.      Practical and policy information, technological requirements or
+                      specifications, and legal limitations, if any.
+              d.      Specific questions to be answered or issues to be addressed.
+              e.      Performance timelines or completion dates.
+              f.      Required quality control standards to be met, if applicable.
+              g.      A description of the items, products, or results to be delivered.
+              h.      The format and number of copies of the completed progress reports and
+                      final report, if applicable.
+              i.      The extent and nature of the assistance and cooperation from the State
+                      that will be available to the proposer.
+       2.     Proposal instructions should contain a description of the format that proposals
+              must follow and the elements they shall contain. The factors to be used in
+              proposal evaluation and contractor selection may not be changed or added after
+              the RFP has been distributed without adequate notice to all potential proposers
+              through an addendum. RFPs must provide:
+              a.      Specifications, including:
+                      •      Standards the agency will use in evaluating proposals.
+                      •      Information on how the State will select the winning proposal.
+              b.      Time schedules, including:
+                      Date to submit questions or seek clarification of the RFP
+                      •      Date of Proposers’ Conference, if applicable.
+                      •      Date on which the proposals must be submitted.
+                      •      Timetable the agency will follow in reviewing and evaluating
+                             proposals.
+                      •      Date of cost proposal opening.
+                      •      Date of award.
+                      •      Anticipated contract term, including commencement and completion
+                             dates.
+       3.     Notice of payment terms or restrictions, including:
+              a.      Whether and to what extent progress payments will be allowed.
+              b.      Whether payments are subject to payment withholds.
+              c.      Penalties for late or inadequate performance.
+              d.      Known or estimated budgetary limitations on the contract price, if
+                      applicable.
+
+                                                   62
+4.   Applicable contract provisions, including:
+     a.     Actual or sample contract language or boilerplate contract provisions that
+            will appear in the resulting contract.
+     b.     It is important to include any terms or provisions that will place a contingent
+            liability on the contractor or affect the contractor's operating costs.
+5.   Requirements those prospective proposers must address or include in their
+     proposal, if applicable, such as the following:
+     a.     A description of the proposer's qualifications, including:
+            •   Proof that the proposer, if a corporation, is in good standing and
+                qualified to conduct business in California.
+            •   For proposers that are nonprofit organizations, proof of nonprofit status.
+            •   Copies of current business licenses, professional certifications, or other
+                credentials.
+            •   Proof of financial solvency or stability (e.g., balance sheets and income
+                statements for one year or more), as deemed applicable.
+            •   A list of current or former references for whom the proposer has
+                performed similar work.
+     b.     A brief list of similar types of contracts that were successfully concluded,
+            with a sample of such work.
+     c.     A description of the lead personnel and anticipated supporting personnel to
+            be employed during performance (by classification or title) and their
+            qualifications to perform the work.
+     d.     Identification of a project coordinator (recommended for all bid documents
+            but required when consultants are sought).
+     e.     Résumés for each major contract participant who will exercise a major
+            policy, administrative, or consultative role in carrying out the services
+            (required by law for consultant contracts).
+     f.     An overall description of the techniques, approaches, and methods to be
+            used in performing the services. For cost reimbursement contracts with
+            consultants, the amount of time and manpower to be expended and the
+            equipment and facilities to be utilized, if applicable.
+     g.     If subcontractors are contemplated, identification of those persons or firms,
+            the portions and monetary percentages of the work to be done by the
+            subcontractors how they were selected and why, résumés of each major
+            subcontract participant, and a description of how subcontracted work will
+            be controlled, monitored, and evaluated
+     h.     The total cost of the project, with a detailed breakdown showing how the
+            costs were determined, and the desired method of payment. The detailed
+            budget breakdown may include:
+            •   Identification of position/classification titles funded.
+            •   Salary rates or ranges.
+            •   Percentage of time devoted to the work.
+            •   Fringe benefits.
+            •   Operating expenses.
+            •   Travel and per diem expenses.
+            •   Overhead or indirect costs.
+
+
+                                       63
+                       •   Subcontractors with the same type of cost details.
+                       •   Other costs.
+       6.      Identification of services provided on a flat fee, lump sum, or unit rate basis.
+
+5.40 • GUIDELINES FOR CRITERIA AND CONSIDERATIONS IN
+       EVALUATING RFPs
+       The following are suggested criteria that may be used in evaluating proposals:
+       1.      Does the proposing firm understand the agency's problem or needs?
+       2.      Can the proposer fit this work into its existing obligations?
+       3.      Is the approach to the problem, recommended method, and procedure reasonable
+               and feasible?
+       4.      Do the expected results, outcomes, and deliverables appear to be achievable in a
+               timely manner, given the approaches, methods and procedures proposed?
+       5.      Does the firm have the organization, management capability and competency, fiscal
+               and personnel resources, and experience to perform the services being sought?
+       6.      Has the firm had experience performing work of a similar nature, size, and scope?
+       7.      Does the proposer's past experience complement the services being sought, or is the
+               proposer’s past experience appropriate to qualify the proposer to perform these services?
+       8.      What are the professional qualifications of the personnel that the firm will commit
+               to the project?
+       9.      Has the proposer allocated sufficient staff resources?
+      10.      Has the proposer addressed all goals, objectives, service demands, and required
+               deliverables specified in the RFP?
+      11.      Does the proposer appear to be capable of handling and resolving unanticipated
+               complications and delays without interrupting the delivery of services?
+      12.      Are any proposed timelines for performance presented by the proposer feasible?
+      13.      Did the proposer include plans that will show how performance will be monitored
+               and measured to ensure that all services are successfully performed and that the
+               objectives, goals, and requirements are met?
+      14.      Does the proposer appear to have the capacity to manage fiscal resources
+               responsibly?
+      15.      Does the proposer have sound fiscal, accounting and cost-monitoring or budget-
+               monitoring procedures in place?
+
+5.45 • TIE BIDS
+         (Rev 11/12)
+Agencies should provide for a tiebreaker in the solicitation document setting forth how the contract
+award will be made in the event of a tie. An example of permissible tiebreaker is a coin toss.
+Such event must be observed by witnesses and ideally the affected bidders would be invited. See
+SCM 1, section 8.21.C for ties between certified small businesses and DVBEs.
+
+
+
+
+                                                 64
+5.60 • TIME FOR COMPLETION OF THE COMPETITIVE BIDDING
+        PROCESS
+      (Rev 11/12)
+A.   The bidding process often takes three to eight months from the time the advertisement is
+     placed until the award is made. Resolution of protests may add a delay of one to three
+     months.
+B.   The time needed to complete a bid proposal process will depend on the type of
+     competitive bidding method used, the complexity of the services required, the number of
+     bids or proposals received, whether a bidders'/proposers' conference is held, whether
+     DVBE participation is required, whether protests are received, and other factors.
+
+5.65 • POSTING AND NOTIFICATION REQUIREMENTS
+     (Rev 4/15)
+A.   RFP. After selecting a bidder for possible contract award under an RFP (Primary or
+     Secondary):
+     1.     The agency must post, in an area accessible to the public, a letter of intent to
+            award (PCC § 10345).
+     Note: Agencies may post the letter of intent on their Internet Homepage in addition to, but
+     not in lieu of, the public posting.
+     2.     The contract cannot be awarded for a period of 5 working days (starting the day
+            after posting), during which time the agency must allow all bidders access to all the
+            bid information including all responses and score sheets used in the evaluation
+            (PCC § 10345).
+B.   IFB. After selecting a bidder for possible contract award under an IFB:
+     1.     The agency must post, in an area accessible to the public, including any Internet
+            site identified in the IFB, for at least 5 working days prior to awarding the contract,
+            a letter of intent to award if requested in writing by any bidder who has submitted a
+            bid (PCC § 10345(a)(1)).
+     2.     If the lowest bidder is not being awarded the contract, the low bidder must be
+            notified of that fact 5 working days prior to contract award. The notice should
+            also include the reason why the lowest bidder is not being awarded the contact.
+     3.     If the agency is awarding to the lowest responsible bidder, and no requests have
+            been made to publicly post a letter of intent, the agency may award the contract
+            without delay.
+
+5.70 • COMPETITIVE BIDDING ISSUES
+      (Rev 6/17)
+A.   Advertising. Potential bidders must be formally notified of the bid opportunity through
+     CSCR advertisement, unless an advertising exemption (approved Std 821) has been
+     received. (Govt. Code § 14827.2.)
+B.   Less than three bids. If three (3) competitive bids are not received, the State agency will
+     prepare a complete explanation as to why less than three (3) competitive bids were
+     received; provide a justification as to the reasonableness of the price; provide the names
+     and addresses of the firms, or individuals specifically notified of the contracting
+     opportunity; and retain this document in the agency’s contract file (PCC § 10340).
+
+
+                                              65
+C.   Preferences for certified small businesses, microbusinesses and non-small businesses
+     subcontracting preference. There are preferences to be applied to eligible certified small
+     businesses, microbusinesses and non-small businesses, which subcontract with at least
+     25% certified small businesses (See SCM 1, sections 8.20 and 8.21). Additional
+     preferences under TACPA shall be granted as applicable when cost of the service will
+     exceed $100,000 and the work site will not be fixed by the terms of the contract.
+     Exceptions for IT services, architectural and engineering services and situations involving
+     multiple contract awards are noted in the cited regulations. Additional information on
+     TACPA can be obtained from the DGS Dispute Resolution/Preference Program section
+     (See 2 CCR § 1896 et seq. and SCM 1, chapter 8).
+D.   DVBE Participation Requirements and Incentive (See SCM 1, chapter 8).
+E.   There is no requirement to award a contract if, in the opinion of the State agency, no bids
+     or proposals were received containing a reasonable contract price or if there is another
+     business-based reason not to make an award.
+
+5.75 • ADVERTISING STATE-CONTRACTING OPPORTUNITIES
+      (Rev 1/18)
+A.   Contracts of $10,000 or more must be advertised in the CSCR for at least 10 working
+     days, unless exempt from bidding. Agencies cannot release solicitations prior to
+     publication in the CSCR. Contracts awarded as an NCB and amendments that require
+     an NCB approval, will be published in the CSCR by DGS/PD as part of the NCB approval
+     process. No agency action is required to publish the NCB approval.
+     (GC §§ 14827.1 -14827.3; PCC § 10335(a).)
+B.   CSCR advertising procedures are as follows:
+     1.     Advertising in the CSCR is now done through the DGS eProcurement system.
+            Agencies should submit advertisements using the DGS Procurement Division’s
+            Internet Web page: http://www.dgs.ca.gov/pd/Programs/eprocurement.aspx.
+            Agencies may contact CSCR eProcurement help desk at (916) 375-2000 or
+            eprocure@dgs.ca.gov for additional information.
+     2.     DGS charges a fee for each ad that appears in the CSCR.
+C.   Under appropriate circumstances, agencies may obtain an exemption from advertising.
+     This is done on a STD 821 submitted to DGS/Procurement Division. An exemption from
+     advertising eliminates the CSCR advertising requirement only; it is not an exemption
+     from bidding. If DGS/Procurement Division approves a form STD 821 for an advertising
+     exemption, DGS will publish a notice of exemption in the CSCR.
+D.   Re-bids: Agencies conducting a re-bid need not obtain an approved Exemption from
+     Advertising or re-advertise the contract opportunity in the CSCR, if:
+     1.     The re-bid occurs within three (3) months of the publication of the original CSCR
+            advertisement;
+     2.     Notice of rebid is provided to persons who are a UNSPSC match in
+            eProcurement in addition to anyone who otherwise notified the contracting
+            agency of their interest in the original solicitation; and
+     3.     No material change to the solicitation.
+
+
+
+
+                                              66
+5.80 • CONTRACTS EXEMPT FROM ADVERTISING IN THE CSCR AND
+       COMPETITIVE BIDDING
+        (Rev 1/18)
+As noted in section 5.05, competitive bidding is required unless there is a legally authorized
+basis for bid exemption. Key exemption categories are identified below.
+A.     Statutory Exemptions
+       1.      Contracts of less than $5,000 (PCC §§ 10335(a), 10335.5(c)(5)).
+       2.      Contracts of less than $5,000 where only per diem or travel expenses, or a
+               combination thereof, are to be paid (PCC § 10335(a)).
+       3.      Emergency contracts. The work or service is for the immediate preservation of
+               the public health, welfare, safety, or protection of State property (PCC §§ 1102,
+               10340).
+       4.      Interagency agreements. Contracts with other California State agencies, and
+               California State University and University of California campuses (PCC §§
+               10335(a), 10340(b)(3); GC § 11256; see also SCM 1, section 3.03.).
+       5.      Contracts with other public entities, including contracts with another state, local, or
+               Federal agency; a state agency, state college, or state university of another state;
+               a local government entity of another state; auxiliaries of CSU or the California
+               community colleges; or an organization acting as a governmental agency under a
+               joint powers agreement (PCC §§ 10335(a), 10340(b)(3); see also SCM 1, section
+               3.06.A).
+       6.      Contracts solely for the purpose of obtaining expert witnesses for litigation (PCC §
+               10335.5(c)(3).
+       7.      Contracts for legal defense, legal advice, or legal services by an attorney or the
+               attorney’s staff (PCC §10335.5(c)(4)).
+       8.      Community Based Rehabilitation Program (CRP). Contracts with business entities
+               operating Community Based Rehabilitation Program (CRP), that are justified under
+               one of the exceptions in GC § 19130(b), and that meet the criteria established by
+               Welfare and Institutions Code §1 9404 (PCC §10340). Note: Contracts with CRPs
+               that are justified under GC § 19130(a) are required to be competitively bid.
+       9.      Small Business/DVBE Option (GC §§ 14838.5; PCC §§ 10335.5(c)(6),
+               10340(b)(6)).
+               a.      This option allows for an award under the following conditions:
+                       1)      The contract is awarded to a certified small business, micro-
+                               business or disabled veteran-owned business;
+                       2)      The contract award is greater than $5,000 and less than
+                               $250,000; and
+                       3)      Quotes were received from at least two certified small businesses
+                               or micro-businesses; or two certified disabled veteran-owned
+                               businesses.
+               b.      An award based on receiving only one quote is not permitted under this
+                       method.
+
+
+                                                 67
+            c.     Mixing quotes (e.g. one SB and one DVBE) is not permitted under this method.
+            d.     The code does not expressly require award to the low quote, however, if
+                   award will be made by other than low quote, the agency must document
+                   the business reasons and cost reasonableness basis for selecting the
+                   other quote.
+            e.     No particular format or timing is required under this option. Agencies
+                   have discretion as to how to obtain the quotes. Agencies should provide
+                   vendors sufficient information about the services on which the vendors
+                   can formulate a quote, including copy of the proposed contract (e.g.
+                   scope, payment provisions, and terms).
+            f.     The small business preference is not applicable under this method.
+            g.     There is no protest right for this method. (GC § 14838.5.) Therefore
+                   agencies should not cite protest provisions when soliciting quotes.
+            h.     Use of this method is capped at $250,000 for the entire contract term,
+                   including any option years and/or amendments. If an agency believes
+                   the contract may exceed $250,000, they should use a different solicitation
+                   method, such as an IFB or RFP. If quotes come in over $250,000, the
+                   agency would need to resolicit, either scaling down the project to lower
+                   the quotes or using a different solicitation method.
+            i.     For public works, the dollar range for which this two-quote method can be
+                   used is $5,000 to $291,000 (or other project cost limit amount as may
+                   periodically be issued by the Director of Finance pursuant to PCC §
+                   10105). (GC § 14838.7.)
+     10.    Contracts for the development, maintenance, administration, or use of licensing
+            or proficiency testing examinations (PCC § 10340(b)(7)).
+     11.    Other Specific Statutory Exemption. The STD 215 should identify the statutory
+            citation supporting the exemption.
+B.   DGS Approved Exemptions (PCC § 10348)
+     The State is committed to promoting fair and open competition whenever it is required or
+     otherwise feasible. There are, however, circumstances under which a department may
+     award a contract or amendment to a vendor on a non-competitive basis even though there
+     is no express statutory exemption from bidding. Under Public Contract Code section
+     10348, DGS is authorized to determine when an award can be made without competition.
+     DGS may do so on a case-by-case basis for a department’s application (NCB/SCR) as
+     described in section B.1 below, and on a pre-approved categorical basis as described in
+     section B.2 below.
+     1. Non-Competitive Bid (NCB) or Special Category Request (SCR)
+            a.     An NCB transaction is a contract for goods or services or both when only
+                   one vendor is afforded the opportunity to provide the specified goods or
+                   services.
+            b.     An SCR is similar to an NCB but involves a group of related contracts
+                   rather than a single contract. (For example: the need for several types of
+                   physician medical specialty services at a remote prison.) All SCRs have a
+                   maximum authorized dollar limit and a maximum “window of approval” not
+                   to exceed 3 calendar years from the date of the DGS/PD approval.
+
+
+                                            68
+           Departments must track all SCR transactions to ensure they remain within
+           the approved limit.
+     c.    NCBs/SCRs for non-IT services should be used only when a department
+           can establish the circumstances necessitating a no-bid contract or
+           amendment. Poor planning should not be the reason for seeking an
+           NCB/SCR.
+     d.    NCB/SCR application forms and instructions are located on DGS/PD’s
+           website: http//www.documents.dgs.ca.gov/pd/poliproc/ncb10-413.pdf.
+           When submitting an NCB/SCR request, departments should address all
+           questions on the form to establish the basis for restricting the goods or
+           services to one supplier (e.g., the consequences of not receiving NCB/SCR
+           approval, price analysis), and obtain required signatures. Departments
+           should submit NCB/SCR applications to DGS/PD for review and approval.
+           A department should not execute an NCB/SCR contract or amendment
+           unless and until DGS approves the NCB/SCR application.
+2.   DGS Categorical Exemptions (PCC § 10348; historical references: SAM 1233, MM
+     03-10).
+     a.    Services contracts using a DGS LPA;
+     b.    Subvention and local assistance contracts as defined in SCM 1, section
+           3.17. This exception applies only when services are provided to the public
+           and not specifically to a State agency;
+     c.    Maintenance agreements under $250,000 per year for equipment that is
+           under documented warranty, or where there is only one authorized or
+           qualified representative or where there is only one distributor in the area for
+           parts and services under $250,000.00 per year;
+     d.    Contracts where the state is unable to compete and select a different
+           contractor because a contractor has already been selected by a federal,
+           state, city, county, or other regulatory entity to perform a service in a
+           specific geographical area (e.g., refuse and/or sewage disposal contracts
+           where there is an exclusive franchise agreement that has no exception for
+           the state);
+     e.    Public entertainment contracts for State-sponsored fairs and expositions;
+     f.    Contracts that can only be performed by a public entity as defined in
+           Unemployment Insurance Code § 605(b);
+     g.    Contracts for conference or meeting facilities, including room
+           accommodations for conference attendees, not to exceed $250,000;
+     h.    Contracts for ambulance services (including but not limited to 911) when
+           there is no competition because the contractor is designated by a local
+           jurisdiction for the specific geographic region; (historical reference: MM 05-
+           04.)
+     i.    Contracts for emergency room hospitals, and medical groups, physicians,
+           and ancillary staff providing services at emergency room hospitals, when a
+           patient is transported to a designated emergency room hospital for the
+           immediate preservation of life and limb and there is no competition
+           because the emergency room hospital is designated by a local emergency
+           medical services agency and medical staffing is designated by the hospital.
+
+                                     69
+     This exemption covers only those services provided in response to the
+     emergency room transport; (historical reference: MM 05-04.)
+j.   Contracts with health maintenance organizations (HMOs) through a
+     cooperative agreement with the Centers for Medicare and Medicaid
+     Services (CMS) to pay monthly premium payments for medical/Medicare
+     eligible members, where services are essential or necessary for health and
+     safety;
+k.   Proprietary subscriptions, proprietary publications and/or technical manuals
+     regardless of media format, up to $250,000. This includes access to pre-
+     existing proprietary research data through a non-IT services contract,
+     however “subscription” is not intended to include the performance of any
+     personal services (such as, but not limited to, consulting, advice, research);
+l.   Rental of proprietary postage meters if they are interfaced and
+     intermembered with existing mailing equipment and there is only one
+     authorized manufacturer’s branch or qualified dealer representative
+     providing services for a manufacturer in a specified geographical area.
+     This exemption applies only in circumstances where annual postage meter
+     rental services are less than $100,000;
+m.   Departmental memberships in professional organizations, provided it is
+     solely a membership and does not include the performance of any personal
+     services. Note: Memberships for represented employees are governed by
+     applicable collective bargaining agreements and memberships for non-
+     represented employees are governed by CalHR rules; (See SCM 1, section
+     3.23.)
+n.   Contracts for non-IT services training for state personnel if the cost of the
+     training contract does not exceed $50,000 and the cost of multiple training
+     contracts with a single contractor does not exceed $50,000 cumulatively in
+     any 12-month period. (Historical reference: MM 11-05.) The exemption is
+     for pre-existing training courses; it does not cover development of training
+     or other personal or consulting services. Agencies shall not split contracts
+     to avoid competitive bidding or other contract requirements. Agencies with
+     recurring training needs should assess the cumulative amounts
+     departmentally and generally should go out to bid if there are ongoing
+     and/or department-wide needs.
+o.   The cost paid to a publication to place a solicitation advertisement, when
+     advertisement is required by law, such as public works solicitation ads in a
+     local newspaper and trade paper, or an A & E solicitation ad in a
+     professional society publication. (See SCM I §§ 10.20, 11.05.)
+p.   Contracts valued under $10,000. These contracts may be but are not
+     required to be advertised or competitively bid. State agencies may obtain
+     one price quotation from a responsible supplier that provides a
+     reasonable price; if, however, there is reason to believe a response from
+     a single supplier is not fair and reasonable, then the state agency must
+     obtain at least two price quotations from responsible suppliers. State
+     agencies should retain documentation establishing how the price was
+     determined to be fair and reasonable. Contracting entities should
+     consider the information in SCM Volume II, Chapter 4 (Competitive
+     Solicitations) Topic 2 – “How to Determine Fair and Reasonable Pricing”
+     (§§ 4.C2.0 – 4.C2.2) for additional guidance. Contracting entities are
+     encouraged to consider obtaining price quotes from certified Small
+                               70
+                      Businesses and Disabled Veteran Business Enterprises (SB/DVBE) for
+                      these contracts.
+
+5.81 • AMENDMENTS
+        (New 11/12)
+Competitive bidding requirements and exemptions should be evaluated when contemplating an
+amendment (PCC § 10335).
+A.     Amendments to competitively bid contracts. A competitively bid contract can only be
+       amended without NCB approval under the following circumstances:
+       1.     The contract provides for the particular type of amendment (not merely a generic
+              statement about the parties being able to amend) and:
+              a.      The additional years or additional tasks were anticipated and evaluated in
+                      the IFB/RFP (i.e. exercise of an option to renew that was included in the
+                      IFB/RFP); or
+              b.      The amendment does one, but not both, of the following, and there is no
+                      change in the scope of work:
+                      i)     Adds time only to complete performance, not to exceed one year.
+                             Note: “time only” means time to complete performance of the
+                             original agreement, such as extending the due date for a final report
+                             on a fixed-fee agreement. An amendment that provides for
+                             additional as-needed services (such as extended use of hourly fee
+                             or pay-per-service type arrangements) is not “time only” within the
+                             meaning of this exemption; or
+                      ii)    The amendment adds not more than 30% (not to exceed
+                             $250,000) of the original contract. Note: this increase must be
+                             supported by specific business reason, such as in a unit rate
+                             contracts (e.g. per test, per sample, etc.) usage was higher than the
+                             original good-faith estimates/multipliers used in the solicitation. This
+                             permits flexibility when exceptional unanticipated circumstances
+                             warrant; but it should not be used in circumstances such as paying
+                             a contractor more on a fixed fee bid, and should not be standard
+                             operating procedure.
+       This time-or-money amendment exemption can only be used once. Further amendments
+       would require NCB approval or a new bid for services. For example, a department cannot
+       amend for time, then attempt to amend to add money.
+       2.     Amendments to existing contracts under the same terms and the same or lower
+              rates where a protest or other legal action delays the award of a new contract.
+              These amendments should only last during the period the protest or legal action is
+              pending until a new contract can be executed, but in no case shall the amendment
+              extend beyond six (6) months.
+       3.     Amendments to an existing contract to correct incidental errors such as: State’s
+              clerical error in transposition of numbers from bid response to contract,
+              typographical errors in a contract number, name, or address, or change in or
+              omission of a contact name or phone number.
+B.     Amendments to statutorily exempt contracts. Determine if the statute supporting the
+       original award also supports exemption of the amendment.
+
+
+                                               71
+C.     Amendments to NCB contracts. Generally an amendment to an NCB contract will require
+       a new NCB. An NCB contract can only be amended if the amendment is within scope of
+       the original NCB application and approval (e.g. amount, term, scope of work, reason for
+       not bidding, etc.). If the amendment changes information originally described in the NCB,
+       or is based on grounds other than those described in the original NCB, a new NCB
+       approval is needed for the amendment. As a general rule: “Once an NCB, always an
+       NCB.” Thus, for example, if an agreement or amendment is awarded by NCB, agencies
+       cannot then add additional time or money using 5.81.A.1.
+
+5.85 • MULTIPLE AWARDS
+        (Rev 11/12)
+Most agencies do not have statutory authority to make master contract/multi-vendor type
+awards. In certain limited circumstances, agencies may develop multi-vendor awards, provided
+the awards still follow the PCC methodology (i.e. IFB or primary RFP award to low cost bidder or
+secondary RFP award to high point count proposal).
+For example, if services are needed in several regions, an agency might develop a consolidated
+solicitation to award multiple contracts, one per region. Alternatively, in unique circumstances
+such as for essential services where a back-up contractor is needed, an agency might develop a
+solicitation to award a primary and secondary contract, with work going primarily to the first
+ranked contractor, and only then to the back-up vendor(s) in order of next-best cost/score
+rankings, under specified conditions.
+Absent express statutory authority, departments cannot award to a list of vendors and then
+assign work through informal quotes or other rotational process. All work must be directed to 1st
+rank
+(IFB low bid or RFP Secondary high point) vendor, before moving to 2nd ranked.
+The solicitation must identify the number of awards to be made, how awardees will be selected,
+and how work will be distributed (e.g. by region or by low bid or high point count ranking). Any
+agency wishing to explore these options due to exceptional circumstances requiring backup
+ranked contractors should first consult their assigned DGS/OLS attorney.
+
+
+
+
+5.90 • CONTRACTS UNDER TEN-THOUSAND DOLLARS – PRICE
+      QUOTATION(S)
+        (Rev 1/18)
+Contracts under $10,000 are not required to be advertised or competitively bid. State
+agencies may obtain one price quotation from a responsible supplier that provides a
+reasonable price; if, however, there is reason to believe a response from the single supplier
+is not fair and reasonable, then the state agency must obtain at least two price quotations
+from responsible suppliers. State agencies should retain documentation establishing how
+the price was determined to be fair and reasonable. (Gov. Code, § 14827.3; Pub. Contract
+Code, § 10348.) Contracting entities should consider the information in SCM Volume II,
+Chapter 4 (Competitive Solicitations) Topic 2 – “How to Determine Fair and Reasonable
+Pricing” (§§ 4.C2.0 – 4C2.2) for additional guidance. Contracting entities are encouraged to
+consider obtaining price quotes from certified Small Businesses and Disabled Veteran
+Business Enterprises (SB/DVBE) for these contracts.
+
+
+
+
+                                               72
+

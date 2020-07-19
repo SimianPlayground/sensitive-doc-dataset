@@ -1,0 +1,306 @@
+                       Request for Proposal
+
+         Contract Management Software
+
+              Ogden City Information Technology Division
+
+
+
+
+RETURN TO:
+Ogden City Purchasing Agent
+2549 Washington Blvd., Suite 510
+Ogden, Utah 84401
+Attn: Sandy Poll
+
+                                   1
+Ogden City is accepting proposals from qualified companies to provide a contract management software
+system.
+
+Proposal packets may be obtained from Ogden City Purchasing, 2549 Washington Blvd., Suite 510, Ogden,
+Utah, or by downloading proposal packets from the Ogden City website at
+http://ogdencity.com/en/doing_business/bids_proposals. Bidders are responsible for securing any and all
+addenda issued, which will also be posted to this webpage no later than 48 hours before bid closing.
+
+Responses to this Request for Proposals shall be submitted to the office of the City Purchasing Agent, 2549
+Washington Boulevard, Suite 510 (5th Floor) Ogden, Utah, no later than 2:00 p.m., on November 21,
+2014. LATE PROPOSALS WILL NOT BE ACCEPTED.
+
+The City reserves the right to accept or reject any proposal as it best serves its convenience and/or is
+found to be in the best interest of the City.
+
+The City reserves the right to issue contracts to multiple vendors.
+
+Ogden City encourages and welcomes bids from women and minority owned businesses.
+
+
+PUBLISHED: November 9th & 12th, 2014
+
+
+
+
+                                                     2
+A. PURPOSE OF REQUEST
+
+      The purpose of this Request for Proposal (“RFP”) is to solicit proposals from qualified companies
+(“Responder(s)”) interested, knowledgeable, and experienced in providing contract management
+software systems.
+
+      Through this RFP process, the City plans to select a firm for contract award that demonstrates
+specialized experience, strong capabilities, and successful performance in the services described, as well
+providing a competitive fee proposal. Proposals will be evaluated using the criteria defined herein.
+
+      Responders shall limit their submittals to the information required herein as well as other relevant
+information regarding qualifications and experience.
+
+B. OVERVIEW
+
+      Ogden City currently uses an Excel spreadsheet system to track hundreds of contracts. This
+system tracks each contract individually from the beginning of the contract lifecycle, through execution.
+As the system does not track post-execution compliance data (contract milestones, renewals, and
+terminations), the City has realized the need for third-party off-the-shelf or web hosted contract
+tracking solution that can offer greater functionality and ability to expand.
+
+C. STATEMENT OF NEEDS
+
+      The Responder shall have available and be able to demonstrate the use and functions of the
+following components and/or features for a Contract Management Software system. It is expected that
+any provided solution will already be fully developed, tested, offered publicly for sale and available
+immediately for installation. For this project, Ogden City is not interested in a custom developed
+solution.
+
+    1) Does the solution provide contract and document templates and “wizards” by contract type? If
+       so, please explain.
+    2) Does your solution support complex contract types, such as master and sub-agreements? If so,
+       please explain.
+    3) Does your solution pre-populate new sub-agreements based on the master? If so, please
+       explain.
+    4) Does your solution allow the creation of pre-approved clause and language libraries, including
+       fallback clauses? If so, please explain.
+    5) Does your solution provide the capability to notify appropriate users of changes made to pre-
+       approved clauses and templates? If so, please explain.
+    6) Does your solution provide redlining, audit trail and version tracking? If so, please explain.
+    7) Does your solution provide for document check-in and check-out capabilities? If so, please
+       explain.
+    8) Does your solution support electronic signatures? If so, please explain.
+
+                                                    3
+9) Does your solution provide any capabilities for pre-contracting activities, such as e-RFx (RFP, RFI,
+    RFQ) and quote management? If so, please explain.
+10) Does your solution limit the length of each data field? If so, please explain.
+11) Does your solution record both internal and external comments during the negotiation process?
+    If so, please explain.
+12) Does your solution manage contract storage, retrieval and related (scanned images, emails,
+    faxes, or externally generated information) or attached documents? Can this be done in *.pdf,
+    *.doc, and imaged file formats? If so, please explain. Please list supported file formats.
+13) Does your solution store and search by contract terms, contract name and type, supplier name,
+    contract terms, expiration dates, clauses, keywords, etc.? If so, please explain and provide
+    descriptions of file structures.
+14) Does your solution have a file size limit to the number of contracts and other documents that
+    can be stored within the repository? At what point is system functionality or speed
+    compromised? If so, please explain.
+15) Does your solution support the storage and search of contract-related business documents, such
+    as licenses, certifications, and amendments? If so, please explain.
+16) Does your solution allow documents to be classified by organization, type, project, or other
+    hierarchical structure in the contract repository? If so, please explain.
+17) Does your solution allow users to migrate existing contracts (legacy contracts, PDFs)? If so,
+    please explain.
+18) Does your solution support dedicated graphics such as customers’ corporate standards for
+    logos, headers, and footers? If so, please explain.
+19) Does your solution support the full contract lifecycle, from creation through termination? If so,
+    please explain.
+20) Does your solution allow amending or renewing of contract terms and language in the solution
+    and would the solution notify the parties involved? If so, please explain.
+21) Does your solution enable e-mail alerts, escalations, and/or workflow triggers based on specific
+    contract milestones, such as volume thresholds, payment schedules, expiration dates, renewal
+    notifications etc.? If so, please explain.
+22) Does your solution allow for unlimited workflow processes? If so, please explain.
+23) Does your solution allow unlimited users to be assigned to tasks? If so, please explain.
+24) Does your solution allow tasks to be escalated based on user-defined rules? If so, please
+    explain.
+25) Does your solution allow tasks to be reassigned individually and in bulk to other users? If so,
+    please explain.
+26) Does your solution allow for reporting on task completion? If so, please explain.
+27) Does your solution support associated financial processes – e.g., invoice reconciliation and
+    payment, billing, rebate management, cash management? If so, please explain.
+28) Does the solution support the ability to automatically send, receive, track and file completed
+    contracts via Fax? Via email? If so, please explain.
+
+                                                4
+29) Does your solution enable monitoring of supplier compliance with contractual terms and
+    conditions? If so, please explain.
+30) Does your solution provide an automated approval routing process for contracts? If so, please
+    explain.
+31) Does your solution include menus that are customizable and/or configurable? If so, please list
+    and describe those.
+32) Does your solution provide “canned” reports? If so, please describe, list and provide examples.
+33) Does your solution allow for the saving of user created search queries? Can these saved queries
+    be used by other authorized users? If so, please explain.
+34) Does your solution provide role-based reporting and/or “dashboards”? If so, please explain.
+35) Does your solution support performance-based analysis of contract terms and clauses? (For
+    example, can it create a report of which terms and clauses are most frequently changed in
+    modifications?) If so, please explain.
+36) Does your solution support integration with third-party reporting and analytical tools? If so,
+    please explain.
+37) Does your solution provide the ability to design customized queries and reports? Does your
+    solution have the ability to schedule reports by interval and by date? Can such reports be
+    automatically distributed to distribution lists? If so, please explain.
+38) Does your solution have the ability for end-users to provide feedback on contracts? If so, please
+    describe.
+39) Does your solution have supplier score card templates? If so, please describe.
+40) Does your solution track performance events per contract and log those events? If so, please
+    describe.
+41) Does your solution include security audit reports? If yes, please list and describe.
+42) Does your solution generate form letters or other form documents? If yes, please list and
+    describe.
+43) Does your solution integrate with current Microsoft Word and/or Office applications and legacy
+    Microsoft applications? If so, please explain.
+44) Does your solution have minimum browser requirements? If so, please list the minimum
+    requirements and also provide a listing of browsers that your solution will function with.
+45) Does your solution provide contract migration support services? If so, please explain.
+46) Does your solution provide systems integration services? If so, please explain.
+47) Does your solution allow for a web services API to enable integration with 3rd party systems? If
+    so, please explain.
+48) Does your solution support real-time integration with transactional systems?
+49) Does your solution provide training (e.g., class size, materials, duration, location), initial cut‐over
+    support (e.g., number of on‐ site or dedicated personnel, duration), and transition to customer
+    self‐sufficiency (time‐frame). If so, please explain.
+50) Does your solution provide a helpdesk for users to call into? If so, please describe.
+51) Does your solution allow for single sign on in a Microsoft Active Directory environment?
+52) Does your solution provide for various levels of access and permissions? If so, please explain.
+                                                   5
+   53) Does your solution provide means such as intrusion detection and prevention, vulnerability
+       scanning, real-time monitoring, and the like to protect data confidentiality, integrity, and
+       availability? If so, please explain.
+   54) Does your solution support customization of group permissions? If so, please explain.
+   55) Does your solution support customization of the number of failed login or access attempts that
+       triggers account or data lockout? If so, please explain.
+   56) Does your solution support customized assignment of permission to inspect audit trails and
+       event logs? If so, please explain.
+   57) Does your solution have a restore process when data is lost, corrupted, etc.? If so, please
+       describe.
+   58) Do members of your firm hold current security, audit, process engineering or other industry
+       certifications for other federal and/or NIST compliance related to you SaaS offering? Please list
+       and provide expiration date or date of next scheduled re-certification.
+   59) Does your solution include security procedures when a breach occurs? If yes, please describe.
+   60) Does your solution include customer access to all security breach reports and corresponding
+       logs? If yes, please describe.
+   61) Does your solution include different types of security audits? If yes, please explain types and
+       how often they are completed.
+   62) Does your solution allow customer access to your firm’s security and audit reports? If yes, please
+       describe.
+   63) Does your solution provide a guaranteed uptime when hosted in supplier’s environment? If so,
+       please describe.
+   64) Does your solution provide a daily backup of the data? If so, please describe. Where is disaster
+       recovery data stored?
+   65) Does your solution require certain services to not be available during scheduled backups? If so,
+       please list and describe those services.
+   66) Does your solution store customer data in the United States?
+   67) Does your solution have a schedule for updating applications on a regular basis? If so, please
+       explain.
+   68) Does your solution have the ability to move from a SaaS to an on premise licensing (and vice
+       versa)? If so, please explain?
+   69) Does each client’s data reside on a server just for them or does each server contain multiple
+       clients? Please explain.
+
+D. MILESTONE SCHEDULE
+
+     The proposed milestone schedule is approximate and is subject to change:
+
+           Advertise RFP                                        November 9 & 12th, 2014
+           Deadline for Submittal of Proposals                  November 21, 2014
+           Evaluation of Qualifications                         November 24 – December 5, 2014
+           Notice of Award to Selected Responder                December 8, 2014
+                                                   6
+            Execution of Contract with Selected Responder         December 15, 2014
+
+E. PROCEDURES FOR SUBMISSION OF PROPOSALS
+
+       Responders shall submit three (3) hard copies of their proposals to the Ogden City Purchasing
+Agent. Proposals must be submitted in a sealed envelope bearing the name of the Responder,
+addressed as indicated below and clearly marked Contract Management System. Responses to the RFP
+shall be submitted to:
+
+                                      Ogden City Purchasing Agent
+                                    2549 Washington Blvd., Suite 510
+                                          Ogden, Utah 84401
+                                           Attn: Sandy Poll
+
+          Responses to the RFP are due on November 21, 2014 by 2:00 pm.
+         Questions pertaining to this RFP should be submitted in writing to the address shown above or
+by e-mail to purchasing@ogdencity.com. Questions must be submitted no later than five business days
+prior to the RFP closing date and time. To ensure fair consideration for all Responders, responses to the
+submitted questions will be provided in the form of an addendum to the RFP. Such addenda, if issued,
+will be posted at the following address listed below no later than 48 hours before the RFP closes:
+http://ogdencity.com/en/doing_business/bids_tabulations.aspx.
+
+     Please note that it is the Responder’s responsibility to check this site frequently for addenda,
+which may impact pricing, proposal requirements, and terms and/or conditions.
+
+      Submissions lacking one or more pieces of the requested information may be deemed non-
+responsive. It is the Responder’s sole responsibility to read and interpret this RFP and the written
+instructions contained herein.
+
+       The City reserves the right to reject any irregular or non-responsive submission and reserves the
+right to waive any irregularity in submissions.
+
+      Responses to the RFP that are not received in the Ogden City Purchasing Office prior to the time
+and date specified will be considered late. Late responses will not be considered for award. The City
+reserves the right to reject any and all responses at the City’s sole discretion.
+
+      It is the Responder’s responsibility to assure the delivery of its responses to Ogden City Purchasing
+Department prior to or at the designated date and time. In order to facilitate review and evaluation,
+please submit materials in the correct format as described below.
+
+
+
+
+                                                     7
+F. SUBMITTAL FORMAT AND CONTENT
+
+        Proposals should be prepared simply and economically, providing a straightforward, concise
+description of capabilities to satisfy the requirements of the RFP. Emphasis should be placed on
+completeness and clarity of content.
+
+         Proposals should be organized in the order in which the requirements are presented in the RFP.
+All pages of the proposal should be numbered. Each response in the proposal should reference the
+number of the corresponding requirement of the RFP. It is also helpful to cite the requirement as it
+appears in the RFP. Information which the Responder desires to present that does not fall within any of
+the requirements of the RFP should be inserted at the appropriate place or be attached at the end of
+the proposal and designated as additional material. Proposals that are not organized in this manner risk
+elimination from consideration if the evaluators are unable to find where the RFP requirements are
+specifically addressed.
+
+        Proposals should be as thorough and detailed as possible so that Ogden City may properly
+evaluate your capabilities to provide the required services. Responders are required to submit the
+following additional items:
+
+           Company name and contact information
+           Experience in providing contract management software systems
+           Time frame for implementation/completion
+           Proposed rate schedules for software licensing, on-going maintenance, customer support,
+            data migration, and consultative services
+
+G. SELECTION
+
+       Ogden City will utilize data collected through this RFP process to select finalists for award. Ogden
+City may interview the finalists and require demonstration the product as part of the selection process.
+Upon exercising its discretion and determining which firm is best suited to meet the needs of this
+project, the City will notify all Responders of its decision.
+
+H. MISCELLANEOUS
+
+      The City shall have the right to verify the accuracy of all information submitted and to make such
+investigation as it deems necessary to determine the ability of the prospective Responder to perform
+the obligations in the response. The City reserves the right to reject any response where the available
+evidence or information does not satisfy the requirements of this RFP or does not adequately
+demonstrate to the City that the prospective Responder is qualified to carry out properly the obligations
+of the response.
+
+      Responders are hereby advised that the information provided as a part of all submissions shall
+become Ogden City property at the time of submission. Information contained in the submissions may
+be available to the public upon inquiry immediately following the execution of a written agreement with
+the selected responder.
+
+                                                     8
+

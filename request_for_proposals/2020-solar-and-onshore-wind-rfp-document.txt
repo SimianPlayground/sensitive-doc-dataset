@@ -1,0 +1,924 @@
+      Request for Proposal
+
+
+         2020 Solicitation for
+New Photovoltaic Solar, Onshore Wind
+ Power Supply Generation and Energy
+              Storage
+
+             May 1, 2020
+
+
+
+
+    Dominion Energy Virginia
+                                          TABLE OF CONTENTS
+
+Table of Contents
+PART I – RFP Overview ........................................................................................................ 2
+ A. Introduction .......................................................................................................................... 2
+ B. Purpose ................................................................................................................................. 3
+ C. Scope ..................................................................................................................................... 4
+ D. Schedule & Process ............................................................................................................. 9
+ E. Communications ................................................................................................................ 11
+ F. Modifications to RFP .......................................................................................................... 11
+ G. Confidentiality..................................................................................................................... 12
+ H. Miscellaneous ..................................................................................................................... 12
+
+PART II – Proposal Evaluation .......................................................................................... 14
+ A. Evaluation Methodology Overview................................................................................... 14
+ B. Evaluation Process .............................................................................................................. 14
+ C. Price Evaluation .................................................................................................................. 15
+ D. Non-Price Evaluation Criteria ............................................................................................ 16
+
+PART III – Proposal Submittals ........................................................................................ 19
+ A. Proposal Requirements & General Instructions .............................................................. 19
+ B. Proposal Summary Submittal ............................................................................................ 19
+ C. Information Form Addendum ........................................................................................... 25
+ D. Form Agreements............................................................................................................... 25
+ E. Planned Development and Construction Schedule ........................................................ 26
+
+
+
+
+PART I – RFP Overview
+A.         Introduction
+
+
+           More than 7 million customers in 20 states energize their homes and businesses with
+
+           electricity or natural gas from Dominion Energy, headquartered in Richmond, Va. The
+           company is committed to sustainable, reliable, affordable and safe energy and is one of the
+           nation's largest producers and transporters of energy with more than $100 billion of assets
+
+                                                                                                                                           2
+     providing electric generation, transmission and distribution, as well as natural gas storage,
+     transmission, distribution and import/export services. The company is committed to
+     achieving net zero carbon dioxide and methane emissions from its power generation and
+     gas infrastructure operations by 2050. Please visit DominionEnergy.com to learn more.
+
+
+     Virginia Electric and Power Company (the “Company” or “Dominion Energy Virginia”), a
+     wholly owned subsidiary of Dominion, is a regulated public utility that generates,
+     transmits and distributes electricity for sale in Virginia. In May 2005, the Company
+     became a member of the PJM Interconnection L.L.C. (“PJM”) Regional Transmission
+     Organization, which operates the wholesale electric grid in the Mid-Atlantic region of
+     the United States. As a result, the Company transferred operational control of its
+     transmission assets to PJM.
+
+     The Company has a diverse mix of generating resources consisting of Company-owned
+     nuclear, fossil, hydro, pumped storage, biomass and solar facilities. Additionally, the
+     Company purchases capacity and energy from non-utility generators and the PJM
+     market.
+
+
+B.   Purpose
+     With this Request for Proposals (“RFP”) dated May 1, 2020, Dominion Energy Virginia is
+     soliciting proposal(s) (the “Proposal(s)”) from bidders (“Bidders”) for new photovoltaic
+     (“PV”) solar generation Unit Capacity, new PV solar generation paired with energy
+     storage Unit Capacity, new onshore wind Unit Capacity (as defined in Section I.C.1,
+     below), new onshore wind paired with energy storage Unit Capacity, or stand-alone
+     energy storage Unit Capacity.
+
+     The need for additional generation resources to serve the Company’s projected
+     customer load was identified in the Company’s 2011-2020 Integrated Resource Plans
+     (“IRPs”). The IRP is the Company’s long-term planning document for meeting future
+     customer needs at the lowest reasonable cost while maintaining reliability and flexibility.
+     The Company’s 2020 IRP is available at:
+     https://www.dominionenergy.com/company/making-energy by using the ‘Download’
+
+                                                                                                     3
+     button under Long-Term Dominion Energy Forecast.
+
+
+     New renewable generation resources and energy storage are also needed to achieve the
+     Company’s commitment of net zero carbon emissions from its power generation fleet by
+     2050 and to meet targets as set forth in the Virginia Clean Economy Act signed by
+     Governor Northam on April 11, 2020. Renewable Energy Credits from these new
+     resources are intended to be used for purposes of compliance with the Renewable
+     Portfolio Standard as defined in the Virginia Clean Economy Act.
+
+
+     The Company is conducting this RFP to seek third-party proposals in order to fully
+     evaluate and determine the most favorable new solar generation, onshore wind
+     generation and energy storage option(s) for its customers.
+
+C.   Scope
+     All Proposals must conform to the RFP requirements detailed below. Any Proposal that
+     does not conform to one or more of the RFP requirements may be eliminated from
+     further consideration.
+
+     1. Product
+
+        For the purposes of this RFP, “Unit Capacity” is defined as maximum net MW (ac)
+        output, and includes capacity, energy, ancillary services and environmental attributes
+        (including but not limited to renewable energy certificates) delivered from a specific
+        new PV solar facility, PV + energy storage facility, new onshore wind facility, new
+        onshore wind + energy storage facility, or a stand-alone energy storage facility.
+
+     2. Structures
+
+        The Company is seeking proposals based on any of the following structures. Bidders
+        have the option of submitting more than one proposal for a single facility, each
+        based on a different structure.
+
+        a. Power Purchase Agreement (“PPA”): Agreement that provides Company the
+             exclusive right to 100% of the Unit Capacity of the facility from which such output
+                                                                                              4
+      will be delivered. The contract delivery term shall be twenty years. Such PPA shall
+      also provide Company an option to acquire the facility’s assets on or after the
+      tenth full year of operation.
+
+   b. Asset Acquisition of Development Project at Notice to Proceed (“Development
+      Proposal”): Proposal that provides a price for the sale of a development project,
+      including property rights, permits, interconnection queue position, reports and
+      preliminary design documents and agreements that would allow the Company to
+      complete development and construction of the facility by the expected in-service
+      date. The Company will consider all Development Proposals under this structure.
+
+   c. Asset Acquisition of Project at Mechanical Completion (“MC Proposal”): Proposal
+      that provides a price for the sale of a project that is to be developed, constructed
+      and turned over to the Company at Mechanical Completion. The Company will
+      not consider PV + energy storage, onshore wind + energy storage and
+      standalone energy storage Development Proposals under the Asset Acquisition
+      of Project at Mechanical Completion structure.
+
+3. Commercial Operations Date
+
+   For PPA Proposals, Development Proposals and MC Proposals, the Bidder must
+   propose a delivery of Unit Capacity commencing no later than 2023. While not a
+   requirement, Proposals that include actions that have been taken, or a plan to secure
+   as high a percentage of the Federal Solar ITC as possible may be evaluated more
+   favorably. All proposed facilities shall be in-service and capable of delivering their
+   full rated output by December 31, 2023. The delivery year shall be clearly
+   designated as part of all Proposals and should be supported by a firm contractual
+   commitment.
+
+4. Quantity
+
+  The Company is seeking PPA Proposals, Development Proposals and MC Proposals for
+  up to 1,000 MW (ac) total capacity at the point of interconnection with a COD no later
+  than 2023 from new solar PV and onshore wind facilities with Unit Capacity of at least 5
+                                                                                       5
+MW. Each Proposal must represent generation at a single site and shall not reflect an
+aggregate of multiple facilities at separate sites to meet the minimum size threshold.
+
+
+The Company is also seeking PV + energy storage, stand-alone energy storage, and
+onshore wind + energy storage PPA Proposals and Development Proposals for up to
+250 MW (ac or dc) total capacity (as capable of being delivered to the interconnection
+point) by 2023, from facilities with Unit Capacity of at least 5 MW as referenced in
+Section I.C.2 above. The 250 MW (ac or dc) total capacity request will only be
+attributed to the storage portion of the bid submittals.
+
+
+For all PV + energy storage, stand-alone energy storage, and onshore wind + energy
+storage PPA and Development Proposals, the Company is requiring a four-hour
+duration Lithium-ion battery energy storage system to be included as a component of
+all Development Proposals. The Company will also consider Additional Alternative
+Storage Bids as part of the submittal of a four-hour duration Lithium-ion battery energy
+storage system. These Additional Alternative Storage Bids can include, but are not
+limited to, flow batteries, hydro energy storage, mechanical energy storage, cryogenic
+energy storage, compressed air energy storage or other commercially viable energy
+storage systems. The Company is only seeking storage bids to be submitted that have
+four-hour and ten-hour durations. Each Proposal must represent generation at a single
+site and shall not reflect an aggregate of multiple facilities at separate sites to meet the
+minimum size threshold.
+
+
+All required four-hour Lithium-ion Development Proposals and PPA Proposals are to
+include the following inputs/assumptions:
+   •   One full charge / discharge cycle in a twenty-four-hour period at submitted
+       Minimum and Maximum States of Charge
+   •   Battery augmentation cycle that maintains facility output (Nameplate Capacity
+       MWac multiplied by four-hour duration) over a ten-year period
+   •   Annual degradation rate to be applied to initial facility output (Nameplate
+                                                                                         6
+          Capacity MWac multiplied by four-hour duration) assuming no battery
+          augmentation is performed
+      •   Submission of anticipated facility useful life, given the charge / discharge cycle
+          use case requirements noted above
+  Bidders must submit required Storage System Technical Aspects (as found on the 2020
+  RFP Checklists) that align with the use cases and duration / cycling / augmentation
+  requirements as noted above. All Additional Alternative Storage Bid non-conforming
+  four-hour and ten-hour energy storage Development Proposals may submit multiple
+  charge / discharge cycles in a twenty four hour period. It is encouraged that
+  augmentation cycles and annual degradation rates be supplied with these Additional
+  Alternative Storage Bids Proposals, as applicable.
+
+
+5. Delivery Point & Interconnection Status
+
+   The Company will only consider Proposals for facilities located in Virginia. In the
+   event facilities are connected at the distribution level they must be directly
+   interconnected to the Company’s distribution system or have a Wholesale Market
+   Participation Agreement (WMPA) with PJM. The Company prefers facilities that are
+   physically located in its service area whether they are distribution or transmission
+   connected but will consider facilities in other service areas.
+
+
+   Projects with delivery points that the Company deems are likely to provide locational
+   grid benefits to Dominion Energy Virginia customers may be evaluated more
+   favorably.
+
+   For state jurisdictional distribution level interconnections, projects submitted must
+   have an active interconnection request, or interconnection agreement. For
+   transmission level interconnections requiring interconnection rights obtained
+   through the PJM new generator interconnection queue, the project must have
+   progressed at least to the point of having a fully executed System Impact Study
+   Agreement.
+
+                                                                                           7
+6. Technology & Fuel Reliability
+
+   All Proposals must utilize existing, proven technologies, with demonstrated reliable
+   generation performance.
+
+7. Checklists
+
+   Eleven Checklists have been developed that outline “Required” and “Requested”
+
+   information for each bid submittal. The checklists include, (i) Acquisition - Solar, (ii)
+   Acquisition – Wind, (iii) Acquisition – Solar Mechanical Completion, (iv) Acquisition –
+   Solar Plus Energy Storage, (v) Acquisition – Wind Plus Energy Storage, (vi) Acquisition
+   – Stand-alone Energy Storage, (vii) PPA – Solar, (viii) PPA – Solar Plus Energy Storage,
+   (ix) PPA – Stand-alone Energy Storage, (x) PPA – Wind and (xi) PPA – Wind Plus
+   Storage. These checklists are available on the RFP website and should be used as a
+   guide for all bid submittals. If all Required items are not delivered by the Proposal
+   Submittal Date, bids may be disqualified from the evaluation process. All Proposals
+   must have a well-defined and credible development plan for either Bidder or
+   Company to complete the development, construction and commissioning of the
+   facility within the proposed timeline.
+
+8. Agreements
+
+   The Proposal must be accompanied by either (i) an affirmative statement that Bidder
+   is taking no exception to the form of power purchase agreement and/or form of
+   asset purchase agreement (the “Form Agreements”) provided pursuant to this RFP; or
+   (ii) a fully marked-up Form Agreement that is reflective of its bid, and that Bidder
+   deems execution-ready. This is critical for the Company to properly evaluate a
+   Proposal, and to ensure the Company can conclude the RFP process in a timely
+   manner. Any proposed revisions to the Form Agreements must be clearly marked
+   with specific language detailing the revisions and the accompanying rationale
+   therefor. Proposals with incomplete Form Agreement revisions, edits and/or
+   accompanying rationale, or that rely on future negotiations to finalize may be
+   deemed non-responsive and subject to rejection by Dominion Energy Virginia.
+                                                                                               8
+     9. Exclusions
+
+        The Company is not seeking or accepting demand side management resources, fossil
+        fueled generation, or renewable generation other than PV solar and onshore wind or
+        PV solar and onshore wind plus energy storage or stand-alone energy storage. While
+        these excluded resources are outside the scope of this RFP, the Company may
+        consider these resources in other existing and future Company-sponsored
+        procurement programs.
+
+        The Company will not consider Proposals that have material contingencies,
+        such as for financing, environmental, etc.
+
+
+D.   Schedule & Process
+     1. Key Dates
+
+            RFP Announcement & Issuance               May 1, 2020
+
+            Intent to Bid Form & Confidentiality      May 18, 2020
+            Agreement Deadline
+
+            Form APAs and Form PPAs Posted to         August 1, 2020
+            Bidder eRooms
+
+            Acquisition Proposal Submittal Date       September 1, 2020
+
+            PPA Proposal Submittal Date               March 1, 2021
+
+            RFP Concluded                             Q2, 2021
+
+
+
+
+     2. Intent to Bid Form and Confidentiality Agreement
+
+        All participating Bidders must complete an Intent to Bid Form and execute a
+        Confidentiality Agreement (“CA”). The completed form and signed CA must be
+        emailed to 2020SolarWindRFP@dominionenergy.com no later than 12:00 PM EDT
+        (noon) on May 18, 2020. The Intent to Bid Form and CA can be found on the RFP
+        website at www.dominionenergy.com/2020SolarWindRFP. The Company will provide
+
+                                                                                        9
+   Bidders a confirmation upon receipt of the Intent to Bid Form and CA.
+
+   After a Bidder has successfully completed and submitted the Intent to Bid Form and
+   CA, the Company will provide access to an electronic data room (“eRoom”), which will
+   contain the fully-executed CA, Form Agreements and ancillary documents referenced
+   in the Checklists and will serve as the location for bidders to upload all Proposal
+   documents.
+
+3. Bidder Financial Information
+
+   At the Company’s request, Bidders will be required to provide 2018 (audited), 2019
+   (audited) and 2020 year-to-date financial information for the Bidder, and, if
+   applicable, for the guarantors and sources of equity funding. Financial Information
+   should include, at a minimum, a Balance Sheet, Statements of Income, and
+   Statements of Cash Flows, with accompanying footnotes.
+
+4. Proposal Submittal
+
+   Bidders must submit Acquisition Proposal(s) on September 1, 2020, no later than 3:00
+   PM Eastern Time. PPA Proposals must be submitted on March 1, 2021, no later than
+   3:00 PM Eastern Time. Proposals must be submitted electronically via the eRoom.
+   The Company will not accept Proposals that are mailed, emailed, or hand delivered.
+   More complete instructions for submitting Proposals will be made available to
+   participants prior to the Proposal due date.
+
+   In order to be accepted as complete, Proposals must contain all the documents and
+   data requested in the form and format required, as described in Part III of this RFP
+   document.
+
+5. Expiration of Proposals
+
+   Proposals shall expire on the earlier of the time the Company notifies Bidder that its
+   Proposal has been rejected in full or in part, or at 11:59 PM EPT on June 30, 2021. All
+   Proposals must remain binding until such time of expiration.
+
+                                                                                          10
+E.   Communications
+     1. RFP Process Information
+
+        In addition to the information and instructions provided in this RFP document, please
+        refer periodically to the RFP website www.dominionenergy.com/2020SolarWindRFP
+        for additional information, announcements and updates.
+
+     2. Bidder Questions & Answers
+
+        Bidders may submit questions to the Company concerning this RFP process via email
+        to 2020SolarWindRFP@dominionenergy.com. Please note that such questions will
+        not be treated as confidential, and the question and answer may be shared for the
+        benefit of other interested parties via the RFP website.
+
+        Please note that under no circumstances shall Bidders attempt to contact
+        Company employees directly with any matters related to this RFP process.
+
+     3. Company Questions & Answers
+
+        Proposals with material omissions will be deemed non-responsive and may be
+        eliminated from consideration by the Company. Note that the Company does not
+        plan to contact Bidders in the event of such non-conforming Proposals prior to
+        elimination.
+
+        However, in addition to the information requested from Bidders in this RFP
+        document, the Company may have the need for clarifications or additional
+        information as part of its review of Proposals. In such case, the Company will call or
+        email the designated Bidder contact. Prompt responses to these questions will be
+        required in order to maintain a responsive Proposal.
+
+F.   Modifications to RFP
+     The Company reserves the right to modify this RFP for any reason and at any time. Such
+     changes will be communicated via the RFP website and directly to Bidders who submit a
+
+
+                                                                                                 11
+     valid Intent to Bid Form.
+
+
+G.   Confidentiality
+     The Company will maintain the confidentiality of all Proposals submitted in accordance
+     with the terms of the CA.
+
+
+H.   Miscellaneous
+     1. The Company does not intend to negotiate with regard to PPA pricing. Bidders are
+        advised to submit their best and final price with their PPA Proposal(s).
+
+     2. The Company may procure more or less than the aggregate amount of Unit Capacity
+        solicited in this RFP from one or more Bidders, and Bidders may propose facilities
+        offering all or a portion of the solicited Unit Capacity. However, proposed projects
+        must be at least 5 MW ac. Bidders are advised that any contract executed by the
+        Company and any selected Bidder may not be an exclusive contract for the provision
+        of Unit Capacity. In submitting a Proposal(s), Bidder will be deemed to have
+        acknowledged that the Company may contract with others for the same or similar
+        deliverables or may otherwise obtain the same or similar deliverables by other means
+        and on different terms.
+
+     3. The Company reserves the right, without qualification and at its sole discretion, to
+        select any Proposal(s) or reject any and all Proposal(s), and/or to waive any formality
+        or technicality in any Proposal(s) received. Bidders who submit Proposal(s) do so
+        without recourse against the Company for either rejection by the Company or failure
+        to execute an agreement for the purchase of Unit Capacity or the facility for any
+        reason.
+
+     4. The Company shall not reimburse Bidder, and Bidder is responsible for any cost
+        incurred in the preparation or submission of a Proposal(s), in negotiations for a
+        power purchase agreement or asset purchase agreement, and/or any other activity
+        contemplated by the Proposal(s) submitted in connection with this RFP.
+
+     5. The information provided in the RFP, or on the Company’s RFP website, has been
+
+                                                                                               12
+   prepared to assist Bidders in evaluating the RFP. It does not purport to contain all the
+   information that may be relevant to Bidder in satisfying its due diligence efforts. The
+   Company makes no representation or warranty, expressed or implied, as to the
+   accuracy, reliability or completeness of the information in the RFP or the RFP website,
+   and shall not be liable for any representation expressed or implied in the RFP or the
+   RFP website or any omissions from the RFP or the RFP website, or any information
+   provided to a Bidder by any other source.
+
+
+6. Bidders should check the Company’s RFP website frequently to ensure it has the
+   latest documentation and information. Neither the Company nor its representatives
+   shall be liable to any Bidder or any of its representatives for any consequences
+   relating to or arising from the Bidder's use of outdated information.
+
+7. Bidder shall indemnify and hold the Company harmless from all damages and costs,
+   including but not limited to legal costs, in connection with all claims, expenses,
+   losses, proceedings or investigations that arise as a result of the RFP, including the
+   award or denial of a bid pursuant to the RFP.
+
+8. The submission of a Proposal to the Company shall constitute Bidder’s
+   acknowledgment and acceptance of all the terms, conditions and requirements of
+   this RFP.
+
+9. Bidder shall obtain all licenses and permits that may be required by any
+   governmental body or agency necessary to conduct Bidder’s business or to perform
+   hereunder. Bidder’s subcontractors, employees, agents and representatives of each in
+   performance hereunder shall comply with all applicable governmental laws,
+   ordinances, rules, regulations, orders and all other governmental requirements.
+
+
+
+
+                                                                                            13
+PART II – Proposal Evaluation
+A.   Evaluation Methodology Overview
+     1. Overview of Price & Non-Price Methodology
+
+        The Company will review and evaluate Proposals to determine the outcome that
+        provides the lowest reasonable cost, while complying with the Virginia Clean
+        Economy Act and related rules and regulations, and maintaining reliability and
+        flexibility for Dominion Energy Virginia customers. This evaluation will be conducted
+        in consecutive steps, as outlined in Section II.B, in order to conduct a thorough and
+        efficient review of Proposals. Proposals selected from the RFP process will be those
+        that offer the most favorable combination of the Price Evaluation and Non-Price
+        Evaluation, as described further below.
+
+     2. Company Self-build Alternatives
+
+        The Company may develop self-build options for PV solar, PV solar plus energy
+        storage, stand-alone energy storage, and/or onshore wind generation in Virginia (the
+        “Company Build Options”). The Company currently anticipates that it may complete
+        one or more of the Company Build Options in addition to completing one or more
+        transactions resulting from this RFP.
+
+
+B.   Evaluation Process
+     1. Review for Completeness
+
+        For Proposals received by the submittal deadlines, the Company will open and review
+        all responses for completeness and responsiveness. Failure to provide the requested
+        information in accordance with the submittal requirements described in Part III may
+        result in disqualification of the Proposal.
+
+     2. Review for Scope Compliance
+
+        The Company will then review Proposals for compliance with the RFP scope as
+        described in Section I.C. Any Proposal not conforming to one or more of the RFP
+                                                                                                14
+        scoping factors may be eliminated from further consideration.
+
+     3. Initial Economic Screening
+
+        Depending upon the number of Proposals that are determined to be complete and
+        that meet scope compliance requirements, the Company may perform an initial
+        economic screening in order to eliminate uneconomic Proposals. This will allow the
+        final evaluation process to focus on the most economic Proposals relative to other
+        Proposals received.
+
+     4. Detailed Proposal Evaluation
+
+        Dominion Energy Virginia will conduct the final review and evaluation of remaining
+        Proposals based on the Price Evaluation and Non-Price Evaluation as described
+        below.
+
+
+C.   Price Evaluation
+     The price evaluation will analyze each Proposal’s value to Dominion Energy Virginia
+     customers based on the Proposal’s pricing. The Company will use generation planning
+     and production cost models to determine the economic value, with the objective of
+     minimizing present value revenue requirements for customers while maintaining grid
+     reliability and flexibility. Depending on the nature of the Proposals, the Company may
+     examine combinations of Proposals, along with one or more of the Company’s Build
+     Options, to determine the lowest reasonable cost future PV solar, onshore wind, and
+     energy storage resources.
+
+     In addition to the price evaluation process outlined above, energy storage Development
+     Proposals and PPA Proposals will be evaluated based on additional benefits those types
+     of projects are able to provide. Energy storage Development Proposals and PPA
+     Proposals that provide enhanced capacity value will be evaluated more favorably. The
+     energy storage project’s duration will be used to evaluate the project’s capacity value as
+     defined by PJM. The Company will also assess benefits derived from energy price
+     arbitrage (the energy storage system stores low-cost power and sells it at a later time at
+     a higher price), and other PJM ancillary markets.
+                                                                                              15
+D.   Non-Price Evaluation Criteria
+     1. Virginia Economic Benefit
+
+        The Company requires utilization of goods or services sourced, in whole or in part,
+        from one or more Virginia businesses. The Company will consider each proposed
+        facility’s use of labor, materials and other resources within Virginia and from Virginia
+        businesses. In evaluating Proposals containing a storage component, extra
+        consideration may be given to those located within either a minority community or a
+        Federal “Qualified Opportunity Zone” as defined by the Internal Revenue Service.
+
+     2. Experience, Qualifications and Financial Strength
+
+        It is critical that the Company have a high degree of confidence in the Bidder’s ability
+        to construct and operate a facility as required under a PPA Proposal. Therefore,
+        Bidders must demonstrate they have the experience, qualifications and financial
+        strength to successfully execute a Proposal, and will be evaluated as such. The PPA
+        Proposal Submittal Date has been extended beyond that for acquisition Proposals to
+        allow bidders sufficient time to engage with one or more EPC contractors and
+        potentially strengthen this aspect of their Proposal.
+
+     3. Development, Permitting and Approvals Risk
+
+
+        The Company is seeking PV solar generation, onshore wind generation and energy
+        storage to commence commercial operation no later than 2023 and will make
+        planning decisions based on the selected Proposal(s). Therefore, the Company will
+        evaluate Proposals based on the risk associated with proposed development plans
+        and the associated contractual commitments.
+
+        Evaluation of development plans will include review of proposed schedule, budget,
+        and Checklist items. Facilities with advanced and well-defined development plans will
+        be evaluated more favorably. Proposals that are not site-specific or do not currently
+        have land control will be disqualified from the evaluation process.
+
+                                                                                              16
+   The Company will not assume any responsibility for the successful and timely
+   development of a proposed facility under PPA Proposals, and such development
+   schedule, budget, permits and approvals risk will be the sole responsibility of the
+   Bidder.
+
+   As reflected in the form asset purchase agreement, Bidders will be required to
+   represent and warrant to the Company that there are no facts or circumstances that
+   could materially and adversely affect the ability of the Company to construct, own
+   and operate the facility in accordance with the development schedule.
+
+4. Technical Review of Facility Design, Equipment and Operations
+
+   The long-term performance of the proposed facility is critical to providing the
+   intended value for the Company’s customers. The reliability and capabilities of the
+   facility’s design, equipment and operations will be evaluated, including:
+
+   -   Proven equipment and technology from qualified equipment providers
+
+   -   Equipment warranties
+
+   -   Performance guarantees, backed by contractual commitments
+
+   -   Appropriate operating and maintenance plan
+
+   The Company has provided an Equipment and Site Requirements document,
+   included as Appendix D to the Form Power Purchase Agreement, which reflects the
+   Company’s preferred specifications for PPA Proposals. To the degree a Proposal
+   differs from the Appendix D Requirements, such change shall be reflected in the
+   markup to the Form Power Purchase Agreement and submitted as part of Bidder’s
+   Proposal, accompanied by an explanation of the proposed change and why it would
+   not adversely impact the reliability or performance of the facility.
+
+5. Agreement Terms and Conditions
+
+   The Company will rely on the PPA or Asset Purchase Agreement Terms and
+
+                                                                                         17
+   Conditions to ensure it receives the intended value of the Proposal and to protect
+   Dominion Energy Virginia customers from unnecessary risk. Therefore, the Form
+   Agreement mark-up submitted must accurately and fully reflect Bidder’s Proposal
+   and is critical to the Company’s proper evaluation of a Proposal and timely
+   conclusion of the RFP process.
+
+   Proposals that minimize revisions to the Company’s Form Agreements will receive
+   preference in the evaluation process. Additionally, Proposals that provide strong
+   commitments to the operation and performance of the facility, backed by a strong
+   credit package (per Section III.B.11) will be evaluated more favorably.
+
+   Proposals that do not include an execution-ready agreement, have incomplete edits
+   and rationale therefor or that rely on future discussions to finalize, may be deemed
+   non- responsive and subject to rejection by Dominion Energy Virginia.
+
+6. Key Risk Factors
+
+   As the Price Evaluation and Non-Price Evaluation reviews are conducted, certain key
+   risks will be compiled and included in the final evaluation (“Key Risk Factors”). These
+   Key Risk Factors may be unique to a Proposal and while reflected in the Price and
+   Non-Price Evaluation, may be significant enough to independently impact the overall
+   favorability of a Proposal. For example, if there is significant uncertainty whether a
+   key permit for a facility can be secured, jeopardizing the ability of the facility to be
+   constructed, then that risk may also be included as an independent consideration in
+   the final evaluation.
+
+
+
+
+                                                                                              18
+PART III – Proposal Submittals
+A.   Proposal Requirements & General Instructions
+     Prior to submitting Proposal(s), Bidders must complete an Intent to Bid Form and
+     execute a Confidentiality Agreement by the deadline in accordance with Section I.D.
+
+     Bidders may submit more than one Proposal. For multiple Proposals related to a single
+     facility, Bidders may provide a single Proposal submittal package that clearly identifies
+     the Proposals’ differences. For Proposals that are based on different facilities, Bidders
+     should provide a complete and separate proposal submittal package for each facility.
+
+     Bidders must submit Acquisition Proposal(s) on September 1, 2020, no later than 3:00
+     PM Eastern Time. PPA Proposals must be submitted on March 1, 2021, no later than 3:00
+     PM Eastern Time. Proposals must be submitted electronically via the eRoom. The
+     Company will not accept Proposals that are mailed, emailed, or hand delivered.
+
+     The purpose of these requirements and instructions is to acquire sufficient information
+     from all Bidders that will ensure a uniform and impartial evaluation and ranking of each
+     Proposal. For this reason, the Company requires that Bidders complete all applicable
+     items for each Proposal submitted: B: Proposal Summary Submittal, C. Information Form
+     Addendum, D. Form Agreements, and E. Additional Requested Documents as described
+     in this Part III. Bidders should refer to the applicable RFP Checklist available for
+     download on the RFP website for detail on required and requested information to be
+     included in each Proposal.
+
+     In order to be accepted as complete, Proposals must contain all the documents and data
+     requested in the form and format required. Any Proposals with material omissions or
+     incomplete responses to the requested items will be deemed non-responsive and may
+     be eliminated from further consideration.
+
+
+B.   Proposal Summary Submittal
+     Bidder’s Proposal Summary must be provided in Microsoft Word or Adobe Acrobat PDF
+     file format and contain the following information. Please maintain the order and content
+                                                                                                 19
+as listed below to facilitate the review of Proposals.
+
+1. Bidder Name, Contact information and Bidder Affirmation
+
+   Proposal(s) must be submitted in the legal name of the actual party or the ultimate
+   “upstream” organizational entity that would be bound by any resulting power
+   purchase agreement or asset purchase agreement with Dominion Energy Virginia
+   and authenticated by an officer or other employee who is authorized to bind Bidder
+   to an agreement based on the Proposal(s).
+
+   The first page of the Proposal shall list the Bidder and the Bidder Contact Information
+   (Name, Title, Phone, Email Address, and Mailing Address).
+
+   Additionally, it must include the following statement, signed by an authorized
+   representative of Bidder:
+
+   “I,         , am an authorized representative of                     (“Bidder”) and hereby
+   certify and affirm that: (i) I am authorized to obligate the Bidder to the terms of its
+   Proposal; and (ii) the Bidder’s Proposal shall remain binding until June 30, 2021; and
+   (iii) neither Bidder nor any person or entity acting or purporting to act on its behalf or
+   with Bidder has entered into any combination, conspiracy, agreement or other form
+   of collusive arrangement with any person, corporation, partnership or other entity,
+   which directly or indirectly has to any extent lessened competition between the
+   Bidder and any other person or entity for this RFP.”
+
+2. Proposal Summary: Please provide a brief summary of the Proposal, including key
+   information on the facility, and identification of the proposed structure(s) (i.e., PPA,
+   Proposal, Development Proposal or MC Proposal). Please highlight any significant
+   unique attributes of the facility relative to similarly situated facilities in the industry.
+
+   If submitting multiple Proposals for a single facility, please clearly identify and
+   summarize each Proposal in a single Summary.
+
+3. Bidder Summary: Please provide a summary of the Bidder. Summary must include:
+
+                                                                                                  20
+       a. Ultimate corporate parent entity and relationship to Bidder,
+
+       b. Prior experience and qualifications of Bidder as it relates to the execution of
+           the Proposal, and
+
+       c. Summary of Bidder’s and guarantor’s financial strength and capabilities to
+           develop, own and operate the facility as applicable to the Proposal structure
+           (PPA or Development Proposal).
+
+4. Key Contributors Summary: Please provide a summary of the experience and
+   qualifications of other key contributors. Summary must include:
+
+       a. Prior experience and qualifications of any key developers, engineering,
+           procurement and construction contractors, operators, or other key
+           contributors specifically as it relates to the execution of the Proposal;
+
+       b. Summary of the status of contractual relationship with each key contributor;
+
+       c. Key contractual assurances, guarantees, warranties or commitments
+           supporting the Proposal; and
+
+       d. Past experience of Bidder working with each key contributor.
+
+5. Site Summary: Please provide information on the project site, including:
+
+       a. Bidder rights (owned, leased, under recorded option, executed letter of
+           intent) to such site. If applicable, provide details of lease agreement, option,
+           or letter of intent terms. Please indicate whether additional land rights
+           (including easements) are necessary for the development, construction,
+           interconnection and operation of the facility. Note that for Development
+           Proposals, projects with land control that cover a 35 year operating life will
+           receive preference in the evaluation process.
+
+6. Development Plan: Please provide a summary of Bidder’s development plan, including:
+
+       a. Discussion of the development schedule, and associated risks and risk
+                                                                                              21
+            mitigants for that schedule, including whether there are contract
+            commitments from contractors supporting the proposed schedule. Bidder
+            should be prepared to document and commit to proposed development
+            schedule.
+
+       b. Discussion of the financing arrangements, including an overview of the
+            sources of funds, and level of commitment from debt, equity or other
+            investors. Strong evidence of Bidder’s ability to obtain project financing will
+            be evaluated favorably.
+
+
+       c. Discussion on Permitting, including a list of all required permits, permitting
+            status of each, and key risks to securing necessary future permits approvals.
+            Provide a Permitting Plan as indicated in the applicable RFP Checklist
+            document.
+
+       d. Discussion on Interconnection, including status of application, studies and
+            agreements, estimated cost, and estimated schedule for completion of
+            upgrades.
+
+       e. Discussion on any rezoning that may be required, including the schedule and
+            process for rezoning.
+
+       f.   For acquisitions, discussion on tree clearing expectations if applicable. The
+            Company will require that all tree clearing be completed prior to taking
+            ownership of any facility.
+
+7. Operations and Maintenance Plan: Please provide a summary of the O&M plan for
+   the facility. Such plan should include any third-party roles and responsibilities for
+   operating, maintaining and servicing the facility, including any contractual
+   arrangements currently in place.
+
+8. Environmental Plan: Please provide a summary of all environmental diligence
+   completed to date, including any identified concerns and the associated mitigation.
+
+                                                                                              22
+   For environmental diligence that remains, please provide a detailed scope and
+   schedule that supports a 2023 COD or sooner. All Proposals should include a
+   description of planned environmental mitigation measures to minimize impacts to air
+   quality during project construction and efforts to minimize the carbon footprint
+   associated with the production and transportation of permanently installed
+   equipment to the site.
+
+9. Legal Proceedings: Provide a summary of all material actions, suits, claims or
+   proceedings (threatened or pending) against Bidder, its Guarantor (if applicable) or
+   involving the Proposal facility as of the Proposal due date, including those related to
+   employment and labor laws, environmental laws, or contractual disputes for the
+   development, construction or operation of the facility.
+
+10. Environmental Violations / OSHA Recordables: Provide a list of all environmental
+   violations and OSHA recordable incidents incurred within the last three (3) years by
+   the Bidder or its contractors on projects built by Bidder. Also include a description of
+   mitigation efforts to address these incidents and the measures that will be employed
+   in the future to avoid recurrences.
+
+
+
+11. Virginia Economic Impact: Provide a description of the expected use of labor,
+   materials and other resources from Virginia and/or Virginia businesses for the
+   development, construction and operation of the Proposal facility. Additionally,
+   provide a description of the expected benefits to be derived by the industries and
+   communities associated with the development, construction and operation of the
+   Proposal facility.
+
+12. Project Tax Credits: Development Proposals that include actions that have been
+   taken, or a plan to secure the full 30% Federal Solar ITC, or some reduced percentage
+   thereof, should detail how that credit is expected to be secured.
+
+13. Project Price: For PPA proposals, provide the PPA Base Price, in $/MWh, applicable
+   for the first contract year subject to a 2.5% escalation factor for subsequent years.
+                                                                                           23
+   For PPA proposals that include a storage component, include a fixed Storage
+   Payment per month, in $/MW, for the storage facility subject to a 2.5% escalation
+   factor for subsequent years.
+
+   For Development Proposals and MC Proposals, provide the price applicable for
+   acquisition of project at the relevant development state. Prices for both PPA
+   proposals and acquisition proposals should also be entered in Section B of the
+   Information Form Addendum document.
+
+14. Credit Package (PPA proposals only): Provide a summary of the proposed credit
+   package (pre-COD and post-COD) to support Bidder’s contractual commitments,
+   such as parental guaranties and letters of credit, including amounts/limits. The credit
+   package will be required at the time an agreement is executed and shall provide a
+   minimum of:
+
+   -   Upon PPA execution: $90/kW
+
+   -   Upon COD and completion of performance demonstration: $60/kW
+
+   Letters of credit provided as part of Bidder’s credit package must be in form and
+   substance satisfactory to Dominion Energy Virginia, drawn upon a financial institution
+   with a minimum senior unsecured (or equivalent) credit rating of A3 and A- from
+   Moody’s and S&P, respectively and acceptable to Dominion Energy Virginia.
+
+   For the Proposal, Bidders may assume that credit packages may utilize guarantees up
+   to the credit limits indicated below. However, such limits will be subject to Dominion
+   Energy Virginia’s review of individual entities’ credit worthiness, with the limit not to
+   exceed 5% of the entities’ tangible net worth (“TNW”) relative to the lower of their
+   Moody’s or Standard and Poor’s Senior Unsecured Rating or equivalent:
+
+
+
+
+                                                                                           24
+                                  Rating
+                         (S&P and Moody's equivalent)               Credit
+                         A- / BBB+ or better                  $10,000,000
+                         BBB / BBB-                           $2,000,000
+                         Below Investment
+                         Grade/Unrated                        $0
+
+
+
+        The following table provides a hypothetical example of a Bidder’s minimum
+        collateral requirement, assuming an 80 MW facility, and a new facility initial
+        security amount of $90/kW.
+
+
+                      Rating
+             (S&P and Moody's equivalent)            Credit                Required
+                                                                           Collateral
+            A- / BBB+ or better                $10,000,000*          $0*
+            BBB / BBB-                         $2,000,000*           $5,200,000*
+            Below Investment
+            Grade/Unrated                      0%                    $7,200,000
+
+
+
+
+        *Approved, unsecured credit assumes Bidder or Guarantor is Investment Graded
+        by Moody’s and S&P, or financial reporting submitted for Bidder or Guarantor
+        supports an Investment Grade rating. TNW must be a minimum of $144,000,000
+        to cover the full $7,200,000 credit package requirement.
+
+
+C.   Information Form Addendum
+     The Information Form Addendum template can be found on the RFP website at
+     www.dominionenergy.com/2020SolarWindRFP. The Proposal’s Information Form
+     Addendum must be provided in Microsoft Excel file format, and contain the information
+     requested as applicable to the Proposal. Please maintain the order and format of the
+     worksheets to facilitate the Company’s review of the Proposal.
+
+
+D.   Form Agreements
+     After a Bidder has successfully completed and submitted the Intent to Bid Form and
+                                                                                            25
+     fully- executed CA, the Company will provide access to the eRoom, which will contain the
+     Form Agreements. The Proposal must be accompanied by either (i) an affirmative
+     statement that Bidder is taking no exception to the Form Agreements provided pursuant
+     to this RFP; or (ii) a fully marked-up Form Agreement that is reflective of its bid, and that
+     Bidder deems execution- ready. This is critical for the Company to properly evaluate a
+     Proposal, and to ensure the Company can conclude the RFP process in a timely manner.
+     Any proposed revisions to the Form Agreements must be clearly marked with specific
+     language detailing any such revisions and the accompanying rationale therefor.
+     Proposals with incomplete Form Agreement revisions, edits and/or accompanying
+     rationale, or that rely on future negotiations to finalize may be deemed non-responsive
+     and subject to rejection by Dominion Energy Virginia. While proposed revisions to the
+     Form Agreements may be considered, Proposals that minimize such revisions will receive
+     preference in the evaluation process.
+
+     In the case of clause (ii) above, Bidder’s Proposal must contain two Form Agreement
+     submittal files. The first shall be a file in Microsoft Word or Adobe Acrobat PDF file
+     format that reflects all the proposed edits to the Form Agreement, as redline marks. The
+     second shall be a file in Microsoft Word format that is a “clean” version, reflecting
+     acceptance of all proposed edits. Reasons or explanations for proposed edits can be
+     included in the text of the documents, or as a separate file.
+
+
+E.   Planned Development and Construction Schedule
+     Bidder shall provide a Planned Development and Construction Schedule in Adobe
+     Acrobat PDF file format, which should include:
+
+            a. Permitting activities for each major permit
+
+            b. Certificate of Public Convenience and Necessity (“CPCN”) and/or DEQ Permit
+                by Rule process (for PPA Proposals)
+
+            c. Interconnection Process and Schedule
+
+            d. Major Equipment Procurement (for PPA Proposals)
+                                                                                                26
+e. Engineering, Procurement and Construction Bid and Award Process (for PPA
+     Proposals)
+
+f.   Construction & Commissioning Schedule (for PPA Proposals)
+
+g. Commercial Operations Date
+
+
+
+
+                                                                          27
+

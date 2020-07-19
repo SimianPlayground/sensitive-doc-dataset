@@ -1,0 +1,924 @@
+       Request for Proposal
+
+Contract Management System
+               (RFP #321D)
+
+
+
+
+     South Orange County Community District
+             28000 Marguerite Parkway
+ Saddleback College Health Sciences Building, 3rd Floor
+                Mission Viejo, CA 92692
+
+
+
+
+    Responses Due: 2:00 PM, February 2, 2015
+
+
+
+
+                                                     Page 1 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                                                  RFP #321D
+
+
+
+                                             Request for Proposal
+                                         Contract Management System
+
+                                                           RFP #321D
+
+Table of Contents
+
+
+
+Introduction ............................................................................................................................ 3
+
+Profile of the South Orange County Community District ................................................................ 3
+
+The Intent of the District ........................................................................................................... 3
+
+Procurement Process ................................................................................................................ 3
+
+RFP Instructions and Requirements ............................................................................................ 4
+
+Existing Applications and Information Technology at SOCCCD ....................................................... 8
+
+Important Facts ....................................................................................................................... 9
+
+Dates and Timeframes* ........................................................................................................... 10
+
+Critical Criteria for Proposed Software ....................................................................................... 11
+
+Supplementary Questions ........................................................................................................ 12
+
+Appendix A: Required Format for RFP Response ......................................................................... 13
+
+Affidavit of Non-Collusion ......................................................................................................... 16
+
+Proposal Form ........................................................................................................................ 17
+
+
+
+
+                                                                                                                          Page 2 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                    RFP #321D
+
+                                   Request for Proposal
+                               Contract Management System
+
+                                            RFP #321D
+
+
+Introduction
+
+The purpose of this document is to invite vendors to participate in the South Orange County Community
+District (District) procurement process for acquiring a Contract Management System. In particular, the
+goal is to solicit proposals for products and services that address the District’s needs. The District’s
+preference is for a Software as a Service (SaaS) solution.
+
+
+Profile of the South Orange County Community District
+
+South Orange County Community District encompasses 382 square miles in South Orange County
+serving over 909,000 residents in 26 communities. We know that higher education is directly linked to
+quality of life and economic vitality. We have helped generations of families achieve their educational
+and career goals since 1967.
+
+This multi-campus district is comprised of Saddleback College in the City of Mission Viejo (1967), Irvine
+Valley College in the city of Irvine (1985) and Advanced Technology Education Park (2007) in the city
+of Tustin.
+
+The District is governed by a seven-member elected Board of Trustees and the district's chief executive
+officer is the Chancellor.
+
+District Services provides centralized administrative services to our three campuses including:
+Chancellor and Trustee Services, Business Services, Technology and Learning Services, and Human
+Resources. These departments provide accounting, benefits, facilities planning, fiscal services, human
+resources, information technology, institutional research and planning, payroll, public affairs,
+purchasing, risk management, and warehouse/mailroom services to our district.
+
+The district continually assesses the effectiveness of its services through district-wide surveys, shared
+governance committees and task forces that are established to accomplish specific projects. Strategic
+planning is an essential tool for guiding our direction and assuring compliance with accreditation
+standards.
+
+
+The Intent of the District
+
+The District is seeking vendor proposals for the procurement, implementation, and ongoing success of
+a Contract Management System that will also integrate into an electronic signature system. In addition,
+the District seeks professional services to assist in the implementation.
+
+
+Procurement Process
+
+This RFP and any resulting contract or awards shall be governed by the Section 81645 of the State of
+California Education Code. As such, the following shall apply:
+
+“The governing board of any community college District may contract with a party who has submitted
+one of the three lowest responsible competitive proposals or competitive bids, for the acquisition,
+procurement, or maintenance of electronic data processing systems and equipment, electronic
+telecommunications equipment, supporting software, and related materials, goods, and services, in
+
+
+
+                                                                                            Page 3 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                      RFP #321D
+
+accordance with procedures, and criteria established by the governing board.” The District’s
+procurement process will entail four major steps:
+
+Step One:
+Vendors will be invited to submit proposals in response to this RFP. Proposals must, at a minimum, meet
+the District’s mandatory requirements as listed in the “Critical Criteria for Proposed Software”
+section of this RFP and should focus on products and services that best satisfy the District’s needs, as
+presented in this RFP. No cost information is desired from vendors in Step One of the procurement
+process.
+
+Step Two:
+The District evaluation committee will evaluate vendors’ written responses with respect to the District’s
+needs and critical criteria, as presented in this RFP. Qualified vendors will be invited to continue in the
+procurement process.
+
+Step Three:
+Qualified vendors will be asked to perform product demonstrations. Such demonstrations will be based
+upon the District’s specific functional needs and requirements.
+
+Step Four:
+After a thorough evaluation of vendors’ proposals and onsite demonstrations, the District will solicit
+proposed pricing from qualified vendors. Furthermore, the District may ask qualified vendors to refine
+their proposals for various products and services. At the conclusion of such a process, the District
+anticipates they will make a final recommendation to the District’s Governing Board to authorize a
+contract.
+
+
+RFP Instructions and Requirements
+
+Below are instructions and requirements for all vendors. The District will not consider a vendor’s proposal
+unless it is consistent with all material instructions and requirements.
+   The District has engaged the services of Strata Information Group (SIG) to assist in this procurement
+    process. All vendors shall consider Henry Eimstad or Harold George of SIG as sole point of contact
+    for all communication throughout the entire evaluation process. Henry or Harold can be reached at:
+
+        Henry Eimstad                                   Harold George
+        Partner                                         General Manger, Professional Services
+        Strata Information Group                        Strata Information Group
+        3935 Harney St, Suite 203                       3935 Harney St, Suite 203
+        San Diego, CA 92110                             San Diego, CA 92110
+        619-719-2483 - Cell                             210-364-1349 – Cell
+        eimstad@sigcorp.com-Email                       george@sigcorp.com-Email
+
+
+
+
+                                                                                             Page 4 of 17
+South Orange County Community College District
+Enterprise Finance, Human Resources, Payroll Software and Related Services              RFP #301D
+
+
+PROPOSAL INFORMATION:
+
+        Submittal Deadline:       2:00 PM, Monday, February 2, 2015
+
+        Place of Bid Receipt:     SOCCCD – Facilities Planning and Purchasing Department
+                                  Saddleback College
+                                  Third Floor, Heath Sciences Building
+                                  28000 Marguerite Parkway
+                                  Mission Viejo, CA 92692-3635
+
+        Mailing Address:          South Orange County Community College District
+                                  Attn: Brandye D’Lena
+                                  Executive Director of Facilities Planning and Purchasing
+                                  28000 Marguerite Parkway
+                                  Mission Viejo, CA 92692-3635
+
+Proposals will be received up to the above-indicated time and date. Late proposals will not be accepted
+and will be returned unopened. Proposals may be delivered in person, by U.S. mail, or courier services.
+Fax proposals are not acceptable. Proposals must be submitted in an envelope plainly marked with the
+following information: Contract Management System (SOCCCD RFP #321D)
+
+Proposals shall be binding upon the provider for 180 calendar days following the award recommendation
+date. All terms and specifications included in or appended to this solicitation apply to any subsequent
+award.
+
+Number of Copies: Submit ten (10) copies of the proposal. An electronic copy in MS-Word and PDF
+formats on a flash drive must also be provided. Brochures and other promotional materials are not
+necessary unless you consider them to be the only way to convey your services.
+
+   Each proposal shall conform to the format presented in Appendix A. Proposals shall include tabs at
+    each identified section and all information shall be presented in the order that is identified in
+    Appendix A.
+
+   Each proposal shall include a Non Collusion Declaration signed by the vendor with his/her usual
+    longhand signature. Proposals by partnerships must include the names of all partners and be signed
+    in the partnership name by a general partner with the authority to bind the partnership in all relevant
+    matters. Proposals by corporations must include the legal name of the corporation followed by the
+    signature of a person who is authorized to bind the corporation. The name of each signatory shall
+    be typed or printed below the signature. When requested by the District, satisfactory evidence of
+    the authority of all those who signed the proposal shall be furnished.
+
+   Proposals may be withdrawn by a vendor prior to February 2, 2015, by submitting a written request
+    to the District. Thereafter, a vendor shall not be relieved of the proposal submitted without the
+    District’s consent or vendor’s recourse to Public Contract Code 5100 et seq.
+
+   All addenda issued prior to February 2, 2015, shall form a part of the specifications issued to vendors
+    for the preparation of their proposals and will be made available on the district’s bid website.
+
+   The District reserves the right to reject any or all proposals, or any portion or combination thereof.
+    In addition, the District reserves the right to waive any irregularity or informality within the proposal
+    or procurement process.
+
+   Section 508 Compliance statement: Vendors bidding on this proposal must be willing to accept the
+    following statement as part of any agreements that may be entered into with the District’s: “Vendor
+    hereby warrants that the products or services to be provided under this agreement comply with the
+    accessibility requirements of section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C.
+    § 794d), and its implementing regulations set forth at Tile 36, Code of Federal Regulations, part
+    1194. Vendor agrees to promptly respond to and resolve any complaint regarding accessibility of its
+
+
+                                                                                    Page 5 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                      RFP #321D
+
+    products or services, which is brought to its attention. Vendor further agrees to indemnify and hold
+    harmless the South Orange County Community College District, the Chancellor’s Office of the
+    California Community Districts, and any California community District using the vendor’s products
+    or services from any claim rising out of its failure to comply with the aforesaid requirements. Failure
+    to comply with these requirements shall constitute a breach and be grounds for termination of this
+    agreement.”
+
+   The award of a contract to a qualified vendor, if made by the District, will be based upon a
+    comprehensive review and analysis of each proposal. The District shall be the sole judge of the
+    merits of proposed products and services. The District, alone, shall determine its best interests and
+    act accordingly. All vendors shall abide by the decisions of the District.
+
+   Upon the District’s request, a vendor shall submit satisfactory documentation of its financial
+    resources, experience in providing relevant products/services, personnel who are available to
+    perform with respect to the proposed contract and any other desired evidence of the vendor’s
+    qualifications.
+
+   Vendors are entirely responsible for any expenses that are associated with their participation in the
+    procurement process. The District shall have no responsibility.
+
+   The District reserves the right to perform whatever research it deems appropriate in order to assess
+    the merits of any vendor’s proposal. Such research may include, but not necessarily be limited to,
+    discussions with outside consultants, interviews with the vendor’s existing clients and analysis of
+    industry reports.
+
+   The District reserves the right to seek clarifications and follow up information from vendors.
+
+   Vendors are hereby advised that the District is bound by open records laws and policies when it
+    receives vendor-submitted materials. Any information that constitutes a trade secret and that a
+    vendor wishes to declare confidential should not be included in the RFP response.
+
+   In the event of litigation, the related matters shall be governed by and construed in accordance with
+    the law of the State of California. The venue shall be with the appropriate state or federal court
+    located in Orange County, California.
+
+   The vendor selected by the District will be required to execute a formal contractual agreement based
+    upon the terms and conditions included in this RFP. A draft contract may be provided as
+    consideration in the development of the Agreement. All contract documents are subject to the
+    approval of the District and its legal counsel. Electronic approval of terms and conditions upon sign-
+    in will not be binding. All contract amendments must be fully executed between those identified as
+    signatory by each party.
+
+   Each vendor and subcontractor, if any, must possess all appropriate and required licenses or other
+    permits to perform the work as identified in the contract documents. Upon request, each vendor
+    shall furnish the District with evidence demonstrating possession of required licenses and/or
+    permits.
+
+   The vendor shall not discriminate against any prospective or active employee engaged to perform
+    any work because of race, color, ancestry, national origin, religious creed, sex, age, disability or
+    marital status. The vendor agrees to comply with applicable federal and State laws including, but
+    not limited to, the California Fair Employment and Housing Act, beginning with Government Code
+    Section 12900, and Labor Code Section 1735. In addition, the vendor agrees to require compliance
+    with this provision by any subcontractor.
+
+   No interest in the contract shall be transferred to any other party without the permission of the
+    District’s Governing Board.
+
+   Any award that arises out of the procurement process shall be governed by the laws of the State of
+    California.
+
+
+                                                                                             Page 6 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                        RFP #321D
+
+   The vendor agrees to indemnify and hold harmless the District from any claim that arises out of its
+    failure to comply with the Rehabilitation Act of 1973, as amended.
+
+   In accordance with the provisions of Section 3700 of the Labor Code, the successful vendor shall
+    secure the payment of compensation to its employees. The vendor hereby acknowledges, and by
+    submitting a proposal agrees, to the following statement:
+
+        "I am aware of the provisions of Section 3700 of the Labor Code which require every employer
+        to be insured against liability for worker's compensation or to undertake self-insurance in
+        accordance with the provisions of that code, and I will comply with such provisions before
+        commencing the performance of the work of this contract documents.”
+
+   Insurance: Vendor shall not commence work until it has obtained the insurance required herein and
+    has submitted proof of such coverage to the District. Vendor shall not allow any subcontractor,
+    agent, or employee to commence work on the contract without proof of same. Coverage must be
+    secured and maintained for the duration of the contract.
+
+    (a) Workers’ Compensation Insurance not less than the statutory limits and including employer’s
+        liability coverage limits not less than $1,000,000.
+    (b) Comprehensive Commercial General Liability Insurance with limits not less than $1,000,000 per
+        occurrence.
+    (c) Comprehensive Automobile Liability Insurance with limits not less than $1,000,000 per
+        occurrence for all owned, non-owned and hired vehicles.
+
+    The insurance certificates for (b) and (c) must list the District as additional insured, as follows:
+    South Orange County Community College District, its Board of Trustees, officers, agents,
+    representatives, employees, and volunteers are added as additional insured. The certificate
+    must include a copy of the additional insured endorsement that amends the insurance policy.
+
+   The District does not discriminate with regard to race, color, gender, national origin, or disability
+    in the awarding of contracts.
+
+   The District encourages the submission of proposals from all vendors who can meet the
+    mandatory requirements set forth in this RFP.
+
+
+
+
+                                          Left Intentionally Blank
+
+
+
+
+                                                                                               Page 7 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                       RFP #321D
+
+
+Existing Applications and Information Technology at SOCCCD
+
+General Background
+
+SOCCCD supports a portfolio of administrative applications that provide services district-wide to
+students, faculty, and staff. This portfolio includes a complete Student Information System, Human
+Resources system, Financial system, Financial Aid system, Library automation system, Learning
+Management System, and Enterprise Content Management System. In order to simplify management
+of the systems and minimize expense, SOCCCD IT has standardized on a Windows Server and SQL
+Server environment with web client access whenever possible.
+
+Web Systems Information
+
+Many systems at SOCCCD provide services through a web browser. Most SIS functionality is delivered
+through MySite, a web-based portal for students, faculty, and staff. HCM is completely web-based.
+PowerFaids has a student-facing web portal. The Sirsi library system has a web portal for patrons.
+ImageNow provides web clients in addition to full Windows clients. The Blackboard LMS is completely
+web-based.
+
+Current Application Software Supported
+
+
+ Systems Name             Source               Areas Directly Supported         Functional Description
+
+Student      Information Locally developed     Students, faculty, staff        Comprehensive             software
+System (SIS)                                                                   application which automates many
+                                                                               functions in Student Services and
+                                                                               Instruction   at   the    colleges.
+                                                                               Services are provided to students,
+                                                                               faculty, and staff through a
+                                                                               common portal.
+Finance (FDM)            Workday               Purchasing (central Purchasing Software in support of purchasing
+(being implemented)                            and all offices/departments), and accounting
+                                               Business Services
+HR/Payroll (HCM)         Workday               HR, Payroll Business Services, Software in support of HR
+(being implemented)                            College fiscal offices         functions, budget development,
+                                                                              and local payroll processes
+PowerFaids               College Board         Financial Aid offices           Financial Aid software used to
+                                                                               automate all aspects of the college
+                                                                               financial aid offices
+Sirsi Unicorn            SirsiDynix            Library staff and students      Library    automation        system
+                                                                               supporting all library functions
+ImageNow                 Perceptive Software   Financial Aid offices, Admissions Enterprise-wide       document
+                                               and Records offices, student management           and    workflow
+                                               services, instruction             system
+Blackboard LMS           Blackboard            Students, faculty               Learning management system for
+                                                                               students
+PeopleAdmin              PeopleAdmin           Applicant Tracking, Position Comprehensive Software as a
+                                               Description,     Performance Service    for    managing      all
+                                               Management                   Employment      Applications   and
+                                                                            associated Position Descriptions
+                                                                            and for managing performance
+                                                                            evaluations for Administrators and
+                                                                            Managers.
+
+
+
+
+                                                                                               Page 8 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                          RFP #321D
+
+
+ Systems Name            Source                  Areas Directly Supported         Functional Description
+
+Raiser’s Edge            Blackbaud              College Foundation Offices        Fundraising Management solution
+                                                                                  for nonprofits which includes a
+                                                                                  database     of    donor    and
+                                                                                  contribution records. It also
+                                                                                  includes modules for Alumni
+                                                                                  Tracking and Events Management.
+SchoolDude               SchoolDude             Capital Planning,   Facilities A    Computerized     Maintenance
+                                                Management and Operations      Management System (CMMS) for
+                                                                               capital planning, inventory, work
+                                                                               orders, preventive maintenance,
+                                                                               and management of building
+                                                                               automation systems
+FUSION                   Foundation       for Space Inventory Management,         A web based suite to support the
+                         California Community Facilities         Assessments,     integrated     management     and
+                         Colleges             Enrollment          Forecasting,    reporting on California Community
+                                              Facilities Planning and Project     College facilities throughout the
+                                              Fiscal Management                   state.
+SharePoint               Microsoft              Faculty and Staff                 A general purpose collaboration
+                                                                                  solution for information sharing
+                                                                                  and communication
+inForm Data Warehouse    Based on Microsoft College           and       District A general purpose data warehouse
+                         Business intelligence Researchers,      administrators, containing student, staff, and
+                         stack                 faculty and staff                 financial data, along with research
+                                                                                 tools and reports. Also used for
+                                                                                 state reporting.
+
+
+Important Facts
+
+ Websites                             http://www.socccd.edu,                        http://www.saddleback.edu,
+                                      http://www.ivc.edu
+ Number of Full-Time Faculty          350
+ Number of Part-Time Faculty          1,047
+ Number        of      Academic       109
+ Administrators and Classified
+ Administrators/Managers
+ Number of Regular Classified FT      538
+ and PT Employees
+ Number of Short-term Temporary       879
+ Classified Employees
+ Major Sites                          South Orange County Community College District
+                                      Saddleback College, Mission Viejo, CA
+                                      Irvine Valley College, Irvine, CA
+                                      Advanced Technology and Education Park (ATEP), Tustin, CA
+ Accreditation                        Western Association of Schools and Colleges (WASC)
+ Fall     2011          Enrollment    42,151 Headcount
+ (Headcount)(FTES)                    27828 FTES 2011–2012
+ FY   2012–2013      Unrestricted     $201 million
+ General Fund Budget
+
+
+
+
+                                                                                                 Page 9 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                     RFP #321D
+
+Dates and Timeframes*
+*All Dates are subject to change at the discretion of the District
+
+ Event                                                                        Date/Timeframe
+
+ Release of RFP                                                               January 16, 2015
+ Deadline for vendors’ questions to District                                  January 26, 2015
+ Deadline for District to respond to vendor questions                         January 28, 2015
+ Deadline for vendors’ submission of proposals                                February 2, 2015
+ Selection of vendors who will be invited to give onsite demonstrations       February 12, 2015
+ On-site vendor demonstrations and presentations                              TBD
+ Request for Pricing Proposals issued                                         TBD
+ Pricing Proposals Due                                                        TBD
+ Finalization of contract terms and pricing                                   TBD
+ Approval of contract award by the District’s Board                           TBD
+
+All questions should be submitted to Harold George of SIG, george@sigcorp.com – Email, in writing by
+the deadline indicated above. Written answers to questions will be distributed to all vendors on or before
+January 26, 2015.
+
+Vendors are strongly encouraged to schedule their resources according to the above dates and
+timeframes.
+
+
+
+
+                                                                                           Page 10 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                       RFP #321D
+
+Critical Criteria for Proposed Software
+
+Description of the District’s current contract development environment
+Currently, the District's contract templates are stored on SharePoint in either Word or PDF format. At
+the most basic level, users at the each of the three colleges or the District office download the contract,
+enter information such as vendor name, contract term, a scope of work description, and contract
+amount. At the colleges, contracts are reviewed by the college business office or other parties, approved
+by appropriate college officials, and sent to District office, typically via email, for review and approval.
+Once executed, contracts are forwarded to the vendor, stored on the District server, and attached as
+an image to the District’s electronic Purchase Order. The District does not have any reporting, version
+control, standard file naming conventions, or standard storage locations for its contract. The District is
+implementing Workday HCM and FDM, and will have some capabilities through system workflow to
+perform final approval and encumber against approved contract. For the most part, the District and the
+Colleges use standard contract templates. Standard terms and conditions typically don’t change between
+templates and minimal negotiation occurs with vendors. However, the District does use some contracts,
+long-term facilities use agreements or other vendor supplied contracts, for instance, where contract
+specifics may be negotiated with a vendor, revised to meet district requirements and/or go through
+district and/legal review and refinement. When a contract is in negotiations, multiple parties such as the
+vendor, vendor’s legal counsel, the District, and District’s legal counsel, as well as the initiating
+department might enter or edit contract data. Microsoft Word change-tracking is used to track activity.
+This can be a lengthy process. Dealing with various versions and persons providing input gets
+complicated, time-consuming, and confusing. The District desires to make this versioning process more
+user-friendly, efficient, and to significantly reduce processing time to achieve the final product.
+Description of the District’s requirements for a new Contract Management System
+The District wishes to update its contract management tools and procedures in order to provide greater
+efficiency, tracking, and visibility. As such, a new contract management system should provide for the
+following:
+   The creation, modification, secure storage, and electronic workflow/approval routing of contracts
+   Detailed and executive-level customizable reporting for contract expiration, contract value, and
+    contract type
+   The ability to update/upload contract templates in a variety of common file formats
+   The ability to apply electronic signatures either in parallel or sequence
+   Ability to search text within contracts
+   Document version control and the ability to compare versions and originators
+   The ability to route a contract outside of the District to vendors or legal counsel for the purpose of
+    review, editing, negotiation, and finalizing the document
+   The ability to store and link to a contract other related documents such as certificates of insurance,
+    bonds, scope of work, and/or other necessary exhibits
+   The ability to generate email notifications and reminders regarding contract status
+   The assignment of a dedicated account representative
+   Customer support during SOCCCD business hours for technical difficulties
+   Ability to manage other documents that may require multiple-party review, editing, and approvals
+   The ability to store a library of standard contract clauses that can be inserted into a contract as
+    needed is a plus
+   The ability to be integrated into Workday would be a plus.
+   Sample training materials need to be provided by Vendor for District review.
+   Proactively notify on contract expiration based on type of contract
+   Allow for role-based security and task assignments
+
+
+
+                                                                                             Page 11 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                         RFP #321D
+
+Scope of Work
+The scope of work for this project consists of the following primary tasks. The District requires that for
+all tasks, the Vendor assign a dedicated representative to work with the District and its project team
+through all phases of review, setup, planning, and training.
+    Review of District Business Model. The planning phase will include a Vendor review, in
+     consultation with the District’s project team, of the District’s current contracts business processes
+     and make recommendations to the District as to modifications to its processes based on best
+     practices and software functionality, including recommendation on which components of the
+     software would be utilized in Vendor’s software versus Workday. The goal is to ensure there are no
+     gaps in contracts management process between the two products, Vendor’s product and Workday.
+    Initial System Setup. In consultation with the District's project team, the Vendor will work with
+     the District to complete the initial setup of the system.
+    Planning/Implementation. The District expects that implementation will consist of an initial pilot
+     implementation and a subsequent phased rollout of the system throughout the District’s two colleges
+     and District services locations. In consultation with the District project team, the Vendor will develop
+     a pilot implementation plan and the first phase of a district-wide phased rollout. The District expects
+     that the Vendor will provide a dedicated representative to work directly with the District during the
+     pilot and initial implementation.
+     The pilot implementation will include an additional review of the system setup should it be necessary
+     to fine-tune the initial setup as described in “Initial System Setup“ above.
+    Training. The implementation phase will include Vendor-provided, face-to-face training for contract
+     management system administrators and pilot program participants. The Vendor will also propose an
+     additional training strategy including either face-to-face training or Web-based training for additional
+     users during the first phase of the District-wide rollout. On line training webinars are desirable for
+     ongoing training.
+    Implementation. Timeline should be provided by Vendor.
+Supplementary Questions
+
+The following questions are important with respect to the evaluation of proposals. Vendors should
+provide clear and detailed responses to each item.
+
+1.     Please provide detailed information about reference sites. We are specifically interested in your
+       most recent implementations. Please include the following:
+       a.   Names of institutions
+       b.   Contact names, titles, telephone numbers, and email addresses
+       c.   List of installed software products and the production status of each, when they were
+            implemented and which release.
+
+2.     Please organize the information about reference sites with respect to the following categories:
+       a.   California State and Private Universities
+       b.   California Community College District(s)
+       c.   Community college districts with multiple colleges
+       d.   State and Private Universities and Colleges
+
+3.     Please describe how your solution meets Section 508 accessibility requirements.
+
+4.     Please describe all available report writers, query tools, and other ancillary software.
+
+5.     Please describe any online training materials that the District should consider.
+
+6.     SOCCCD anticipates that this system may be integrated with Workday. Please describe your
+       approach to Workday integration.
+
+7.     Please describe your SaaS environment. Is it “Single or Multi” tenant?
+
+
+
+                                                                                              Page 12 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                               RFP #321D
+
+                         Appendix A: Required Format for RFP Response
+
+ Section 1: Executive Summary
+
+ Provide an executive summary that summarizes the proposal.
+
+
+
+
+ Section 2: Vendor Profile
+
+ Provide the following information:
+ (a) Name of vendor
+ (b) Vendor’s mailing address, telephone number, FAX number, and web site address
+ (c) Vendor’s primary contact person
+ (d) Primary contact person’s title, mailing address, telephone number(s), FAX number, and email
+       address
+ (e) Brief overview of the vendor’s company, products and services
+ (f) Identify proposed staff and provide resume’s
+
+
+
+
+ Section 3: Vendor’s Understanding of the RFP
+
+ (a)   Provide a statement that acknowledges the vendor’s understanding of the “Procurement Process” as
+       presented in the RFP.
+ (b)   Provide a statement that acknowledges the vendor’s understanding of the “RFP Instructions and
+       Requirements” as presented in the RFP.
+
+
+
+
+ Section 4: Critical Criteria for Proposed Software
+
+ Provide responses to each of the items within the “Critical Criteria for Proposed Software” section of the RFP.
+
+
+
+
+ Section 5: Proposed Software Products
+
+ Identify all application software that is proposed or required.
+
+
+
+
+ Section 6: Supplementary Questions
+
+ Provide a response to each of the items within the “Supplementary Questions” section of the RFP.
+
+
+
+
+ Section 7: Proposed Training and Implementation Services
+
+ (a) Describe the training and implementation support that is required, recommended, available or provided for
+     each proposed software product, including the database management system.
+ (b) Provide a suggested implementation schedule, including major milestones.
+ (c) Estimate the number of hours of vendor-provided professional services that are needed.
+ (d) Describe all additional services (e.g., remote technical support) that are required, recommended, and
+     available or provided for each proposed product.
+ (e) Provide information about national-, regional-, and state-specific Users Groups that are supported by your
+     company. Include contact information for Officers of those Users Groups.
+
+
+
+
+                                                                                                     Page 13 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                               RFP #321D
+
+
+ Section 8: Data Conversion and System Interfaces
+
+ (a)   Describe the products, utilities, processes and services that are recommended or needed for the conversion
+       or loading of the District’s existing data.
+ (b)   Identify a means of developing and maintaining interfaces between this system and Workday and the
+       District’s future enterprise systems during the implementation process.
+
+
+
+
+ Section 9: Software Maintenance and Enhancements
+
+ (a)   Describe the benefits, impacts, and schedules of new releases and modules. State the circumstances under
+       which such releases are mandatory or optional.
+ (b)   Describe, both during and after the warranty period, the procedures for obtaining product support.
+ (c)   Explain how custom modifications can be made by the vendor and/or District. In addition, describe the
+       alternative mechanisms for maintaining such modifications over time.
+
+
+
+
+ Section 10: Vendor’s Corporate Strength
+
+ Describe the vendor’s corporate history, market segment(s), client base, employee base, research and
+ development programs and financial well-being.
+
+
+
+
+ Section 11: Optional Products and Services
+
+ Describe, in detail, all optional products and services. Vendors are hereby advised that the District’s may want to
+ procure an optional item, but might not be able to do so if it is not formally declared in this section. Optional
+ products might include query tools, workflow systems, IVR solutions, utilities, documentation, training materials,
+ data warehouses, database technologies, security mechanisms, etc.
+
+
+
+
+ Section 12: Additional Information
+
+ Provide any additional information that the District should consider in its evaluation of proposals. This would
+ include a list of whether your company is currently involved in litigation with any of your clients. Do not provide
+ marketing brochures or generic information that does not meet your specific solution to this Request for Proposal.
+
+
+
+
+ Section 13: Acknowledgement of Addenda
+
+ Provide attached proposal form that acknowledges understanding and compliance with RFP conditions and
+ acknowledges the issuance and receipt of any RFP addenda, if applicable.
+
+
+
+
+ Section 14: Client References
+
+ Provide three client references for agencies/companies that are currently or in the past five years have used your
+ services. Community Colleges are preferred. A correlation between the proposed systems and the referenced
+ system is preferred.
+ For each client include:
+ Owner/Company/Agency Name:
+ Contact Person No. 1 and current telephone number: Business Services Executive
+ Contact Person No. 2 and current telephone number: IT Executive
+
+
+
+
+                                                                                                     Page 14 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                          RFP #321D
+
+
+  Section 15: Contact Information Page
+
+  Company Name:
+  Mailing Address:
+  City, State, and Zip Code:
+  Telephone Number:
+  FAX Number:
+  Name of Signatory):
+  Title of Signatory:
+
+
+  Individual             Name:
+
+                         Title:
+
+
+  Partnership            Name:
+
+                         Name     of   Signatory:   ___________________________________
+
+                         Title:
+
+
+  Corporation            Name:
+
+                         (a                Corporation)
+
+                         President: __________________________________________
+
+
+                         Secretary:        __________________________________________
+
+
+
+
+  [Seal]
+
+
+
+
+                                                                                 Page 15 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                               RFP #321D
+
+                                        Request for Proposal
+                                         SOCCCD No. 321D
+
+                                 Contract Management System
+                                 Software as a Service (SaaS)
+                                  NON-COLLUSION DECLARATION
+
+
+
+
+The prospective Vendor must sign the Affidavit and provide the information required of Vendor as
+outlined.
+
+       NON-COLLUSION DECLARATION
+
+       I hereby swear (or affirm) under the penalty of perjury:
+
+       1. That I am the Vendor; a partner, an officer or an employee of the responding
+          company/corporation having authority to sign on its behalf;
+
+       2. That the attached proposal or proposals have been arrived at by the Vendor independently,
+          and have been submitted without collusion and without any agreement, understanding, or
+          planned common course of action with any other Vendor or materials, supplies, equipment
+          or services described in the Request for Proposal designed to limit independent offers or
+          competition;
+
+       3. That I have fully informed myself regarding the accuracy of the statements made in the
+          affidavit.
+
+
+
+
+ Declared this
+
+          of            ,
+                                                               Signature
+
+
+
+
+                                                               Firm Name
+
+
+
+
+                                                               Date
+
+
+
+
+                                                                                     Page 16 of 17
+South Orange County Community College District
+Contract Management System – Software as a Service (SaaS)                                RFP #321D
+
+                                        Request for Proposal
+                                       SOCCCD Number 321D
+
+                                  Contract Management System
+                                  Software as a Service (SaaS)
+
+                                          PROPOSAL FORM
+
+
+Director of Facilities Planning and Purchasing
+South Orange County Community College District
+28000 Marguerite Parkway
+Mission Viejo, CA 92629-3635
+
+In compliance with this Request for Proposal, the undersigned acknowledges that I have read and
+understand all the conditions imposed herein and have received Addenda numbers
+and agree to furnish the services in accordance with the attached proposal or as mutually agreed upon
+by subsequent negotiation.
+
+
+
+
+Name of Firm:
+
+
+Address:
+
+
+City:
+
+
+State & Zip:
+
+
+Telephone:
+
+
+
+Name:
+
+Signature:
+
+Title:
+
+Date:
+
+
+
+
+                                                                                       Page 17 of 17
+

@@ -1,0 +1,595 @@
+    City of Sherman, Texas
+          PO Box 1106
+   Sherman, TX 75091-1106
+
+
+
+
+       Request for Proposal
+          No. 2019-12
+
+Community Development Software
+
+
+
+
+                1
+
+                                 1
+                             CITY OF SHERMAN
+                            TABLE OF CONTENTS
+
+              REQUEST FOR PROPOSAL – NO 2019-12;
+
+                  Community Development Software
+
+Document                                           Page No.
+  Instructions to Bidders                                3
+  Notice to Bidders                                      4
+  General Conditions                                     5
+  Specifications                                         9
+  Evaluation Criteria                                   11
+  Form 1295                                             12
+  Form TGC 2270                                         13
+
+
+
+
+                                    1
+
+                                                              2
+                                 CITY OF SHERMAN, TEXAS
+
+                                     FINANCE DEPARTMENT
+
+
+REQUEST FOR PROPOSAL - BID NO. 2019-12; Community Development Software
+
+The enclosed REQUEST FOR PROPOSAL (RFP) and accompanying SPECIFICATIONS are for your
+convenience in bidding the enclosed referenced Community Development Software for the City of
+Sherman.
+
+Questions may be addressed to the Finance Department at the address listed below. The bids will be
+opened at 2:00 p.m. on Monday, May 13, 2019, at the following address:
+
+                               City of Sherman – Finance Department
+                                          Municipal Building
+                                          405 N. Rusk Street
+                                             Sherman, TX
+                                             903-892-7215
+                                       craigl@ci.sherman.tx.us
+
+Bids may be submitted by mail to the following address:
+
+                                         City of Sherman
+              Finance Dept. – RFP for Community Development Software No. 2019-12
+                                          P.O. Box 1106
+                                     Sherman, TX 75091-1106
+
+                                                  OR
+
+                             Electronically at www.publicpurchase.com
+
+                                                  OR
+
+                     By delivery at the Municipal Building address listed above.
+
+
+
+
+                                                   4
+
+                                                                                            3
+                                           NOTICE TO BIDDERS
+
+Bids will be received by the City of Sherman, Sherman, Texas, at the Finance Department, Attention:
+Craig Long, Sherman Municipal Building, 405 N. Rusk, Sherman, Texas 75091 until the hour 2:00 PM on
+the 13TH day of May, 2019, at which time bids duly delivered and submitted will be considered for
+supplying the following:
+
+                         BID NO. 2019-12 Community Development Software
+
+Any bid received after stated closing time will be returned unopened. If bids are sent by mail to the
+Finance Department, the bidder shall be responsible for actual delivery of the bid before the advertised
+date and hour for opening of bids. If mail is delayed by the postal service, courier service, or an ISP
+– internet service provider beyond the date and hour set for the bid opening, bids thus delayed will not
+be considered and will be returned unopened.
+
+Information concerning the bid specifications or bid process/procedures may be submitted in
+writing to Craig Long, Budget Analyst at craigl@ci.sherman.tx.us or via phone at (903) 892-
+7215. Emails to Craig should also copy Kathy Bass, at kathyb@ci.sherman.tx.us.
+
+Until the final awarding by the city of Sherman, said City reserves the right to reject any and/or all bids,
+to waive technicalities, to re-advertise, to proceed otherwise when the best interests of said City will
+be realized hereby. Bids will be submitted sealed and plainly marked with the date and time of
+opening.
+
+
+
+
+  Publication Dates: Sunday April 21, 2019
+                     Sunday April 28, 2019
+
+  Closing Date:         Monday May 13, 2019
+
+
+
+
+                                                       5
+
+                                                                                                          4
+                                        CITY OF SHERMAN
+                                       GENERAL CONDITIONS
+
+
+FUNDING: Funds for payment have been provided through the City of Sherman budget approved by
+the City Council for this fiscal year only. State of Texas statutes prohibit the obligation and
+expenditure of public funds beyond the fiscal year for which a budget has been approved. Therefore,
+anticipated orders or other obligations that may arise past the end of the current fiscal year shall be
+subject to budget approval.
+
+LATE BIDS: Bids received in the City of Sherman Finance Department after submission deadline will
+be considered void and unacceptable. The City of Sherman is not responsible for lateness or non-
+delivery of mail, carrier, etc., and the date/time stamp in the Finance Department shall be the official
+time of receipt.
+
+ALTERING BIDS: Bids cannot be altered or amended after submission deadline. Any interlineations,
+alteration, or erasure made before opening time must be initialed by the signer of the bid,
+guaranteeing authenticity.
+
+WITHDRAWAL OF BID: A bid may not be withdrawn or canceled by the Contractor without the
+permission of the City for a period of ninety (90) days following the date designated for the receipt of
+bids, and Contractor so agrees upon submittal of their bid.
+
+SALES TAX: The City of Sherman is exempt by law from payment of Texas State Sales Tax and
+Federal Excise Tax. Contractor shall include any sales taxes from concession sales of taxable items
+on City property in the total price of the sale, and shall be responsible to report and pay such taxes in
+a timely manner.
+
+BID AWARD: The City of Sherman reserves the right to award in the best interest of the City.
+Purchase price will not be the only consideration in making the award. Contractors will be evaluated
+on the basis of purchase price, the reputation of the Contractor and of the Contractor’s goods or
+services, the quality of the Contractor’s goods or services, the Contractor’s past relationship with the
+City of Sherman, the total long-term cost to the City of Sherman to acquire the Contractor’s goods or
+services and any relevant criteria specifically listed within this request for bids. In addition,
+Contractors must not be in arrears in the payment of taxes or other liabilities due the City of Sherman
+at the time of bid submittal. The City of Sherman also reserves the right to not award.
+
+CONTRACT: This bid, when properly accepted by the City of Sherman, shall constitute a Contract
+equally binding between the successful Contractor and the City. No different or additional terms will
+become a part of this Contract with the exception of Change Orders.
+
+CHANGE ORDERS: No oral statement of any individual shall modify or otherwise change, or affect
+the terms, conditions or Specifications stated in the resulting Contract. All Change Orders to the
+Contract will be made in writing by the City’s Finance Department.
+
+DELIVERY: All delivery and freight charges (F.O.B. City of Sherman) are to be included in the bid
+price.
+CONFLICT OF INTEREST: No public official shall have interest in this Contract, in accordance with
+Vernon’s Texas Codes Annotated, Local Government Code Title 5. Subtitle C, Chapter 171.
+
+DISCLOSURE OF CERTAIN RELATIONSHIPS Effective January 1, 2008 Chapter 176 of the Texas
+Local Government Code requires that any vendor or person considering doing business with a local
+government entity disclose in the Questionnaire Form CIQ, the vendor or person’s affiliation or
+business relationship that might cause a conflict of interest with a local government entity. By law, this
+questionnaire must be filed with the records administrator of the City of Sherman not later that the 7th
+
+                                                    6
+
+                                                                                                    5
+business day after the date the person becomes aware of facts that require the statement to be filed.
+See Section 176.006, Local Government Code. A person commits an offence if the person violates
+Section 176.006, Local Government Code. An offense under this section is a Class C misdemeanor.
+The forms required to comply with Chapter 176 are available at
+http://www.ethics.state.tx.us/forms.CIS.pdf.
+
+ETHICS: The Contractor shall not offer or accept gifts of anything of value nor enter into any business
+arrangement with any employee, official or agent of the City of Sherman.
+
+EXCEPTIONS/SUBSTITUTIONS: All bids meeting the intent of this Invitation for Bid will be
+considered for award. Contractors taking exception to the Specifications, or offering substitutions,
+shall state these exceptions in the section provided or by attachment as part of the bid. In the
+absence of such, a list shall indicate that the Contractor has not taken exceptions and shall hold the
+Contractor responsible to perform in strict accordance with the Specifications of the ITB. The City of
+Sherman reserves the right to accept any and all, or none, of the exception(s)/substitution(s) deemed
+to be in the best interest of the City.
+
+ADDENDA: Any interpretations, corrections or changes to this Invitation for Bid and Specifications
+will be made by addenda. Sole issuing authority of addenda shall be vested in the City of Sherman
+Finance Department. Addenda will be available on the city’s website and on the Public Purchase
+website. Contractors who received an email notification of the ITB availability on the City’s website or
+who are registered with Public Purchase will receive notification when addenda are posted.
+
+BID MUST COMPLY with all federal, state, county, and local laws concerning these types of
+service(s).
+
+DESIGN, STRENGTH, QUALITY of materials must conform to the highest standards of
+manufacturing and engineering practice.
+All items supplied against credit must be new and unused, unless otherwise specified, in first-class
+condition and of current manufacturer.
+
+MINUMUM STANDARDS FOR RESPONSIBLE PROSPECTIVE CONTRACTORS: A prospective
+Contractor must affirmatively demonstrate Contractor’s responsibility. A prospective Contractor must
+meet the following requirements:
+1. Have adequate financial resources, or the ability to obtain such resources as required;
+2. Be able to comply with the required or bid delivery schedule;
+3. Have a satisfactory record of performance;
+4. Have a satisfactory record of integrity and ethics;
+5. Be otherwise qualified and eligible to receive an award.
+
+The City may request representation and other information sufficient to determine Contractor’s ability
+to meet these minimum standards listed above.
+
+CONTRACTOR SHALL PROVIDE with this bid response, all documentation required by this
+Invitation for Bid. Failure to provide this information may result in rejection of bid.
+
+SUCCESSFUL CONTRACTOR SHALL defend, indemnify and save harmless the City of Sherman
+and all its officers, agents and employees from all suits, actions, or other claims of any character,
+name and description brought for or on account of any injuries or damages received or sustained by
+any person, persons, or property on account of any negligent act or fault of the successful Contractor,
+or of any agent, employee, subcontractor or Contractor in the execution of, or performance under,
+any Contract which may result from bid award. Successful Contractor indemnifies and will indemnify
+and save harmless the City from liability, claim or demand on their part, agents, servants, customers,
+and/or employees whether such liability, claim or demand arise from event or casualty happening or
+
+
+                                                    7
+
+                                                                                                   6
+within the occupied premises themselves or happening upon or in any of the halls, elevators,
+entrances, stairways or approaches of or to the facilities within which the occupied premises are
+located. Successful Contractor shall pay any judgment with costs which may be obtained against the
+City growing out of such injury or damages. In addition, Contractor shall obtain and file with
+Owner City of Sherman a Standard Certificate of Insurance and applicable policy endorsement
+evidencing the required coverage and naming the owner City of Sherman as an additional
+insured on the required coverage.
+
+WAGES: Successful Contractor shall pay or cause to be paid, without cost or expense to the City of
+Sherman, all Social Security, Unemployment and Federal Income Withholding Taxes of all such
+employees and all such employees shall be paid wages and benefits as required by Federal and/or
+State Law.
+
+TERMINATION OF CONTRACT: This Contract shall remain in effect until Contract expires including
+renewals, delivery and acceptance of products and/or performance of services ordered or terminated
+by either party with a thirty (30) day written notice prior to any cancellation. The successful Contractor
+must state therein the reasons for such cancellation. The City of Sherman reserves the right to award
+canceled Contract to next lowest and best Contractor as it deems to be in the best interest of the City
+of Sherman.
+
+TERMINATION FOR DEFAULT: The City of Sherman reserves the right to enforce the performance
+of this Contract in any manner prescribed by law or deemed to be in the best interest of the City in the
+event of breach or default of this Contract. The City of Sherman reserves the right to terminate the
+Contract immediately in the event the successful Contractor fails to:
+
+1. Meet schedules;
+2. Defaults in the payment of any fees; or
+3. Otherwise perform in accordance with the Specifications and Conditions in the Invitation to Bid.
+
+Breach of Contract or default authorizes the City of Sherman to exercise any or all of the following
+rights:
+1. The City may take possession of the assigned premises and any fees accrued or becoming due to
+date;
+2. The City may take possession of all goods, fixtures and materials of successful Contractor therein
+and may foreclose its lien against such personal property, applying the proceeds toward fees due or
+thereafter becoming due.
+
+Contractor, in submitting this bid, agrees that the City of Sherman shall not be liable to prosecution
+for damages in the event that the City declares the Contractor in default.
+
+NOTICE: Any notice provided by this bid (or required by law) to be given to the successful Contractor
+by the City of Sherman shall conclusively deemed to have been given and received on the next day
+after such written notice has been deposited in the mail in the City of Sherman, Texas by Registered
+or Certified Mail with sufficient postage affixed thereto, addressed to the successful Contractor at the
+address so provided; provided this shall not prevent the giving of actual notice in any other manner.
+
+PATENTS/COPYRIGHTS: The successful Contractor agrees to protect the City of Sherman from
+claims involving infringement of patents and/or copyrights.
+
+CONTRACT ADMINISTRATOR: Under this Contract, the City of Sherman may appoint a Contract
+Administrator with designated responsibility to ensure compliance with Contract requirements, such
+as but not limited to, acceptance, inspection and delivery. The Contract Administrator will serve as
+liaison between the City of Sherman Finance Department and the successful Contractor.
+
+
+
+                                                    8
+
+                                                                                                    7
+PURCHASE ORDER: When applicable, a Purchase Order(s) shall be generated by the City of
+Sherman to the successful Contractor. The Purchase Order number must appear on all itemized
+invoices and packing slips. The City of Sherman will not be held responsible for any orders
+placed/delivered without a valid current Purchase Order number.
+
+PACKING SLIPS or other suitable shipping documents shall accompany each special order shipment
+and shall show: (a) name and address of successful Contractor, (b) name and address of receiving
+department and/or delivery location, (c) Purchase Order number, and (d) descriptive information as to
+the item(s) delivered, including product code, item number, quantity, number or containers, etc.
+
+INVOICES shall show all information as stated above under the Packing Slips section, and mailed
+directly to the City of Sherman Finance Department, PO Box 1106, Sherman, Texas, 75091-1106. In
+addition, invoices shall list exact dollar and cent amounts; no rounding accepted.
+
+PAYMENT will be made upon receipt and acceptance by the City of Sherman for any item(s) ordered
+and receipt of a valid invoice, in accordance with the State of Texas Prompt Payment Act, Article 601f
+V.T.C.S. Successful Contractor(s) required to pay subcontractors within 30 days.
+
+ITEMS supplied under this Contract shall be subject to the City’s approval. Items found defective or
+not meeting Specifications shall be picked up and replaced by the successful Contractor at the next
+service date at no expense to the City of Sherman. If item is not picked up within one (1) week after
+notification, the item will become a donation to the City for disposition.
+
+SAMPLES: When requested, samples shall be furnished free of expense to the City of Sherman.
+
+WARRANTY: Successful Contractor shall warrant that all items/services shall conform to the bid
+Specifications and/or all warranties as stated in the Uniform Commercial Code and be free from all
+defects in material, workmanship and title. A copy of the warranty for each item being bid must be
+enclosed. Failure to comply with the above requirements for literature and warranty information could
+cause bid to be rejected.
+
+REMEDIES: The successful Contractor and the City of Sherman agree that both parties have all
+rights, duties and remedies available as stated in the Uniform Commercial Code.
+
+VENUE: This Agreement will be governed and construed according to the laws of the State of Texas.
+This Agreement is performable in the City of Sherman.
+
+ASSIGNMENT: The successful Contractor shall not sell, assign, transfer or convey this Contract, in
+whole or in part, without prior written consent of the City of Sherman.
+
+SPECIFICATIONS and model numbers are for description only unless noted otherwise in detailed
+specification in this bid packet. Contractor may bid on description only. Contractor may bid on
+alternate model but must clearly indicate alternate model being bid. Contractor must enclose full
+descriptive literature on alternate item(s).
+
+SILENCE OF SPECIFICATION: The apparent silence of these Specifications as to any detail or to
+the apparent omission of a detailed description concerning any point, shall be regarded as meaning
+that only the best commercial practices are to prevail. All interpretations of these Specifications shall
+be made on the basis of this statement.
+Each insurance policy to be furnished by successful Contractor shall include, by endorsement to the
+policy, a statement that a notice shall be given to the City of Sherman by Certified Mail thirty (30)
+days prior to cancellation or upon any material change in coverage.
+
+ANY QUESTIONS concerning this Invitation for Bid and Specifications should be directed to the
+Finance Department at 903-892-7215.
+
+                                                    9
+
+                                                                                                     8
+                                               SPECIFICATIONS
+
+                                COMMUNITY DEVELOPMENT SOFTWARE
+
+                                        CITY OF SHERMAN, TEXAS
+
+
+BRIEF PROJECT SUMMARY
+The City of Sherman is requesting proposals for Community Development Software. The City is requesting
+proposals from qualified vendors to provide a permits, plan review, and inspections software solution for our
+Department of Development Services. The software should also provide a solution to issue Business and
+Contractor licenses for our City Clerk Department. The software should provide a solution for code violations,
+providing a system to track violations and prepare notices for our Code Enforcement Department. Overall, this
+solution will provide a central portal through which all key stakeholders, both internal and external to the City,
+will apply and submit for permits and reviews, schedule inspections and meetings, and among other things, access
+status information of past and present actions taken on a given piece of land or property.
+
+CURRENT PROCESS
+The city currently uses Tyler Technologies Incode software modules Building Permits, Business License and Call
+Center as well as the Tyler Content Manger. In fiscal year 2018, there were 7,789 building inspections on 2,643
+projects and 2,316 municipal code violations. Additionally, there is a total of 3,624 active business licenses along
+with 5,606 contractor licenses. The Tyler software provides methods to track licenses and print permits, track
+building permits and inspections and track code enforcement violations. Tyler provides a document management
+system for related documents, maps, pictures, etc. Tyler does not provide GPS integration or mobile applications.
+
+BENEFITS TO THE CITY
+Many key benefits expected to be delivered by the new software system are:
+    a more streamlined process;
+    business flow configured in the system for consistent processing;
+    one system for routing, job assignments, scheduling, reviews and issuance;
+    use of one centralized database for data like street addresses;
+    efficient retrieval of data from a single system by many different departments;
+    strong GIS integration for maps and analysis;
+    mobile applications;
+    citizen web portal.
+
+
+CITY REQUEST
+The City is requesting bids to provide a Community Development Software system solution that utilizes ESRI
+Arc GIS based on the requirements below:
+
+Requirements to be addressed in your proposal:
+
+       Role and/or user based logons that providing stakeholder access to those functions and data required by
+        their position within the City, or as an external applicant or stakeholder.
+       Intuitive user interface that streamlines business process flows.
+       Ability to create, process, and manage land development processes including applications for building,
+        electrical, mechanical, plumbing, sign permits, as well as other types of permits controlled by
+        Development Services.
+       Ability to create, schedule, process, and review inspections and results or reports.
+       Ability to maintain a list of contractors and other stakeholders who will be utilizing the system. System
+        for maintaining fee balances and payment processing.
+       Ability to create and process workflows from application submission to Certificate of Occupancy
+        issuance.
+
+                                                        10
+
+                                                                                                             9
+      Ability to maintain inspection records for properties in the city that require inspection reporting.
+      Ability to maintain a list of contractors and other stakeholders who will be utilizing the system.
+      Ability to track compliance to regulations concerning building codes, zoning, property maintenance,
+       erosion and sediment control, stormwater, and utility concerns.
+      Program should be in compliance with all local, state, and federal regulations concerning the above
+       processes.
+      Integration with Environmental Systems Research Institute (ESRI) GIS map services.
+      Integration with Microsoft Office programs and email applications for enhanced communications.
+      Ability to interface to other software (i.e. Tyler Incode). Preferably utilizing an Application
+       Programming Interface (API).
+      Electronic submittal processing and review capabilities for reduced paper dependency.
+      Portal for web and mobile access to required information.
+      Must work with document management, and convert data in current system.
+      Must convert building project, business license, and code enforcement data from current system.
+      Online register and renew contractors.
+      Online payments, inspection requests, and inspection results.
+      Mobile devices for Inspectors and code enforcement officers.
+      User friendly.
+      Automated alerts.
+      Quick search and reports.
+      Property/parcel/address management.
+      Capable of attaching notes/files/pictures.
+      Budget friendly.
+      Options available for Cloud-based or on-premise.
+      Maintain records of complaints, inspections, violation notices, and other field enforcement activities.
+      Must provide service-level agreement with guarantees and financial penalties for down-time.
+      Provide agreement that vendor will support Microsoft lifecycle for Operating system and Browser
+       support.
+      Vendor should provide technical support during the project until completion of route optimization.
+      Vendor should provide Training for all personnel involved.
+      Must provide three (3) verifiable references for similar scope of successful projects.
+      Must be bonded and insured.
+
+
+City provided:
+
+      The City will provide technical assistance to export a route file from the ESRI software that
+       accommodates the winning bidder’s requirements
+      The City will provide a project manager as the main point of contact during this project
+      The City will provide testing of updated routing before moving to production
+
+
+
+
+                                                     11
+
+                                                                                                       10
+                                      EVALUATION CRITERIA
+
+
+Proposals will be evaluated based on the following criteria:
+
+      Ability of the vendor to meet the City’s requirements – 50%
+      Cost of the project – 30%
+      References for similar projects from vendor – 20%
+
+City process after proposals are opened:
+
+The City of Sherman will review proposals submitted and determine the best value vendor based on the
+evaluation criteria listed above. Once we have made a determination of the winning vendor, this must be
+approved by the Sherman City Council before any contract can be signed.
+
+Upon review of proposals, the City of Sherman may request a demonstration meeting from one or
+more vendors.
+
+Please submit one copy of your proposal marked as “Original”.
+
+
+
+
+                                                  12
+
+                                                                                                11
+                               INSTRUCTIONS for
+       State Law Mandated Certificate of Interested Parties Form (Form 1295)
+
+       1. Pursuant to House Bill 1295 passed by the 84th Texas Legislature (Section 2252.908, Texas
+         Government Code, as amended) and formal rules released by the Texas Ethics Commission
+         (TEC), all contracts with private business entities requiring approval by the Sherman City
+         Council must be accompanied by an original signature unsworn declaration, Certificate of
+         Interested Parties, Form 1295.
+
+       2. Form 1295 must be completed in accordance with the TEC Rules:
+         (https://www.ethics.state.tx.us/legal/ch46.html ) and Section 2252.908 of the Texas
+           Government                        Code,                      as                   amended:
+           (http://www.legis.state.tx.us/tlodocs/84R/billtext/html/HB01295F.htm).
+
+       3. For questions or issues regarding the TEC rules and state law provisions and how Form
+         1295 should be completed, please consult with your own legal counsel.
+
+       4. In order to fill out and submit Form 1295, you will need to log in as directed on the TEC
+
+          website: https://www.ethics.state.tx.us/whatsnew/elf info form1295.htm
+
+            Tutorials for creating an account and for creating and submitting Form 1295 may also be
+            found on this web page.
+
+       5. Please provide the bolded information exactly as it appears below when creating your
+          certificate:
+
+            Who is the contract with? Click the button for Other
+
+            Governmental Entity Agency/Entity Name: City of Sherman
+
+            Contract ID Number: 2019-06
+
+            Description of Goods and Services to be provided: Library Park Renovation Project –
+            Pavilion, Outdoor Musical Equipment, and Benches
+
+       6. All other fields as required or as applicable to the individual vendor must be completed as
+         explained in the tutorial video.
+
+       7. Vendors must provide a signed, original signature copy of this form along with four signed,
+         notarized, original signature copies of the contract no later than 14 days after Notice of
+         Recommendation for Award is received. All documents shall be signed by an Officer, Director
+         or other Authorized Agent of the company. If the individual signing as Authorized Agent is not
+         an officer or director of the company, appropriate documentation must be included with these
+         documents to confirm that the individual has the authority to bind the company contractually.
+
+rev. 1/26/2018
+
+
+
+
+                                                                                                  122 12
+                                                                                                      2
+                              Form TGC 2270
+      VERIFICATION REQUIRED BY TEXAS GOVERNMENT CODE CHAPTER 2270
+
+By signing below, Company hereby verifies the following:
+
+               1.     Company does not boycott Israel; and
+
+               2.     Company will not boycott Israel during the term of the contract.
+
+SIGNED BY:
+
+Print Name & Title:
+
+Company Name:
+
+Date Signed:                                                                              _____
+
+
+                                         NOTARIZATION
+
+THE STATE OF _________               )                             )
+COUNTY OF ___________                )
+
+       BEFORE ME, the undersigned notary public on this day personally appeared
+________________________, on behalf of ________________________________ (Company),
+who, being duly sworn, stated under oath that he/she has read the foregoing verification required
+by Texas Government Code Section 2270.002 and said statements contained therein are true
+and correct.
+
+       SWORN TO AND SUBSCRIBED before me on the_______day of _________, 201__.
+
+                                             __________________________________
+                                             NOTARY PUBLIC IN AND
+                                             FOR THE STATE OF _______________
+
+
+The following definitions apply to Texas Government Code Section 2270.001:
+
+               (1) "Boycott Israel" means refusing to deal with, terminating business activities
+with, or otherwise taking any action that is intended to penalize, inflict economic harm on, or
+limit commercial relations specifically with Israel, or with a person or entity d oing business in
+Israel or in an Israeli-controlled territory, but does not include an action made for ordinary
+business purposes; and
+               (2)    "Company" means a for-profit sole proprietorship, organization,
+association, corporation, partnership, joint venture, limited partnership, limited liability
+partnership, or limited liability company, including a wholly owned subsidiary, majority -owned
+subsidiary, parent company, or affiliate of those entities or business associations that exists
+to make a profit.
+State law requires verification from a Company for contracts involving goods or
+services (regardless of the amount) before the City can enter into the contract.
+
+
+
+                                                                                                13
+

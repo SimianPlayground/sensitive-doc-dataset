@@ -1,0 +1,1243 @@
+                    RFP 579
+        REQUEST FOR PROPOSALS
+                     FOR
+      Technology Equipment (E-RATE)
+
+
+
+
+           PROPOSAL DUE DATE
+         February 6, 2019 @ 2:00 p.m.
+
+
+
+
+            SUBMIT PROPOSALS
+       Oxnard Union High School District
+309 South K Street, Building G, Purchasing Office
+   Attn: Deanna Rantz, Director of Purchasing
+               Oxnard, CA 93030
+    E-Mail: Deanna.Rantz@oushd.k12.ca.us
+                                              NOTICE INVITING PROPOSALS
+
+
+NOTICE IS HEREBY GIVEN that the Oxnard Union High School District of Ventura County, California, acting
+by and through its Governing Board, hereinafter referred to as the DISTRICT will receive up to, but not later than
+2/6/19 at 2:00 p.m., sealed proposals for the award of a contract for the following:
+
+                                                          RFP 579
+                                               Technology Equipment (E-Rate)
+
+Each proposal shall be submitted on a form obtained from the Purchasing Department of said District. Proposals
+must be sent to Oxnard Union High School District, 309 South K Street, Building G, Purchasing Department,
+Oxnard, CA 93030. Specifications and other contract document forms will be available without charge and may be
+secured by prospective bidders online at https://www.oxnardunion.org/administrative-services/purchasing-
+warehousing/rfp/ .
+Questions must be submitted, in writing to Deanna Rantz, Director                               of    Purchasing     at
+Deanna.Rantz@ouhsd.k12.ca.us no later than the RFI deadline noted in the RFP.
+Proposal hard copies must be submitted to the above address. Proposals not received in the Purchasing
+Department by the specified date and time will be returned unopened. It is the sole responsibility of the bidder to see
+that the proposal submitted is received in proper time at the address noted herein. Proposals will not be read aloud.
+The Oxnard Union High School District shall be the sole judge of the quality of items offered and reserves the right
+to reject any or all bids, to accept or reject any one or more items of a bid or to waive any irregularities or
+informalities in the bids or in the bidding.
+No respondent may withdraw their proposal for a period of ninety (90) days after the date set for the opening of
+proposals.
+On behalf of the Oxnard Union High School District Governing Board of Trustees
+
+
+Publish: 1/6/19 & 1/13/19
+
+
+
+
+                                                            2
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                              E-RATE REQUIREMENTS
+  The Telecommunications Act of 1996 established a fund by which Schools and Libraries across the Country could
+  access discounts on eligible telecommunications products and services. The program is commonly known as the E-
+  rate Program. The eligibility for discounts on internet access, telecommunications products and services, internal
+  connection products, services and maintenance is determined by the Federal Communications Commission (FCC).
+  Funding is made available upon application approval by the Schools and Libraries Division (SLD) of the Universal
+  Service Administrative Company (USAC), which was established by the Act. The amount of discount is based on
+  the numbers of students receiving free and reduced-price meals.
+
+  E-RATE CONTINGENCY
+  The project herein is contingent upon the approval of funding from the Universal Service Fund’s Schools and
+  Libraries Program, otherwise known as E-rate. Even after award of contract(s) and/or E-rate funding approval is
+  obtained, the District may or may not proceed with the project, in whole or in part. Execution of the project, in
+  whole or in part, is solely at the discretion of the District.
+
+  SERVICE PROVIDER REQUIREMENTS
+  The District expects Service Providers to make themselves thoroughly familiar with any rules or regulations
+  regarding the E-rate program.
+
+  a.      Service Providers are required to be in full compliance with all current requirements and future requirements
+          issued by the SLD throughout the contractual period of any contract entered into as a result of this RFP.
+
+  b.      Service Providers are responsible for providing a valid SPIN (Service Provider Identification Number). More
+          information about obtaining a SPIN may be found at this website:
+          http://www.usac.org/sl/service-providers/step01/default.aspx
+
+  c.      Service Providers are responsible for providing a valid Federal Communications Commission (FCC)
+          Registration Number (FRN) at the time the bid is submitted. More information about obtaining an FRN may
+          be found at this website: https://fjallfoss.fcc.gov/coresWeb/publicHome.do
+
+  d.      Service Providers are responsible for providing evidence of FCC Green Light Status at the time the bid is
+          submitted. Any potential bidder found to be in Red Light Status will be disqualified from participation in the
+          bidding process and will be considered non- responsive. More information about FCC Red and Green Light
+          Status may be found at this website: http://www.fcc.gov/debt_collection/welcome.html
+
+  e.      Products and services must be delivered before billing can commence. At no time may the Service Provider
+          invoice before July 1, 2019.
+
+  f.      Prices must be held firm for the duration of the associated E-rate Funding Year(s) or until all work associated
+          with the project is complete (including any contract and USAC approved extensions).
+
+  g.      Goods and services provided shall be clearly designated as “E-rate Eligible”. Non-eligible goods and services
+          shall be clearly called out as 100% non-eligible or shall be “cost allocated” to show the percentage of eligible
+          costs per SLD guidelines.
+
+  h.      Within one (1) week of award, the awarded Service Provider must provide the District a bill of materials
+          using a completed USAC “Item 21 Template”. Subsequent schedules of values and invoices for each
+          site must match Item 21 Attachment or subsequent service substitutions.
+
+  i.      In the event of questions during an E-rate pre-commitment review, post-commitment review and/or audit
+          inquiry, the awarded Service Provider is expected to reply within three (3) days to questions associated with
+          its proposal.
+                                                           3
+OUHSD RFP 579 Technology Equipment (E-Rate)
+  j.      The awarded Service Provider is required to send copies of all forms and invoices to the District prior to
+          invoicing USAC for pre-approval. Failure to comply with this requirement may result in the District placing
+          the vendor on an “Invoice Check” with USAC: http://www.usac.org/sl/applicants/step06/invoice-check.aspx
+
+  k.      Service Providers must comply with the FCC rules for Lowest Corresponding Price ("LCP"). Further details
+          on LCP may be obtained at USAC's website:
+          http://www.usac.org/sl/service-providers/step02/lowest-corresponding-price.aspx
+
+  SERVICE PROVIDER ACKNOWLEDGEMENTS
+
+  a.      The Service Provider acknowledges that no change in the products and/or services specified in this document
+          will be allowed without prior written approval from the district and a USAC service substitution approval
+          with the exception of a Global Service Substitutions.
+
+  b.      The Service Provider acknowledges that all pricing and technology infrastructure information in its bid shall
+          be considered as public and non-confidential pursuant to §54.504 (2)(i)(ii).
+
+  c.      The Service Provider acknowledges that its offer is considered to be the lowest corresponding price pursuant
+          to § 54.511(b). Should it not be the lowest corresponding price, the service provider must disclose the
+          conditions leading to the applicant being charged in excess of lowest corresponding price.
+
+  d.      This offer is in full compliance with USAC’s Free Services Advisory. There are no free services offered that
+          would predicate an artificial discount and preclude the applicant from paying its proportionate non-discounted
+          share of costs. The service provider agrees to provide substantiating documentation to support this assertion
+          should the applicant, USAC, or the FCC request it. http://www.usac.org/sl/applicants/step02/free-services-
+          advisory.aspx
+
+  STARTING SERVICES/ADVANCE INSTALLATION
+
+  The annual E-rate Funding Year begins on July 1st and expires on June 30th of each calendar year. Regardless of
+  the contract “effective date”, E-rate eligible goods and/or services requested in this RFP shall be delivered no earlier
+  than the start of the 2018 funding year (July 1, 2019 for Category 1 Services and April 1, 2019 for Category 2). If
+  Category 1 services (Telecommunication Services and Internet access) will begin on or shortly after July 1 of a
+  funding year, the service provider, in some cases, may need to undertake some construction and installation work
+  prior to the beginning of that funding year. Within the limitations indicated below, the infrastructure costs of a service
+  provider can be deemed to be delivered at the same time that the associated Category 1 services begin. That is, if
+  services begin on July 1, then the delivery of service provider infrastructure necessary for those services can be
+  considered as also delivered on July 1.
+
+  EARLY FUNDING CONDITIONS
+
+  Category 1
+  There are four conditions that must be met in order for USAC to provide support in a funding year for Category 1
+  infrastructure costs incurred prior to that funding year.
+
+           Initiation of installation cannot take place before selection of the service provider pursuant to a posted Form
+            470 and in any event no earlier than six months prior to July 1 of the funding year.
+           The Category 1 service must depend on the installation of the infrastructure.
+           The underlying Category 1 service cannot have a service start date prior to July 1 of the funding year.
+           No invoices can be submitted to USAC for reimbursement prior to July 1 of the funding year.
+
+  For more information, please refer to the FCC Order involving the Nassau County Board of Cooperative Educational
+                                                          4
+OUHSD RFP 579 Technology Equipment (E-Rate)
+  Services (DA 02- 3365, released December 6, 2002). This FCC decision only applies to Priority 1 services
+  (telecommunications services and Internet access).
+  http://www.usac.org/_res/documents/about/pdf/fcc-orders/2002-fcc-orders/DA-02-3365.pdf
+
+  The complete text can be found at the following URL: http://www.usac.org/sl/applicants/step05/installation.aspx
+
+  Category 2
+  There is one condition that allows USAC to provide support in a funding year for Category 2 installation costs
+  incurred prior to that funding year.
+
+           We also amend our rules for category two non-recurring services to permit applicants to seek support for
+            category two eligible services purchased on or after April 1, three months prior to the start of funding year
+            on July 1. This will provide schools with the flexibility to purchase equipment in preparation for the summer
+            recess and provide the maximum amount of time during the summer to install these critical networks.
+
+  For more information, please refer to the FCC Report and Order and Further Notice of Proposed Rulemaking (FCC
+  14-99, released July 23, 2014). This FCC decision only applies to Category 2 services (Internal Connections).
+  https://apps.fcc.gov/edocs_public/attachmatch/FCC-14-99A1.pdf
+
+  INVOICING
+
+ a.       The Service Provider agrees to bill and receive a portion of the payment for the provisions of goods and
+          services described herein directly from USAC via the Form 474 Service Provider Invoice (SPI). The District
+          will only be responsible for paying its non-discounted share of costs and does not intend to use the BEAR
+          process (Form 472). The maximum percentage the District will be liable for is the pre- discount amount
+          minus the funded amount as shown on the FCC Form 471 Block 5 and any identified ineligible costs. Upon
+          the successful receipt or posting of a Funding Commitment Decision Letter from the SLD and submission and
+          certification of Form 486, the District shall pay only the discounted amount beginning with the billing cycle
+          immediately following said approval. Alternatively, should the District decide that it is in the best interest of
+          the District to file a Form 472, the District will inform the Service Provider of its intent.
+
+ b.       All Service Provider invoicing to USAC must be completed within 120 days from the last day of service.
+          Should the Service Provider fail to invoice USAC in a timely manner, the District will only be responsible for
+          paying its non-discounted share.
+
+  FCC/SLD AUDITABILITY
+
+  The E-rate program requires that all records be retained for at least ten (10) years from the last date of service
+  provided on a particular funding request. Respondent hereby agrees to retain all books, records, and other documents
+  relative to any Agreement resulting from this RFP for ten (10) years after final payment. The District, its authorized
+  agents, and/or auditors reserves the right to perform or have performed an audit of the records of the Respondent
+  and therefore shall have full access to and the right to examine any of said materials within a reasonable period of
+  time during said period.
+
+  PROCUREMENT OF ADDITIONAL GOODS AND/OR SERVICES/COTERMINOUS EXPIRATIONS
+
+  During the term of any Agreement resulting from this RFP, the District may elect to procure additional or like goods
+  and/or services offered by the Respondent. Such services shall be negotiated and obtained via an official amendment
+  to this Agreement and approval by the District’s Governing Board. All terms, conditions, warranties, obligations,
+  maintenance and support of said goods or services shall have a coterminous expiration date with the original date
+  of this Agreement. The District shall not enter into a separate Agreement for said goods or services. Respondents
+  must state in their proposal that they acknowledge, accept and are in agreement with coterminous expiration
+  conditions.
+                                                              5
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                  GENERAL INSTRUCTIONS AND CONDITIONS
+                                                      ***WARNING****
+                                              READ THIS DOCUMENT CAREFULLY.
+   DO NOT ASSUME THAT THIS DOCUMENT IS THE SAME AS OTHER SIMILAR DOCUMENTS YOU MAY
+    HAVE SEEN, EVEN IF THE DOCUMENTS WERE FROMI OXNARD UNION HIGH SCHOOL DISTRICT.
+
+      1) SUBMITTAL DOCUMENTS
+         Offerors must submit the following with their proposal or the proposal may be deemed unresponsive:
+              Proposal Form (1 original, 3 copies, 1 electronic version)
+              Non-Collusion Declaration
+              Certification of Primary Participant Regarding Debarment, Suspension, and other Responsibility
+                 Matters
+              References
+              Proposal Security (10% of proposal amount)
+              Service Provider Annual Certification (SPAC)
+              Service Provider Identification Number (SPIN) from USAC Website
+              FCC Red Light Status Documentation
+              Company Contract (optional)
+              Designation of Subcontractors Form
+              Certification of Contractor and Subcontractor DIR Registration Form
+
+      2) DEFINITIONS
+         As used herein, “RFP” means this Request for Proposal, RFP 579.
+         As used herein, “District” or “OUHSD” means the Oxnard Union High School District.
+         As used herein, “Offeror” means the firm or vendor or service provider submitting a proposal.
+         As used herein, “Offer” means the proposal.
+         As used herein, “Contract” means an associated agreement / purchase order with the District.
+         As used herein, “Proposer” means the firm or vendor or service provider submitting a proposal.
+
+
+      3) PROPOSAL FORMAT and CONTENTS
+           a. Proposals shall be provided together and submitted no later than 2/6/19 at 2:00 p.m.
+              Proposals shall be delivered to:
+                     Oxnard Union High School District
+                     Attn: Deanna Rantz, Director of Purchasing
+                     309 South K Street, Building G, Purchasing Department
+                     Oxnard CA 93030
+
+                  b. The Offeror is responsible to ensure that its proposal is received by the District prior to the time
+                     and due date deadline and at the designated District location. No late submissions will be accepted.
+
+                  c. The District reserves the right to accept a proposal and enter into an agreement as a result of the
+                     initial proposals received. The Oxnard Union High School District shall be the sole judge of the
+                     quality of items offered and reserves the right to reject any or all bids, to accept or reject any one
+                     or more items of a bid or to waive any irregularities or informalities in the bids or in the bidding.
+
+                  d. No erasures are permitted. Mistakes may be crossed out and corrections made adjacent but must
+                     be initialed in ink by person signing proposal. Verify your proposal documents before
+                     submission. They cannot be withdrawn or corrected after being opened, nor withdrawn after the
+                     date and time of proposal opening.
+
+                                                               6
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                  e. All items proposed must conform to the specifications set forth in these RFP documents. The
+                     District reserves the right to reject all responses that do not conform to the specifications. When
+                     proposing on brands other than those specified, the Proposer must state on the RFP the brand,
+                     quality, model number, or other trade designation on each item proposed other than “as
+                     specified”. At a minimum, descriptive technical literature fully describing the claimed “or equal”
+                     product must be attached to the proposal. The Proposer must identify each product in its solution
+                     that varies from the reference model and/or specifications and provide an itemization of each and
+                     every attribute of the product as it relates to the comparative technical specification literature of
+                     the reference product, certifying that it is equal or better than the referenced product or
+                     specification. Suitability and valuation of “equals” rests in the sole discretion of the District.
+                     Where samples are requested they must be furnished free of charge to the District. Samples will
+                     be returned at proposer’s expense provided a request accompanies the samples and provided
+                     further that samples are not destroyed by tests.
+
+                  f.     Offeror shall include all appropriate California State Sales or Use Tax in final calculations.
+
+                  g. The District may request to meet with the Offeror’s authorized representative to request answers
+                     and clarifications or it may request that the Offeror answer specific questions in writing, or to make
+                     a presentation to the District staff or to its Board of Education.
+
+                  h. For convenience in designation on the plans or in the specifications, certain articles or materials to
+                     be incorporated in the work may be designated under a trade name or in the name of a
+                     manufacturer. Whenever in specifications any materials, process, or article is indicated or specified
+                     by grade, patent, or proprietary name or by name of manufacturer, such specification shall be
+                     deemed to be used for the purpose of facilitating description of material, process or article desired
+                     and shall be deemed to be followed by the words "or equal," and service provider may, unless
+                     otherwise stated, offer any material, process or article which shall be substantially equal or better
+                     in every respect to that so indicated or specified. If material, process or article offered by service
+                     provider is not, in opinion of the District, substantially equal or better in every respect to that
+                     specified, then service provider shall furnish material, process or article specified. Burden of proof
+                     as to equality of any material, process or article shall rest with service provider. Service Provider
+                     shall submit request together with substantiating data for substitution of any "or equal" item within
+                     the sealed proposal as part of its proposal response. Provision authorizing submission of "or equal"
+                     justification data shall not in any way authorize an extension of time for performance of this
+                     contract.
+
+                  i.     Proposers must include in their proposal all of the indicated items unless specifically marked
+                         “optional.” Mark “No Proposal” for items you choose not to propose on. Incomplete solutions will
+                         be considered non-responsive.
+
+                  j.     All RFP responses must show the firm name and must be signed in ink by a responsible officer or
+                         employee fully authorized to bind the organization to the terms and conditions herein. Obligations
+                         assumed by such signature must be fulfilled.
+
+                  k. Proposers are to submit one (1) original and three (3) copies of its RFP response in addition to an
+                     electronic version of the RFP response. Submittals must include a table of contents and tabbed
+                     sections that can allow for easy access to information provided. Proposals shall be submitted in a
+                     sealed envelope with Proposer’s name, address and contact information as well as RFP number and
+                     project name located on the outside of the envelope. Late responses are not accepted and will be
+                     returned unopened. The District is not liable for any costs associated with submittal responses.
+
+
+                                                                  7
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                  l.     The proposer shall hold harmless the Oxnard Union High School District, its officers, agents,
+                         employees and board members harmless and free from liability of any nature or kind on account of
+                         use (by publisher, manufacturer or author) of any copyrighted or non-copyrighted composition,
+                         secret process, patented invention, article or appliance furnished or used under this Proposal.
+
+      4) REQUEST FOR INFORMATION (RFI)
+           a. If an Offeror desires an explanation or clarification of any kind regarding this RFP, the Offeror
+              must make a written request. Please direct any written inquiries regarding this RFP via e-mail at
+              Deanna.Rantz@ouhsd.k12.ca.us . The District will advise all Offerors known to have received a
+              copy of the RFP of the explanation or clarification, either by email, formal RFP addendum or on
+              the District website. It is the responsibility of potential proposers to check the District website for
+              updates. https://www.oxnardunion.org/administrative-services/purchasing-warehousing/rfp/ .
+              The RFI deadline is January 25, 2019 at 2:00 p.m.
+
+      5) AMENDMENTS
+         Offerors are advised that the District reserves the right to amend this RFP at any time. Amendments will
+         be done formally by providing written addendum to all potential Offerors known to have received a copy
+         of the RFP. If, in the sole and absolute discretion of the District, the change is of such nature that additional
+         time is required for Offerors to prepare proposals, the District will change the due date deadline and notify
+         all known Offerors in writing of the revised due date.
+
+                 a. Offerors must acknowledge by signature, any and all RFP addendum on the proposal form provided
+                    and by including the signed addendum as part of the RFP response package.
+
+      6) TIMELINE
+         The District’s anticipated RFP schedule is as follows, but is subject to change at the District’s discretion:
+              Advertisements                                      1/6/19 & 1/13/19
+              Request for Information Deadline                    1/25/19 at 2:00 p.m.
+              RFP Due                                             2/6/19 at 2:00 p.m.
+              RFP Evaluation                                      2/7/19 – 2/13/19
+              Notice of Intent                                    2/15/19
+              Board Award                                         2/27/19
+              Notice of Award                                     2/28/19
+              Contract Execution & Bonds/Documents Due            No later than 3/8/19
+              Project Meeting                                     TBD
+
+      7) VALIDITY OF PROPOSAL/OFFER
+         Each proposal/offer must be a firm irrevocable offer and remain open and valid for District acceptance
+         through July 2, 2019.
+
+      8) WITHDRAWAL OF PROPOSAL
+           a. A proposer may withdraw its proposal at any time prior to the proposal due date and time by
+              submitting a written request to the District Purchasing Director. No oral or faxed request will be
+              accepted. A withdraw request must be signed by an authorized representative of the company.
+
+                  b. A withdraw request received by the District after the proposal due date and time shall in no event
+                     be deemed or construed to constitute a withdrawal of the proposal and the District still may accept
+                     the proposal if it is responsive and the respondent is a responsible contractor. Should an Offeror
+                     wish to withdraw its proposal, it must submit the official request in writing and the request must be
+                     signed by an authorized representative of the company.
+                                                                8
+OUHSD RFP 579 Technology Equipment (E-Rate)
+      9) PROPOSAL SECURITY
+         Proposers must submit a Proposal Security, certified cashier’s check or money order, in the amount of ten
+         percent (10%) of the total proposal amount.
+
+      10) AWARD CRITERIA
+          Award of this proposal shall be made to the responsive and responsible proposer having the preferred
+          solution/system as determined by the District. The District reserves the right to make multiple awards,
+          award by line item, or not award at all. The District reserves the right to reject all proposals, to waive any
+          irregularities or discrepancies, and to act as the sole judge as to the merit and qualifications of the proposals
+          received.
+
+      11) EVALUATION CRITERIA
+            a. The criteria used for evaluating each proposal, may be, but is not limited to:
+                   Price including applicable taxes & installation 31%
+                   References & experience on similar projects 30%
+                   Product quality, service & support 30%
+                   Completeness & accuracy of proposal 9%
+
+                         Price will remain highest weighted factor in evaluating criteria, however, the percentages and
+                         criteria evaluated are subject to change at the discretion of the District.
+
+                  b. A District Proposal Evaluation Committee will determine which, if any, proposal is in the District’s
+                     overall best interest to accept. During the evaluation process, the District may request proposal
+                     clarifications, explanations and answers, best and final offers, interviews, demonstrations of
+                     hardware or software, further specifications or any other information pertinent to the evaluation
+                     process. The District, including its Board of Trustees, may request an Offeror to make a
+                     presentation and make itself available for a presentation or interview.
+
+                  c. Subject to approval of award by the Board of Trustees, it is anticipated that a Purchase Order will
+                     be issued to the Offeror whose proposal is determined to be in the best interest of the District, based
+                     on the District evaluation criteria and all findings related to the RFP.
+
+      12) CONTRACT
+          The District will require the awarded company to enter into a contract that will bind it to specific terms and
+          conditions. This contract is shown as Attachment A. Should a firm require their company contract be
+          incorporated into this project, it must submit this contract with the RFP response package. Contractor must
+          not provide an agreement in which language is contradictory to the District’s agreement. The District’s
+          agreement shall take precedence over any other contracts.
+
+      13) BONDS
+          As part of the contract documents, the awarded contractor will be required to submit to the District, within
+          10 days of board award, a Payment Bond and Performance Bond, each in the amount of 100% of the
+          contract amount.
+
+      14) PROMPT DELIVERY
+          Upon award of this contract and issuance of Purchase Order, the propose shall keep sufficient stock of
+          product and service material to insure prompt delivery, installation and service schedules. Upon receipt of
+          the Purchasing Order and executed contract, the proposer must submit a delivery schedule to the District
+                                                               9
+OUHSD RFP 579 Technology Equipment (E-Rate)
+            and receive acceptance of that delivery and installation schedule.
+
+      15) STANDARD COMMERICAL USE – PRODUCTS
+          The proposer, whether manufacturer, supplier, distributor or retailer, hereby certifies that the products
+          offered under this proposal shall be new, current production models, have been placed in regular
+          commercial use for a period of at least one (1) year, must remain in inventory at least one (1) year after
+          award of contract and that adequate spare parts exist in the marketplace for the items sold.
+
+      16) HOLD HARMLESS
+          The proposer shall save, defend, hold harmless and indemnify the District against any and all liability,
+          claim, and costs of whatsoever kind and nature for injury to or death of any person and for loss or damage
+          to any property occurring in connection with or in any way incident to or arising out of the occupancy,
+          use, service, operations, or performance under the terms of this contract, resulting in whole or in part from
+          the negligent acts or omissions of proposer, and subcontractor, or any employee, agent, or representative
+          of proposer and/or subcontractor.
+
+      17) FAILURE TO FULFILL CONTRACT/TERMINATION
+          When any awarded proposer, under contract, shall fail to deliver any article or service or shall deliver any
+          article or service which does not conform to the specifications, the District may, at its sole discretion,
+          annul and set aside the contract entered into with said company, either in whole or in part, and may enter
+          into a new contract for the same items in such manner as seems to the Board of Trustees to be to the best
+          advantage of the District. Any failure for furnishing such articles or services by reason of the failure of
+          the awarded company, as above stated, shall be a liability against such company and his sureties. The
+          Board of Trustees reserves the right to cancel any articles or services which the successful integrator may
+          be unable to furnish because of economic conditions, governmental regulations or other similar causes
+          beyond the control of the integrator provided satisfactory proof is furnished to the District, if requested.
+
+      18) CANCELLATION FOR INSUFFICIENT OR NON-APPROPRIATION OF FUNDS
+          The Proposer hereby agrees and acknowledges that monies utilized by the District to purchase the items
+          proposed are public monies appropriated by the State of California, the Federal Government under the “E-
+          Rate” program or acquired by the District from similar public sources and are subject to variation. The
+          District fully reserves the right to cancel this proposal at any time and/or to limit quantities of items due to
+          non-availability or non-appropriation of sufficient funds.
+
+      19) WARRANTY/QUALITY
+          The supplier, manufacturer, or his assigned agent shall guarantee the product against all defects or failures
+          of materials and workmanship for a period of one (1) year from the date of accepted commissioning.
+          Upon expiration of the warranty portion, the supplier shall further guarantee parts and labor for a period
+          of two (2) years for a total of three (3) years from the date of acceptance.
+
+            Where applicable, all merchandise must be warranted to be in compliance with California energy,
+            conservation, environmental, educational, and product liability standards.
+
+            The proposer represents and warrants fault free performance in processing of date and date-related data
+            (including, but not limited to, calculating, comparing, and sequencing) by all hardware, software, and
+            firmware products delivered under any contract awarded under this proposal, individually and in
+            combination, upon installation.
+
+      20) TECHNOLOGY CLAUSE
+          As technology advances, it is understood that improved or enhanced products may supersede existing
+          products in both price and performance and yet be essentially similar. This Request for Proposals (RFP)
+          seeks to address the rapid advances in technology by allowing functionally similar or identical products,
+          as determined by the District, that may be introduced in the future during the term of this proposal to be
+                                                            10
+OUHSD RFP 579 Technology Equipment (E-Rate)
+            included under the general umbrella of compatible product lines and are thus specifically included in this
+            proposal document.
+
+
+      21) APPLICABLE LAW
+          The laws of the State of California shall govern any agreements resulting from this RFP.
+      22) INVOICING AND PAYMENTS
+          Oxnard Union High School District requires that the successful proposer submit their payment
+          documentation for approval prior to the start of work. This will allow the District to review the document
+          and approve of the format for billing. The District will not issue payment for products that are not in the
+          possession of the District. The District requires the applicable Purchase Order number be noted on all
+          invoices. The District is not responsible for payments on invoices that are not mailed to the proper address
+          of OUHSD, 309 South K Street, Oxnard, CA 93030 to the attention of Accounts Payable. Product must
+          be verified to be in working order and meeting all specifications as set forth in this RFP before payment
+          can be made. The District intends to hold 5% retention on this project. Awarded proposer may request
+          progress payments as equipment is received, installed and testing/approved by the Technology
+          Department. It is the intention of the District to be invoiced for only the undiscounted portion of the
+          project. Awarded proposer will then request reimbursement from USAC for the E-Rateable portion.
+
+      23) CONTRACTOR REQUIREMENTS
+          The District requires all contractors, subcontractors employed by the awarded company, representatives,
+          employees, suppliers, field engineers, or any other entity related to the work herein, to follow all District
+          policies and procedures, including, but not limited to:
+              a. Contractor shall restrict his employees to the immediate work areas on the job site, and deliver
+                   materials, tools and equipment to the site as directed by the District.
+
+                  b. Contractor shall observe all safety rules and regulations of Title 24,CAL/OSHA, and the General
+                     Contractor as applicable to the safety of the Contractor, his personnel, and the student/faculty
+                     during work operations. Where necessary for the safety of the public, Contractor shall provide and
+                     maintain adequate protection and barricades to separate work areas from other public areas, as
+                     directed by the District or other authorities having jurisdiction. In an emergency affecting life and
+                     safety of life or of work or of adjoining property, Contractor is permitted to act at his discretion to
+                     prevent such threatened loss or injury without the District’s authorization.
+
+                  c. Contractor at all times shall keep premises free from debris such as waste, rubbish and excess
+                     materials and equipment caused by the work. At completion of the project, Contractor shall restore
+                     the work area in conformance with existing codes and standards.
+
+                  d. Contractor is responsible for notifying appropriate authorities where work impacts existing utilities
+                     and shall repair any damage to same at no cost to the District.
+
+                  e. All employees of the Contractor will be screened by the Contractor for proper identification and
+                     good behavior. In accordance with general District policy, Contractor’s personnel are not permitted
+                     to smoke in any area of the school grounds or District Offices, and they are requested to observe
+                     appropriate dress and language. No social contact, verbal or physical, is allowed between
+                     Contractor’s personnel and students. Any reports of misbehavior by Contractor’s personnel will
+                     result in having such persons removed from campus grounds.
+
+      24) FINGERPRINTING
+          Contractor shall be responsible for ensuring compliance with all applicable fingerprinting and criminal
+          background investigation requirements described in Education Code Section 45125.1. Contractor’s
+          responsibility shall extend to all of its staff and subcontractors, regardless of whether such individuals are
+          paid or unpaid, concurrently employed by the District, and/or acting as independent contractors of the
+                                                              11
+OUHSD RFP 579 Technology Equipment (E-Rate)
+            Contractor. Verification of compliance with this Section shall be provided in writing to the District
+            Representative prior to Contractor permitting such individuals to come in contact with District employees
+            or students.
+
+
+
+
+                                                           12
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                   DISTRICT BACKGROUND AND OBJECTIVES
+The Oxnard Union High School District (“OUHSD”) was established in 1901 and consists of eight high school
+campuses, a district office and one adult school. The District serves the communities of Oxnard and
+Camarillo. The estimated student population is approximately 16,500 students.
+      1) RFP OBJECTIVE
+         The purpose of this Request for Proposal (RFP) is to acquire the services of an experienced and qualified
+         network system Integrator(s) to provide, install, configure, and warranty new network equipment. The
+         network system shall be capable of providing high-speed, highly available, secure and private network
+         access to both OUHSD’s private infrastructure and related carrier services and is to include the following:
+
+                                    Network Electronics Equipment (WAN, LAN, and WLAN)
+                                    Integration Services and Training
+                                    Extended Warranty Services
+
+            This RFP’s scope encompasses the selection, detailed design, deployment, test & commissioning, and
+            ongoing manufacturer maintenance of a technology platform that appropriately extends and integrates
+            with the central District IT architecture, which provides for access to District applications, security
+            infrastructure and the Internet. The Proposal will also optionally recommend any remediation necessary
+            at the District level to address network performance issues end-to-end.
+      2) CURRENT ENVIRONMENT
+         OUHSD currently uses Cisco for wired network equipment, Cisco Meraki Solutions for wireless
+         equipment, and Cisco for IPTV/digital signage. The District seeks potential benefits in remaining
+         standardized on various platforms for operational efficiency and technical uniformity.
+      3) DESIRED NETWORK ARCHITECTURE
+
+            Network Technology Goals and Principles
+            The principles and goals of this project are as follows:
+
+                        Provide infrastructure for network-based applications that will serve classroom instruction
+                        Support administrative applications, including voice systems
+                        Support other facility management functions such as Building Management Systems
+                        Provide for secure access and appropriate separation and isolation of student, administrative and
+                         public use networks
+                        Provide sufficient network capacity for the next generation of business and educational applications
+                        Maintain operating costs at current levels
+                        Achieve 99.99% uptime for wireless network
+                        Support end-to-end a minimum of four network traffic classes
+                        Provide appropriate security and support or enable other security initiatives
+                        Where possible, reduce operational and governance complexity with standardization and optimized
+                         network management and provisioning systems and processes (Support ITIL/ITSM initiatives)
+                        Minimize downtime for the transition, deployment, and phasing of the project
+                        Conform to the standards and manufacturer platforms in place at OUHSD except where explicitly
+                         exempted
+
+
+      4) PROJECT OBJECTIVES
+         The primary objective of this project is to provision a robust network to support classroom instruction and
+         student learning through applications and information access at all district locations. This infrastructure
+         must have sufficient flexibility and functionality to support the advanced business and educational
+                                                                 13
+OUHSD RFP 579 Technology Equipment (E-Rate)
+            application requirements of OUHSD’s IT Strategic programs as well as the ongoing legacy needs of the
+            District with the increasing convergence of voice, video and content-rich data onto the enterprise data
+            network. Additional objectives are as follows:
+                 An enterprise network solution that employs advancements in IP-based technology to leverage
+                     OUHSD’s private and leased services and centralized application and content portfolio
+                 Interface to a common network platform that will enable the creation of separate routed IP networks
+                     to support District Data and Voice/Video networks which allows them to operate in a virtually
+                     independent and secure fashion
+                 Efficiently integrate with the District’s existing centralized control, security, and policy
+                     management platforms for wired, and wireless
+                 The Integrator is responsible to deliver an end-to-end designed solution and must demonstrate
+                     specified throughput and performance during testing and commissioning. While certain products
+                     and quantities have been provided to illustrate and estimate the scope, it is incumbent on the
+                     Integrator to design the final solution and be accountable to remedy any performance issues
+                     resulting from its design at no additional cost to the District
+
+      5) PROJECT DEPLOYMENT
+         The deployment of these network platforms will be undertaken in one phase. Integrators must be
+         prepared to install the equipment to be functional at an MDF location. Integrators will be expected to
+         implement any centralized systems (such as edge and core switches). This will involve testing and
+         certification of all newly installed equipment to ensure a successful migration to the MDF.
+
+
+
+
+                                                           14
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                              SPECIFICATIONS
+
+      1. All switches requested in this proposal must be 10GB 48 Port (unless noted below) full PoE with
+         fiber connections where applicable.
+
+      2. UPS must be equivalent or better than models listed in the Switch Inventory Table.
+
+      3. The solution must not require on-site controllers or management hardware/software as part of the
+         solution.
+
+      4. Licensing for the solution should include ALL current and ALL future features.
+
+      5. Licensing for the solution shall include next business day hardware replacement and 24x7
+         support.
+
+      6. Full lifetime warranty on all products (except cameras and outdoor access points) with advanced
+         replacement.
+
+      7. The solution must include a cloud-based application for management and configuration.
+
+      8. Switches must include network wide search capabilities, in which a specific device, a group of
+         devices, type of device, or type of port configuration can be located and configured.
+
+      9. Switches must allow for mass port changes on multiple switches simultaneously from a GUI,
+         without the use of CLI or 3rd party management applications.
+
+      10. Switches must alert Network Administrators of changing port status or configuration change.
+
+      11. Switch Ports must have the ability to run cable tests and packet captures via the management
+          console.
+
+      12. Switch Ports must track uptime history for troubleshooting purposes.
+
+      13. When a switch needs to be replaced due to hardware failure, the system must allow
+          configurations to be automatically copied to the replacement switch.
+
+      14. The solution must manage and sync firmware versions across all switches, regardless of model.
+
+      15. The solution must allow for 1-click mass upgrades for all switches simultaneously, regardless of
+          model. Additionally, the solution must notify Network Administrators when a new feature or
+          firmware version is available.
+
+
+
+
+                                                         15
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                              Switch Inventory Table
+                                                 MDF                     IDF             IDF
+                                                                IDF
+    School                                       Core                    48              24
+                                                                Switch
+                                                 Switch                  Port            Port
+    Adolfo Camarillo High School                 1              46       38              8
+    Channel Islands High School                  3              54       54              0
+    Frontier High School                         1              11       11              0
+    Hueneme High School                          1              27       26              1
+    Oxnard High School                           1              62       60              2
+    Pacifica High School                         1              61       58              1
+    Rancho Campana High School                   1              42       40              2
+    Rio Mesa High School                         1              47       38              9
+    TOTAL                                        10             350      325             25
+
+
+
+
+                                               UPS Inventory Table
+     School                                     Quantity                   Model(s)
+     Adolfo Camarillo High School                                          SYAFSU16
+                                                42                         SYBFXR3RM
+                                                                           SURT6000XLTQ
+                                                                           SURT6000XLT
+     Channel Islands High School                28                         SRT5KRMXLT
+                                                                           SURT6000XLT
+     Frontier High School                       20
+     Hueneme High School                        44                         SURT6000XLT
+                                                                           SYPM4KP
+                                                                           SYAF16KRMT
+     Oxnard High School                         36                         SRT5KRMXLT
+                                                                           SURT6000XLT
+                                                                           SRT5KXLT
+                                                                           SURT6000XLTQ
+                                                                           SYAFSU16
+                                                                           SYAF16KRMT
+     Pacifica High School                       28                         SYAFSU16
+                                                                           SYAF16KRMT
+     Rancho Campana High School                 18                         SRT5XLT
+                                                                           SYAF16KRMT
+                                                                           SYAFSU16
+     Rio Mesa High School                       24                         SURT6000XLT
+                                                                           SYBFXR3RM
+                                                                           SYAFSU16
+                                                                           SYAF16KRMT
+     TOTAL                                      240
+
+
+
+
+                                                           16
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                                  PROPOSAL FORM
+Name of Proposer: _________________________________________________________________
+To: Oxnard Union High School District acting by and through its Governing Board herein called the
+“District”.
+      1. The undersigned Proposer, having become familiarized with all the following documents including but
+         not limited to the Notice Inviting Proposals, E-rate Requirements, General Instructions and Conditions,
+         Specifications, Proposal Form, Non-Collusion Declaration, References, Suspension and Debarment
+         Certification, S u b c o n t r a c t o r F o r m a n d D I R R e q u i r e m e n t s , Bonding Requirements and all
+         modifications, addenda and amendments, if any (hereinafter R F P Documents), hereby proposes and
+         agrees to be bound by all the terms and conditions of the RFP Documents and agrees, i f a w a r d e d ,
+         to provide and furnish the goods in accordance with laws, codes, regulations, ordinances and any other
+         legal requirements, in connection with the following:
+
+
+                                                          RFP 579
+                                               REQUEST FOR PROPOSALS
+                                                            FOR
+                                              Technology Equipment (E-RATE)
+
+
+            all in strict conformity with the RFP Documents, including Addenda Nos. _____, _____, _____, _____
+            on file at the office of the Oxnard Union High School District for the sums as set forth in the Proposal
+            Form Pricing Table.
+      2. It is understood that the District reserves the right to reject any or all proposals or to waive any
+         irregularities or informalities in any proposals or in the proposal process. Offeror agrees that this
+         proposal shall remain open and not be withdrawn for the period specified in the RFP Document.
+
+      3. Communications conveying notice of award of the contract, requests for additional information or
+         other correspondence should be addressed to the Offeror at the address stated below.
+
+      4. The name(s) of all persons interested in the proposal as principals are as follows:
+         ___________________________________________________________________
+         ___________________________________________________________________
+         ___________________________________________________________________
+
+
+      5. The Offeror hereby warrants that the Offeror has all appropriate licenses and permits to perform the
+         work as specified in the RFP Documents and that such licenses and permits will be in force and effect
+         throughout the contract.
+
+      6. In submitting this proposal, the Proposer offers and agrees that if the proposal is accepted, it will
+         assign to the District all rights, title and interest in and to all causes of action it may have under Section 4
+         of the Clayton Act (15 U.S.C. Section 15) or under the Cartwright Act (Business & Professions Code
+         Section 16700, et seq.) arising from purchases of goods, materials, or services by the Proposer for sale to
+         the District pursuant to the RFP. Such assignment shall be made and become effective at the time
+
+
+                                                              17
+OUHSD RFP 579 Technology Equipment (E-Rate)
+            the DISTRICT’S tender final payment under the contract. (Public Contract Code Section 7103.5;
+            Government Code Section 4450, 4451 and 4552).
+
+      7. The Offeror hereby certifies that it is, and at all times during the performance of work hereunder
+         shall be, in full compliance with the provisions of the Immigration Reform and Control Act of 1986
+         ("IRCA") in the hiring of its employees, and the Proposer shall indemnify, hold harmless and defend the
+         District against any and all actions, proceedings, penalties or claims arising out of the Proposer's failure
+         to comply strictly with the IRCA.
+
+      8. It is understood and agreed that, if requested by the District, the Offeror shall furnish a notarized
+         financial statement, references, and other information required by the District sufficiently
+         comprehensive to permit an appraisal of Proposer's ability to perform the work.
+
+      9. Time is of the essence.
+
+
+      10. The required Non-Collusion Declaration is attached as required by Public Contract Code Section
+          7106. Proposer understands and agrees that failure to submit a completed and signed declaration will
+          render the Proposal automatically nonresponsive.
+
+      11. Failure to complete the Proposal Form in its entirety may render a submittal nonresponsive.
+
+
+      12. Quantity estimates are approximate, and the District does not guarantee a minimum or maximum
+          amount.
+
+      13. Items shall be priced F.O.B. Destination – Freight Prepaid and Allowed (Offeror/Service
+          Provider/Vendor pays all freight, bears all freight, owns goods in transit, and files any claims).
+
+
+  PRICING TABLE
+      TABLE SUBTOTALS                                     QUANTITY UNIT PRICE                TOTAL PRICE
+      SWITCHES                                                  360
+      BATTERY MODULE                                            240
+      POWER MODULE                                              120
+      EQUIPMENT MISC
+      SWITCH INSTALLATION
+      UPS INSTALLATION
+      SERVICE/SUPPORT/MAINTENANCE
+
+                               SUBTOTAL
+
+                                              SALES TAX
+
+                                    GRAND TOTAL
+Price must include any shipping, handling, drayage, assembly, or any other related cost. Delivery
+charges, fuel surcharges or any additional costs associated with delivery will not be accepted or paid.
+      SPIN No._________________________________________________________________
+      FRN No._________________________________________________________________
+
+
+                                                            18
+OUHSD RFP 579 Technology Equipment (E-Rate)
+      FCC Green Light Status: (Circle One)      YES               NO
+      If YES, you MUST attach evidence of Greenlight status with your proposal.
+
+      The undersigned hereby declares that all of the representation of this RFP are made under penalty of perjury
+         under the laws of the State of California.
+
+
+
+
+      Individual Name: _____________________________________________________
+      Signed By: _________________________________________________________
+      Print Name: ________________________________________________________
+      Date: ______________________________________________________________
+      Business Address: ___________________________________________________
+      ___________________________________________________________________
+      Telephone: _________________________________________________________
+      E-Mail: ____________________________________________________________
+
+
+
+
+                                                         19
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                              NON-COLLUSION DECLAR ATION
+  The undersigned declares:
+
+
+  I am the ______________________ of _______________________the party making the foregoing bid.
+  The bid is not made in the interest of, or on behalf of, any undisclosed person, partnership, company, association,
+  organization, or corporation. The bid is genuine and not collusive or sham. The bidder has not directly or
+  indirectly induced or solicited any other bidder to put in a false or sham bid. The bidder has not directly or
+  indirectly colluded, conspired, connived, or agreed with any bidder or anyone else to put in a sham bid, or to
+  refrain from bidding. The bidder has not in any manner, directly or indirectly, sought by agreement,
+  communication, or conference with anyone to fix the bid price of the bidder or any other bidder, or to fix any
+  overhead, profit, or cost element of the bid price, or of that of any other bidder. All statements contained in the
+  bid are true. The bidder has not, directly or indirectly, submitted his or her bid price or any breakdown
+  thereof, or the contents thereof, or divulged information or data relative thereto, to any corporation, partnership,
+  company, association, organization, bid depository, or to any member or agent thereof, to effectuate a collusive or
+  sham bid, and has not paid, and will not pay, any person or entity for such purpose.
+  Any person executing this declaration on behalf of a bidder that is a corporation, partnership, joint venture,
+  limited liability company, limited liability partnership, or any other entity, hereby represents that he or she has full
+  power to execute, and does execute, this declaration on behalf of the bidder.
+  I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct
+  and that this declaration is executed on this:
+
+
+  City of __________________                    State of __________________
+
+
+
+  Signature
+
+
+
+   Print Name
+
+
+
+   Title
+
+
+
+
+                                                                  20
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                          CERTIFICATION OF PRIMARY PARTICIPANT
+                       REGARDING DEBARMENT, SUSPENSION, AND OTHER
+                                 RESPONSIBILITY MATTERS
+
+The __________________________________________________________________
+                            Firm name/principal
+
+certifies to the best of its knowledge and belief, that it and principals:
+
+      1. Are not presently debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded
+         from covered transactions by any federal department or agency;
+
+      2. Have not within a three-year period preceding this bid been convicted of or had a civil judgment rendered
+         against them for commission of fraud or a criminal offense in connection with obtaining, attempting to
+         obtain, or performing a public (federal, state or local) transaction or contract under a public transaction;
+         violation of federal or state antitrust statutes or commission of embezzlement, theft, forgery, bribery,
+         falsification or destruction of records, making false statements, or receiving stolen property;
+
+      3. Are not presently indicted of or otherwise criminally or civilly charged by a government entity (federal,
+         state, or local), with commission of any of the offenses enumerated in paragraph (2) of this certification;
+         and
+
+      4. Have not within a three-year period preceding this bid had one or more public transactions (federal, state,
+         or local) terminated for cause or default.
+
+If unable to certify to any of the statements in this certification, the participant shall attach an explanation to this
+certification.
+
+THE PRIMARY PARTICIPANT ____________________________________________
+                                         Firm name/principal
+
+CERTIFIES OR AFFIRMS THE TRUTHFULNESS AND ACCURACY OF THE CONTENTS OF THE
+STATEMENTS SUBMITTED ON OR WITH THIS CERTIFICATION AND UNDERSTANDS THAT
+THE PROVISIONS OF 31 U.S.C SECTIONS 3801 ET SEQ. ARE APPLICABLE THERETO.
+
+
+                                                        ________________________________________
+                                                         Signature and Title of Authorized Official
+
+
+
+
+                                                           21
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                                REFERENCES
+
+Name of Proposer: _________________________________________________________________
+The District required references of most current and relevant projects be listed, including at least three (3) school
+districts or public agencies in California.
+
+      1. Name of Reference: ___________________________________________________________________
+         Address: ____________________________________________________________________________
+         City/State/Zip: _______________________________________________________________________
+         Contact Person: _______________________________________________________________________
+         Telephone: _________________________ Email: ___________________________________________
+         Project Name: _____________________________ Project Timeline: ___________________________
+
+      2. Name of Reference: ___________________________________________________________________
+         Address: ____________________________________________________________________________
+         City/State/Zip: _______________________________________________________________________
+         Contact Person: _______________________________________________________________________
+         Telephone: _________________________ Email: ___________________________________________
+         Project Name: _____________________________ Project Timeline: ___________________________
+
+      3. Name of Reference: ___________________________________________________________________
+         Address: ____________________________________________________________________________
+         City/State/Zip: _______________________________________________________________________
+         Contact Person: _______________________________________________________________________
+         Telephone: _________________________ Email: ___________________________________________
+         Project Name: _____________________________ Project Timeline: ___________________________
+
+      4. Name of Reference: ___________________________________________________________________
+         Address: ____________________________________________________________________________
+         City/State/Zip: _______________________________________________________________________
+         Contact Person: _______________________________________________________________________
+         Telephone: _________________________ Email: ___________________________________________
+         Project Name: _____________________________ Project Timeline: ___________________________
+
+      5. Name of Reference: ___________________________________________________________________
+         Address: ____________________________________________________________________________
+         City/State/Zip: _______________________________________________________________________
+         Contact Person: _______________________________________________________________________
+         Telephone: _________________________ Email: ___________________________________________
+         Project Name: _____________________________ Project Timeline: ___________________________
+
+      6. Name of Reference: ___________________________________________________________________
+         Address: ____________________________________________________________________________
+         City/State/Zip: _______________________________________________________________________
+         Contact Person: _______________________________________________________________________
+         Telephone: _________________________ Email: ___________________________________________
+         Project Name: _____________________________ Project Timeline: ___________________________
+
+
+
+
+                                                          22
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                                 PROPOSAL SECURITY
+
+       KNOWN ALL MEN BY THESE PRESENTS, that we as Principal, and
+       as Surety, an admitted Surety insurer pursuant to Code of Civil Procedure Section 995.120 are held and
+       firmly bound unto the Oxnard Union High School District, hereinafter called the DISTRICT, in the
+       penal sum of TEN PERCENT (10%) OF THE TOTAL AMOUNT OF THE BID for the Principal
+       submitted to the said DISTRICT for the work described below for the payment of which sum in lawful
+       money of the United States, well and truly to be made, we bind ourselves, our heirs, executors,
+       administrators, successors and assigns, jointly and severally, firmly by these presents.
+       THE CONDITION OF THIS OBLIGATION IS SUCH that whereas the Principal has submitted the
+       accompanying bid dated       , 20__, for the
+                                              RFP 579 Technology Equipment (E-Rate)
+
+
+       NOW, THEREFORE, if the Principal shall not withdraw said bid within the period specified therein after
+       the opening of the same, or, if no period be specified, within one hundred eighty (180) calendar days after
+       the said opening; and if the Principal is awarded the contract, and shall within the period specified
+       therefore, or if no period be specified, within (5) days after the prescribed forms are presented to Principal
+       for signature, enter into a written contract with the DISTRICT, in accordance with the bid as accepted and
+       give bond with good and sufficient surety or sureties, as may be required for the faithful performance and
+       proper fulfillment of such contract and for the payment for labor and materials used for the performance
+       of the contract, or in the event of the withdrawal of said bid within the period specified or the failure to
+       enter into such contract and give such bonds within the time specified, if the Principal shall pay the
+       DISTRICT the difference between the amount specified in said bid and the amount for which the
+       DISTRICT may procure the required work and/or supplies, if the latter amount be in excess of the former,
+       together with all costs incurred by the DISTRICT in again calling for bids, then the above obligation shall
+       be void and of no effect, otherwise said obligation shall remain in full force and effect.
+                Surety, for value received, hereby stipulates and agrees that no change, extension of time,
+       alteration or addition to the terms of the contract or the call for bids, or to the work to be performed
+       thereunder, or the specifications accompanying the same, shall in any way affect its obligation under this
+       bond, and it does hereby waive notice of any such change, extension of time, alteration or addition to the
+       terms of said contract or the call for bids, or to the work, or to the specifications.
+               In the event suit is brought upon this bond by the DISTRICT and judgment is recovered, the
+       Surety shall pay all costs incurred by the DISTRICT in such suit, including a reasonable attorney's fee to
+       be fixed by the court.
+       IN WITNESS WHEREOF the parties have executed this instrument under their several seals this ___ day
+       of _____________, 20__, the name and corporate seal of each corporate party being hereto affixed and
+       these presents duly signed by its undersigned representative, pursuant to authority of its governing body.
+
+
+
+
+       (Corporate Seal of Principal,           ______________________________________
+
+
+
+                                                              23
+OUHSD RFP 579 Technology Equipment (E-Rate)
+       if Corporation)                        Principal (Proper Name of Bidder)
+
+
+       ______________________________________
+       By
+
+
+        _________________________________________
+       Signature of Bidder
+
+
+       (Corporate Seal of Surety)
+
+
+       _________________________________________
+       Surety
+
+
+          _____________________________________
+       By
+
+
+       (Attach Attorney-in-Fact
+       Certificate and Required
+       Acknowledgements)
+
+
+       ________________________________________
+       Attorney-in-Fact
+
+
+       ________________________________________
+       Name and Address of California
+       Agent of Surety
+
+
+         _______________________________________
+       Telephone Number of California
+       Agent of Surety
+
+
+                                                               24
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                                              DESIGNATION of SUBCONTRACTORS
+Name of Proposer: __________________________________________________________________
+
+The undersigned hereby certifies to the District, subject to penalty for perjury pursuant to the laws of the State of
+California, that the following is true and correct:
+(i)      The undersigned is a duly-authorized representative of the Proposer and, in that capacity, has executed this
+         certification on behalf of the Proposer.
+(ii)     The Proposer knows and understands the provisions of the Subletting and Subcontracting Fair Practices Act
+         (Public Contract Code Section 4100 et seq.), including, without limitation, the consequences of not listing
+         any subcontractor, or listing more than one subcontractor, for any portion of the work on the Project.
+(iii) The Proposer is aware and acknowledges that, if Proposal alternates are required, the Proposer must submit
+      a separate, complete list of subcontractors for each such Proposal alternate.
+(iv)     All subcontractors that the Proposer will use, if awarded a contract for work on the Project, are listed on the
+         following Attachment Sheet(s), and the Proposer represents and warrants that each such subcontractor shall
+         be duly and appropriately licensed by the Contractors State License Board of the State of California prior to
+         commencing any of the Work.
+(v)      The Proposer is aware and acknowledges that, not later than twenty-four hours following the Proposal
+         deadline, the Proposer must submit to the District, in writing, the address, telephone number, and contact
+         person’s first and last name, for each listed subcontractor.
+(vi)     The Proposer is aware and acknowledges that, if awarded a contract for work on the Project, the Proposer
+         shall not, without the District’s written consent: (i) substitute any subcontractor in place of a listed
+         subcontractor; (ii) permit any subcontract for work on the Project to be assigned or transferred; (iii) allow
+         any such work, labor or service to be performed by anyone other than the applicable listed subcontractor; or
+         (iv) sublet or subcontract any of the work in excess of one-half of one percent of Proposer’s total Proposal
+         for which the Proposer did not list a subcontractor.
+
+
+Representative Name:
+
+
+Representative Title:
+
+
+Representative Signature:
+
+
+Date Signed:
+
+
+Note: This certification page must be accompanied by the list of subcontractors on the following attachment
+      sheet. Make and use copies of the attachment sheet, as necessary to list additional subcontractors.
+
+
+
+
+                                                            25
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                    DESIGNATION OF SUBCONTRACTORS LISTING – ATTACHMENT SHEET
+Proposing Contractor: __________________________________________________________________
+
+1. Subcontractor Name: ________________________________     CSLB License No.: _______________
+
+      Location of Business: ________________________________________________________________
+
+      Portion of Work: ____________________________________________________________________
+
+
+
+2. Subcontractor Name: ________________________________     CSLB License No.: _______________
+
+      Location of Business: ________________________________________________________________
+
+      Portion of Work: ____________________________________________________________________
+
+
+
+3. Subcontractor Name: ________________________________     CSLB License No.: _______________
+
+      Location of Business: ________________________________________________________________
+
+      Portion of Work: ____________________________________________________________________
+
+
+
+4. Subcontractor Name: ________________________________     CSLB License No.: _______________
+
+      Location of Business: ________________________________________________________________
+
+      Portion of Work: ____________________________________________________________________
+
+
+
+5. Subcontractor Name: ________________________________     CSLB License No.: _______________
+
+      Location of Business: ________________________________________________________________
+
+      Portion of Work: ____________________________________________________________________
+
+
+
+6. Subcontractor Name: ________________________________     CSLB License No.: _______________
+
+      Location of Business: ________________________________________________________________
+
+      Portion of Work: ____________________________________________________________________
+
+
+
+
+                                                 26
+OUHSD RFP 579 Technology Equipment (E-Rate)
+                         CERTIFICATION OF CONTRACTOR and
+                  SUBCONTRACTOR DIVISION OF INDUSTRIAL RELATIONS
+                                  REGISTRATION
+
+Pursuant to Public Contract Code Section 1725.5, a contractor or subcontractor must be registered with the Department of
+Industrial relations in order to bid on, to be listed in a bid proposal or to engage in the performance of any defined public work
+contract.
+
+I _________________________________________, _________________________________________ certify that
+                    (Name)                                                    (Title)
+
+
+
+
+_____________________________________ is currently registered as a contractor with the Department of Industrial
+                  (Contractor Name)
+
+
+
+
+Relations (DIR):
+
+            Contractor’s DIR Registration Number _____________________
+
+            Expiration date June 30, 20__
+
+
+
+Contract further acknowledges:
+
+
+
+      1.    Contractor shall maintain DIR registered status for the duration of the project without a gap in registration.
+      2.    Contractor shall note in its invitation to bid the DIR’s registration requirement for all subcontractors and their
+            subcontractors.
+      3.    Contractor shall ensure that all subcontractors are registered at time of bid opening and maintain registered status for
+            the duration of the project.
+      4.    Contractor is to furnish DIR Registration Number for all subcontractors on the project within 24 hours of the bid opening.
+      5.    Contractor shall substitute any subcontractor with a DIR registered contractor if listed subcontractor is unable to perform
+            the work.
+
+
+Failure to comply with any of the above may result in a determination of non-responsiveness.
+
+
+
+I declare under penalty of perjury under California law that the foregoing is true and correct.
+
+_____________________________________
+
+Contractor Signature
+
+
+
+__________________________________
+Date
+
+
+
+
+                                                                   27
+OUHSD RFP 579 Technology Equipment (E-Rate)
+

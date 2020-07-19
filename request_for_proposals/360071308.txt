@@ -1,0 +1,853 @@
+                                               NEVADA SYSTEM of HIGHER EDUCATION
+                                       BUSINESS CENTER NORTH, PURCHASING DEPARTMENT
+
+                                        REQUEST FOR PROPOSAL (RFP):
+                                            E-Commerce System
+                                                         RFP No.: 8268
+                                                            On behalf of the
+                                                  University of Nevada, Reno
+
+                                                           KEY RFP DATES
+
+      TIMETABLE FOR RFP
+      Issue RFP                                                                                           Thursday, July 2, 2015
+      Question Submittal Deadline                                                                         Thursday, July 9, 2015
+      Answers to Questions Deadline                                                                      Thursday, July 16, 2015
+      Proposal due Date & Time (Public Bid Opening)                                      2:00pm PST, Thursday, July 23, 2015
+      Award Date (Estimated)                                                                          Friday, August 21, 2015
+
+This RFP is issued by the office and person named below. All correspondence, including RFP questions, requests for
+clarification, and completed responses should be directed to the office and person named in the box below.
+
+    All proposals must be clearly labeled with this RFP number and the name of the proposer on the outside of the package(s)
+         Paper: One (1) original and (1) copies               Electronic Format: (x) USB drive or CD required
+                               All paper and electronic copies must be exact duplicates of the original.
+
+
+                               Nevada System of Higher Education (NSHE)
+                                          Business Center North (BCN)
+                                        Purchasing Department, Bldg. 137
+                              Attention: Melanie Lever, C.P.M., Assistant Director
+                                                 RFP No.: 8268
+                                            1664 North Virginia Street
+                                              Reno, NV 89557-0242
+                                              Phone: 775-784-6552
+                                               Fax: 775-784-6017
+                                             Email: mlever@unr.edu
+
+Please acknowledge receipt of this document by emailing mlever@unr.edu. Include with your acknowledgement your
+company’s name and contact person along with postal address, email address, fax and telephone number.
+All costs incurred in the preparation and submission of the response to this RFP shall be the responsibility of the
+Proposer. Recipients of an RFP who do not wish to submit a proposal should email the above listed buyer or send a letter
+to the above address stating “NO BID” in reference to the RFP number in question.
+
+Any communication with University staff regarding this Request for Proposal without prior approval of the above individual
+may result in the rejection of your proposal.
+
+Note: All communication and updates regarding this RFP will be posted at the following website:
+http://www.bcn-nshe.org/purchasing/solicitations/
+(Current solicitations are listed first. Scroll down past current solicitations to see results once bid is awarded.)
+
+                                                Business Center North Purchasing Department:
+                             Desert Research Institute • Great Basin College • Truckee Meadows Community College
+                                             University of Nevada, Reno • Western Nevada College
+                                          NSHE System Administration • System Computing Services
+                                                        http://www.bcn-nshe.org/purchasing/
+                                                   E-Commerce System
+                                                            RFP No.: 8268
+
+
+                                                     Table of Contents
+                                                                                                                                   Pages
+
+SECTION 1: PROPOSAL PREPARATION .................................................................................................... 3
+
+
+      A. Issuing Authority
+
+      B. Instructions
+
+      C. General Terms and Conditions
+
+      D. Required Certificates / Vendor Information
+
+      E. References
+
+
+SECTION 2: STATEMENT OF WORK ........................................................................................................ 12
+
+      A. Overview
+
+      B. Scope of Work
+
+
+SECTION 3: PROPOSAL REQUIREMENTS .............................................................................................. 13
+
+      A. Proposal Submittal Requirements
+
+                  1. Cost / Pricing
+
+                  2. Response Format
+
+
+
+
+RFP# 8268                                                                                                                  Page 2 of 15
+      SECTION 1: PROPOSAL PREPARATION
+
+A. Issuing Authority:
+
+     The Nevada System of Higher Education (NSHE), Business Center North (BCN) Purchasing Department is
+     the Issuing Authority for this RFP and for questions concerning the RFP process. All correspondence and
+     questions pertaining to the content of this RFP must be emailed to the issuing Purchasing buyer listed
+     below.
+            BCN Contact:                                           Project Manager:
+
+               Melanie Lever, C.P.M.                                       Jeff Springer
+               BCN Purchasing                                              Information Technology
+               1664 N. Virginia Street, Mail Stop 0242
+               Reno, Nevada 89557-0242
+               775-784-6552
+               mlever@unr.edu
+
+B.    Instructions
+
+     1. Preparation, Format of Proposals:
+        Proposals shall be signed by an individual authorized to commit the company or corporate entity and to conduct
+        discussions, if required, prior to issuance of a contractual document resulting from this Request for Proposal
+        (RFP). The NSHE reserves the right to reject any or all proposals, or to make an award in the best interests of
+        the NSHE and the University to the selected proposer(s) without further discussion or negotiations. It is solely the
+        proposer’s responsibility to submit their proposal in the format required. Failure to do so may result in your
+        proposal being declared non-responsive.
+
+            Specific elements of a properly prepared proposal include:
+            a) The name of the proposer, the RFP number and page number must appear on each page.
+            b) The person signing the proposal must initial erasures or other changes.
+            c) All cost information must be submitted separately, following the balance of the proposal.
+            d) All proposers must submit a minimum of three references with similar installations with the products and
+               services specified in the Request for Proposal Statement of Work.
+            e) All proposers shall submit all contracts and agreements expected to be executed should they be selected as
+               the awarded vendor for vetting by NSHE and the University.
+
+            The suggested format to be followed is:
+                  Complete Table of Contents;
+                  Introduction or executive summary;
+                  Unequivocal statement of proposer’s agreement to all terms and conditions with clear explanations of any
+                   exceptions;
+                  List of a minimum of three references including complete contact information;
+                  Signed Certifications of Non-segregated Facilities, Non-Discrimination in Employment, and Debarment,
+                   Suspension or Ineligibility;
+                  Detailed description of proposal that includes content requested in Sec.3, Statement of Work.
+
+     2. Submission of Proposals:
+        Proposals should be prepared simply and economically, providing a straightforward, concise description of the
+        respondent’s capability to satisfy the requirements of the proposal.
+
+            Proposals shall be sealed and mailed or hand carried so as to arrive at the location designated herein no
+            later than the time and date set for receipt of the proposals.
+
+            This Request for Proposal number and the name of the proposer shall appear on the outside of the package for
+            the number of hard copies specified in the RFP Statement of Work following these formats:
+                • Acceptable electronic formats are Microsoft Word, Microsoft Excel and Adobe PDF.
+                • Electronic copies must be supplied on a USB drive or CD when required.
+                • FAXED or EMAILED proposals will not be accepted.
+RFP# 8268                                                                                                      Page 3 of 15
+    3. Modification of Proposals:
+       The proposer may modify Proposals at any time if mailed or hand carried so as to arrive on or before the date and
+       time set for receipt of proposals.
+
+    4. Withdrawal of Proposals:
+       Proposals may be withdrawn by email, written or fax notice received by the NSHE prior to the due date and time
+       of this proposal.
+
+    5. Proposal Opening Procedure:
+       Proposals shall be opened by the NSHE BCN Purchasing Department, in a manner that avoids disclosure of
+       contents to competing proposers. A register of proposals containing the names of all responses received shall be
+       prepared and retained by the Director of Purchasing. This register shall be open for public disclosure after
+       contract award, except as otherwise outlined herein.
+
+    6. Late Proposals:
+       Proposals, modifications, or withdrawals received after the date and time set for receipt of this proposal will not be
+       considered. Proposals received after the due date and time will be rejected and returned unopened upon
+       request, at the expense of the proposer. The proposer is responsible for ensuring third party deliveries arrive at
+       the time and place indicated in this document.
+
+    7. Validity of Proposals:
+       Proposals in response to this Request for Proposal shall be valid for a period of ninety (90) days from the due
+       date of the proposal.
+
+    8. Confidential/Proprietary Information:
+       Proposals are not to Contain Confidential/Proprietary Information. NSHE is subject to the Nevada Public Records
+       Law, Nevada Revised Statutes, Chapter 239. Pursuant to NRS 239.010, et seq., each and every document
+       provided to NSHE is presumed to be a "public record" open to inspection and copying by any person. Proposals
+       must contain sufficient information to be evaluated without reference to any confidential or proprietary information.
+       Any Proposal submitted that is marked "confidential" or "proprietary," or that contains materials so marked, may
+       be returned to the Proposer and not be considered for award.
+
+            All Information in Proposals will be released pursuant to a Public Records Request. The NSHE advises that the
+            content of your proposal or other information submitted to the NSHE is subject to public release, upon request,
+            after contract award. If there is a request under the Public Records Law to inspect any part of the proposal
+            including any information marked as "confidential" or "proprietary," NSHE will give no less than 14 calendar day
+            notice to the Proposer of NSHE's intent to release all information requested in order to allow the Proposer the
+            opportunity to seek court protection from public release of the information which the Proposer asserts is
+            confidential. In the absence of an order by a Nevada court, with jurisdiction over NSHE, not to release the
+            requested information or documents, it will be released.
+
+            NSHE is not liable for disclosure of Proposer's documents or information. NSHE shall not in any way be liable to
+            Proposer for the disclosure of any information contained in Proposer's response to the RFP. Furthermore,
+            Proposer represents and warrants that any document or information it provides to NSHE does not contain
+            proprietary or confidential information owned or controlled by a third-party. If NSHE is required to defend an
+            action with regard to information or documents provided by Proposer that is alleged to contain confidential or
+            proprietary information owned or controlled by a third-party, Proposer shall defend and indemnify NSHE, its
+            officers, employees and agents from and against any and all such claims, demands, losses, damages, costs and
+            expenses, including attorney's fees and costs.
+
+    9. Evaluations:
+       Proposals will be evaluated in terms of the completeness and quality of features contained in the Proposal,
+       compliance with the RFP process, pricing, proven track record, references, timeline, payment terms and previous
+       performance with NSHE or the specific University. Evaluation criteria defined in this RFP will be used by the
+       evaluators to determine the best qualifying proposal. NSHE shall not be obligated to accept low bid, but will make
+       an award in the best interest of NSHE after careful evaluation of all proposals received. Not meeting a certain
+       criteria does not necessarily exclude a respondent from the evaluation.
+
+
+
+RFP# 8268                                                                                                       Page 4 of 15
+            Evaluation Criteria:
+
+            The University/College will review all accepted responses based on the following criteria:
+
+                    Criteria
+                •   Compliance w/ RFP specifications
+                •   References
+                •   Experience and Financial Stability
+                •   Pricing/payment terms
+                •   Number of features provided by the service
+                •   How closely the provided features align with the requested items
+
+    10. Oral Presentation:
+        NSHE reserves the right to require any or all Proposers to make a formal, oral presentation. The presentation
+        may be either in-person at a designated site specified by NSHE or a web based meeting. The Purchasing
+        Department shall coordinate the scheduling of any presentations required. Each proposer should be prepared to
+        discuss and substantiate all areas of its proposal. In conducting discussions, there shall be no disclosure of any
+        information derived from proposals submitted by competing proposers. The proposer shall be responsible for all
+        costs associated with the presentation.
+
+    11. Rejection of Proposals:
+        NSHE reserves the right to reject any and all proposals received, or any part thereof. Proposals may be rejected
+        for any of, but not limited to, the following causes:
+
+            •   Proposal lacks signature by an authorized representative of Proposer;
+            •   Evidence of collusion exists between the Proposers;
+            •   Proposer fails to meet the terms and conditions as specified in the RFP;
+            •   Evidence submitted by the Proposer leads NSHE to believe that Proposer will be unable to carry out the
+                obligations of the agreement and to complete any or all of the work described;
+            •   NSHE investigation determines the Proposer is not qualified to meet the obligations of the agreement and
+                complete work described;
+            •   Proposed cost of services exceeds budgetary constraints.
+
+    12. Protests:
+        A person who bids on a contract may file a notice of protest regarding the awarding of a contract within 5
+        business days after the date the recommendation to award a contract is issued. The notice shall be delivered to
+        the Director of BCN Purchasing and must include a statement specifying the basis for the protest, with specific
+        reference to the applicable NRS provisions the protesting party alleges have been violated. Any notice of protest
+        that is not submitted within 5 business days after the recommendation to award a contract will not be considered
+        and any untimely filing of a notice of protest shall constitute a waiver of the right to file the protest.
+
+            A person filing a protest will be required to post a protest bond with a solvent surety authorized to do business in
+            Nevada. The bond posted or other security must be submitted with the notice of protest and must be in an
+            amount equal to 25% of estimated total value of the contract. The failure to post the required bond, or late
+            posting of such bond, shall be constitute a waiver of the right to file the protest.
+
+            The notice of protest will be reviewed by the Director of BCN Purchasing who will render a decision within 5
+            business days. If the protesting party is not satisfied with the Director’s decision, an appeal may be submitted to
+            the Vice President of Finance & Administration within 5 business days after the date the Director of BCN
+            Purchasing issues the decision on the notice of protest. The Vice President of Finance & Administration will
+            render a final decision, and no further appeal will be permitted.
+
+            All costs incurred in responding to the bid protest will be deducted from the protest bond, unless the protest is
+            upheld in which case the bond or other form of security will be returned.
+
+            By submitting a notice of protest, the protesting party agrees that NSHE will not liable for any costs, expenses,
+            attorney’s fees, loss of income or other damages sustained by the protesting party in the protest process and
+            waives any and all claims for such costs, expenses, attorney’s fees, loss of income or other such damages.
+RFP# 8268                                                                                                          Page 5 of 15
+    13. Award of Contract:
+        The Director of Purchasing reserves the right to enter discussions with any or all proposers after the NSHE has
+        initially reviewed proposals. This Request for Proposal may result in the award of contract(s) to the most
+        qualified responsive and responsible proposer whose proposal, after evaluation by the NSHE and University, is
+        considered the most advantageous to the NSHE and the University.
+        This Request for Proposal will be subject to "evaluation" by the NSHE BCN Purchasing Department and the
+        University. The proposer is solely responsible for ensuring the content of its proposal meets the evaluation criteria
+        set forth in the Request for Proposal. Additional, previously published information describing product features and
+        capabilities and/or the vendor’s capabilities and track record will be evaluated if such data is current and reflects
+        the proposer’s existing situation.
+        The BCN and the University reserve the right to reject any or all proposals and to waive minor irregularities not
+        considered by the NSHE to be essential to the evaluation process. The NSHE and the University may, at their
+        option, award parts of tasks if the Scope of Work lends itself to division and it is in the best interest of the NSHE
+        and the University.
+        NSHE reserves the right, where appropriate, to request "Best and Final" offers. Such responses shall be subject
+        to all provisions, and terms and conditions as set forth in the Request for Proposal, unless otherwise modified.
+
+            Contractual commitments are contingent upon the availability of funds as evidenced by the issuance of a signed
+            purchase order. Agreements may be subject to the approval of NSHE’s legal counsel and may require Board of
+            Regents approval prior to execution.
+
+            Unless specifically stated herein, if a conflict or inconsistency exists between the terms set forth in this RFP
+            document and successful Proposer’s proposal, the language in this RFP document shall take precedence.
+
+    C. General Terms and Conditions
+
+            The following terms and conditions govern the RFP process and any agreement(s) entered into as a result of
+            award of this RFP:
+
+    1. Term of Contract:
+       In the event a contract is entered into resulting from this awarded RFP it shall be for an initial period of one (1)
+       year with options to renew in additional one-year (1) increments unless otherwise specified in this Scope of Work.
+       Any contract term(s) will be mutually agreed upon. Contract renewals may be based on satisfactory vendor
+       performance in compliance with original proposal requirements.
+
+    2. Governing Law:
+       All contracts resulting from award of this RFP shall be governed by and construed in accordance with the laws of
+       Nevada. No action involving this contract may be brought except in the district and federal courts located in
+       Washoe County, Nevada, USA.
+
+    3. Contract Representatives:
+       The Director of Purchasing will handle most contractual matters.           A designated manager(s) for the
+       University/College will address day-to-day operations as well as specific procedural matters. Vendors are
+       expected to designate and maintain comparable representatives with authority to carry out their duties.
+
+    4. Assignment:
+       The Vendor shall not assign the contract in whole or in part without the express written consent of the Director of
+       Purchasing nor shall the Vendor have the right to authorize or permit the use of NSHE facilities by third parties
+       without the express written consent of the NSHE.
+
+    5. Termination:
+       The contract, or any portion of the contract, may be canceled for convenience by the NSHE, by giving sixty (60)
+       days written notice to the vendor.
+       The contract, or any portion of the contract, may be canceled for "just cause" by the NSHE, by giving sixty (60)
+       days written notice to the vendor. "Just cause" is defined as unsatisfactory performance or as any failure on the
+       part of the vendor to comply with any of the provisions or terms and conditions of the contract.
+
+RFP# 8268                                                                                                       Page 6 of 15
+            In the event the vendor fails to materially carry out or comply with any of the terms and conditions of the
+            established contract, the Director of Purchasing reserves the right to demand remedy of any failure or default
+            within ten (10) days of notification. In the event the vendor fails to remedy the failure or default within the
+            specified period, the Director of Purchasing shall have the right to terminate all or any part of the established
+            contract in accordance with Terms and Conditions of the contract document.
+            It is understood and agreed, notwithstanding the provisions, terms and conditions of this RFP, that in the event
+            any recognized funding authority fails to appropriate sufficient funds to the using department to enable obligations
+            to be fulfilled under the award contract, the NSHE will notify the Vendor by giving sixty (60) days written notice.
+            The NSHE will reimburse the Vendor for all services rendered through the end of the sixty (60) day notification
+            period.
+
+    6. Joinder Clause
+       Within the parameters of NRS 332.195 – “Joinder or mutual use of contracts by local governments” and with the
+       agreement of the vendor, the NSHE may join, or mutually use, the contracts or pricing agreements of appropriate
+       federal, state, and local entities and consortiums. Where the NSHE uses the original contract in order to obtain
+       quantity pricing or other competitive discounts, the original contract is not liable for the obligations of the NSHE.
+       The requirements for competitive quotations and/or formal bidding may be considered satisfied through the use of
+       the joinder contracts, including federal/state/local contracts, consortium agreements, and educational pricing
+       agreements.
+
+    7. Service of Notice:
+       Any notice may be served effectively upon the NSHE by delivering it in writing to the Nevada System of Higher
+       Education, Business Center North, 1664 N. Virginia St. MS/242, Director of Purchasing, Reno, Nevada 89557-
+       0242, or by depositing it in a United States Mail Box with postage prepaid and addressed to the Director of
+       Purchasing at the previously stated address.
+
+    8. Liability:
+       The Vendor, in performance of contract, shall release and discharge the Nevada System of Higher Education and
+       the Board of Regents from liability for, and assume the risk of, loss or damage to property of the Vendor. Further,
+       the Vendor shall save the Nevada System of Higher Education and the Board of Regents harmless from and
+       defend against all losses, all liabilities, expenses and other detriments of every nature and description, to which
+       the Nevada System of Higher Education and the Board of Regents may be subjected by reason of any negligent
+       act or omission of the Vendor, or any of the Vendor's subcontractors, employees, agents, invitees or licensees
+       where such loss, liability, expense or other detriment arises out of or in connection with the performance of work
+       under the contract, including, but not limited to liens, personal injury and loss of or damage to property of the
+       Nevada System of Higher Education or others.
+
+    9. Insurance Requirements:
+       Contractor shall, at Contractor’s sole expense, procure, maintain, and keep in force proper insurance for the
+       duration of the Contract conforming to BCN Risk Management’s minimum requirements which can be found at the
+       following website:
+
+            http://www.bcn-nshe.org/downloads/riskmgmt/NoticeToContractors.pdf
+
+            Vendor must agree to add the “Board of Regents of the Nevada System of Higher Education” as an additional
+            insured entity to the vendor’s commercial general liability policy and include a waiver of subrogation.
+
+            Unless specifically noted herein or otherwise agreed to by BCN Risk Management, the required insurance shall
+            be in effect on or prior to the commencement of work by Contractor and shall continue in force as appropriate until
+            the latter of:
+            a. Final acceptance by (Campus/College/Department) of the completion of this contract; or
+            b. Such time as the insurance is no longer required by (Campus/College/Department) under the terms of this
+            contract.
+
+            Note: Deductibles in excess of $100,000 and self-insured programs will require review and approval on a case-
+            by-case basis.
+
+    10. Evidence of Insurance:
+        Contractor shall provide the following documents in their proposal response:
+RFP# 8268                                                                                                          Page 7 of 15
+            •   Certificate of Insurance: the Accord 25 Certification of Insurance form to evidence the insurance policies and
+                coverage required of Contractor.
+
+            •   Upon award of any contract, Contractor will be required to provide an updated Accord 25 Certification of
+                Insurance including the required additional insured status and related endorsements.
+
+    11. Worker’s Compensation Insurance:
+        For work performed on campus, Nevada Law requires that the Contractor shall provide worker’s compensation
+        insurance as stated in NRS 616B.627 or proof that compliance with the provisions of NRS Chapter 616A-D and all
+        other related chapters is not required. The Contractor shall require the same insurance when the work is to be
+        performed by a subcontractor. Certificates of Contractor’s insurance shall be filed with the Nevada System of Higher
+        Education, Business Center North’s Director of Purchasing prior to commencing work.
+
+    12. Change Orders:
+        Changes in the scope, work or design, after award of contract, may be made or altered, increased or decreased.
+        In such event, the Vendor shall furnish a written cost estimate of the work to be added or omitted and, thereafter,
+        shall not proceed to make any change(s) until a written Change Order has been issued by the Nevada System of
+        Higher Education, Business Center North's Director of Purchasing or designee.
+
+    13. Contracts / Purchases by the Vendor:
+        The vendor shall not use the name of the NSHE or the University in contracts with suppliers or in any other
+        manner. The Vendor shall make all contracts in its own name and the Vendor alone shall be responsible for
+        those purchases and contracts. Nothing herein shall be construed as creating the relationship of partners, joint
+        ventures, or agency.
+
+    14. Codes/Regulations:
+        Vendor shall be responsible for complying with all City, County, State and Federal Codes and Regulations, as
+        applicable, in the performance of the Contract.
+
+    15. Liquidated Damages:
+        It is hereby mutually agreed, between the Vendor and NSHE, that Contract Time is an essential condition of the
+        Contract. The Vendor agrees that all work shall be prosecuted regularly, diligently, and without interruption at a
+        rate of progress that will ensure completion of the Work within the Contract Time. It is expressly understood and
+        agreed, by and between the Vendor and NSHE, that the time for completion described in the Contract Documents
+        is an acceptable time for the completion, taking into consideration the average climatic range and usual industrial
+        and labor conditions prevailing in the locality of the Work. If the Vendor shall neglect, fail, or refuse to complete
+        the Work within the specified Contract Time, as it may be extended by Change Order, then the Vendor does
+        hereby agree, as a part of the consideration for receiving the award of the Contract, to pay to NSHE, not as a
+        penalty, but as liquidated damages, the amount of money specified for each and every excess calendar day that
+        is required to complete the Work.
+        The unit amount of liquidated damages is established as one percent (1%) of the Contract Amount for every
+        Calendar Day after the Contract Time that the Work is not complete, and is a minimum and fixed amount mutually
+        agreed upon by and between the Vendor and NSHE due to the impracticability and extreme difficulty of
+        ascertaining in advance the actual damages NSHE would sustain should the Work not be completed within the
+        Contract Time. Should monies due the Vendor for work performed be insufficient to cover such liquidated
+        damages, then NSHE shall have the right to recover said sum or sums from the Vendor, from his Surety, or both.
+        Liquidated damages will be assessed against the Vendor for the time that is required to complete the Contract
+        over and above the authorized Contract Time. All changes to authorized Contract Time shall be set forth in
+        Change Orders. Liquidated Damages shall cease to be assessed on the date of Notice of Completion.
+
+    16. Claims for Damages:
+        Should either party to the Contract suffer injury or damage to person or property because of any act or omission
+        of the other party or of any of his employees, agents, or others for whose acts he is legally liable, claim shall be
+        made in writing to such other party within 14 days after the first knowledge of such injury or damage. Any costs
+        caused by defective or ill-times work shall be paid by the Vendor.
+
+    17. Contractor’s License:
+        All Bidders shall be licensed by the State of Nevada to do the type and value of work contemplated in this project.
+        If applicable, the successful bidder shall possess a valid and applicable Contractor's License issued by the
+        Nevada State Contractors Board under the provisions of Chapter 624 of Nevada Revised Statutes, at the time of
+RFP# 8268                                                                                                        Page 8 of 15
+            submitting his bid. All bidders shall ensure that all sub-bids utilized in preparing the bid have been obtained from
+            subcontractors who are properly licensed on the bid date by the Nevada Contractors Board to perform their
+            portion of the work. A subcontractor named by the bidder who is not properly licensed for that portion of the work
+            is unacceptable.
+
+            The bidder shall provide an acceptable subcontractor within 48 hours of discovery of the exception and before
+            any further work on the project is undertaken. Bidders proposing to submit a “Joint Venture Bid” shall obtain the
+            written approval of the Nevada State Contractors Board prior to submitting such a bid and shall include a copy of
+            that approval with their bid submittal.
+
+    18. Taxes, Permits, Fees and Notices:
+        The Contractor shall pay all sales, consumer, use, and other taxes required by law. The Contractor shall secure
+        and pay for all permits, fees, and licenses necessary for the proper execution and completion of the Work. The
+        Contractor shall not be required to pay for a municipal or county building permit, or permanent utility connection
+        fees.
+        The Contractor shall give all notices and comply with all laws, ordinances, rules, regulations, and orders of any
+        public authority bearing on the Work and NSHE. If the Contractor observes that any of the Contract Documents
+        are at variance therewith, he shall promptly notify NSHE and/or Architect. If the Contractor performs any work
+        knowing it to be contrary to such laws, ordinances, rules, and regulations, and without such notice, he shall
+        assume full responsibility therefore and shall bear all costs attributable thereto.
+
+    19. Warranty:
+        Contractor shall fully warrant all materials, equipment, and service against poor and inferior quality or
+        workmanship for a period of not less than one (1) year from date of final acceptance by the NSHE. Time is of the
+        essence of this contract. Contractor shall repair or replace any inoperable materials or equipment in a timely
+        manner during warranty period.
+
+            The Contractor shall unconditionally guarantee the workmanship and materials of the entire contract to be free of
+            defects and remain free of defects in workmanship and materials for a period of one year from date of completion
+            or acceptance of the final payment by the Contractor, or as called for in the specifications.
+            Each subcontractor shall unconditionally guarantee the workmanship and materials of his portion of the Contract
+            to be free of defects and remain free of defects in workmanship and materials for a period of one year from the
+            date of completion or acceptance of the final payment by the Contractor, or as called for in the specifications.
+            Such guarantees shall be signed by the Subcontractor and shall be countersigned by the Prime Contractor who
+            shall be responsible for the entire Work.
+
+    20. Disadvantaged Vendor Enterprise:
+        The Nevada System of Higher Education and Business Center North recognize the benefit of creating an equal
+        opportunity for all vendors to participate in the procurement process; Business Center North is committed to
+        diversity and nondiscrimination in its business operations. Accordingly, NSHE will make a good-faith effort to
+        utilize minority business enterprises, women-owned business enterprises, disabled business enterprises,
+        veteran/disabled or veteran-owned business enterprises, and small business enterprises throughout the
+        procurement process. This effort does not equate to a quota or set percentage. All efforts to contact and engage
+        small, minority, disabled, veteran, and women vendors will be fair and impartial.
+
+    21. Compliance with US Employment Law:
+        The awarded Contractor, sub-contractor and all applicable staff, required to fulfill the requirements of the award of
+        this contract, whether in the form of a purchase order and/or a formal contract, shall be in compliance of all
+        federal, state and local laws, in regards to employee eligibility to work in the United States. Failure to comply with
+        this requirement may result in termination of the contract.
+
+D. Required Certifications
+             All proposers are required to certify and attest to their company’s compliance with the below statements.
+                                 These certifications must be followed by an authorized signature.
+
+      1. BUSINESS LICENSE:
+            Bidders are required to possess all necessary business licenses for performance of the work described in the bid.
+            NSHE may require successful bidder to provide evidence of such license at any time.
+
+            1)   Are all registrations with the Secretary of State regarding your business organization current?
+
+RFP# 8268                                                                                                               Page 9 of 15
+                                                            (This does not apply to a sole proprietorship or partnership that is not required to
+                                                                      file its organizational documents with the Secretary of State).
+                 Yes                        No
+
+
+            2)   Provide your current Nevada state business license number. If you don’t have a Nevada state business license,
+                 what exemption from that requirement do you claim?
+
+                 Current Nevada State Business license number:
+
+                 What exemption from that requirement do you claim?
+
+
+
+
+      2. CERTIFICATION OF NONSEGREGATED FACILITIES
+            By submitting a bid, the undersigned bidder, vendor or subcontractor certifies to the Nevada System of Higher
+            Education and the Department of Defense that he does not and will not maintain or provide for his employees any
+            segregated facilities at any of his establishments, and that he does not and will not permit his employees to perform
+            their services at any location under his control where segregated facilities are maintained. The bidder, vendor or
+            subcontractor understands that the phrase “segregated facilities” includes facilities which are in fact segregated on a
+            basis of race, color, creed or national origin because of habit, local custom, or otherwise. The bidder, vendor or
+            subcontractor understands and agrees that maintaining or providing segregated facilities for his employees or
+            permitting his employees to perform their services at any location under his control, where segregated facilities are
+            maintained is a violation of the equal opportunity clause required by Executive Orders 11246 and 11375, Section 503
+            of the Rehabilitation Act of 1973, and USC 2012 (Disabled Veterans and Veterans of the Vietnam Era).
+            The bidder, vendor or subcontractor understands and agrees that a breach of the assurance herein contained
+            subjects him to the provisions of Order 32 Federal Regulation 7439, of the Secretary of Labor dated May 19, 1967,
+            and the provisions of the equal opportunity clause enumerated in purchase orders or contracts between the Nevada
+            System of Higher Education and the bidder, vendor or subcontractor.
+            Whoever knowingly and willfully makes any false, fictitious or fraudulent representation may be liable to criminal
+            prosecution under 18 USC 1001.
+
+    3. NON-DISCRIMINATION IN EMPLOYMENT
+       By submitting a bid, during the performance of this contract, the contractor agrees as follows:
+           a. In connection with the performance of work under this contract, the contractor agrees not to discriminate
+                       against any employee or applicant for employment because of race, creed, color, national origin, sex, sexual
+                       orientation, gender identity or expression, or age, with regard to employment, upgrading, demotion or
+                       transfer, recruitment or recruitment advertising, layoff or termination, rates of pay or other forms of
+                       compensation, and selection for training, including, without limitation, apprenticeship. The contractor further
+                       agrees to insert this provision in all subcontracts hereunder, except subcontracts for standard commercial
+                       supplies or raw materials. The contractor agrees to post in conspicuous places, available to employees and
+                       applicants for employment, notices to be provided by the contracting officer setting forth the provisions of
+                       this nondiscrimination clause.
+                 b. The contractor will, in all solicitations or advertisements for employees placed by or on behalf of the
+                       contractor, state that all qualified applicants will receive consideration for employment without regard to race,
+                       creed, color or national origin.
+                 c.    The contractor will send to each labor union or representative of workers with which he has a collective
+                       bargaining agreement or other contract or understanding, a notice to be provided by the agency contracting
+                       officer, advising the labor union or workers representative of the contractors commitments under Section
+                       202 of Executive Order 11246 of September 24, 1965, and shall post copies of the notice in conspicuous
+                       places available to employees and applicants for employment.
+                 d. The contractor will comply with all provisions of Executive Orders 11246 and 11375, Section 503 of the
+                       Rehabilitation Act of 1973, USC 2012 (Disabled Veterans and Veterans of the Vietnam Era) and of the rules,
+                       regulations, and relevant orders of the Secretary of Labor.
+                 e. The contractor will furnish all information and reports required by Executive Orders 11246 and 11375, and
+                       by the rules, regulations, and orders of the Secretary of Labor, or pursuant thereto, and will permit access to
+                       his books, records, and accounts by the contracting agency and the Secretary of Labor for purposes of
+                       investigation to ascertain compliance with such rules, regulations, and orders.
+                 f.    In the event of the contractor's noncompliance with the nondiscrimination clauses of this contract or with any
+                       other such rules, regulations, or orders, this contract may be canceled, terminated, or suspended in whole or
+                       in part and the contractor may be declared ineligible for further government contracts in accordance with
+                       procedures authorized in Executive Orders 11246 and 11375, and such other sanctions may be imposed
+                       and remedies invoked as provided in the said Executive Order or by rule, regulation, or order of the
+                       Secretary of Labor, or as otherwise provided by law.
+RFP# 8268                                                                                                                                 Page 10 of 15
+                g. The contractor will include the provisions of paragraphs (a) through (g) in every subcontract or purchase
+                     order unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to Section
+                     204 of Executive Order 11246 of September 24, 1965, so that such provisions will be binding upon each
+                     subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase
+                     order as the contracting agency may direct as a means of enforcing such provisions including sanctions for
+                     noncompliance: provided, however, that in the event the contractor becomes involved in, or is threatened
+                     with, litigation with a subcontractor or vendor as a result of such direction by the contracting agency, the
+                     contractor may request the United States to enter into such litigation to protect the interests of the United
+                     States.
+                h. The contractor and subcontractor shall abide by the requirements of 41 CFR §§ 60‐300.5(a)
+                     and 60‐741.5(a). These regulations prohibit discrimination against qualified individuals on the
+                     basis of protected veteran status or disability, and require affirmative action by covered
+                     prime contractors and subcontractors to employ and advance in employment qualified
+                     protected veterans and individuals with disabilities.
+
+    4. CERTIFICATION REGARDING DEBARMENT SUSPENSION OR INELIGIBILITY FOR AWARD
+       (Executive Order l2549)
+            By submitting a bid, the offer or certifies, to the best of its knowledge and belief that the offeror and/or any of its
+            principals are not presently debarred, suspended, proposed for debarment, or declared ineligible for the award of
+            contracts by any Federal agency, and have not, within a three-year period preceding this offer, been convicted of or
+            had a civil judgment rendered against them for: commission of fraud or a criminal offense in connection with
+            obtaining, attempting to obtain, or performing a Federal, state or local government contract or subcontract; violation of
+            Federal or state antitrust statutes relating to the submission of offers; or commission of embezzlement, theft, forgery,
+            bribery, falsification or destruction of records, making false statements, tax evasion, or receiving stolen property; and
+            are not presently indicted for, or otherwise criminally or civilly charged by a Government entity with, commission of
+            any of these offenses.
+
+    5. CLEAN AIR ACT:
+            By submitting a bid, the bidder affirms and certifies that the Proposer agrees to comply with all applicable standards,
+            orders or regulations issued pursuant to the Clean Air Act of 1970 (42 U.S.C. 1857 et seq.) and the Federal Water
+            Pollution Control Act (33 U.S.C. 1251 et seq.) as amended. Violations shall be reported to the Federal sponsoring
+            agency and the Regional Office of the Environmental Protection Agency.
+
+    6. COPELAND “ANTI-KICK BACK” ACT:
+            By submitting a bid the bidder affirms and certifies that the Proposer shall comply with provisions of the Copeland
+            “Anti-Kick Back” Act (18 U.S.C. 874) as supplemented in Department of Labor regulations (29 CFR, Part 3), which act
+            provides that each Proposer shall be prohibited from inducing, by any means, any person employed in the
+            construction, completion or repair of public work, to give up any part of the compensation to which he is otherwise
+            entitled.
+
+    7. PREVAILING WAGE:
+            In the case of non-federally funded projects, Washoe County prevailing wages apply as determined by the State of
+            Nevada Labor Commission.
+
+    8. DAVIS-BACON ACT:
+            When required by the federal program legislation, all construction contracts awarded by the recipients and sub-
+            recipients of more than $2,000 shall include a provision for compliance with the Davis-Bacon Act (40 U.S.C. 276a to
+            a-7) and as supplemented by Department of Labor regulations (29 CFR, Part 5). Under this Act Proposers shall be
+            required to pay wages to laborers and mechanics at a rate not less than the minimum wages specified in a wage
+            determination made by the Secretary of Labor. In addition, Proposers shall be required to pay wages not less than
+            once a week. The recipient shall place a copy of the current prevailing wage determination issued by the Department
+            of Labor in each solicitation and the award of a contract shall be conditioned upon the acceptance of the wage
+            determination. The recipient shall report all suspected or reported violations to the federal sponsoring agency.
+
+    9. EQUAL EMPLOYMENT OPPORTUNITY:
+            By submitting a bid, the bidder affirms and certifies that the Proposer shall comply with provisions of Executive Order
+            No. 11246, entitled “Equal Opportunity,” as amended by Executive Order No. 11375, and as supplemented in
+            Department of Labor Regulations (41 CFR, Part 60). The Equal Opportunity Clause is included herein as Federal
+            Government Regulations, Section 2, Equal Opportunity Clause.
+
+
+
+
+RFP# 8268                                                                                                                     Page 11 of 15
+    10. PCI SECURITY COMPLIANCE:
+            Applicable vendors must comply with the Payment Card Industry Data Security Standard (PCI DSS). The PCI Data Security
+            Standard requirements apply to all payment card network members, merchants and service providers that store, process or
+            transmit cardholder data. The requirements apply to all methods of credit card processing; the most comprehensive and
+            demanding of which apply to e-commerce websites, and retail POS systems that process credit cards over the Internet. PCI
+            official website at: https://www.pcisecuritystandards.org.
+
+    11. WCAG 2.0 LEVEL AA COMPLIANCE:
+        Vendors must comply with World Wide Web Consortium Content Accessibility Guidelines version 2.0, Level AA
+        conformance.
+
+    Proposer certifies that their proposal meets all specifications, terms and conditions contained herein.
+
+            Yes_______ No_______
+                   If no, proposer must explain all deviations and exceptions in writing and attach to their bid response.
+
+
+            COMPANY NAME:
+
+            Authorized Business Partner Company Name: (If applicable)
+
+
+
+
+            TAX IDENTIFICATION NUMBER:
+
+
+            NAME AND TITLE:
+
+
+            ADDRESS:
+
+
+            CITY, STATE, ZIP:
+
+
+            TELEPHONE :(_____)                                      FAX NUMBER :(_____)
+
+
+            WEB PAGE:                                               EMAIL ADDRESS:
+
+
+                                  This form must be completed and signed (manual or electronic)
+                                          by an authorized person and returned with bid.
+                        If this is not completed, entire bid may be considered non-responsive and void.
+
+
+
+                              SIGNATURE                                                                Date
+                                                We do hereby certify to the above Section 1E.
+
+
+
+
+RFP# 8268                                                                                                                    Page 12 of 15
+     E. References
+            Provide the name and contact number of at least 3 references.
+
+                                                                                                         Years of
+                                                                                                         experience with
+Company Name           Contact Name       Address              Telephone            E-mail               this client
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+
+SECTION 2: STATEMENT OF WORK
+
+A. Overview
+   The University of Nevada Reno is looking for a single organization but multi-vendor ecommerce solution for
+campus to support departmental online sales needs. The solution would provide a single ‘online mall’ type
+experience for users wishing to purchase goods and attend events at the University. While not all components
+need to be provided by a single company, they will all need to work together in a seamless manner.
+
+     B. Scope of Work
+
+     1) General
+           a. PCI Version 3 certified
+           b. API or ability to integrate with back end financial systems such as Workday for reconciliation
+           c. Ability to customize the merchant line that is printed on the customer’s credit card/bank draft per store.
+           d. Scheduled reporting with email notification
+           e. Ability to schedule data extracts and secure transfer
+           f. Administration ability to “run as customer” read only mode - helps with troubleshooting with customers
+           g. Ability to export user Bio information
+           h. Option to charge a “Transaction Fee” on any transaction type
+           i. Ability to toggle Bio fields as optional/required
+           j. Ability to have Attributes/custom fields on all forms
+
+     2) Web based stores
+           a. Standard shopping cart functionality
+           b. Ability to add items from multiple stores and perform a single check out
+           c. Each store should support a separate merchant ID
+           d. Store branding
+           e. Payment gateway branding consistent with stores.
+           f. Mobile device support via mobile formatted website
+           g. Per store or per merchant ID reconciliation reports
+           h. Ability to control which credit cards are accepted on a per store basis
+     3) Mobile Point of Sale
+           a. Handheld POS devices that support P2PE
+           b. Integration of POS devices with store front
+           c. Integration of POS with event registration and check-in
+
+
+RFP# 8268                                                                                                     Page 13 of 15
+    4) Donations/Recurring Gifts
+           a. Recurring Gifts
+                     i. Ability to have irregular schedules
+                    ii. Ability to skip payment transactions with an email notification option to the store owner and/or
+                        donor.
+                   iii. Credit Card update service – Expired Credit Cards/Number changes are updated automatically
+                   iv. Ability to see/adjust payment schedules – both user and administrator
+                    v. Ability to set predetermined schedules regardless of the first payment
+                   vi. Ability to send pre-notification of next payment by payment type
+           b. Ability to set warning on LARGE donation amounts (For example, donor enters a 10K gift and before it
+               processes provide a warning to the donor).
+    5) Event Registration
+           a. Ability to enter complete Bio information for all guest
+           b. Ability to register individuals and organizations
+           c. Ability to purchase event paraphernalia (raffle tickets, mulligans, t-shirt and sizes, meal options, etc.)
+           d. Ability to send event participants (and their guest emails) update on the event (event reminders, change
+               of venue, etc.)
+           e. Ability to have promotion codes with/without limiting option
+           f. Ability to set event to shut down on capacity and/or a specific date
+           g. Check in capability for the event
+           h. Global refund in the event that the event is cancel
+           i. Ability to have linked events or event groups (Register for multiple basketball pregame dinners, parent’s
+               weekend, etc.)
+    6) Memberships
+           a. Ability to track current membership level and provide upgrade/downgrade paths
+           b. Ability to opt out of membership gifts
+           c. Ability to select membership gifts
+           d. Ability to add an additional donation as part of the membership
+           e. Ability to have gift of memberships
+    7) Online Auctions
+           a. Ability for user to set automatic bid increments to a maximum value
+           b. Option to set a “Purchase” now value for an item and remove it from the auction
+           c. Online invoicing and payments for winning bids
+           d. Inventory management – ability to upload individual and groups, and attached PDF documents
+           e. Ability to dynamically set bidding increments – if the item is “hot” experiencing a lot of traffic – increase
+               the increment by a certain dollar amount or a percentage.
+           f. User Notification option when a bid changes/notification of being outbid
+           g. Auction Preview with a “reminder” option when the auction opens
+           h. Ability to categorize auction items
+           i. Ability to set shipping rates per item
+           j. Upload pre-registered user name/passwords
+           k. Security features
+                     i. Trace/track IP of bidder
+                    ii. Ban users
+                   iii. Delete bids
+                   iv. Email notification for bid anomalies (extraordinary bid amounts)
+           l. Set currency
+           m. Winning/losing notifications
+           n. Sealed Bidding option
+
+
+
+
+RFP# 8268                                                                                                      Page 14 of 15
+SECTION 3: PROPOSAL REQUIREMENTS
+
+
+ A. PROPOSAL SUBMITTAL REQUIREMENTS:
+
+            Proposers interested in submitting a response to this Request for Proposal should provide a succinct summary
+            that addresses the following:
+
+                      •   Support of each of the above mentioned items. In the case that the item is not directly supported
+                          please describe an alternative solution if one is available.
+                      •   In the case a demonstration is required we will provide a list of features that we would like to see.
+                          An online web demo will be acceptable.
+                      •   Three references from Universities using the proposed version of the software.
+
+       1. Response format:
+
+            Vendors shall submit their response in the following format for ease in evaluation:
+                 Item number/letter
+                 Yes/No
+                 Name of module or service providing the functionality and a short description if applicable.
+
+
+       2. Cost / Pricing:
+
+            Pricing should be provided separately as detailed below and based on the specifications stated in the
+            Section 2B - Scope of Work. (Excel Spreadsheet format suggested and repeat format as required)
+
+            Pricing should be broken out into the following items:
+                      1. Professional services if applicable
+                      2. Yearly contractual pricing for referenced services
+                      3. Per device cost of any devices referenced in the proposal
+                      4. Hardware maintenance costs of any devices referenced in the proposal if applicable.
+
+
+                             PLEASE NOTE: If awarded a new W9 and Vendor Application must be completed.
+                                  Link:http://www.bcn-nshe.org/purchasing
+
+
+
+
+RFP# 8268                                                                                                        Page 15 of 15
+

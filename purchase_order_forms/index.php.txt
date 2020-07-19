@@ -1,0 +1,1079 @@
+Fuse5 Training Materials
+
+Product Management
+
+Purchase Orders
+
+You order parts from your vendors via Purchase Orders (we often refer to them simply as PO's). If you
+do not already do so, as a best business practice, you should ensure that every purchase that you make
+is based off of a Purchase Order. Even if you order something over the phone directly, and pay with a
+credit card at the time, you should back-fill the system with a PO for record keeping purposes. Fuse5
+makes this very easy by giving you the ability to automate PO creation in many instances, such as
+when performing a buyout from a sales order (See the Point of Sale Module), or when receiving
+products (See the Receiving Module).
+
+Every Purchase Order has a unique number that is automatically generated for it in Fuse5. In Personal
+& Admin > Settings > Company Details >...you can choose to edit these numbers (listed as Purchase
+Order Initials). You can assign specific prefixes to your PO numbers based on location so that if you
+have a multiple location set up, you can tell at a glance which location generated a PO. For example,
+one location may generate PO numbers with a prefix of “P1”, and another location may be assigned
+“P2”, etc.
+
+There are several Purchase Orders generation options available in Fuse5, from the very traditional
+“Special Buy” type where you manually order products from a specific vendor to advanced
+“Forecasting” Purchase Orders, which automatically generate PO's from complex algorithms to set
+your inventory levels properly. These advanced Purchase Order generation options can combine
+returns along with purchases, create multiple vendor PO's simultaneously, and give you unprecedented
+embedded information to help you make good decisions without even having to leave the page. The
+various Purchase Order types will be covered in detail later in this module.
+
+If you go to Product Management > Purchase Orders you will arrive at the Purchase Order listing page.
+Using the filters and searches you can see a variety of information about your company's purchase
+orders including the status.
+
+
+
+
+                                                                                                Page 1
+Fuse5 Training Materials
+
+
+                                       STATUS DEFINITIONS
+             PO Listing Page Status                                      Definition
+Approved – Save As Is                                PO that has been saved, but not sent. No impact
+                                                     to QoH
+Finalized                                            PO is ready to be sent to vendor, QoH not
+                                                     affected, Quantity on Order will increase in
+                                                     product record
+Order Received in Full                               Have received by PO number or by Product and
+                                                     received ALL product on the PO
+Order Partially Received                             Have received products on the PO, but not all of
+                                                     them
+Order Completely Canceled                            PO was finalized, but all parts were canceled off
+                                                     the PO without receiving ANY of them
+Partially Reconciled                                 PO has been partially received and VIR has been
+                                                     done on some of the parts received but not all.
+Completed Reconciled                                 Have received the PO and used the vendor invoice
+                                                     reconciliation (if used)
+
+
+
+CAUTION: Do NOT use the F5 button to refresh your screen when doing a PO. The PO will be
+lost.
+
+Create Purchase Order
+
+To create a purchase order go to Product Management > Purchase Orders > Create Purchase Orders or
+go to the Purchase Order listing page and hit the orange + button.
+
+The first thing you will have to do is select the vendor you are ordering from by typing in their name in
+the Vendor Name field. You can partially type the name and Fuse5 will present you with a list of
+potential matches to choose from. Additionally, you can use the orange magnifying glass button next to
+the line to select from you list of vendors in Fuse5.
+
+The next thing you will do is chose the PO Type. Depending on what you choose at this step will
+dictate how Fuse5 continues. Below is a description of some of the fields you see and what they do
+when creating a Purchsae Order.
+
+
+
+
+                                                                                                    Page 2
+Fuse5 Training Materials
+
+
+
+
+By Barcode – check this box in order to make the barcode column available on the PO for adding parts
+using a barcode scanner.
+
+Default Transaction Code – defines which type of transaction you are intending for the purchase
+order. When aquiring products from a vendor users will not have an option to change the Transaction
+code as all products are considered a Normal Purchase. When using any of Return Purchase Order PO
+Types Users are able to choose between a Normal Return, Defect Return, Warranty Return, or Core
+Return.
+
+Default Delivery Preference – Is the method in which it is belived that your organization will receivie
+the products from the vendor. This can be defined in the Vendor Record so that when using that
+vendor to Order products the same delivery method is always defaulted. Users also have the option to
+change the delivery method by selecting another option from the drop down.
+
+Ship To Location – Defaults to the location you are logged in to. If you are set as a distribution center
+in location settings you will be able to do Purchase Orders for any location.
+
+Created By – Allows users to select themseleves as a record that they created the purcahse order.
+Selecting a User is required before continuing.
+
+Barcode – The barcode field next to the Created by Field allows users to scan or enter in the barcode
+that is in the User record in the 'User Barcode' field that will identify them instead of choosing their
+name from the dropdown.
+
+
+The other options available in the Purchase Order Information section are as follows, but not all
+are used for all types of Purchase Orders.
+
+
+
+
+                                                                                                   Page 3
+Fuse5 Training Materials
+
+
+
+
+Primary Supplier or Equivalent Parts Only – Check box. Checking this box will direct Fuse5 to
+only order parts where the vendor selected is listed as the Primary Supplier in the Product Record, or if
+there is an Equivalent Part entry pointing to the vendor. (see notes about Equivalent Parts and Ordering
+Lowest Costs at end of this document)
+
+Order Lowest Cost Items Only – Check box. This works in conjunction with the “Primary Supplier
+or Equivalent Parts Only” check box and is only selectable if that is also checked. This will further
+inspect the potential products to see that not only is the selected vendor the Primary Supplier or has an
+Equivalent Part entry in the product file, but also that the applicable price is the lowest option available
+between the current cost or equivalent price entries. (see notes about Equivalent Parts and Ordering
+Lowest Costs at end of this document)
+
+Ignore Overstock Locations – Check box. When doing an “Order to X” or “Forecast” type of
+purchase order, you can use Fuse5 to balance your inventory across multiple locations by shifting
+overstock to locations that are under stocked before ordering new products. Understocked is defined as
+having a Quanity On Hand less than the order point the order or suggested quanity(this is used with
+Forcast-Simple PO types) is being created to. Overstocked is defined as having a Quanity On Hand
+that is greater than the order point or suggested qty the purchase order is being created to. Checking
+this box will cause Fuse5 to ignore any overstock at other locations and order products for selected
+locations according to the purchase order method selected. Ex. If you do NOT choose this option and
+you are doing an order to max for three locations where the order to max number is 5 in each location.
+If one location has 2, the second has 4, and the third has 20....the TA(Total Available) will be 26. If you
+were to CHOOSE this feature then the TA would be only 11. Fuse5 would NOT count anything above
+the order point as available as you have chosen to ignore overstock. This feature would most likely be
+used if you do not transfer product among locations regularly, rather you want them to keep their
+overstock and order enough at the warehouse to bring your other locations back up to the ordering
+point. This has no functionality for single location set ups.
+
+Factor Order Delay – Include order delay's from Order Delay in product records. These are typically
+used for slow moving product that you don't necessarily want to order automatically based on preset
+forecasting or order to X information. Ex. You may have sold a product recently that has a part min of
+1, but have only sold one in last year. You may put a order delay of 60 days so that you don't
+automatically re-order because you expect possibility of either a return or a long time before you sell it
+again. (Order Delay's can be created by going to PRODUCT MANAGEMENT > ORDER DELAY
+LIST > CREATE ORDER DELAY)
+
+                                                                                                     Page 4
+Fuse5 Training Materials
+
+
+Include Consignments - Check this box if you want to include consignment quantities as part of your
+QoH when creating a Purchase Order.
+
+Delayed Quantity On Order - This setting allows users to delay the Quantity on Order from being
+used in calculating order quantities for Purchase Orders and Store Transfers until the specified date.
+Once the date has passed, the products on the Purchase Order will show up as normal Quantity on
+Order.
+If you need to change the date when you want the Delayed Quantity on Order to expire, click the
+associated value in any product record. If you need to update all of the products in the Purchase Order,
+click on the Purchase Order link in the Delayed Quantity on Order pop-up. From this new Purchase
+Order detail page users may modify the dates on individual PO line items or modify all of the products
+on the Purchase Order under the Purchase Order Information header.
+Notes:
+1. This option will only be available if the Custom Setting called 'Delayed Quantity on Order' is turned
+On.
+2. It is likely advisable to expire the Delayed Quantity on Order some time in advance of the expected
+receipt date of the Purchase Order depending on how sure you are of the date of receipt and how you
+want the Quantity on Order to affect Store Transfers and other Purchase Orders when that date gets
+closer.
+Leave Cores On Hand - This option is only available on Defect or Warranty RGN's. Selecting this
+option will result in the retention of all cores associated with the products included in the PO.
+The Core Qty On Hand for products with cores will increase when the RGN is finalized and there will
+be no Core Price Total on the RGN.
+
+Ignore Vendor Core Qty - Fuse5 will normally restrict your ability to return more cores to a Vendor
+than have been purchased from that Vendor. When you select this option, 'Get Products' will ignore the
+Vendor Core Qty and return all Cores available in the current Location in the associated Lines
+Purchased for that Vendor.
+
+When this option is checked, the described check against purchases from that Vendor will be ignored
+and all Core Qty On Hand for all lines selected will load into the Purchase Order.
+
+Note: The internal Vendor Core Log will be based on Purchase Orders that are newly received. You
+may find that some of your existing Core Quantity On Hand is not currently associated with any
+specific Vendor. In this case, simply use the 'Ignore Vendor Core Qty' option and all Cores will be
+added.
+Reorder To - When using the PO Type of Order To Min, Order To Max, or Order to Order Point users
+can select another Order Point in this setting to affect the Ordering behavior and to use two order points
+in conjuction with each other. The default setting for the Reorder To is to be the same as the PO Type.
+For example if a Order to Order Point is selected as the PO Type then the Reorder To will also be Order
+To Order Point. In this situation if the QOH is 5 and the Part Order Point In the product record is 10
+then Fuse5 will suggest to order 5 of the product to achive a QOH of 10 when the PO is recivied. If a
+
+                                                                                                   Page 5
+Fuse5 Training Materials
+
+User selects PO Type of Order To Order Point and a Reorder To of Part Max and the product has a Part
+order point of 10, Part Max of 0 and a QOH of 5 Fuse5 will not order the part. In this situation the
+Reorder To is the Part Max of 0 and acts as the trigger for when Fuse5 will suggest to order more of
+this product. When the product gets to a QOH of 0 then Fuse5 will Reorder up to the PO Type selcted
+which in this case is the Part Order Point.
+Order Point Option - This setting allows you to restrict the Purchase Order to Products with the
+current Vendor used as the 'Primary Supplier', restrict the Product from ordering Products from
+specified 'Primary Suppliers' or the default, which is to consider all Products in the selected Linecodes.
+Vendors that have the Vendor setting Manufacturer/Supplier set to Supplier or Both will display as an
+option to exclude.
+
+Related Setting
+Product field - 'Primary Supplier'
+Vendor field- 'Manufacturer/Supplier'
+
+                                             Order Delay List
+
+Order Delay List – Found under the Product Management tab. Used to set up Line Code, sales rank
+code, and number of days to delay ordering an item on a PO even if through forecast or order point
+logic the PO would normally order it. When creating a PO you have an option to push a button to
+follow these rules if set up. Essentially, if you have a slow mover that you don't want to order for
+example for 30 days after it becomes eligible for re-order, this is the tool you would use to set that up.
+
+
+
+
+Purchase Order Types
+
+
+Special Buy
+
+A Special Buy Purchase Order is the most basic and traditional type of PO generation and it is the
+default selection when you create a new PO. With “Special Buy” selected, you simply start manually
+entering products to be included on the PO once a Vendor is selected. Reorder Status, Quanity on
+hand, Order Points and Sales history are all not considered when doing this type of Purchase Order.
+Buy Outs from the Point of sales are considered to be Special Buy Purchase Orders.
+
+
+
+                                                                                                     Page 6
+Fuse5 Training Materials
+
+Forecast – Simple
+
+A Forecast - Simple PO will automoatically suggest to order products from a vendor based on the lines
+that they carry. This process is based on a complex forecasting logic built into Fuse5 that suggests an
+Order Quanity based on the Sales History in a specified Time Period and the Amount of Days that the
+Users is wanting to Stock Inventory for. In suggesting an Order Qty in this method of ordering, Fuse5
+Calucaltes the Average Daily Demand by summing the amount of sales occurred in the selected
+timeframe and dividing by the number of days in the period. For example if the number of sales in a 30
+day period was 15 then the Average Daily Demand would be 15 Sales / 30 Number of days = 0.50 or
+every day there is half a sale of the product. (essentially the location is averaging 1 sale every other
+day). Fuse5 will then look at the Days Inventory that was suggested and multiple it by the Average
+Daily Demand. For example if the Average Daily Demand is 0.50 and the user wants to stock this line
+for 30 Days Fuse5 would suggest to order Days Inventory of 30 Days x 0.50 the Average daily demand
+and suggest to order a qty of 15 on the purchase order. (This is given that the Quanity on Hand is 0 and
+there are not other factors used to manipulate the Order Qty, Backorder Qty and Round up Options can
+change what the Suggested Order Qty is).
+
+When Creating a Forecast Simple Purcahse Order users Users will Specify the Days Inventory and
+Period Used to Calculate Average Daily Demand in the 'Forcasting Variables' section.
+
+
+
+
+        Days Inventory – This is the number of days that Fuse5 will forecast required inventory for.
+For example, if you wish to stock enough of a certain product to last for two weeks, you would enter a
+value of fourteen days here. Typically 15, 30, 60 or 90 day periods are entered manually here but Fuse5
+will suggest a Order Qty for any entered period.
+
+        By Sales Rank – allows users to use a different days inventory for products that have bee
+calculated to be specific Sales ranks. You can enter a sales rank in a product record either manually by
+product, through an import, or by using the Product Re-Rank Report (found under DATA TOOLS >
+REPORTS) to rank your products based on sales history. If you use sales ranks and want to consider
+sales rank when doing forecast purchase orders you have the ability to do so. If you want to order a
+different number of days inventory for each sales rank simply click the “by Sales Rank” button and you
+will get a pop up that allows you to enter the number of days for each of the seven sales ranks
+available.
+
+       Period Used to Calculate Average Daily Demand – This is used to designate the sales history
+time period you want Fuse5 to sum up the number of sales in that period when doing the forecast. You
+can choose the default, 26 weeks, or can do a manual entry for any number of weeks you want. 26
+
+
+                                                                                                 Page 7
+Fuse5 Training Materials
+
+Weeks represents the 6 months prior to the current day. Other common manual entries are 52 to sum
+up the sales in the previous years time. Additionally, you can use PERIOD SELECT to establish a
+specific period of time you want evaluated (useful for evaluating seasonal demand).
+
+   Auto Update Part Min/Max/Order Point – This allows you to update selected fields in the
+Product record(s) with new values that have been calculated by the Fuse5 forecasting logic. After you
+have hit the “Get Product” button, the “Update Now” button will become selectable. Clicking on it
+will cause a pop-up window to load. Here you will be able to select which field in the product
+record(s) you wish to update (Part Min, Part Max, or Order Point), which parts or lines you want to
+auto-update, and which locations you wish to include in the process (if you have multiple locations).
+
+NOTE: THIS IS THE OLD FUNCTIONALTIY FOR UPDATING PRODUCTS ORDER POINTS
+BASED ON SALES HISTORY. It is the recommended to use the 'Order Point Calculations' report or
+the 'Warehouse Order Point Calculations' report to update the Order points in your system. These
+reports are located in the Data tools > Reports section and provide greater functionality for updating
+order points and ease of use.
+
+
+Forecast – Simple W/Order Points
+
+The process is the same as a forecast PO with a few exceptions. Forecast Simple w/Order Points PO
+Type considers both the Order Point of the product and the Sales History of the product in determining
+which quanity of products to order.
+
+        Minumum order Qty Based On – In addition to picking the forecasting variables(see above
+for further detial), Users must choose the Minimum order qty based on (Part Min, Part Max, Part Order
+Point). This is the Order Point that will be considered along with the Forecasting Variables when
+determing the Suggested Order Quanity of the product on this type of PO.
+
+
+
+
+         Forecast w/ Order Points Options – Three options can be selected that will change the
+suggested Order Quanity of the product and how the two types of ordering work together. This option
+is only available with Purchase Order type Forecast SIMPLE w/ ORDER POINTS. The three options
+in this setting are: Forecast then O2X, Greater of Forecast vs O2X, and Forecast + Order Points.
+
+        Forecast then O2X - Fuse5 will calculate the forecast value for each location then, if the
+calculated order quantity from forecast is zero, Fuse5 will add the selected Order Point order quantity
+
+                                                                                                  Page 8
+Fuse5 Training Materials
+
+to the Purchase Order. (It is possible to have both a PO line item for the same Product for Forecast &
+O2X when some selected locations have sales history but others do not.)
+        Greater of Forecast vs O2X - Fuse5 calculates the forecast order quantity then if that value is
+less than the selected Order Point, Fuse5 will add a 2nd Purchase Order line item for the difference
+between the forecast order quantity and the selected Order Point.
+       Forecast + Order Points - Fuse5 will calculate the Forecast order for each location then, in
+addition to that, Fuse5 will calculate the Order Point order for each location
+
+When ready to populate the Purchase Order with Suggested products click the GET PRODUCTS
+button. You will get a few pop ups asking you to confirm that this is the action you want to take and
+that the process may take some time to execute. You will then get the Forecast with Order Points pop
+up.
+
+
+
+
+You have a drop down with the following options:
+
+   1. Forecast & Order Points & all the rest – This will populate all products that Fuse5 is
+      suggesting you order based off the forecasting logic you entered (FORECAST), then it will
+      populate all products NOT in the forecast at the appropriate ordering point (ORDER POINT),
+      and finally it will populate ALL other products in the selected line, whether set to reorder or not,
+      with an order quantity of one (REST).
+
+   2. Forecast & Order Points – same as previous, but will leave off the rest.
+
+   3. Just the rest – will leave off products based on forecast and order point.
+
+
+
+
+If the user chooses Just the Rest, you will get a line that shows you the number of products that qualify
+as the REST, and the ability to choose to use a filter to narrow down your search even more.
+
+
+
+                                                                                                   Page 9
+Fuse5 Training Materials
+
+
+
+
+If the User chooses 'Forecast & Order Points & all the Rest', or 'Forecast & Order Points' Fuse5 will
+Display in the Transaction column where the suggested Order Qty is derived from. Forecast, Order
+Points, Or The Rest will be displayed.
+
+
+
+
+Order to Min
+
+The overall process is similar to the Forecast PO described above, just without the extra forecasting
+options. With an Order to Min, Users have already told Fuse5 how many to Order by setting the Part
+Min in the Product Record. The Process consists of selecting your vendor, set the PO type to “Order to
+Min”, and then selecting which vendor lines in the Lines Purchased section that the user intends to be
+included on the PO. When the user clicks “Get Products”, Fuse5 will populate a Purchase Order that
+will suggest products in the selected lines to get the “Quanity on Hand” equal to the “Part Min” set in
+the product record. For example: If a Part Min is 5 and the QOH is 0 for a product that is on the
+Selected Line, Fuse5 will suggest to Order 5 of the Selected product if the Reorder Status is Yes in the
+location the Purcahse Order is being created for.
+
+Order to Max
+
+This is just like the “Order to Min” operation, except that instead of setting inventory levels based on
+Part Min set in the product record Fuse5 will look at the Part Max and to suggest products of the
+selected Linecodes of the “Quanity On Hand” equal to the Part Max.
+
+
+                                                                                                  Page 10
+Fuse5 Training Materials
+
+Order to Order Point
+
+This is just like the “Order to Min” and “Order to Max” operations, except that instead of setting
+inventory levels based on Part Min or Part Max products to stock, Fuse5 will look at the Part Order
+Point.
+
+Special Return
+
+Similar to a Special Buy purcahse order, a Special Return purchase order allows users to manually add
+products to a Purcahse order. Users will select the their Vendor and PO Type Special Return and then
+type the product # that they intend to return to their vendor.
+
+Return Order to Min
+
+This will automatically create a Return Purchase Order or an RGN that has “Normal Return” to reduce
+the Quanity on Hand of the Selected Linecode products to the Part Min setting in the product record.
+For example if the Quanity on Hand is 15 and the Part Min is 10, Fuse5 will suggest to return a Quanity
+of 5 to the Selected vendor.
+
+Note: On product returns, if you have multiple suppliers for a product, Fuse5 does not currently
+distinguish where a part came from when returning it to a vendor on a PO.
+
+Note: When Return Purcahse Orders are finalized Fuse5 will reduce the Quanity On Hand in the part
+record by the 'Order Quanity' on the Purcahse. Canceling products on a Return Purchase Order will
+return the Quanity On Hand to the part record.
+
+Return Order to Max
+
+Return Order to Max is Similar to Return Order to Min, only using Part Max number in the product
+record to determine what quanity to return to the vendor.
+
+Return Order to Order Point
+
+Return Order to Order Point is Similar to Return Order to Min/Max, only using Part Order Point
+number in the product record to determine what quanity to return to the vendor.
+
+Return Cores
+
+Return Cores PO Type Allows for Users to Return the Cores that Accounts have returned to them from
+the Point of Sales by creating this type of Purcahse Order. After selecting “Return Cores” PO Type and
+the vendor then select which lines in the Lines Purcahsed that you would like to consider on the
+Purchase order. Fuse5 will query the products in the selected lines to see if there is a Core Quanity on
+Hand in product record of those parts. This occurs when the user selects the “Get Products” button.
+
+
+
+                                                                                                   Page 11
+Fuse5 Training Materials
+
+
+Return Warranty
+
+Return Warranty PO Type allows for Users to products that have been returned at the Point of Sales as
+a Warranty Return. If you have products that have been returned to you by your Accounts that you
+want to ship back to the vendor for refund/credit/etc., you create a “Return Warranty” PO to that vendor
+and select which lines you wish to include. When you click the “Get Products” button, Fuse5 will
+create a PO for the selected lines based on the “Warranty Qty on Hand” value in the product records.
+
+
+Return Defect
+
+Return Defect PO Type will allow Users to have products that have been returned at the Point Of Sales
+to you by your Accounts that you want to receive a refund/credit/etc. for from a vendor, but are not
+required to ship the items back (they are broken and the vendor has told you to simply throw them
+away), you create a “Return Defect” PO to that vendor and select which lines you wish to include.
+When you click the “Get Products” button, Fuse5 will create a PO for the selected lines based on the
+“Defect Qty on Hand” value in the product records. Even though no products are being shipped, this is
+a way to clear your defect quantities and establish a paper trail for record keeping purposes.
+
+Return Defect and Return Warranty can be used interchangably depending on your internal polices.
+The definition of what is considered a Defect or a Warranty is completely dependpent on your
+organiation. The Process of returning a Product at the Point of Sales and in Purchase Orders is
+reliant on the Users selecting the correct Transaction Codes when Processing the Sales.
+
+Return Forecast
+
+This function is the same as Forecast purchase order, except that instead of increasing existing
+inventory to achieve the number dictated by the forecasting logic, it reduces existing inventory to
+achieve that number for products that are stocked beyond it. Also similar to a Return to Min, Max or
+Order Point except for the Forecating Perameters
+
+Return Reorder No
+
+Return all products in the selected line(s) that have the “Reorder” field in their product record set to
+“No” to your selected Vendor. This would be best used when returning products that are not regularly
+stocked in the location to your Vendor.
+
+Return to Zero
+
+Return all products in the selected line(s) regardless of reorder status to your vendor. This is best when
+products are being discontinued or the product lines are no longer being stocked.
+
+
+
+
+                                                                                                  Page 12
+Fuse5 Training Materials
+
+Highest Order Points
+
+Users can select mutliple order points with the PO Type 'Highest Order Point” and the highest of the
+selected order points will be used to determine the Order Qty that is needed for the Purchase order.
+Select a Vendor and the PO Type “Highest Order Point” and notice a Order Points Selection section is
+not avaliable. Users can then Select Part Min or Part Max or Part Order Point as well as all any
+combination to be considered as the Order Point that the Order Qty will be calculated using. Follow
+the same steps as the other Order to Order Point Purcahse orders and select Linecodes and click the Get
+Products button.
+
+
+
+
+Buyout Return
+
+Users should select to use this PO Type to return Buyout Products that were sold at the Point of Sales
+and Returned. Buyouts are a specific type of Special Buy that is done at the Point Of Sales and is for a
+particular Account. Generally these are products that are not usually kept in stock in inventory but can
+be purchased for Accounts if they need that particular product. When those products are Returned at
+the Point of Sales and the Users chooses not to Automatically create a Return Purcahse Order from
+Point of Sales, Fuse5 will suggest to Return all of the Returned Buyout Returns using this PO Type.
+Similar to the other Return Purcahse Orders the Vendor and Linecodes need to be selected to
+automatically generate this type of Purchase Order. If the Product was already returned with another
+type of Return PO such as a Special Buy or Reorder No, then the product willl not appear when
+generating this type of Purcahse Order. In addition users have the ablity to selction Normal Returns,
+Core Returns, Warranty Returns or Defect Returns when gernating this PO Type.
+
+Additional Options After Filling Out Purchase Order Information Section
+
+Any automatically generated purchase order, such as the Forecast PO or one of the “Order to X” (Order
+to Min, Order to Max, Or Order to Order Point) types presents Users with some further options which
+allow you to refine how the Purchase Order is populated.
+
+You're ordering from a Distribution Center: Select additional locations you're ordering for. - If
+the location you are ordering from is a Distribution Center, which is set up in the Company Detials,
+then users will have the option to select multiple locations other then their current location to be
+considered in the Purcahse Order Order Qty as well.
+
+
+
+
+Select Linecodes:
+
+                                                                                                Page 13
+Fuse5 Training Materials
+
+
+This is used to choose which lines you want to include on the PO. The list of lines presented to you to
+choose from comes from the “Lines Purchased” setting in the vendor record. You can either check
+each individual line with the check box next to it or use the Select/Deselect All button at the bottom to
+choose all lines at the same time. The Lines Purchased in the Vendor Record reprensent the products
+lines that you order from that venor. For Order To X type purchase orders and Forecasting type
+Purchase Orders this must be selected in the vendor otherwise users will not have any options for
+Linecodes to select here.
+
+Alternate Part Ordering Options :
+
+Fuse5 has the ablity to automatically reduce the Order Qty of a product based on whether an Alternate
+Product to the part being ordered has Quanity On Hand to fullfill the Order Point or Suggested Order
+Quanity based on the Forecast Variables. An Alternate Part in Fuse5 is defined as an interchangeable
+part that both fit the same vehicle. An example of this would be a generic and an OE Part.
+
+Reduce Purchase Qty Based on Alternate Parts - This is the most commonly used option for
+Alternate Part Ordering and when checked will not suggest the ordering of additional quanity of
+inventory of products when there are enough quanity of Alternate to fullfill the Order point.
+
+Only Reorder No – By default, Reduce Purchase Qty Based on Alternate Parts will reduce purchase
+quantity based on all Alternate Part #'s in the Product record. When Only Reorder No is also selected,
+Fuse5 will only reduce purchase quantity when the Alternate Part #'s in the Product record are Reorder
+= No Products. Only Reorder No is avalaible to select when the option for Reduce Purchase Qty Based
+on Alternate Parts is also selected.
+
+Only 02X = 0 - By default, Reduce Purchase Qty Based on Alternate Parts will reduce purchase
+quantity based on all Alternate Part #'s in the Product record. When Only O2X = 0 is also selected,
+Fuse5 will only reduce purchase quantity when the Alternate Part #'s in the Product record also have
+all three O2X values (Part Min, Part Max & Part Order Point) set to 0. Only O2X = 0 is avalaible to
+select when the option for Reduce Purchase Qty Based on Alternate Parts is also selected.
+
+Note: If you are ordering with Alternates or use Alternate or have Alternate products populated in the
+Part Record, Fuse5 will Automatically display the number of Alternates that are currently in your
+system by default when ordering. Under the TA Column is where you will see this information. The
+Number is bolded and will say 'Summed Total of Alternate QOH.
+
+
+
+
+                                                                                                  Page 14
+Fuse5 Training Materials
+
+
+When users click on this number Fuse5 will display in a pop up the Linecode, Part #, Part Name, Qty
+On Hand, Sell Price and List Price of the Alternate products. This is another way to determine if the
+Alternate Part needs to be ordered without automatically reducing the Inventory.
+
+
+
+
+Round Up Options-
+
+If you have a rule in the product record that applies to “Factoring Minimum Order Qty”, “Buy Qty”,
+“Vendor Order Increment”, “Purchase Increment”, or “Per Car Qty”......by selecting the appropriate
+Round Up Option you will ensure that the PO follows the rule within the product record.
+
+        Factor Minimum Order Quantity: Set in the product record under FORECASTING
+INFORMATION. This is the minimum size of an order specified by the vendor. Can also be used if
+user gets a “discount” for a certain quantity and wants to set that quantity here.
+
+       Buy Qty: Set in the product record under FORECASTING INFORMATION. This is
+determined by the user rather than the vendor. If you have a minimum that you would want included
+on a PO you would set that in the product record using this line item.
+
+       Vendor Order Increment (PUOM): Set in the product record under PURCHASING
+INFORMATION. This is determined by the vendor rather than the user and corresponds to the Vendor
+Order Increment (PUOM). The unit of measure is chosen under the Vendor Order Increment (PUOM),
+the number of units is selected here.
+
+       Purchase Increment: Set in the product record under PURCHASING INFORMATION. This is
+determined by the user rather than the vendor. If you have a minimum that you would want included
+on a PO you would set that in the product record using this line item. Same functionality as the BUY
+Qty, just depends on which number you are used to using.
+
+       Per Car Qty: (TARGET INVENTORY STOCKING LEVEL RATHER THAN A PURCHASE
+INCREMENT) Set in the product record under FORECASTING INFORMATION. This is determined
+by the subscriber rather than the vendor. The line to make this yes/no selection is labeled “Multiply
+FCST By Per Car”. If set at no, it does nothing. If set at yes, the system will order in increments
+designated by the user under “Per Car Qty” which is the last item on the left side of the product record
+under LOCATION INFORMATION. (ex. Rotors, you will sell one, but when ordering you want to
+
+                                                                                                Page 15
+Fuse5 Training Materials
+
+ensure you have sets of two)
+
+Create Overstock ST – will generate a series of store transfers from other locations that are over the
+ordering point selected in the From Location and are Under the Order Point in the To Location. As the
+user you will get a pop up that shows all the overstock products in each combination of locations To
+and From. Users then have the ability to create store transfers prior to finishing your Purchase Order.
+
+
+
+
+When creating store transfers from the PO, the Fuse5 system will use your Store Transfer priorities to
+determine where to pull the product from. Meaning that if two locations need the same product to
+fullfill their overpoint Fuse5 will use a priority list to determine which location will receive the Store
+Transfer.
+
+Setting up Location Priority for Store Transfers
+
+This can be done under Personal & Admin > Settings > Company Details. Select the EDIT button for
+the location you want to set up. Towards the very bottom of the pop up box is the Location Priority for
+Store Transfers settting. Simply push the stores from left to right in the order that you would prefer to
+do store transfers. This will probably be driven by proximity or transportation costs. This is used if
+you are doing automated store transfers, particularly from a PO.
+
+
+
+
+TEMPLATES: Users can save a set of critria that is routinely used to geneate Purchase Orders as a
+Template. This template can then be shared with others users and set to generate a Purchase Order
+Automatically. The Purcahse Order template can be accessed again, similar to doing templates with
+Store Transfers. After Selecting the criteria for the Purchase Order, users can then enter a name (make
+sure it's something you will remember) in the “Save Data As Template” box and clicking SAVE
+TEMPLATE. By Naming and Saving the Template, the Template will now be avalaibe in the Saved
+Templates Drop Down at the top of the Create Purchase Order screen.
+
+
+
+
+                                                                                                    Page 16
+Fuse5 Training Materials
+
+
+
+
+The calendar icon with the orange x allows you to delete templates.
+
+The orange triangle allows the user to create PO alerts.
+  To create an alert choose the template you want and push the alert button. The “Add Report Alerts
+for _______” pops up.
+
+
+
+
+Generate Report on: - choose the date you want the alert to start
+
+Every: - choose the weekdays you want to receive the alerts
+
+Every: - use the drop down if you want to receive on a certain day each month
+
+Time: - choose what time you want the alert to pop up
+
+The above options can be used together to specify when the PO Template will run. For example: A PO
+Template can Run every Monday and/or Every 15th of the Month.
+
+Create PO: - if checked a pending PO will be created based on the PPD criteria
+
+Based on PPD?: - check to base on PPD
+
+
+                                                                                              Page 17
+Fuse5 Training Materials
+
+
+PPD(%) - choose the PPD % you want as the benchmark for creating the PO
+
+The third icon allows you to choose which users will have access to the template.
+
+Once you have set up the PO the way you want it, use the GET PRODUCT button to populate
+line items for forecast or order to X purchase orders.
+
+Product Details Line Items
+
+
+
+
+Transaction - For Purchase PO types there is one transaction type that can be chosen...normal
+purchase. Purcahse PO Types include Order to Order Point Purchase Orders, Special Buy, Forcast-
+Simple, Forecast-Simple W/ Order Points and Highest Order Points. For Return PO type Purchase
+Orders there are four types of transactions that you may use: “Normal Return”, “Core Return”,
+“Warranty Return”, and “Defect Return”. These can be mixed in the same Purchase Order For Return
+PO Types. You can also set the “Default Transaction Code” at the top, which will make every new
+transaction default to that selection. This saves time in the case of a long, repetitive Return Purcahse
+Orders.
+
+Line Code – Line Code of the product being added to the Purchase Order
+
+Product Number – Product number of the product being added to the Purcahse Order
+
+Add Comments – PO Part Notes is a field in the product record. Comments can be added to the
+Purchase Order either from the product record or when creating a Purchase Order. These notes will
+default to NOT print on the hard copy of your purchase order. Do you want to have PO Part notes
+printed on the your Purchase Orders? There is a custom setting called 'Print PO Part Notes on Purchase
+Orders' that will allow you to do so. To find this setting go to Personal and Admin > Settings > Custom
+Settings > Print PO Part Notes on Purchase Orders.
+
+When this setting is turned ON, PO Part notes will print on PO's. When this setting is OFF, PO Part
+notes will not print on PO's.
+
+Icons Under the Product Number (you can hover over them to see the names)
+
+Camera Icon – Allows you to see the product image if it's available in the catalog (this only pulls the
+Epicor Catalog Images)
+
+                                                                                                 Page 18
+Fuse5 Training Materials
+
+
+Calendar Icon – Allows you to go into the product record
+
+Export ST Detail Icon – Allows you to export the product(s) from the ST to a spreadsheet
+
+
+
+
+Sales History Graph – Allows you to access the sales history graph for that product. Changes to Order
+Points and Reorder Statuses can be done for all locations from this Pop Up. Users can even create
+Store Transfer from this pop up
+
+BG (Buyers Guide) Icon – Allows you to access the buyers guide in the catalog for this product (if
+you have the catalog service and if the product is in the catalog)
+
+Trash Can – Allows you to delete products from the Purchase Order.
+
+Add Comments – Allows you to add a comment to an individual product on the Purcahse Order.
+
+Product Name – Product name from product record, generally used to store the Product Description.
+
+
+
+
+QoH – Quantity On Hand 0 (or number) – Quantity you currently have on hand.
+
+   WH – Part availability at Vendor's Warehouse (if you have access to it, This is set up in the Vendor
+             see the Training Materials for EDI.
+
+   MTD - Month to Date Sales
+
+  YTD - Year to Date Sales
+
+   LYS: Last Year Sales (last calendar year)
+
+                                                                                                 Page 19
+Fuse5 Training Materials
+
+
+   L12: Last 12 Months Sales
+
+   YDR: Year to Date Returns
+
+   LYR: Last Years Returns (last calendar year)
+
+TA – Total Available in your inventory. If you hoover over the numbers underneath you will see that
+you have access to Quantity on Order, Vendor Backorder Quantity, Customer Backorder Quantity,
+Sales Rank, Qty of Alterate Parts and the Vendor Pop Code (if these fields are populated in the product
+record). The Customer Backorder Quantity is highlighted in orange to draw your attention.
+Additionally, if you attempt to delete a product that is on backorder for a customer you will get a pop
+up that reminds you it is on backorder.
+
+In the example below you see that there is 0 Total Available, 0 Quantity on Order, 0 Vendor Backorder
+Quantity, and 1 on Customer Backorder. This PO was an order to min. Notice that because there is 0
+Total Available, 1 on Backorder, and a Part Min of 5, the Purcahse order Logic is seeking to order a
+quantity of 6. A Quanity of 5 to fullfill the Part Min and then 1 for the Quanity that is on backorder.
+
+
+
+
+If you attempt to delete this product from the PO you get the following pop up which forces the user to
+be extra cautious when deleting parts that are on customer backorder.
+
+
+
+
+Order Qty – This is the quantity that you are set to order. If you hover over the numbers underneath
+you will see that you have access to the Part Min, Part Max and Part Order point. Additionally, you can
+see the Purchase Increment, Vendor Increment, Buy Quantity, and Minimum Order Quantity if they
+have been set in the product records. In this column users are able to update the Part Min, Part Max,
+and Part Order Point that will be saved to the product record using the pencil icon that comes up when
+you hover over them.
+
+
+                                                                                                Page 20
+Fuse5 Training Materials
+
+VOQ – Vendor Order Quantity, these populate when using the Round Up Options for Vendor Order
+Increment (PUOM).
+
+Cost - The value in the cost column is pulled from the product record. There are several cost fields in
+the product record, so how does Fuse5 decide which one to use? This distinction is established in the
+Vendord Record field “Pull Cost Price From” field. This setting allows the Users to select where the
+Cost will pull from such as the Current Cost, Alternate Cost 1, Alternate Cost 2 or Alternate Cost 3.
+This gives you the ability to import different vendor prices into different cost fields in a product record.
+
+For example, maybe you always import price sheets from a certain vendor into the “Alternate Cost 1”
+field. This allows Fuse5 to keep multiple vendor prices in a single product record, and then
+automatically call up the correct price to populate your Purchase Orders for that vendor. Current Cost
+and the three alternate cost fields are located under the Purchasing Information section for each
+product.
+
+Note: The “M” Cost fields in the product record are not used for pulling prices into purchase orders.
+Only the current cost and alternate cost fields in the product record are used for this purpose.
+
+Of course, you can change the purchase order cost directly on the page when creating a Purchase Order.
+If the Cost on the Purcahse Order is changed from what is pulled in the product record, Fuse5
+automatically generates a Pop up. Choosing Yes will update the Price in the Product Record. Choosing
+No will Update the Cost on this Purcahse Order but will not update the Cost in the Product Record.
+Choosing Cancel will change the Cost back to the Original Cost pulled from the Part record.
+
+
+
+
+Note: If you edit the product record or the vendor record to change the product cost, you will need to
+delete and re-add the affected product(s) to the purchase order for the new price to populate, or simply
+manually change the cost field(s) to the new value. Updating the product or vendor record while you
+are in the process of creating a purchase order will not update the cost fields on it that are already
+populated. Caution: simply refreshing the purchase order page will clear any products you have
+already entered and begin the purchase order creation from the beginning.
+
+Core Cost – Cost to purchase the Core(s) from your vendor. This cost is stored in the Core Cost Field
+in the Product Record.
+
+Trash Can – Allows you to delete a line on the Purchase Order.
+
+
+                                                                                                    Page 21
+Fuse5 Training Materials
+
+
+Freight PPD and other Billing Information
+
+
+
+
+Freight PPD Based On - Based on Weight, Dollars, or Units and taken from the vendor record.
+
+Freight PPD – The weight, dollar, or unit requirement necessary to receive discounted freight charges
+from your vendor, set up in the vendor record.
+
+Current – Current PPD based on what is on the PO.
+
+Remaining – Remaining quantity needed to order to achieve the PPD.
+
+Shipping & Handling Charges – Freight charges that you expect to pay to this vendor. These do not
+carry over to the Vendor Invoice Reconciliation Process.
+
+Surcharge – Insurance surcharge charged by your vendor (if applicable).
+
+Small Order Charge – Additional charge that your vendors may establish based on the size of the
+order.
+
+Cost Price Total – Total Cost from all line items on the Purcahse Order.
+
+Core Price Total – Total Core Cost from all line items on the PO.
+
+Discount – Discount from vendor based on quantity ordered.
+
+Grand Total – Total of all the charges.
+
+
+
+
+                                                                                              Page 22
+Fuse5 Training Materials
+
+
+Saving and Finalizing a PO
+
+
+
+
+PO Worksheet
+
+This button opens a printer friendly listing of the items on this purchase order, along with all the
+amplifying information that is available for each line (such as stocking information, sales, etc.).
+
+Finalize PO
+
+Once you are finished creating the Purcahse Order, you need to click the “Finalize PO” button. This
+will take the default action to initiate the order for that Vendor. For all the Products on the Purchase
+Order, the Qty on Order will increase in the product record by the quanity that is on the Finalized PO.
+Qty on Order is used in the Purcahsing Logic to determine if the Part is still needed to be Ordered. For
+example if the Quanity On Hand of a Part is 5, Order Point is 5, but there is 5 in the Qty On Order field
+in the part Record, the purchase order logic will not populate this product on a Purcahse Order to
+Order. The product can still manually be added to a Special Buy or at the end of a Suggested Purchase
+Order.
+
+Finalize PO but do NOT submit through EDI
+
+Allows you to finalize the PO without sending to your vendor via the EDI (Electronic Data
+Interchange) if you have one established. The EDI is set up in the Vendor record.
+
+Finalize PO and submit through EDI
+
+Allows you to finalize the PO and immediately send to your vendor via the EDI (Electronic Data
+Interchange) if you have one established.
+
+Save As Is
+
+If you want to save a PO and come back to it later, just hit the “Save As Is” button at the bottom. This
+saves the PO, but does not finalize it.To return to the Purcahse Order, open the Purchase Orders list by
+going to Product Management at the top and selecting “Purchase Orders” from the first drop-down list.
+This brings you to a searchable listing of all Purchase Orders in the system. You can search by PO
+number, vendor, etc. to find the saved PO (it will have a status of “Approved”, not “Finalized”). Once
+
+                                                                                                   Page 23
+Fuse5 Training Materials
+
+you have identified the proper PO, click on the edit icon in the “Action” column at the far right of the
+screen. This will take you back to the familiar “Create PO” screen where you left off, and you can
+continue to add or remove products from the Purcashe Order. The Purcahse Order can also be
+Fianlized or Deleted. Once a Purcahse Order is Finalized Products can be Canceled from the Purcahse
+Order but they can not be Deleted.
+
+Cancel
+
+Allows you to cancel the PO you are currently working on.
+
+Equivalent Parts and Ordering Lowest Costs:
+
+Fuse5 allows you to order “Equivalent” parts from different vendors. You may have a part number that
+is available from other vendors using either the same or different / equivalent part numbers. The first
+step in doing so is to establish equivalent part relationships within the part records. This can be done
+one of two ways:
+
+1. Within an individual product record go to the EQUIVALENT PART INFORMATION towards the
+bottom of the product record.
+
+
+
+
+Click on ADD EP. At this point you can add the line code, product number, current cost, vendor name,
+vendor line code (their abbreviation and nothing to do with product line codes), etc.
+
+
+
+
+2. You can import equivalent parts by going to PRODUCT MANAGMENT > PRODUCTS >
+EQUIVALENT PARTS. When you get to the listings page you will see any equivalent parts for which
+you have created relationships. You can import using the import button at the top right.
+
+
+
+
+                                                                                                 Page 24
+Fuse5 Training Materials
+
+
+
+
+Select the spreadsheet you want to import and hit next.
+
+
+
+
+The mandatory fields for importing include the line code, product #, master line code, master product #,
+vendor line code, and vendor name. Other information can be imported. We recommend importing
+current cost of the equivalent part for ordering purposes. (Note: You must have a vendor record set up
+for the equivalent parts vendor prior to doing the import and you need to make the MASTER LINE
+CODE available for purchase from that vendor, even if they use a different line code for the parts)
+
+
+
+
+                                                                                                Page 25
+Fuse5 Training Materials
+
+
+Once equivalent parts have been added to Fuse5 you have the ability to order from your vendors to
+purchase lowers cost equivalent parts. Doing so potentially requires doing a Purchase Order for each
+of the vendors you want to order from. Let's look at an example. Below is a list of my original parts,
+line code TRN, Product # Part1-Part12. I have established equivalent parts with line code NRT, PartA-
+PartL. The relationship for these was set up by doing an import.
+
+
+
+
+The vendor for the TRN line code is “Training” and I need to order these parts, with the intent being to
+do an order to max. Prior to doing so, I set up a PO from “Dennis Part House” who sells the equivalent
+NRT line code. I select order to max, primary supplier or equivalent parts, and order lowest cost items
+only. Because Fuse5 knows that there is an equivalent parts relationship between the TRN and NRT
+line codes, the TRN line code will show up as available for purchase.
+
+
+
+
+                                                                                                Page 26
+Fuse5 Training Materials
+
+
+All of the product that showed up as needing to be ordered from Dennis' Part House are equivalent
+parts with a lower price than the original product current cost.
+
+Fuse5 on screen view
+
+
+
+
+Printed PO view
+
+
+
+
+Now that we have ordered the lowest cost equivalent parts, we will do a PO from the “Training”
+vendor. In this case we would NOT select primary supplier or equivalent parts only nor order lowest
+cost items only. We do this to ensure we order all the parts that we need to meet our order to max.
+Realistically, you should only be getting the lowers cost items anyway if you have already created
+another PO for lowest cost equivalent parts.
+
+
+
+
+                                                                                              Page 27
+Fuse5 Training Materials
+
+
+The results of the second Purcahse Order provides you with the remainder of the parts you need to
+order for an Order to Max Purchse Order. They are the original parts from your primary supplier that
+were NOT available at a lower cost from other suppliers.
+
+
+Printed PO View
+
+
+
+
+Fuse5 on screen view
+
+
+
+
+                                                                                              Page 28
+

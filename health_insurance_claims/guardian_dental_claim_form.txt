@@ -1,0 +1,61 @@
+Comprehensive completion instructions for the ADA Dental Claim Form are found in Section 6 of the ADA Publication titled CDT-2005.
+Key extracts from that section of CDT-2005 follow:
+GENERAL INSTRUCTIONS
+   A. The form is designed so that the Primary Payer’s (primary insurance company) name and address (Item 3) are visible in a standard
+      #10 window envelope. Please fold the form using the ‘tick-marks’ printed in the margin.
+   B. In the upper-right of the form, a blank space is provided for the convenience of the payer or insurance company, to allow the
+      assignment of a claim or control number.
+   C. All Items in the form must be completed unless it is noted on the form or in the comprehensive instructions that completion is not required.
+   D. When a name and address field is required the full name of an individual or a business, address and zip code must be entered.
+   E. All dates must include the four-digit year.
+   F. If the number of procedures reported exceeds the number of lines available on one claim form, the remaining procedures must be
+      listed on a separate, fully completed claim form.
+COORDINATION OF BENEFITS (COB)
+   When a claim is being submitted to a secondary payer, complete the form in its entirety and attach the primary payers Explanation of
+   Benefits (EOB) showing the amount paid by the primary payer. You may indicate the amount the primary carrier paid in the “Remarks”
+   field (Item # 35).
+ITEMS OF NOTE
+    39. Number of Enclosures (00 to 99): This item is completed whether or not radiographs, oral images, or study models are submitted
+        with the claim. If no enclosures are submitted, enter 00 in each of the boxes to verify that nothing has been sent and therefore no
+        possible attachments are missing.
+         When supplementary material is sent with the claim, the number of each type is entered in the appropriate box, using two digits.
+         If less than 10, use 0 in the first position. ‘Oral Images’ include digital radiographic images and photographs and are reported by the
+         number of images.
+     43. Replacement of Prosthesis?: This Item applies to Crowns and all Fixed or Removable Prostheses (e.g. bridges and dentures).
+         Please review the following three situations in order to determine how to complete this Item.
+               a) If the claim does not involve a prosthetic restoration check “NO” and proceed to Item 45.
+               b) If the claim is for the initial placement of a crown, or a fixed or removable prosthesis, check “NO” and proceed to Item 45.
+               c) If the patient has previously had these teeth replaced by a crown, or a fixed or removable prosthesis, or the claim is to replace
+                  an existing crown, check the “YES” field and complete section 44.
+     53. Certification: Signature of the treating or rendering dentist and the date the form is signed. This is the dentist who performed, or is in
+         the process of performing, procedures indicated by date for the patient. If the claim form is being used to obtain a pre-estimate or
+         pre-authorization, it is not necessary for the dentist to sign the form. Dentists should be aware that they have an ethical and legal
+         obligation to refund fees for services that are paid in advance but are not completed.
+PROVIDER TAXONOMY CODES
+   58. Treating Provider Specialty: Enter the code that indicates the type of dental professional who delivered the treatment.
+       Available codes describing treating dentists are listed below. The general code listed as ‘Dentist’ may be used instead of any
+       other dental practitioner code.
+                                             Category / Description Code                                               Code
+                                                        Dentist /
+        A dentist is a person qualified by a doctorate in dental surgery (D.D.S) or dental medicine (D.M.D.)       122300000X
+        licensed by the state to practice dentistry, and practicing within the scope of that license.
+                                                   General Practice /
+                                                                                                                       1223G0001X
+          Many dentists are general practitioners who handle a wide variety of dental needs.
+                                                      Dental Specialty /                                                  Various
+          Other dentists practice in one of the nine specialty areas recognized by the American Dental Association. (see following list)
+                                                    Dental Public Health                                               1223D0001X
+                                                         Endodontics                                                   1223E0200X
+                                                         Orthodontics                                                  1223X0400X
+                                                      Pediatric Dentistry                                              1223P0221X
+                                                         Periodontics                                                  1223P0300X
+                                                        Prosthodontics                                                 1223P0700X
+                                              Oral & Maxillofacial Pathology                                           1223P0106X
+                                              Oral & Maxillofacial Radiology                                           1223D0008X
+                                                Oral & Maxillofacial Surgery                                           1223S0112X
+                         Dental provider taxonomy codes listed above are a subset of the full code set that is posted at:
+                                                     http://www.wpc-edi.com/codes/codes.asp
+                                       Any updates to ADA Dental Claim Form completion instructions
+                                                  will be posted on the ADA’s web site at:
+                                                       www.ada.org/goto/dentalcode
+

@@ -1,0 +1,451 @@
+  Request for Proposals for
+Software Development Services
+
+
+
+          Issued: July 6, 2009
+     Responses Due: July 23, 2009
+
+
+                Contact:
+              Scott Came
+   Director of Systems and Technology
+               SEARCH
+        scott.came@search.org
+             916-212-5978
+                                                           Table of Contents
+
+
+Introduction..................................................................................................................................................3
+    Background ..............................................................................................................................................3
+       SEARCH ................................................................................................................................................3
+       Justice Information Exchange Model (JIEM) Program ..........................................................................3
+    Purpose ....................................................................................................................................................3
+Schedule.......................................................................................................................................................4
+Administrative Requirements.....................................................................................................................4
+    RFP Coordinator (Proper Communication) ..............................................................................................4
+    Reliance on Written Communication ........................................................................................................5
+    Vendor Questions Invited .........................................................................................................................5
+    Vendor Complaints Regarding RFP Requirements .................................................................................5
+    Response Contents and Format ..............................................................................................................5
+    Response Presentation and Format Requirements .................................................................................6
+    Delivery of Responses .............................................................................................................................6
+    Cost of Response Preparation .................................................................................................................6
+    Waive Minor Administrative Irregularities.................................................................................................6
+    Errors in Response...................................................................................................................................6
+    Right to Cancel .........................................................................................................................................6
+    Incorporation of Documents into Contract................................................................................................6
+    No Costs or Charges................................................................................................................................6
+    Non-Endorsement and Publicity...............................................................................................................7
+    Withdrawal of Response ..........................................................................................................................7
+    Optional Vendor Debriefing ......................................................................................................................7
+Vendor Requirements .................................................................................................................................7
+    Vendor Profile...........................................................................................................................................7
+    Vendor Points of Contact .........................................................................................................................7
+    Acknowledgment of Terms and Conditions..............................................................................................8
+    Acceptance of Technical Specifications...................................................................................................9
+Vendor Qualifications .................................................................................................................................9
+Financial Quote..........................................................................................................................................10
+Evaluation Process ...................................................................................................................................10
+    Overview.................................................................................................................................................10
+    Administrative Screening and Mandatory Requirements.......................................................................11
+    Scoring ...................................................................................................................................................11
+1    Introduction
+2    Background
+3    SEARCH
+4    SEARCH, The National Consortium for Justice Information and Statistics, is a nonprofit
+5    membership organization created by and for the states.
+6    Since 1969, SEARCH's primary objective has been to identify and help solve the information
+7    management problems of state and local justice agencies confronted with the need to exchange
+8    information with other local agencies, state agencies, agencies in other states, or with the federal
+9    government.
+10   SEARCH is governed by a Membership Group comprised of one gubernatorial appointee from
+11   each of the 50 states, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands, as well
+12   as eight at-large appointees selected by SEARCH's Chair. Members are primarily state-level
+13   justice officials responsible for operational decisions and policymaking concerning the
+14   management of criminal justice information, particularly criminal history information.
+15   A staff of professionals works from SEARCH headquarters in Sacramento, California, to
+16   implement solutions identified by the Membership Group. Through its staff and with the direction
+17   of the Membership, SEARCH provides justice agencies with diverse products, services, and
+18   resources through four program areas: Systems and Technology, Law and Policy, Public Safety
+19   Programs, and High Tech Crime and Systems Security.
+20   Funding for SEARCH activities is provided by annual fees from Member states for the operation
+21   of the consortium and Board of Directors; grants from various U.S. Federal government agencies;
+22   state grants; and federal, state, and local contracts.
+23   Additional information about SEARCH is available at http://www.search.org.
+24   Justice Information Exchange Model (JIEM) Program
+25   The Justice Information Exchange Model program provides a conceptual framework,
+26   methodology, and software tool to assist state and local justice organizations with their integrated
+27   justice information systems planning and implementation. JIEM is a tool to collect requirements
+28   from users for electronic information sharing, documenting both the business context and
+29   information content of information exchange as it currently exists. JIEM also can be used to
+30   create a blueprint for improved information sharing in the future. JIEM is primarily a business
+31   process analysis tool, not a system development tool.
+32   JIEM includes the JIEM Reference Model (JRM), a set of standard exchanges that are similar to
+33   the data exchanges that occur in most locations. Using the JRM, a site can perform JIEM
+34   analysis much more quickly and with results that are more consistent with those of other states.
+35   In September 2007, SEARCH released version 4.0 of the JIEM Tool. The primary purpose of this
+36   release was to provide the functionality of the prior Web-based version (3.4) on the Eclipse tools
+37   platform (http://www.eclipse.org). This work continued with version 4.1 of the JIEM Tool, released
+38   in March 2008.
+39   Funding for the enhancements to JIEM envisioned in this Request for Proposals (RFP) will be
+40   provided primarily by a grant from the Bureau of Justice Assistance, U.S. Department of Justice
+41   (http://www.ojp.usdoj.gov/BJA/ ).
+42   Additional information about the JIEM Tool is available at http://www.search.org.
+43   Purpose
+44   SEARCH intends to purchase software development services from a qualified Vendor, in order to
+45   build the next release (5.0) of the JIEM Tool. The purpose of this RFP is to solicit bids from
+46   prospective vendors that are interested in performing these services for SEARCH.
+
+
+                                                     -3-
+47   Following the selection of a successful Vendor, SEARCH intends to enter into a contract with that
+48   Vendor to perform the services. The period of performance under the resulting contract is
+49   expected to be August 1, 2009, through July 31, 2010.
+50   SEARCH reserves the right to cancel this RFP at any time, and to decline to enter a contract with
+51   any Vendor. Neither the issuance of this RFP nor the submission of responses by vendors
+52   obligates SEARCH to make any purchases.
+
+53   Schedule
+54   The schedule for this RFP is as follows. The due date of each milestone is defined as 4:00 PM
+55   Pacific Daylight Time, unless indicated otherwise. This schedule is subject to change at
+56   SEARCH’s sole discretion at any time.
+
+     Milestone                                                                Date
+
+     SEARCH issues RFP                                                        July 6, 2009
+
+     Vendors submit questions to SEARCH                                       July 13, 2009
+
+     SEARCH posts responses to questions                                      July 14, 2009
+
+     Vendors submit RFP responses to SEARCH                                   July 23, 2009
+
+     SEARCH designates successful Vendor                                      July 24, 2009
+
+     SEARCH and successful Vendor agree on contract                           July 31, 2009
+
+     Vendor begins work                                                       August 1, 2009
+
+
+57   Administrative Requirements
+58   Prospective vendors are responsible for ensuring that their responses conform to the following
+59   requirements.
+60   RFP Coordinator (Proper Communication)
+61   The Coordinator for this RFP is:
+62                                             Scott Came
+63                            Director of Systems and Technology, SEARCH
+64                                       scott.came@search.org
+65                                            (916) 212-5978
+66   Upon release of this RFP, all communications between prospective vendors and SEARCH
+67   concerning this RFP must be directed to the Coordinator. Communication about this RFP
+68   between prospective vendors and SEARCH staff other than the Coordinator may result in
+69   disqualification of such vendors.
+
+
+
+
+                                                    -4-
+70    Reliance on Written Communication
+71    Oral communication between SEARCH and prospective vendors is unofficial and non-binding on
+72    SEARCH. Vendors may rely only on written information issued by the Coordinator.
+73    SEARCH will post all written information and correspondence with prospective vendors on the
+74    same Web site at which this RFP was originally posted. It is the responsibility of each prospective
+75    Vendor to visit the Web site to find information posted by SEARCH. SEARCH will make no effort
+76    to contact prospective vendors to inform them of written communication posted to the Web site.
+77    SEARCH will remove the names of prospective Vendor firms and individuals, along with their
+78    contact information, from any written communication. However, by submitting a question to
+79    SEARCH, prospective vendors acknowledge and accept that SEARCH is not liable for third
+80    parties’ usage of written communication to identify prospective vendors.
+81    Vendor Questions Invited
+82    SEARCH invites questions from prospective vendors regarding this RFP. Such questions are
+83    intended to help SEARCH clarify RFP requirements, and communicate additional useful
+84    information about the JIEM Tool and development effort.
+85    In their questions, vendors should make reference to information in this RFP by line number(s) to
+86    facilitate SEARCH’s response and to ensure clear communication.
+87    Vendors should review publicly available information about SEARCH and the JIEM Tool prior to
+88    submitting questions. This information is available at http://www.search.org.
+89    Following the milestone established for the receipt of questions, SEARCH will post its responses
+90    to the same Web site at which this RFP was originally posted. It is the responsibility of each
+91    prospective Vendor to visit the Web site to view the responses.
+92    Vendor Complaints Regarding RFP Requirements
+93    If a prospective Vendor believes that any requirement in this RFP unduly or unfairly restrains
+94    competition, then the Vendor must state such belief in writing to the RFP Coordinator prior to the
+95    milestone established for submission of questions. The statement should reference specific
+96    language in the RFP by line number(s).
+ 97   SEARCH will evaluate all such complaints and will respond, in writing, to the complaining Vendor
+ 98   only, in advance of the milestone established for posting of responses to questions. SEARCH
+ 99   may, in its sole discretion, determine that it is in SEARCH’s best interests to alter the RFP to
+100   address the complaint. SEARCH may also, in its sole discretion, issue amendments to this RFP
+101   to address Vendor complaints, or for any other reason.
+102   SEARCH’s discretion and decisions regarding Vendor complaints and questions are final.
+103   Response Contents and Format
+104   Prospective vendors must submit responses in Microsoft Word (Office 97 version or more recent)
+105   or Adobe PDF format (version 6.0 or more recent). Responses must be submitted via email
+106   directly to the RFP Coordinator, with documents attached to the email. Information provided in the
+107   body of the email, rather than attachments thereto, will be ignored by SEARCH.
+108   SEARCH will acknowledge receipt of responses via email, by direct response to the submitter’s
+109   email, within one (1) business day of receipt.
+110   Responses submitted by other means, including but not limited to in-person, fax, or postal
+111   delivery, will not be accepted.
+
+
+
+
+                                                     -5-
+112   Response Presentation and Format Requirements
+113   Prospective vendors may format their response in accordance with their best judgment, keeping
+114   in mind that SEARCH must be able to read each response easily.
+115   When printed, each response must print clearly in black-and-white on 8.5” x 11” paper.
+116   Responses in excess of 30 total printed pages will be disqualified.
+117   Responses must clearly identify each requirement in this RFP immediately preceding the
+118   Vendor’s response to that requirement. Requirements in this RFP are indicated by grey shading,
+119   and are of the form “Mandatory/Scored Requirement X.”
+120   Responses must be written in English.
+121   Delivery of Responses
+122   The prospective Vendor’s response to this RFP, in its entirety, must be received and
+123   acknowledged by the RFP Coordinator in advance of the due date specified in the schedule
+124   above. Late responses will not be accepted or considered.
+125   Cost of Response Preparation
+126   SEARCH will not reimburse prospective vendors for any costs incurred in preparation of a
+127   response to this RFP.
+128   Waive Minor Administrative Irregularities
+129   SEARCH reserves the right to waive minor administrative irregularities contained in any
+130   response. Additionally, SEARCH reserves the right, at its sole option, to make corrections to
+131   prospective vendors’ responses when an obvious arithmetical error has been made in the price
+132   quotation. Prospective vendors will not be allowed to make changes to their quoted price after the
+133   response submission deadline.
+134   Errors in Response
+135   Prospective vendors are liable for all errors or omissions contained in their responses.
+136   Prospective vendors will not be allowed to alter response documents after the deadline for
+137   response submission. SEARCH is not liable for any errors in responses. SEARCH reserves the
+138   right to contact a prospective Vendor for clarification of response contents.
+139   Right to Cancel
+140   SEARCH reserves the right to cancel this RFP at any time, for any reason. Issuing this RFP does
+141   not obligate SEARCH to enter into a contract with any Vendor or make any purchases.
+142   Incorporation of Documents into Contract
+143   By submitting a response, prospective vendors acknowledge and accept that the requirements of
+144   this RFP and the contents of the Vendor’s response will be incorporated into any contract entered
+145   into as a result of this RFP.
+146   No Costs or Charges
+147   By submitting a response, prospective vendors acknowledge and accept that SEARCH shall not
+148   be liable for any costs or charges incurred prior to the formal and complete execution of a
+149   contract between SEARCH and the successful Vendor.
+
+
+
+
+                                                     -6-
+150   Non-Endorsement and Publicity
+151   SEARCH’s selection, if any, of a successful Vendor does not imply endorsement of the Vendor’s
+152   capabilities, personnel, products, or services. By submitting a response, Vendor agrees to make
+153   no reference to SEARCH, its staff, business partners, or granting agencies in any literature,
+154   promotional material, brochures, sales presentation, or the like, regardless of method of
+155   distribution, without the prior review and explicit written permission of SEARCH.
+156   Withdrawal of Response
+157   After submitting a response, prospective vendors may withdraw such response at any time.
+158   Prospective vendors may resubmit a response at any time up until the milestone specified in the
+159   solicitation schedule above.
+160   Optional Vendor Debriefing
+161   Prospective vendors, whether successful or unsuccessful, may request a debriefing of the results
+162   of SEARCH’s review of responses. Vendors must notify the RFP Coordinator via email of a
+163   request for debriefing within two (2) business days of the announcement of a successful Vendor.
+164   The optional debriefing will not include any comparison between the response and any other
+165   responses submitted. However, SEARCH will explain the factors considered in the evaluation of
+166   the Vendor’s response and the alignment of Vendor’s capabilities with the solicitation
+167   requirements.
+
+168   Vendor Requirements
+169   Vendor Profile
+170   Mandatory Requirement 1
+171   Prospective Vendor’s response must indicate:
+172       •   Legal business name
+173       •   Legal status (corporation, partnership, sole proprietorship, etc.) and state of
+174           incorporation, if applicable
+175       •   Year the entity was organized to do business, as it now substantially exists
+176       •   Address, voice and fax telephone numbers, and Internet Web site URL for primary
+177           correspondence/contact
+178       •   Organizational chart indicating principal corporate organization, and identifying where in
+179           the organizational structure the proposed project participants reside
+180       •   Names and titles of principal officers
+181   Vendor Points of Contact
+182   Mandatory Requirement 2
+183   Prospective Vendor’s response must indicate the name, title, and full contact information for the
+184   point of contact regarding this RFP.
+185   Prospective Vendor’s response must indicate the name, title, and full contact information for the
+186   staff member with accountability and the ability to obligate the Vendor for the development project
+187   envisioned by this RFP.
+
+
+
+
+                                                       -7-
+188   Acknowledgment of Terms and Conditions
+189   SEARCH intends to manage the JIEM Tool development effort as follows.
+190   1. SEARCH will maintain an ongoing list of potential JIEM features. SEARCH, not the Vendor, is
+191      responsible for maintaining this list. While SEARCH would welcome suggestions as to
+192      potential new features from the Vendor, SEARCH will not compensate Vendor for time
+193      researching or evaluating potential features unless previously agreed in writing by SEARCH
+194      and Vendor.
+195   2. In maintaining the list of JIEM features, SEARCH will seek input and advice from the JIEM
+196      user community, through the JIEM Steering Committee and other means. Vendor will take
+197      direction only from SEARCH.
+198   3. The Vendor will perform work in two-week increments called “iterations.” An iteration starts on
+199      a Saturday and ends fourteen (14) days later on a Friday.
+200   4. On the last day of an iteration, SEARCH and the Vendor project team will meet to select
+201      features from the list for implementation during the next iteration. SEARCH expects these
+202      meetings to occur via telephone and Web-enabled conference service, the costs of which will
+203      be borne by SEARCH (not including telephones, workstations, and broadband Internet
+204      access at Vendor’s site necessary to participate).
+205   5. For the first iteration under the contract, the planning session referenced in #4 above will
+206      occur as part of contract finalization.
+207   6. Once the features are selected for implementation, Vendor will provide within one (1)
+208      business day a firm, fixed-price bid for implementing each feature. After receiving the bid
+209      from the Vendor, SEARCH may adjust the scheduled features, in order to reduce the price, or
+210      for any other reason. Vendor will have an opportunity to provide a new fixed-price bid after
+211      any changes in the scheduled features. Once agreement is reached between SEARCH and
+212      Vendor, they will execute a work order via email formalizing the agreement.
+213   7. “Implementation” of features includes the following:
+214           a. Writing of source code, in accordance with the technical specifications below
+215           b. Development of tests that demonstrate proper functioning of each component within
+216              JIEM
+217           c.   Continuous (daily) integration of new source code into the code base, including fully
+218                automated (unattended) building of executables from source, execution of tests, and
+219                reporting of results
+220   8. On the final day of the iteration, SEARCH and the Vendor project team will meet for a review
+221      of progress, documentation of lessons learned, and a formal decision from SEARCH to
+222      continue the project for another iteration. If the decision is to continue development, then
+223      SEARCH and the Vendor project team repeat steps 4, 5, and 6.
+224   9. If Vendor fails to implement a promised feature by the last day of the iteration, then Vendor
+225      will not receive payment for any resources expended in (partial) development of that feature.
+226      SEARCH may, at its sole discretion, schedule such a feature for inclusion in a future
+227      iteration’s scope.
+228   10. Vendor will invoice for each iteration’s work upon SEARCH acceptance of iteration results.
+229   11. Either SEARCH or Vendor may terminate the contract resulting from this RFP on the last
+230       business day of any month, with or without prior notification to the other party.
+231   In addition, the following terms and conditions will apply throughout the project:
+232   •   SEARCH and the Vendor project team will meet weekly for up to thirty (30) minutes to review
+233       progress. Additional meetings will be scheduled as necessary. These meetings will take
+
+
+                                                      -8-
+234       place via telephone and Web-enabled conference as necessary. The cost of Vendor
+235       participation in these meetings will be factored into Vendor’s bid for the iteration features.
+236   •   Vendor agrees to permit SEARCH to inspect any and all source code artifacts,
+237       documentation, scripts, tests, and the like, at any point during the project. At a minimum,
+238       Vendor will provide SEARCH with a zip archive file containing all artifacts upon SEARCH’s
+239       request at any time.
+240   •   While Vendor will store and maintain source code at its facility, Vendor acknowledges and
+241       accepts that deliverables and artifacts, including but not limited to source code,
+242       documentation, scripts, tests, and the like, are developed as “works for hire” and are the
+243       property of SEARCH from the moment they are created.
+244   •   At the termination of the contract resulting from this RFP, Vendor will transfer possession of
+245       all deliverables and artifacts developed under such contract to SEARCH, and will destroy all
+246       copies in the Vendor’s possession.
+247   Mandatory Requirement 3
+248   Prospective Vendor’s response must acknowledge and accept each and every one of these
+249   terms and conditions, and acknowledge Vendor’s commitment to enter into a contract with
+250   SEARCH that specifies these terms and conditions. A response that does not acknowledge and
+251   accept each and every one of these terms and conditions will be deemed non-compliant with this
+252   mandatory requirement, and will be disqualified from further consideration.
+253   Acceptance of Technical Specifications
+254   SEARCH intends to constrain future development of the JIEM Tool as follows.
+255   1. The Tool will be developed in the Java programming language, using the Java 2 Standard
+256      Edition platform, version 1.6 or higher.
+257   2. The Tool will consist of a set of “plug-ins” to the Eclipse rich client platform, version 3.3 or
+258      higher, as defined at http://www.eclipse.org. SEARCH intends to make it available as a single
+259      download (Java virtual machine downloaded separately from java.sun.com), and as a
+260      separate plug-in that can be installed into a separate Eclipse installation.
+261   3. Future Tool development will be based on the existing JIEM 4.0 codebase. SEARCH does
+262      not intend to pay for redevelopment of existing features unless Vendor demonstrates to
+263      SEARCH the long-term benefits to new feature development of doing so.
+264   Mandatory Requirement 4
+265   Prospective Vendor’s response must acknowledge and accept these technical specifications, and
+266   acknowledge Vendor’s commitment to constrain its development approach in accordance with
+267   them. A response that does not acknowledge and accept these technical specifications will be
+268   deemed non-compliant with this mandatory requirement, and will be disqualified from further
+269   consideration.
+
+270   Vendor Qualifications
+271   Mandatory Requirement 5
+272   Prospective Vendor’s response must include resume(s) of the Vendor’s proposed project team.
+273   The team must include at least one (1) full-time Java developer. The team will include a “team
+274   lead” role; this team member will be responsible for project management and coordination on the
+275   Vendor team. The team lead will be the primary point of contact for SEARCH on the project. The
+276   team lead must have at least five (5) years of experience working on the Java platform. Additional
+277   developers, if any, must have at least one (1) year of experience working on the Java platform.
+278   Scored Requirement 1
+
+
+
+                                                       -9-
+279   Prospective Vendor’s response must describe its experience and qualifications as they relate to
+280   the technical specifications listed above, especially as related to the Java programming language
+281   and Eclipse platform. The response must highlight those aspects of the proposed project team’s
+282   resume(s) most relevant to the technical specifications and requirements (i.e., experience on
+283   projects that had similar technical/application requirements, whether in the public safety / justice
+284   domain or not).
+285   Scored Requirement 2
+286   Prospective Vendor’s response must describe its experience and qualifications as they relate to
+287   the project management approach and software development methodology inherent in the “terms
+288   and conditions” listed above. The response must highlight those aspects of the proposed project
+289   team’s resume(s) most relevant to this project management approach and software development
+290   methodology. The response should go beyond merely stating that a particular agile/iterative
+291   methodology was used; Vendor must demonstrate that its team followed the guidelines of that
+292   methodology on significant past projects.
+293   The response should describe at least one (1) project delivered successfully by the Vendor in the
+294   past, using a similar approach/methodology. The response should provide the name and contact
+295   information of a contact person who can verify Vendor’s successful delivery of the project by the
+296   Vendor using a similar approach/methodology.
+297   Scored Requirement 3
+298   Prospective Vendor’s response must describe its experience and qualifications in the areas of
+299   public safety business analysis, information exchange design and implementation, and
+300   architecture. This experience and qualifications can include prior projects in the law enforcement,
+301   courts, corrections, probation, parole, motor vehicle administration, prosecution, and first-
+302   responder domains. Vendor’s response should identify team members’ familiarity with the JIEM
+303   program, methodology, site model structure, reports, and relationship with the Global Justice XML
+304   Data Model (GJXDM) and National Information Exchange Model (NIEM).
+305   Scored Requirement 4
+306   Prospective Vendor’s response must provide the name, organization, mailing address, email
+307   address, and telephone contact information for two (2) references for whom Vendor has
+308   successfully completed a similar project. (“Similar project” means a project that used similar
+309   technologies, addressed a similar business problem [developing a tool for capturing
+310   requirements], supported a similar domain [justice, public safety], or any/all of these.) One of
+311   these references may be the same individual and/or organization provided in accordance with
+312   Scored Requirement 2 above.
+
+313   Financial Quote
+314   Scored Requirement 5
+315   Prospective Vendor’s response must state the hourly rate for each of the team members
+316   described in Mandatory Requirement 5 above. A response may, but need not, state the same
+317   hourly rate for each team member (if multiple team members are proposed). This hourly rate is
+318   inclusive of all expenses and will be the only basis of payment by SEARCH to Vendor.
+
+319   Evaluation Process
+320   Overview
+321   The successful Vendor will be the prospective Vendor who:
+322       1. Meets all the mandatory requirements of this RFP, and
+323       2. Scores the highest on Financial Quote and Vendor Qualifications criteria
+
+
+
+
+                                                     - 10 -
+324   Administrative Screening and Mandatory Requirements
+325   Upon receipt of a Vendor’s response, SEARCH will review such response for compliance with all
+326   mandatory requirements of the RFP, including timely submission in the proper format. Any
+327   response not complying with each and every mandatory requirement will be excluded from further
+328   consideration. Vendors are responsible for careful review of their responses, prior to submission,
+329   to ensure that each mandatory requirement has been adequately addressed.
+330   Scoring
+331   A team of evaluators will be convened by SEARCH to review scored requirements. Equal weight
+332   (20 points) will be given to each of the five (5) scored requirements, for a total potential score of
+333   100. Financial quote will be scored as follows:
+334   Vendor score = 20 x (highest cost – Vendor cost) / (highest cost – lowest cost)
+335   Where “cost” is the sum of the two (2) hourly rates provided under Scored Requirement 5 above.
+
+
+
+
+                                                      - 11 -
+

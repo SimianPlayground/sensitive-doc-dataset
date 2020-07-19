@@ -1,0 +1,161 @@
+                                                                               Dental Claim Form
+1. Type of Transaction (Mark all applicable boxes)                                                                                                                                  Guardian
+                                                                                                                                                                                    Group Dental Claims
+          Statement of Actual Services                    Request for Predetermination/Preauthorization                                                                             P.O. Box 981572
+          EPSDT / Title XIX
+                                                                                                                                                                                    El Paso, TX 79998-1572
+
+2. Predetermination/Preauthorization Number                                                                                                                                                      (For Insurance Company Named in #3)
+
+
+
+
+                                                                                                                            13. Date of Birth (MM/DD/CCYY)             14. Gender           15. Policyholder/Subscriber ID (SSN or ID#)
+                                                                                                                                                                              M        F
+
+                                                                                                                            16. Plan/Group Number                    17. Employer Name
+4. Dental?                 Medical?
+
+
+
+                                                                                                                            18. Relationship to Policyholder/Subscriber in #12 Above                              19. Reserved For Future
+                                                                                                                                                                                                                      Use
+6. Date of Birth (MM/DD/CCYY)               7. Gender               8. Policyholder/Subscriber ID (SSN or ID#)                         Self         Spouse            Dependent Child            Other
+                                                  M         F
+
+9. Plan/Group Number                        10. Patient’s Relationship to Person named in #5
+                                                  Self             Spouse              Dependent              Other
+
+
+
+
+                                                                                                                            21. Date of Birth (MM/DD/CCYY)             22. Gender           23. Patient ID/Account # (Assigned by Dentist)
+                                                                                                                                                                              M        F
+
+
+                                   25. Area 26.
+           24. Procedure Date                                   27. Tooth Number(s)               28. Tooth      29. Procedure     29a. Diag.    29b.
+                                    of Oral Tooth                                                                                                                                  30. Description                               31. Fee
+            (MM/DD/CCYY)                                             or Letter(s)                  Surface           Code           Pointer      Qty.
+                                    Cavity System
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+
+ 8
+
+ 9
+
+10
+                                  (Place an “X” on each missing tooth.)                                                                                   ( ICD-9 = B; ICD-10 = AB )                          31a. Other
+                                                                                                                                                                                                                   Fee(s)
+     1     2     3    4       5   6    7     8        9    10     11   12    13     14       15   16                                            A _________________            C _________________
+     32    31   30    29   28     27   26    25    24      23     22   21    20       19     18   17      (Primary diagnosis in “A”)            B _________________            D _________________            32. Total Fee
+
+35. Remarks
+
+
+
+
+36. I have been informed of the treatment plan and associated fees. I agree to be responsible for all                    38. Place of Treatment                                              )       39. Enclosures (Y or N)
+                                                                                                                                   (Use “Place of Service Codes for Professional Claims”)
+
+                                                                                                                         40. Is Treatment for Orthodontics?                                      41. Date Appliance Placed (MM/DD/CCYY)
+     of my protected health information to carry out payment activities in connection with this claim.
+                                                                                                                                      No (Skip 41-42)           Yes (Complete 41-42)
+X _____________________________________________________________________________
+     Patient/Guardian Signature                                                            Date                          42. Months of Treatment          43. Replacement of Prosthesis          44. Date of Prior Placement (MM/DD/CCYY)
+                                                                                                                                                                No      Yes (Complete 44)
+     to the below named dentist or dental entity.                                                                        45. Treatment Resulting from
+                                                                                                                                      Occupational illness/injury                 Auto accident                Other accident
+X _____________________________________________________________________________
+     Subscriber Signature                                                                  Date                          46. Date of Accident (MM/DD/CCYY)                                                   47. Auto Accident State
+
+                                                     (Leave blank if dentist or dental entity is not
+submitting claim on behalf of the patient or insured/subscriber.)
+                                                                                                                         53. I hereby certify that the procedures as indicated by date are in progress (for procedures that require
+                                                                                                                             multiple visits) or have been completed.
+
+
+                                                                                                                           X________________________________________________________________________________
+                                                                                                                                 Signed (Treating Dentist)                                                       Date
+                                                                                                                         54. NPI                                                     55. License Number
+                                                                                                                                                                                     56a. Provider
+                                                                                                                                                                                     Specialty Code
+49. NPI                                50. License Number                         51. SSN or TIN
+
+
+52. Phone                                                         52a. Additional                                        57. Phone                                                   58. Additional
+    Number                                                             Provider ID                                           Number                                                      Provider ID
+©2012 American Dental Association                                                                                                                                                                             To reorder call 800.947.4746
+                                                                                                                                                                                                             or go online at adacatalog.org
+The following information highlights certain form completion instructions. Comprehensive ADA Dental Claim Form completion instructions
+are printed in the CDT manual. Any updates to these instructions will be posted on the ADA’s web site (ADA.org).
+
+GENERAL INSTRUCTIONS
+    A. The form is designed so that the name and address (Item 3) of the third-party payer receiving the claim (insurance company/dental
+
+       in the margin.
+    B. Complete all items unless noted otherwise on the form or in the CDT manual’s instructions.
+
+
+    D. All dates must include the four-digit year.
+
+
+
+
+COORDINATION OF BENEFITS (COB)
+
+
+There are additional detailed completion instructions in the CDT manual.
+
+DIAGNOSIS CODING
+The form supports reporting up to four diagnosis codes per dental procedure. This information is required when the diagnosis may affect
+
+
+
+    Item 29a – Diagnosis Code Pointer (“A” through “D” as applicable from Item 34a)
+
+
+
+
+PLACE OF TREATMENT
+
+
+
+
+The full list is available online at “www.cms.gov/PhysicianFeeSched/Downloads/Website_POS_database.pdf”
+
+PROVIDER SPECIALTY
+This code is entered in Item 56a and indicates the type of dental professional who delivered the treatment. The general code listed as
+“Dentist” may be used instead of any of the other codes.
+
+
+                                           Category / Description Code                                              Code
+                 Dentist                                                                                        122300000X
+
+
+                        and practicing within the scope of that license.
+                                                     General Practice                                           1223G0001X
+                 Dental Specialty (see following list)                                                             Various
+                                                                                                                1223D0001X
+                                                       Endodontics                                              1223E0200X
+                                                       Orthodontics                                             1223X0400X
+                                                 Pediatric Dentistry                                            1223P0221X
+                                                       Periodontics                                             1223P0300X
+                                                      Prosthodontics                                            1223P0700X
+                                           Oral & Maxillofacial Pathology                                       1223P0106X
+                                           Oral & Maxillofacial Radiology                                       1223D0008X
+                                            Oral & Maxillofacial Surgery                                        1223S0112X
+               Provider taxonomy codes listed above are a subset of the full code set that is posted at “www.wpc-edi.com/codes/taxonomy”
+

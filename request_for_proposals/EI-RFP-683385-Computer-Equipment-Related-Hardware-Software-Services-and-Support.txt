@@ -1,0 +1,2533 @@
+                         Request for Proposal
+                           RFP 683385 for
+              Computer Equipment and Related Hardware,
+                   Software, Services and Support
+
+                                        Mission Statement
+To exceed member expectations by providing high quality, cost–effective and timely solutions through a
+               diverse portfolio of competitive agreements and value-added services.
+
+ This will be accomplished by members, employees, suppliers and business associates working together
+                       in an ethical, efficient, professional and respectful manner.
+
+Issued by:
+    Catherine Goglia
+    Contract Manager, Technology
+    Educational and Institutional Cooperative Services, Inc.
+    2 Jericho Plaza, Suite 309
+    Jericho, New York, 11753-1671
+    Voice: (631) 630-8318
+    E-Mail: cgoglia@eandi.org
+
+Issue Date: Thursday, August 18, 2016
+Closing Date: Tuesday, October 4, 2016
+TABLE OF CONTENTS
+
+
+Part 1     General Overvie w ...........................................................................................................3
+
+Part 2     Scope of Services .............................................................................................................6
+
+Part 3     Supplier Pe rformance Expectations ..............................................................................8
+
+Part 4     Evaluation Process & Criteria .....................................................................................11
+
+Part 5     Proposal Require ments & Format ..............................................................................13
+
+Part 6     Execution of Offer & Mutual Non-Disclosure Agreement........................................16
+
+Attachment A           Financial Offer Summary and Pricing .........................................................18
+
+Attachment B           Terms and Conditions .....................................................................................19
+
+Attachment C           Supplier Questionnaire ...................................................................................29
+
+Attachment D           Accessibility Standards ...................................................................................30
+
+Attachment E           Arizona State University Supplemental Terms & Conditions ....................37
+
+Attachment F           HUB Forms – State of Texas ..........................................................................47
+
+Attachment G           Compliance Language – State of Connecticut ..............................................48
+
+Attachment H           Notice of Intent to Submit a Proposal............................................................49
+
+
+
+
+ Request for Proposal – Table of Contents                                                                                        Page 2
+ E&I Cooperative Services, Inc.
+Part 1: GENERAL OVERVIEW
+
+Part 1 of this document is intended as an explanatory overview only and does not include comprehensive specifications.
+Additional details and specifications are provided in the sections that follow.
+
+1.1   Description of Cooperative
+      Educational & Institutional Cooperative Services, Inc. (E&I) is a member owned New York not-for-profit corporation
+      established in 1934 and is governed by a Board of Directors. The Board of Directors is a group of professionals who
+      are elected by the E&I membership. The Board provides oversight to ensure the members’ needs are addressed and
+      met. Our membership is comprised of public and private universities and colleges, community colleges, other
+      affiliated members, K-12, and teaching healthcare facilities throughout the United States.
+      The power of cooperative purchasing enables E&I to issue competitive solicitations and negotiate contracts for its
+      members on a wide variety of products and services. E&I currently maintains a large and robust portfolio in the areas
+      of computer and software, electronics, multimedia, scientific equipment and supplies, furniture, interior furnishings,
+      maintenance, food service, office equipment and supplies, transportation and delivery services.
+
+1.2    Purpose and Intent of the Request for Proposal (RFP)
+       The purpose of this RFP is to establish a cost effective Master Agreement (“Agreement”) which complies with our
+       member procurement requirements and will provide E&I members a procurement vehicle to acquire the products
+       and/or services outlined in Part 2, Scope of Services.
+       E&I is committed to utilizing purchasing and business practices in accordance with the National Association of
+       Educational Procurement Code of Ethics. The primary goals and objectives of E&I are to: (1) assist our members to
+       obtain the absolute lowest cost and best value that exceeds other public sector consortia agreements, (2) establish a
+       strategic sourcing partnership with any selected Suppliers(s), manufacturer(s) and/or authorized dealers, and (3)
+       enhance our position as the premier cooperative purchasing service for education.
+
+1.3    RFP Collaboration
+       E&I is collaborating with the State University System of Florida, the Florida College System, Arizona State University
+       (ASU) and University of Arizona (UA) on this RFP and will work to drive the process on their own behalf and the
+       entire E&I membership. Suppliers should note that E&I and each contributing institution is an active and equal
+       participant in the process, having worked with E&I to create the RFP document and design the process through which
+       Suppliers will advance. Florida State University (FSU) will serve as the lead public agency partner and member.
+       Representatives of FSU will participate in all phases of the process and will maintain parallel roles during the
+       evaluation. The resulting agreement(s) will be drawn between E&I and awarded Supplier(s).
+       Florida State University
+       Florida State University – One of the nation’s elite research universities, FSU – with the Carnegie Foundation’s
+       highest designation, Doctoral/Research University-Extensive – offers a distinctive academic environment for more
+       than 42,000 students and over 10,000 employees. Students have the opportunity to work and study alongside an
+       outstanding faculty that includes Nobel Laureates, five members of the prestigious National Academy of Sciences,
+       seven members of the American Academy of Arts and Sciences and two winners of the Pulitzer Prize. With an
+       impressive breadth of leading graduate, professional and undergraduate programs, and an international reputation in
+       the sciences and humanities, Florida State University is a demanding and intellectually stimulating environment for
+       students and faculty.
+       FSU’s 16 colleges offer more than 300 undergraduate, graduate, doctoral, professional and specialist degree programs,
+       including medicine and law, covering a broad array of disciplines critical to society today and is widely known for
+       offering extensive opportunities in research, Service Learning and Study Abroad. Each year the University awards
+       over 2,000 graduate and professional degrees.
+       For any additional information about Florida State University, please visit the University’s Internet web page at:
+       http://www.fsu.edu.
+
+
+
+
+      Request for Proposal – Part 1, General Overview                                                              Page 3
+      E&I Cooperative Purchasing
+Part 1: GENERAL OVERVIEW
+
+      State University System of Florida (SUS)
+      Florida's public university system includes twelve universities with an enrollment of more than 300,000 students, more
+      than 60,000 faculty and staff, and an annual operating budget of more than $8.5 billion.
+      Article IX, Section 7 of the Florida Constitution was amended in 2002 to establish a statewide system of governance
+      for all Florida public universities. As a result, the Florida Board of Governors was created in 2003 to operate, regulate,
+      control, and be fully responsible for the management of the entire system consisting of eleven public universities.
+      Responsibilities include defining the distinctive mission of each university and ensuring the well-planned coordination
+      and operation of the system.
+      The Board of Governors implemented a Shared Initiatives program in the Fall of 2014. As part of this committed
+      effort, the State University System of Florida works collaboratively on shared contracting initiatives, with a goal of
+      reducing costs and creating efficiencies for educational and research services and activities.
+
+      The Florida College System
+      The Florida College System is a network of 28 community colleges, colleges and state colleges serving nearly a
+      million Floridians. Our system is the primary point of access to higher education in Florida, enrolling returning adult
+      students and 65 percent of recent high school graduates.
+
+      Arizona State University
+      Arizona State University is creating a new model for American higher education, an unprecedented combination of
+      academic excellence, entrepreneurial energy and broad access. This New American University is a single, unified
+      institution comprising five differentiated campuses positively impacting the economic, social, cultural and
+      environmental health of the communities it serves. Its research is inspired by real world application, blurring the
+      boundaries that traditionally separate academic disciplines. ASU serves more than 91,000 students at the Tempe
+      Campus; Polytechnic Campus, in Mesa; West Campus, in northwest Phoenix; the Downtown Phoenix Campus and the
+      Thunderbird School of Global Management in Glendale. Phoenix, Arizona is the nation's fifth largest city. ASU
+      champions intellectual and cultural diversity, and welcomes students from all fifty states and more than one hundred
+      nations across the globe.
+      For more information about ASU please visit http://www.asu.edu on the Web.
+
+      University of Arizona
+      For information about the University of Arizona, please visit the University’s Internet web page at: www.arizona.edu/.
+      For specific demographic information, visit http://factbook.arizona.edu/.
+
+1.4   Market Opportuni ty
+      By satisfying the needs and requirements of the overall membership, the Cooperative anticipates significant member
+      purchases to be recorded against the resulting Agreement(s). The Cooperative currently has approximately 4,000
+      members, comprised of roughly 50% public and 50% private. K-12 school districts, academic healthcare and research
+      institutions have become eligible for membership in E&I. The Cooperative’s expectations are a substantial
+      opportunity for growth (in terms of member purchases) with competitively awarded Agreement(s) in these
+      markets. There is also interest in utilizing the potential contract by the Participating Oregon Community Colleges
+      (POCC).
+      Utilizing a resulting agreement(s), E&I member purchases are expected to exceed $300 million in 2017 with an
+      anticipated projection of $1 billion by 2021. The State University System of Florida spent over $17 million on IT
+      hardware, including personal computer products and services. ASU and UA’s combined spend is estimated at $27
+      million.
+1.5   Member Participation
+      Once the Supplier(s) has been established and the Agreement(s) finalized, individual E&I members (in some situations
+      member departments) will review the Supplier’s program and determine their individual participation. The Supplier’s
+      program includes the Agreement along with additional supporting materials (if any) developed by the awarded
+      Supplier.
+      Membership in E&I should not be construed as any form of commitment to the Agreement by a member. No
+      representation is made that any quantities will be purchased or that services will be utilized.
+
+      Request for Proposal – Part 1, General Overview                                                               Page 4
+      E&I Cooperative Purchasing
+Part 1: GENERAL OVERVIEW
+
+      Some members may have existing agreements in place. Those members that do, will consider this program as their
+      existing agreements expire or, if available, may choose to opt out of existing agreements. For large dollar orders,
+      members retain the right to do individual member competitive solicitations.
+      The awarded Supplier shall be provided an electronic file listing of E&I members. Updated versions will be sent as
+      needed. E&I will post the awarded Supplier’s program, in the form of an E&I Agreement, on the E&I internal web
+      site. The E&I web site is password protected and only available to members.
+
+1.6   Definitions
+      The following are the definitions of general terms used in this RFP. Additional definitions specific to the scope of
+      service may be found in Part 2, Scope of Services.
+      • MAY: Indicates something that is not mandatory but permissible/desirable.
+      • SHALL, MUST, WILL: Indicates a mandatory requirement(s) that must be addressed. Failure to address these
+        mandatory requirements will result in rejection of your proposal as non-responsive. E&I may, but is not required to,
+        reserve the right to request additional information.
+      • SHOULD: Indicates something that is recommended but not mandatory. If the Supplier fails to provide
+        recommended information, E&I may, at its sole option, ask the Supplier to provide the information or evaluate the
+        proposal without the information.
+      • MANUFACTURER: Indicates an entity that makes the products from raw materials outlined in this RFP, all of its
+        agents, and employees.
+      • SUPPLIER: Indicates an entity that distributes/furnishes the products and or services of a company, all of its agents,
+        and employees.
+      • MEMBERS: Includes institutions, universities, colleges (private and public) and K-12 schools that are listed in the
+        E&I record.
+      • HIGHER EDUCATION: All universities, colleges, healthcare facilities (private and public) in the United States
+        that provide for advanced learning and/or grant degrees i.e. - Associate, Bachelor, Master, and/or PhD. These
+        universities, colleges, healthcare facilities may or may not be members of E&I.
+      • K-12: All school systems and districts (private and public) in the United States that provide education for students in
+        Kindergarten through 12th Grade. These school systems and districts may or may not be members of E&I.
+      • EDUCATION: The combination of Higher Education and K-12.
+      • DAYS: All days specified are based on calendar days unless otherwise noted.
+      • HUBS: Historically Underutilized Businesses e.g. minority, women-owned businesses (for the State of Texas,
+        Certified HUBS within the State of Texas).
+      • MWBE: Minority, Woman-owned Business Enterprises.
+      • REQUEST FOR PROPOSAL: A written or electronically posted solicitation for competitive sealed replies to select
+        one or more Suppliers for the procurement of commodities or contractual services.
+      • PROPOSAL/RESPONSE: The entirety of the Supplier’s submitted proposal responses to each point of the RFP,
+        including any and all supplemental offers or information not explicitly requested within the RFP.
+      • NATIONAL AGREEMENT: E&I awarded Agreement which is available throughout the United States (including
+        Alaska and Hawaii).
+      • REGIONAL AGREEMENT: E&I may elect to award an Agreement by Geographical Areas of the United States.
+        See table below for geographic breakdown:
+
+         Contract Region Key                States
+         Northeast                          CT, MA, ME, NH, NY, RI, VT
+         Mid-Atlantic                       DC, DE, MD, NJ, PA, VA, WV
+         Southeast                          AL, FL, GA, KY, MS, NC, SC, TN
+         Central                            AR, IA, KS, LA, MN, MO, ND, NE, OK, SD, TX
+         Great Lakes                        IL, IN, MI, OH, WI
+         Western                            AK, AZ, CA, CO, HI, ID, MT, NM, NV, OR, UT, WA, WY
+
+
+
+
+      Request for Proposal – Part 1, General Overview                                                              Page 5
+      E&I Cooperative Purchasing
+Part 2: SCOPE OF SERVICES
+
+2.1    Statement of Work
+       It is the intent of E&I to establish a contract for Computer Equipment and Related Hardware, Software, Services and
+       Support. All E&I members will be eligible to participate in the resulting agreement.
+       The awarded Supplier(s) shall be the manufacturer or a fully authorized dealer/distributor for any of the manufacturers
+       it proposes. The Supplier and its distributors must be able to provide service and timely deliveries to all members and
+       campuses. Direct involvement by the awarded Supplier may be necessary to assist members in understanding the
+       different types of models available and in selecting the best solution to fit their needs.
+
+2.2    Term
+       The Agreement term will be for five (5) years with the option of one (1) five- (5) year renewal. Prior to the end of the
+       initial five (5) year term, the program will be evaluated in overall context and performance. Exercise of any renewal
+       will require formal written notification and mutual agreement between E&I and Supplier at least one (1) year prior to
+       Agreement expiration. The Supplier(s) must then return formal written acknowledgement of the renewal option within
+       30 days.
+
+2.3    Scope of Products and Services
+       The Supplier is expected to furnish computer equipment and related hardware, software, services and support as
+       required by members. All products offered under a resulting Agreement shall be new, unused and currently available.
+       Remanufactured or refurbished products are not acceptable, in lieu of a new product, unless authorized by the member.
+       Lot #1 - Personal Computers (desktops, workstations, laptops, tablets, thin clients)
+              - Peripherals and Accessories (monitors/displays, memory, docking stations, input devices, storage devices
+                and systems, video projectors, cameras, audio and headsets)
+       Lot #2 - Printers and Scanners
+       Lot #3 - Software (operating systems, commercial off-the-shelf (COTS), middleware)
+       Lot #4 - Servers, Storage and Network Devices
+       Lot #5 - Related Services and Support
+       Suppliers shall clearly state their ability to provide services related to supporting the above equipment. Proposals must
+       include a full description of each service offering. Services may include but not limited to installation/de-installation,
+       staging/deployment, asset tagging, image loading, maintenance, support, training, migration, integration, asset
+       management, recycling/disposal, pre-implementation design, disaster recovery planning and support, helpdesk,
+       technical support.
+       E&I recognizes that any one Supplier may not provide all product lines. No computer-related systems, products, or
+       services have been excluded from this RFP. All computer product, supplies and accessories carried in a Supplier’s
+       catalog(s), price book(s) or otherwise available by special order are part of this solicitation. Suppliers must indicate
+       the lots they are responding to in their proposal using the first worksheet of Attachment A-1.
+
+2.4    Pricing
+       Pricing is to be based on a percentage discount off a designated published price list (for example, MSRP or national
+       education price list). The following pricing structures are to be submitted using the pricing worksheets in Attachment
+       A-1:
+       A. Standard Configurations (must meet minimum requirements)
+          Supplier shall offer and maintain an established set of deeply discounted standard configurations and bundles
+          available to all E&I members. Standard configurations and bundles shall be reviewed quarterly and upgraded to
+          reflect the latest technology upon acceptance of E&I. The same level of discount shall apply to all future standard
+          configurations and bundles.
+           Suppliers are to provide pricing for quantity one of each configuration. Failure to do so may disqualify proposal
+           offered. Additional accessories, components or warranties to be considered as a “bundle” may be included and
+           priced as separate line items.
+           In addition to standard configurations, members shall have the ability to create custom configurations and bundles
+           to meet their individual requirements. Supplier shall propose the level of discount to be applied to all custom
+           configurations and bundles.
+
+
+      Request for Proposal – Part 2, Scope of Services                                                                Page 6
+      E&I Cooperative Services, Inc.
+Part 2: SCOPE OF SERVICES
+
+       B. Percentage Discounts For Entire Catalog
+          Suppliers are to provide percentage discounts for the entire catalog by manufacturer and/or category. For
+          evaluation purposes, Suppliers must provide percentage discounts for the categories specified in the pricing sheet.
+       C. Additional Volume Discounts
+          Suppliers are to provide additional volume-based pricing for consideration. Examples include, but are not limited
+          to, deeper discounts based on dollar thresholds for single orders, cumulative purchases by member, and aggregate
+          volume by the membership. Suppliers shall propose how additional discounts are to be earned.
+       D. Services
+          Supplier shall describe all available pricing options for services (discount off list, hourly fees, per unit fees, etc.).
+
+2.5    Terms and Conditions of Agreement
+       As a result of this RFP process, it is our expectation that an Agreement will be established between E&I and one or
+       more of the Suppliers. Upon award, each successful Supplier will sign an Agreement with E&I to sell goods and/or
+       services. The Agreement will incorporate all the terms and conditions in Attachment B, pricing, specifications, and
+       requirements of the RFP.
+
+2.6    Supplier Questionnaire
+       Suppliers must fully complete the Supplier Questionnaire in Attachment C of this RFP. In order for your proposal to
+       be considered, all questions must include a full response and clear statement of capabilities. Your responses to these
+       questions will be utilized to evaluate your proposal as it relates to the following:
+       • Response to Scope of Services
+       • Corporate Information
+       • Supplier Capabilities
+       • Administration & Marketing
+       • Vendor Report File
+
+2.7    Proposal Innovati on & Improvements
+       Supplier is encouraged to offer innovative ideas, new concepts, and alternative partnership arrangements falling
+       outside the specifications of this RFP. Added value services, incentives, and economic solutions beyond the scope of
+       this RFP may be considered. Examples may include:
+       • Creative programs to ensure quick and deep ongoing "traction” with the membership
+       • Programs to elevate sales made on campus (departmental “road shows,” leveraging web site messages, etc.)
+       • Willingness to work with members’ on-site retail facilities (campus stores), if such program exists
+       • Extending the Agreement to faculty, staff, and students through employee purchase programs
+       • Willingness to work with members on sponsorship opportunities (signage, outdoor media, game day, etc.)
+       • Trade-in programs as a sustainability initiative
+       • Creative pricing (signing bonuses, rebates, etc.)
+       • Incentives for early payment
+       • Management Intern Programs
+       E&I may accept an offer under this RFP demonstrating such a significant change or improvement that it considers
+       being breakthrough advancement to the services being sought.
+
+
+
+
+      Request for Proposal – Part 2, Scope of Services                                                                  Page 7
+      E&I Cooperative Services, Inc.
+Part 3: SUPPLIER PERFORMANCE EXPECTATIONS
+
+This section of the RFP describes Supplier’s financial responsibilities, sales and marketing commitments, and contract
+performance expectations.
+
+3.1    Report of Sales
+       The Supplier shall be provided an electronic file listing of all E&I members and shall be required to file a monthly
+       electronically formatted report of total U.S. dollar sales to Education by institution (the “Report of Sales”). The Report
+       of Sales shall include, but not be limited to, member name, city, state, and date of sale. The requirements and format
+       of the Report of Sales are detailed in the questionnaire included with this RFP. The report from the Supplier shall
+       include all sales invoiced during the prior month. The Report of Sales is due no later than ten (10) days following the
+       end of the month. The initial Report of Sales is due no later than thirty (30) days after the month of the effective date
+       of the Agreement. Failure to report monthly sales may be grounds for termination of contract. All reports shall be
+       sent via e-mail in the required format to vrf@eandi.org.
+       All orders, regardless of method shall be included in the total report of total U.S. dollar sales to Education by
+       institution. Any and all rebates shall have no effect on the reporting and payment of the CAF. All rebate activity will
+       be reported to E&I.
+       • Before an award is made, a test report may be requested to assure that the Supplier is able to provide the reporting as
+         required. The Supplier will provide the name of the responsible contact that will be charged with submitting the
+         report.
+       • At the time of award, a schedule of due dates for the monthly report will be provided. It will be the responsibility of
+         the Supplier to notify E&I personnel of any change in the designated contact responsible for submitting the report.
+
+3.2    Contract Administrative and Marketing Fee
+       Supplier will provide to E&I a Contract Administrative Fee (CAF) of 2% of total invoice price for all orders placed by
+       E&I members. The CAF shall be calculated monthly and include all orders invoiced during the prior month. The
+       CAF rate shall remain constant regardless of any and all pricing methods utilized by the member, special quotes
+       pricing, all services including value added services and/or use of Supplier Diversity programs.
+       The CAF shall be transmitted via EFT or by check to E&I on or no later than ten (10) days following the end of each
+       month. Failure to submit the CAF and supporting Report of Sales shall result in an interest charge of 1½% per month
+       levied upon Supplier until the CAF is paid in full.
+       Supplier’s failure to submit the CAF and Report of Sales when due shall constitute grounds for E&I’s termination of
+       the Agreement. Supplier shall remain liable for all CAF owing up to and including the time the Agreement has been
+       terminated by E&I or expires.
+       In the event a holdover clause is invoked as described in Section 42 of Attachment B, Supplier shall continue to submit
+       the CAF and supporting Report of Sales for the duration of the holdover period.
+
+3.3    Agreement Audit
+       E&I may, at any time during the term of the Agreement and for a period of three (3) years after the receipt of the last
+       Report of Sales and payment of CAF covering the period through the date of termination, audit the Supplier’s records
+       pertaining to its compliance with the terms of the Agreement. An audit may be scheduled or announced by providing
+       the Supplier a minimum of five (5) business days advance written notice. Every effort will be made to arrange a
+       mutually convenient time for the audit but in no event shall an audit be delayed more than twenty (20) business days
+       from the date of notice, unless agreed to by E&I in its sole discretion. The audit will be conducted by E&I and/or its
+       designee. Supplier will provide E&I with access to records, sufficient workspace and staff support to facilitate an
+       audit. Our audit may include, but is not limited to, product compliance, member pricing, order processing, order
+       fulfillment, delivery terms and conditions, invoicing, rebate calculations where applicable, accuracy and timeliness of
+       submitted Reports of Sales and the related CAF and any other reports or payments required under the terms of the
+       Agreement. Any deficiencies or errors shall be corrected within ten (10) business days of E&I notification to the
+       Supplier. If the discrepancy is greater than 5% from amounts reported, the cost of the audit shall be paid by the
+       Supplier.
+
+
+
+
+      Request for Proposal – Part 3, Supplier Performance Expectations                                               Page 8
+      E&I Cooperative Services, Inc.
+Part 3: SUPPLIER PERFORMANCE EXPECTATIONS
+
+3.4    Supplier Commitment
+       Supplier’s proposal shall reflect their commitment in achieving E&I’s primary goals and objectives as outlined in Part
+       1, Section 1.2. To meet E&I’s goals and objectives, Suppliers are required to make the following commitments to
+       ensure the overall success of the resulting Agreement(s):
+       A. Corporate Commitment
+           The Supplier will commit that it’s awarded Agreement with E&I:
+           • Shall be the Supplier’s primary (go to market) offering for Education
+           • Has the support of the Supplier’s senior management
+           • Shall be promoted to existing Education clients
+       B. Pricing and Product Commitment
+          The Supplier will commit that the awarded Agreement:
+           • Shall be the lowest available pricing (net to buyer) to Education
+           • Shall provide products and services that meet or exceed member requirements
+       C. Sales Commit ment
+           The Supplier will commit that the E&I Agreement:
+           • Shall be aggressively marketed by Supplier
+           • Shall be enhanced by Supplier’s sales force which is trained, engaged, and committed to the success of the
+             program
+           • Shall report sales accurately and timely to E&I as required
+
+3.5    Marketing And Sales Responsibilities – Supplier
+       A. Education Sales Activities
+          Supplier is responsible for Education sales activities which may include:
+           • Understanding Education buying procedures and practices
+           • Providing manufacturer specific marketing materials as necessary
+           • Guiding and assisting the member in the purchasing, receipt and use of the manufacturer’s product and/or
+             services
+       B. Additional Business Services
+          Supplier shall, at its own expense, provide to E&I:
+           • A comprehensive “go-to-market” plan, detailing the role of the E&I Agreement in Supplier’s Education market
+             strategy and how Supplier intends to leverage the E&I Agreement to build and expand Education business.
+           • A dedicated Education Agreement Administrator able to act with full authority. The Education Agreement
+             Administrator shall meet with appropriate E&I representatives no less than on a quarterly basis to discuss and
+             measure marketing strategies, performance, Report of Sales, CAF and other Agreement related issues.
+           • The Education Agreement Administrator or designee(s) shall coordinate with appropriate E&I representatives
+             as necessary to strategize and discuss market opportunities and join as a strategic partner in E&I presentations
+             to the appropriate university/hospital business administrators to leverage the best available pricing, delivery,
+             and services for our members.
+           • A contact list of dealers, agents, account representatives and service assistants with experience and knowledge
+             of the Agreement. Supplier will provide initial and ongoing training and awareness of the E&I Agreement to all
+             inside and outside sales representatives as well as to its distribution chain, including quarterly meetings at
+             corporate headquarters, call centers, regional offices, etc.
+           • Dealers, agents and account representative(s) shall meet with members as requested by the individual member
+             or by E&I.
+           • Initial and continuing member based customer service and order problem resolution.
+           • Descriptive product marketing literature, catalogs, and product price schedules, links to Supplier’s website,
+             content for “micro-site” on E&I website, e-mail communications, articles for inclusion in the electronic monthly
+
+      Request for Proposal – Part 3, Supplier Performance Expectations                                            Page 9
+      E&I Cooperative Services, Inc.
+Part 3: SUPPLIER PERFORMANCE EXPECTATIONS
+
+              newsletters, “The Purchasing Link” and “The CPU - Contract Portfolio Update,” and E&I website Headline
+              News.
+           • E&I staff contract rollout training and follow-up training sessions as required, to include training webinars,
+             conference calls and on-site training as appropriate to educate E&I employees of Supplier’s member offerings.
+       C. Marketing Opportunities
+           • E&I encourages participation, annually and throughout the term of the Agreement, as an exhibitor and business
+             affiliate member at the annual NAEP/E&I Meeting and Product Exhibition. For additional information on the
+             conference and business affiliate program, please visit the NAEP website at www.naepnet.org.
+           • E&I encourages participation, annually and throughout the term of the Agreement, upon notification, at NAEP
+             regional meetings, member town meetings, member regional meetings, member on-campus supplier fairs and
+             member presentations.
+           • E&I encourages participation, annually and throughout the term of the Agreement, at applicable product
+             exhibitions and conferences.
+
+3.6    Marketing and Sales Responsibilities – Supplier and E&I
+       Joint Responsibilities – Supplier in collaboration with E&I shall jointly:
+       • Develop, approve and implement an annual marketing plan to be reviewed on a quarterly basis
+       • Establish and maintain member relations
+       • Collaborate to identify leads and opportunities, develop key target lists and leverage existing relationships to build
+         membership and business
+       • Make sales calls to members, as appropriate
+
+3.7    Marketing and Sales Responsibilities – E&I
+       • E&I will create ongoing member awareness of the E&I Portfolio of Products and Services via online and direct
+         marketing, marketing communications, face-to-face interactions with members and other venues as appropriate.
+       • Upon commencement of a new agreement, E&I will notify all members and make specific contract information
+         available online.
+       • E&I’s field team of member Service Representatives will identify and share sales leads as appropriate and assist
+         with Supplier sales activities when possible and in a variety of ways.
+       • E&I will make representatives available to Supplier to facilitate sales training about E&I.
+       • E&I will share relevant market intelligence it gathers through surveys, etc.
+
+
+
+
+      Request for Proposal – Part 3, Supplier Performance Expectations                                              Page 10
+      E&I Cooperative Services, Inc.
+Part 4: EVALUATION PROCESS & CRITERIA
+
+Any contract(s) resulting from this RFP will be awarded in writing to Suppliers whose proposal, in the opinion of the
+evaluation team, offers the greatest benefit to our members when considering the total value including the quality, service
+levels, customer service and total cost (including any trade, prompt payment discounts, and other miscellaneous charges).
+
+4.1    Evaluati on Process
+       All proposals should be complete to be considered responsive. If the proposal fails to conform to the requirements of
+       the RFP, E&I and/or the RFP Team will determine whether the variance is significant enough to consider the proposal.
+
+       As part of the evaluation process, E&I may require a demonstration/presentation before the award is made and the
+       demonstration/presentation may be considered as an additional factor in award. Selected Supplier(s) shall be given a
+       script and/or instructions for the presentation in order to provide the evaluation team further insight regarding their
+       proposal and to clarify any issues. Failure of a Supplier to conduct a presentation on the date scheduled may result in
+       rejection of the Supplier’s proposal. In addition, E&I may decide to make site visits, as needed, during the evaluation
+       process which shall be coordinated with the respective Suppliers.
+
+       The evaluation of proposals also takes into consideration the State of California requirements for a contract award.
+
+       Proposals may be evaluated using a quality points system. The average of all quality points awarded by individual
+       evaluators per category will be added together to compile a quality points value. The following formula will be used to
+       compute the supplier's cost-per-quality point score:
+
+                      Cost
+            ------------------------- = Cost-per-quality point score
+            Quality Point Value
+
+4.2    Evaluati on Criteria
+       E&I members have identified the following factors as important in evaluating the merits of an Agreement:
+       • Breadth and quality of products/services
+       • Service, support, product warranty and maintenance
+       • Financials, i.e. pricing and terms that provide for increased discounts and lower overall cost, rebates, other financial
+         incentives
+       • Order placement/delivery/installation
+       • Supplier’s qualifications, references, experience and past performance
+       • Administration, i.e. reporting capabilities
+       • On-line capabilities, including electronic ordering, e-commerce, procurement cards, billing and access to supplier’s
+         electronic catalogs
+       • Adherence to RFP requirements which closely align with members’ institutional policies, federal, state, and local
+         legal and regulatory requirements and policies
+       • Environmentally sustainable products and Green Purchasing/Sustainability initiatives
+       • Supplier diversity, including Historically Underutilized Businesses (HUBs), Woman and Minority Business
+         Enterprises (WMBEs) and Small Business Enterprises as defined by the Small Business Administration (SBA)
+       • Added value incentives and services
+       • Other information as deemed relevant by E&I
+
+
+
+
+      Request for Proposal – Part 4, Evaluation Process & Criteria                                                  Page 11
+      E&I Cooperative Services, Inc.
+Part 4: EVALUATION PROCESS & CRITERIA
+
+4.3    Tentative Schedule of Events
+       The timeline associated with this RFP is provided below:
+        Activity                                                               Due Date
+        Request for Proposal issued                                            August 18, 2016
+        Pre-Proposal Conference to be held via Teleconference Call             August 30, 2016 3:30 PM
+        RSVP to cgoglia@eandi.org by August 25, 2016 for Dial-In Information   ET
+        Deadline for submission of RFP–related written questions               September 1, 2016
+        E&I Response to RFP-related questions                                  September 6, 2016
+        1 PM ET Deadline for Receipt of Proposals (“Receipt”)                  October 4, 2016
+        Evaluation of Proposals                                                November 1, 2016
+        Negotiations Begin on or about                                         November 21, 2016
+        Best and Final Offers on or about                                      TBD
+        Anticipated Award(s)/Letter of Intent (LOI)                            TBD
+        Acceptance and Execution of Agreement (on or about)                    TBD
+        Implementation                                                         February 1, 2017
+
+
+
+
+      Request for Proposal – Part 4, Evaluation Process & Criteria                                 Page 12
+      E&I Cooperative Services, Inc.
+Part 5: PROPOSAL REQUIREMENTS & FORMAT
+
+This portion of the RFP includes requirements and instructions on the format Suppliers must follow in submitting their
+proposals. It further identifies how questions can be raised and will be addressed. Finally, this portion of the RFP includes
+specific rights reserved by E&I and other restrictions imposed on the RFP Process.
+
+5.1   Proposal Requirements
+      All proposals are subject to the conditions specified herein. Any response that does not comply with these conditions
+      will be rejected.
+      A. Supplier must submit the response in two separate envelopes as follows:
+           • First envelope shall contain the proposal response ONLY, excluding pricing, and marked “RFP 683385 –
+             Proposal Response”
+             - two ‘originals’ (duly marked), each in three ring binders, and signed by a representative authorized to sign the
+               proposal on behalf of Supplier
+             - one electronic copy in Microsoft Word and Excel formats on a USB flash drive
+           • Second envelope shall contain pricing ONLY, and marked “RFP 683385 – Pricing”
+             - two ‘originals’ (duly marked), each in three ring binders, and signed by a representative authorized to sign the
+               proposal on behalf of Supplier
+             - one electronic copy in Microsoft Word and Excel formats on a USB flash drive
+           Each of the required copies, ‘Originals’ and electronic, must comply with the format specified herein. In the
+           event of discrepancy between the Suppliers’ submissions, the ‘original’ copy of the submission shall prevail. Fax
+           or email submissions will not be accepted. Failure of the Supplier to submit the files in the proper format will
+           result in rejection of your entire proposal.
+      B. Proposals must be received by the Receipt of Proposals date specified in Section 4.3, Schedule of Events, at E&I’s
+         office listed on the RFP cover page. Delivery to any other location, including the institutions specified in this
+         RFP, is NOT acceptable and shall be grounds for rejection of the RFP.
+      C. Each Supplier is solely responsible for the timely delivery of its proposal. Failure to meet the proposed date and
+         time shall be grounds for rejection.
+      D. The Request for Proposal (RFP) number should be clearly marked on the outside of the sealed package.
+      E.   Office hours for receipt of proposals are: Monday through Thursday, 8:30 A.M. through 4:00 P.M ET. Proposals
+           shall be submitted by mail, courier or delivered in person at the address indicated on the RFP cover page prior to
+           the closing time set for receipt of offers, as determined by the reported time in E&I’s main office.
+      F.   DO NOT ALTER THIS RFP document IN ANY WAY. The only acceptable changes or alterations to this RFP
+           will be made in the form of addenda and issued only by E&I.
+      G. A Supplier may withdraw or modify its proposal prior to the Receipt of Proposals Deadline. Proposals submitted
+         prior to the Receipt of Proposals Deadline may be modified or withdrawn only by written notice to E&I; no oral
+         modifications will be permitted.
+           Any modifications to a previously submitted proposal:
+           • shall be in writing and in the same manner and form as required by this RFP
+           • shall be contained in a sealed envelope, clearly marked with the RFP number and “Modification of Proposal”
+             notation
+           • will be corrected in accordance with such written request at the opening of the proposal
+      H. Elaborate proposals (e.g. expensive artwork) beyond that sufficient to present a complete and effective proposal
+         are not necessary or desired. E&I will not pay for any information requested nor is it liable for costs incurred by
+         the Supplier in responding to this RFP.
+      I.   All submitted proposals constitute an offer by each respective Supplier and shall remain irrevocable for a period
+           of 180 days following the Submission Deadline.
+
+
+
+
+      Request for Proposal – Part 5, Proposal Requirements & Format                                              Page 13
+      E&I Cooperative Services, Inc.
+Part 5: PROPOSAL REQUIREMENTS & FORMAT
+
+5.2   Required Proposal Format
+      While there is no intent to limit the contents of any proposal, proposals shall conform to the tab format outlined below
+      to ensure that all pertinent information necessary for evaluation is included and to facilitate review.
+
+      Tab 1     Table of Contents/Page Identification – Include a Table of Contents and number the pages in the proposal
+                consecutively.
+      Tab 2     Execution of Offer, Mutual Non-Disclosure Agreement, and Acknowledgement of Addenda – Supplier must
+                complete the Execution of Offer and Mutual Non-Disclosure Agreement documents in Part 6, signed by a
+                representative authorized to sign the proposal on behalf of Supplier.
+                Addenda, if any, shall also be signed and included in this tab.
+      Tab 3     Executive Summary – Executive Summary should consist of a concise non-technical summary providing the
+                following:
+                • An overview and history of your company, and experience in providing the products and services requested
+                  in Part 2, Scope of Services.
+                • A management overview of the proposal that outlines the Supplier's commitment and approach to meeting
+                  the requirements under a resulting contract.
+                • A chart of the company’s organization and a description of its corporate structure, including the company’s
+                  chain of ownership up to its ultimate parent corporation, and all subsidiaries.
+                • If public, provide a URL to a link of the three (3) most recent annual reports. If private, provide copies of
+                   the most recent three (3) year audited financial statements or other documented evidence of financial
+                   stability to assure required performance upon request.
+      Tab 4     Supplier Questionnaire – Supplier must complete all sections of Attachment C as described in Section 2.6.
+      Tab 5     Pricing – This tab shall include Attachments A and A-1, and if applicable, additional pricing. Supplier shall
+                provide information for this tab in a sealed envelope separate from the proposal as instructed in Section 5.1.
+      Tab 6     Agreement/Exceptions – Suppliers must include Attachments B and E in their entirety and indicate agreement
+                with or exceptions to any terms or conditions.
+      Tab 7     Required Forms – Completed Accessibility Standards, State of Texas HUB Forms and State of Connecticut
+                Compliance Language.
+      Tab 8     Additional Attachments – Alternate proposal, additional items, services and/or processes (excluding pricing)
+                that Supplier would like E&I to consider in lieu of or in addition to proposal response to this RFP. Pricing for
+                alternate proposal must be labeled “Alternate Proposal Pricing” and included in “Tab 5 – Pricing” as
+                described above.
+
+5.3   Pre-Proposal Conference
+      A Pre-Proposal conference may be held in person or via teleconference call. Supplier participation in the conference
+      is optional, but strongly encouraged. Suppliers wishing to participate should RSVP as instructed in Section 4.3,
+      Schedule of Events.
+      E&I reserves the right to schedule additional conference calls as needed at a later date prior to the due date of the
+      proposal.
+
+5.4   Questions and Clarification
+      A. Any questions regarding this RFP must be directed via email to the Contract Manager noted on the cover page of
+         this document.
+      B. All questions must be received no later than the deadline for submission of RFP–related written questions, as
+         noted in the Schedule of Events.
+      C. A Supplier is expected to raise any questions, exceptions or concerns they have regarding the RFP. If Supplier
+         discovers any significant ambiguity, error, conflict, discrepancy, omission or other deficiency in this RFP,
+         Supplier should immediately notify the Contract Manager via email of the deficiency and request modification or
+         clarification of the RFP document.
+
+      Request for Proposal – Part 5, Proposal Requirements & Format                                                Page 14
+      E&I Cooperative Services, Inc.
+Part 5: PROPOSAL REQUIREMENTS & FORMAT
+
+      D. Any questions and responses specific to the terms and conditions, process, procedures, language, specifications
+         and other parts of the RFP may be made public and may be shared with other Suppliers in the form of an
+         addendum to the RFP. Questions and responses that contain proprietary information will be answered
+         confidentially.
+      E.   Questions and answers will be provided via an addendum and posted on the E&I web site.
+
+5.5   Rights Reserved by E&I and Restrictions on RFP Process
+      A. E&I reserves the right to issue addenda to this RFP at any time prior to the “Receipt” date; acknowledgement of
+          such addenda must accompany the RFP response as a part of the proposal as instructed in Section 5.2, Required
+          Proposal Format.
+      B. E&I reserves the right to reject any or all proposals or any part thereof.
+      C. E&I reserves the right to make an award and/or multiple awards by section, in whole, or to make no award.
+      D. E&I recommends that a Supplier’s initial proposal reflect its most favorable terms. E&I reserves the right to
+         negotiate with any Supplier(s) and to arrive at its final decision and/or to request additional information or
+         clarification on any matter included in the proposal.
+      E.   If this RFP is regional in scope, E&I, upon mutual agreement of the Supplier, may expand the Agreement to
+           additional regions or nationally (refer to Section 1.6, Definitions).
+      F.   E&I, in its sole discretion, reserves the right to waive any irregularity or minor variance in any proposal received,
+           including but not limited to obvious mathematical errors in extension of pricing, failure to date the proposal, or
+           failing to execute any certification not considered salient to price, delivery or acceptance of an agreement award.
+      G. E&I reserves the right to select the most responsive Supplier(s) without further discussion, negotiation, or prior
+         notice.
+      H. E&I may presume that any proposal is a best-and-final offer.
+      I.   E&I reserves the right to delete specific line items in order to provide a basis for an evaluation of the prices
+           quoted by all Suppliers.
+      J.   Any discussion with E&I personnel or any institutions mentioned in this RFP, other than the Contract Manager,
+           regarding this RFP while the RFP is in progress (from the time Supplier receives this RFP until final award is
+           made) is strictly prohibited. Such contact and discussion may result in disqualification of Supplier’s proposal.
+      K. Supplier proposals will be opened and reviewed at the convenience of E&I; there is no public opening.
+      L.   E&I is the sole owner of all data and information contained within the RFP document and accompanying
+           attachments. Supplier shall use this information exclusively to prepare a proposal. Supplier should not disclose
+           this information to any other firm or use it for any other purpose unless required by law or legal process.
+      M. All proposals and related information submitted become the property of E&I; they will not be returned and may
+         be subject to disclosure under the Freedom of Information Act, Open Records laws or other laws existing in E&I
+         members’ states. As such, proposal(s) may be released to third parties, without prior notice to Supplier(s), as
+         required to comply with legal requirements.
+      N. Suppliers must clearly mark “Confidential” on any portion of their respective responses which are considered to
+         contain confidential or proprietary information.
+
+
+
+
+      Request for Proposal – Part 5, Proposal Requirements & Format                                                  Page 15
+      E&I Cooperative Services, Inc.
+Part 6: EXECUTION OF OFFER & MUTUAL NON-DISCLOSURE AGREEMENT
+
+Include Part 6 in Tab 2 of the proposal response. The undersigned Supplier has carefully examined all instructions,
+requirements, specifications, terms and conditions of this RFP and certifies:
+
+1.   It is a reputable company regularly engaged in providing products and/or services necessary to meet requirements,
+     specifications, terms and conditions of the RFP.
+2.   It has the necessary experience, knowledge, abilities, skills, and resources to satisfactorily perform the expectations,
+     requirements, specifications, terms and conditions of the RFP. Further, if awarded the Supplier agrees to perform the
+     expectations, requirements, specifications, terms and conditions of the RFP.
+3.   All statements, information and representations prepared and submitted in response to this RFP are current, complete,
+     true, and accurate. Supplier acknowledges that E&I will rely on such statements, information and representations in
+     selecting the successful Supplier(s).
+4.   It is not currently barred or suspended from doing business with the Federal government, any of the members
+     represented, or any of their respective agencies.
+5    It shall be bound by all statements, representations, warranties, and guarantees made in its proposal.
+6.   Submission of a proposal indicates the Supplier's acceptance of the evaluation technique and the Supplier's recognition
+     that some subjective judgments may be made by E&I and its membership as part of the evaluation.
+7.   That all of the requirements of this RFP have been read and understood. In addition, compliance with all requirements,
+     terms and conditions will be assumed by E&I if not otherwise noted in the proposal.
+8.   The individual signing below has authority to enter into this on behalf of Supplier.
+9.   Supplier acknowledges that the Agreement may be canceled if any conflict of interest or appearance of a conflict of
+     interest is discovered by E&I.
+
+
+
+CORPORATE NAME:
+
+AUTHORIZED SIGNATURE:
+PRINT NAME:
+
+TITLE:
+
+DATE:
+
+ADDRESS:
+
+CITY, STATE, ZIP CODE:
+
+PHONE:                                                                            FAX:
+
+EMAIL ADDRESS:
+
+
+
+
+      Request for Proposal – Part 6, Execution of Offer & Mutual Non-Disclosure Agreement                          Page 16
+      E&I Cooperative Services, Inc.
+Part 6: EXECUTION OF OFFER & MUTUAL NON-DISCLOSURE AGREEMENT
+
+
+
+
+                                              Mutual Non-Disclosure Agreement
+I, ___________________________ authorized representative of ____________________________ (hereinafter “Supplier”),
+
+having an office at ________________________________________
+
+WHEREAS:
+
+The Supplier and E&I (together, the “Parties”) acknowledge that the information mutually exchanged on this _______day of ________,
+20____ and subsequently is considered to be proprietary, and such disclosure(s) are made in confidence and for the limited purpose of
+evaluating the information and assisting in business development.
+
+NOW THEREFORE:
+
+1. I agree as an individual and as a representative of one of the Parties to treat such disclosure of proprietary information as confidential.
+   The Parties further agree not to manufacture, sell, use or disclose to others such confidential proprietary information without the
+   express written consent of the other.
+
+2. I understand that all information considered to be proprietary by the Parties and subject to this Agreement shall be in writing and
+   marked with an appropriate legend designating such material as confidential at the time of disclosure to the receiving Party. In the
+   event confidential proprietary information is disclosed in another tangible form, the sending Party shall inform the receiving Party that
+   the information is confidential and proprietary.
+
+3. I understand that any information disclosed which is already within either Party’s knowledge as indicated by their respective records, or
+   which is presently within the public domain, or at a later time becomes available from another source or otherwise enters the public
+   domain is not to be considered the confidential proprietary information of either Party.
+
+4. I agree that all tangible materials disclosed hereunder shall be returned to the respective Party within ten (10) business days of such
+   written request.
+
+5. I agree that a disclaimer will be included in ‘all’ written or verbal contact with the E&I constituency giving each member the option to
+   be removed/deleted from future contact by Supplier.
+
+Educational & Institutional Cooperative Services, Inc.
+Company Name                                                            Company Name
+
+
+By (Signature)                                                          By (Signature)
+
+Gary D. Link
+By (Print Name)                                                         By (Print Name)
+
+Sr. Vice President Consulting Group & Contracts
+Title                                                                   Title
+
+E-Mail: g lin k@eandi.org                                               E-Mail:
+
+Tel: (631) 630-8252            Fax: (631) 273-3370                      Tel:                           Fax:
+
+
+                                                       For E&I Office Use Only
+Date member List sent to Supplier Contact:
+
+Sent by:
+
+
+      Request for Proposal – Part 6, Execution of Offer & Mutual Non-Disclosure Agreement                                        Page 17
+      E&I Cooperative Services, Inc.
+ATTACHMENT A – Financial Offer Summary & Price Sheet
+
+Supplier must identify all costs, fees or charges for which the members and/or E&I may be billed. Costs not indicated in
+your proposal will not be paid. Attachments A and A-1 in their entirety (this summary and pricing worksheets) must be
+included in Tab 5 of proposal response.
+
+1. Pricing
+Pricing shall be based on discount from list for the products and services requested in this RFP. Suppliers electing to propose
+pricing on additional products or services must submit additional items on a separate list. The list must be labeled as
+“Additional Items.” E&I retains the right to accept or reject additional items in part or in whole.
+The percentage discounts and rates for the proposed products and services shall be applicable to all orders made under a
+resulting Agreement with Supplier. Percentage discounts off Supplier’s list price shall remain firm for the life of the
+Agreement unless improved for the benefit of the membership. List price increases are allowed once per year with a
+minimum 90-day advance written notice by Supplier and require approval from E&I prior to implementation. List price
+decreases are allowed at any time during the term of the Agreement. Supplier shall provide E&I written notice immediately
+of all list price decreases. Supplier is authorized to offer members enhanced pricing and/or member-specific agreements on a
+case-by-case basis and both shall be considered part of the resulting Agreement.
+The Supplier is required to make available any special product offerings or promotions made available by the manufacturer
+or distributor.
+
+2. Member Rebates
+Suppliers are encouraged to propose rebates as means of generating revenue and increasing operating funds for members.
+Describe any financial considerations or creative offerings such as signing bonuses, rebates, multi-year discounts, growth
+incentives, programs resulting in the member being charged a reduced amount, early payment discounts, scholarship
+sponsorships, etc.
+In addition, Supplier may offer improvements to the contract administrative fee requirements, assignment of existing sales
+volume, additional marketing support fees, or other forms of incentive programs. Such proposals may be considered as
+providing added value/incentive. E&I reserves the right to explore/negotiate for such additional improvements as we move
+through the RFP process of evaluation, clarifications, negotiations, “best and final,” to final award.
+
+3. Certification of Independent Pricing
+Supplier certifies, and in the case of a joint offer, each Supplier hereto will certify as to its own organization, that: (1) it has
+not either directly or indirectly entered into any agreement, participated in any collusion or otherwise taken any action in
+restraint of free competitive pricing in connection with the proposal; (2) the prices in the proposal have been arrived at
+independently without consultation or communication, or agreement, as to any matter relating to such prices with any other
+Supplier or with any competitor; (3) unless otherwise required by law, the prices quoted in the offer have not been knowingly
+disclosed by the Supplier and will not be knowingly disclosed by it directly or indirectly to any other Supplier or to any
+competitor; and (4) no attempt has been made or will be made by Supplier to restrict competition unfavorably.
+
+ CORPORATE NAME:
+
+ AUTHORIZED SIGNATURE:
+ PRINT NAME:
+
+ TITLE:
+
+ DATE:
+
+ PHONE:
+
+ EMAIL ADDRESS:
+
+
+
+
+      Request for Proposal – Attachment A, Financial Offer Summary & Price Sheet                                      Page 18
+      E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+The following terms and conditions shall govern any agreement issued as a result of this solicitation. They are to be
+reviewed by competent legal or other personnel and any exceptions noted directly below each of the respective terms in
+question. It should be noted that any exceptions, as well as additional or attached terms and condition which are determined
+to be unacceptable to E&I may result in the disqualification of your proposal. Attachment B in its entirety must be included
+in Tab 6 of proposal response.
+
+I. Relevant Terms
+
+A. Customer Support
+Supplier shall provide a single point of contact plus a backup for each member. This individual may support multiple
+members. Members shall have access to their corresponding customer service representative during normal business hours of
+every business day (8am to 5pm).
+
+B. Order Fulfillment
+Order Accuracy rate shall be maintained at 98% or greater. Order Accuracy rate is defined as “the number of items delivered
+as ordered divided by the total number of items ordered.”
+Order Fill rate shall be maintained at 95% or greater. Order Fill rate is defined as “the number of items on an order filled
+completely as ordered divided by to the total number of lines on an order.”
+Supplier, within twenty-four (24) hours after receiving a purchase order, shall notify the member of any potential delivery
+delays. The following information regarding backorder(s) shall be provided to the member:
+• PO Number, if applicable
+• Item ID
+• Item Name & Description
+• Reason for shortage
+• Plan of action (when delivery may be expected or suggested replacement)
+
+C. Substitutions
+No substitutions of alternate items for products ordered are permitted without the express prior written approval of the
+member. Any and all remanufactured or refurbished products are not acceptable, in lieu of a new product, unless authorized
+by the member.
+
+D. Minimum Orders
+Supplier must specify any minimum order charge or conditions under which the established price will be adjusted. It is
+strongly preferred there not be a minimum order quantity or charge.
+
+E. Supplemental Charges
+Supplier shall be required to state all supplemental charges that may be assessed in addition to the pricing for the goods
+and/or services provided including additional shipping charges, cost of goods, delivery, freight fuel surcharges, installation or
+any other charges incurred by the member. If Supplier offers multiple pricing options (i.e.: drop ship, inside delivery,
+delivered and installed) they must be specified herein.
+
+F. Delivery
+Deliveries to members range from, but are not limited to: (1) one central receiving location, (2) multi-campus locations, (3)
+campus building(s), or (4) department(s). Frequency of delivery may range from: (1) daily, (2) weekly, (3) monthly, or (4) as
+needed to assure that institutions’ needs are met. Delivery may be based on storeroom delivery, Just-in-Time agreements,
+drop shipments, and delivered and installed.
+Normal delivery of orders must be accomplished at established times as set by the member. On-time delivery shall be
+maintained at 95% or greater. On-time delivery is defined as delivery of complete order within the specified delivery time
+frame after the placement of order. Orders will be defined as late without approved notification. The Supplier(s) shall have
+the capability of expediting the delivery of orders to assure no shortage of product during installation.
+Title and risk of loss shall pass to the member at the F.O.B. destination point or after installation by authorized
+dealer/representative. The title and risk of loss of the goods shall not pass to a given member until receipt and acceptance of
+the goods at the point of delivery and or installation. The products furnished shall be delivered:
+
+     Request for Proposal – Attachment B, General Terms and Conditions                                             Page 19
+     E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+F.O.B. Destination, Full Freight Allowed (Supplier pays freight)
+Selection of a carrier for shipment will be the Supplier’s option unless otherwise specified by the member. If special delivery
+or handling charges are applicable they shall be pre-approved by the order initiator.
+The Supplier shall maintain records evidencing the delivery of goods and upon request by the member provide such proof of
+delivery.
+
+G. Packaging and Labeling
+Shipments are to have packing and packaging which is environmentally sensitive and state of the art. Stuffing (e.g.
+“popcorn”, etc.) is to be biodegradable. INSTAPAK will not be used. Wrapping, boxing and crating are to be minimized.
+Recycled cardboard is to be used in place of new cardboard. Large shipments (skids, etc.) are to be shrink-wrapped. Pallets
+will be standard wood 4-way. The supplier must work with OEMs, distributors, etc. so that direct ship and pass through
+shipments are packaged with the same considerations.
+The supplier is expected to look for cutting edge packaging innovations for delivery options, such as exchangeable packs,
+bags, or other similar containers that would eliminate as much traditional packaging materials as possible.
+Each packaged order shall have a packing label affixed indicating the order number, order date, ship to name & address,
+delivery zone (if requested), and any additional information requested by the ordering member. In addition, each order shall
+have a packing list.
+
+H. Storage
+If applicable, Supplier or Dealer shall be responsible for all warehousing and storage expenses, which may be incurred, until
+goods are delivered and/or installed as per the terms of the member’s order.
+
+I. Tracking Lost and Damaged Shipments
+If Supplier fails to deliver, or erroneously delivers products, Supplier is required to take immediate corrective action to make
+the correct delivery at no cost to member.
+Should any action on the part of the Supplier or a subcontractor cause visible damage to the facilities during transport, the
+Supplier is required to immediately contact member and forward a confirming damage report detailing the damages. Supplier
+shall be able to track all shipments and provide order status to members.
+
+J. Returns – Defective and Non-Conforming Goods or Services
+If any goods or services furnished under the Agreement are defective or non-conforming, or fail to meet warranties,
+specifications or any other provisions of the Agreement or members’ purchase orders, any of the following remedies shall be
+available to the member:
+• Repair and Replacement: Supplier shall promptly repair, replace, or correct non-conforming or defective goods and
+   services at the Supplier’s own expense.
+• Cancellation: member may cancel an order or any part thereof or any undelivered portion thereof without incurring any
+   liability to Supplier and any payments made by member for products or services purchased shall be refunded by the
+   Supplier and/or its agents.
+• Like-for-Like: Like-for-like equipment throughout the entire term of the contract maintenance or warranty shall be
+   provided at no cost to the member in the event that the equipment experiences excessive down-time or fails to maintain
+   acceptable quality standards.
+• Removal: Supplier shall remove such goods at its own expense and if the Supplier fails to remove such goods, member
+   may return all or any portion of such goods at the expense of Supplier.
+• Risk of Loss and Storage: All goods shall be held at Supplier’s risk and the Supplier shall pay all expenses incurred
+   including storage costs.
+• Supplier Liability: The Supplier shall be liable for any and all losses, claims, expenses, (including reasonable attorney’s
+   fees and court costs) and other incidental and consequential damages resulting from such failure to meet all the
+   requirements of this Agreement and/or a member order.
+• Products under warranty. The decision to replace such products or accept warranty repair shall be at the sole discretion of
+   the member except in the event the member fails to provide timely notice of product failure to the Supplier.
+• After the Warranty Period: After the warranty period, the Supplier is responsible to make sure that service agreements are
+   available to the member. The Supplier, the manufacturer or an authorized third party may provide the maintenance.
+
+
+     Request for Proposal – Attachment B, General Terms and Conditions                                              Page 20
+     E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+K. Reasons for Return or Credit
+The Supplier shall accept the following as reasons for return or credit:
+• The product is defective or nonconforming.
+• The product is incorrectly ordered or shipped. The product is received as an overage or the order is duplicated and shipped
+  in error and the overage is noted on the shipping document(s).
+• The product receipt is late or delayed and because of the late or delayed delivery is deemed in good faith by the member to
+  be unusable or no longer needed.
+Supplier and/or its agents will issue credit with waiver of any claims against member.
+
+L. Restocking Policy
+Supplier shall not impose a restocking fee on member under the following circumstances:
+• Item is returned due to damage, incorrect product shipped, or Supplier customer service order entry error.
+• Inventory is returned within 2 business days of delivery.
+• Inventory is returned, but exchanged for other inventory.
+Re-stocking fees for all other reasons can be no greater than 10% of the value of the items needing re-stocking.
+
+M. Warranty and Product Condition of Sale
+At a minimum, there shall be a three (3) year warranty from the date of delivery to include parts, labor and travel. For third
+party providers, the manufacturer’s standard warranty shall apply. Lifetime warranties shall remain in force regardless of
+whether the resulting agreement is still in place.
+Supplier may offer a warranty that clearly illustrates an improvement to the manufacturer’s standard warranty and benefit to
+the member. Supplier should track the product warranty for all products sold to member. Loaner products shall be made
+available while member’s equipment is out for warranty repair.
+Supplier certifies and warrants that all products sold to members shall be:
+• New and genuine
+• Free from defects in content and materials
+• Provided as per manufacturer’s requirements
+• Sold or manufactured via legal and reputable channels
+• Not misbranded
+
+N. Extended Warranty Option
+Supplier shall offer an optional one (1) year warranty extension on all systems. The same terms and conditions that apply to
+the standard warranty coverage shall apply during additional year of ownership if the extended warranty option is included in
+the original purchase.
+
+O. User Manuals
+Supplier shall provide on-line links to original instruction manuals for each unit ordered, including complete documentation
+on all components used. Electronic notification of bulletins, revisions and corrections shall be provided as they are issued.
+Instruction manuals shall contain:
+• Definition of equipment capabilities
+• Technical description of equipment operation
+• Description of malfunction identification
+• Troubleshooting procedures
+• Detailed schematics
+• Installation and use instructions
+• Operating system software manual
+• Glossary
+
+P. New and Discontinued Products
+The Supplier shall, at least thirty (30) days prior to their introduction or discontinuance, notify E&I and the membership of
+any new or discontinued products. Unless noted otherwise the discount and pricing established for new products will be
+equal to the pricing structure proposed. If the Supplier offers a different discount structure for new products then a separate
+
+     Request for Proposal – Attachment B, General Terms and Conditions                                             Page 21
+     E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+category of “New Products” pricing should be added to the proposed discount structure on appropriate attachment. In such a
+case, the Supplier should clearly indicate the number of months products are considered as “new products.”
+
+Q. Replacement Parts
+If Supplier offers replacement parts, then a separate category of “Replacement Parts” pricing should be added to the proposed
+discount structure.
+
+R. Evaluati on Units
+If requested, Supplier is to provide evaluation units of products. Units for evaluation must be provided free of charge. The
+quantity of any evaluation unit requested will be reasonable but sufficient to undertake an appropriate evaluation. Supplier
+shall provide member with return instructions as appropriate.
+
+S. Third Party Order Fulfillment, Distribution and Installation Agreements
+Members may have their own order fulfillment/distribution/installation agreements with a third party agent or distributor.
+The terms and pricing of this Agreement are passed through to the member and separate from any additional distributor terms
+and conditions, fees or markups resulting from members’ separate fulfillment/distribution/installation agreements.
+
+T. Business Review Meetings
+In order to maintain a partnership between the member and the Supplier, members may require business review meetings.
+These meetings shall be held on a quarterly basis, if not more frequently. The business review meeting shall include, but not
+be limited to, the following:
+• Review of Supplier performance
+• Review of minimum required reports (as described in the following section)
+• Review of new technologies, industry trends
+
+U. Reporting
+At a minimum, the following reports shall be made available to members in an electronic format on a quarterly basis:
+• Total orders year to date, including item ID, item description, unit of measure, total quantity ordered, total quantity
+  shipped, sales price, list price, total sales price (total quantity shipped x sales price), method of order (website,
+  eProcurement, phone call), method of payment, bundle vs. non-bundle, department
+• Overall order accuracy and fill rates
+• Number of orders returned due to Customer error
+• Total re-stocking charges ($) applied
+• Number of orders returned due to Supplier error
+• Total dollar value of surcharges, transaction fees, delivery charges, and other misc. charges
+• Current market updates, i.e. company news, systems failures, product recalls, etc.
+• EPEAT standards of equipment ordered (sustainability)
+• Historically Underutilized Business (HUB) spend (supplier diversity)
+
+V. Employee Purchase Program
+Supplier may offer discounted products to members’ students, faculty and staff for personal purchases. If offering an
+Employee Purchase Program, Supplier shall describe how it intends to protect members from liability from personal
+purchases made by students and employees.
+
+
+
+
+     Request for Proposal – Attachment B, General Terms and Conditions                                              Page 22
+     E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+
+II. General Terms and Conditions
+
+1. Orders
+All terms and conditions of an individual member’s standard procurement terms for ordering may apply. With each ordering
+occurrence, it is mutually agreed that the member’s notice of acceptance shall create an agreement between the parties thereto
+containing all specifications, terms and conditions of the Agreement, except as amended by the member’s own acceptance
+notification.
+
+2. Emergency Purchases
+Members reserve the right to make purchases of items included under this contract when emergency conditions exist. All
+emergency purchases shall be reported as regular sales to E&I.
+
+3. Invoices and Payment
+Invoices shall be directed to the appropriate location(s) specified by the member. Invoices and payment terms must comply
+with the requirements of each member. The member placing the order with the Supplier shall alone be liable or responsible
+for payment for products and/or services ordered and will be invoiced direct by the Supplier. Neither E&I nor its other
+members shall be liable for the indebtedness of any one member.
+
+If a member does not specify payment terms, the default payment term for members shall include invoicing at time of billing
+or delivery completion, whichever is later. Payments would then be made within thirty (30) days after receipt of a valid
+invoice or delivery; whichever is later, or as required by the member’s statutory requirements.
+
+Cash discounts for prompt payment may be offered to any member from the date of receipt and acceptance of goods or the
+invoices; whichever is later, or as required by the member’s statutory requirements. Supplier is encouraged to offer/propose
+cash discounts for expedited payment of invoices rendered under this Agreement. Negotiated cash discounts with member
+institutions for aggregated billing (monthly/bi-weekly, etc.) may be negotiated on an individual basis. Cash discounts are not
+to be netted against sales in calculating the CAF.
+
+4. Supplemental Agreements
+Member and Supplier may enter into a separate supplemental agreement to further define the level of service requirements
+over and above the minimum defined in this Agreement i.e. invoice requirements, ordering requirements, on campus service,
+specialized delivery, etc. Any supplemental agreement developed is exclusively between the member and Supplier. E&I, its
+agents, members and employees shall not be made party to any claim for breach of such agreement.
+
+5. Third Party Distributors/Subcontractors
+In the event that the Supplier chooses to subcontract any service or delivery of the products under the terms herein, the
+Supplier shall fully warrant prompt performance of the subcontractor in a fully complete, workmanlike manner customary to
+the trade. Failure by the subcontractor to perform in a timely manner as specified above shall not relieve the Supplier of its
+obligations to make complete timely delivery of products, supplies or service at no additional cost to the member.
+
+6. Education Pricing/Pricing Parity
+The Education pricing, terms and conditions established under this Agreement are to be equal to or better than those offered
+to other comparable institutions, government sector and/or consortiums serving public and private higher education and
+healthcare. If, during the term of this Agreement, Supplier offers more favorable terms, conditions or prices to members,
+other comparable institutions, and/or consortiums, Supplier agrees to notify E&I in writing. Supplier agrees to immediately
+amend the agreement to reflect the more favorable terms, conditions or prices. E&I must be notified of any proposed
+changes thirty (30) days prior to their implementation.
+
+7. Interpretation, Enforcement and Forum of Laws
+For disputes between the member and Supplier, this Agreement shall be governed by, construed, interpreted, and enforced
+solely in accordance with the laws of the state in which the member resides and the venue of any action shall lie in such state.
+
+For disputes between E&I and Supplier, this Agreement shall be governed by, construed, interpreted, and enforced solely in
+accordance with the laws and within the Courts of the State of New York.
+
+
+
+     Request for Proposal – Attachment B, General Terms and Conditions                                            Page 23
+     E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+8. Compliance with Law
+Supplier warrants and certifies that in the performance of this Agreement, it has complied with or will comply with all
+applicable statutes, rules, regulations and orders of the United States, and any state or political subdivision thereof, including
+but not limited to, laws and regulations pertaining to labor, wages, hours and other conditions of employment.
+
+9. Funding Provided by Federal Contracts or Grants
+Where Federal Contracts or Grants provide funding to members, it is the responsibility of the Supplier and the member to
+comply with all FAR (Federal Acquisition Regulations) applicable laws and regulations by completing any certifications and
+disclosures and any other requirements. When Federal Contract or Grant funds are used on participating member purchases
+under this Agreement, which exceed $25,000, certification must be provided in writing that the Supplier is not debarred,
+suspended, or proposed for debarment by the Federal Government.
+
+10. Insolvency
+In the event of any proceedings in bankruptcy or insolvency by or against Supplier, or in the event of the appointment (with
+or without its consent) of an assignee for the benefit of creditors, or a receiver, E&I may cancel this Agreement without prior
+notice and without incurring any liability whatsoever to Supplier.
+
+11. Assignments
+Supplier shall not assign this agreement or any of Supplier’s rights or obligations hereunder, without E&I’s prior written
+consent. Any purported assignment made without E&I’s prior written consent shall be void and of no effect.
+
+12. Resale
+If E&I and/or member purchase any goods for resale, the customer shall have the benefit of every right, warranty, and interest
+enjoyed by E&I and/or member.
+
+13. Patent Trademark and Copyright Infringement
+The Supplier warrants that the products/services hereby sold, either alone or in combination with other materials, do not
+infringe upon or violate any patent, copyright, trademark, trade secret, application or any other proprietary right of any third
+party existing under laws of the United States or any foreign country. The Supplier agrees, at its own expense, to defend any
+and all actions or suits alleging such infringements and will hold E&I, its officers, agents, servants, employees and members
+harmless from any and all losses, expenses, claims, (including reasonable attorney’s fees), or judgments arising out of cases
+of such infringement.
+
+14. Use of Name, Logos, etc. in Advertising
+Supplier agrees not to make reference to this Agreement or use the logo of E&I or any of its members in any advertising
+material of any kind without the expressed written permission of the party involved. E&I agrees not to make reference to this
+Agreement or use the logo of Supplier in any advertising and marketing materials of any kind without the expressed written
+permission of the Supplier.
+
+15. Transactions between Supplier and E&I Member
+The purchase of products and/or services by a member from Supplier is a transaction solely between member and Supplier.
+It is understood and agreed that if any litigation arises between Supplier and any E&I member, Supplier shall not make E&I a
+party to that litigation. A violation of this provision shall be deemed a material breach of this Agreement warranting
+termination by E&I, and Supplier agrees to indemnify E&I against and hold it harmless from all costs associated with such
+litigation, including reasonable attorney's fees.
+
+16. Responsibility for Damage Claims
+The Supplier shall hold harmless E&I and the member from all suits, actions or claims brought on account of any injuries or
+damages sustained by any person or property as a consequence of any neglect in safeguarding the work by the Supplier; or
+from claims or amounts arising or recovered under the “Workman’s Compensation Law” or any other laws. Supplier shall be
+responsible for all damage or injury to property occurring during the prosecution of the work resulting from any act,
+omission, neglect, or misconduct on their part or on the part of any of their employees, in the manner or method of executing
+the work; or from their failure to execute the work properly; until all claims have been settled and suitable evidence to that
+effect furnished to E&I and the member.
+
+
+
+      Request for Proposal – Attachment B, General Terms and Conditions                                              Page 24
+      E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+17. Protection of Property and Liability
+The Supplier shall take care not to damage the premises or the property of others, and in case such damage occurs as the
+result of operations under this contract, they shall make appropriate restitution. If the Supplier fails to pay for damage, the
+damages may be deducted from any remaining balance due to the Supplier or may be processed as a breach of contract to the
+full extent the law allows.
+
+18. Indemnificati on of E&I and Member
+Supplier agrees to indemnify and hold harmless E&I and its members from and against all liability, losses, damages, claims,
+liens, and expenses (including reasonable legal fees) arising out of or connected with the products purchased, work or
+services performed, or resulting from damages or injuries incurred by or to the member by reason of any defect in
+manufacture, construction, inspection, delivery, material, workmanship, and/or design of any goods and services furnished
+hereunder, excepting only such liability as may result solely from the acts of negligence of the member, E&I or its
+employees. Supplier, at the request of the member and/or E&I, shall undertake to participate fully in the defense of the
+member (in accordance with the statutes of the State where the member resides) and/or E&I against any and all suits and to
+investigate and participate fully in the defense of the member (in accordance with the statutes of the State where the member
+resides) and/or E&I against any and all claims whether justified or not, if such claim or suit is commenced against member or
+E&I, or their respective officers, agents, servants, and employees.
+
+19. Insurance
+If fabrication, construction, installation, service or other work is specified to be conducted on member’s premises, Supplier
+shall maintain in force during the period of such work the following coverages: (a) worker’s compensation, as required by the
+laws of the State of member; (b) commercial general liability for bodily injury and/or property damage in an amount of not
+less than $1,000,000 single limit, per occurrence; (c) automobile liability for bodily injury and/or property damage in an
+amount of not less than $1,000,000 single limit, per occurrence. Supplier shall provide a certificate of insurance naming E&I
+and member as additional insured. Upon request, Supplier shall furnish to E&I satisfactory proof of such insurance coverage.
+
+Individual members may require coverage in addition to the above limits. If the need for additional coverage develops, it will
+be the responsibility of the member to arrange for such coverage with the Supplier. Supplier shall furnish to member
+satisfactory proof of such insurance coverage prior to commencement of the work.
+
+20. Licenses/Permits/Taxes and Tax Exempt Status
+Supplier shall be responsible for obtaining all permits, licenses and bonding, to comply with the rules and regulations of any
+state, federal, municipal or county laws or any city government, bureau or department applicable and assume all liability for
+all applicable taxes.
+
+E&I is a not-for-profit corporation. Members are 501(c)(3) corporations but have varying requirements to either pay or are
+exempt from state sales tax.
+
+All prices listed and discounts offered are exclusive of all taxes. Supplier has the duty to collect all taxes in connection with
+the sale, delivery or use of any items, products or services included herein from member or from E&I (if for the purpose of
+resale), at the taxable rate in effect at the time of invoicing. Supplier shall comply with the state sales tax requirements of
+each member. If sales to member are exempt from such taxes, member shall furnish to Supplier a certificate of exemption in
+form and timeliness acceptable to the applicable taxing authority.
+
+21. Americans With Disabilities Act
+Supplier shall comply with all applicable provisions of the Americans with Disabilities Act and applicable federal regulations
+under the Act.
+
+22. Compliance with Immigration Reform and Control Act of 1986
+Supplier is aware of, is fully informed, and in full compliance with its obligations under the Immigration Reform and Control
+Act of 1986. Supplier shall be responsible for assuring that all persons engaged in the performance of work hereunder are
+authorized to work as required by the Act in both its present form and any future requirements passed under said Act.
+
+
+
+
+     Request for Proposal – Attachment B, General Terms and Conditions                                              Page 25
+     E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+23. Alcohol, Tobacco & Drug Rules and Regulations
+Employees of the Supplier and its subcontractors shall comply with all instructions, pertaining to conduct and building
+regulations of the members. The member reserves the right to request the removal or replacement of any undesirable
+employee at any time.
+
+All buildings on the member’s grounds are tobacco-free. Use of tobacco products is not permitted in any area inside
+member’s buildings. The Supplier is expected to respect this tobacco-free policy and fully comply with it.
+The Supplier agrees that in the performance of this Agreement, neither the Supplier nor any of its employees shall engage in
+the unlawful manufacture, distribution, dispensing, possession, or use of a controlled substance, including alcohol, in
+conducting any activity covered by this Agreement. E&I and the member reserve the right to request a copy of the Drug Free
+Workplace Policy. The Supplier further agrees to insert a provision similar to this statement in all subcontracts for services
+required.
+
+24. Equal Opportunity
+The provisions of Section 202 of Executive Order 11246.41 C.F.R. Sec. 60-1.1 C.F.R. Sec. 60-250.4 and 41 C.F.R. Sec. 60-
+741.4 are incorporated herein by reference and shall be applicable to this Agreement unless this Agreement is exempted
+under the rules, regulations, or orders of the U.S. Secretary of Labor.
+
+25. Non-Discrimination
+The parties agree to comply with applicable state and federal rules governing Equal Employment Opportunity and Non-
+Discrimination.
+
+26. Sexual Harassment
+Federal law and the policies of E&I prohibit sexual harassment. Supplier is required to exercise control over its employees
+so as to prohibit acts of sexual harassment. If a member in its reasonable judgment determines that any employee of Supplier
+has committed an act of sexual harassment, Supplier agrees as a term and condition of this Agreement to cause such person to
+be removed from member’s facility and to take such other action as may be reasonably necessary to cause the sexual
+harassment to cease.
+
+27. Employee Documentation
+At any time during the term of the Agreement, a member may require Supplier to provide a complete dossier of each
+employee who has been given an assignment at the member institution. This may include employment history, education,
+job references, certificates and licenses, conviction records and documentation of random drug testing.
+
+28. Federal Debarment
+Supplier certifies that it is presently not debarred, suspended, proposed for debarment, declared ineligible, is not in the
+process of being debarred, nor is voluntarily excluded from covered transactions by any federal department or agency.
+
+29. Expropriation
+Suppliers should indicate if, by any existing agreement with any party, its operations, delivery vehicles and or personnel can
+be in any way expropriated or annexed. If such an agreement exists, supplier should indicate when this agreement or those
+terms will expire.
+
+30. Hazardous Materials and OSHA Communication Standards
+The Supplier shall be responsible for providing Material Safety Data Sheets (MSDS) to the appropriate user(s). The Supplier
+shall retain title and/or ownership and responsibility for hazardous materials delivered in error. Within three working days of
+notification, the Supplier must retrieve hazardous materials that are delivered in error. The Supplier is responsible for the
+safe and legal disposal of all hazardous materials generated in the performance of the Agreement. In addition, the Supplier
+shall be responsible for providing its employees chemical safety training mandated by OSHA Hazard Communication
+Standard. The Supplier shall provide E&I and its members with safety/recall updates for any equipment/products provided.
+
+31. Compliance with Specifications
+The Supplier warrants that all goods, services, or work supplied under this Agreement shall conform to specifications,
+drawings, samples, or other descriptions contained or referenced herein and shall be merchantable, of good quality and
+workmanship and free from defect. The Supplier also warrants that all goods covered by this Agreement which are the
+product of the Supplier or are in accordance with its specifications, will be fit and subject to the member’s inspection before
+      Request for Proposal – Attachment B, General Terms and Conditions                                              Page 26
+      E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+acceptance, and also to later rejection if use reveals defects not apparent upon receipt; and if rejected will be held at
+Supplier’s risk and expense for storage and other charges after 60 days of storage, goods may be disposed of without cost to
+member. Neither receipt of goods nor payment therefore shall constitute a waiver of this provision.
+
+32. Gratuities
+E&I may, by written notice to Supplier, cancel the Agreement if it discovers that gratuities, in the form of entertainment, gifts
+or the like, were offered or given by Supplier to any officer or employee of E&I or any member with a view toward securing
+an agreement or securing favorable treatment with respect to the awarding of this Agreement.
+
+33. Covenant Against Contingency Fees
+Supplier certifies that it has neither offered nor paid a contingency fee to any individual, agent, employee of E&I, or
+employee of any member to secure or influence the decision to award this Agreement to Supplier.
+
+34. Suspension or Debarment
+E&I may, by written notice to the Supplier, immediately terminate the Agreement if it is determined that the Supplier has
+been debarred, suspended or otherwise lawfully prohibited from participating in any public procurement activity, including
+but not limited to, being disapproved as a subcontractor by any public procurement unit or other governmental body.
+
+35. Conflict of Interest
+In order to avoid even the appearance of any conflict of interest, neither E&I nor Supplier shall employ any officer or
+employee of the other party for a period of one year from the date hereof.
+
+36. Strikes or Lockouts
+In the event Supplier should become involved in a labor dispute, strike or lockout, Supplier will be required to make
+whatever arrangements that may be necessary to insure that the conditions of this Agreement are met in their entirety. Should
+the Supplier be unable to fulfill its obligations under this Agreement, E&I and/or member shall have the right to make
+alternative arrangements to insure the satisfactory performance of the Agreement during the time Supplier is unable to
+perform the required duties. Any costs incurred by E&I and/or any member, as a result of such job action, shall be
+reimbursed by the Supplier.
+
+37. Force Majeure
+Neither party shall be held responsible for any losses resulting if the fulfillment of any terms or provisions of this Agreement
+are delayed or prevented by any cause not within the control of the party whose performance is interfered with, and which by
+the exercise of reasonable diligence, said party is unable to prevent.
+
+38. Modification of Terms
+No waiver or modification of any of the provisions hereof shall be binding unless mutually agreed upon by E&I and the
+Supplier, in writing, with signatures of authorized representatives of all parties authorizing said modification.
+
+39. Termination for Convenience
+E&I may terminate this Agreement for any reason (convenience) by delivering not less than one hundred eighty (180)
+calendar days prior written notice thereof to the Supplier.
+
+40. Termination and Termination for Default
+E&I will notify the Supplier upon discovery of a breach of this Agreement. E&I may terminate this Agreement immediately
+upon the breach of this Agreement by Supplier by delivering written notice to Supplier, or if such breach is capable of being
+cured, E&I shall notify the Supplier in writing of such breach and demand that the same be cured within fourteen (14)
+calendar days. Should the Supplier fail to cure the same within said period, E&I shall then have the right to terminate this
+Agreement at the end of the fourteenth (14th ) day. A notice will be sent to the Supplier to confirm the termination.
+
+The failure of E&I on behalf of its members to exercise its rights of termination for cause due to Supplier’s failure to perform
+as required in any instance shall not constitute a waiver of termination rights in any other instance.
+
+An order by a member may be cancelled due to non-appropriation of funds. This funding out clause is required by several
+states and can be for non-appropriation of State and Federal funds.
+
+     Request for Proposal – Attachment B, General Terms and Conditions                                             Page 27
+     E&I Cooperative Services, Inc.
+ATTACHMENT B – Terms and Conditions
+
+41. Continuation of Performance Through Termination
+Supplier shall continue to perform, in accordance with the requirements of this Agreement, up to the date of termination, as
+directed in the termination notice.
+
+42. Holdover Clause
+This holdover clause authorizes Supplier to continue to provide products and services pursuant to any quotation, purchase
+order or MSA executed prior to the expiration or termination of this Agreement. The term of this Agreement shall then
+automatically extend through the final invoice date or expiration of the MSA. The terms and conditions specified herein shall
+remain in effect for the duration of the holdover period.
+
+43. Independent Audit
+Members may, for a period of three years after expiration of the Agreement, audit the Supplier’s records pertaining to its
+compliance with the terms of this Agreement. An audit may be scheduled or announced providing the Supplier a minimum of
+seventy-two (72) hours advance notice. The audit will be conducted by member and/or its designee. Supplier will provide
+member with access to records, sufficient workspace and staff support to facilitate an audit. The audit may address any or all
+of the following conditions and may not be limited to the stated conditions: product compliance, pricing, order processing,
+order fulfillment, delivery records, invoicing, and receipt of payment.
+
+44. Open Records
+All information, documentation, and other materials submitted by Supplier in response to the solicitation or under any
+resulting contract may be subject to public disclosure under the Freedom of Information Act and/or Open Records laws of the
+members.
+
+45. Proprietary/Confi denti al Information
+Supplier must clearly mark “Confidential” on any portion of proposal response, which it considers to contain confidential or
+proprietary information. All information, documentation, and other materials submitted by Supplier in response to the
+solicitation or under any resulting contract may be subject to public disclosure under the Freedom of Information Act and/or
+Open Records laws of the members.
+
+46. Strict Compliance
+The parties may at any time insist upon strict compliance with these terms and conditions, notwithstanding any previous
+custom, practice or course of dealing to the contrary.
+
+47. Entire Agreement
+This Agreement together with the Exhibits annexed hereto constitutes the entire agreement between the parties and
+supersedes all prior agreements whether written or oral between the parties. Documents subject to Freedom of Information
+Act will only be released after award.
+
+48. Notices
+Any notice to be given by any party hereunder shall be in writing, mailed by certified mail, return receipt requested, or by
+delivery to a reputable overnight courier and shall be effective the earlier of (a) actual receipt or (b) five days after mailing or
+one day after delivery to overnight courier and shall be addressed as follows:
+         If to E&I:         Gary D. Link C.P.M.
+                            Sr. Vice President, Contracts and Consulting Services
+                            E&I Cooperative Services, Inc.
+                            2 Jericho Plaza, Suite 309
+                            Jericho, NY 11753
+         If to Supplier:    <contact name>
+                            <supplier>
+                            <street address>
+                            <city, state, zip>
+                            <phone number>
+                            <e-mail address>
+
+
+
+      Request for Proposal – Attachment B, General Terms and Conditions                                               Page 28
+      E&I Cooperative Services, Inc.
+ATTACHMENT C – Supplier Questionnaire
+
+All worksheets of the questionnaire MUST be completed to be considered for evaluation. Include completed Questionnaire in
+Tab 4 of the proposal response and in Microsoft Excel electronic format.
+
+
+
+
+     Request for Proposal – Attachment C, Supplier Questionnaire                                            Page 29
+     E&I Cooperative Services, Inc.
+ATTACHMENT D – Accessibility Standards
+
+Suppliers must demonstrate compliance with WCAG 2.0 level AA standards, as required by some members’ IT Accessibility
+policies. The requested WCAG VPAT applies to Supplier’s website to be offered under a resulting agreement. As requested
+by members, Supplier must make best efforts to provide VPATS for all products offered in its response using the template
+available at https://www.itic.org/policy/accessibility. Include Attachment D in Tab 7 of the proposal response.
+
+1. Questions
+The list of questions below must be completed by the supplier. Third-party evaluation reports may be included as
+attachments.
+A. Provide your company’s policy or commitment statement regarding electronic accessibility.
+B. Who in your company is responsible for the electronic accessibility policy and compliance (provide contact
+   information)?
+C. Do you have an accessibility function or team responsible for technical development? Describe its role in your
+   organization.
+D. How does your company achieve compliance with IT accessibility standards?
+E. Describe the testing protocols you use to assess the accessibility of your product/service.
+F. Can you provide live or pre-recorded demonstrations of the accessibility of your product?
+G. How do you assure that you keep your product current with changing legal requirements and accessibility best practices?
+
+2. Web Accessibility Requirements Compliance Form
+The Web Accessibility Requirements Compliance form below also must be completed by the supplier. For each area of
+noncompliance, suppliers are expected to describe any planned remediation roadmaps, including timelines and steps that will
+be taken to achieve full compliance, as well as interim workarounds to enable access by individuals with disabilities.
+
+                                             Do you comply with this                 If not compliant, describe
+ Requirement                                 requirement?                            remediation plans (include start and
+                                             Answer: yes, no, or partially           end dates).
+
+ 1.1.1 Non-text Content: All non-text
+ content that is presented to the user has
+ a text alternative that serves the
+ equivalent purpose.
+ 1.2.1 Audio-only and Video-only
+ (Prerecorded): For prerecorded audio-
+ only and prerecorded video-only
+ media, the following are true, except
+ when the audio or video is a media
+ alternative for text and is clearly
+ labeled as such: Prerecorded Audio-
+ only: An alternative for time-based
+ media is provided that presents
+ equivalent information for prerecorded
+ audio-only content; Prerecorded Video-
+ only: Either an alternative for time-
+ based media or an audio track is
+ provided that presents equivalent
+ information for prerecorded video-only
+ content.
+ 1.2.2 Captions (Prerecorded): Captions
+ are provided for all prerecorded audio
+ content in synchronized media, except
+ when the media is a media alternative
+ for text and is clearly labeled as such.
+
+
+     Request for Proposal – Attachment D, Accessibility Standards                                               Page 30
+     E&I Cooperative Services, Inc.
+ATTACHMENT D – Accessibility Standards
+
+
+1.2.3 Audio Description or Media
+Alternative (Prerecorded): An
+alternative for time-based media or
+audio description of the prerecorded
+video content is provided for
+synchronized media, except when the
+media is a media alternative for text
+and is clearly labeled as such.
+1.2.4 Captions (Live): Captions are
+provided for all live audio content in
+synchronized media.
+1.2.5 Audio Description (Prerecorded):
+Audio description is provided for all
+prerecorded video content in
+synchronized media.
+1.3.1 Info and Relationships:
+Information, structure, and
+relationships conveyed through
+presentation can be programmatically
+determined or are available in text.
+1.3.2 Meaningful Sequence: When the
+sequence in which content is presented
+affects its meaning, a correct reading
+sequence can be programmatically
+determined.
+1.3.3 Sensory Characteristics:
+Instructions provided for understanding
+and operating content do not rely solely
+on sensory characteristics of
+components such as shape, size, visual
+location, orientation, or sound.
+1.4.1 Use of Color: Color is not used as
+the only visual means of conveying
+information, indicating an action,
+prompting a response, or distinguishing
+a visual element.
+1.4.2 Audio Control: If any audio on a
+Web page plays automatically for more
+than 3 seconds, either a mechanism is
+available to pause or stop the audio, or
+a mechanism is available to control
+audio volume independently from the
+overall system volume level.
+
+
+
+
+    Request for Proposal – Attachment D, Accessibility Standards   Page 31
+    E&I Cooperative Services, Inc.
+ATTACHMENT D – Accessibility Standards
+
+
+1.4.3 Contrast (Minimum): The visual
+presentation of text and images of text
+has a contrast ratio of at least 4.5:1,
+except for the following: Large Text:
+Large-scale text and images of large-
+scale text have a contrast ratio of at
+least 3:1; Incidental: Text or images of
+text that are part of an inactive user
+interface component, that are pure
+decoration, that are not visible to
+anyone, or that are part of a picture that
+contains significant other visual
+content, have no contrast requirement.
+Logotypes: Text that is part of a logo
+or brand name has no minimum
+contrast requirement.
+1.4.4 Resize text: Except for captions
+and images of text, text can be resized
+without assistive technology up to 200
+percent without loss of content or
+functionality.
+1.4.5 Images of Text: If the
+technologies being used can achieve
+the visual presentation, text is used to
+convey information rather than images
+of text except for the following:
+Customizable: The image of text can
+be visually customized to the user’s
+requirements; Essential: A particular
+presentation of text is essential to the
+information being conveyed.
+2.1.1 Keyboard: All functionality of the
+content is operable through a keyboard
+interface without requiring specific
+timings for individual keystrokes,
+except where the underlying function
+requires input that depends on the path
+of the user’s movement and not just the
+endpoints.
+2.1.2 No Keyboard Trap: If keyboard
+focus can be moved to a component of
+the page using a keyboard interface,
+then focus can be moved away from
+that component using only a keyboard
+interface, and, if it requires more than
+unmodified arrow or tab keys or other
+standard exit methods, the user is
+advised of the method for moving
+focus away.
+
+
+
+
+    Request for Proposal – Attachment D, Accessibility Standards   Page 32
+    E&I Cooperative Services, Inc.
+ATTACHMENT D – Accessibility Standards
+
+
+2.2.1 Timing Adjustable: For each time
+limit that is set by the content, at least
+one of the following is true: Turn off:
+The user is allowed to turn off the time
+limit before encountering it; or Adjust:
+The user is allowed to adjust the time
+limit before encountering it over a wide
+range that is at least ten times the
+length of the default setting; or Extend:
+The user is warned before time expires
+and given at least 20 seconds to extend
+the time limit with a simple action (for
+example, "press the space bar"), and
+the user is allowed to extend the time
+limit at least ten times; or Real-time
+Exception: The time limit is a required
+part of a real-time event (for example,
+an auction), and no alternative to the
+time limit is possible; or Essential
+Exception: The time limit is essential
+and extending it would invalidate the
+activity; or 20 Hour Exception: The
+time limit is longer than 20 hours.
+2.2.2 Pause, Stop, Hide: For moving,
+blinking, scrolling, or auto-updating
+information, all of the following are
+true: Moving, blinking, scrolling: For
+any moving, blinking or scrolling
+information that (1) starts
+automatically, (2) lasts more than five
+seconds, and (3) is presented in parallel
+with other content, there is a
+mechanism for the user to pause, stop,
+or hide it unless the movement,
+blinking, or scrolling is part of an
+activity where it is essential; and Auto-
+updating: For any auto-updating
+information that (1) starts
+automatically and (2) is presented in
+parallel with other content, there is a
+mechanism for the user to pause, stop,
+or hide it or to control the frequency of
+the update unless the auto-updating is
+part of an activity where it is essential.
+2.3.1 Three Flashes or Below
+Threshold: Web pages do not contain
+anything that flashes more than three
+times in any one second period, or the
+flash is below the general flash and red
+flash thresholds.
+2.4.1 Bypass Blocks: A mechanism is
+available to bypass blocks of content
+that are repeated on multiple Web
+pages.
+
+    Request for Proposal – Attachment D, Accessibility Standards   Page 33
+    E&I Cooperative Services, Inc.
+ATTACHMENT D – Accessibility Standards
+
+
+2.4.2 Page Titled: Web pages have
+titles that describe topic or purpose.
+2.4.3 Focus Order: If a Web page can
+be navigated sequentially and the
+navigation sequences affect meaning or
+operation, focusable components
+receive focus in an order that preserves
+meaning and operability.
+2.4.4 Link Purpose (In Context): The
+purpose of each link can be determined
+from the link text alone or from the
+link text together with its
+programmatically determined link
+context, except where the purpose of
+the link would be ambiguous to users
+in general.
+2.4.5 Multiple Ways: More than one
+way is available to locate a Web page
+within a set of Web pages except where
+the Web Page is the result of, or a step
+in, a process.
+2.4.6 Headings and Labels: Headings
+and labels describe topic or purpose.
+2.4.7 Focus Visible: Any keyboard
+operable user interface has a mode of
+operation where the keyboard focus
+indicator is visible.
+3.1.1 Language of Page: The default
+human language of each Web page can
+be programmatically determined.
+3.1.2 Language of Parts: The human
+language of each passage or phrase in
+the content can be programmatically
+determined except for proper names,
+technical terms, words of indeterminate
+language, and words or phrases that
+have become part of the vernacular of
+the immediately surrounding text.
+3.2.1 On Focus: When any component
+receives focus, it does not initiate a
+change of context.
+3.2.2 On Input: Changing the setting of
+any user interface component does not
+automatically cause a change of
+context unless the user has been
+advised of the behavior before using
+the component.
+
+
+
+
+    Request for Proposal – Attachment D, Accessibility Standards   Page 34
+    E&I Cooperative Services, Inc.
+ATTACHMENT D – Accessibility Standards
+
+
+3.2.3 Consistent Navigation:
+Navigational mechanisms that are
+repeated on multiple Web pages within
+a set of Web pages occur in the same
+relative order each time they are
+repeated, unless a change is initiated by
+the user.
+3.2.4 Consistent Identification:
+Components that have the same
+functionality within a set of Web pages
+are identified consistently.
+3.3.1 Error Identification: If an input
+error is automatically detected, the item
+that is in error is identified and the
+error is described to the user in text.
+3.3.2 Labels or Instructions: Labels or
+instructions are provided when content
+requires user input.
+3.3.3 Error Suggestion: If an input
+error is automatically detected and
+suggestions for correction are known,
+then the suggestions are provided to the
+user, unless it would jeopardize the
+security or purpose of the content.
+3.3.4 Error Prevention (Legal,
+Financial, Data): For Web pages that
+cause legal commitments or financial
+transactions for the user to occur, that
+modify or delete user-controllable data
+in data storage systems, or that submit
+user test responses, at least one of the
+following is true: Reversible:
+Submissions are reversible. Checked:
+Data entered by the user is checked for
+input errors and the user is provided an
+opportunity to correct them.
+Confirmed: A mechanism is available
+for reviewing, confirming, and
+correcting information before finalizing
+the submission.
+4.1.1 Parsing: In content implemented
+using markup languages, elements have
+complete start and end tags, elements
+are nested according to their
+specifications, elements do not contain
+duplicate attributes, and any IDs are
+unique, except where the specifications
+allow these features.
+
+
+
+
+    Request for Proposal – Attachment D, Accessibility Standards   Page 35
+    E&I Cooperative Services, Inc.
+ATTACHMENT D – Accessibility Standards
+
+
+4.1.2 Name, Role, Value: For all user
+interface components (including but
+not limited to: form elements, links,
+and components generated by scripts),
+the name and role can be
+programmatically determined; states,
+properties, and values that can be set
+by the user can be programmatically
+set; and notification of changes to these
+items is available to user agents,
+including assistive technologies.
+
+
+
+
+    Request for Proposal – Attachment D, Accessibility Standards   Page 36
+    E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+Suppliers must indicate their acceptance of Arizona State University’s specific terms and conditions. Attachment E in its
+entirety must be included in Tab 6 of proposal response.
+
+
+   Yes      No    Supplier accepts the specific terms and conditions of Arizona State University.
+
+
+                    ARIZONA STATE UNIVERS ITY GREEN PURCHAS ING ENERGY POLICY
+
+Equipment purchased must meet all Electronic Product Environmental Assessment Tool (EPEAT) environmental criteria
+designated as “gold” as contained in the IEEE 1680 Standard for the Environmental Assessment of Personal Computer
+Products
+
+All electrical products purchased by ASU shall meet the US EPA Energy Star certification when available and practicable.
+When products with Energy Star labels are not available, products that are in the upper 25 per cent of energy efficiency as
+designated by the federal Energy Management Program shall be used.
+
+Suppliers of electronic equipment, including but not limited to computers, monitors, printers, and copiers, shall be required to
+take back equipment for reuse or environmentally safe recycling when deemed appropriate by ASU.
+
+                  ARIZONA STATE UNIVERS ITY SUPPLEMENTAL TERMS AND CONDITIONS
+
+To the extent any provisions of the foregoing contract with the Arizona Board of Regents, a body corporate, for and on behalf
+of Arizona State University (ASU) conflict with any of the provisions of this Exhibit, the provisions of this Exhibit will
+control. References to this Contract include the foregoing contract and this Exhibit. All provisions of this Contract that
+anticipate performance after the termination of this Contract, and all provisions necessary or appropriate to interpret and
+enforce such provisions, will survive termination of this Contract.
+
+1.       Nondiscrimination. The parties will comply with all applicable state and federal laws, rules, regulations, and
+executive orders governing equal employment opportunity, immigration, and nondiscrimination, including the Americans
+with Disabilities Act. If applicable, the parties will abide by the requirements of 41 CFR §§ 60-1.4(a), 60-300.5(a) and
+60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected
+veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color,
+religion, sex or national origin. Moreover, these regulations require that covered prime contractors and
+subcontractors take affirmative action to employ and advance in employment individuals without regard to race,
+color, religion, sex, national origin, protected veteran status or disability.
+
+2.      Conflict of Interest. If within 3 years after the execution of this Contract, Entity hires as an employee or agent any
+ASU representative who was significantly involved in negotiating, securing, drafting, or creating this Contract, then ASU
+may cancel this Contract as provided in Arizona Revised Statutes (ARS) § 38-511. Notice is also given of ARS §§ 41-2517
+and 41-753.
+
+3.       Arbitration in Superior Court. As required by ARS § 12-1518, the parties agree to make use of arbitration in
+disputes that are subject to mandatory arbitration pursuant to ARS § 12-133.
+
+4.      Dispute Resolution. If a dispute arises under this Contract, the parties will exhaust all applicable administrative
+remedies provided for under Arizona Board of Regents Policy 3-809.
+
+5.       Records. To the extent required by ARS § 35-214, the non-ASU parties to this Contract (jointly and severally,
+Entity) will retain all records relating to this Contract. Entity will make those records available at all reasonable times for
+inspection and audit by ASU or the Auditor General of the State of Arizona during the term of this Contract and for a period
+of five years after the completion of this Contract. The records will be provided at Arizona State University, Tempe, Arizona,
+or another location designated by ASU on reasonable notice to Entity.
+
+6.      Failure of Legislature to Appropriate. In accordance with ARS § 35-154, if ASU’s performance under this
+Contract depends on the appropriation of funds by the Arizona Legislature, and if the Legislature fails to appropriate the
+     Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                   Page 37
+     E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+funds necessary for performance, then ASU may provide written notice of this to Entity and cancel this Contract without
+further obligation of ASU. Appropriation is a legislative act and is beyond the control of ASU.
+
+7.         Weapons, Explosive Devices and Fireworks. ASU prohibits the use, possession, display or storage of any weapon,
+explosive device or fireworks on all land and buildings owned, leased, or under the control of ASU or its affiliated or related
+entities, in all ASU residential facilities (whether managed by ASU or another entity), in all ASU vehicles, and at all ASU or
+ASU affiliate sponsored events and activities, except as provided in ARS § 12-781, or unless written permission is given by
+the Chief of the ASU Police Department or a designated representative. Notification by Entity to all persons or entities who
+are employees, officers, subcontractors, consultants, agents, guests, invitees or licensees of Entity (Entity Notification
+Parties) of this policy is a condition and requirement of this Contract. Entity further agrees to enforce this contractual
+requirement       against    all      Entity     Notification  Parties.  ASU’s      policy      may    be      accessed      at:
+www.asu.edu/aad/manuals/pdp/pdp201-05.html.
+
+8.       Confidentiality. ASU is a public institution and, as such, is subject to ARS §§ 39-121 through 39-127 regarding
+public records. Accordingly, any provision regarding confidentiality is limited to the extent necessary to comply with
+Arizona law.
+
+9.        Indemnification and Liability Limitations. ASU is a public institution and, as such, any indemnification, liability
+limitation, releases, or hold harmless provision in this Contract will be limited as required by Arizona law, including without
+limitation Article 9, Sections 5 and 7 of the Arizona Constitution and ARS §§ 35-154 and 41-621. Therefore, ASU’s liability
+under any claim for indemnification in this Contract is limited to claims for property damage, personal injury, or death to the
+extent caused by acts or omissions of ASU.
+
+10.      Indemnification by Entity. Entity will indemnify, defend, save and hold harmless the State of Arizona, its
+departments, agencies, boards, commissions, universities, and its and their officials, agents and employees (collectively,
+Indemnitee) for, from, and against any and all claims, actions, liabilities, damages, losses, or expenses (including court costs,
+attorneys’ fees, and costs of claim processing, investigation, and litigation) for bodily injury or personal injury (including
+death), or loss or damage to tangible or intangible property to the extent caused, or alleged to be caused, by (i) the negligence,
+acts or omissions of Entity, or any of its owners, officers, directors, members, managers, agents, employees, contractors or
+subcontractors (the Entity Parties); (ii) a breach of this Contract; or (iii) failure to comply with any applicable law. Entity will
+be responsible for primary loss investigation, defense and judgment costs where this indemnification is applicable..
+
+11.      Responsibility. Each party will be responsible for the negligence, acts and omissions of its employees and
+contractors when acting under such party’s direction and supervision. Notwithstanding the terms of this Contract or any other
+document or agreement: (i) other than for employees and contractors acting under ASU’s direction and supervision, ASU is
+not responsible for any actions of any third parties, including its students; and (ii) no person may bind ASU unless they are an
+authorized signatory of ASU, as set forth in PUR-202, which is at www.asu.edu/counsel/manual/signatureauthority.html.
+
+12.      Advertising, Publicity, Names and Marks. Entity will not do any of the following, without, in each case, ASU’s
+prior written consent: (i) use any names, service marks, trademarks, trade names, logos, or other identifying names, domain
+names, or identifying marks of ASU (ASU Marks), for any reason including online, advertising, or promotional purposes; (ii)
+issue a press release or public statement regarding this Contract; or (iii) represent or imply any ASU endorsement or support
+of any product or service in any public or private communication. Any permitted use of any ASU Marks must comply with
+ASU’s requirements, including using the ® indication of a registered trademark where applicable.
+
+13.      Student Educational Records. Student educational records are protected by the federal Family Educational Rights
+and Privacy Act, 20 U.S.C. § 1232g (FERPA). Entity will comply with FERPA and will not access or make any disclosures
+of student educational records to third parties without prior notice to and consent from ASU or as otherwise provided by law.
+If this Contract contains a scope of work or other provision that requires or permits Entity to access or release any student
+records, then, for purposes of this Contract only, ASU designates Entity as a “school official” for ASU under FERPA, as that
+term is used in FERPA and its implementing regulations. In addition, any access or disclosures of student educational records
+made by Entity or any Entity Parties must comply with ASU’s definition of legitimate educational purpose, which definition
+can be found at: SSM 107-01: Release of Student Information (http://www.asu.edu/aad/manuals/ssm/ssm107-01.html). If
+Entity violates the terms of this section, Entity will immediately provide notice of the violation to ASU.
+
+
+
+      Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                      Page 38
+      E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+14.      Title IX Obligation. Title IX protects individuals from discrimination based on sex, including sexual harassment.
+ASU fosters a learning and working environment that is built on respect and free of sexual harassment. ASU’s Title IX
+Guidance is available at www.asu.edu/titleIX/Vendors-and-an-Environment-of- Respect.pdf. Entity will: (i) comply with
+ASU’s Title IX Guidance; (ii) provide ASU’s Title IX Guidance to any Entity Parties who may reasonably be expected to
+interact with ASU students and employees, in person or online; and (iii) ensure that all Entity Parties comply with ASU’s
+Title IX Guidance.
+
+15.      Authorized Presence Requirements. As required by ARS § 41-4401, ASU is prohibited from awarding a contract
+to any contractor or subcontractor that fails to comply with ARS § 23-214(A) (verification of employee eligibility through the
+e-verify program). Entity warrants that it and its subcontractors comply fully with all applicable federal immigration laws and
+regulations that relate to their employees and their compliance with ARS § 23-214(A). A breach of this warranty will be a
+material breach of this Contract that is subject to penalties up to and including termination of this Contract. ASU retains the
+legal right to inspect the papers of any contractor or subcontractor employee who works hereunder to ensure that the
+contractor or subcontractor is complying with the above warranty.
+
+16.      Tobacco-Free University. ASU is tobacco-free. For details visit www.asu.edu/tobaccofree.
+
+17.       Intellectual Property Ownership. All Intellectual Property that Entity or any of the Entity Parties make, conceive,
+discover, develop or create, either solely or jointly with any other person or persons including ASU, for or at the request of
+ASU in connection with this Contract (Contract IP), will be owned by ASU. Where applicable, all copyrightable works will
+be considered “Work Made for Hire” under the U.S. Copyright Act, 17 U.S.C. § 101, et seq. To the extent that any Contract
+IP is not considered work made for hire for ASU (or if ownership of all rights therein does not otherwise vest exclusively in
+ASU), Entity hereby irrevocably assigns, and will cause its employees, contractors, subcontractors and agents to so assign,
+without further consideration, to ASU all right, title and interest to all Contract IP. Intellectual Property means all ASU Data,
+any and all inventions, designs, original works of authorship, formulas, processes, compositions, programs, databases, data,
+technologies, discoveries, ideas, writings, improvements, procedures, techniques, know-how, and all patent, trademark,
+service mark, trade secret, copyright and other intellectual property rights (and goodwill) relating to the foregoing. Entity will
+make full and prompt disclosure of the Contract IP to ASU. During and after the term, Entity will, and will cause the Entity
+Parties, as and when requested by ASU, to do such acts, and sign such instruments to vest in ASU the entire right, title and
+interest to the Contract IP, and to enable ASU to prepare, file, and prosecute applications for, and to obtain patents and/or
+copyrights on, the Contract IP, and, at ASU’s expense, to cooperate with ASU in the protection and/or defense of the
+Contract IP.
+
+Alternate language if Entity is not creating any Intellectual Property for or at the request of ASU:
+Intellectual Property Ownership. Neither Entity nor any Entity Parties will make, conceive, discover, develop or create,
+either solely or jointly with any other person or persons including ASU, any Intellectual Property for or at the request of ASU
+in connection with this Contract (Contract IP). However, to the extent any Contract IP is created, it will be owned by ASU
+and Entity hereby irrevocably assigns, and will cause all Entity Parties to so assign, without further consideration, to ASU all
+right, title and interest to all Contract IP. Intellectual Property means any and all ASU Data, inventions, designs, original
+works of authorship, formulas, processes, compositions, programs, databases, data, technologies, discoveries, ideas,
+writings, improvements, procedures, techniques, know-how, and all patent, trademark, service mark, trade secret, copyright
+and other intellectual property rights (and goodwill) relating to the foregoing. Entity will make full and prompt disclosure of
+the Contract IP to ASU.
+
+18.       Entity’s Intellectual Property Ownership Rights. Entity will retain ownership of its pre-existing Intellectual
+Property, including any of its pre-existing Intellectual Property that may be incorporated into the Contract IP, provided that
+Entity informs ASU in writing before incorporating any pre-existing Intellectual Property into any Contract IP. Entity hereby
+grants to ASU a perpetual, irrevocable, royalty-free, worldwide right and license (with the right to sublicense), to freely use,
+make, have made, reproduce, disseminate, display, perform, and create derivative works based on such pre-existing
+Intellectual Property as may be incorporated into the Contract IP or otherwise provided to ASU in the course of performing
+under this Contract.
+
+19.      Data Use, Ownership, and Privacy. As between the parties, ASU will own, or retain all of its rights in, all data and
+information that ASU provides to Entity, as well as all data and information managed by Entity on behalf of ASU, including
+all output, reports, analyses, and other materials relating to, derived from, or generated pursuant to this Contract, even if
+generated by Entity, as well as all data obtained or extracted through ASU’s or Entity’s use of such data or information
+      Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                    Page 39
+      E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+(collectively, ASU Data). ASU Data also includes all data and information provided directly to Entity by ASU students and
+employees, and includes personal data, metadata, and user content.
+
+ASU Data will be ASU’s Intellectual Property and Entity will treat it as ASU’s confidential and proprietary information.
+Entity will not use, access, disclose, or license, or provide to third parties, any ASU Data, except: (i) to the extent necessary
+to fulfill Entity’s obligations to ASU hereunder; or (ii) as authorized in writing by ASU. Without limiting the generality of
+the foregoing, Entity will not use any ASU Data, whether or not aggregated or de-identified, for product development,
+marketing, profiling, benchmarking, or product demonstrations, without, in each case, ASU’s prior written consent. Entity
+will not, directly or indirectly: (x) attempt to re-identify or de- aggregate deidentified or aggregated information; or (y)
+transfer deidentified and aggregated information to any party unless that party agrees not to attempt re-identification or de-
+aggregation. For ASU Data to be considered deidentified, all direct and indirect personal identifiers must be removed,
+including names, ID numbers, dates of birth, demographic information, location information, and school information. Upon
+request by ASU, Entity will deliver, destroy, and/or make available to ASU, any or all ASU Data.
+
+Notwithstanding the foregoing, if this Contract contains a scope of work or other provision that requires or allows Entity to
+provide aggregated and deidentified data to Entity’s customers, then Entity may provide such information solely to the extent
+allowed in this Contract, and only if such data is aggregated with similar data of other customers of Entity (i.e. is not
+identified as ASU, ABOR, or Arizona-specific).
+
+20.      Information Security. All systems containing ASU Data must be designed, managed, and operated in accordance
+with information security best practices and in compliance with all applicable federal and state laws, regulations and policies.
+To diminish information security threats, Entity will (either directly or through its third party service providers) meet the
+following requirements:
+(a) Access Control. Control access to ASU's resources, including sensitive ASU Data, limiting access to legitimate
+business need based on an individual’s job-related assignment. Entity will, or will cause the system administrator to, approve
+and track access to ensure proper usage and accountability, and Entity will make such information available to ASU for
+review, upon ASU’s request.
+(b) Incident Reporting. Report information security incidents immediately to ASU (including those that involve
+information disclosure incidents, unauthorized disclosure of ASU Data, network intrusions, successful virus attacks,
+unauthorized access or modifications, and threats and vulnerabilities).
+(c) Off Shore. Direct services under this Contract will be performed within the borders of the United States. Any services
+that are described in this Contract that directly serve ASU and may involve access to secure or sensitive ASU Data or
+personal client data or development or modification of software for ASU will be performed within the borders of the United
+States. Unless stated otherwise in this Contract, this requirement does not apply to indirect or "overhead" services, redundant
+back-up services or services that are incidental to the performance of this Contract. This provision applies to work performed
+by subcontractors at all tiers and to all ASU Data.
+(d) Patch Management. Carry out updates and patch management for all systems and devices in a timely manner and to
+the satisfaction of ASU. Updates and patch management must be deployed using an auditable process that can be reviewed
+by ASU upon ASU’s request.
+(e) Encryption. All systems and devices that store, process or transmit sensitive ASU Data must use an industry standard
+encryption protocol for data in transit and at rest.
+(f) Notifications. Notify ASU immediately if Entity receives any kind of subpoena for or involving ASU Data, if any
+third-party requests ASU Data, or if Entity has a change in the location or transmission of ASU Data. All notifications to
+ASU required in this Information Security paragraph will be sent to ASU Information Security at Infosec@asu.edu, in
+addition to any other notice addresses in this Contract.
+(g) Security Reviews. Complete SOC2 Type II or substantially equivalent reviews in accordance with industry standards,
+which reviews are subject to review by ASU upon ASU’s request. Currently, no more than two reviews per year are required.
+(h) Scanning and Penetration Tests. Perform periodic scans, including penetration tests, for unauthorized applications,
+services, code and system vulnerabilities on the networks and systems included in this Contract at regular intervals in
+accordance with industry standards and best practices. Entity must correct weaknesses within a reasonable period of time, and
+Entity must provide proof of testing to ASU upon ASU’s request.
+(i) ASU Rights. ASU reserves the right (either directly or through third party service providers) to scan and/or penetration
+test any purchased and/or leased software regardless of where it resides.
+(j) Secure Development. Use secure development and coding standards including secure change management procedures
+in accordance with industry standards. Perform penetration testing and/or scanning prior to releasing new software versions.
+Entity will provide internal standards and procedures to ASU for review upon ASU request.
+     Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                    Page 40
+     E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+21.      Background Checks. To ensure the safety and security of ASU, Entity will, at Entity’s expense, conduct reference
+checks, background checks, and fingerprinting (Screenings) as and when required, on all persons employed or contracted by
+Entity to perform work under this Contract. The necessity and adequacy of the Screenings will be determined by the type of
+work each person will be performing under this Contract. Entity will conduct Screenings on each person, as would be
+required if ASU were hiring the person, within 90 days prior to that person commencing work under this Contract. The
+minimum Screening requirements are set forth in ASU ACD 126 at http://www.asu.edu/aad/manuals/acd/acd126.html and
+ARS § 15-1649. During the term of this Contract, Entity will exclude from any direct participation in Entity’s performance
+under this Contract, any dishonest, unethical, unreasonably dangerous or otherwise unqualified person. Entity will maintain
+as part of the records Entity is required to maintain hereunder, all Screening information and all documentation relating to
+work performance for each employee or contractor who performs work hereunder. Entity will abide by all applicable laws,
+rules and regulations including the Fair Credit Reporting act and/or any equal opportunity laws, rules, regulations or
+ordinances.
+
+22.      Payment Card Industry Data Security Standard. For e-commerce business and/or payment card transactions,
+Entity will comply with the requirements and terms of the rules of all applicable payment card industry associations or
+organizations, as amended from time to time (PCI Security Standards), and be solely responsible for security and maintaining
+confidentiality of payment card transactions processed by means of electronic commerce up to the point of receipt of such
+transactions by a qualified financial institution.
+
+Entity will, at all times during the term of this Contract, be in compliance with the then current standard for Payment Card
+Industry Data Security Standard (PCI DSS), Payment Application Data Security Standard (PA- DSS) for software, and PIN
+Transaction Security (PCI PTS) for hardware. Entity will provide attestation of compliance to ASU annually by delivering to
+ASU current copies of the following: (i) Entity’s “Attestation of Compliance for Onsite Assessments – Service Providers;”
+(ii) an attestation that all ASU locations are being processed and secured in the same manner as those in Entity’s “PCI Report
+on Compliance;” and (iii) a copy of Entity’s PCI Report on Compliance cover letter. Entity will notify ASU immediately if
+Entity becomes non- compliant, and of the occurrence of any security incidents (including information disclosure incidents,
+network intrusions, successful virus attacks, unauthorized access or modifications, and threats and vulnerabilities).
+
+Entity’s services must include the following:
+(a) Entity maintains its own network operating on its own dedicated infrastructure. Entity’s network includes a firewall that
+(i) includes access control rules that separate Entity’s PCI network from ASU, and (ii) restricts any communication between
+Entity’s network devices and ASU systems.
+(b) Entity treats the ASU network as an untrusted network and no unencrypted cardholder data traverses or otherwise is
+stored on ASU’s network, and ASU has no ability to decrypt cardholder data.
+(c) All devices must be SRED (secure reading and exchange of data), EMV (Europay, MasterCard and VISA)
+and PTS POI compliant.
+
+23.      Americans with Disabilities Act and Rehabilitation Act. Entity will comply with all applicable provisions of the
+Americans with Disabilities Act, the Rehabilitation Act of 1973, and all applicable federal regulations. All electronic and
+information technology and products and services to be used by ASU faculty/staff, students, program participants, or other
+ASU constituencies must be compliant with the Americans with Disabilities Act and Section 508 of the Rehabilitation Act of
+1973, as amended from time to time. Compliance means that a disabled person can acquire the same information, engage in
+the same interactions, and enjoy the same services as a nondisabled person, in an equally effective and integrated manner,
+with substantially equivalent ease of use.
+
+24.       Warranties. Entity warrants to ASU that: (i) all of the Contract services will be performed in a professional and
+workmanlike manner and in conformity with industry standards by persons reasonably suited by skill, training and
+experience for the type of services they are assigned to perform; (ii) Entity will comply, and will be responsible for ensuring
+Entity Parties comply, with all applicable federal, state and local laws in the performance of this Contract; (iii) Entity owns or
+has sufficient rights in all goods and services to be delivered by Entity, and the goods and services delivered by Entity will
+not infringe upon or violate any Intellectual Property of any third parties; (iv) any code or software developed or delivered by
+Entity under this Contract will not contain any viruses, worms, Trojan Horses, or other disabling devices or code; and (v) in
+addition to any implied warranties, all goods and services delivered by Entity will conform to the specifications and
+descriptions created therefor.
+
+
+
+     Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                     Page 41
+     E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+25.     No Boycott of Israel. As required by ARS §§ 35-393 to 35-393.01, Entity certifies it is not currently engaged in a
+boycott of Israel and will not engage in a boycott of Israel during the term of this Contract.
+
+26.      Insurance Requirements. Without limiting any liabilities or any other obligation of Entity, Entity will purchase and
+maintain (and cause its subcontractors to purchase and maintain), until all of their obligations have been discharged,
+including any warranty periods under this Contract, or are satisfied, insurance against claims for injury to persons or damage
+to property that may arise from or in connection with the performance of the work hereunder by Entity, its agents,
+representatives, employees or subcontractors.
+
+27.      These insurance requirements are minimum requirements for this Contract and in no way limit any indemnity
+covenants in this Contract. ASU does not warrant that these minimum limits are sufficient to protect Entity from liabilities
+that might arise out of the performance of the work under this Contract by Entity, its agents, representatives, employees, or
+subcontractors.
+
+A. Minimum Scope and Limits of Insurance: Entity will provide coverage with limits of liability not less than those
+stated below:
+
+1.    Commercial General Liability – Occurrence Form.          Policy will include bodily injury, property damage, personal
+injury, and broad form contractual liability coverage.
+
+          •   General Aggregate                                                   $2,000,000
+          •   Products – Completed Operations Aggregate                           $1,000,000
+          •   Personal and Advertising Injury                                     $1,000,000
+          •   Blanket Contractual Liability – Written and Oral                    $1,000,000
+          •   Fire Legal Liability                                                $    50,000
+          •   Each Occurrence                                                     $1,000,000
+
+      a. Policy will be endorsed to include the following additional insured language: “The State of Arizona, its
+         departments, agencies, boards, commissions, universities, and its officers, officials, agents, and employees, will be
+         named as additional insureds with respect to liability arising out of the activities performed by or on behalf of
+         Entity.”
+      b. Policy will contain a waiver of subrogation against the State of Arizona, its departments, agencies, boards,
+         commissions, universities, and its officers, officials, agents, and employees, for losses arising from work performed
+         by or on behalf of Entity.
+
+2.   Automobile Liability. Bodily Injury and Property Damage for any owned, hired, and/or non-owned vehicles used in the
+performance of this Contract.
+
+          •   Combined Single Limit (CSL)                                         $1,000,000
+
+      a. Policy will be endorsed to include the following additional insured language: “The State of Arizona, its
+         departments, agencies, boards, commissions, universities, and its officers, officials, agents, and employees, will be
+         named as additional insureds with respect to liability arising out of the activities performed by or on behalf of
+         Entity, involving vehicles owned, leased, hired, or borrowed by Entity.”
+      b. Policy will contain a waiver of subrogation against the State of Arizona, its departments, agencies, boards,
+         commissions, universities, and its officers, officials, agents, and employees, for losses arising from work performed
+         by or on behalf of Entity.
+      c. Policy will contain a severability of interest provision.
+
+
+
+
+     Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                 Page 42
+     E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+3.    Worker’s Compensation and Employers’ Liability . Statutory limits, as amended from time to time, and in each case
+no less than the amounts specified below:
+
+      Workers Compensation
+      Employers Liability
+         • Each Accident                                                             $1,000,000
+         • Disease – Each Employee                                                   $1,000,000
+         • Disease – Policy Limit                                                    $1,000,000
+
+      a. Policy will contain a waiver of subrogation against the State of Arizona, its departments, agencies, boards,
+         commissions, universities, and its officers, officials, agents, and employees, for losses arising from work performed
+         by or on behalf of Entity.
+      b. This requirement will not apply to: Separately, EACH contractor or subcontractor exempt under ARS § 23-901,
+         AND when such contractor or subcontractor signs the appropriate waiver (Sole Proprietor/ Independent Contractor)
+         form.
+
+4.   Technology/Network Errors and Omissions Insurance.
+
+          • Each Claim                                                               $2,000,000
+          • Annual Aggregate                                                         $4,000,000
+
+      a. This insurance will cover Entity’s liability for acts, errors and omissions arising out of Entity’s operations or
+         services, including loss arising from unauthorized access or use that results in identity theft or fraud.
+      b. Coverage will include the following:
+       • Hostile action or a threat of hostile action with the intent to affect, alter, copy, corrupt, destroy, disrupt, damage, or
+         provide unauthorized access/unauthorized use of a computer system including exposing or publicizing confidential
+         electronic data or causing electronic data to be inaccessible;
+       • Computer viruses, Trojan horses, worms and other type of malicious or damaging code;
+       • Dishonest, fraudulent, malicious, or criminal use of a computer system by a person, whether identified or not, and
+         whether acting alone or in collusion with other persons, to affect, alter, copy corrupt, delete, disrupt, or destroy a
+         computer system or obtain financial benefit for any party or to steal or take electronic data;
+       • Denial of service for which the insured is responsible that results in the degradation of or loss of access to internet
+         or network activities or normal use of a computer system;
+       • Loss of service for which the insured is responsible that results in the inability of a third party, who is authorized to
+         do so, to gain access to a computer system and conduct normal internet or network activities;
+       • Access to a computer system or computer system resources by an unauthorized person or an authorized person in
+         an unauthorized manner;
+       • Loss or disclosure of confidential information no matter how it occurs;
+       • Systems analysis;
+       • Software Design;
+       • Systems programming;
+       • Data processing;
+       • Systems integration;
+       • Outsourcing including outsourcing development and design;
+       • Systems design, consulting, development and modification;
+       • Training services relating to computer software or hardware;
+       • Management, repair and maintenance of computer products, networks and systems;
+       • Marketing, selling, servicing, distributing, installing and maintaining computer hardware or software; and
+       • Data entry, modification, verification, maintenance, storage, retrieval or preparation of data output.
+
+      c. If the liability insurance required by this Contract is written on a claims-made basis, Entity warrants that any
+         retroactive date under the policy will precede the effective date of this contract, and that either continuous coverage
+         will be maintained or an extended discovery period will be exercised for a period of 2 years beginning at the time
+         work under this Contract is completed.
+
+     Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                      Page 43
+     E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+      d. Policy will cover professional misconduct or lack of ordinary skill for those positions defined in the scope of work
+         of this Contract.
+
+5.   Professional Liability (Errors and Omissions Liability).
+
+          • Each Claim                                                              $1,000,000
+          • Annual Aggregate                                                        $2,000,000
+
+      a. If the professional liability insurance required by this Contract is written on a claims-made basis, Entity warrants
+         that any retroactive date under the policy will precede the effective date of this Contract; and that either continuous
+         coverage will be maintained or an extended discovery period will be exercised for 2 years beginning at the time
+         work under this Contract is completed.
+      b. Policy will cover professional misconduct or lack of ordinary skill for those positions defined in the scope of work
+         of this Contract.
+
+B. Additional Insurance Requirements: All policies will include, or be endorsed to include, the following provisions
+(blanket endorsements are not acceptable):
+
+      1. The State of Arizona, its departments, agencies, boards, commissions, universities, and its officers, officials,
+         agents, and employees, wherever additional insured status is required such additional insured will be covered to the
+         full limits of liability purchased by Entity, even if those limits of liability are in excess of those required by this
+         Contract.
+
+      2. Entity’s insurance coverage will be primary insurance with respect to all other available sources.
+
+      3. Coverage provided by Entity will not be limited to the liability assumed under the indemnification provisions of
+         this Contract.
+
+C. Notice of Cancellation; Material Changes: Changes to the insurance policies described above, which changes are
+material to compliance with this Contract, will require 30 days prior written notice to ASU; however, 10 days prior written
+notice is required prior to cancellation due to non-payment of premiums. Notices required in this Section must be sent
+directly to Director of Risk Management, Arizona State University, PO Box 876512, Tempe, AZ, 85287-6512 and will be
+sent by United States certified mail, return receipt requested.
+
+D. Acceptability of Insurers: Insurance is to be placed with duly licensed or approved non-admitted insurers in the State
+of Arizona with an “A.M. Best” rating of not less than A- VII. ASU in no way warrants that the above required minimum
+insurer rating is sufficient to protect Entity from potential insurer insolvency.
+
+E.   Verification of Coverage: Entity will furnish ASU with certificates of insurance (ACORD form or equivalent
+approved by the State of Arizona) as required by this Contract. The certificates for each insurance policy are to be signed by a
+person authorized by that insurer to bind coverage on its behalf.
+
+All certificates and endorsements are to be received and approved by ASU before work commences. Each insurance policy
+required by this Contract must be in effect at or prior to commencement of work under this Contract and remain in effect for
+the duration of this Contract. Failure to maintain the insurance policies as required by this Contract, or to provide evidence of
+renewal, is a material breach of contract.
+
+All certificates required by this Section must be sent to Director of Risk Management, Arizona State University, PO Box
+876512, Tempe, AZ, 85287-6512. ASU’s project or purchase order number and project description will be noted on each
+certificate of insurance. The State of Arizona and ASU each reserves the right to require complete, certified copies of all
+insurance policies required by this Contract at any time.
+
+F.    Subcontractors: Entity’s certificate(s) will include all subcontractors as insureds under its policies or Entity will
+furnish to ASU separate certificates and endorsements for each subcontractor. All coverages for subcontractors will be
+subject to the minimum requirements identified above.
+
+     Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                    Page 44
+     E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+G. Approval. These insurance requirements are the standard insurance requirements of ASU. Any modification or
+variation from the insurance requirements in this Contract will require the approval of the Arizona Department of
+Administration Risk Management Section.
+
+28.      Notices. All notices and communications required or permitted under this Contract will be in writing and will be
+given by personal delivery against receipt (including private courier service such as Federal Express), or certified United
+States Mail, return receipt requested. All notices and communications will be sent to the addresses set forth below or to such
+other address as the parties may specify in the same manner:
+
+         To ASU:
+                   (department name)
+                   PO Box (department box number)
+                   Tempe, AZ 85287
+                   Attn: (name of title – no individual names)
+
+         With a copy to:
+                 Purchasing and Business Services
+                 PO Box 875212
+                 Tempe, AZ 85287-5212
+                 Attn: Chief Procurement Officer
+
+         To Entity:
+                  (name)
+                  (address)
+                  (city, state, zip)
+
+Notices, if delivered, and if provided in the manner set forth above, will be deemed to have been given and received on the
+date of actual receipt or upon the date receipt was refused. Any notice to be given by any party may be given by legal counsel
+for such party.
+
+29.      Termination. ASU may terminate this Contract with or without cause upon 30 days written notice to Entity. If this
+Contract is terminated pursuant to this section, ASU will have no further obligations other than payment for services
+rendered, goods received, and expenses incurred, and Entity will refund to ASU all prepaid amounts for goods or services not
+delivered or rendered. The term of this Contract will not exceed 5 years.
+
+30.     Leased Employees. Entity will determine and inform ASU if any leased employees are retired members of the
+Arizona State Retirement System prior to the leased employee performing any work under this Contract..
+
+31.      Foreign Corrupt Practices Act/UK Bribery Act/ Local Anti-corruption Law Compliance. Entity warrants that
+it is familiar with the U.S. laws prohibiting corruption and bribery under the U.S. Foreign Corrupt Practices Act and the
+United Kingdom laws prohibiting corruption and bribery under the UK Bribery Act. In connection with Entity’s work under
+this Contract, Entity will not offer or provide money or anything of value to any governmental official or employee or any
+candidate for political office in order to influence their actions or decisions, to obtain or retain business arrangements, or to
+secure favorable treatment in violation of the Foreign Corrupt Practices Act, the UK Bribery Act, or any other local anti-
+corruption law, either directly or indirectly. Any breach of the U.S. Foreign Corrupt Practices Act, the UK Bribery Act, or
+other local anti- corruption law, will be a material breach of this Contract.
+
+32.       Export Controls. Interactions between U.S. nationals and non-U.S. nationals may be subject to U.S. laws and
+regulations controlling the transfer or sharing of information or technical data, computer software, laboratory prototypes and
+other commodities (Technology), as defined and restricted by the U.S. Export Administration Regulations, U.S. International
+Traffic in Arms Regulations, and through the sanctions and embargoes established through the Office of Foreign Assets
+Control (collectively, the Export Control Laws). None of the work undertaken pursuant to this Contract will require either
+party to take or fail to take any action that would cause a violation of any of the Export Control Laws. If any of the work to
+be undertaken pursuant to this Contract requires, in ASU’s sole judgment and discretion, a license or other authorization from
+any agency or authority of the U.S. government and/or any written assurances that the party receiving any Technology will
+not re-export, transfer, or otherwise share such Technology to or with certain other foreign nationals or destinations without
+     Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                    Page 45
+     E&I Cooperative Services, Inc.
+ATTACHMENT E – Arizona State University Supplemental Terms and Conditions
+
+the prior approval of the U.S. Government, no such work will be required unless and until the appropriate license or written
+assurance is obtained. The parties will cooperate with each other to facilitate compliance with any applicable requirements of
+the Export Control Laws.
+
+33.      Assignment. Entity may not transfer or assign this Contract or any of Entity’s rights or obligations hereunder, either
+directly or indirectly, or by operation of law, without ASU’s prior written consent, and any attempt to the contrary shall be
+void.
+
+34.     Governing Law and Venue. This Contract will be governed by the laws of the State of Arizona without regard to
+any conflicts of laws principles. ASU’s obligations hereunder are subject to the regulations/policies of the Arizona Board of
+Regents. Any proceeding arising out of or relating to this Contract will be conducted in Maricopa County, Arizona. Each
+party consents to such jurisdiction, and waives any objection it may now or hereafter have to venue or to convenience of
+forum.
+
+
+THE ARIZONA BOARD OF REGENTS,                                       ENTITY:
+a body corporate, for and on behalf of
+ARIZONA STATE UNIVERSITY
+
+By:                                                                 By:
+Title:                                                              Title:
+Date signed:                                                        Date signed:
+
+
+
+
+     Request for Proposal – Attachment E, ASU Supplemental Terms and Conditions                                  Page 46
+     E&I Cooperative Services, Inc.
+ATTACHMENT F – HUB Forms – State of TX
+
+
+Supplier should make a good faith effort to provide subcontracting opportunities to Minority and/or Women Owned
+companies for consideration for members in the State of Texas. Include Attachment F in Tab 7 of the proposal response.
+
+The forms for this Attachment and other information are available to print/download at:
+
+http://www.window.state.tx.us/procurement/prog/hub/hub-forms/
+
+
+Suppliers shall indicate their willingness and commitment to submit a Historically Underutilized Business (HUB) Plan
+for the State of Texas, if the purchase(s) will exceed $100,000.00 for an agency. The agency shall make the
+determination for the need for the HUB Plan and as requested by each agency the Supplier shall immediately comply.
+
+Supplier shall sign below and return with proposal to indicate the commitment to make a good faith effort as stated above,
+as requested.
+
+
+
+Authorized Signature
+
+
+Company and address
+
+
+
+
+     Request for Proposal – Attachment F, HUB Forms - State of TX                                            Page 47
+     E&I Cooperative Services, Inc.
+ATTACHMENT G – Compliance Language – State of CT
+
+Connecticut State Institutions of Public Higher Education may be interested in purchasing the product(s) and/or service(s)
+included in this solicitation. Therefore, pursuant with State of Connecticut requirements, Suppliers must complete the
+following forms/affidavits to satisfy State requirements. Include Attachment G in Tab 7 of the proposal response.
+
+
+Ethics Forms
+Suppliers complete the following ethics forms from the State of Connecticut Office of Policy and Management website.
+(http://www.ct.gov/opm/cwp/view.asp?a=2982&q=386038&opmNav_ GID=1806)
+
+    •      Gift and Campaign Contribution Certification (OPM Ethics Form 1)
+    •      Consulting Agreement Affidavit (OPM Ethics Form 5)
+    •      Affirmation of Receipt of State Ethics Laws Summary (OPM Ethics Form 6)
+    •      Iran Certification (OPM Ethics Form 7)
+
+
+Nondiscrimination Certification Forms
+Suppliers must select and complete the appropriate nondiscrimination certification form from the State of Connecticut Office
+of Policy and Management website.
+(http://www.ct.gov/opm/cwp/view.asp?a=2982&q=390928&opmNav_ GID=1806)
+
+    Definitions
+    • Individual: a person who is not an entity
+    • Entity: corporation, limited liability company, or partnership
+
+    Explanation of Forms:
+    • Form A. Representation: For use by an individual when entering into any contract, regardless of contract value.
+    • Form B. Representation: For use by an entity when entering into any contract valued at less than $50,000 for any
+        year of the contract.
+    • Form C. Affidavit: (Recommended) For use by an entity when entering into any contract valued at $50,000 or
+        more for any year of the contract and the entity certifies through an affidavit that a complying nondiscrimination
+        policy is currently in place.
+    • Form D. New Resolution: For use by a entity when entering into any contract valued at $50,000 or more for any
+        year of the contract and the entity has a complying nondiscrimination policy adopted by a new resolution of the
+        board of directors, shareholders, managers, members, or other governing body.
+    • Form E. Prior Resolution: For use by a entity when entering into any contract valued at $50,000 or more for any
+        year of the contract and the entity has a complying nondiscrimination policy adopted by a prior resolution of the
+        board of directors, shareholders, managers, members, or other governing body.
+
+
+This form must be completed with Supplier’s Proposal:
+
+   Yes        No           Supplier agrees to accurately complete and submit the appropriate aforementioned documentation
+                           with its proposal.
+
+   Yes        No           Supplier agrees to sell items and/or services included in this Request for Proposal to Connecticut
+                           State Institutions of Public Higher Education.
+
+
+
+
+        Request for Proposal – Attachment G, Compliance Language - State of CT                                      Page 48
+        E&I Cooperative Services, Inc.
+ATTACHMENT H – Notice of Intent to Submit a Proposal
+
+This notice is not mandatory but is strongly recommended for Suppliers to submit in order to receive courtesy notification of
+information related to this RFP.
+
+
+                                    NOTICE OF INTENT TO SUBMIT A PROPOSAL
+            RFP 683385 for Computer Equipment and Related Hardware, Software, Services and Support
+
+
+This notice must be received no later than 1:00 PM ET on Friday, September 9, 2016 and must be sent to:
+
+Catherine Goglia
+Contract Manager, Technology
+E&I Cooperative Services, Inc.
+2 Jericho Plaza, Suite 309
+Jericho, New York, 11753-1671
+Voice: (631) 630-8318
+Fax: (631) 273-3370
+E-Mail: cgoglia@eandi.org
+
+
+I,                                   , authorized representative of      (insert company name)       hereby notifies E&I
+Cooperative Services, Inc. of the intent to submit a proposal in response to RFP 683385 for Computer Equipment and
+Related Hardware, Software, Services and Support. By signing and returning this form, I stipulate that I have reviewed the
+RFP, and that I am interested in submitting a proposal.
+
+
+ PRINT NAME:
+
+ TITLE:
+
+ CORPORATE NAME:
+
+ MAILING ADDRESS:
+
+ PHONE:
+
+ EMAIL ADDRESS:
+
+ DATE:
+
+
+
+
+     Request for Proposal – Attachment H – Notice of Intent to Submit a Proposal                                Page 49
+     E&I Cooperative Services, Inc.
+

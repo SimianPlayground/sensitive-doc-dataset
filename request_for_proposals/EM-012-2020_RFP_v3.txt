@@ -1,0 +1,563 @@
+             EFFICIENCY MAINE TRUST
+  REQUEST FOR PROPOSALS (RFP) FOR INFORMATION
+         TECHNOLOGY SERVICE PROVIDER
+
+                    RFP EM-012-2020
+                          Version 3
+
+
+             Date Issued: February 21, 2020
+
+Proposals Due: April 24, 2020, 3:00 p.m. Eastern Time (US)
+Efficiency Maine Trust                                                                   Information Technology Service Provider RFP
+
+
+Table of Contents
+SECTION 1 –            RFP INFORMATION AND INSTRUCTIONS .................................................................................... 3
+  1.1     PURPOSE ............................................................................................................................................................3
+  1.2     DESIGNATED CONTACT PERSON FOR THIS RFP ...........................................................................................................3
+  1.3     SCHEDULE ...........................................................................................................................................................3
+  1.4     ANTICIPATED CONTRACT TERM ...............................................................................................................................3
+  1.5     ANTICIPATED CONTRACT BUDGET............................................................................................................................3
+  1.6     PROPOSAL SUBMITTAL DEADLINE ............................................................................................................................3
+  1.7     SUBMITTING QUESTIONS .......................................................................................................................................4
+  1.8     PROPOSAL CONFIDENTIALITY ..................................................................................................................................4
+  1.9     CONTRACT AWARD ...............................................................................................................................................4
+  1.10       CONTRACTING PROCESS....................................................................................................................................4
+  1.11       RFP PROCESS – RESERVATION OF RIGHTS ............................................................................................................4
+  1.12       CONTRACT AGREEMENT....................................................................................................................................4
+  1.13       REQUEST FOR RECONSIDERATION .......................................................................................................................5
+SECTION 2 –            BACKGROUND INFORMATION .................................................................................................... 5
+  2.1 EFFICIENCY MAINE TRUST ......................................................................................................................................5
+  2.2 BACKGROUND AND CONTEXT.................................................................................... ERROR! BOOKMARK NOT DEFINED.
+  2.3 IT INFRASTRUCTURE OVERVIEW, DESIGN AND REQUIREMENTS ......................................................................................5
+     2.3.1   Hardware ...............................................................................................................................................5
+     2.3.2   Software .................................................................................................................................................7
+     2.3.3   Information Technology Services Provider Role .....................................................................................7
+SECTION 3 –            SCOPE OF WORK......................................................................................................................... 7
+SECTION 4 –            PROPOSAL REQUIREMENTS ........................................................................................................ 9
+  4.1     PROPOSAL PACKAGING AND PHYSICAL CONTENTS.......................................................................................................9
+  4.2     FORMAT REQUIREMENTS .......................................................................................................................................9
+  4.3     CONTENT AND ORGANIZATION REQUIREMENTS..........................................................................................................9
+SECTION 5 –            PROPOSAL EVALUATION CRITERIA ........................................................................................... 11
+  5.1     EVALUATION CRITERIA.........................................................................................................................................12
+
+Separate attachments:
+Attachment A – Proposal Cover Sheet Form
+Attachment B – Standard Agreement
+Attachment C – Project Proposal Cost Form
+
+
+
+
+                                                                                                                                                      Page 2
+Efficiency Maine Trust                                      Information Technology Service Provider RFP
+
+
+              SECTION 1 –          RFP INFORMATION AND INSTRUCTIONS
+
+     1.1      Purpose
+           The Efficiency Maine Trust (the Trust) seeks a qualified bidder or team of bidders to administer
+           information technology (IT) services for the maintenance of our network, hardware and
+           software, and for timely resolution of IT-related issues raised by staff, as needed.
+
+
+     1.2      Designated Contact Person for this RFP
+           Tim Reed
+           Communications Manager
+           Efficiency Maine Trust
+           168 Capitol Street, Suite 1
+           Augusta, ME 04330-6856
+           Phone: (207) 213-4157
+           Email: tim.reed@efficiencymaine.com
+
+     1.3      Schedule
+           Milestone                                            Date/Deadline
+ 1         RFP Issued                                           2/21/2020
+ 2         Questions Due                                        3/20/2020
+ 3         Responses to Questions Posted                        3/27/2020
+ 4         Proposals Due at Efficiency Maine Trust Office       5/1/2020, 3:00 p.m. Eastern Time (US)
+ 5         Anticipated Award Date                               5/15/2020
+ 6         Anticipated Contractor Start                         7/1/2020
+
+Schedule changes: The Trust reserves the right to modify this schedule at its discretion. Any changes or
+additional information regarding the RFP schedule and pre-bid activities, including responses to
+questions, will be posted on the Trust’s website at: http://www.efficiencymaine.com/opportunities
+
+    1.4 Anticipated Contract Term
+The Trust anticipates awarding three consecutive, one-year contracts to a single bidder to cover a period
+of performance from July 1, 2020 through June 30, 2023, with the option of adding two one-year
+extensions at the discretion of the Trust. The contracts will be Time and Materials with a not-to-exceed
+maximum.
+
+    1.5 Anticipated Contract Budget
+The Trust will develop a budget for IT services after reviewing submitted bids. Bidders are encouraged to
+propose the most cost-effective solution that meets the requirements laid out below. The contract will
+be structured on a Time and Materials basis with a Not-To-Exceed maximum budget. Over the last few
+years, the budget for IT services has averaged approximately $80,000 per year. The Trust will consider
+proposed budgets at other amounts, depending on the overall value of the services and on available
+funding.
+
+
+     1.6      Proposal Submittal Deadline
+
+
+                                                                                              Page 3
+Efficiency Maine Trust                                 Information Technology Service Provider RFP
+
+Proposals must be received at the Trust’s office by the due date and time specified in section 1.3. Any
+proposal received after the deadline will not be considered. Proposals must be complete when
+submitted; changes or additions will not be accepted after the specified due date and time, except for
+any clarifications requested of bidders by the Trust.
+
+    1.7 Submitting Questions
+Questions regarding this RFP must be submitted by email to the Designated Contact Person listed in
+section 1.2 prior to the due date above. The subject line of the email should be: “Information
+Technology Service Provider RFP Questions”. Responses to questions will be posted on
+http://www.efficiencymaine.com/opportunities.
+
+     1.8 Proposal Confidentiality
+Bidders should be aware that information provided to the Trust is subject to the Maine Freedom of
+Access Act (FOAA), 1 M.R.S. §§ 401 et seq., unless there is a specific confidentiality exemption in the
+Efficiency Maine Trust Act, 35-A M.R.S. §10106. Unless there has been an express request by a bidder
+that certain information within the statutory exemption be designated confidential and the Trust’s
+Board has made an express determination of confidentiality under the Efficiency Maine Trust Act, all
+information submitted in response to this RFP will be considered public records available for public
+inspection pursuant to the Maine FOAA following announcement of an award decision.
+
+    1.9 Contract Award
+The Trust will notify all bidders of the contract award decision by email and will post the decision on the
+Trust’s website. The Trust reserves the right to negotiate the final terms and conditions of the contract
+award with a winning bidder whose proposal is selected by the Trust, and to reject any winning bidder
+with whom the Trust cannot agree to terms and conditions meeting the Trust’s needs, in the Trust’s sole
+judgment. The Trust reserves the right to reject any proposal that does not meet these requirements.
+
+    1.10 Contracting Process
+The selection process is governed by the Efficiency Maine Trust Rule Chapter 1: Contracting Process for
+Service Providers and Grant Recipients, which can be found on the Trust’s website:
+http://www.efficiencymaine.com/docs/Chapter-1-Contracting-Process-for-Service-Providers-and-Grant-
+Recipients.pdf .
+
+    1.11 RFP Process – Reservation of Rights
+The Trust reserves the right to cancel or extend the RFP process at any time. The Trust also reserves the
+right to reject noncompliant submissions in response to this RFP and to waive minor formalities in the
+Trust’s reasonable discretion. Issuance of this RFP does not commit the Trust to make an award or to
+pay any costs or expenses incurred by a bidder in connection with preparation of a proposal or response
+to this RFP.
+
+     1.12 Contract Agreement
+A copy of the Efficiency Maine Trust Standard Agreement appropriate to this RFP is provided as
+Attachment B – Standard Agreement. This is the standard document that will complete the agreement
+for services between the winning bidder and the Trust. Information regarding a customer that has
+participated or that may participate in a Trust program is deemed confidential by the Efficiency Maine
+Trust Act. The winning bidder and its agents and subcontractors will be required to execute a
+nondisclosure agreement. See http://legislature.maine.gov/statutes/35-A/title35-Asec10106.html for
+additional information on related confidentiality restrictions.
+
+                                                                                            Page 4
+Efficiency Maine Trust                                Information Technology Service Provider RFP
+
+
+
+    1.13 Request for Reconsideration
+An aggrieved person may request a hearing for reconsideration of a contract award decision by filing a
+written petition with the Executive Director of the Trust within 14 calendar days of the notification of
+the contract award. Each petition to reconsider must meet the requirements specified in Efficiency
+Maine Trust Rule Chapter 1, Contracting Process for Service Providers and Grant Recipients, Section
+5(B), which can be found on the Trust’s website under Documents and Services:
+http://www.efficiencymaine.com/docs/Chapter-1-Contracting-Process-for-Service-Providers-and-Grant-
+Recipients.pdf
+
+
+           SECTION 2 –          BACKGROUND INFORMATION
+
+    2.1 Efficiency Maine Trust
+The Trust is the independent administrator for programs to improve the efficiency of energy use and
+reduce greenhouse gases in Maine. The Trust does this primarily by delivering financial incentives on the
+purchase of high-efficiency equipment or changes to operations that help customers save electricity,
+natural gas and other fuels throughout the Maine economy. The Trust also promotes education and
+training, maintains a website of consumer information and vendor registries, initiates pilot projects to
+explore the effectiveness of new energy technology and program designs, and conducts or manages
+measurement, verification and third-party evaluation of program activity.
+
+The Trust is a quasi-state agency governed by a Board of Trustees with oversight from the Maine Public
+Utilities Commission. The Trust currently employs 20 in-house staff who work from two office locations
+and manages a number of contractors that assist with program delivery and related analyses.
+
+     2.2 IT Infrastructure Overview, Design and Requirements
+The Trust utilizes a standard network architecture that includes a firewall, switches, servers, client
+workstations, and TCP/IP over Ethernet for connectivity. The Trust has a dedicated, locked, air-
+conditioned server room in addition to multiple printers, scanners and copiers at its main office in
+Augusta, Maine and a backup server, IT infrastructure (e.g., cabling and wireless modems), and
+printer/copier/scanner at an office in Westbrook, Maine. Telephone and internet service is provided by
+FirstLight (40/40 fiber connection). All systems operate at gigabit speeds for improved network
+performance. Windows servers run the Windows Server 2019 platform and the domain functional level
+is Windows Server 2016. The domain runs Microsoft Active Directory to handle its directory services.
+E-mail services for the Trust are run by Office 365 in a Hybrid configuration using Exchange 2016.
+Approximately 25 client workstations on the network run Microsoft Windows 10. Internet connectivity
+is provided via a business class cable connection. More detailed information on the Trust’s current
+system follows:
+
+        2.2.1   Hardware
+            o   HP Proliant DL380 Gen 9 configured as ESXI 6.0 vHost:
+
+                    ▪   Virtual Windows Server 2019 Standard running Active Directory domain
+                        controller (1), DHCP, DNS, Azure AD Connect
+                    ▪   Virtual Windows Server 2019 Standard running file/print services
+                    ▪   Virtual Windows Server 2019 Standard running financial management application
+
+
+                                                                                          Page 5
+Efficiency Maine Trust                                Information Technology Service Provider RFP
+
+                  ▪   Virtual Windows Server 2019 Standard running financial management SQL 2017
+
+                  ▪   Virtual Windows Server 2016 Standard running EAC/IIS
+          o   HP Proliant DL380 Gen 9 configured as ESXI 6.0 vHost (for Disaster recovery):
+
+                  ▪   Virtual Windows Server 2019 Standard running Active Directory domain
+                      controller (2)
+
+          o   Dell PowerEdge R710 in Westbrook:
+
+                  ▪   ESXI 6.0 vhost (for offsite Disaster recovery).
+
+          o   Firewall device - Augusta:
+
+                  ▪   Brand and Model information left out for security purposes. The firewall has
+                      features such as deep packet inspection, SSL VPN and expandability.
+
+          o   Firewall device - Westbrook:
+                  ▪   Brand and Model information left out for security purposes. The firewall has
+                      features such as deep packet inspection, SSL VPN and expandability.
+          o   VPN device:
+
+                  ▪   LoginTC RADIUS Appliance/Connector
+
+
+          o   Spam filter device:
+
+                  ▪   Barracuda Email Security Service
+
+          o   Backups:
+                  ▪   Barracuda Appliance 390 in Augusta backs up to Barracuda Appliance 490 in
+                      Westbrook and the cloud
+
+          o   UPS device:
+                  ▪   APC Smart-UPS X 3000 in Augusta
+                  ▪   APC UPS 3000 in Westbrook
+          o   Client machines:
+
+                  ▪   Efficiency Maine’s 25 client machines are a mix of Dell Latitude E5440, 5480,
+                      Precision 4700, 6800, 7200 laptops. Each laptop also has a docking station and
+                      external keyboard, mouse, monitor and other peripherals.
+
+          o   Printers:
+                  ▪   Brother HL-L6200DW
+
+                  ▪   HP LaserJet 3010
+                  ▪   Xerox AltaLink C8045
+                  ▪   Brother HL-3170CDW
+
+                                                                                        Page 6
+Efficiency Maine Trust                                  Information Technology Service Provider RFP
+
+            o   Switches:
+
+                    ▪    HP 1920S 48P POE in Augusta
+                    ▪    HP 1920S 24P POS in Westbrook
+
+            o   Wireless
+                   ▪ (4) Ubiquiti UniFi UAP-AC-LR in Augusta
+                   ▪ (1) Ubiquiti UniFi UC-CK in Augusta
+                   ▪ (1) Ubiquiti UniFi UAP-AC-LR in Westbrook
+
+         2.2.2 Software
+All Trust laptops run Windows 10 Professional and utilize Office 365 (2016). Many laptops utilize
+additional software such as Adobe Creative Suite, earlier versions of Microsoft products, and various
+plugins to integrate cloud software such as Asana and/or Infusionsoft.
+
+        2.2.3 Information Technology Services Provider Role
+The Information Technology Service Provider (ITSP) will serve as the point of contact for all information
+technology and certain data-related functions, systems, products, services and advice for the Efficiency
+Maine Trust. The ITSP will report to and through the Trust’s IT Lead. Before undertaking any special
+projects that will include billable hours, the contractor will submit an outline of the project and its best
+estimate of the time and costs that would be incurred. The Trust may deny any costs of activities not
+approved in advance. Time-critical requests for assistance must receive high-priority attention from the
+ISTP. Less urgent requests for assistance can be bundled for efficiency and cost-effectiveness, with
+anticipated timeframes for response communicated to the relevant staff member.
+
+
+           SECTION 3 –           SCOPE OF WORK
+
+Following is a task-by-task description of the work covered by this RFP.
+
+Task 1:         Information Technology Servicing Transition Plan
+The winning bidder must develop a transition plan that outlines all major tasks associated with taking
+over the management of the Information Technology infrastructure. The successful ITSP shall function
+as the main point of contact for the Trust’s information technology management.
+
+Task 2:         Network Support and Administration
+The ITSP will manage, administer and support the Trust’s computer network and servers, system
+backups and maintenance and will develop and implement policies for organization of electronic files
+and version control to support organizational efficiency. The Trust’s computer network includes all
+servers, laptops, mobile devices, printers, peripherals and programs loaded to those devices whether
+currently owned or leased and operational or later acquired during the term of the contract. The ITSP is
+expected to:
+    • Work with Trust staff to define requirements and plan project lifecycle deployment;
+    • Define resources and schedule for project/program implementation:
+    • Create strategies for risk mitigation and contingency planning;
+    • Plan and schedule project deliverables, goals, milestones;
+    • Maintain the integrity and continual operation of the network;
+
+                                                                                             Page 7
+Efficiency Maine Trust                                 Information Technology Service Provider RFP
+
+    •   Ensure the continual functioning of mission critical operations;
+    •   Maintain security and privacy of the information systems, communication lines, and equipment;
+    •   Develop, review, and certify all back-up and disaster recovery procedures and plans;
+    •   Plan and implement additions, deletions and major modifications to the IT infrastructure in
+        coordination with the IT Lead;
+    •   Oversee the implementation of network security;
+    •   Anticipate future network needs, identifies proactive solutions to satisfy needs; and,
+    •   Assist with Freedom of Information Act (FOIA) 5 U.S.C. section 552 and/or Freedom of Access
+        Act (FOAA) 1 M.R.S.A. section 401 requests for information, as needed.
+
+Task 3:           General IT Support
+The ITSP will provide responsive and timely assistance to Trust staff to address IT-related questions,
+problems and issues as they arise consistent with a service level agreement. It is anticipated that the
+contractor will address many issues and concerns remotely and by phone. The ITSP also must schedule
+regular visits to address in-office service issues. The ITSP will arrange routine maintenance and program
+upgrades so as to minimize or avoid disruption to Trust staff. The ITSP will provide general support to
+resolve hardware (including mobile devices) and network problems, upgrade software and hardware,
+monitor expiring licenses and assure that there is no lapse in necessary coverage and protection, and
+recommend improvements in security, policies and procedures. Time-critical requests from staff for
+assistance must receive high-priority attention from the ISTP. Less urgent requests for assistance can be
+bundled for efficiency and cost-effectiveness, with anticipated timeframes for response communicated
+to the relevant staff member.
+
+Task 4:         Planning and Development
+The ITSP will work with the IT Lead, Executive Director, Deputy Director, and other Trust staff to
+monitor, assess and respond to division and agency-wide technology and data-related needs and
+opportunities. The ITSP will provide input on and manage implementation of IT policies and procedures.
+For example, as requested by the Trust, the ITSP will research and/or recommend:
+    • Revised system development priorities;
+    • Improvements to overcome procedural problems;
+    • New or revised standards, procedures, and policies;
+    • Recommended long-term plans (including implementation strategies) to address IT trends; and
+    • Non-traditional/creative approaches to solving problems faced by the organization and
+        individual staff, as appropriate.
+
+Task 5:          Products and Services
+At the direction of the EMT IT lead, the ITSP will coordinate IT-related purchases, installations,
+maintenance and repair and serve as the liaison to IT vendors for computer hardware/software,
+website, email, VPN, telecommunications, and other technology-based office equipment.
+
+Task 6:         Contractors/Consultants
+The Trust may request input from the ITSP on contracts with other IT-related service providers and
+consultants for activities not covered by this RFP. In some cases, the ITSP may subcontract to additional
+providers to address time-limited requirements.
+
+
+
+
+                                                                                            Page 8
+Efficiency Maine Trust                                Information Technology Service Provider RFP
+
+
+           SECTION 4 –          PROPOSAL REQUIREMENTS
+
+     4.1 Proposal Packaging and Physical Contents
+Proposals must be delivered to the Trust in an envelope or package clearly labeled, “Response to
+Efficiency Maine Trust RFP for Information Technology Service Provider” or sent digitally to the listed
+contact.
+
+The proposal submission must include:
+    • One signed, original document that is unbound and includes all sections, forms and appendices,
+    • Four bound, hard copies of the entire original, and
+    • One electronic copy of the complete proposal. Files must be provided in Microsoft Word and/or
+       PDF format and a copy of Attachment C must be provided in Microsoft Excel format.
+
+   4.2 Format Requirements
+Proposals will be evaluated for adherence to the following format requirements:
+   • Proposals must be typewritten.
+   • Pages must be numbered.
+   • Unnecessary attachments (i.e., any attachments beyond those sufficient to present a complete,
+       comprehensive, and effective proposal) will not be considered in the evaluation of the proposal.
+   • Proposals must adhere to prescribed page limits specified in this RFP. The Trust values concise
+       proposals.
+
+    4.3 Content and Organization Requirements
+The proposal must include the following contents, which should be presented in the following order:
+
+    1. Proposal Cover Sheet Form
+       • Include a completed, signed Proposal Cover Sheet Form, which is provided in Attachment A
+          of the Request for Proposals.
+       • Proposals that include teaming arrangements must designate one party as the lead bidder.
+
+    2. Table of Contents
+
+    3. Letter of Transmittal (1 page)
+       Include a brief Letter of Transmittal, on company letterhead, signed by an appropriate officer of
+       the lead bidder who can bind the company to a contract.
+
+    4. Letters of Commitment (1 page each)
+       If the proposal involves any subcontractors, include a letter of commitment from each
+       subcontractor, signed by an appropriate officer of the subcontractor who can bind the company
+       to a contract. Include a statement certifying that the provision of services to the Trust will not
+       result in a conflict of interest.
+
+    5. Introduction (2 pages maximum)
+       Summarize understanding of the services requested in the RFP and proposed approach to
+       fulfilling the requirements of this RFP. Briefly describe the proposed project team and
+       qualifications.
+
+
+                                                                                          Page 9
+Efficiency Maine Trust                                Information Technology Service Provider RFP
+
+   6. Statement of Work (25 pages maximum)
+      Provide the following information by task to address the activities described in Section 3.
+
+                Task 1. Service Transition Plan
+       Outline all major tasks associated with taking over the management of Information Technology
+       Services. Describe the tasks, who will take the lead on each and the start and end date for each.
+       Include activities such as establishing a periodic in-office presence; establishing an off-site
+       customer service support; hiring/training personnel; updating all process documents; becoming
+       acquainted with the Trust’s security policies; and orchestrating a seamless transition of service.
+       Describe your team’s experience and proposed approach to taking over existing/established
+       infrastructure.
+
+              Task 2. Network Support and Administration
+       Describe your team’s experience and approach to network support and administration.
+
+              Task 3. General IT support
+       Describe your experience, capabilities and approach to general IT support, staffing, and training.
+
+               Task 4. Planning and Development
+       Describe your approach and any experience in planning and developing a process to stay ahead
+       of operating system retirement, hardware failure, and meeting new security standards.
+
+                Task 5. Products and Services
+       Describe your experience and proposed process steps to coordinate IT-related purchases,
+       installations, maintenance and repair and to serve as the liaison to IT vendors.
+
+               Task 6. Contractors/Consultants
+       Describe your experience and proposed approach to providing input on statements of work for
+       contracts with IT-related service providers and consultants.
+
+   7. Proposed Service Level Agreement
+      Provide a proposed service level agreement (SLA) that covers performance measures for all
+      tasks covered by this RFP. For general IT support (Task 3), include response times for both time-
+      critical and less urgent requests for assistance from staff.
+
+   8. Qualifications, Staffing and Management (10 pages maximum)
+           a. Corporate Qualifications
+      Describe your team’s qualifications, including brief descriptions of past experience on contracts
+      of similar scope and size. For each, provide the client name, the results achieved, and how the
+      work is relevant to the current RFP.
+
+           b. Individual Qualifications
+       For each staff member that is bid on the project, please provide a brief narrative that includes a
+       description of the individual’s role on this project and a summary of his or her relevant
+       education, training, experience and expertise. Include resumes.
+
+
+
+
+                                                                                         Page 10
+Efficiency Maine Trust                                  Information Technology Service Provider RFP
+
+            c. Organizational Chart
+        Provide an organizational chart of the proposed team for the program. The chart should
+        identify key team members where identified, their roles, and relationships between staff and
+        organizations (the Trust, the contractor, and any subcontractors). Clearly indicate the day-to-
+        day primary point of contact for the Trust as well as the lead executive contact.
+
+             d. Financial capability
+        Disclose and provide details regarding any bankruptcy petition (whether voluntary or
+        involuntary), receivership, insolvency event, or similar adverse financial circumstance suffered
+        or incurred by bidder (or any predecessor entity) within the three years preceding the date of
+        submission of this proposal. Disclose and provide details regarding any litigation, arbitration, or
+        administrative proceedings involving bidder within the three years preceding the date of
+        submission of this proposal in which the amount claimed or adjudged against bidder exceeded
+        $50,000.
+
+    9. Cost Proposal (use Project Cost Form provided)
+       Provide a time-and-materials with a not-to-exceed bid for the Statement of Work for each year
+       of the contract and a three-year Summary using the Project Proposal Cost Form (Attachment C)
+       provided with the RFP. Any costs not included on this form may be disallowed.
+
+    10. Appendices
+             a. Appendix A - References
+        Provide a list of references for the lead bidder and any subcontractors included in the bid. At
+        least three references must be provided for each organization included in the bid. For each
+        reference, please provide current contact information (name, company, telephone number, and
+        email address) and a brief description of the work conducted for the reference and its relevance
+        to the current RFP. If evaluations of bidder’s programs are available, please provide a list of
+        them that includes the report title, author/independent evaluator, publication date, and URL (or
+        filename if provided electronically) for accessing the report.
+
+            b. Appendix B - Resumes
+        Provide resumes of key project team members. Key project team members identified in the
+        proposal must be dedicated to the proposed project in the role proposed. Any substitutions of
+        key project team members must be approved by the Trust.
+
+
+           SECTION 5 –           PROPOSAL EVALUATION CRITERIA
+
+Proposals that meet the requirements established in the RFP will be evaluated by a proposal review
+team. The Trust reserves the right to decide whether a proposal is acceptable in terms of meeting the
+requirements of this RFP and to accept or reject any or all proposals received.
+
+In evaluating proposals, the Trust reserves the right to take any of the following steps, with respect to
+either all of the proposals received or to a subset of proposals selected as superior to the others:
+(1) consult with prior clients on the performance of the bidder or of particular persons proposed for this
+bid; (2) schedule presentations or interviews with representatives of the bidder or persons proposed for
+the project; (3) conduct a review of past performance, including a review of reports, analyses, or other
+
+
+                                                                                           Page 11
+Efficiency Maine Trust                                      Information Technology Service Provider RFP
+
+materials that would reflect the bidder's performance; and, (4) request additional data or supporting
+material.
+
+     5.1 Evaluation Criteria
+In evaluating proposals submitted in response to this RFP, the proposal review team will use the
+following criteria:
+
+                                                                                                        Maximum
+                                             Scoring Category                                            Points
+  1.   Statement of Work                                                                                   30
+            a. Does the Statement of Work present a comprehensive, sound approach for
+                accomplishing the requirements of this RFP?
+            b. Is the Statement of Work thorough, specific and responsive to the requirements
+                and details specified in the RFP?
+            c. Does the proposal demonstrate a clear understanding of the Statement of Work
+                and the Trust’s expectations?
+            d. Does the Statement of Work reflect best practices in delivering the specific
+                programs described in this RFP?
+  2.   Staff and Organization Qualifications                                                              30
+            a. Is the proposed project staffing plan clear, well-defined, appropriate and realistic
+                for the scope of the services requested?
+            b. How qualified are the proposed personnel in terms of skills, expertise and
+                experience relevant to this program?
+            c. How qualified are the proposed organizations (lead bidder and subcontractors) in
+                terms of demonstrated experience and capacity to execute this type of program?
+  3.   Project Cost/Budget                                                                                30
+            a. Are appropriate resources being devoted?
+            b. How does the total bid cost compare to other comparable proposals?
+            c. Is the proposed budget consistent with the requested Statement of Work?
+            d. How do the quoted rates compare to other comparable proposals?
+  4.   Overall Quality and Responsiveness                                                                 10
+            a. What is the overall quality of the proposal submission, including: completeness,
+                clarity, attention to detail, adherence to instructions and lack of errors?
+            b. Does the proposal reflect and respond to the Trust’s priorities?
+                                                                                                Total     100
+
+
+
+
+                                                                                                   Page 12
+

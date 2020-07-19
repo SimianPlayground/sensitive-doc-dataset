@@ -1,0 +1,659 @@
+HIPAA Privacy Rule and Sharing Information
+Related to Mental Health
+Background
+The Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule provides consumers
+with important privacy rights and protections with respect to their health information,
+including important controls over how their health information is used and disclosed by health plans
+and health care providers. Ensuring strong privacy protections is critical to maintaining individuals’
+trust in their health care providers and willingness to obtain needed health care services, and these
+protections are especially important where very sensitive information is concerned, such as mental
+health information. At the same time, the Privacy Rule recognizes circumstances arise where health
+information may need to be shared to ensure the patient receives the best treatment and for other
+important purposes, such as for the health and safety of the patient or others. The Rule is carefully
+balanced to allow uses and disclosures of information—including mental health information—for
+treatment and these other purposes with appropriate protections.
+In this guidance, we address some of the more frequently asked questions about when it is
+appropriate under the Privacy Rule for a health care provider to share the protected health
+information of a patient who is being treated for a mental health condition. We clarify when HIPAA
+permits health care providers to:
+
+   •   Communicate with a patient’s family members, friends, or others involved in the patient’s
+       care;
+   •   Communicate with family members when the patient is an adult;
+   •   Communicate with the parent of a patient who is a minor;
+   •   Consider the patient’s capacity to agree or object to the sharing of their information;
+   •   Involve a patient’s family members, friends, or others in dealing with patient failures to
+       adhere to medication or other therapy;
+   •   Listen to family members about their loved ones receiving mental health treatment;
+   •   Communicate with family members, law enforcement, or others when the patient presents a
+       serious and imminent threat of harm to self or others; and
+   •   Communicate to law enforcement about the release of a patient brought in for an emergency
+       psychiatric hold.
+
+In addition, the guidance provides relevant reminders about related issues, such as the heightened
+protections afforded to psychotherapy notes by the Privacy Rule, a parent’s right to access the
+protected health information of a minor child as the child’s personal representative, the potential
+applicability of Federal alcohol and drug abuse confidentiality regulations or state laws that may
+provide more stringent protections for the information than HIPAA, and the intersection of HIPAA
+and FERPA in a school setting.
+
+                                                  1
+Questions and Answers about HIPAA and Mental Health
+Does HIPAA allow a health care provider to communicate with a patient’s family,
+friends, or other persons who are involved in the patient’s care?
+Yes. In recognition of the integral role that family and friends play in a patient’s health care, the HIPAA Privacy
+Rule allows these routine – and often critical – communications between health care providers and these
+persons. Where a patient is present and has the capacity to make health care decisions, health care
+providers may communicate with a patient’s family members, friends, or other persons the patient has involved
+in his or her health care or payment for care, so long as the patient does not object. See 45 CFR
+164.510(b). The provider may ask the patient’s permission to share relevant information with family members
+or others, may tell the patient he or she plans to discuss the information and give them an opportunity to agree
+or object, or may infer from the circumstances, using professional judgment, that the patient does not object. A
+common example of the latter would be situations in which a family member or friend is invited by the patient
+and present in the treatment room with the patient and the provider when a disclosure is made.
+Where a patient is not present or is incapacitated, a health care provider may share the patient’s information
+with family, friends, or others involved in the patient’s care or payment for care, as long as the health care
+provider determines, based on professional judgment, that doing so is in the best interests of the patient. Note
+that, when someone other than a friend or family member is involved, the health care provider must be
+reasonably sure that the patient asked the person to be involved in his or her care or payment for care.
+In all cases, disclosures to family members, friends, or other persons involved in the patient’s care or payment
+for care are to be limited to only the protected health information directly relevant to the person’s involvement in
+the patient’s care or payment for care.
+OCR’s website contains additional information about disclosures to family members and friends in fact sheets
+developed for consumers - PDF and providers - PDF.
+
+
+Does HIPAA provide extra protections for mental health information compared
+with other health information?
+Generally, the Privacy Rule applies uniformly to all protected health information, without regard to the type of
+information. One exception to this general rule is for psychotherapy notes, which receive special protections.
+The Privacy Rule defines psychotherapy notes as notes recorded by a health care provider who is a mental
+health professional documenting or analyzing the contents of a conversation during a private counseling
+session or a group, joint, or family counseling session and that are separate from the rest of the patient’s
+medical record. Psychotherapy notes do not include any information about medication prescription and
+monitoring, counseling session start and stop times, the modalities and frequencies of treatment furnished, or
+results of clinical tests; nor do they include summaries of diagnosis, functional status, treatment plan,
+symptoms, prognosis, and progress to date. Psychotherapy notes also do not include any information that is
+maintained in a patient’s medical record. See 45 CFR 164.501.
+Psychotherapy notes are treated differently from other mental health information both because they contain
+particularly sensitive information and because they are the personal notes of the therapist that typically are not
+required or useful for treatment, payment, or health care operations purposes, other than by the mental health
+professional who created the notes. Therefore, with few exceptions, the Privacy Rule requires a covered entity
+to obtain a patient’s authorization prior to a disclosure of psychotherapy notes for any reason, including a
+disclosure for treatment purposes to a health care provider other than the originator of the notes. See 45 CFR
+164.508(a)(2). A notable exception exists for disclosures required by other law, such as for mandatory
+reporting of abuse, and mandatory “duty to warn” situations regarding threats of serious and imminent harm
+made by the patient (State laws vary as to whether such a warning is mandatory or permissible).
+
+
+Is a health care provider permitted to discuss an adult patient’s mental health
+information with the patient’s parents or other family members?
+
+                                                         2
+In situations where the patient is given the opportunity and does not object, HIPAA allows the provider to share
+or discuss the patient’s mental health information with family members or other persons involved in the
+patient’s care or payment for care. For example, if the patient does not object:
+
+    •    A psychiatrist may discuss the drugs a patient needs to take with the patient’s sister who is present
+         with the patient at a mental health care appointment.
+    •    A therapist may give information to a patient’s spouse about warning signs that may signal a
+         developing emergency.
+
+  BUT:
+
+    •    A nurse may not discuss a patient’s mental health condition with the patient’s brother after the patient
+         has stated she does not want her family to know about her condition.
+
+In all cases, the health care provider may share or discuss only the information that the person involved needs
+to know about the patient’s care or payment for care. See 45 CFR 164.510(b). Finally, it is important to
+remember that other applicable law (e.g., State confidentiality statutes) or professional ethics may impose
+stricter limitations on sharing personal health information, particularly where the information relates to a
+patient’s mental health.
+
+
+When does mental illness or another mental condition constitute incapacity under
+the Privacy Rule? For example, what if a patient who is experiencing temporary
+psychosis or is intoxicated does not have the capacity to agree or object to a health
+care provider sharing information with a family member, but the provider believes
+the disclosure is in the patient’s best interests?
+Section 164.510(b)(3) of the HIPAA Privacy Rule permits a health care provider, when a patient is not present
+or is unable to agree or object to a disclosure due to incapacity or emergency circumstances, to determine
+whether disclosing a patient’s information to the patient’s family, friends, or other persons involved in the
+patient’s care or payment for care, is in the best interests of the patient.1 Where a provider determines that
+such a disclosure is in the patient’s best interests, the provider would be permitted to disclose only the PHI that
+is directly relevant to the person’s involvement in the patient’s care or payment for care.
+This permission clearly applies where a patient is unconscious. However, there may be additional situations in
+which a health care provider believes, based on professional judgment, that the patient does not have the
+capacity to agree or object to the sharing of personal health information at a particular time and that sharing the
+information is in the best interests of the patient at that time. These may include circumstances in which a
+patient is suffering from temporary psychosis or is under the influence of drugs or alcohol. If, for example, the
+provider believes the patient cannot meaningfully agree or object to the sharing of the patient’s information with
+family, friends, or other persons involved in their care due to her current mental state, the provider is allowed to
+discuss the patient’s condition or treatment with a family member, if the provider believes it would be in the
+patient’s best interests. In making this determination about the patient’s best interests, the provider should take
+into account the patient’s prior expressed preferences regarding disclosures of their information, if any, as well
+as the circumstances of the current situation. Once the patient regains the capacity to make these choices for
+herself, the provider should offer the patient the opportunity to agree or object to any future sharing of her
+information.
+Note 1: The Privacy Rule permits, but does not require, providers to disclose information in these
+situations. Providers who are subject to more stringent privacy standards under other laws, such as certain
+state confidentiality laws or 42 CFR Part 2, would need to consider whether there is a similar disclosure
+permission under those laws that would apply in the circumstances.
+
+
+
+
+                                                         3
+If a health care provider knows that a patient with a serious mental illness has
+stopped taking a prescribed medication, can the provider tell the patient’s family
+members?
+So long as the patient does not object, HIPAA allows the provider to share or discuss a patient’s mental health
+information with the patient’s family members. See 45 CFR 164.510(b). If the provider believes, based on
+professional judgment, that the patient does not have the capacity to agree or object to sharing the information
+at that time, and that sharing the information would be in the patient’s best interests, the provider may tell the
+patient’s family member. In either case, the health care provider may share or discuss only the information that
+the family member involved needs to know about the patient’s care or payment for care.
+Otherwise, if the patient has capacity and objects to the provider sharing information with the patient’s family
+member, the provider may only share the information if doing so is consistent with applicable law and
+standards of ethical conduct, and the provider has a good faith belief that the patient poses a threat to the
+health or safety of the patient or others, and the family member is reasonably able to prevent or lessen that
+threat. See 45 CFR 164.512(j). For example, if a doctor knows from experience that, when a patient’s
+medication is not at a therapeutic level, the patient is at high risk of committing suicide, the doctor may believe
+in good faith that disclosure is necessary to prevent or lessen the threat of harm to the health or safety of the
+patient who has stopped taking the prescribed medication, and may share information with the patient’s family
+or other caregivers who can avert the threat. However, absent a good faith belief that the disclosure is
+necessary to prevent a serious and imminent threat to the health or safety of the patient or others, the doctor
+must respect the wishes of the patient with respect to the disclosure.
+
+
+Can a minor child’s doctor talk to the child’s parent about the patient’s mental
+health status and needs?
+With respect to general treatment situations, a parent, guardian, or other person acting in loco parentis usually
+is the personal representative of the minor child, and a health care provider is permitted to share patient
+information with a patient’s personal representative under the Privacy Rule. However, section 164.502(g) of the
+Privacy Rule contains several important exceptions to this general rule. A parent is not treated as a minor
+child’s personal representative when: (1) State or other law does not require the consent of a parent or other
+person before a minor can obtain a particular health care service, the minor consents to the health care
+service, and the minor child has not requested the parent be treated as a personal representative; (2) someone
+other than the parent is authorized by law to consent to the provision of a particular health service to a minor
+and provides such consent; or (3) a parent agrees to a confidential relationship between the minor and a health
+care provider with respect to the health care service.2 For example, if State law provides an adolescent the
+right to obtain mental health treatment without parental consent, and the adolescent consents to such
+treatment, the parent would not be the personal representative of the adolescent with respect to that mental
+health treatment information.
+Regardless, however, of whether the parent is otherwise considered a personal representative, the Privacy
+Rule defers to State or other applicable laws that expressly address the ability of the parent to obtain health
+information about the minor child. In doing so, the Privacy Rule permits a covered entity to disclose to a parent,
+or provide the parent with access to, a minor child’s protected health information when and to the extent it is
+permitted or required by State or other laws (including relevant case law). Likewise, the Privacy Rule prohibits a
+covered entity from disclosing a minor child’s protected health information to a parent when and to the extent it
+is prohibited under State or other laws (including relevant case law). See 45 CFR 164.502(g)(3)(ii).
+In cases in which State or other applicable law is silent concerning disclosing a minor’s protected health
+information to a parent, and the parent is not the personal representative of the minor child based on one of the
+exceptional circumstances described above, a covered entity has discretion to provide or deny a parent access
+to the minor’s health information, if doing so is consistent with State or other applicable law, and the decision is
+made by a licensed health care professional in the exercise of professional judgment. For more information
+about personal representatives under the Privacy Rule, see OCR’s guidance for consumers and providers.
+In situations where a minor patient is being treated for a mental health disorder and a substance abuse
+disorder, additional laws may be applicable. The Federal confidentiality statute and regulations that apply to
+
+
+                                                         4
+federally-funded drug and alcohol abuse treatment programs contain provisions that are more stringent than
+HIPAA. See 42 USC § 290dd–2; 42 CFR 2.11, et. seq.
+Note 2: A parent also may not be a personal representative if there are safety concerns. A provider may
+decide not to treat the parent as the minor’s personal representative if the provider believes that the minor has
+been or may be subject to violence, abuse, or neglect by the parent or the minor may be endangered by
+treating the parent as the personal representative; and the provider determines, in the exercise of professional
+judgment, that it is not in the best interests of the patient to treat the parent as the personal representative. See
+45 CFR 164.502(g)(5).
+
+
+At what age of a child is the parent no longer the personal representative of the
+child for HIPAA purposes?
+HIPAA defers to state law to determine the age of majority and the rights of parents to act for a child in making
+health care decisions, and thus, the ability of the parent to act as the personal representative of the child for
+HIPAA purposes. See 45 CFR 164.502(g).
+
+
+Does a parent have a right to receive a copy of psychotherapy notes about a child’s
+mental health treatment?
+No. The Privacy Rule distinguishes between mental health information in a mental health professional’s private
+notes and that contained in the medical record. It does not provide a right of access to psychotherapy notes,
+which the Privacy Rule defines as notes recorded by a health care provider who is a mental health professional
+documenting or analyzing the contents of a conversation during a private counseling session or a group, joint,
+or family counseling session and that are separate from the rest of the patient’s medical record. See 45 CFR
+164.501. Psychotherapy notes are primarily for personal use by the treating professional and generally are not
+disclosed for other purposes. Thus, the Privacy Rule includes an exception to an individual’s (or personal
+representative’s) right of access for psychotherapy notes. See 45 CFR 164.524(a)(1)(i).
+However, parents generally are the personal representatives of their minor child and, as such, are able to
+receive a copy of their child’s mental health information contained in the medical record, including information
+about diagnosis, symptoms, treatment plans, etc. Further, although the Privacy Rule does not provide a right
+for a patient or personal representative to access psychotherapy notes regarding the patient, HIPAA generally
+gives providers discretion to disclose the individual’s own protected health information (including psychotherapy
+notes) directly to the individual or the individual’s personal representative. As any such disclosure is purely
+permissive under the Privacy Rule, mental health providers should consult applicable State law for any
+prohibitions or conditions before making such disclosures.
+
+
+What options do family members of an adult patient with mental illness have if
+they are concerned about the patient’s mental health and the patient refuses to
+agree to let a health care provider share information with the family?
+The HIPAA Privacy Rule permits a health care provider to disclose information to the family members of an
+adult patient who has capacity and indicates that he or she does not want the disclosure made, only to the
+extent that the provider perceives a serious and imminent threat to the health or safety of the patient or others
+and the family members are in a position to lessen the threat. Otherwise, under HIPAA, the provider must
+respect the wishes of the adult patient who objects to the disclosure. However, HIPAA in no way prevents
+health care providers from listening to family members or other caregivers who may have concerns about the
+health and well-being of the patient, so the health care provider can factor that information into the patient’s
+care.
+In the event that the patient later requests access to the health record, any information disclosed to the provider
+by another person who is not a health care provider that was given under a promise of confidentiality (such as
+that shared by a concerned family member), may be withheld from the patient if the disclosure would be
+reasonably likely to reveal the source of the information. 45 CFR 164.524(a)(2)(v). This exception to the
+
+
+
+                                                          5
+patient’s right of access to protected health information gives family members the ability to disclose relevant
+safety information with health care providers without fear of disrupting the family’s relationship with the patient.
+
+
+Does HIPAA permit a doctor to contact a patient’s family or law enforcement if
+the doctor believes that the patient might hurt herself or someone else?
+Yes. The Privacy Rule permits a health care provider to disclose necessary information about a patient to law
+enforcement, family members of the patient, or other persons, when the provider believes the patient presents
+a serious and imminent threat to self or others. The scope of this permission is described in a letter to the
+nation’s health care providers - PDF
+Specifically, when a health care provider believes in good faith that such a warning is necessary to prevent or
+lessen a serious and imminent threat to the health or safety of the patient or others, the Privacy Rule allows the
+provider, consistent with applicable law and standards of ethical conduct, to alert those persons whom the
+provider believes are reasonably able to prevent or lessen the threat. These provisions may be found in the
+Privacy Rule at 45 CFR § 164.512(j).
+Under these provisions, a health care provider may disclose patient information, including information from
+mental health records, if necessary, to law enforcement, family members of the patient, or any other persons
+who may reasonably be able to prevent or lessen the risk of harm. For example, if a mental health professional
+has a patient who has made a credible threat to inflict serious and imminent bodily harm on one or more
+persons, HIPAA permits the mental health professional to alert the police, a parent or other family member,
+school administrators or campus police, and others who may be able to intervene to avert harm from the threat.
+In addition to professional ethical standards, most States have laws and/or court decisions which address, and
+in many instances require, disclosure of patient information to prevent or lessen the risk of harm. Providers
+should consult the laws applicable to their profession in the States where they practice, as well as 42 USC
+290dd-2 and 42 CFR Part 2 under Federal law (governing the disclosure of alcohol and drug abuse treatment
+records) to understand their duties and authority in situations where they have information indicating a threat to
+public safety. Note that, where a provider is not subject to such State laws or other ethical standards, the
+HIPAA permission still would allow disclosures for these purposes to the extent the other conditions of the
+permission are met.
+
+
+If a law enforcement officer brings a patient to a hospital or other mental health
+facility to be placed on a temporary psychiatric hold, and requests to be notified if
+or when the patient is released, can the facility make that notification?
+The Privacy Rule permits a HIPAA covered entity, such as a hospital, to disclose certain protected health
+information, including the date and time of admission and discharge, in response to a law enforcement official’s
+request, for the purpose of locating or identifying a suspect, fugitive, material witness, or missing person. See
+45 CFR § 164.512(f)(2). Under this provision, a covered entity may disclose the following information about an
+individual: name and address; date and place of birth; social security number; blood type and rh factor; type of
+injury; date and time of treatment (includes date and time of admission and discharge) or death; and a
+description of distinguishing physical characteristics (such as height and weight). However, a covered entity
+may not disclose any protected health information under this provision related to DNA or DNA analysis, dental
+records, or typing, samples, or analysis of body fluids or tissue. The law enforcement official’s request may be
+made orally or in writing.
+Other Privacy Rule provisions also may be relevant depending on the circumstances, such as where a law
+enforcement official is seeking information about a person who may not rise to the level of a suspect, fugitive,
+material witness, or missing person, or needs protected health information not permitted under the above
+provision. For example, the Privacy Rule’s law enforcement provisions also permit a covered entity to respond
+to an administrative request from a law enforcement official, such as an investigative demand for a patient’s
+protected health information, provided the administrative request includes or is accompanied by a written
+statement specifying that the information requested is relevant, specific and limited in scope, and that de-
+identified information would not suffice in that situation. The Rule also permits covered entities to respond to
+court orders and court-ordered warrants, and subpoenas and summonses issued by judicial officers. See 45
+CFR § 164.512(f)(1). Further, to the extent that State law may require providers to make certain disclosures,
+
+                                                         6
+the Privacy Rule would permit such disclosures of protected health information as “required-by-law”
+disclosures. See 45 CFR § 164.512(a).
+Finally, the Privacy Rule permits a covered health care provider, such as a hospital, to disclose a patient’s
+protected health information, consistent with applicable legal and ethical standards, to avert a serious and
+imminent threat to the health or safety of the patient or others. Such disclosures may be to law enforcement
+authorities or any other persons, such as family members, who are able to prevent or lessen the threat. See 45
+CFR § 164.512(j).
+
+
+If a doctor believes that a patient might hurt himself or herself or someone else, is
+it the duty of the provider to notify the family or law enforcement authorities?
+A health care provider’s “duty to warn” generally is derived from and defined by standards of ethical conduct
+and State laws and court decisions such as Tarasoff v. Regents of the University of California. HIPAA permits
+a covered health care provider to notify a patient’s family members of a serious and imminent threat to the
+health or safety of the patient or others if those family members are in a position to lessen or avert the threat.
+Thus, to the extent that a provider determines that there is a serious and imminent threat of a patient physically
+harming self or others, HIPAA would permit the provider to warn the appropriate person(s) of the threat,
+consistent with his or her professional ethical obligations and State law requirements. See 45 CFR 164.512(j).
+In addition, even where danger is not imminent, HIPAA permits a covered provider to communicate with a
+patient’s family members, or others involved in the patient’s care, to be on watch or ensure compliance with
+medication regimens, as long as the patient has been provided an opportunity to agree or object to the
+disclosure and no objection has been made. See 45 CFR 164.510(b)(2).
+
+
+Does HIPAA prevent a school administrator, or a school doctor or nurse, from
+sharing concerns about a student’s mental health with the student’s parents or law
+enforcement authorities?
+Student health information held by a school generally is subject to the Family Educational Rights and Privacy
+Act (FERPA), not HIPAA. HHS and the Department of Education have developed guidance clarifying the
+application of HIPAA and FERPA - PDF
+In the limited circumstances where the HIPAA Privacy Rule, and not FERPA, may apply to health information in
+the school setting, the Rule allows disclosures to parents of a minor patient or to law enforcement in various
+situations. For example, parents generally are presumed to be the personal representatives of their
+unemancipated minor child for HIPAA privacy purposes, such that covered entities may disclose the minor’s
+protected health information to a parent. See 45 CFR § 164.502 (g)(3). In addition, disclosures to prevent or
+lessen serious and imminent threats to the health or safety of the patient or others are permitted for notification
+to those who are able to lessen the threat, including law enforcement, parents or others, as relevant. See 45
+CFR § 164.512(j).
+
+
+
+         Additional FAQs on Sharing Information Related to
+           Treatment for Mental Health or Substance Use
+                 Disorder—Including Opioid Abuse
+
+                                                  ADULT PATIENTS
+
+Does having a health care power of attorney (POA) allow access to the patient’s
+medical and mental health records under HIPAA?
+
+                                                        7
+Generally, yes. If a health care power of attorney is currently in effect, the named person would be the patient’s
+personal representative (The period of effectiveness may depend on the type of power of attorney: Some
+health care power of attorney documents are effective immediately, while others are only triggered if and when
+the patient lacks the capacity to make health care decisions and then cease to be effective if and when the
+patient regains such capacity).
+
+“Personal representatives,” as defined by HIPAA, are those persons who have authority, under applicable law,
+to make health care decisions for a patient. HIPAA provides a personal representative of a patient with the
+same rights to access health information as the patient, including the right to request a complete medical
+record containing mental health information. The patient’s right of access has some exceptions, which would
+also apply to a personal representative. For example, with respect to mental health information, a
+psychotherapist’s separate notes of counseling sessions, kept separately from the patient chart, are not
+included in the HIPAA right of access.
+
+Additionally, a provider may decide not to treat someone as the patient’s personal representative if the provider
+believes that the patient has been or may be subject to violence, abuse, or neglect by the designated person or
+the patient may be endangered by treating such person as the personal representative, and the provider
+determines, in the exercise of professional judgment, that it is not in the best interests of the patient to treat the
+person as the personal representative. See 45 CFR 164.502(g)(5).
+
+Does HIPAA permit health care providers to share protected health information
+(PHI) about an individual who has mental illness with other health care providers
+who are treating the same individual for care coordination/continuity of care
+purposes?
+HIPAA permits health care providers to disclose to other health providers any protected health information
+(PHI) contained in the medical record about an individual for treatment, case management, and coordination of
+care and, with few exceptions, treats mental health information the same as other health information. Some
+examples of the types of mental health information that may be found in the medical record and are subject to
+the same HIPAA standards as other protected health information include:
+    •    medication prescription and monitoring
+    •    counseling session start and stop times
+    •    the modalities and frequencies of treatment furnished
+    •    results of clinical tests
+    •    summaries of: diagnosis, functional status, treatment plan, symptoms, prognosis, and progress to
+         date.
+HIPAA generally does not limit disclosures of PHI between health care providers for treatment, case
+management, and care coordination, except that covered entities must obtain individuals’ authorization to
+disclose separately maintained psychotherapy session notes for such purposes. Covered entities should
+determine whether other rules, such as state law or professional practice standards place additional limitations
+on disclosures of PHI related to mental health.
+For more information see:
+Does HIPAA provide extra protections for mental health information compared with other health information?
+
+Does HIPAA permit health care providers to share protected health information
+(PHI) about an individual with mental illness with a third party that is not a health
+care provider for case management or continuity of care purposes? For example,
+can a health care provider refer a homeless patient to a social services agency, such
+as a housing provider, when doing so may reveal that the basis for eligibility is
+related to mental health?
+
+
+                                                          8
+HIPAA, with few exceptions, treats all health information, including mental health information, the same. HIPAA
+allows health care providers to disclose protected health information (PHI), including mental health information,
+to other public or private-sector entities providing social services (such as housing, income support, job
+training) in specified circumstances. For example:
+
+•   A health care provider may disclose a patient’s PHI for treatment purposes without having to obtain the
+    authorization of the individual. Treatment includes the coordination or management of health care by a
+    health care provider with a third party. Health care means care, services, or supplies related to the health
+    of an individual. Thus, health care providers who believe that disclosures to certain social service entities
+    are a necessary component of, or may help further, the individual’s health or mental health care may
+    disclose the minimum necessary PHI to such entities without the individual’s authorization. For example, a
+    provider may disclose PHI about a patient needing mental health care supportive housing to a service
+    agency that arranges such services for individuals.
+•   A covered entity may also disclose PHI to such entities pursuant to an authorization signed by the
+    individual. HIPAA permits authorizations that refer to a class of persons who may receive or use the PHI.
+    Thus, providers could in one authorization identify a broad range of social services entities that may
+    receive the PHI if the individual agrees. For example, an authorization could indicate that PHI will be
+    disclosed to “social services providers” for purposes of “supportive housing, public benefits, counseling,
+    and job readiness.”
+
+                 EMERGENCIES, EMERGENCY HOSPITALIZATION OR DANGEROUS SITUATIONS
+
+When does HIPAA allow a doctor to notify an individual’s family, friends, or
+caregivers that a patient has overdosed, e.g., because of opioid abuse?
+As explained more thoroughly below, when a patient has overdosed, a health care professional, such as a
+doctor, generally may notify the patient’s family, friends, or caregivers involved in the patient’s health care or
+payment for care if:
+
+         (1) the patient has the capacity to make health care decisions at the time of the disclosure, is given the
+         opportunity to object, and does not object;
+
+         (2) the family, friends, or caregivers have been involved in the patient’s health care or payment for care
+         and there has been no objection from the patient;
+
+         (3) the patient had the capacity to make health care decisions at the time the information is shared and
+         the doctor can reasonably infer, based on the exercise of professional judgment, that the patient would
+         not object;
+
+         (4) the patient is incapacitated and the health care professional determines, based on the exercise of
+         professional judgment, that notification and disclosure of PHI is in the patient’s best interests;
+
+         (5) the patient is unavailable due to some emergency and the health care professional determines,
+         based on the exercise of professional judgment, that notification and disclosure of PHI is in the
+         patient’s best interests; or
+
+         (6) the notification is necessary to prevent a serious and imminent threat to the health or safety of the
+         patient or others.
+
+If the patient who has overdosed is incapacitated and unable to agree or object, a doctor may notify a family
+member, personal representative, or another person responsible for the individual’s care of the patient’s
+location, general condition, or death. See 45 CFR 164.510(b)(1)(ii). Similarly, HIPAA allows a doctor to share
+additional information with a patient’s family member, friend, or caregiver as long as the information shared is
+directly related to the person’s involvement in the patient's health care or payment for care. 45 CFR
+164.510(b)(1)(i). Decision-making incapacity may be temporary or long-term. If a patient who has overdosed
+regains decision-making capacity, health providers must offer the patient the opportunity to agree or object to
+sharing their health information with involved family, friends, or caregivers before making any further
+disclosures. If a patient becomes unavailable due to some emergency, a health care professional may
+
+                                                          9
+determine, based on the exercise of professional judgment, that notification and disclosure of PHI to someone
+previously involved in their care is in the patient’s best interests. For example, if a patient who is addicted to
+opioids misses important medical appointments without any explanation, a primary health care provider at a
+general practice may believe that there is an emergency related to the opioid addiction and under the
+circumstances, may use professional judgment to determine that it is in the patient’s best interests to reach out
+to emergency contacts, such as parents or family, and inform them of the situation. See 45 CFR 164.510(b)(3).
+
+If the patient is deceased, a doctor may disclose information related to the family member’s, friend’s, or
+caregiver’s involvement with the patient’s care, unless doing so is inconsistent with any prior expressed
+preference of the patient that is known to the doctor. If the person who will receive notification is the patient's
+personal representative, that person has a right to request and obtain any information about the patient that the
+patient could obtain, including a complete medical record, under the HIPAA right of access. See 45 CFR
+164.524.
+
+When a patient poses a serious and imminent threat to his own or someone else’s health or safety, HIPAA
+permits a health care professional to share the necessary information about the patient with anyone who is in a
+position to prevent or lessen the threatened harm--including family, friends, and caregivers--without the
+patient’s permission. See 45 CFR 164.512(j). HIPAA expressly defers to the professional judgment of health
+care professionals when they make determinations about the nature and severity of the threat to health or
+safety. See 45 CFR 164.512(j)(4). Specifically, HIPAA presumes the health care professional is acting in good
+faith in making this determination, if the professional relies on his or her actual knowledge or on credible
+information from another person who has knowledge or authority. For example, a doctor whose patient has
+overdosed on opioids is presumed to have complied with HIPAA if, based on talking with or observing the
+patient, the doctor determines that the patient poses a serious and imminent threat to his or her own health.
+Even when HIPAA permits this disclosure, however, the disclosure must be consistent with applicable state law
+and standards of ethical conduct. HIPAA does not preempt any state law or professional ethics standards that
+would prevent a health care professional from sharing protected health information in the circumstances
+described here. For example, the doctor in this situation still may be subject to a state law that prohibits
+sharing information related to mental health or a substance use disorder without the patient’s consent in all
+circumstances, even if HIPAA would permit the disclosure.
+
+For more information see OCR’s guidance, How HIPAA Allows Doctors to Respond to the Opioid Crisis,
+https://www.hhs.gov/sites/default/files/hipaa-opioid-crisis.pdf
+
+When does HIPAA allow a hospital to notify an individual’s family, friends, or
+caregivers that a patient who has been hospitalized for a psychiatric hold has been
+admitted or discharged?
+Hospitals may notify family, friends, or caregivers of a patient in several circumstances:
+
+    •   When the patient has a personal representative
+
+A hospital may notify a patient’s personal representative about their admission or discharge and share other
+PHI with the personal representative without limitation. However, a hospital is permitted to refuse to treat a
+person as a personal representative if there are safety concerns associated with providing the information to
+the person, or if a health care professional determines that disclosure is not in the patient’s best interest.
+
+    •   When the patient agrees or does not object to family involvement
+
+A hospital may notify a patient’s family, friends, or caregivers if the patient agrees, or doesn’t object, or if a
+health care professional is able to infer from the surrounding circumstances, using professional judgment that
+the patient does not object. This includes when a patient’s family, friends, or caregivers have been involved in
+the patient’s health care in the past, and the individual did not object.
+
+    •   When the patient becomes unable to agree or object and there has already been family
+        involvement
+
+
+
+                                                        10
+When a patient is not present or cannot agree or object because of some incapacity or emergency, a health
+care provider may share relevant information about the patient with family, friends, or others involved in the
+patient’s care or payment for care if the health care provider determines, based on professional judgment, that
+doing so is in the best interest of the patient.
+For example, a psychiatric hospital may determine that it is in the best interests of an incapacitated patient to
+initially notify a member of their household, such as a parent, roommate, sibling, partner, or spouse, and inform
+them about the patient’s location and general condition. This may include, for example, notifying a patient’s
+spouse that the patient has been admitted to the hospital.
+If the health care provider determines that it is in the patient’s interest, the provider may share additional
+information that is directly related to the family member’s or friend’s involvement with the patient’s care or
+payment for care, after they clarify the person’s level of involvement. For example, a nurse treating a patient
+may determine that it is in the patient’s best interest to discuss with the patient’s adult child, who is the patient’s
+primary caregiver, the medications found in a patient’s backpack and ask about any other medications the
+patient may have at home.
+Decision-making incapacity may be temporary or long-term. Upon a patient’s regaining decision-making
+capacity, health providers should offer the patient the opportunity to agree or object to sharing their health
+information with involved family, friends, or caregivers.
+
+    •    When notification is needed to lessen a serious and imminent threat of harm to the health or
+         safety of the patient or others
+
+A hospital may disclose the necessary protected health information to anyone who is in a position to prevent or
+lessen the threatened harm, including family, friends, and caregivers, without a patient’s agreement. HIPAA
+expressly defers to the professional judgment of health professionals in making determinations about the
+nature and severity of the threat to health or safety. For example, a health care provider may determine that a
+patient experiencing a mental health crisis has ingested an unidentified substance and that the provider needs
+to contact the patient’s roommate to help identify the substance and provide the proper treatment, or the patient
+may have made a credible threat to harm a family member, who needs to be notified so he or she can take
+steps to avoid harm. OCR would not second guess a health care professional’s judgment in determining that a
+patient presents a serious and imminent threat to their own, or others’, health or safety.
+
+What constitutes a “serious and imminent” threat that would permit a health care
+provider to disclose PHI to prevent harm to the patient, another person, or the
+public without the patient’s authorization or permission?
+HIPAA expressly defers to the professional judgment of health professionals in making determinations about
+the nature and severity of the threat to health or safety posed by a patient. OCR would not second guess a
+health professional’s good faith belief that a patient poses a serious and imminent threat to the health or safety
+of the patient or others and that the situation requires the disclosure of patient information to prevent or lessen
+the threat. Health care providers may disclose the necessary protected health information to anyone who is in
+a position to prevent or lessen the threatened harm, including family, friends, caregivers, and law enforcement,
+without a patient’s permission.
+See Guidance on Sharing Information Related to Mental Health, https://www.hhs.gov/hipaa/for-
+professionals/special-topics/mental-health/index.html
+
+If an adult patient who may pose a danger to self stops coming to psychotherapy
+sessions and does not respond to attempts to make contact, does HIPAA permit the
+therapist to contact a family member to check on the patient's well-being even if
+the patient has told the therapist that they do not want information shared with that
+person?
+Yes, under two possible circumstances:
+
+
+
+
+                                                          11
+    1.   Given that the patient is no longer present, if the therapist determines, based on professional
+         judgment, that there may be an emergency situation and that contacting the family member of the
+         absent patient is in the patient’s best interests; or
+    2.   If the disclosure is needed to lessen a serious and imminent threat and the family member is in a
+         position to avert or lessen the threat.
+
+In making the determination about the patient’s best interests, the provider may take into account the patient’s
+prior expressed preferences regarding disclosures of their information, if any, as well as the circumstances of
+the current situation. In either case, the health care provider may share or discuss only the information that the
+family member involved needs to know about the patient’s care or payment for care or the minimum necessary
+for the purpose of preventing or lessening the threatened harm.
+
+Additionally, if the family member is a personal representative of the patient, the therapist may contact that
+person. However, a provider may decide not to treat someone as a personal representative if the provider
+believes that the patient has been or may be subject to violence, abuse, or neglect by the personal
+representative, or the patient may be endangered by treating the person as the personal representative; and
+the provider determines, in the exercise of professional judgment, that it is not in the best interests of the
+patient to treat the person as the personal representative. See 45 CFR 164.502(g)(5).
+
+See Guidance on Sharing Information Related to Mental Health, https://www.hhs.gov/hipaa/for-
+professionals/special-topics/mental-health/index.html
+Guidance on Personal Representatives, https://www.hhs.gov/hipaa/for-
+professionals/privacy/guidance/personal-representatives/index.html
+
+Does HIPAA require a mental health provider to let a patient know that the
+provider is going to share information with others before disclosing PHI to prevent
+or lessen a serious and imminent threat?
+Not at the time of disclosure; however, the Notice of Privacy Practices should contain an example of this type of
+disclosure so patients are informed in advance of that possibility. See 45 CFR 164.520(b). In situations that
+also involve reports to the appropriate government authority that the patient may be an adult victim of abuse,
+neglect, or domestic violence, the mental health provider must promptly inform the patient that a report has
+been or will be made, unless:
+
+    •    informing the patient would create a danger to the patient; or
+    •    the provider would be informing a personal representative, and the provider reasonably believes the
+         personal representative is responsible for the abuse, neglect, or other injury, and that informing such
+         person would not be in the best interests of the patient is determined by the provider, in the exercise of
+         professional judgment. See 45 CFR 164.512(c).
+
+Other standards, such as clinical protocols, ethics rules, or state laws, may also be applicable to patient
+notification about disclosures in situations involving threats of imminent harm.
+
+                                     SUBSTANCE USE DISORDER TREATMENT
+How does HIPAA interact with the federal confidentiality rules for information
+about substance use disorder treatment, including treatment for opioid abuse, in an
+emergency situation—which rules should be followed?
+A health provider that provides treatment for substance use disorders, including opioid abuse, needs to
+determine whether it is subject to 42 CFR Part 2 (i.e., a “Part 2 program”) and whether it is a covered entity
+under HIPAA. Generally, the Part 2 rules provide more stringent privacy protections than HIPAA, including in
+emergency situations. If an entity is subject to both Part 2 and HIPAA, it is responsible for complying with the
+more protective Part 2 rules, as well as with HIPAA. HIPAA is intended to be a set of minimum federal privacy
+standards, so it generally is possible to comply with HIPAA and other laws, such as 42 CFR Part 2, that are
+more protective of individuals’ privacy.
+
+
+                                                        12
+For example, HIPAA permits disclosure of protected health information (PHI) for treatment purposes (including
+in emergencies) without patient authorization, and allows PHI to be used or disclosed to lessen a threat of
+serious and imminent harm to the health or safety of the patient or others (which may occur as part of a health
+emergency) without patient authorization or permission. Because HIPAA permits, but does not require,
+disclosures for treatment or to prevent harm, if Part 2 restricts certain disclosures during an emergency, an
+entity subject to both sets of requirements could comply with Part 2’s restrictions without violating HIPAA.
+For more information about applying 42 CFR Part 2 in an emergency, see https://www.samhsa.gov/about-
+us/who-we-are/laws-regulations/confidentiality-regulations-faqs
+
+
+
+
+                                                      13
+

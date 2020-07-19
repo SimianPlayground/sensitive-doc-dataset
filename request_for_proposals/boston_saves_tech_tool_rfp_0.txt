@@ -1,0 +1,2145 @@
+                          REQUEST FOR PROPOSALS
+      Boston Children’s Savings Accounts (CSAs) Pilot Program Tech Tool
+
+                                       Issued by:
+                                  The City of Boston
+                                 Martin J. Walsh, Mayor
+
+                     Mayor’s Office of Workforce Development
+                              Trinh Nguyen, Director
+
+                        RFP Issue Date: October 13, 2015
+                 RFP Closing Date: November 13, 2015, 5:00pm
+           RFP Bidders’ Conference Call: October 26, 12:00pm-1:30pm
+
+
+                                    Inquiries:
+                               Peggy Hinds-Watson
+                        Peggy.Hinds-Watson@boston.gov
+                      Questions due by: October 26 at 5:00pm
+
+
+
+
+The Mayor’s Office of Workforce Development is a division of the Boston Redevelopment Authority
+Contents
+1/ Overview..................................................................................................................................... 3
+   1.1/ Project Background.............................................................................................................. 3
+   1.2/ Key Definitions ..................................................................................................................... 5
+   1.3/ RFP Communications & Inquiries ........................................................................................ 5
+   1.4/ RFP Timeline ........................................................................................................................ 6
+2/ Project Scope .............................................................................................................................. 7
+   2.1/ Back End Minimum Viable Product ..................................................................................... 7
+   2.2/ Front End Minimum Viable Product .................................................................................... 8
+   2.3/ Potential Future System Requirements............................................................................... 8
+   2.4/ Sustainability & Scalability ................................................................................................... 9
+3/ The Technical Proposal ............................................................................................................. 10
+   3.1/ Introduction & Executive Summary................................................................................... 10
+   3.2/ Vendor Background & Company Qualifications ................................................................ 10
+   3.3/ Response to Scope of Work ............................................................................................... 11
+      3.3.1/ Back End Minimum Viable Product............................................................................. 11
+      3.3.2/ Front End Minimum Viable Product ........................................................................... 12
+      3.3.3/ Potential for Additional Features ................................................................................ 13
+      3.3.4/ Sustainability & Scalability .......................................................................................... 13
+      3.3.5/ Other Solution Details (Optional) ............................................................................... 13
+   3.4/ Ownership & Intellectual Property .................................................................................... 14
+   3.5/ Presentation/Demo ........................................................................................................... 14
+   3.6/ The Cutting Room Floor (Optional) ................................................................................... 15
+4/ The Price Proposal .................................................................................................................... 16
+   4.1/ Narrative ............................................................................................................................ 16
+   4.2/ Line-Item Budget ............................................................................................................... 16
+5/ Submitting the Technical & Price Proposals............................................................................. 18
+   5.1/ Checklist for Submitting Proposal...................................................................................... 18
+      5.1.1/ Instructions for Using the Checklist ............................................................................ 18
+      5.1.2/ Checklist for Submitting RFP Proposal ........................................................................ 19
+
+
+CSA RFP                                                                                                                                         1
+   5.2/ Submission by Mail or Hand .............................................................................................. 20
+      5.2.1/ Technical Proposal ...................................................................................................... 20
+      5.2.2/ Price Proposal.............................................................................................................. 20
+6/ Selection Criteria ...................................................................................................................... 22
+   6.1/ Minimum Evaluation Criteria............................................................................................. 22
+   6.2/ Comparative Evaluation Criteria........................................................................................ 22
+      6.2.1/ Introduction & Executive Summary (3.1).................................................................... 22
+      6.2.2/ Vendor Background & Company Qualifications (3.2) ................................................. 23
+      6.2.3/ Technical Proposal (3.3) .............................................................................................. 23
+      6.2.4/ Ownership & Intellectual Property (3.4) ..................................................................... 25
+      6.2.5/ Presentation/Demo -- If Needed (3.5) ........................................................................ 25
+      6.2.6/ Cutting Room Floor (Optional) (3.6) ........................................................................... 26
+7/ Terms & Conditions .................................................................................................................. 27
+   7.1/ Cancellation, Rejection, and Waiver.................................................................................. 27
+   7.2/ Withdrawal or Modification of Proposal ........................................................................... 27
+   7.3/ Proposal Validity Period..................................................................................................... 27
+   7.4/ Proposal Costs.................................................................................................................... 27
+   7.5/ Taxes .................................................................................................................................. 27
+   7.6/ Subcontractors................................................................................................................... 27
+   7.7/ Use of City Name ............................................................................................................... 28
+   7.8/ Rule of Award .................................................................................................................... 28
+   7.9/ Contract ............................................................................................................................. 28
+   7.10/ Term of Contract.............................................................................................................. 29
+   7.11 Public Records ................................................................................................................. 29
+Appendix A/ Overview of Relevant City Departments & Key Stakeholders ................................. 30
+Appendix B/ Overview of Relevant Technical Systems ................................................................ 32
+Appendix C/ Technical Proposal Response - Project Scope.......................................................... 34
+
+
+
+
+CSA RFP                                                                                                                                          2
+1/ Overview
+Mayor Walsh’s administration is committed to helping Boston’s children achieve their dreams
+beyond high school. Specifically, the City of Boston is working to increase access to
+postsecondary education as a pathway to financial empowerment. The City’s Office of
+Workforce Development (OWD) will launch a Children’s Savings Account for College (CSA)
+program that will ultimately open a college savings account for every Kindergarten (K2) student.
+We’re starting with a 3-year pilot program (to be launched in Fall 2016) and are looking for a
+technology solution to support our work.
+
+OWD wants to emerge as a national thought leader on CSA delivery, and we have learned that
+leveraging technology can help us deliver a streamlined and dynamic Boston CSA Pilot Program.
+Successful creation and implementation of this tool has the potential to scale beyond Boston,
+as other CSA programs may be interested in such a tool in the near future.
+
+OWD seeks engaged and flexible technology partner(s) who can help build a delivery
+platform for the Boston CSA Pilot Program that:
+    a. encourages Boston families to use their accounts,
+    b. enables OWD to sustainably provide excellent customer service for Boston families,
+    c. provides OWD with data that will help us improve the program,
+    d. enables families to use multiple types of financial accounts across a variety of financial
+        institutions and account types, and
+    e. allows OWD the flexibility to iterate and adapt the program based on program
+        performance and feedback.
+This partner(s) would sign a 3-year contract to collaborate with OWD for the duration of the
+Boston CSA Pilot Program. While this contract would cover the pilot period, OWD is looking
+for a partner(s) with the capability to scale and sustain engagement longer-term.
+
+
+1.1/ Project Background
+Research1 and practice2 around the country strongly suggest that CSAs impact children’s
+mindset towards college, their access to higher education, and their financial capability.
+Therefore, as part of OWD’s work to ensure long-term economic success for Boston’s children,
+OWD will partner with the Eos Foundation and the Boston Public Schools (BPS) to pilot a CSA
+program.
+
+Inspired by San Francisco’s Kindergarten to College (K2C) program, OWD will launch a universal
+CSA program at the Kindergarten (K2) level. Every child entering kindergarten at a public school
+(district or charter) in Boston will receive a CSA that remains with them for at least 12 years,
+until he or she is ready to pursue post-secondary education. Families can deposit into the
+accounts at any time and have an opportunity to earn incentives for their savings.
+
+1 1to1Fund.org (a CFED initiative). Based on research by Elliott, William. "Small-dollar children's savings
+accounts and children's college outcomes." Children and Youth Services Review 35, no. 3 (2013): 572-
+585.
+2 Frank DeGiovani, Ford Foundation at CFED CSA conference. SEED Project result.
+
+
+
+CSA RFP                                                                                                       3
+The first step toward a universal program is a 3-year pilot beginning in the fall of 2016. OWD
+will provide a CSA to an estimated 500 kindergarteners each year at three to five Boston Public
+Schools, for an estimated total of 1,500 participants in the pilot’s third year.
+
+Each student will receive a seed deposit for their CSA. Savings incentives (such as matching
+funds and providing bonus funds for achieving particular benchmarks) will also be provided to
+families who contribute to their accounts.3 Private dollars will be used to fund accounts during
+the pilot phase. In addition, financial empowerment services, such as a financial education and
+counseling, will be integrated into the effort in order to maximize the program’s
+effectiveness. All program funds (seed deposit and savings incentives) will be held in a “Master
+Account” owned by OWD/the City until participants are ready and able to withdraw their
+savings (both family contributions and program funds earned) for post-secondary use.
+
+We want to make it as easy as possible for families to access the accounts and make
+deposits. With the exception of certain programmatic withdrawal restrictions, these accounts
+will be used just like traditional savings accounts, with features like viewing account balances
+online and making deposits online or at a bank.
+
+With this in mind, we would like to give families two ways to access their CSA funds:
+   1. Because our market research demonstrates that Boston families like choices, we would
+       first like to give families the option to “link-your-own-account.” This option would be
+       exactly what it sounds like--families would be able to open a savings account, or take an
+       existing savings account, from any financial institution and designate it as their CSA
+       account. The tech tool we want to develop through this RFP would be the way their
+       account is “linked” to, or registered with, our program. This option gives families the
+       ability to make deposits through the financial institution of their choosing.
+   2. We would also like to give families the option to “create a custodial account.”45 For
+       families that choose this option, OWD/the City would create a custodial savings account
+       for the family, where there is an account custodian (aka primary account holder) and
+       the child in the CSA program is the named beneficiary of the account. OWD will partner
+       with a specific depository institution to create these accounts, and this is where families
+       who chose this option would make deposits.6
+
+
+3
+  Any deposits from families directly are referred to as “family deposits.” And deposits from public or
+private donors for the account seed or savings incentives are referred to as “program funds.”
+4
+  There are many reasons why families may choose this option; some reasons include, but are not limited
+to: because they are unbanked, because keeping assets in their name may affect receipt of public
+assistance benefits, or because the accounts they currently hold are serving other purposes.
+5
+  At the time of this RFP release, the exact account structure for these custodial accounts (e.g., individual
+custodial account, escrow account with sub-accounts for each child) has not yet been determined and will
+depend in part on the chosen financial partner (see footnote 6 below).
+6
+  At the time of this RFP release, a financial institution partner has not yet been identified. Should we
+solidify a partner financial institution during the RFP process, we will post this information on the RFP
+website and will alert those who have downloaded the RFP about this update via email.
+
+CSA RFP                                                                                                     4
+The tech tool we want to develop through this RFP will enable OWD to manage these variety of
+accounts families opt for as part of a single CSA program, tracking program funds earned by
+each family overtime as they make deposits and reach other program benchmarks.
+
+We have three goals for the 3-year pilot program:
+  1. Create a CSA program that results in high participation by families, and can be
+      sustainably be scaled to accommodate ~5,000 new student accounts per year. One
+      proof point for participation will be regular deposit activity from families. Appropriate
+      targets for participation will be jointly developed with our partners during project
+      startup.
+  2. Learn from families and participating schools what program elements positively and
+      negatively impact their participation, and adjust the CSA program accordingly.
+  3. Learn from families, school building staff (teachers, principals), and community
+      organizations what impact the CSA program is having on the mindset of Boston children
+      and parents. This may include analyzing attendance and school performance data, and
+      administering qualitative surveys.
+
+These goals are in service of the primary goals of the full-scale program:
+   1. Create a college-going culture in Boston and expectations that every child in Boston will
+       enroll in and complete college or some form of post-secondary education.
+   2. Increase the percentage of Boston’s children who graduate from high school, enroll in
+       and complete college or some form of post-secondary education or training.
+   3. Increase children and families’ financial capability to help create lifelong savings and
+       investment habits, thereby increasing financial inclusion among many of the City’s
+       disadvantaged residents.
+
+
+1.2/ Key Definitions
+      ‘Vendor’ refers to one that is responding to an RFP.
+      ‘Contractor’ is used for the Vendor or Vendor partnership that has been chosen to
+       implement the RFP and has a signed contract.
+      ‘The City’ refers to the City of Boston.
+      ‘Participants’ refers to Boston families, the end users.
+      ‘Family deposit’ refers to money deposited into a CSA account by participating families.
+      ‘Earned incentives’ or ‘incentives’ refers to money earmarked for families as they
+       participate in specific incentive activities set forth by the Boston CSA Pilot
+       Program. While earmarked for families, this money lives in a bank account owned by
+       OWD/the City.
+      ‘Savings’ or ‘total savings’ refers to a family’s combined deposits plus earned incentives.
+
+
+1.3/ RFP Communications & Inquiries
+With the release of this RFP, all communications must be directed in writing via email to the
+contact person below. No other OWD employee, consultant, or contractor is empowered to
+
+CSA RFP                                                                                          5
+speak for OWD with respect to this RFP. Any oral communication is considered unofficial and
+non‐binding to OWD.
+
+After the proposal deadline, Vendors should not contact the RFP Coordinator or any other OWD
+official or employee, except to respond to a request by the RFP Coordinator.
+
+The RFP contact is:
+      Peggy Hinds-Watson
+      Mayor’s Office of Workforce Development
+      EDIC/BRA
+      43 Hawkins Street
+      Boston, MA 02114
+
+       Email: peggy.hinds-watson@boston.gov
+
+The Website for this RFP and related documents is:
+http://www.bostonredevelopmentauthority.org/work-with-the-bra/rfps-rfqs-bids/rfp-listing-
+page?id=59
+
+
+All project correspondence will be posted on the RFP website. It is the responsibility of Vendors
+to check the website regularly for information updates, clarifications, and any addenda.
+
+
+1.4/ RFP Timeline
+The preliminary RFP Schedule is detailed below. Dates are subject to change. Any changes will
+be posted in an addendum that can be found on the RFP website.
+
+RFP available                                           Tuesday, October 13
+
+Bidder’s conference call (Q&A)                          Monday, October 26, 12-1:30pm EST
+see RFP website for call details
+
+Deadline for questions or requests for clarifications   Monday, October 26, 5pm EST
+via email to peggy.hinds-watson@boston.gov
+
+Responses to questions posted                           Friday, October 30
+
+Deadline for RFP proposal submission                    Friday, November 13, 5pm EST
+
+Vendor presentations/demos & reference checks           November/December 2015
+
+Final Vendor notification of selection                  Thursday, December 3
+
+
+
+
+CSA RFP                                                                                        6
+2/ Project Scope
+Because the tech tool will be a central pillar of our program, we are looking for specific
+capabilities in the four parts of this project: the back end (2.1.), the front end (2.2), potential
+future requirements (2.3), and sustainability & scalability (2.4).
+
+OWD is looking for a technology partner(s) who will be contracted for the duration of the 3-
+year pilot. The present budget allocated toward the creation of a minimum viable product
+(MVP) by July 1, 2016, inclusive of its back end (2.1), front end (2.2), and associated
+maintenance and sustainability costs (2.4) for this time period, is approximately $150,000. This
+product will serve an estimated 500 participants per year, for a total of no more than 1500
+participants by the end of the 3-year contract. OWD may consider additional features (2.3) and
+maintenance and sustainability features (2.4) that exceed the $150,000 budget, based on your
+specific proposal and the available funding.
+
+We encourage you to submit a proposal responding to all four parts of the RFP. We welcome
+partnerships between multiple firms-- i.e. one firm could build the back end while another
+develops the front end. We will also accept proposals addressing only part of this project scope;
+however, firms proposing only a partial solution must describe how they would be flexible
+enough to work with a partner of our choosing.
+
+Note also, that this RFP is soliciting bids for the RFP tech tool, which is distinct from design of
+programmatic elements such as: defining types of incentives offered, financial education
+offerings, program branding and messaging, and creation of alternative deposit options for
+families. This tech tool may be a vehicle for the delivery of such programmatic elements, but its
+development is distinct.
+
+
+2.1/ Back End Minimum Viable Product
+In order to achieve working front end capabilities, we know the back end will need to, at
+minimum and by July 1, 2016:
+     securely coordinate data from a number of sources, including a number of financial
+       institutions (see Appendix B);
+     be able to link to a minimum number of account types, including savings accounts,
+       checking accounts, custodial accounts, and 529s (see 1.1);
+     automate data transfer;
+     automate execution of at least one type of savings incentive (see 2.3);
+     trigger alerts to both the individual participant and OWD when deposit amounts reach a
+       particular threshold (e.g., the $2000 mark);
+     automate generation of program reports for OWD that show (a) frequency of program
+       use, (b) total family deposit amounts, (c) total earned incentives, and (d) total savings
+       (family deposits + earned incentives) for both individual families and in aggregate,
+     automate download of raw data collected, and
+     incorporate an adaptability to changes and innovations in the financial services and
+       technology sectors, i.e. be constructed on a framework that leverages REST APIs.
+
+CSA RFP                                                                                               7
+2.2/ Front End Minimum Viable Product
+The front end of the tech tool will be each family’s first experience with the CSA program--and
+it will ideally remain their ‘command central’ as they continue to participate in the
+program. We want to make it as easy as we can for participating families to interact with their
+CSA account. This means the tool must be accessible, intuitive to use, easy to navigate, and
+aesthetically pleasing. At minimum and by July 1, 2016, families must be able to:
+     select and “activate” one of the two account options laid out in section 1.1:
+             o (1) easily link an account of their choice (savings, checking, or 529) to the tech
+                  tool (see 1.1), or
+             o (2) create a new custodial account through our future partner financial
+                  institution (see 1.1);
+     view information, such as deposit amounts (into their own linked or their custodial
+          accounts), seed dollars and incentives earned (from OWD’s program funds), total
+          amount “saved” (total between deposits and earned program funds), and other
+          program information;
+     update contact information, communicate intended changes to their program status to
+          OWD (e.g., ‘opt out’ of the program early on or leave the program mid-way), and
+          download program status change forms;
+     ask for help and provide feedback;
+     access the tech tool via any web browser or mobile device; and
+     access the tech tool in both English and Spanish.
+
+These functions should be accessible for all families, including those who have limited computer
+skills.
+
+The tech tool must also provide an interface for OWD staff, so they can quickly and efficiently
+serve participating families. At minimum and by July 1, 2016, OWD will need to:
+     make quick and easy edits or updates to the content and design of the family interface,
+     provide help and support to participating families,
+     share program reminders and alerts with participating families,
+     solicit feedback from families, and
+     analyze participant data in ways that are compelling to funders and constituents.
+
+
+2.3/ Potential Future System Requirements
+While the minimum requirements described in (2.1) and (2.2) above must be tested and ready
+to launch at program start in Fall 2016, we’re interested in scoping out a timeline for the
+duration of the pilot period to experiment with the following additional features:
+     Accessibility for families who read and write languages other than English and Spanish
+       (including traditional and simplified Chinese, Haitian and Cape Verdean Creole,
+       Vietnamese, and Portuguese), and users who have disabilities under ADA Title II (see
+       WCAG2 and Section 508 for guidance) as soon as possible.
+     Execution of multiple types of savings incentives, such as:
+
+
+
+CSA RFP                                                                                             8
+          o     1:1 match- for every $1 that a participating family deposits into their account,
+                OWD matches that contribution with $1 of program funds
+           o Steady Saver- participants who deposit on a pre-determined regular basis
+                receive a fixed bonus (e.g., participants who make deposits once per month for
+                six consecutive months receive an additional $100 of program funds from OWD)
+           o Benchmark- participating children who achieve specific academic benchmarks
+                will receive a fixed bonus (e.g., children who make perfect attendance for six
+                weeks in a row receive an additional $100 of program funds from OWD),
+      Ways for users with disabilities and ways for users with limited English or Spanish skills
+       to also use the tool
+      Ways for families to be able to set and track their own savings goals
+      Ability for families to “link” more than one account to the CSA (e.g., savings and 529)
+      Texts, emails, or alerts that are pushed to families based on specific demographics and
+       milestones
+      Ways to integrate delivery of financial education to participating families
+      Ability for OWD to modify existing reporting mechanisms and/or create their own
+       reporting fields
+      Automatic data analysis that displays real-time analytics in easy-to-read ways
+      Login capability for school leadership to view CSA participation by school
+      Social media integration (Twitter, Facebook, Instagram, email) for participants, OWD,
+       and other partners to highlight achievements
+      Integration with other City tools, such as Discover BPS
+
+
+2.4/ Sustainability & Scalability
+Terrific customer service requires a commitment to constant improvement. At minimum, we
+will need:
+     an ever-improving solution based on stakeholder feedback,
+     training for OWD staff, and
+     ongoing maintenance and support.
+
+
+
+
+CSA RFP                                                                                         9
+3/ The Technical Proposal
+The “technical proposal” is every element of your response to this RFP, except for anything
+having to do with price (the price proposal covers that section). For the technical proposal, we
+are looking for you to include the following: provide an introduction (3.1); share your
+background and qualifications (3.2); propose your approach to this project (3.3); describe your
+ownership and IP preferences (3.4); and sign our standard contract forms (3.5). The final
+element of your technical proposal is a presentation/demo which you may be asked to conduct
+for OWD, the Mayor’s Office of New Urban Mechanics, and the Department of Innovation and
+Technology (3.6).
+
+We’ve also added an optional section (3.7) for you to add those ideas that you wanted to
+include - that you think would make a better technology product to serve our CSA program -
+but that you did not think you could add in your proposal given the time and budget constraints
+of this project.
+
+Please be concise.
+
+
+3.1/ Introduction & Executive Summary
+Please provide a brief introduction highlighting:
+     your company (business concept, operating structure),
+     the services you typically provide,
+     your business size (revenue, employees, customers), and
+     point(s) of contact (name, address, phone(s), email address).
+
+Include any relevant partnerships that your company currently maintains and the type of
+partnership (e.g., service/solution provider, value-added reseller, etc.).
+
+If you are applying as a partnership of more than one firms or organizations, please provide the
+above information for each firm or organization in the partnership. Also describe how your
+partnership will work (e.g., does one firm specialize in back end or specific content area, will
+one firm first work on the project and then pass it off or will you work in tandem, etc.).
+
+If you are proposing a partial solution, please describe how you would be flexible enough to
+work with a partner of our choosing.
+
+Finally, tell us:
+     why you/your partnership is interested in responding to this RFP,
+     why you/your partnership would be a good fit for OWD on this project, and
+     what success for this project would look like to you.
+
+
+3.2/ Vendor Background & Company Qualifications
+Describe your company’s planning, design, and implementation experience in:
+
+CSA RFP                                                                                        10
+      data integration (in general),
+      working with sensitive information (please note if you have worked with financial or
+       school data in particular),
+      working with government or government programs, and/or
+      building and/or integrating web-based financial education tools.
+
+If you have experience with banking data, please list the specific financial institutions you have
+worked with directly.
+
+Additionally, provide three (3) past performances within the last three years, in which your
+company served as the primary vendor to implement banking, school, or financial
+empowerment solution. Please include the following:
+     Project name
+     Title of contract
+     Approximate value of contract
+     Point of contact
+     Contact information
+     Partners (include their specific role, responsibility, & deliverables)
+     Description of products implemented
+     Date of deployment into production
+If applying as a partnership, include any past performances as a partnership.
+
+NOTE: If you have had a contract terminated for default during the past five (5) years, or have
+been involved in litigation regarding a contract, this fact should be disclosed along with your
+position on the matter(s). If you have experienced no such terminations for default in the past
+five (5) years and have not been involved in contract litigation, then you should indicate as
+such.
+
+
+3.3/ Response to Scope of Work
+Describe how you would deliver the solution outlined in Section 2 that meets and/or exceeds
+our needs. This section is a critical component of the proposal. We want you to give us the
+clearest possible picture of what you and your solution can provide to the Boston CSA Pilot
+Program, given the stated parameters. Include a detailed description of your work plan and
+project organization (e.g., timelines, estimated hours of work per each of the four parts, etc.)
+when possible. Feel free to use anything (e.g., graphics, links to your work, etc.) that helps you
+make your case. You can also include any images that might help OWD understand your
+proposal as an appendix.
+
+3.3.1/ Back End Minimum Viable Product
+Please walk us through each feature bulleted in (2.1) and describe your back end minimum
+viable product (MVP) that would be tested and ready for family and OWD use by July 1, 2016.
+Fill out the Back End Minimum Viable Product Project Scope table (C.1) with the requested
+
+
+CSA RFP                                                                                          11
+information, and be sure to incorporate your answers to the questions below into your
+response to this section.
+     This tool must be dependable and secure. How would user access and security
+       restrictions be managed for the types of data listed in Appendix B? Describe your
+       experience handling sensitive information such as student data and financial records.
+       Provide a detailed description of your confidentiality and security standards, and
+       identify all industry standards that your proposed solution meets.
+     How will your MVP enable participants to link multiple types of accounts at a variety of
+       financial institutions?
+     How would you automate data transfer for each of the types of data described in
+       Appendix B?
+     How would your MVP execute savings incentive(s)?
+     Describe the types of alerts your MVP would be able to provide to participants and
+       families, and describe the technology underlying these alerts.
+     Describe or show the reports that are mentioned in (2.1), and describe the technology
+       underlying these reports. What other reports are available through your tool? How easy
+       would it be for our team to modify these reports and/or create new ones? Can they be
+       automated?
+     How would you make the raw data collected in the system available to us and our
+       partners? Please specify frequency and formats of data transfers, and which
+       components of the raw data are, and are not, made accessible in this way.
+     How would your solution adapt to changes and innovations? Could you provide
+       information on program participants through an API?
+     If any hardware and/or software are required at OWD as part of a hosted solution,
+       please specify and provide detail.
+     If there are elements listed under (2.1) that your product cannot deliver by July 1, 2016,
+       please explain when you might be able to deliver each of these elements.
+
+3.3.2/ Front End Minimum Viable Product
+Please walk us through each feature bulleted in (2.2) and describe your front end minimum
+viable product (MVP) that would be tested and ready for family and OWD use by July 1, 2016.
+Fill out the Front End Minimum Viable Product Project Scope table (C.2) with the requested
+information, and be sure to incorporate your answers to the questions below into your
+response to this section.
+      Describe how your tool would provide a terrific experience for both families and for
+         OWD. Please reference your own work and/or other design inspirations, and explain
+         how you would provide the features and accessibility described in (2.2). Address how
+         families and OWD would view and share information. How would the tool
+         accommodate users on any browser or device, including those with limited computer
+         skills?
+      Suppose a family wanted to change their account from a savings account at a bank to
+         the State’s 529 account, and suppose this was permissible under program rules. Tell us
+
+
+
+CSA RFP                                                                                       12
+       (a) the steps families would need to take, (b) the steps OWD would need to take, and (c)
+       the processes your proposed solution would need to run to complete this transaction.
+      What customization can be done by users?
+      Program information will need to be provided and accessible to families. What format
+       would you need this information to make sure that families could access, read, and print
+       or download this information?
+      Using your tool, what is OWD’s process for editing content and design of the family
+       facing portal (“front end”)?
+      What information you would be able to provide to help us understand how families use
+       your proposed tech tool and the program? How would you automate data transfer for
+       these metrics?
+      If there are elements listed under (2.2) that your product cannot deliver by July 1, 2016,
+       please explain when you might be able to deliver each of these elements.
+
+3.3.3/ Potential for Additional Features
+Please describe how, over the course of the 3-year pilot, you envision scoping out the
+introduction and testing of any of the features described in (2.3) and/or features that your
+solution might include that we have not yet thought about. Fill out the Additional Features
+Project Scope table (C.3) with the requested information, and provide us with a year-by-year
+timeline of your plan, including what you would require from OWD and OWD’s partners to be
+successful. Please highlight any features described in (2.3) that you would actually have ready
+for the MVP.
+
+
+3.3.4/ Sustainability & Scalability
+Please answer the following regarding the sustainability and scalability of your proposed
+solution.
+     Will you have the ability to regularly collect user feedback through the
+       platform? Describe how feedback is collected from the various user types and how that
+       feedback can be incorporated for OWD to use and act upon.
+     Specify and detail the scalability of the recommended solution and what would be
+       required to expand for increased usage.
+     If you can provide training for key OWD staff, tell us what your training plan might be
+       and specify the skills OWD staff might need. What level of staffing is best practice for
+       OWD to manage/administer the tool?
+     Describe the ongoing maintenance and support at all levels for your proposed solution.
+
+
+3.3.5/ Other Solution Details (Optional)
+Please provide any additional information around your proposal that you feel is necessary to
+allow OWD to make informed planning and budgeting decisions. In particular, we are interested
+in other capabilities of the platform that may benefit OWD and the Boston CSA Pilot Program.
+
+
+CSA RFP                                                                                           13
+3.4/ Ownership & Intellectual Property
+Our interest is to work with a partner to develop an exceptional product, a product that
+continues to improve both beyond this contract. Considering this, there are several options that
+OWD will consider with respect to the ownership of the code and intellectual property
+developed under this contract:
+   1. Work for Hire. In this option, OWD is the owner of the code and all intellectual property
+       developed as part of this project. In this case, OWD will likely open source this project
+       following its completion, under a license that would encourage others to use the code
+       and the intellectual property.
+   2. Not Work For Hire, but Perpetual, Unlimited Rights License for OWD to the Code &
+       IP. In this option, the partner would be the owner of the code and all intellectual
+       property developed as part of this project. OWD would receive a perpetual, unlimited
+       rights license to the software in its final state at the completion of the contract as well
+       as the code and the intellectual property.
+       Unlimited rights means that OWD may use, disclose, reproduce, prepare derivative
+       works, distribute copies to the public, and perform publicly and display publicly the
+       code, software, and all related IP, in any manner and for any purpose, and to have or
+       permit others to do so, even for commercial purposes.
+   3. Not Work For Hire, and Perpetual, Government Purpose License for OWD to the Code
+       & IP. In this option, the partner would be the owner of the code and all intellectual
+       property developed as part of this project. OWD would have a perpetual, Government
+       Purpose License to the software and code in its final state at the completion of the
+       contract. A Government Purpose License provides OWD and its affiliated entities the
+       right to reproduce, use, and prepare derivative works for government purposes.
+       Government purpose means any activity in which OWD or its affiliated entities is a
+       party, including cooperative agreements with other government entities. Government
+       purposes do not include the rights to use, modify, reproduce, or disclose software or
+       code for private commercial purposes or authorize others to do so.
+   4. Not Work For Hire, and Perpetual License for OWD to the Code & IP. In this option, the
+       partner would be the owner of the code and all intellectual property developed as part
+       of this project. OWD and its affiliated entities would have a perpetual license to use the
+       software in its final state at the completion of the contract.
+
+In your response, please specify which of these options you would prefer. You may also
+propose an alternative if none of these approaches fit your needs. In all instances members of
+the public will have a limited license to use the public facing component of the software for the
+purpose of accessing and processing permitting information.
+
+
+3.5/ Presentation/Demo
+OWD is looking for a close partner on this project. To gauge alignment with OWD’s goals, you
+may be invited in for an on-site session with OWD to present/demo your technical proposal and
+answer questions OWD may have. Demos will be scheduled during:
+    November 23-November 25
+
+CSA RFP                                                                                        14
+      November 30-December 2
+
+
+3.6/ The Cutting Room Floor (Optional)
+There may be efforts you would have liked to include in this proposal that were not covered but
+did not think were feasible given time and budget constraints. We would like to know what
+some of those were. This section is optional.
+
+
+
+
+CSA RFP                                                                                     15
+4/ The Price Proposal
+OWD is looking for a technology partner(s) who will be contracted for the duration of the 3-
+year Boston CSA pilot. The present budget allocated toward the creation of a minimum viable
+product (MVP) by July 1, 2016, inclusive of its back end (2.1), front end (2.2), and associated
+maintenance and sustainability costs (2.4) for this time period, is approximately $150,000. This
+product will serve an estimated 500 participants per year, for a total of no more than 1500
+participants by the end of the 3-year contract. OWD may consider additional features (2.3) that
+exceed the $150,000 budget, based on your specific proposal and the available funding.
+
+The price proposal asks for details concerning the components of the pricing that go into each
+Vendor's overall proposal. There are two parts to the price proposal: the narrative (4.1) and a
+line-item budget (4.2). Understanding the level of effort and cost for each deliverable helps
+OWD to better understand the structure of the proposed work.
+
+Vendors are reminded that the price proposal must be submitted as a separate pricing
+document in a separate sealed envelope.
+
+
+4.1/ Narrative
+Please include a narrative describing the various costs associated with your project and how
+your organization approaches pricing. While your narrative can take any format, it should
+include a justification for the various costs described in the line-item budget (4.2).
+
+
+4.2/ Line-Item Budget
+We require detailed pricing information in order to be able to evaluate your proposal. Please
+use the following grid, or something similar, to provide detailed pricing for the following project
+parts. If more information is needed, please request those details during the Bidder’s
+Conference Call (1.4) or submit your questions in writing (1.3). Responses to all relevant
+questions will be made publicly available per Sections 1.3 and 1.4.
+
+            PROJECT PART                        PRICE              RANGE EXPLANATION
+                                              ESTIMATE      (explain difference between low and
+                                               RANGE        high estimate or variables that affect
+                                            (low to high)           lower/higher pricing)
+
+Development & Implementation of
+Back End Minimum Viable Product
+(2.1)
+as described in your proposal
+
+Development & Implementation Front
+End Minimum Viable Product (2.2)
+
+
+CSA RFP                                                                                         16
+as described in your proposal
+
+Additional Features - Year 1 (2.3)
+Please list specific features
+
+Additional Features - Year 2 (2.3)
+Please list specific features
+
+Additional Features - Year 3 (2.3)
+Please list specific features
+
+Training (2.4)
+As described in your proposal
+
+Maintenance & Support (2.4)
+
+License or Subscription (If applicable--
+please specify your pricing model i.e.
+annually, per user, etc.)
+
+Other Costs
+for costs that do not fall under any of
+the above categories-- please specify
+
+If necessary, provide sub-line items to delineate specific expenses that might fall under each
+project part.
+
+For prices associated with items you detailed in Section 3.7 (optional), please use the following
+grid or something similar:
+
+          ADDITIONAL ITEMS                      PRICE              RANGE EXPLANATION
+                                              ESTIMATE      (explain difference between low and
+                                               RANGE           high estimate or variables that
+                                            (low to high)       affect lower/higher pricing)
+
+ITEM DESCRIPTION
+
+ITEM DESCRIPTION
+
+ITEM DESCRIPTION
+
+(ADD ROWS AS NEEDED)
+
+
+
+
+CSA RFP                                                                                          17
+5/ Submitting the Technical & Price Proposals
+This section provides an overview of the process for submitting your proposal in response to
+this RFP. Vendors are strongly advised to read this section in its entirety and to complete the
+checklist, since failure to comply with the process can result in disqualification.
+
+
+5.1/ Checklist for Submitting Proposal
+Following these instructions, you will find a checklist form that is customized to this RFP. This
+checklist is for your use, to make sure that you are submitting everything that is required in
+your proposal. You do not need to include the checklist with your proposal, but please use the
+checklist before submitting your proposal to be sure your proposal is complete.
+
+5.1.1/ Instructions for Using the Checklist
+   1. Make sure that the form you are using matches the proposal you are responding to by
+      examining the heading information on your form – the RFP name and the deadline. Is
+      this the RFP you are responding to?
+
+   2. Sections A and B identify the items that are required to reply to the technical proposal
+and the price proposal, respectively.
+
+       There are three columns for each item listed:
+      RFP Section ‐ This is where you can find details in the RFP document for each item listed
+       on the checklist.
+      Form (Y/N) – This identifies items on the checklist that have a form and those which do
+       not.
+      Completed – Use this box to check off the items that have been completed.
+
+   3. The last section of the checklist – Final Review (C) – provides a final check to make sure
+that you are not making any mistakes that would cause your proposal to be eliminated.
+
+
+
+
+CSA RFP                                                                                           18
+5.1.2/ Checklist for Submitting RFP Proposal
+
+RFP Name:
+Deadline:
+
+                                                                     RFP     Form Completed
+                                                                   Section   (Y/N)   (✓)
+
+A. Required Items for Technical Proposal
+
+1. Introduction & Executive Summary                                  3.1      N
+
+2. Vendor Background & Company Qualifications                        3.2      N
+
+3. Response to Scope of Work                                         3.3      N
+
+4. Ownership & Intellectual Property                                 3.4      N
+
+B. Required Items for Price Proposal
+
+1. Narrative                                                         4.1      N
+
+2. Line-Item Budget                                                  4.2      Y
+
+C. Final Review                                                     YES      NO
+
+1. Did you submit the proposal before the deadline?
+
+2. Did you submit separate, sealed technical and price
+proposals?
+
+3. Did you make sure that there is no pricing information in the
+technical proposal?
+
+4. Did you review all standard contract forms? The selected
+firm will be required to sign all forms at contract award, and
+should not expect to incorporate changes.
+
+
+
+
+CSA RFP                                                                                  19
+5.2/ Submission by Mail or Hand
+Absolutely no responses will be accepted after the due date and time. OWD reserves the right
+to reject any or all bids. The award of a contract for services requested by this RFP shall be
+subject to the approval of the Board of the Economic Development Industrial Corporation
+(EDIC).
+
+5.2.1/ Technical Proposal
+The print version of the technical proposal may be submitted to OWD either by mail, by a
+delivery service, or delivered in person.
+
+Vendors submitting a print proposal must submit a complete original technical proposal in a
+sealed envelope along with three (3) copies and one (1) digital copy (thumb drive). The
+envelope should be clearly marked as follows:
+
+       Peggy Hinds-Watson
+       OWD CSA Pilot Program: Tech Tool RFP
+       TECHNICAL PROPOSAL
+       Submitted by: [Name of Vendor]
+       [Date Submitted]
+
+and must be delivered or mailed to:
+
+       Peggy Hinds-Watson
+       Mayor’s Office of Workforce Development
+       EDIC/BRA
+       43 Hawkins Street
+       Boston, MA 02114
+
+Mailed proposals must be RECEIVED by 5pm EST, Friday, November 13, 2015.
+
+5.2.2/ Price Proposal
+Price proposals must be submitted under separate cover and in a sealed envelope. The print
+version of the price proposal may be submitted to OWD either by mail, a delivery service, or by
+delivery in person.
+
+Vendors submitting a print proposal must submit a complete original price proposal in a sealed
+envelope (separate from the technical proposal) with one (1) digital copy (thumb drive). The
+envelope must be clearly marked:
+
+       Peggy Hinds-Watson
+       OWD CSA Pilot Program: Tech Tool RFP
+       PRICE PROPOSAL
+       Submitted by: [Name of Vendor]
+
+CSA RFP                                                                                       20
+       [Date Submitted]
+
+and delivered or mailed to:
+
+       Peggy Hinds-Watson
+       Mayor’s Office of Workforce Development
+       EDIC/BRA
+       43 Hawkins Street
+       Boston, MA 02114
+
+Mailed proposals must be RECEIVED by 5pm EST, Friday, November 13, 2015.
+
+
+
+
+CSA RFP                                                                    21
+6/ Selection Criteria
+The criteria we are using for judging the strength of the technical proposal are outlined below.
+Each proposal will be evaluated consistent with M.G.L. c. 30B sec. 6.
+
+
+6.1/ Minimum Evaluation Criteria
+All proposals received by OWD will first be reviewed to determine whether the proposal meets
+all minimum criteria identified in the RFP. Minimum criteria are found in the Checklist for
+Submitting Proposal (5.1).
+
+For a proposal to meet all minimum criteria, a Vendor must unconditionally be able to check
+each item as ‘Completed’ for Sections A and B and ‘Yes’ for each item in Section C. Minimum
+evaluation criteria reflect those standards or attributes that OWD considers essential to the
+performance of the contract.
+
+
+6.2/ Comparative Evaluation Criteria
+Proposals that have met all minimum evaluation criteria will be evaluated according to the
+comparative evaluation criteria that follow in this section. After reviewing, the evaluation team
+will prepare written evaluations for each proposal. The evaluators will assign a rating of “highly
+advantageous,” “advantageous,” or “not advantageous” to each criterion. The team will use the
+comparative evaluation criteria to assist in their evaluation of each Vendor’s overall
+qualifications. All comparative evaluation ratings will be determined by the evaluation team.
+
+OWD reserves the right to invite Vendors for an in-person demo or an interview either by
+phone or in person. OWD may choose to conduct reference checks and include information
+obtained from the interview and reference checks in the evaluation.
+
+NOTE: Vendors should not count on interviews and reference checks as an opportunity to
+provide additional information not contained in the proposal. All information that Vendors wish
+the selection team to consider during the evaluation process should be included in the originally
+submitted proposal.
+
+Price proposals will be evaluated separately from the technical proposals. The evaluation team
+will not see the price proposals until after the technical evaluations are complete.
+
+6.2.1/ Introduction & Executive Summary (3.1)
+HIGHLY               Vendor offers a clear introduction to the applicant firm(s), including all
+ADVANTAGEOUS         information requested in Section 3.1. Vendor demonstrates a clear
+                     alignment between the Boston CSA Program goals and the firm’s portfolio
+                     trajectory. Partnerships have a demonstrated history of success, or
+                     Vendor demonstrates a history of “flexibility” in similar projects.
+
+
+CSA RFP                                                                                         22
+ADVANTAGEOUS       Vendor provides a clear introduction to the applicant firm(s) that includes
+                   all information requested in Section 3.1. Vendor’s reasons for responding
+                   to this RFP are clearly stated. Partnerships are clearly described and
+                   demonstrate thoughtfulness in selection, or Vendor clearly explains what
+                   flexibility means for the Vendor (for partial solutions).
+
+NOT                Information requested in Section 3.1 is not provided in full; Vendor’s
+ADVANTAGEOUS       reasons for responding to this RFP are vague, unclear, or
+                   confusing. Proposed partnerships have not been tested, or explanation of
+                   flexibility (for partial solutions) is unclearly described.
+
+
+6.2.2/ Vendor Background & Company Qualifications (3.2)
+HIGHLY              Information requested in Section 3.2 is provided in full. Vendor’s past
+ADVANTAGEOUS        experience demonstrates at least two of the following: integration with
+                    financial and/or school data, demonstrated knowledge of and/or previous
+                    work with municipalities, previous experience building or integrating web-
+                    based financial education tools, previous work with and/or a working
+                    knowledge of CSAs, demonstrated knowledge of and/or previous work
+                    with human- (or customer-) centered design, demonstrated success in
+                    previous projects, and/or experiences with evaluated work.
+
+ADVANTAGEOUS        Information requested in Section 3.2 is provided in full. Vendor has past
+                    experience and success with data integration, has worked with
+                    government or government programs, and/or has experience building or
+                    integrating a web-based financial education tool.
+
+NOT                 Information requested in Section 3.2 is not provided in full. Vendor has
+ADVANTAGEOUS        little to no experience with banking and/or school integrations, working
+                    with government or government programs, or building web-based
+                    financial education tools.
+
+
+6.2.3/ Technical Proposal (3.3)
+6.2.3.1/ Back End Minimum Viable Product (3.3.1)
+HIGHLY              Vendor’s response addresses all aspects of the back end MVP described in
+ADVANTAGEOUS        Section 2.1. Vendor’s response exceeds meeting the minimal needs
+                    described in Section 2.1 by July 1, 2016 (e.g., Vendor’s response includes
+                    APIs, a wide variety of reporting capabilities, etc.).
+
+ADVANTAGEOUS        Vendor’s response addresses all aspects of the back end MVP described in
+                    Section 2.1. Vendor’s response meets the minimal needs described in
+                    Section 2.1 by July 1, 2016.
+
+
+CSA RFP                                                                                        23
+NOT                   Vendor’s response does not address all aspects of the back end MVP
+ADVANTAGEOUS          described in Section 2.1. Vendor’s response does not meet the minimal
+                      needs described in Section 2.1 by July 1, 2016.
+
+6.2.3.2/ Front End Minimum Viable Product (3.3.2)
+HIGHLY                Vendor’s responses addresses all aspects of the front end MVP described
+ADVANTAGEOUS          in Section 2.2. Vendor’s response exceeds meeting the minimal needs
+                      described in Section 2.2 by July 1, 2016 (e.g., pervasively easy for OWD to
+                      make front end changes, includes description of mobile responsiveness,
+                      includes description of integration with social media, etc.).
+
+ADVANTAGEOUS          Vendor’s response addresses all aspects of the front end MVP described in
+                      Section 2.2. Vendor’s response meets the minimal needs described in
+                      Section 2.2 by July 1, 2016.
+
+NOT                   Vendor’s response does not address all aspects of the front end MVP
+ADVANTAGEOUS          described in Section 2.2. Vendor’s response does not meet the minimal
+                      needs described in Section 2.2 by July 1, 2016.
+
+6.2.3.3/ Proposed Additional Features (3.3.3)
+HIGHLY                Vendor’s response includes a timeline and description of support needed
+ADVANTAGEOUS          from OWD. Vendor is able to provide a robust number of additional
+                      features over the duration of the 3-year pilot, Vendor’s timeline seems
+                      realistic, and Vendor provides justification for timeline milestones.
+
+ADVANTAGEOUS          Vendor’s response includes a timeline and description of support needed
+                      from OWD. Vendor is able to provide some additional features over the
+                      duration of the 3-year pilot, Vendor’s timeline seems realistic, and Vendor
+                      provides justification for timeline milestones.
+
+NOT                   Vendor’s response does not include a timeline or description of support
+ADVANTAGEOUS          needed from OWD. Vendor’s is not able to provide any additional features
+                      over the duration of the 3-year pilot, Vendor’s timeline does not seem
+                      realistic (either too ambitious or not ambitious enough), and/or Vendor
+                      does not provide justification for timeline milestones.
+
+6.2.3.4/ Sustainability & Scalability (3.3.4)
+HIGHLY                Vendor’s response addresses all aspects of sustainability and scalability
+ADVANTAGEOUS          described in Section 2.4. Vendor’s response exceeds meeting the minimal
+                      needs described in Section 2.4 (e.g., the product can be scaled
+                      immediately, staff training and help desk access is unlimited for the
+                      duration of the program, etc.).
+
+CSA RFP                                                                                         24
+ADVANTAGEOUS         Vendor’s response addresses all aspects of sustainability and scalability
+                     described in Section 2.4. Vendor’s response meets the minimal needs
+                     described in Section 2.4.
+
+NOT                  Vendor’s response does not address all aspects of sustainability and
+ADVANTAGEOUS         scalability described in Section 2.4. Vendor’s response does not meet the
+                     minimal needs described in Section 2.4.
+
+6.2.3.5/ Other Solutions Details (Optional) (3.3.5)
+HIGHLY               Vendor’s response included very compelling other capabilities that would
+ADVANTAGEOUS         benefit the program.
+
+ADVANTAGEOUS         N/A
+
+NOT                  N/A
+ADVANTAGEOUS
+
+
+6.2.4/ Ownership & Intellectual Property (3.4)
+HIGHLY               Vendor describes any of the options presented in Section 3.4, or something
+ADVANTAGEOUS         similar and will open source code.
+
+ADVANTAGEOUS         Vendor describes any of the options presented in Section 3.4, or something
+                     similar and will not open source code.
+
+NOT                  Vendor makes no selection and presents no other similar option.
+ADVANTAGEOUS
+
+
+6.2.5/ Presentation/Demo -- If Needed (3.5)
+HIGHLY               Presenters are well-organized and provide a clear, concise presentation.
+ADVANTAGEOUS         The presentation demonstrates strong insight into OWD’s requirements, as
+                     described in the RFP.
+
+ADVANTAGEOUS         Presenters are organized. Presentation demonstrates understanding of
+                     OWD’s requirements, as described in the RFP.
+
+NOT                  Presenters are not organized and/or provide an unclear presentation.
+ADVANTAGEOUS         Presentation demonstrates little understanding into OWD’s requirements,
+                     as described in the RFP.
+
+
+
+
+CSA RFP                                                                                          25
+6.2.6/ Cutting Room Floor (Optional) (3.6)
+HIGHLY           Vendor’s response included very compelling features that would, at a later
+ADVANTAGEOUS     date, add value to the program.
+
+ADVANTAGEOUS     N/A
+
+NOT              N/A
+ADVANTAGEOUS
+
+
+
+
+CSA RFP                                                                                  26
+7/ Terms & Conditions
+7.1/ Cancellation, Rejection, and Waiver
+OWD is under no obligation to proceed with this RFP and may cancel the RFP at any time with
+or without the substitution of another. OWD reserves the right to reject in whole or in part any
+or all proposals, when OWD determines that rejection serves the best interests of OWD. OWD
+may waive minor informalities in the proposal or allow the Vendor to correct them.
+
+
+7.2/ Withdrawal or Modification of Proposal
+OWD may allow a Vendor representative bearing proper authorization and identification to
+sign for, receive and withdraw the Vendor's unopened proposal prior to the submission
+deadline. A Vendor that seeks to correct or modify its proposal may do so by withdrawing the
+initial submission and then submitting a modified proposal prior to the submission deadline.
+
+
+7.3/ Proposal Validity Period
+By submitting a proposal, the Vendor agrees that its proposal is valid for one hundred twenty
+(120) days following the submission deadline unless extended by mutual agreement.
+
+
+7.4/ Proposal Costs
+Any and all costs incurred by a Vendor in preparing a proposal and throughout the RFP process
+are ineligible for reimbursement by OWD.
+
+
+7.5/ Taxes
+OWD is a tax‐exempt organization. However, should any part of the Contract be subject to
+taxes, unless otherwise specified in this RFP, the Vendor shall include and be responsible for
+paying all taxes that are applicable.
+
+
+7.6/ Subcontractors
+OWD will contract with one Contractor who will be solely responsible for contractual
+performance and who shall be the sole point of contact for OWD with regard to Contract
+matters. In the event that the Contractor utilizes one or more Subcontractors, the Contractor
+will assume all responsibility for performance of services by the Subcontractor(s).
+
+OWD must be named as a third party beneficiary in all subcontracts. A list of all Subcontractors
+proposed to take part in the performance of the Contract shall be provided to OWD for
+approval prior to Contract execution.
+
+
+
+
+CSA RFP                                                                                          27
+7.7/ Use of City Name
+The Contractor and any Subcontractor(s) agree not to use the City of Boston name or seal, or
+that of any other City Agency or Department, or of the Boston Redevelopment Authority in
+advertising, trade literature, or press releases without the prior approval of OWD.
+
+
+7.8/ Rule of Award
+The contract for the Boston Children’s Savings Accounts (CSA) Pilot Program Tech Tool will be
+awarded to the most favorable proposal based on the selection criteria outlined in Section 6
+above. The successful respondent will be deemed, in the opinion of the selection Committee, to
+be the most responsive and acceptable proposal, taking into consideration the reliability of the
+respondent, the qualities of the services proposed to be supplied, and their conformity with the
+specifications required. Pricing will be a significant factor, but not the sole determinant in the
+selection.
+
+If a Contract is awarded, the Contract will be awarded to that responsive and responsible
+Vendor whose proposal is deemed most advantageous to OWD taking into consideration the
+evaluation criteria and proposal pricing. OWD will contract with the selected Vendor that best
+meets OWD's needs and may not necessarily make an award to the lowest price bidder.
+
+An award letter or award notification is not a communication of acceptance of a Vendor's
+proposal. No final award has been made until final execution of a Contract by the Vendor and
+OWD, and the approval of the final Contract by the EDIC Board, as well as Contractor receipt of
+a City issued Purchase Order. Until such time, OWD may reject any or all proposals or elect not
+to proceed with this RFP. The Vendor shall not furnish any services, equipment, materials, or
+labor unless a fully executed and approved Contract and Purchase Order is received from OWD,
+and funds are appropriated for the Contract.
+
+
+7.9/ Contract
+The selected firm will be required to sign EDIC’s Standard Contract upon contract award. In
+addition to EDIC's Standard Contract and any applicable supplemental terms and conditions
+that are part of this RFP, the Contract will include, without limitation, OWD required forms and
+certifications, including OWD's CORI Compliance Certification, Living Wage Form, Wage Theft
+Form, Contractor Certification, and Certificate of Authority. These forms are available upon
+request. The submitted proposal, along with the RFP, will also be part of the Contract between
+OWD and the Contractor.
+
+The Contract is subject to the availability and appropriation of funds and may be cancelled by
+OWD without penalty in any year in which an appropriation is not made.
+
+For your reference, the following contract and form sample documents are provided as
+attachments at the end of this RFP:
+     EDIC Sample Standard Contract
+
+
+CSA RFP                                                                                          28
+      Non-Collusion Affidavit
+      Certificate of Tax, Employment Security, and Child Care Compliance
+
+
+7.10/ Term of Contract
+The term of the contract will be for three (3) years.
+
+
+7.11 Public Records
+Proposals shall be confidential until the completion of the evaluations, or until the time for
+acceptance specified in the RFP, whichever is earlier. Thereafter, proposals will be public
+record. Do not submit confidential information in your proposal.
+
+
+
+
+CSA RFP                                                                                          29
+Appendix A/ Overview of Relevant City Departments & Key
+Stakeholders
+Because several stakeholders will come together to produce the CSA Pilot Program, all City
+departments and key stakeholders--and a general sense of their roles and functions pertaining
+to the CSA Pilot Program--are detailed in this appendix.
+
+A.1/ Mayor’s Office of Financial Empowerment
+The Mayor’s Office of Financial Empowerment (OFE) will act as the primary manager of the CSA
+Pilot Program. OFE will be responsible for all programmatic duties related to the CSA Pilot
+Program.
+
+A.2/ Boston Public Schools
+The Boston Public Schools (BPS) will serve as the initial point of contact for the CSA Pilot
+Program. The CSA Pilot Program will be delivered to 3-5 BPS schools with Kindergarten
+classrooms during the pilot phase; the full program will reach all Boston district and charter
+school Kindergarten classrooms.
+
+BPS will provide participating families with information about the CSA Pilot Program, and they
+will serve as hosts for the delivery of some of the in-person financial education components.
+
+A.3/ Eos Foundation
+The Eos Foundation serves as one of the primary partners driving the CSA Pilot Program. Eos
+and OFE are jointly designing the CSA Pilot Program to meet Boston’s specific needs. Eos is also
+the primary funder of the CSA Pilot Program.
+
+A.4/ Financial Institution
+Families who choose to link their own bank accounts to the tech tool will likely bank at one of
+many financial institutions in the Boston area. While we cannot foresee every financial
+institution that our participants may want to link to, we would like to give them as many
+options as possible.
+
+The following are financial institutions (listed in alphabetical order) that have over five brick and
+mortar branches in the City of Boston:
+     Bank of America
+     Citizen’s Bank
+     East Boston Savings Bank
+     Eastern Bank
+     Santander Bank
+     TD Bank
+In addition, there are several credit unions in Boston that our participants may belong to,
+and/or our participants may already have MA 529 accounts (serviced by Fidelity) or 529
+accounts from other states.
+
+
+CSA RFP                                                                                           30
+A financial institution (TBD) will serve as the primary banking partner for the CSA Pilot
+Program’s individual custodial accounts.
+
+A.5/ Account Custodian
+An account custodian (TBD) will serve as the named holder of the individual custodial accounts
+for participants who choose that option.
+
+
+
+
+CSA RFP                                                                                     31
+Appendix B/ Overview of Relevant Technical Systems
+ Stakeholder              Data                 System             Sharing          Frequency of
+                                                                  Format              Sharing
+
+Financial         Participant deposits    Multiple*            Multiple*       Nightly
+Institutions
+                  Participant             Multiple*            Multiple*       Nightly
+                  withdrawals
+
+Account           Participant seed        TBD, but could       TBD, but        Nightly
+Custodian         money                   potentially be       likely to be
+(TBD)                                     PeopleSoft           Excel
+
+                  Participant earned      TBD, but could       TBD, but        Nightly
+                  incentives              potentially be       likely to be
+                                          PeopleSoft           Excel
+
+Boston Public     Child contact           Aspen                EdFi            Annually
+Schools           information                                  SIS
+
+                  Child school and        Aspen                EdFi            Annually
+                  school ID number                             SIS
+
+                  Child attendance,       Aspen                EdFi            TBD in partnership
+                  grades, etc. (for                            SIS             with OFE, BPS, IT
+                  incentives)                                                  developer
+*Tech solution must be agnostic to financial institution and account type--in other words, the
+ideal tech solution would allow any financial institution (bank, credit union) and any account
+type (savings, checking, 529) to be able to be linked so that families could easily join an existing
+account to this program.
+
+B.1/ Participant Deposits
+Participant deposits into their accounts will likely clear on a nightly basis. Participants and OWD
+will need to be able to see when deposits are made, amount of each deposit, and cumulative
+total deposit amounts.
+
+B.2/ Participant Withdrawals
+Participant withdrawals from their accounts will likely clear on a nightly basis. Participants and
+OWD will need to be able to see when withdrawals are made, and withdrawing participants will
+need to be alerted to the repercussions of withdrawal prior to completing the withdrawal
+transaction.
+
+B.3/ Seed Money
+
+
+
+CSA RFP                                                                                           32
+Participants will begin with up to $100 of seed money earmarked for them in OWD’s/the City’s
+“Master Account.” Participants and OWD will need to be able to see both the seed amount and
+cumulative program fund amounts.
+
+B.4/ Earned Incentives
+Participants may “earn” incentives over the course of the program. These incentives are also
+earmarked in OWD’s/the City’s “Master Account” under the participant’s name. Participants
+and OWD will need to be able to see when incentives are earned, the amount of incentive
+earned, and cumulative program fund amounts.
+
+B.5/ Child Contact
+Each child’s name and address must be input from BPS after K2 registration has completed and
+a finalized list of children in each class is made. Additionally, children who join a class mid-year
+should be able to be added to the program using this information from BPS.
+
+B.6/ Child School & School ID Number
+Each child’s ID number and present school must be input from BPS after K2 registration has
+completed and a finalized list of children in each class is made. Additionally, children who join a
+class mid-year should be able to be added to the program using this information from BPS.
+
+B.7/ Child Attendance, Grades
+Children’s attendance, grades, and other school data may be used as a means for earning
+incentives in the future (see 2.3). These data would need to come from BPS to trigger
+earmarking of program funds for specific children.
+
+
+
+
+CSA RFP                                                                                           33
+Appendix C/ Technical Proposal Response - Project Scope
+For each of the project scope tables listed below, please indicate the point in time by which
+each listed feature will be ready to use, unless otherwise noted.
+
+C.1/ Back End Minimum Viable Product Project Scope
+Feature                      Ready for       Ready for       Ready for       Notes
+                             use on          use on          use on
+                             7/1/2016        7/1/2017        7/1/2018
+
+Securely coordinate data    [List # of       [List # of      [List # of
+from a number of sources, financial          financial       financial
+including a number of       institutions]    institutions]   institutions]
+financial institutions (see
+Appendix B)
+
+Able to link to savings
+accounts
+
+Able to link to checking
+accounts
+
+Able to link to 529
+accounts
+
+Able to link custodial       [List type]     [List type]     [List type]
+accounts
+
+Automated data transfer
+
+Automated execution of       [List number    [List number    [List
+savings incentives (see      and which       and which       number and
+2.3)                         one(s)]         one(s)]         which
+                                                             one(s)]
+
+Trigger alerts to both       [Specify        [Specify        [Specify
+individual participant and   mode(s) of      mode(s) of      mode(s) of
+OWD when deposit             alert – e.g.,   alert – e.g.,   alert – e.g.,
+amounts reach a              text, email,    text, email,    text, email,
+particular threshold         etc.]           etc.]           etc.]
+
+Automate generation of       [Specify        [Specify        [Specify
+program reports for OWD      individual,     individual,     individual,
+that show frequency of       aggregate, or   aggregate, or   aggregate,
+program use                  both]           both]           or both]
+
+
+CSA RFP                                                                                         34
+Automate generation of       [Specify        [Specify        [Specify
+program reports for OWD      individual,     individual,     individual,
+that show total family       aggregate, or   aggregate, or   aggregate,
+deposit amounts              both]           both]           or both]
+
+Automate generation of       [Specify        [Specify        [Specify
+program reports for OWD      individual,     individual,     individual,
+that show total earned       aggregate, or   aggregate, or   aggregate,
+incentives                   both]           both]           or both]
+
+Automate generation of       [Specify        [Specify        [Specify
+program reports for OWD      individual,     individual,     individual,
+that show total savings      aggregate, or   aggregate, or   aggregate,
+(family deposits + earned    both]           both]           or both]
+incentives)
+
+Automate download of
+raw data collected
+
+Incorporate an
+adaptability to changes
+and innovations in the
+financial services and
+technology sectors – i.e.
+be constructed on
+framework that leverages
+REST APIs
+
+C.2/ Front End Minimum Viable Product Project Scope
+Feature                      Ready for       Ready for       Ready for     Notes
+                             use on          use on          use on
+                             7/1/2016        7/1/2017        7/1/2018
+
+Participant guidance to
+link their present account
+to the tech tool (see 1.1)
+
+Participant guidance to
+begin the process of
+creating a new custodial
+account through our
+future partner financial
+institution (see 1.1)
+
+
+CSA RFP                                                                            35
+Participants can view
+deposit amounts (into
+their own or their
+custodial accounts)
+
+Participants can view
+incentives earned (from
+OWD’s program funds)
+
+Participants can view total
+amount “saved” (total
+between deposits and
+earned incentives)
+
+Participants can view
+other program
+information
+
+Participants can update
+contact information
+
+Participants can
+communicate intended
+changes to their program
+status to OWD (e.g., ‘opt
+out’ of the program early
+on or leave the program
+mid-way)
+
+Participants can download
+program status change
+forms
+
+Participants can ask for
+help and provide feedback
+
+Participants can access
+the tech tool via any web
+browser
+
+Participants can access
+the tech tool via any
+mobile device
+
+Participants can access
+
+
+CSA RFP                       36
+the tech tool in English
+
+Participants can access
+the tech tool in Spanish
+
+OWD can make quick and
+easy edits or updates to
+the content and design of
+the family interface
+
+OWD can provide help
+and support to
+participating families
+
+OWD can share program         [Specify       [Specify       [Specify
+reminders and alerts with     mode(s) of     mode(s) of     mode(s) of
+participating families        reminders –    reminders –    reminders –
+                              e.g., text,    e.g., text,    e.g., text,
+                              email, etc.]   email, etc.]   email, etc.]
+
+OWD can solicit feedback
+from families
+
+OWD can analyze
+participant data in ways
+that are compelling to
+funders and constituents
+
+C.3/ Additional Features Project Scope
+Feature                       Ready for      Ready for      Ready for      Notes
+                              use on         use on         use on
+                              7/1/2016       7/1/2017       7/1/2018
+
+1:1 Match savings
+incentive (for every $1
+that a participating family
+deposits into their
+account, OWD matches
+that contribution with $1
+of program funds)
+
+Steady Saver savings
+incentive (participants
+who deposit on a pre-
+
+
+CSA RFP                                                                            37
+determined regular basis
+receive a fixed bonus
+(e.g., participants who
+make deposits once per
+month for six consecutive
+months receive an
+additional $100 of
+program funds from
+OWD))
+
+Benchmark savings
+incentive (participating
+children who achieve
+specific academic
+benchmarks will receive a
+fixed bonus (e.g., children
+who make perfect
+attendance for six weeks
+in a row receive an
+additional $100 of
+program funds from
+OWD))
+
+Available to users with
+disabilities under ADA
+Title II
+
+Available in additional       [List           [List           [List
+languages beyond English      languages]      languages]      languages]
+and Spanish
+
+Ways for families to be
+able to set and track their
+own savings goals
+
+Enables families to “link”
+multiple accounts (e.g.,
+savings and 529)
+
+Texts, emails, or alerts      [List type of   [List type of   [List type of
+that are pushed to            alert]          alert]          alert]
+families based on specific
+demographics and
+milestones
+
+
+CSA RFP                                                                       38
+OWD can deliver useful        [Specify       [Specify        [Specify
+and effective financial       mode(s) of     mode(s) of      mode(s) of
+education to participating    delivery       delivery        delivery
+families                      available –    available –     available –
+                              e.g., text,    e.g., text,     e.g., text,
+                              email, etc.]   email, etc.]    email, etc.]
+
+Ability for OWD to modify
+existing reporting
+mechanisms and/or
+create their own reporting
+fields
+
+Automatic data analysis
+that displays real-time
+analytics in easy-to-read
+ways
+
+Login capability for school
+leadership to view CSA
+participation by school
+
+Social media integration    [Specify type    [Specify type   [Specify
+(Twitter, Facebook,         of social        of social       type of
+Instagram, email) for       media]           media]          social
+participants, OWD, and                                       media]
+other partners to highlight
+achievements
+
+Integration with other City [Specify City    [Specify City   [Specify City
+tools, such as Discover     tool]            tool]           tool]
+BPS
+
+
+
+
+CSA RFP                                                                      39
+     SAMPLE CONSULTANT SERVICES                                                Martin J. Walsh, Mayor
+     CONTRACT                                               Timothy J. Burke, Chairman EDIC Board
+                                                                         Brian P. Golden, Director EDIC
+
+
+CONSULTANT CONTRACT
+
+        This Consultant Contract (the “Contract”) is made as of this _____ day of _____, 2015 by and
+between the Economic Development Industrial Corporation (the “EDIC”) and _______________ (the
+“Consultant”). EDIC and the Consultant hereinafter sometimes are referred to, individually, as a “Party”
+and collectively, as “Parties”.
+
+        In consideration of the following mutual consents and undertakings herein set forth, each Party
+agrees as follows:
+
+I.      SCOPE OF SERVICES
+
+        A.      Description of Services. The Consultant, by and through its staff and approved Sub-
+consultants, shall be responsible for coordinating and completing the services set forth in Section 2
+attached hereto and incorporated herein as a part hereof, on or before __________, 20__.
+        B.       Changes to Scope of Services. EDIC’s Authorized Representative may at any time, by
+written notice, make reasonable and non-substantial changes within the general scope of this Contract
+in the tasks to be performed. If any such change causes an increase or decrease in the cost of, or the
+time required for, the performance of any part of the services under this Contract, an equitable
+adjustment shall be made in the compensation to be paid under this Contract and this Contract shall be
+amended in writing accordingly, such change must be approved by EDIC’s Director. Any claim for
+adjustment under this Section I.B. must be asserted within thirty (30) days from the date of receipt by
+the Consultant of the notification of change.
+        C.      Performance Standards. The Consultant agrees that the services provided hereunder
+shall conform to professional standards of care and practice customarily expected of like firms engaged
+in performing comparable work, that the personnel furnishing said services shall be qualified and
+competent to perform adequately the services assigned to them and that the recommendations,
+guidance and performance of such personnel shall reflect such standard of professional knowledge and
+judgment.
+II.     COMPENSATION
+
+        A.      Amount of Payment. Except as provided in Section VI.A of this Contract, the Consultant
+shall be paid as follows for the performance of the services set forth in Section I of this Contract and
+described in Exhibit A, attached hereto and incorporated as a part hereof:
+               1. For all services performed, either by the Consultant or by Sub-consultants, in
+                  execution of the work described in Exhibit A, the Consultant shall be paid an amount
+                  not to exceed dollars as more particularly set forth in Exhibit B attached hereto and
+                  incorporated as a part hereof. The Consultant shall only commence work on a
+
+
+                                                                                                Page | 1
+                    phase after issuance of a Notice to Proceed from EDIC. This amount includes all
+                    fees, overhead, general administrative costs, profit and applicable taxes or
+                    governmental charges, if any, for all Consultant and/or Sub-consultants charges
+                    arising under this Contract and all reimbursable expenses.
+                2. For all services performed, either by the Consultant or by Sub-consultants, the
+                   Consultant shall be paid not more than once a month upon EDIC’s approval of the
+                   Consultant’s monthly statements submitted in accordance with Section II.B hereof.
+                   The amount paid each month shall equal the sum of: (i) the product of the number
+                   of hours worked by the Consultant and/or any Sub-consultants performing services
+                   under this Contract during the prior month and the hourly rate of service set forth in
+                   Exhibit B attached hereto and incorporated as a part hereof; plus (ii) the amount of
+                   reimbursable expenses incurred by the Consultant and/or any Sub-consultants
+                   during the prior month and approved by the Authority as reimbursable.
+        B.      Monthly Statements. Not later than the fifteenth (15th) day of each month during the
+term of this Contract, the Consultant shall submit to EDIC a monthly statement detailing all Services
+rendered and all reimbursable expenses incurred during the prior month. The Consultant’s monthly
+statements shall be in such detail, as EDIC may reasonably require, to show the identification of the
+personnel performing services, their classifications and hours worked, and the detailed nature and
+extent of services performed. As part of the monthly statements, the Consultant shall also submit a
+statement detailing all services rendered by Sub-consultants and all reimbursable expenses incurred by
+Sub-consultants during the prior month, if any, in such detail as EDIC may reasonably require to identify
+Sub-consultants and the personnel performing services, their classifications, hourly rates and hours
+worked, and the expenses for which Sub-consultants request reimbursement.
+        C.      Retention of Records and Audit Rights. The Consultant shall keep records for a period of
+three (3) years, and shall cause its Sub-consultants to keep records for a period of three (3) years,
+pertaining to services performed and reimbursable expenses incurred on the basis of generally accepted
+accounting principles and in accordance with such reasonable requirements to facilitate review as EDIC
+may require. EDIC shall have the right to inspect, review or audit, in conformity with acceptable auditing
+standards, the accounts, books, records and activities of the Consultant and all Sub-consultants
+necessary to determine compliance by the Consultant with the provisions and requirements of this
+Contract and the laws of the Commonwealth of Massachusetts.
+III.    TIME OF PERFORMANCE
+A.      The Consultant acknowledges that time is of the essence in performing the services hereunder.
+B.      The Consultant, by and through its staff and approved Sub-consultants, shall be responsible for
+completion of the services set forth in Exhibit __ in accordance with the timetables described in Exhibit
+__, including without limitation, the completion of _______ by no later than _______, and a
+__________________ within 90 days (3 months) after execution of the contract with the BRA, but in no
+event later than __________.
+IV.     SUB-CONSULTANTS
+
+
+
+
+                                                                                                 Page | 2
+        In furtherance of this Contract, EDIC and the Consultant recognize that Sub-consultants shall be
+necessary to conduct specific tasks with regard to elements of the services to be performed under this
+Contract. The final selection of all Sub-consultants shall be subject to prior review and written approval
+by EDIC’s Director. The Consultant agrees to contract directly with the Sub-consultants in accordance
+with the terms and conditions of this Contract. The Consultant shall manage and coordinate the
+services and products of any and all Sub-consultants, and shall be responsible for overall management,
+coordination and information integration of all services set forth herein.
+V.      TERM
+        The term of this Contract shall commence on _______, 2015 and terminate on ___________,
+20__, unless sooner terminated by EDIC in accordance with this Contract; provided, however, that EDIC
+may, at its election and in its own discretion, extend the terms of this Contract for an additional period
+of ninety (90) days.
+VI.     TERMINATION
+       A.        Contract. EDIC, by and through written notice from its Director, may terminate this
+Contract as follows:
+                1.       On fourteen (14) days notice, without cause; or
+                  2.     On seven (7) days notice if the services to be performed under this Contract
+shall be canceled or abandoned by EDIC; or if the Contract or any part thereof shall be assigned without
+the prior written consent of EDIC’s Director; or if the Consultant shall violate any of the provisions of this
+Contract or fail to perform, keep or observe any of the terms, covenants or conditions herein contained;
+or if the Consultant abandons in whole or in part its services, or becomes unable to perform its services;
+or if the Consultant fails to perform services in a timely and workmanlike manner; provided, however,
+that the Consultant shall not be in default if any such failure to perform or make progress arises out of
+causes beyond its control and through no fault or negligence of its own. In the event of such
+termination, EDIC may procure, upon such terms and in such manner as it shall deem appropriate,
+services similar to those so terminated without prejudice to any other rights and remedies for default
+EDIC may have.
+        B.      Termination of Subconsultant Contracts. Consistent with the procedure set forth in
+Sections VI.A(1) and VI.A(2) of this Contract, in the event this Contract shall be terminated, the
+Consultant shall cause all Subconsultant Contracts, which it has entered into under this Contract, to be
+terminated.
+        C.      Procedures Upon Termination. In the event of termination of this Contract, the
+Consultant shall promptly deliver to EDIC all documents produced under this Contract by the Consultant
+or Sub-consultants prior to its termination. In the event of termination, the Consultant and Sub-
+consultants shall be compensated in accordance with Section II for all work performed until the effective
+date of termination.
+VII.    ADDITIONAL TERMS AND CONDITIONS
+       A.      Records, Documents, Plans and Drawings. All records and documents prepared
+pursuant to this Contract shall be considered the property of EDIC and shall be delivered to EDIC’s
+
+
+                                                                                                     Page | 3
+custody upon completion of the work or upon request in writing by EDIC’s Director, and in any event no
+later than sixty (60) days after the termination of this Contract unless such time limit shall be extended
+in writing by EDIC’s Director. Any plans or drawings are the property of EDIC, and shall be of the size
+and quality established by EDIC. Except as required for the discharge of its duties to EDIC under this
+Contract, no plans, sketches, drawings or other renderings or documents shall be released or disclosed
+by the Consultant to any other person without the prior written approval of the BRA’s Authorized
+Representative and/or EDIC’s Director.
+        B.      Authority’s Authorized Representative. Gerald Autler, Senior Project Manager/Planner
+for the BRA, and/or any other staff member set forth in a written notice from EDIC’s Director to the
+Consultant, is/are hereby designated as the “BRA’s Authorized Representative”.
+         C.      Insurance. The Consultant shall carry insurance furnishing benefits in accordance with
+M.G.L. c. 152, or such other workers compensation requirements as may pertain. The Consultant shall
+also carry comprehensive general liability/ automobile liability insurance for claims for property damage,
+bodily injury or death in connection with the Consultant’s performance and activities under this Contract
+in the minimum single limit of One Million Dollars ($1,000,000) for each occurrence. The Consultant
+shall cause all Sub-consultants under this Contract to carry similar insurance coverage as well as any
+other insurance coverage as EDIC may from time to time direct. Evidence of such insurance coverage
+shall be provided to EDIC.
+         D.      Indemnification. The Consultant, at its expense, shall defend and indemnify and hold
+harmless EDIC, its members, directors, officers and employees from and against all claims, causes of
+action, suits, losses, damages and expenses, including attorneys fees, to the extent arising out of or
+resulting from any action by the Consultant and anyone employed by it, including Sub-consultants and
+their employees, in the performance of this Contract. Such obligation shall not be constructed to negate
+or abridge any other obligation of indemnification running to EDIC which would otherwise exist. EDIC
+shall give the Consultant prompt and timely notice of any claim, threatened or made, or suit instituted
+against it which could result in a claim for indemnification hereunder. The extent of the foregoing
+indemnification and hold harmless provisions shall not be limited by any provision of insurance
+contained in this Contract.
+       E.     Independent Contractor. The Consultant is engaged under this Contract as an
+independent contractor and not as an agent or employee of EDIC.
+         F.      Non-Discrimination and Affirmative Action/Compliance With Laws. The Consultant shall
+abide by and conform with the non-discrimination and affirmative action provisions set forth in Exhibit C
+attached hereto and incorporated as a part hereof. The Consultant shall also complete and sign the
+Certificate of Compliance with Laws set forth in Exhibit D attached hereto and incorporated as a part
+hereof.
+        G.      No Waiver. Any failure by EDIC to assert its rights for or upon any default of this
+Contract shall not be deemed a waiver of such rights, nor shall any waiver be implied from the making of
+any payment hereunder. EDIC’s review, approval, acceptance or payment for services under this
+Contract shall not operate as a waiver of any rights under this Contract and the Consultant shall be and
+remain liable to EDIC for all damages incurred by EDIC as a result of the Consultant’s failure to perform
+in conformance with the terms and conditions of this Contract. The rights and remedies of EDIC
+
+                                                                                                 Page | 4
+provided for under this Contract are in addition to any other rights or remedies provided by the law.
+EDIC may assert a right to recover damages by any appropriate means, including but not limited to
+setoff, suit, withholding, recoupment, or counterclaim either during or after performance of this
+Contract.
+        H.        Limited Liability of Authority. Except as provided in Section I.B of this Contract, in no
+event shall the total liability of EDIC in connection with this Contract exceed the Maximum Amount
+provided for under Section II hereof. In no event shall EDIC be liable to the Consultant for damages for
+loss resulting from causes beyond the reasonable control of EDIC and in no event shall EDIC be liable for
+incidental, special or consequential damages, including loss of anticipated revenues or profits, whatever
+the cause.
+        I.      Limited Liability of Consultant. Except as provided in Section I.B of this Contract, in no
+event shall the total liability of the Consultant in connection with this Contract exceed the Maximum
+Amount provided for under Section II hereof; except with respect to any design work or conceptual
+layout work performed by the Consultant or any of its Sub-consultants. In no event shall the Consultant
+be liable to EDIC for damages for loss resulting from causes beyond the reasonable control of the
+Consultant and in no event shall the Consultant be liable for incidental, special or consequential
+damages, including loss of anticipated revenues or profits; except with respect to any design work or
+conceptual layout work performed by the Consultant.
+        J.       No Personal Liability. No member or employee of EDIC shall be charged personally or
+held contractually liable by or to the Consultant under any term or provision of this Contract or because
+of any breach thereof. No member or employee of the Consultant shall be charged personally or held
+contractually liable by or to EDIC under any term or provision of this Contract or because of any breach
+thereof, for any action performed within the Consultant’s scope of services and authority under this
+Contract.
+       K.       No Employment of Authority Personnel. During the term of this Contract, the
+Consultant shall not employ on a full-time or part-time basis, any person so long as such person shall be
+employed by EDIC.
+        L.      Special Municipal Employment. In accordance with M.G.L. c. 121B, Section 7, third
+paragraph, as amended, for purposes of the Commonwealth of Massachusetts Conflict of Interest Law,
+M.G.L. c. 268A, as amended, the Consultant and Sub-consultants shall be deemed to be “special
+municipal employees”. All contracts with Sub-consultants shall include an acknowledgement that Sub-
+consultants are “special municipal employees”.
+        M.      Assignment. This Contract, any duties hereunder or interest herein, may not be
+assigned or delegated by the Consultant without the prior written approval of EDIC’s Director.
+        N.      Governing Law. This Contract shall be governed by and construed in accordance with
+        the laws of the Commonwealth of Massachusetts.
+       O.      Severability. If any provision of this Contract shall to any extent be held invalid or
+unenforceable, the remainder of this Contract shall not be deemed affected thereby.
+        P.      Construction.
+
+
+                                                                                                  Page | 5
+                 1.     This Contract shall be the entire, full and complete agreement between the
+Parties concerning the subject matter hereof and shall supersede all prior agreements. There are no
+valid or binding representations, inducements, promises or agreements, oral or otherwise, between the
+Parties that are not embodied herein. No amendment, change or variance of or from this Contract shall
+be binding on either Party unless agreed to in writing signed by both of the Parties.
+                 2.      The headings appearing at the beginning of each paragraph of this Contract are
+for convenience only and do not define, limit or construe the contents of any such paragraph. Whether
+expressly indicated or not, the singular usage includes the plural, and the neuter usage includes the
+masculine or the feminine or both the masculine and feminine. This Contract may be executed in
+counterparts, each of which so executed shall be deemed to be an original and such counterparts
+together shall constitute one and the same Contract.
+       Q.       Assignment. It is acknowledged and agreed that the Consultant’s services under this
+Contract are personal services and may not be assumed by or assigned by a trustee in bankruptcy.
+        R.     Key Persons. ______________ of the Consultant’s firm shall serve as Project Executive
+Director pursuant to the terms of this Contract and ______________ of the Consultant’s firm shall serve
+as the Project Manager. Reassignment of either or both of these key persons will require written
+agreement of the Parties.
+         IN WITNESS WHEREOF, this Contract is executed in four (4) counterparts as of the day and year
+first written above:
+                                               ECONOMIC DEVELOPMENT INDUSTRIAL CORPORATION
+
+
+
+                                               By:
+
+                                                               Brian P. Golden
+                                               Title:          Director
+
+
+
+                                               CONSULTANT
+
+
+
+                                               By:
+
+
+
+                                               Title:
+
+
+
+Date:
+
+Approved as to Form:
+
+
+
+
+                                                                                              Page | 6
+Renee LeFevre
+General Counsel
+Economic Development Industrial Corporation
+
+
+                                              EXHIBIT __
+
+                                          SCOPE OF SERVICES
+
+       General Scope of Services
+To be inserted here is the complete Scope of Services following selection of a technology partner(s)
+pursuant to the Office of Workforce Development’s October 2015 Request for Proposals for a Tech Tool
+for the Boston Children’s Savings Accounts (CSA) Pilot Program.
+       Supplementary Services
+Changes and Contingencies
+If the BRA desires the Consultant to perform additional Work, (i.e. services which were not identified
+under Basic Services and/or are the result of discovering unforeseen conditions at the Site), then the
+Consultant shall, upon EDIC’s request, submit an estimate of the cost for providing such extra services.
+Upon EDIC’s written approval of such services, the Consultant shall perform such extra services as
+directed by the BRA and for the cost associated with these services. The cost shall be paid either on a
+lump sum or unit price basis and will be mutually agreed upon by the parties prior to initiating any such
+miscellaneous engineering services.
+       Time of Performance
+The Consultant will be required to complete performance of the Services, and any tasks included within
+the Services, in accordance with such schedule as may be agreed upon by the BRA and the Consultant or
+as otherwise specified by the BRA. The Consultant is advised that time is of the essence with respect to
+the performance of the Services.
+It is further required that the Consultant be (i) available to commence work on the Basic Services Tasks
+(as such may be modified in the final Contractual Agreement between the BRA and the Consultant)
+immediately upon receipt of a Notice to Proceed being issued by the BRA and (ii) have such tasks
+completed on or before ___ calendar days from the Notice to Proceed. The notice to proceed shall
+follow acceptance by the BRA of the respondent’s submitted project schedule detailing the work item
+and the time required to perform the same.
+
+
+
+
+                                                                                                Page | 7
+                                               EXHIBIT __
+
+                                 HOURLY RATES AND OTHER CHARGES
+
+MAXIMUM AMOUNT
+For performing or causing the performance of all services described in Exhibit A, the Consultant shall be
+paid an amount not to exceed ____________________________ ______________ and __/100 Dollars
+($______.__), the “Maximum Amount”. This Maximum Amount includes all fees, expenses, overhead,
+general administrative costs, profit and applicable taxes or governmental charges, if any, for all the
+Consultant’s charges arising under this Contract.
+REIMBURSABLES
+The Consultant shall be reimbursed for Consultant and Subconsultant expenses for the following
+miscellaneous items:
+         Long-distance telephone
+         Supplies
+         Copies
+         Faxes
+         Printing and Reproductions
+         Photographic Material and Services
+         Courier and Overnight Delivery
+         Purchase of Statistical Data
+Reimbursable amount is included in the “Maximum Amount”.
+HOURLY RATES
+
+
+
+
+                                                                                                Page | 8
+                                             EXHIBIT __
+
+                         NONDISCRIMINATION AND AFFIRMATIVE ACTION
+
+
+
+Nondiscrimination and Affirmative Action
+
+The Consultant agrees:
+
+               1. The Consultant shall not, in connection with the services under this Contract,
+                  discriminate by segregation or otherwise against any employee or respondent for
+                  employment on the basis of race, color, creed, national origin, age, sex or sexual
+                  preference and shall undertake affirmative action measures designed to guarantee
+                  and effectuate equal employment opportunity for all persons.
+
+
+               2. The Consultant shall provide information and reports requested by EDIC pertaining
+                  to its obligations hereunder, and will permit access to its facilities and any books,
+                  records, accounts or other sources of information which may be determined by EDIC
+                  to affect the Consultant’s obligations.
+
+
+               3. The Consultant shall comply with all federal and state laws pertaining to civil rights
+                  and equal opportunity including executive orders and rules and regulations of
+                  appropriate federal and state agencies unless otherwise exempt therein.
+
+
+               4. The Consultant’s non-compliance with the provisions hereof shall constitute a
+                  material breach of this Contract, for which EDIC may, in its discretion, upon failure
+                  to cure said breach within thirty (30) days of written notice thereof, terminate this
+                  Contract.
+
+
+               5. The Consultant shall indemnify and save harmless EDIC from any claims and
+                  demands of third persons resulting from the Consultant’s non-compliance with any
+                  provisions hereof.
+
+
+                                               Signed
+
+
+
+                                               By:
+
+
+
+                                               Title:
+
+
+
+                                               Date:
+
+
+                                                                                               Page | 9
+                                               EXHIBIT __
+
+                               CERTIFICATE OF COMPLIANCE WITH LAWS
+
+Certificate of Compliance with Laws
+
+
+
+Massachusetts Employment Security Law
+
+Pursuant to M.G.L. c. 151 A, §19A(b), the undersigned hereby certifies under the penalties of perjury the
+Consultant, with Department of Employment Training (DET) ID Number __________ has complied with
+all laws of the Commonwealth relating to unemployment compensation contributions and payments in
+lieu of contributions.
+
+Compliance may be certified if the Consultant has entered into and is complying with a repayment
+agreement satisfactory to the Commissioner of DET, or if there is a pending adjudicatory proceeding or
+court action contesting the amount due pursuant to M.G.L. c. 151 A, §19A(c).
+
+
+
+Massachusetts Child Care Law
+
+Pursuant to Chapter 521 of the Massachusetts Acts of 1990, as amended by Chapter 329 of the
+Massachusetts Acts of 1991.
+
+1. __________ employs fewer than fifty (50) full-time employees; or
+
+
+2. __________ offers either a dependent care assistance program or a cafeteria plan whose benefits
+    include a dependent care assistance program; or
+
+
+3. __________ offers child care tuition assistance, or on-site or near-site subsidized child care
+    placements.
+
+
+Revenue Enforcement Protection Program
+
+Pursuant to M.G.L. c. 62C, §49A, the undersigned hereby certifies that the Consultant’s Social Security or
+Federal Identification No. is ____________, and that to the best of his/her knowledge and belief, the
+Consultant has filed all state tax returns and paid all state taxes required by law.
+
+
+
+Signed this _____ day of ________________, 20___.
+
+
+
+BY: ____________________________________________
+
+
+
+
+                                                                                                Page | 10
+ NON-COLLUSION AFFIDAVIT OF                                                      Martin J. Walsh, Mayor
+ PRIME BIDDER                                                     Timothy J. Burke, Chairman EDIC Board
+
+                                                                           Brian P. Golden, Director EDIC
+
+State of …………………….)
+                              )ss.
+
+County of ………………….)
+
+____________________________________________________, BEING FIRST DUTY
+SWORN DEPOSES AND SAYS THAT:
+1.0 He/she is (owner, partner, officer, representative, or agent) of
+_______________________________________________________, the Bidder that has submitted the
+attached Bid:
+
+2.0 He/she is fully informed respecting the preparation and contents of the attached Bid and of all
+pertinent circumstances respecting such Bid;
+3.0 Such Bid is genuine and is not a collusive or sham Bid;
+
+4.0 Neither the said Bidder nor any of the officers, partners, owners, agents, representatives,
+employees or parties in interest, including this affiant, has in any way colluded, conspired, connived or
+agreed, directly or indirectly with any other Bidder, firm or person to submit a collusive or sham Bid in
+connection with the Contract for which the attached Bid has been submitted or to refrain from bidding
+in connection with such Contract, or has in any manner, directly or indirectly sought by agreement,
+collusion or communication or conference with any other Bidder, firm or person to fix the price or prices
+in the attached Bid or of any other Bidder, or to fix any overhead, profit or cost element of the Bid price
+or the Bid price of any other Bidder or to secure through any collusion conspiracy, connivance or
+unlawful agreement any advantage against the Boston Redevelopment Authority or any person
+interested in the proposed Contract; and
+
+5.0 The price or prices quoted in the attached Bid are fair and proper and are not tainted by any
+collusion, conspiracy, connivance or unlawful agreement on the part of the Bidder or any of its agents,
+representatives, owners, employees, or parties in interest, including this affiant.
+
+                                                 (Signed)________________________
+
+                                                          ________________________
+
+                                                                 Title
+
+Subscribed and sworn to before me this _____ day of _________, 20_______
+
+_______________________________
+
+_____________________________Title My commission expires:
+
+
+
+                                                                                                 Page | 11
+ CERTIFICATE OF TAX,                                                              Martin J. Walsh, Mayor
+ EMPLOYMENT SECURITY, AND                                          Timothy J. Burke, Chairman EDIC Board
+ CHILD CARE COMPLIANCE                                                      Brian P. Golden, Director EDIC
+
+
+
+Pursuant to Massachusetts General Laws Chapter 62C, §49A and Chapter 151A, §19A(b) and Chapter
+521 of the Massachusetts Acts of 1990, as amended by Chapter 329 of the Massachusetts Acts of 1991,
+I: _________________________________________
+
+                                                        (Name)
+
+_____________________________________________________________________
+
+(Title)                                           (Name of Consultant)
+
+whose principal place of business is located at: _____________________________
+
+______________________________________, do hereby certify that:
+
+A.        The above-named Consultant has made all required filings of state taxes, has paid all state taxes
+          required under law, and has no outstanding obligation to the Commonwealth's Department of
+          Revenue.
+
+B.        The above-named Consultant has complied with all laws of the Commonwealth relating to
+          unemployment compensation contributions and payments in lieu of contributions.
+
+
+C.        The undersigned hereby certifies that the Consultant (please check applicable item):
+
+           1. __________ employs fewer than fifty (50) full-time employees; or
+
+           2. __________ offers either a dependent care assistance program or a cafeteria plan whose
+           benefits include a dependent care assistance program; or
+
+           3. __________ offers child care tuition assistance, or on-site or near-site subsidized child care
+           placements.
+
+Signed under the penalties of perjury this ______ day of ______________, 20__.
+
+
+
+Federal Identification Number                     (Name)
+
+
+
+By: ________________________________
+
+Title: ____________________________
+
+
+
+                                                                                                  Page | 12
+Will you have a separate customer service center for the tech tool or will you be encouraging folks to
+use 311?
+We expect to work with our tech partner, BPS, and our program team to identify the best way to provide
+customer service to participants. We are excited to learn about customer service solutions that leverage or
+enhance customer service tools already in use by the City.
+Will you have a separate customer service center for the tech tool or will you be encouraging folks to
+use 311?
+We expect to work with our tech partner, BPS, and our program team to identify the best way to provide
+customer service to participants. We are excited to learn about customer service solutions that leverage or
+enhance customer service tools already in use by the City.
+

@@ -1,0 +1,830 @@
+                                      COASST Technology Platform
+                                         and Tools Request for
+                                              Proposals
+
+Opening Date: July 1, 2014
+Priority Review Deadline: July 21, 2014
+Closing Date: July 30, 2014 (or until successful applicants are selected)
+Submission: Applications should be sent to rfp@coasst.org by the closing date.
+Applicants should be prepared to start work as soon as possible and no later than
+September 1, 2014.
+
+
+Table of Contents
+Introduction ............................................................................................................................... 2
+Background................................................................................................................................. 2
+Experience and Qualifications ............................................................................................. 3
+Period of Performance............................................................................................................ 3
+Scope of Work ............................................................................................................................ 3
+   Technology Component 1: COASST website redesign ........................................................... 3
+   Technology Component 2: Data Management System .......................................................... 5
+   Technology Component 3: Crowd Source Application .......................................................... 7
+   Technology Component 4: Data Visualization ......................................................................... 8
+   Technology Component 5: Hosting, software, email, security, backup and
+   maintenance ......................................................................................................................................... 9
+Project Duration, Deliverables and Timeline* ............................................................ 10
+Instructions for the Preparation of the Proposal ....................................................... 11
+   Cover Note .......................................................................................................................................... 11
+   Organizational Capabilities ......................................................................................................... 11
+   Technical Approach (maximum 10 pages)............................................................................. 11
+   Workflow and Team Structure Diagram ................................................................................. 11
+   Curricula Vitae of Key Personnel ............................................................................................... 12
+   Budget .................................................................................................................................................. 12
+   Evaluation Criteria .......................................................................................................................... 12
+Appendices ............................................................................................................................... 13
+   Appendix 1: New Website Structure ......................................................................................... 13
+   Appendix 2: Beached Bird Field Forms ................................................................................... 16
+   Appendix 3: Legacy Beach Bird Data Ingestion Screen Shots .......................................... 18
+   Appendix 4: Marine Debris Protocol ........................................................................................ 22
+   Appendix 5: Marine Debris Field Forms.................................................................................. 36
+   Appendix 6: Database Schema .................................................................................................... 42
+   Appendix 7: Additional Data Management Requirements ............................................... 43
+   Appendix 8: Beached Bird Verification ................................................................................... 44
+   Appendix 9: Data Export Interface ............................................................................................ 46
+   Appendix 10: Crowd Source ID App Mock Ups ...................................................................... 46
+   Appendix 11: Encounter Visualization .................................................................................... 48
+
+
+                                                                             1
+              RFP for COASST Technology Platform and Tools
+
+
+
+
+Introduction
+The Coastal Observation and Seabird Survey Team (COASST) is a citizen science
+project of the University of Washington in partnership with state, tribal and federal
+agencies, environmental organizations, and community groups. COASST believes
+citizens of coastal communities are essential scientific partners in monitoring
+marine ecosystem health. By collaborating with citizens, natural resource
+management agencies and environmental organizations, COASST works to translate
+long-term monitoring into effective marine conservation solutions.
+
+COASST intends to modernize their existing website, scientific database, and
+associated tools. In addition COASST will be expanding their program to include
+new monitoring protocols, datasets and supporting technologies. COASST is seeking
+contractor/technology partner(s) to design, implement and maintain some or all of
+the technology components described below. Interested parties should submit a
+proposal by the closing date listed above, in compliance with this Request for
+Proposals (RFP), the scope of work and the instructions for preparation of the
+proposal described below.
+
+
+Background
+COASST historically focused on a single data type - beached birds. To date, beached
+bird data include over 40,000 carcass observations of 166 bird species from over
+3,000 COASST participants who have conducted approximately 50,000 surveys.
+Each year, the COASST website receives about 10,000 hits.
+
+COASST volunteers are at the heart of the program. COASST started as a small
+program with 12 participants on the south coast of Washington in 1999, and has
+steadily grown to about 800 participants annually collecting data on more than 400
+beaches, including sites in Oregon (added in 2001), California (2006) and Alaska
+(2006).
+
+In 2012, the COASST Advisory Board members were asked to name the single most
+important additional data type they would like to see collected within the program.
+Marine debris was their top response. COASST volunteers provided a similar
+response when asked the same question. In part this is because the Japanese
+tsunami of 2011 garnered huge media attention on the West Coast (1,083 articles
+published in 2012; Google News Jan. 2013). Many members of coastal communities
+voice fears about threats to public health, harm to wildlife, and the possibility of
+invasive marine organisms colonizing local waters. As a result of these concerns
+COASST will be expanding their work on beached birds into marine debris. Marine
+debris monitoring will be carried out by the existing COASST volunteers as well as
+by additional new volunteers.
+
+
+
+                                          2
+              RFP for COASST Technology Platform and Tools
+
+
+The new technology platform will support all efforts of the COASST programs
+related to beached bird and marine debris data and the associated web and IT
+supporting technologies.
+
+
+Experience and Qualifications
+The technology partner should have a history of working with environmental non-
+profits and/or universities and be able to demonstrate successful, completed
+technology projects that meet the requirements of the scope of work described
+below. The technology partner must have the ability to communicate effectively and
+engage with non-technical COASST staff. COASST has a very strong preference to
+use popular, open source web application frameworks, programming languages and
+databases whenever possible.
+
+
+Period of Performance
+The period of performance will vary depending on the technology component. Once
+the planned technology components described in this proposal are operational they
+will need to be maintained at least through September 30, 2017.
+
+
+Scope of Work
+The COASST technology requirements have been divided up into “technology
+components” in order to more clearly describe their specific needs and to more
+easily evaluate technical approaches and costs. COASST seeks a technology partner
+to address all or some of the technology components listed below. COASST has
+external IT advisors and experts to help ensure these technology components will
+form a coherent and cutting edge IT infrastructure platform. However, in the
+proposal response be sure to explicitly identify any high-level integration or
+dependencies required of one technology component to another. The ideal applicant
+will be flexible and agile in their approach to building technology solutions. If there
+is a need for additional information to develop the proposal response please
+email: rfp@coasst.org.
+
+Technology Component 1: COASST website redesign
+The COASST website needs to be redesigned to have a new look and feel (including
+but not limited to a new user interface, navigation, graphics, etc.) and be
+implemented using an open source Content Management System (CMS). Please
+see www.coasst.org for the current website and functionality and see Appendix 1 for
+the new website navigation and ideas for a new website. The revised website should
+work across modern browser platforms and on mobile devices. The website
+statistics should be available via Google Analytics (COASST will provide a user
+account). COASST uses Atlassian’s JIRA for helpdesk and software bug/issue
+tracking.
+
+
+
+                                          3
+              RFP for COASST Technology Platform and Tools
+
+
+The current website includes dynamic pages with maps as well as tables and reports
+that are generated from a relational database storing scientific data (PostgreSQL).
+COASST anticipates additional data summaries and statistics (e.g., tables, graphs and
+simple maps http://depts.washington.edu/coasst/patterns.html) using the marine
+debris and beached bird data. COASST would like to have higher quality, more
+visually appealing graphs and tables. These can be native to the CMS or utilize
+additional open source technologies (e.g., jQuery, highcharts, etc). COASST
+anticipates several additional graphs (e.g., histograms, bar charts, pie charts) to
+provide insight into the beached bird and marine debris data.
+
+Additional requirements of the CMS include the following:
+
+   •   User Roles and Profiles: A key advantage of moving to a CMS will be the
+       creation and integration of user roles with their user profile. COASST
+       envisions a “myCOASST” type area within the website where logged-in users
+       can go to launch various applications, maintain and modify their user profile,
+       access collaboration tools and find other important pieces of information and
+       products. COASST staff and volunteers will have several roles that enable
+       them do certain activities (e.g., upload data, verify data, assign roles to other
+       users, admin, etc).
+
+   •   Participant Filter and Report Tool: COASST staff would like to filter by many
+       participant attributes (see Appendix 6 for Volunteers table). A Boolean type
+       filter that enables COASST staff to dynamically filter participants is required.
+       For example, COASST staff may want to find participants that meet a certain
+       subset of criteria to facilitate communication with specific groups of
+       volunteers, or staff may want to know which participants surveyed a
+       particular beach within a certain time period. Filtering user profiles should
+       also be possible by beach and zip code and COASST staff will assist in
+       populating the database with any additional information. Once a filter is
+       applied the data should be available for download (csv format). COASST staff
+       needs to be able to edit and view all COASST participant attributes. Lastly,
+       COASST staff would like to prepare simple reports (e.g., a pdf) based on the
+       various filters described above.
+
+   •   Event Management Tool: This tool will enable COASST staff to create and
+       filter events as well as assign users to events. A typical event could be a
+       volunteer training session (there are less than a dozen event types). Example
+       characteristics of an event COASST staff would like to track are: event name,
+       event description, date, location, event type, number of attendees, COASST
+       volunteers and/or staff attended. In addition to seeing a list of participants
+       when viewing an event itself, COASST staff would also like to be able to see
+       all events that a volunteer participated in by looking at their profile.
+
+
+
+
+                                           4
+              RFP for COASST Technology Platform and Tools
+
+   •   Beached Bird Reports: COASST staff would like to be able to generate reports
+       for a region based on a variety of data. These include number of birds,
+       number of beaches surveyed, species lists, number of volunteers, surveys
+       completed, total travel hours, what beaches have not been recently surveyed
+       (e.g,. in the last 3 months), etc. There may be a similar reporting requirement
+       for marine debris.
+
+   •   Collaboration tools: COASST staff and volunteers would like to take
+       advantage of the collaboration tools available within the CMS (natively or
+       through additional modules). Key functionality of interest includes forums,
+       blogs, and the ability to share images among COASST staff and volunteers.
+       For example, it would be useful to enable COASST volunteers to easily share
+       images on a beached bird and/or marine debris with other volunteers. Note
+       that the collaboration tools are lower priority than other parts of the CMS and
+       most ‘out of the box’ CMS collaboration tools should work initially.
+
+
+Technology Component 2: Data Management System
+COASST data are divided into beach-specific information (data) collected by the
+participants and information about the participants (attributes described above).
+Beach-specific information includes data collected on beached bird surveys as well
+as data collected on the soon to be implemented marine debris surveys. Beach-
+specific information is currently collected via field forms (paper) and photographs.
+These data are digitized via a data entry portal and housed in a database. The level
+of effort required for this technology component is expected to be the highest
+among all the technology components. The main tasks that need to be completed
+are:
+    • Database Schema
+            o Review and extend the COASST scientific database. COASST currently
+               has 50,000 surveys of 40,000 beached birds and 55,000 photos.
+               COASST expects an additional 10,000+ surveys and 100,000+ photos
+               of marine debris data per year. See Appendix 6 for an entity
+               relationship diagram for the current beached bird database and the
+               anticipated extensions for the marine debris. Note that this database
+               also includes attributes about the COASST participants (volunteers
+               table).
+    • Data Ingestion and Management Application
+            o Rebuild the existing data ingestion system (currently built using Rails
+               3.4) for the beached bird data and photos. See Appendix 2 for field
+               forms and Appendix 3 for screen shots of the existing application.
+            o Design and implement a data ingestion system for marine debris data.
+               See Appendices 4 & 5 for draft marine debris field forms and protocol.
+               Data ingestion will be similar in scope to the beached bird data
+               ingestion. A requirements meeting will be needed prior to starting
+               work on this.
+
+
+
+                                          5
+           RFP for COASST Technology Platform and Tools
+
+        o COASST staff need to be able to manage information within the
+             database about beaches, volunteers (described above) and species
+             authority information for beached birds and marine debris (see
+             Appendix 7 for snapshot of current interface for beached birds). The
+             existing interfaces will be expanded and changed. Additional beached
+             bird interfaces are needed for the Counties, Groups, Subgroups, Foot
+             Type Families and Plumages database tables. The marine debris
+             protocol will also need an interface to manage the approved
+             taxonomy for COASST marine debris names and categories (table
+             object_taxons in the database schema).
+        o A report or summary should be available to COASST volunteers when
+             they complete entering their data. The goal is to communicate to the
+             volunteer how this particular data entry contributes to the larger
+             effort. For example, how did the data contribute to their beach, how
+             much data have they individually collected, what type of data, etc.
+        o Provide instructions for COASST volunteers to get images off of their
+             devices (mostly likely iOS or Android) and uploaded through the data
+             ingestion tools. For example, using dropbox to get their images to
+             their local computer and from local computer to the data ingestion
+             tool.
+•   Data Verification – COASST staff verify all data. See Appendix 8 for screen
+    shots of the current verification process for beached birds, the new version
+    will be an improvement on this interface. COASST would like to continue to
+    see a summary page on what observations need to be reviewed but would
+    like the verification process to be image driven (or provide a complementary
+    ‘mode’ that is image driven). For example, a COASST verifier should easily
+    view how many records need to be reviewed (filtered by beach) and then use
+    the images and the observation data to quickly review observations. The
+    interface should include a photo-viewing tool where single photos can be
+    scrolled through and viewed at high resolution on one side, and on the same
+    screen some fields (for beached birds: species, measurements, and foot type
+    family minimally) should be viewed and edited simultaneously without
+    scrolling. All changes by a verifier should be tracked and the volunteer’s
+    initial identification preserved for comparison to verifier determination, in
+    order to gage volunteer accuracy. The database includes attributes to capture
+    verification input (e.g., verifier name, verified {y/n}, verified comment, etc).
+    Additional log tables may be required to track changes made by verifiers.
+    Error rates by volunteer, object characteristic (bird and marine debris
+    attributes), and identity should be available in a summary page. This will
+    enable COASST staff to easily view and understand data quality. Additional
+    requested features include:
+        o The ability to “high grade” photos while they are being verified. This
+             should function for both the beached bird and marine debris photos.
+             For example, during the verification process the verifier has the
+             ability to assign a photo quality level (level 1,2,3, etc) to each photo.
+
+
+
+                                        6
+               RFP for COASST Technology Platform and Tools
+
+              The “high graded” images should also be easily downloadable by
+              COASST staff.
+           o All photos should be easily searchable by their quality level as well as
+              editable individually or in batch mode. For example, COASST staff
+              may want a maximum number of images per level. If the number of
+              images per level exceeds the maximum, COASST staff can ‘demote’
+              images from one class to another.
+           o Photos should also be searchable by a number of data attributes. For
+              example, COASST staff want to be able to look at all marine debris
+              images identified by the attribute ‘sharp’ from a specific beach, time
+              period or particular participant.
+           o Data Export Tool – A simple data export tool is required for COASST
+              staff. The exported data file should be a csv file and have the ability to
+              be ordered (e.g., by date and by beach). The current tool is illustrated
+              in Appendix 9.
+   •   Interoperability:
+           o Build API’s as needed to exchange COASST data with partner
+              organizations. The format and precise exchange formats are still being
+              defined and will most likely need to be XML or JSON web RESTFUL
+              services.
+
+Technology Component 3: Crowd Source Application
+COASST would like a web-based crowd sourcing application focused on the marine
+debris data. It should also work well with mobile devices (tablets higher priority
+than phone).
+   • All pieces of marine debris found on COASST surveys will have a set of
+       characteristics attributed to them, including the identification of the object.
+       In many cases, identity will be “unknown”. COASST will use a crowd source
+       application to help identify unknown items where:
+           o Each unknown item may be presorted into a larger category that can
+                be filtered by the app user (e.g., likely fishery gear; fragments-plastic;
+                milled lumber; presence of a logo; presence of a barcode; etc.) based
+                on his/her expertise and interest.
+           o Each unknown item will have a set of character states attached to it
+                which may potentially aid in identification (See Appendix 4 for the
+                Marine Debris protocol).
+           o Each item will have at least one photograph with a centimeter scale
+                included.
+           o Each item will have a date and geocoordinates.
+           o Each item may have information about the other type(s) of debris
+                found nearby.
+       See Appendix 10 for initial concept wire frames of application (they do not
+       reflect all of the ultimate elements, navigation or look and feel). Key
+       application functionality includes:
+           o Every crowd sourcer will be tested with known images of a particular
+                marine debris category and their results stored as a profile attribute.
+
+
+                                            7
+              RFP for COASST Technology Platform and Tools
+
+              Tests should occur more frequently when a user first starts crowd
+              sourcing and then less often over time. COASST envisions the tests
+              being implemented as “blind tests” so that the crowd sourcer cannot
+              tell the difference between a test object and an unknown object.
+          o   The application should display a selected image in the category
+              identified by the user, allow the user to bring up known information
+              about the object, and allow the user to identify the object.
+          o    Identification name selection should relate to the approved list of
+              marine debris names (i.e., those stored in table object_names in the
+              database).
+          o   The confidence around object identification will improve as more
+              crowd sourcers converge on a single identification. An averaging
+              routine will be used to help select the “most correct” identity, where
+              highly accurate users will be more heavily weighted. Users will
+              receive accuracy scores within categories (e.g., 95% accurate within
+              fishery gear; 20% accurate in all other categories) after a minimum
+              number of entries.
+          o   Statistics on the object identity (e.g., number of users identifying the
+              object, number of users correctly identifying the object, average
+              accuracy rate of correct users, etc.) must be attached to each object as
+              database fields. COASST staff will subsample a fraction of identified
+              unknowns for independent confirmation by experts (including
+              COASST staff).
+          o   A gaming aspect, allowing users to create unique usernames and
+              passwords, and allowing users to release their object identity stats to
+              the public portion of the site, should be included.
+          o    The home page (entry page) should display the total number of
+              objects in the COASST marine debris database, the number of
+              unknown objects, the number of unknowns identified by users, and
+              user stats; as well as photos of new unknowns.
+          o   The current database schema will need to be extended to meet the
+              needs of this application.
+
+Technology Component 4: Data Visualization
+COASST anticipates 2 types of data visualizations beyond what are described in
+Technology Component 1. Specifically, these are highly interactive graphs and maps
+and are described below:
+   • COASST staff would like a new interactive way of viewing encounter rate
+       data via a dynamic bar chart (see Appendix 11for initial concept diagram).
+       Encounter rate is a calculated variable that COASST will provide through the
+       database.
+   • COASST envisions an interactive mapping application that will visualize a
+       subset of beached bird (encounter rate) or marine debris (density) data in
+       geographic space. The display will include visualized data within a mapped
+       construct (e.g. heatmap or heatmovie) as well as outside the map fram (e.g.,
+       one or more data visualizations such as histograms) Users will be able to
+
+
+                                          8
+              RFP for COASST Technology Platform and Tools
+
+      filter data to visualize according to specific geographic areas such as beaches,
+      regions or states; by specific time periods, such as months, seasons or year
+      ranges; and by particular classifications. For beached birds these
+      classifications are species and higher orders, in addition to instances of oiling
+      and entanglement. For marine debris, classification will be based on
+      particular debris characteristics of interest, such as instances of biofouling,
+      or a combination of characteristics informative for risk of harm to specific
+      species of wildlife. For instance, a user could filter debris by harm to sea lions
+      and visualize concentrations of debris that pose particular harm to those
+      organisms based on an intersections of several characteristics. This mapping
+      component may be linked to the Find a Beach function that exists on the
+      current website (but will be improved in the new development).
+
+
+Technology Component 5: Hosting, software, email, security, backup and
+maintenance
+The current COASST website, applications and scientific database are hosted by a
+private hosting provider. However, COASST is open to new approaches, services and
+solutions. Technical support is essential. Please address any requirements for
+website and application hosting, database and file backup strategies, security and
+software maintenance. Describe for which parts of this technology component the
+applicant will provide services and/or be responsible for over the duration of the
+contract. Two important pieces of software that need to run from the hosting
+provider are:
+    • JIRA- JIRA is used as a software feature/issue tracker among COASST staff. It
+       also serves as the help desk system.
+    • R Studio Server – R Studio Server and the R programming language will form
+       the backend of the COASST analytical environment. R Studio server needs to
+       be installed in a location that has access to the production database.
+
+
+
+
+                                          9
+                                   RFP for COASST Technology Platform and Tools
+
+
+
+
+Project Duration, Deliverables and Timeline*
+   Year   Jan           Feb       Mar       Apr           Ma    Jun         Jul      Aug           Sep   Oct                      Nov            Dec
+                                                          y
+   2014                                                                              Late                TC#1: Website            TC#2: Data
+                                                                                     August:             redesign and initial     Management
+                                                                                     Contractor          release (late october)   for Beached
+                                                                                     Start and                                    Birds. TC#4:
+                                                                                     Initial                                      Beached
+                                                                                     Meeting                                      Birds
+   2015   TC#2:         TC#1:     TC#2:     TC#3: Crowd                     TC#4:
+          Marine        CMS       Fully     source app;                     MD
+          debris data   Front-    operati                                   Data
+          management    End MD    onal                                      Viz
+          testing       Updates
+                        (1.x);
+   2016                                                        Continued maintenance of all TCs.
+   2017                                                        Continued maintenance of all TCs.
+
+*Technology Component #5 will be required throughout the project duration (September, 2017)/
+MD = Marine Debris
+BB = Beached Bird
+TC= Technology Component
+
+
+
+
+                                                                 10
+               RFP for COASST Technology Platform and Tools
+
+
+
+Instructions for the Preparation of the Proposal
+Cover Note
+Applicants should include a cover note to their proposals listing all documents
+submitted. The cover note should clearly list the name of the organizational chief
+executive, and, if different, the name(s) of all parties with the ability to legally bind
+the organization and the name(s) of all parties whom COASST should contact for
+clarifications and negotiations. The cover note should also provide a complete
+mailing address, street address (if different), electronic mail address(es), and
+telephone and fax numbers.
+
+
+Organizational Capabilities
+Applicants should provide documentation that provides evidence of the ability to
+complete the tasks described in the scope of work. This should include, at a
+minimum:
+
+   i.  Basic organizational information, including: year organization established,
+       total permanent staff, and organizational history and mission statement.
+   ii. Relevant experience in developing and implementing IT systems and
+       applications for university and/or non-profit organizations.
+
+
+Technical Approach (maximum 10 pages)
+
+Applicants should demonstrate their understanding for each technology component
+they are proposing to work on. Applicants should include a workplan with key
+milestones to meet the deliverables and timeline identified above. Please
+distinguish the level of effort for major software builds and releases and the ongoing
+maintenance required to ensure the software is running through 2017.
+
+Workflow and Team Structure Diagram
+The applicant should include a workplan with clearly identified deliverables. As
+appropriate, the applicant may provide work flow diagrams (e.g., Gantt charts),
+team structure diagrams, or any other visual element to better explain how
+technical activities will take place, when they will take place, and who will be
+responsible for leading them. COASST has external technical advisors and experts
+that will participate and facilitate technology component design and
+implementation. The applicant should plan to engage with these advisors and
+COASST staff. Please provide your recommended approach on how best to engage
+with these stakeholders (e.g., applicant will interface with key COASST staff points
+of contact in regular bi-weekly meetings).
+
+
+
+
+                                            11
+              RFP for COASST Technology Platform and Tools
+
+Curricula Vitae of Key Personnel
+This work effort will be taking place over a very tight time-frame and a primary
+basis of selection will be the expert personnel who are immediately available to
+begin work. Applicants must identify, by name, the team leader and any other
+additional individuals who will work on this project. Sub-contractors during the
+contract period will not be permitted unless explicitly agreed upon.
+
+
+Budget
+Applicants must submit a budget in a functioning Microsoft Excel file and a brief
+companion narrative. Worksheets should show all calculations, including unit costs,
+total units, and total level of effort for each technology component of the Scope of
+Work during the contract term.
+
+Please email rfp@coasst.org for budget guidance related questions. The applicant
+should include in the budget the cost of 1 of trip to the University of Washington per
+year.
+
+Evaluation Criteria
+COASST will make a best value determination of technical proposals in relation to
+proposed budgets. The least-cost budget will not necessarily be ranked the highest
+for evaluation purposes. All applicants will be notified whether their application
+was accepted or not.
+
+
+
+
+                                         12
+            RFP for COASST Technology Platform and Tools
+
+Appendices
+
+Appendix 1: New Website Structure
+
+
+
+
+                                    13
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    14
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    15
+            RFP for COASST Technology Platform and Tools
+
+Appendix 2: Beached Bird Field Forms
+
+
+
+
+                                       16
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    17
+             RFP for COASST Technology Platform and Tools
+
+Appendix 3: Legacy Beach Bird Data Ingestion Screen Shots
+
+
+
+
+                                     18
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    19
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    20
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    21
+            RFP for COASST Technology Platform and Tools
+
+Appendix 4: Marine Debris Protocol
+
+
+
+
+                                     22
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    23
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    24
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    25
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    26
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    27
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    28
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    29
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    30
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    31
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    32
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    33
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    34
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    35
+            RFP for COASST Technology Platform and Tools
+
+Appendix 5: Marine Debris Field Forms
+
+
+
+
+                                        36
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    37
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    38
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    39
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    40
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    41
+Appendix 6: Database Schema
+
+
+
+
+                                              array
+                                            array       array
+                                    array             array
+                                  array
+
+
+
+
+                Volunteer
+                Beached Birds
+                Marine Debris
+                Geography
+                Photos
+                Other / Linkage
+
+
+
+
+                                                                42
+             RFP for COASST Technology Platform and Tools
+
+Appendix 7: Additional Data Management Requirements
+
+Beach data management interface
+
+
+
+
+Bird species authority interface
+
+
+
+
+                                   43
+              RFP for COASST Technology Platform and Tools
+
+Appendix 8: Beached Bird Verification
+ Beached bird verification process. All COASST data is verified by COASST staff
+
+
+
+
+ Editing and verification process by COASST staff for a bird observation
+
+
+
+
+                                         44
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    45
+             RFP for COASST Technology Platform and Tools
+
+Appendix 9: Data Export Interface
+
+
+
+
+Appendix 10: Crowd Source ID App Mock Ups
+
+
+
+
+                                    46
+RFP for COASST Technology Platform and Tools
+
+
+
+
+                    47
+              RFP for COASST Technology Platform and Tools
+
+
+
+
+Appendix 11: Encounter Visualization
+Example interactive graph for encounter rate.
+
+
+
+
+                                        48
+

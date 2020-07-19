@@ -1,0 +1,1788 @@
+                                                                               Available for Public Use
+
+
+
+          Chief Information Security Officer (CISO) Advisory Services - REVISED
+
+
+ SOLICITATION INFORMATION:
+
+ Method of Solicitation:                    Request for Proposal (RFP)
+ Award Effective Date:                      TBD
+ Contract Period of Performance:            TBD
+ Solicitation Number:                       IT-19-086
+ UPDATED ISSUE DATE:                        March 5, 2020
+ NEW PROPOSAL DUE DATE:                     April 3, 2020
+
+ CONTRACT TO BE ISSUED BY:
+
+Universal Service Administrative Co.
+700 12th Street, NW, Suite 900
+Washington, DC 20005
+
+ CONTACT INFORMATION
+
+ USAC CONTACT INFORMATION                            OFFEROR CONTACT INFORMATION
+  Sparkle Mixon                                  (complete)
+  Sr. Procurement Specialist                     Name:
+  P: 202-772-4534                                POC:
+  E: sparkle.mixon@usac.org                      POC Title:
+                                                 POC Phone:
+                                                 POC Email:
+                                                 Address:
+
+
+
+ OFFEROR SIGNATURE
+
+
+
+Name and Title                                                               Date
+
+
+
+
+       Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                   COVER PAGE
+                                                                               Available for Public Use
+
+
+SECTION A:
+  About Us and the Work
+ I.      Overview of the Project
+
+      Universal Service Administrative Company (“USAC”) is seeking a collaborative, best-in-class
+      contractor to provide consulting and support services to act as an integral part of the USAC
+      organization driving successful outcomes required by USAC’s Information Security Program.
+      The USAC Information Security Program designs and implements security practices to protect
+      critical business processes and information technology (IT) assets; ensuring the confidentiality,
+      integrity, and availability. The program defines policies and procedures for assessing risk,
+      monitoring threats, and mitigating attacks. The selected contractor (“Contractor”) is expected
+      to work directly with USAC staff in order to satisfy the objectives of the Information Security
+      Program.
+
+      USAC’s Information Technology Department (“USAC IT”) consists of 155 employees and
+      sixty-two (62) professional services contractors, supporting 12 accreditation boundaries. In
+      2017, USAC IT executed 264 individual application releases, 175 infrastructure releases,
+      and Information Technology (“IT”) was able to deliver 99.78% uptime. With recent growth
+      and business operational changes, it is important at this juncture to assess USAC’s IT
+      infrastructure, architecture, business intelligence, program management office, and licensing
+      posture.
+
+II.      Background
+
+      Through its administration of the Universal Service Fund (“USF”) programs on behalf of the
+      Federal Communication Commission (“FCC”), USAC works to promote the availability of
+      quality services at just, reasonable and affordable rates and to increase access to advanced
+      telecommunications services throughout the nation. Specifically, the USF programs provide
+      funding for the expansion of telecommunications and broadband access to rural communities
+      and health care facilities, schools and libraries across the country, and low-income households.
+      Through program administration, auditing, and outreach, USAC works with contributors,
+      service providers, and program beneficiaries to achieve the program goals articulated by the
+      FCC for each of these programs.
+
+      The FCC has reformed the USF to support further investment in and access to evolving
+      broadband infrastructure, making the programs a primary vehicle to support this critical
+      national priority. USAC, as the administrator of the USF, plays a critical role in supporting
+      the ambitious vision to ensure that all citizens in the United States have access to high-speed
+      broadband. The organization has approximately 500 employees. USAC works in close
+      partnership with the FCC and other federal and state partners to support the achievement of
+      the USF program goals.
+
+          Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                      Page 1
+                                                                            Available for Public Use
+
+  USAC also administers the USF programs—High Cost, Lifeline, Rural Health Care, and
+  Schools and Libraries. USAC strives to provide efficient, responsible stewardship of the
+  programs, a key national asset in making important telecommunications and Internet services
+  available to consumers, health care providers, schools, and libraries throughout the United
+  States. The program divisions are supported by additional USAC personnel in Finance,
+  General Counsel, Information Systems, Internal Audit, the Enterprise Program Management
+  Office and Human Resources.
+
+  Consistent with FCC rules, USAC does not make policy for or interpret unclear provisions of
+  statutes or the FCC’s rules. The USF is paid for by contributions from telecommunications
+  carriers, including wireline and wireless companies, and interconnected Voice over Internet
+  Protocol providers, including cable companies that provide voice service, based on an
+  assessment of their interstate and international end- user revenues. These contributions are
+  most typically passed through to consumers through a universal service fee line item on their
+  telephone bills.
+
+High Cost Program
+The High Cost Program is dedicated to preserving and advancing voice and broadband service,
+both fixed and mobile, in rural areas of the United States. The High Cost Program ensures that
+rates for broadband and voice services are reasonably comparable in every region of the U.S.
+Like all USF programs, the administration of the High Cost Program has undergone significant
+modernization in the last several years to increase innovation and ensure beneficiaries have
+access to updated technology. USAC is leveraging the new High Cost Universal Broadband
+Portal (“HUBB”), which allows Carriers participating in modernized Connect America programs
+to file deployment data showing where they are building out mass-market, high- speed internet
+service by precise location. This information includes latitude and longitude coordinates for
+every location where service is available, and USAC will eventually display this information on
+a public-facing map to show the impact of Connect America funding on broadband expansion
+throughout rural America.
+
+Low-Income (Lifeline) Program
+The Lifeline Program provides a monthly discount on landline or wireless phone service to
+eligible low- income households. USAC works to ensure program integrity by making
+measurable and vital progress towards reducing program inefficiencies and waste while
+supporting the needs of Lifeline Program stakeholders through a detailed understanding of their
+challenges. To combat fraud, waste, and abuse, USAC reviews processes regularly to increase
+compliance, identify avenues for operational improvements, and refine program controls, such as
+audit processes. USAC has focused on data analytics to improve customer service and outreach
+approaches and increase the reach and effectiveness of the program to better serve service
+providers and subscribers. USAC is in the process of building the National Verifier, which will
+include the national Lifeline Eligibility Database to determine subscriber eligibility. USAC also
+operates the National Lifeline Accountability Database (“NLAD”) which prevents duplicate
+subscribers from receiving support in the Lifeline program.
+
+
+       Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                   Page 2
+                                                                            Available for Public Use
+
+Rural Health Care (RHC) Program
+The Rural Health Care Program supports health care facilities in bringing medical care to rural
+areas through increased connectivity. The Rural Health Care Program provides reduced rates for
+broadband and telecommunications services via the Healthcare Connect Fund Program and
+Telecommunications Program. These telecommunications and broadband services are necessary
+to support telemedicine and allow cutting edge solutions and treatments to be accessible to
+Americans residing in rural areas.
+
+Schools and Libraries (E-rate) Program
+The Schools and Libraries program helps schools and libraries obtain high-speed Internet access
+and telecommunications at affordable rates. In connection with the FCC’s E-rate modernization
+reform efforts, the program has included a focus on broadband to and within schools and
+libraries to support a modern and dynamic learning environment for all students. In support of
+improved program outcomes, USAC has completed the E-rate Productivity Center (“EPC”)
+which enables electronic participation in the reformed Schools and Libraries Program. E-rate
+program funding helps ensure connectivity for schools and libraries across the country. USAC
+is investing in new tools and data analytics capabilities to support the program in alignment
+with the FCC’s goals.
+
+Additional information on USF programs can be found at:
+http://www.usac.org/about/about/who-we- are/default.aspx
+
+
+
+
+       Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                   Page 3
+                                                                            Available for Public Use
+
+
+
+SECTION B:
+ Requirements and Scope of Work
+I.   OVERVIEW
+
+     The Contractor shall provide CISO advisory and support services for USAC. The
+     Contractor shall act as an integral part of the USAC organization driving successful
+     outcomes required by USAC’s Information Security Program. The selected Contractor is
+     expected to work directly with USAC staff and other contractors in order to satisfy the
+     objectives of USAC’s Information Security Program.
+
+     USAC’s Information Security Program adheres to the Federal Information Security
+     Management Act (“FISMA”) / National Institute of Standards and Technology (“NIST”)
+     framework for information security. This framework has been applied to systems in
+     production and new systems being developed that support the mission of the USF.
+
+     USAC organizational characteristics with respect to Information Security, are as follows:
+          • Five (5) Customer-facing business units which include Lifeline, Schools and
+              Libraries, Rural Healthcare, High Cost and Contributions that interact via web-
+              based applications and Application Programming Interfaces (“APIs”) with
+              USF beneficiaries (schools, libraries, rural healthcare providers, low-income
+              Lifeline subscribers), telecommunications service providers, and USF
+              stakeholders. Each of these business units has no more than five (5) key
+              systems. The majority of these systems are custom-built and on premise.
+              More recent systems are managed in third party vendor's cloud environments.
+          • The business units are also supported by USAC internal systems including the
+              General Support Services (GSS), the Enterprise Database System (EDS), and
+              the Finance Operations System/Great Plains.
+          • The Business Support Units (Human Resources, Internal Audit, General
+              Counsel, and Information Technology) mostly have commercial off-the-shelf
+              (“COTS”) based support systems that are configured to meet business unit
+              requirements.
+
+     The Contractor shall provide CISO advisory services to include:
+
+              1. USAC Information Security Program management
+              2. Project Management Office (“PMO”) support
+              3. Develop a t Security and Privacy Awareness Program to assist with USAC
+                 education, monitoring, and ongoing maintenance of security and privacy
+                 awareness needs.
+              4. Audit support services
+
+       Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                   Page 4
+                                                                               Available for Public Use
+
+
+       The executive sponsors for this engagement are USAC’s Chief Executive Officer (“CEO”)
+       and Chief Information Officer (“CIO”). In addition to IT staff and IT professional services
+       contractors, the Contractor will be provided access to the Divisional Vice Presidents for each
+       business unit, Finance, Enterprise Portfolio Management Division, and Internal Audit
+       Division as well as to line management and staff within these internal functions, as needed,
+       to complete the Deliverables, as defined in Section C., I., C.
+
+ II.      TYPE OF CONTRACT
+
+       This will be a firm fixed price, single award contract (“Contract”). The firm fixed price for
+       the work (total project and all line items) is to be set forth in Attachment 1 to the Contractor
+       Response to the RFP. The Contract price must include all direct and indirect costs set forth
+       in this Section B, including equipment, product support, supplies, general and
+       administrative expenses, overhead, materials, travel, labor, taxes (including use and sales
+       taxes), shipping, and profit. USAC may reimburse Contractor for any pre-approved travel
+       related expenses to USAC vendor locations on behalf of USAC in accordance with USAC’s
+       Travel Policy.
+
+III.      CONTRACT TERM
+        The period of performance for the Contract is one year, with two (2) one-year option
+        periods, for a total possible term of three (3) years (the “Term”). The option periods may be
+        exercised only by USAC, at its sole discretion, by giving Contractor no less than thirty (30)
+        days advance written notice. Each Term shall commence on the Effective Date on which the
+        Contract is signed.
+
+IV.      PLACE OF PERFORMANCE
+       A. All required Key Personnel Contract Services, as defined in Section C., I., E.,
+          must be performed within the United States at USAC’s headquarters at 700
+          12th Street NW, Suite 900, Washington, DC 20005 (“USAC Headquarters”).
+
+       B. A Contract kick-off meeting will be held at USAC Headquarters. Status and other
+          meetings may be held telephonically or in person, at USAC’s discretion. USAC will
+          not reimburse Contractor for any travel related expenses for kick-off, status, and other
+          meetings.
+
+       C. Services requiring work at USAC Headquarters, will include appropriate work space
+          and appropriate access to USAC’s computer network. NOTE: To access USAC IT
+          Systems, Contractor must sign USAC’s IT Security Rules of Behavior Form and
+          complete mandatory IT Security and Privacy Awareness Online Training.
+          Contractor may be required to complete Role-Based Privacy Act Training if
+          accessing USAC information systems designated as federal system of records (i.e.,
+          National Verifier and NLAD).
+
+
+          Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                      Page 5
+                                                                              Available for Public Use
+
+      D. Status update meetings and other meetings may be held virtually, except to the extent
+         that USAC or the Contractor requires in-person presence. While attending USAC
+         Headquarters for meetings or to conduct an assessment of USAC’s existing information
+         security program based on NIST CyberSecurity Framework, Contractor staff will be
+         considered as visitors. All visitors are required to complete USAC’s Visitor Form,
+         USAC Visitor Form, and wear a badge while on premises. The Contract kick-off
+         meeting and all in-person meetings will be held at USAC Headquarters or other
+         reasonable locations designated by USAC.
+
+V.        COMPANY PROFILE
+      USAC is a not-for-profit Delaware corporation, which works under the oversight of the
+      FCC. USAC is not a federal agency, a government corporation, a government-controlled
+      corporation or other establishment in the Executive Branch of the United States
+      Government. USAC is not a contractor to the Federal Government. The Contract awarded
+      as a result of this RFP will not be a subcontract under a federal prime contract. USAC
+      does, however, conduct its procurements in accordance with the terms of a Memorandum
+      of Understanding with the FCC, which requires USAC to adhere to the following
+      provisions from the Code of Federal Regulations: 2 C.F.R. §§ 200.318-321; 200.323;
+      200.325-326 and App. II to C.F.R. Part 200 (collectively “Procurement Regulations”).
+      Further, USAC’s IT systems that are used to administer the USF programs and USAC
+      vendors that handle and manage USF data must be compliant with FISMA and NIST
+      requirements as applicable to federal agencies.
+
+VI.      SCOPE OF THE SERVICES AND DELIVERABLES
+
+      A. The Contractor shall provide the following services:
+
+        1. Information Security Program Management Support.
+         In conjunction with the USAC Director of Information Security (“DIS”), the Contractor shall
+         be responsible for overseeing the strategic and day-to-day aspects of the Information Security
+         Program by performing the following:
+
+               i.   Develop a strategic and tactical security program management plan to include
+                    a method for tracking program maturity, performance and improvement over
+                    time.. This plan should:
+                    a. Use the NIST framework as a benchmark, identify domains that require
+                       further development.
+                    b. Provide a maturity plan for each domain to strengthen USAC security
+                       posture.
+                    c. Provide strategic and tactical eighteen (18) month action plan that provides
+                       recommendations on sequence and prioritization to improve effectiveness
+                       across all security domains.
+                    d. Provide project management oversight to implement the eighteen (18)
+                       month plan.
+         Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                     Page 6
+                                                                      Available for Public Use
+
+
+      ii.     Conduct the incident response analyses; develop and conduct incident response
+              training programs.
+
+     iii.     Develop monthly metrics that measure the security program’s effectiveness.
+              These metrics will include, at a minimum, a status and trends in each area:
+              a. IT System and Business Risks
+              b. Active Vulnerabilities
+              c. Assessment & Authorization
+              d. Contingency Planning
+              e. Incident Response
+              f. Information Security Education, training, and awareness
+
+2. Project Management Office (“PMO”) Support
+ In conjunction with the USAC CIO, the Contractor shall be responsible for managing the
+ strategic and day-to-day aspects of the PMO Support Program, performing the following:
+
+       i.      Act as the PMO support liaison for the DIS and as liaison with other members
+               of the Information Security team to ensure that documentation is up to date for
+               internal and public consumption.
+      ii.      Manage the internal and external document repository for the USAC
+               Information Security team, as well as the external customer facing SharePoint
+               site.
+     iii.      Monitor ongoing business and systems activities and triage new Information
+               Security related projects, reviewing their feasibility, and developing a realistic
+               schedule for successful execution.
+            iv.Ensure that project plans are developed for individual Information Security
+               projects such as System Accreditation, Penetration Testing, IV&V, and
+               Continuous Monitoring.
+      v.       Track progress and provide regular status, metrics and reports on the
+               Information Security office projects and initiatives on the internal dashboard
+               and to CIO and USAC leadership.
+     vi.       Provide information and content for the weekly activity reports to the USAC
+               CIO.
+    vii.       Capture, organize, and maintain all draft and final security artifacts in the
+               USAC repository.
+   viii.       Lead FCC bi-weekly IT Security meeting including preparing agenda, meeting
+               minutes, and any follow ups and provide meeting minutes of the weekly internal
+               dashboard meeting.
+     ix.       Review documentation and/or communications prior to being submitted to FCC.
+      x.       Develop processes, procedures, and templates to ensure the appropriate
+               information security and privacy requirements flow down to all third-party
+               vendors.
+
+
+ Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                             Page 7
+                                                                      Available for Public Use
+
+
+3. USAC-wide Information Security and Privacy Awareness Training Program.
+ In conjunction with the USAC CIO, the Contractor shall be responsible for establishing and
+ maintaining information-security awareness through a security awareness program by
+ performing the following:
+
+           i.    Develop a robust security awareness program to assist with USAC
+                 education, monitoring, and ongoing maintenance of security awareness
+                 needs. The program should be focused on:
+
+                     a. Establish Minimum Security Awareness (new hire training, e-mails
+                        and circulars, memos, notices, bulletins, posters, etc.).
+                     b. Identification and development of role-based security training.
+                     c. Metrics to Assess Awareness Training.
+
+          ii.    Assist in selecting an appropriate vendor for providing the content for the
+                 training.
+         iii.    Implement and manage USAC security awareness program.
+
+4. Privacy Program Support.
+ In conjunction with the USAC Privacy Officer, the Contractor shall be responsible for
+ assisting the USAC Privacy Officer in ensuring USAC compliance with all applicable
+ statutory, regulatory, and policy requirements by performing the following:
+
+           i.    Identify gaps in USAC’s Privacy related policies and procedures and assisting
+                 with the development of the identified artifacts.
+          ii.    Assist the USAC Privacy Officer in ensuring USAC compliance with all
+                 applicable statutory, regulatory, and policy privacy-related requirements
+                 applicable to USAC.
+
+         iii.    Ensure USAC compliance with Privacy Policies, FISMA, NIST Risk
+                 Management Framework, and Privacy Act and applicable state privacy
+                 requirements.
+          iv.    Ensure controls are enacted, as appropriate, when USAC collects, uses, retains,
+                 and shares Personally Identifiable Information (PII) including the selection and
+                 implementation of particular security and privacy controls.
+          v.     Ensure NIST privacy controls are documented, as required, for each USAC
+                 information system.
+          vi.    Assist the USAC Privacy Officer with completing its Privacy Threshold
+                 Analyses (“PTAs”) and Privacy Impact Assessments (“PIAs”) under Section
+                 208(b) of the E-Government Act of 2002.
+         vii.    Manage and maintain a process for reporting policy violations and assist the
+                 USAC Privacy Officer with responding to privacy-related audits and reviews.
+        viii.    Conduct research and analysis and recommend changes to the USAC Privacy
+ Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                             Page 8
+                                                                        Available for Public Use
+
+                   Policy for annual updates. Create, present, and explain policy and strategic
+                   concepts to support privacy awareness and privacy-related controls to include
+                   creating training and presentation materials.
+
+  5. Audit Support Services.
+   In conjunction with the USAC CIO, the Contractor shall be responsible for managing the
+   strategic and day-to-day aspects of providing internal inspection and audit support to USAC
+   by performing the following:
+
+             i.    Manage and provide support for internal audits and the annual FISMA audit.
+            ii.    Develop and maintain a FISMA Audit Project Plan analysis of prior year
+                   FISMA audits and issues that identifies areas for improvement.
+           iii.    Conduct DIS-approved pre-audit test procedures documenting results and
+                   triaging weaknesses.
+            iv.    Provide audit support to the USAC CIO and USAC’s Audit and Assurance
+                   Division to include pre- and post- audit activities. These activities will include,
+                   at a minimum:
+                        a. Serve as a liaison between all vested parties;
+
+                       b. Coordinate and track all audits (requests, meetings, Deliverables); and
+
+                       c. Draft and submit for FCC review and approval, Corrective Action Plans
+                          (“CAPs”) for all FISMA findings to include prior year open findings, in
+                          coordination with USAC’s Enterprise Portfolio Management Office
+                          (EMPO).
+
+  6. Vulnerability/Scanning Management Support :
+   In conjunction with the USAC DISCISO, Contractor shall be responsible for developing,
+   implementing, and managing vulnerability/scanning management including but not
+   limited to:
+
+             i.    Work with vulnerability engineer to ensure scans are conducted in timely
+                   manner
+            ii.    Review vulnerability scan results to perform vulnerability assessment
+           iii.    Track vulnerabilities in compliance with USAC policies and procedures
+           iv.     Provide vulnerability metrics and trending reports for various stakeholders
+
+B. The Contractor shall provide the following Contract deliverables:
+  1. Information Security Program Plan
+  2. Information Security Program Metrics
+  3. Information Security Education, Training and Awareness Program plan and training
+     curriculum
+  4. Information Security Education, Training and Awareness Metrics
+  5. Incident Response Plan
+   Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                               Page 9
+                                                                             Available for Public Use
+
+       6.    Project plans for Information Security projects
+       7.    Weekly Activity reports
+       8.    FISMA Audit Project Plan
+       9.    Audit Findings Responses and Corrective Action Plans (CAPs)
+
+VII.        MEETINGS/MANAGEMENT AND KEY PERSONNEL
+
+            A. Meetings.
+               1. Project Kick-Off Meeting.
+                a. Within five (5) business days of the Contract start date, the Contractor shall initiate
+                   work on this Contract by meeting with key USAC representatives to ensure a
+                   common understanding of the requirements, expectations, and ultimate end
+                   products for the CISO advisory and support services (the “Project”). Prior to the
+                   meeting, the Contractor shall review the background information and materials
+                   provided by USAC. At the meeting, the Contractor shall be prepared to discuss the
+                   overall understanding of the Project.
+
+                 b. Contractor shall begin performance of CISO support services no later than ten
+                    (10) calendar days following the project kick-off meeting. During the project
+                    kick-off meeting Contractor and USAC will jointly author a Rules of
+                    Engagement for the Project.
+
+                 c. Discussions will also include the Scope of Work, Deliverables to be produced,
+                    how the efforts will be organized and how the Project will be conducted.
+
+                 d. The Contractor shall present a project plan (the “Project Plan”) to USAC for
+                    discussion and approval. The Project Plan should detail the agile process for
+                    reporting and remediating critical and high findings prior to issuing the final
+                    Deliverables. A concerted effort shall be made to gain a thorough understanding
+                    of USAC’s expectations. However, nothing discussed in this, or in any
+                    subsequent meetings or discussions between USAC and the Contractor shall be
+                    construed as adding to, deleting, or modifying any Contract requirements,
+                    including Deliverable specifications and due dates. All Contract modifications
+                    and amendments must be approved in writing by an authorized USAC
+                    Procurement representative.
+
+                2. Bi-Weekly Status Meetings.
+                a. Key Personnel must schedule and participate in bi-weekly status meetings
+                   and travel to USAC Headquarters in accordance with the requirements of
+                   the Contract.
+
+                b. Contractor shall prepare a status report and submit it to USAC twice per week
+                   (“Twice Weekly Status Report”). The report must include the current status for
+                   each of the Project work streams including percentage of completion,
+        Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                    Page 10
+                                                                        Available for Public Use
+
+             achievements and any risks/issues relating to Contract performance or payment.
+             The report must include an expected completion date and the circumstances
+             surrounding any possible delays. The report shall be submitted one (1) business
+             day before each regularly scheduled status meeting and no later than Friday
+             noon (12:00 PM ET) during weeks in which the meeting is scheduled for
+             Monday or when no status meeting is scheduled. The Twice Weekly Status
+             Report shall be used as the basis of the status meeting discussion.
+
+         3. Milestone Status Meetings.
+            a. Key Personnel must be prepared to present each Deliverable either in-
+               person or via webcast meeting, as directed by USAC. For revision rounds,
+               the Contractor’s key personnel should be prepared to walk through any
+               editing round questions.
+
+             b. Key Personnel must be prepared to provide interim deliverable updates, as
+                requested by USAC.
+
+B. Key Personnel.
+   Contractor shall provide staffing for the sample labor categories below, or Contractor may
+   propose other labor categories in its proposal submission. Any additional labor categories
+   must include the associated labor hour bill rate for each additional category submitted as
+   well as the experience and qualifications of the personnel to be assigned to that labor
+   category. Contractor shall assign, as Key Personnel, at least one of each of the following:
+
+          Security Program Consultant - The Contractor shall be responsible for
+          managing the strategic and day-to-day aspects of the Information Security
+          Program. The Contractor must have the follow qualifications:
+             • Bachelor’s degree (master’s degree strongly preferred) and advanced
+                 relevant technical training and certifications. Eight (8) to ten (10)
+                 years of directly related work experience.
+             • Five (5) to seven (7) years of management experience.
+             • Three (3) to four (4) years of business leadership experience
+             • Strong experience and knowledge in the following areas expected:
+                     o NIST
+                     o FISMA and FedRAMP
+                     o Audit Assessment Experience (internal and external)
+                     o Active Directory Systems
+                     o Network Security
+                     o Database Security
+                     o Operating Security
+                     o Application Security
+                     o System Security
+                     o Incident Response Management and Training
+                     o Enterprise IT Policy and Definitions
+   Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                               Page 11
+                                                                      Available for Public Use
+
+                     o Forecasting/Budgeting
+
+
+The Contractor may propose additional labor categories in its proposal submission. Any
+additional labor categories must include the associated labor hour bill rate for each
+additional category submitted as well as the experience and qualifications of the personnel
+to be assigned to that labor category.
+
+
+
+
+ Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                             Page 12
+                                                                              Available for Public Use
+
+
+      SECTION C:
+      USAC Terms and Conditions
+ I.    DEFINITIONS
+
+       A. “Contractor” means the Offeror whose proposal was selected for award of the Contract.
+
+       B. “Data” means recorded information, regardless of form or the media on which it may be
+          recorded, and includes, but is not limited to, technical data and Software.
+
+       C. “Deliverables” means the deliverables, goods, items, products, and material that are to be
+          prepared by Contractor and delivered to USAC as described in Section B.
+
+       D. “Offeror” means an entity submitting a formal proposal in response to this Solicitation.
+
+       E. “Services” means the tasks, services, functions and responsibilities described in Section B
+          and in the Contract issued hereunder.
+
+       F. “Software” means computer programs that allow or cause a computer to perform a specific
+          operation or series of operations, together with all modifications to, or enhancements
+          (“derivative works”) thereof.
+
+II.    INSPECTION / ACCEPTANCE
+
+      Contractor shall only tender for acceptance Services and Deliverables that conform to the
+      requirements of the Contract. USAC will, following Contractor’s tender, inspect or test the
+      Deliverables or Services and:
+
+       (a)   Accept the Services and Deliverables; or
+
+       (b)   Reject the Services and Deliverables and advise Contractor of the reasons for the
+             rejection.
+
+      If rejected, Contractor must repair, correct or replace nonconforming Deliverables or re-perform
+      nonconforming Services, at no increase in Contract price. If repair, correction, replacement or
+      re-performance by Contractor will not cure the defects or is not possible, USAC may terminate
+      for cause under Section C.XI, below, and, in addition to any other remedies, may reduce the
+      Contract price to deduct amounts for the defective work.
+
+
+
+
+             Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                      Page 13
+                                                                               Available for Public Use
+
+       Unless specified elsewhere in the Contract, title to items furnished under the Contract shall pass
+       to USAC upon acceptance, regardless of when or where USAC takes possession.
+
+III.    ENTIRE CONTRACT / BINDING EFFECT
+
+       The Contract, including the following contract documents listed in descending order of
+       precedence: (1) Sections A-E, including the attachments identified in Section D; and (2) any
+       other attachments – constitutes the entire agreement between the parties with respect to the
+       subject matter hereof and supersedes and replaces all prior or contemporaneous understandings
+       or agreements, written or oral, regarding such subject matter. Section B and Section C have
+       priority and shall take precedence over any other Contract document, including Contractor
+       proposals that may be included as attachments to the Contract. Any waiver of any provision of
+       the Contract will be effective only if in writing and signed by the party granting the waiver. The
+       Contract shall be binding upon and shall inure to the benefit of the parties hereto and their
+       respective successors and assignees.
+
+IV.     CHANGES
+
+       The terms of the Contract shall not be modified other than in writing signed by the parties. The
+       parties may bilaterally modify the Contract as needed.
+
+ V.     INVOICES
+
+        A. Where to Submit Invoices. Contractor shall submit invoices through the USAC Coupa
+           Supplier Portal (CSP) method or via the Supplier Actionable Notification (SAN)
+           method. The CSP method will require Contractor to register and create an account for the
+           CSP. An invitation link to the CSP may be obtained by emailing CoupaHelp@usac.org. The
+           SAN method will require Contractor to invoice directly from the purchase order (PO) sent
+           by USAC via email. Contractor will receive a SAN with action buttons and can create an
+           invoice from or add a comment to the PO and acknowledge the receipt of the PO. For
+           assistance on all Coupa related billing questions, Contractor may email
+           CoupaHelp@usac.org. For assistance on all non-Coupa related billing questions,
+           Contractor may email accounting@usac.org.
+
+
+        B. Invoice Content. Invoices must include:
+              1. Name and address of Contractor;
+              2. Invoice date, number and period of performance;
+              3. Contract number;
+              4. Completed and signed copies of the Contractor Weekly Status Report and Time
+                  Sheet by each Contractor personnel performing services on the Contract for the
+                  time period covered by the invoice, if applicable;
+
+
+              Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                       Page 14
+                                                                               Available for Public Use
+
+                5. Name and address of official to whom payment is to be sent or to notify in event of
+                   invoice or payment issues; and
+                6. Any other substantiating documentation or information as reasonably required by
+                   USAC.
+
+         C. EFT Information. Contractor shall provide Electronic Funds Transfer (EFT) banking
+            information via secure method prior to issuance of first invoice. USAC shall not be liable
+            for incomplete or erroneous transfers which occur as a result of Contractor providing
+            incorrect or out of date EFT information.
+
+         D. Invoice Submittal Date. Contractor may submit invoices for payment upon completion and
+            USAC’s acceptance of all of the work associated with a Contract or, if the period of
+            performance of a Contract exceeds sixty (60) days, once every thirty (30) days, with the
+            submission of the first invoice no earlier than thirty (30) days after issuance of the Contract.
+
+         E. Content of Periodic Invoices. If periodic invoices are submitted for a Contract, each
+            invoice shall include only services that have been completed and Deliverables that have
+            been accepted as of the date of invoice submission and that have not been billed in a prior
+            invoice.
+
+         F. Contractor Statement to Accompany Invoices. All invoices shall be accompanied by the
+            following statement signed by Contractor: “I certify that the services and items submitted
+            on this invoice have been performed and delivered in accordance with the Contract [insert
+            contract number] and that all charges are true, correct and have not been previously billed.”
+
+VI.      PAYMENT / RATES
+
+       Contractor shall be paid for Services performed according to a firm fixed-price, based on the
+       invoice schedule set forth in Attachment 2. USAC will pay invoices submitted in accordance
+       with Section C.V., above, within thirty (30) calendar days of receipt of invoice, provided the
+       Services and/or Deliverables have been delivered and accepted by USAC.
+
+VII.     PATENT INDEMNITY
+
+       Contractor shall indemnify, hold harmless and defend USAC and its directors, officers,
+       employees and agents against any and all claims and liability, including attorney’s fees and other
+       costs, for actual or alleged direct or contributory infringement of, or inducement to infringe, or
+       misappropriation of, any patent, trademark or copyright, arising out of or related to Contractor’s
+       performance of the Contract.
+
+
+
+
+              Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                       Page 15
+                                                                                Available for Public Use
+
+VIII.    ASSIGNMENT / SUBCONTRACTING
+
+        Contractor shall not assign or subcontract all or any portion of the Contract without obtaining
+        USAC’s prior written consent. Consent must be obtained at least thirty (30) days prior to the
+        proposed assignment or subcontracting. USAC may require information and assurances that the
+        proposed assignee or subcontractor has the skills, capacity, qualifications and financial strength
+        to meet all of the obligations under the Contract. An assignment or subcontract shall not release
+        the Contractor of the obligations under the Contract, and the assignee or subcontractor shall be
+        jointly and severally liable with the Contractor. Contractor shall not enter into any subcontract
+        with a company or entity that is debarred, suspended, or proposed for debarment or suspension
+        by any federal executive agency unless there is a compelling reason to do so. Contractor shall
+        review the System for Award Management (“SAM”) for suspension or debarment status of
+        proposed subcontractors. See https://www.sam.gov.
+
+ IX.     TERMINATION FOR CONVENIENCE
+
+        USAC may terminate the Contract for any reason or no reason upon one (1) day prior written
+        notice to the Contractor. Subject to the terms of the Contract, Contractor shall be paid for all
+        time actually spent performing the Services required by the Contract up to date of termination,
+        plus reasonable charges Contractor can demonstrate to the satisfaction of USAC have resulted
+        directly from the termination.
+
+  X.     TERMINATION FOR CAUSE
+
+        Upon the expiration of a ten (10) day cure period (during which the defaulting party did not
+        provide a sufficient cure), the non-defaulting party may terminate the Contract issued hereunder,
+        in whole or in part, for cause in the event of the defaulting party’s failure to comply with any
+        material term or condition of the Contract, as applicable, or if either party fails to provide the
+        other party, upon request, with adequate assurances of future performance. In the event of
+        termination for cause, the non-defaulting party shall be entitled to any and all rights and remedies
+        provided by law or equity. If it is determined that USAC improperly terminated the Contract for
+        cause, such termination shall be deemed a termination for convenience. In the event of partial
+        termination, the defaulting party shall continue to perform the portion of the Services not
+        terminated.
+
+
+
+
+               Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                        Page 16
+                                                                                Available for Public Use
+
+ XI.     STOP WORK ORDER
+
+        USAC may, in its sole discretion, issue a stop work order at any time during the Contract term.
+        Upon receipt of a stop work notice, or upon receipt of a notice of termination (for cause or
+        convenience), unless otherwise directed by USAC, Contractor shall, on the stop work date
+        identified in the stop work or termination notice: (A) stop work, and cause its subcontractors,
+        consultants or agents to stop work, to the extent specified in said notice; and (B) subject to the
+        prior written approval of USAC, transfer title and/or applicable licenses to use, as appropriate,
+        to USAC and deliver to USAC, or as directed by USAC, all materials, Data, work in process,
+        completed work and other USAC Information or material produced in connection with, or
+        acquired for, the work terminated. In the event of a stop work order, all deadlines in the Contract
+        shall be extended on a day for day basis from such date, plus reasonable additional time, as
+        agreed upon between the parties, acting in good faith, to allow Contractor to reconstitute its staff
+        and resume the work
+
+XII.     LIMITATION OF DAMAGES
+
+        Except in cases of gross negligence or willful misconduct, in no event shall either party be liable
+        for any consequential, special, incidental, indirect or punitive damages arising under or relating
+        to the performance of the contract. USAC’s entire cumulative liability from any causes
+        whatsoever (including indemnification obligations, if any), and regardless of the form of action
+        or actions, whether in contract, warranty, or tort (including negligence), arising under the
+        contract shall in no event exceed the lesser of Contractor’s actual, proven direct damages or the
+        amounts paid to Contractor under the contract. The parties expressly acknowledge that the
+        limitations and exclusions set forth in this provision have been the subject of active and complete
+        negotiation between the parties and represent the parties’ agreement based upon the level of risk
+        to the parties associated with their respective obligations under the contract and the payments
+        provided hereunder to Contractor for its performance of the Services and Deliverables. All
+        exclusions or limitations of damages contained in the contract, including, without limitation, the
+        provisions of this section, shall survive expiration or termination of the Contract.
+
+
+XIII.    CONFIDENTIAL INFORMATION
+
+         A. Confidential Information. Confidential Information includes, but is not limited to,
+            information, Data, material, or communications in any form or format, whether tangible or
+            intangible, spoken or written (collectively referred to hereafter as “Information”), that
+            contains, reflects, or is derived from or based upon, or is related to:
+
+                 1. Management, business, procurement or financial Information of either party, the
+                    FCC or a USF stakeholder, including proprietary or commercial Information and
+                    trade secrets that have not previously been publicly disclosed;
+
+
+               Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                        Page 17
+                                                                      Available for Public Use
+
+
+       2. Information regarding USAC’s processes and procedures (including, but not
+          limited to, program operational Information, Information regarding USAC’s
+          administration of its programs, and Information regarding USAC’s processing of
+          applications for program support);
+
+       3. Information concerning USAC’s relationships with other vendors or contractors,
+          the FCC, USF Stakeholders and financial institutions;
+
+       4. Information marked to indicate disclosure limitations such as “Confidential
+          Information,” “proprietary,” “privileged,” “not for public disclosure,” “work
+          product,” etc.;
+
+       5. Information compiled, prepared or developed by Contractor in the performance of
+          the Contract; the foregoing shall not include Information that is already lawfully in
+          the possession of the recipient party prior to the receipt of such Information;
+
+       6. Any Information identified as confidential by the disclosing party; and
+
+       7. Personally Identifiable Information (PII), any information about an individual that
+          can be used to distinguish or trace an individual’s identity either alone or when
+          combined with other information that is linked or linkable to a specific individual.
+          Examples of PII include name, address, telephone number, date and place of birth,
+          mother’s maiden name, biometric records, etc.
+
+B. Non-Disclosure/Use/Irreparable Harm. It is anticipated that one of the parties (Disclosing
+   Party) may disclose, or has disclosed, Confidential Information to the other party
+   (Recipient). At all times during the term of the Contract and thereafter, the Recipient shall
+   maintain the confidentiality of all Confidential Information and prevent its unauthorized
+   disclosure, publication, dissemination, destruction, loss, or alteration. Recipient shall only
+   use Confidential Information for a legitimate business purpose of USAC and in the
+   performance of the Contract. Recipient acknowledges that the misappropriation,
+   unauthorized use, or disclosure of Confidential Information would cause irreparable harm
+   to the Disclosing Party and could cause irreparable harm to the integrity of the USF
+   Programs.
+
+C. Employee Access to Confidential Information. Recipient shall not disclose Confidential
+   Information to partners, joint ventures, directors, employees, agents and subcontractors
+   (sub-Recipient) unless absolutely necessary for a Recipient’s or sub-Recipient’s
+   performance of the Contract, and if necessary, shall only disclose the Confidential
+   Information necessary for sub-Recipient’s performance of its duties. As a pre-condition to
+   access to Confidential Information, Recipient shall require sub-Recipients, including its
+
+
+     Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                              Page 18
+                                                                             Available for Public Use
+
+          employees and subcontractors, and the employees of any subcontractor, to sign a non-
+          disclosure or confidentiality agreement containing terms no less restrictive than those set
+          forth herein. The Disclosing Party may enforce such agreements, if necessary, as a third-
+          party beneficiary.
+
+       D. Contractor Enforcement of Confidentiality Agreement. Contractor must report, and
+          describe in detail, any breach or suspected breach of the non-disclosure requirements set
+          forth above to the USAC General Counsel immediately (i.e., within one (1) hour) upon
+          becoming aware of the breach. Contractor will follow-up with the USAC General Counsel
+          and provide information on when and how the breach occurred, who was involved, and
+          what has been done to recover the Information.
+
+       E. Exclusions. If requested to disclose Confidential Information by an authorized
+          governmental or judicial body, Recipient must promptly notify the Disclosing Party of the
+          request and to the extent that it may legally do so, Recipient must refrain from disclosure
+          of the Confidential Information until the Disclosing Party has had sufficient time to take
+          any action as it deems appropriate to protect the Confidential Information. In the event
+          Confidential Information of USAC is requested, Recipient must notify USAC, with a copy
+          to USAC’s General Counsel, of the request. Neither Contractor nor its subcontractors shall
+          issue any public statement relating to or in any way disclosing any aspect of the Contract
+          without the prior written consent of USAC. Notwithstanding anything herein to the
+          contrary, USAC may, without notice to Contractor, provide the Contract, including
+          Contractor’s proposal information, and any information or Data delivered, prepared or
+          developed by Contractor in the performance of the Contract to the FCC or other
+          governmental or judicial body, and may publicly disclose basic information regarding the
+          Contract, e.g., name of Contractor, price, basis for selection, description of
+          Services/Deliverables and any provisions necessary for USAC to justify actions taken with
+          respect to the Contract.
+
+XIV.   RETURN OF USAC INFORMATION
+
+       A. “USAC Information” includes Information and Data provided by USAC to Contractor for
+          use in the performance of the Contract, Data that is collected, developed or recorded by
+          Contractor in the performance of the Contract, including without limitation, business and
+          company personnel information, program procedures and program specific information,
+          and Data that is created or derived from such Data. USAC Information is Confidential
+          Information and subject to all requirements in Section C.XIV.
+
+       B. Promptly upon the expiration or termination of the Contract, or such earlier time as USAC
+          may direct, Contractor shall, at the direction of USAC, and at no additional cost to USAC,
+          return or destroy all USAC Information, including all copies thereof, in the possession or
+          under the control of Contractor. Contractor shall not withhold any USAC Information as
+
+
+            Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                     Page 19
+                                                                               Available for Public Use
+
+            a means of resolving any dispute. To the extent that there is a dispute between Contractor
+            and USAC, Contractor may make a copy of such USAC Information as is necessary and
+            relevant to resolution of the dispute. Any such copies shall promptly be destroyed upon
+            resolution of the dispute.
+
+        C. USAC Information is provided to Contractor solely for the purpose of rendering the
+           Services, and USAC Information or any part thereof shall not be sold, assigned, leased, or
+           otherwise transferred to any third party by Contractor (except as required to perform the
+           Services or as otherwise authorized in the Contract), commingled with non-USAC
+           Information, or commercially exploited by or on behalf of Contractor, or its employees or
+           agents. Promptly upon the expiration of the Contract term, or such earlier time as USAC
+           may direct, Contractor shall, at the direction of USAC, and at no additional cost to USAC,
+           return or destroy all copies of USAC Information in the possession or under the control of
+           Contractor or its employees or any subcontractors or their employees. Contractor shall not
+           withhold any USAC Information as a means of resolving any dispute. To the extent that
+           there is a dispute between Contractor and USAC, Contractor may make a copy of such
+           USAC Information as is necessary and relevant to resolution of the dispute. Any such
+           copies shall promptly be destroyed upon resolution of the dispute.
+
+XV.     INFORMATION SECURITY
+
+       The Contractor shall establish and maintain safeguards to protect the confidentiality, integrity,
+       and restricted availability of Confidential Information, including any PII, in its possession
+       according to NIST, FISMA requirements, and the Office of Management and Budget (“OMB”)
+       requirements. This includes all information that is sent to and received from USAC and USAC
+       Stakeholders. The Contractor and its subcontractors shall ensure that their respective local area
+       networks, servers, and personal computers are secure from unauthorized access from within or
+       outside their respective organizations. The Contractor shall not store or otherwise maintain any
+       USAC Confidential Information in the Cloud, or back-up and store USAC’s Confidential
+       Information without first obtaining USAC’s written consent.
+
+XVI.    MALICIOUS SOFTWARE
+
+       Contractor represents and warrants that it shall use its best efforts to prevent the introduction
+       into USAC’s network, software or systems (“USAC IT Systems”) of any Software, program,
+       routine, device, or other undisclosed feature that is designed to delete, disable, deactivate,
+       interfere with or otherwise harm USAC’s IT Systems or Data, or that is intended to provide
+       unauthorized access or modifications (“Malicious Software”). Contractor agrees that if it
+       introduces, or allows the introduction of Malicious Software into USAC’s IT Systems
+       intentionally, negligently or by failure to maintain available safeguards, Contractor must, at no
+       additional cost to USAC, eliminate, or reduce to the greatest extent possible, the effects of the
+       Malicious Software, including restoring Data, and, if the Malicious Software causes a loss of
+
+
+              Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                       Page 20
+                                                                                Available for Public Use
+
+        operational efficiency, loss of data or other damages, to mitigate and restore such losses, and to
+        indemnify USAC for any damages.
+
+XVII.    FISMA PROVISIONS
+
+        The Contractor shall meet and comply with all USAC IT Security Policies and all applicable
+        USAC, NIST, and FISMA requirements and other Government-wide laws and regulations for
+        the protection and security of information systems and data.
+
+        Safeguarding of Covered Contractor Information Systems:
+
+        USAC’s data security strategy includes the requirement to ensure the security of data
+        protection controls regardless of the location or the party responsible for those controls. As a
+        Contractor, you serve a vital role to achieve this goal. Contractor shall apply the following
+        minimum safeguarding requirements and procedures from NIST SP 800-171 “Protecting
+        Controlled Unclassified Information in Nonfederal Systems and Organizations” to protect
+        covered Contractor information systems and USAC Data. USAC may require a written
+        response that may be an attestation of compliance, a submission of supporting document, or
+        both. If USAC requests a written response, Contractor is required to submit an electronic
+        copy of the document(s) confirming compliance within 10 calendar days. If there are any
+        requirements that are out of scope or that cannot be complied with, those requirements must
+        be fully explained with a business justification.
+
+         1. Limit information system access to only authorized users, processes acting on behalf of
+             authorized users, or devices (including other information systems). [AC-1, AC-2].*
+         2. Limit information system access to only the types of transactions and functions that
+             authorized users are permitted to execute. [AC-2].*
+         3. Verify and control/limit connections to and use of external information systems. [AC-20].*
+         4. Control information posted or processed on publicly accessible information systems. [AC-
+             22].*
+         5. Identify information system users, processes acting on behalf of users, or devices. [IA-2].*
+         6. Authenticate (or verify) the identities of those users, processes, or devices, as a prerequisite
+             to allowing access to organizational information systems. [IA-3].*
+         7. Sanitize or destroy information system media containing USAC Information before
+             disposal or release for reuse. [MP-2, MP-4, MP-6].*
+         8. Limit physical access to organizational information systems, equipment, and the respective
+             operating environments to only authorized individuals. [PE-2, PE-6].*
+         9. Escort visitors and monitor visitor activity; maintain audit logs of physical access; and
+             control and manage physical access devices. [PE-3].*
+         10. Monitor, control, and protect organizational communications (i.e., information transmitted
+             or received by organizational information systems) at the external boundaries and key
+             internal boundaries of the information systems. [SC-7, SC-8].*
+
+
+               Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                        Page 21
+                                                                                     Available for Public Use
+
+            11. Implement subnetworks for publicly accessible system components that are physically or
+                logically separated from internal networks. [SC-7].*
+            12. Identify, report, and correct information and information system flaws in a timely manner.
+                [SI-2, SI-5].*
+            13. Provide protection from malicious code at appropriate locations within organizational
+                information systems. [SI-3].*
+            14. Update malicious code protection mechanisms when new releases are available. [SI-3].*
+            15. Perform periodic scans of the information system and real-time scans of files from external
+                sources as files are downloaded, opened, or executed. [SI-3].*
+            16. * Reference to the specific security control under the NIST SP 800-171 that is applicable
+                for each requirement.                 NIST SP 800-171 can be found here:
+                https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r1.pdf.
+
+XVIII.       TECHNOLOGY CONSIDERATIONS
+         Reserved for future use.
+         For RFIs, RFPs, and/or contracts involving the acquisition of Commercial off-the-shelf (COTS)
+         software:
+
+         Commercial off-the-shelf (COTS) or Software as a Service (SaaS) software deployed in the cloud
+         or on USAC’s on-premise infrastructure must satisfy the following requirements:
+
+                •     The product must be able to utilize USAC’s instance of OKTA’s Identity and Access
+                      Management software for user authentication.
+                •     OKTA is a cloud-based Identity and Access Management product used by USAC.
+                •     Any USAC data stored in a COTS/SaaS product database must be easily accessed by
+                      USAC via standard web services or another standard access mechanism
+
+         For RFIs, RFPs, and/or contracts involving the development of custom software for Universal
+         Service Fund (USF) systems (Lifeline, High Cost, Rural Healthcare, Schools and Libraries,
+         Contributors):
+
+         Custom software developed for Universal Service Fund programs (Lifeline, High Cost, Rural
+         Health Care, Schools and Libraries) shall reuse the USAC Technical Stack unless the contractor
+         demonstrates that those components are unable to meet the requirements. Key components of
+         USAC’s Technical Stack include the following:
+
+                •     Java programming language
+                •     OKTA (Identity and Access Management)
+                •     Postgres (Relational Database Management System)
+                •     Elastic Search, Logstash, Kibana
+                •     Atlassian based tools (SDLC)
+                •     Apache Tomcat (Application Servers)
+
+
+                    Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                             Page 22
+                                                                                  Available for Public Use
+
+
+             •     Red Hat Enterprise Linux
+             •     Business Intelligence, Reporting, Geographical Information System, and Data
+                   Warehouse tools
+
+      Further details of USAC’s technical stack will be provided during the down-selection process.
+
+XIX.     PROPRIETARY RIGHTS
+
+       Contractor agrees that all Data, Software, Deliverables, reports or other materials (collectively
+       “Materials”) developed or conceived by Contractor and/or documented by Contractor in the
+       performance of the Contract, as well as all modifications and improvements thereto and all other
+       designs, discoveries and inventions, are USAC property and shall be deemed USAC Information
+       pursuant to Section XV above and works made-for-hire for USAC within the meaning of the
+       copyright laws of the United States. Accordingly, USAC shall be the sole and exclusive owner
+       for all purposes for the use, distribution, exhibition, advertising and exploitation of such
+       Materials or any part of them in any way and in all media and by all means throughout the
+       universe in perpetuity.
+
+       The Contractor shall not, without the prior written permission of the USAC Procurement Office,
+       incorporate in Data delivered under the Contract any Data not first produced in the performance
+       of the Contract unless the Contractor: (1) identifies the Data; and (2) grants to USAC, or acquires
+       on USAC’s behalf, a license of the same scope as set forth earlier in this Section XIX.
+
+XX.      RESPONSIBILITY FOR CONTRACTOR PERSONNEL
+
+        Contractor personnel working on USAC premises are required to sign and agree to the terms of
+        a Visitor Form provided by USAC. Contractor is responsible for any actions of its personnel,
+        including any actions that violate law, are negligent or that constitute a breach of the Visitor
+        Form and/or the Contract.
+
+        Security Briefings. Before receiving access to IT resources under the Contract, Contractor
+        personnel must receive a security briefing, which USAC will arrange, and complete any
+        nondisclosure agreement required by the Contract.
+
+XXI.     RECORD RETENTION
+
+        During the term of the Contract and for three (3) years following final payment, the Contractor
+        shall maintain and make available at its offices at all reasonable times, the records, materials,
+        and other evidence relating to the Contract for examination, audit, or reproduction.
+
+
+
+
+                 Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                          Page 23
+                                                                                   Available for Public Use
+
+XXII.     KEY PERSONNEL
+
+         All Contractor employees assigned to the positions identified in Section B.IX are key personnel.
+         The key personnel assigned to the Contract must remain in their respective positions throughout
+         the term of the Contract, as applicable. USAC may terminate all or a part of the Contract if the
+         Contractor changes the position, role, or time commitment of key personnel, or removes key
+         personnel from the Contract, without USAC’s prior written approval. USAC may grant approval
+         for changes in staffing of key personnel if it determines in its sole discretion, that:
+
+              •     changes to, or removal of, key personnel is necessary due to extraordinary
+                    circumstances (e.g., a key personnel’s illness, death, termination of employment, or
+                    absence due to family leave), and
+
+              •     the Contractor has resources (e.g., replacement personnel) with the requisite skills,
+                    qualifications and availability to perform the role and duties of the outgoing personnel.
+
+         Replacement personnel are considered key personnel and this Section XXII shall apply to their
+         placement on and removal from the Contract.
+
+XXIII.    INSURANCE
+
+         At its own expense, Contractor shall maintain sufficient insurance in amounts required by law
+         or appropriate for the industry, whichever is greater, to protect and compensate USAC from all
+         risks and damages/injuries that may arise under the Contract, including as appropriate, public
+         and commercial general liability, personal injury, property damage and employer’s liability and
+         worker’s compensation insurance. Contractor shall produce evidence of such insurance upon
+         request by USAC. Contractor shall provide written notice thirty (30) days prior to USAC in the
+         event of cancellation of or material change in the policy.
+
+XXIV.     CONFLICTS OF INTEREST
+
+         It is essential that any Contractor providing Services or Deliverables in support of USAC’s
+         administration of the USF maintain the same neutrality, both in fact and in appearance, and avoid
+         any conflict of interest or even the appearance of a conflict of interest. For example, to the extent
+         that Contractor, or any of its principals, has client, membership, financial and/or any other
+         material affiliation with entities that participate in the federal USF in any respect, there may be
+         actual, potential and/or apparent conflict(s) of interest. Contractor shall promptly notify USAC,
+         with a copy to USAC’s General Counsel, in writing of any actual or potential conflicts of interest
+         involving Contractor, or any circumstances that give rise to the appearance of a conflict of
+         interest, and the means by which Contractor proposes to avoid, neutralize, or mitigate such
+         conflicts. Contractor shall also notify USAC of any conflicts Contractor has with USAC
+         vendors. Failure to provide adequate means to avoid, neutralize or mitigate any conflict of
+
+
+                  Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                           Page 24
+                                                                                  Available for Public Use
+
+          interest may be the basis for termination of the Contract. By its execution hereof, the Contractor
+          represents and certifies that it has not paid or promised to pay a gratuity, or offered current or
+          future employment or consultancy, to any USAC or governmental employee in connection with
+          the award. In order to maintain the required neutrality, Contractor must not advocate any policy
+          positions with respect to the Programs or the USF during the term of the Contract. Neither the
+          Contractor nor its subcontractors shall issue any public statement relating to or in any way
+          disclosing any aspect of the Contract without the prior written consent of USAC.
+
+  XXV.     INVALIDITY OF ANY PROVISION
+
+          It is the intent of the Parties that the provisions of the Contract will be enforced to the fullest
+          extent permissible, but that the unenforceability of any provision will not render unenforceable
+          or impair the remainder of the Contract, which will be deemed amended, to delete or modify, as
+          necessary, the invalid or unenforceable provisions. The Parties further agree to negotiate
+          replacement provisions for any unenforceable term that are as close as possible to the original
+          term and to change such original term only to the extent necessary to render the same valid and
+          enforceable.
+
+ XXVI.     WAIVER
+
+          Any waiver by either party of a breach of any provision of the Contract shall not operate or be
+          construed as a waiver of any subsequent breach by either party.
+
+XXVII.     SEVERABILITY
+
+          The invalidity or unenforceability of any provisions of the Contract shall not affect the validity
+          or enforceability of any other provision of the Contract, which shall remain in full force and
+          effect.
+
+XXVIII.    CHOICE OF LAW / CONSENT TO JURISDICTION
+
+          The Contract shall be governed by and construed in accordance with the laws of the District of
+          Columbia (the term “laws” is to be construed as broadly as possible to include case law, statutes,
+          regulations, orders, etc.) without regard to any otherwise applicable principle of conflicts of
+          laws. Contractor agrees that all actions or proceedings arising in connection with the Contract
+          shall be litigated exclusively in the State and, if applicable, Federal courts located in the District
+          of Columbia (“Courts”). This choice of venue is intended to be mandatory and the parties waive
+          any right to assert forum non conveniens or similar objection to venue. Each party hereby
+          consents to in personam jurisdiction in the Courts. Contractor must submit all claims or other
+          disputes to the Contracting Officer for informal resolution prior to initiating any action in the
+          Courts and must work with USAC in good faith to resolve any disputed issues. A dispute over
+          payment or performance, whether informal or in the Courts, shall not relieve Contractor of its
+
+
+                 Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                          Page 25
+                                                                                Available for Public Use
+
+        obligation to continue performance of the Contract and Contractor shall proceed diligently with
+        performance during any dispute over performance or payment.
+
+XXIX.    USAC AND APPLICABLE LAWS
+
+        USAC is not a Federal agency, a government corporation, a government-controlled corporation
+        or other establishment in the Executive Branch of the United States Government. USAC is not
+        a contractor to the Federal Government and the Contract is not a subcontract under a federal
+        prime contract. USAC conducts its procurements in accordance with the terms of a
+        Memorandum of Understanding with the FCC, which requires USAC and its Contractors to
+        adhere to certain procurement-related provisions of the Code of Federal Regulations, 2 C.F.R.
+        §§ 200.318-321, 200-323, 200.325-326 and App. II to C.F.R. Part 200 (collectively
+        “Procurement Regulations”). The Contractor shall comply with the procurement standards and
+        all applicable Federal, State and local laws, executive orders, rules and regulations applicable to
+        its performance under the Contract.
+
+XXX.     RIGHTS IN THE EVENT OF BANKRUPTCY
+
+        All licenses or other rights granted under or pursuant to the Contract are, and shall otherwise be
+        deemed to be, for purposes of Section 365(n) of the United States Bankruptcy Code, or any
+        replacement provision therefore (the “Code”), licenses to rights to “intellectual property” as
+        defined in the Code. The Parties agree that USAC, as licensee of such rights under this
+        Contractor, shall retain and may fully exercise all of its rights and elections under the Code. The
+        Parties further agree that, in the event of the commencement of bankruptcy proceedings by or
+        against Contractor under the Code, USAC shall be entitled to retain all of its rights under the
+        Contract and shall not, as a result of such proceedings, forfeit its rights to any Material, license,
+        Software, Data or works made for hire.
+
+XXXI.    NON-EXCLUSIVITY / INDEPENDENT CONTRACTOR
+
+        Nothing herein shall be deemed to preclude USAC from retaining the services of other persons
+        or entities undertaking the same or similar functions as those undertaken by the Contractor
+        hereunder or from independently developing or acquiring goods or services that are similar to,
+        or competitive with, the goods or services, as the case may be, contemplated under the Contract.
+
+        Contractor acknowledges and agrees that it is an independent contractor to USAC and
+        Contractor’s key personnel, employees, representatives, directors, officers, subcontractors and
+        agents are not employees of USAC. USAC will not withhold or contribute to Social Security,
+        workers’ compensation, federal or state income tax, unemployment compensation or other
+        employee benefit programs on behalf of Contractor or Contractor personnel. Contractor shall
+        indemnify and hold USAC harmless against any and all loss, liability, cost and expense
+        (including attorneys’ fees) incurred by USAC as a result of USAC not withholding or making
+
+
+               Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                        Page 26
+                                                                                  Available for Public Use
+
+          such payments. Neither Contractor nor any of Contractor’s personnel are entitled to participate
+          in any of the employee benefit plans of, or otherwise obtain any employee benefits from, USAC.
+          USAC has no obligation to make any payments to Contractor’s key personnel, employees,
+          representatives, directors, officers, subcontractors and agents. Contractor shall not hold
+          herself/himself out as an employee of USAC and Contractor has no authority to bind USAC
+          except as expressly permitted hereunder.
+
+XXXII.     TEMPORARY EXTENSION OF SERVICES
+
+          USAC may require continued performance of any Contract services within the limits and at the
+          rates specified in the Contract. USAC may extend the services more than once, but the total
+          extension of performance hereunder shall not exceed six (6) months. The USAC Procurement
+          representative may exercise an option to extend by written notice to the Contractor within ten
+          (10) days prior to expiration of the then current term.
+
+XXXIII.    NOTICES
+
+          All notices, consent, approval or other communications required or authorized by the Contract
+          shall be given in writing and shall be:
+           (a) personally delivered,
+           (b) mailed by registered or certified mail (return receipt requested) postage prepaid,
+           (c) sent by overnight delivery service (with a receipt for delivery), or
+           (d) sent by electronic mail with a confirmation of receipt returned by recipient’s electronic mail
+               server to such party at the following address:
+
+            If to USAC:
+            Vice President of Procurement and Strategic Sourcing, Universal Service Administrative Co.
+            700 12th Street, NW, Suite 900
+            Washington, DC 20005
+            Email: To the designated USAC Contract Officer for this procurement, with a copy to
+                 usacprocurement@usac.org.
+
+            If to Contractor: To the address or email set forth in the Contractor’s proposal in response to
+                 the Solicitation.
+
+XXXIV.     SURVIVAL
+
+          All provisions that logically should survive the expiration or termination of the Contract shall
+          remain in full force and effect after expiration or early termination of the term of the Contract.
+          Without limitation, all provisions relating to return of USAC information, confidentiality
+          obligations, proprietary rights, and indemnification obligations shall survive the expiration or
+          termination of the Contract.
+
+
+                 Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                          Page 27
+                                                                                 Available for Public Use
+
+
+XXXV.     EXECUTION / AUTHORITY
+
+         The Contract may be executed by the parties hereto on any number of separate counterparts and
+         counterparts taken together shall be deemed to constitute one and the same instrument. A
+         signature sent via facsimile or portable document format (PDF) shall be as effective as if it was
+         an original signature. Each person signing the Contract represents and warrants that they are
+         duly authorized to sign the Contract on behalf of their respective party and that their signature
+         binds their party to all provisions hereof.
+
+XXXVI.    INDEMNITY
+
+         Contractor shall defend, indemnify and hold harmless USAC from and against, any costs,
+         liabilities, damages or expenses (including reasonable attorneys’ fees) arising out of or relating
+         to: (1) claims for personal injuries, death or damage to tangible personal or real property to the
+         extent proximately caused by the negligent acts or negligent omissions of Contractor or its
+         employees, agents, consultants, or Subcontractors in connection with this Contract; and (2)
+         claims of any nature whatsoever to the extent caused by the violation of Contract terms,
+         negligence, illegal or intentional wrongful acts or omissions of Contractor or its employees,
+         agents, consultants, or Subcontractors in connection with the performance of the Services.
+
+
+
+
+                Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+
+                                                         Page 28
+                                                                        Available for Public Use
+
+
+SECTION D:
+Attachments
+Attachment List:
+     • Attachment 1: Bid Sheet
+     • Attachment 2: Invoice Schedule
+     • Attachment 3: Confidentiality Agreement
+     • Attachment 4: Key Personnel Resumes
+
+
+
+
+  Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                               Page 29
+                                                                            Available for Public Use
+
+
+SECTION E:
+Instructions and Evaluation Criteria
+I.      GENERAL
+
+  A. CONTRACT TERMS AND CONDITIONS
+
+     The Contract awarded as a result of this RFP will be governed by, and subject to, the
+     requirements, Terms and Conditions set forth in RFP sections A, B, C, and D and any
+     attachments listed in section D (hereafter collectively referred to as the “Terms and
+     Conditions”). Offeror’s submission of a proposal constitutes its agreement to the Terms and
+     Conditions and their precedence over any other terms, requirements, or conditions proposed
+     by Offeror.
+
+     The Offeror’s proposal shall identify deviations from, or revisions, exceptions or additional
+     terms (collectively “exceptions”) to the Terms and Conditions, but only if such exceptions
+     are clearly identified in a separate Attachment B to Volume II, “Exceptions to RFP
+     Terms.” Proposals that include material exceptions to the Terms and Conditions may be
+     considered unacceptable and render Offeror ineligible for award unless the Offeror
+     withdraws or modifies any unacceptable exceptions prior to USAC’s selection of the
+     successful Offeror for award. USAC will only consider changes or additions to the RFP
+     Terms and conditions that are included in Offeror’s proposal. Exceptions to the Terms and
+     Conditions will only be accepted during proposal submission and will not be reviewed or
+     considered during the time of Contract negotiation. After selection of the awardee, USAC
+     will not consider or negotiate any exceptions to the Terms and Conditions.
+
+     B. PERIOD FOR ACCEPTANCE OF OFFERS
+
+  The Offeror agrees to hold the fixed service category rates in its offer firm for 120 calendar
+  days from the date specified for receipt of offers, unless another time period is specified in an
+  addendum to the solicitation.
+
+  Proposals must:
+     • Concisely address USAC’s requirements, as set forth in Section B.VIII. Performance
+         Requirements and Scope of Work (Section B and should not contain a significant
+         amount of corporate boilerplate marketing information.
+     • Be submitted to USAC Procurement Department, no later than 11:00 AM ET on
+         April 3, 2020, 2020 (Proposal Due Date).
+     • Be submitted in the form of one electronic copy submitted to rfp@usac.org. The
+        subject line for all email communication related to this solicitation should only state
+        the Solicitation Number, IT-19-086, of this RFP.
+
+
+
+      Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                                   Page 30
+                                                                              Available for Public Use
+
+
+
+       C. ANTICIPATED PROPOSAL SCHEDULE
+
+                 DATE                EVENT
+                 3/5/20              RFP Released
+                 3/13/20             Questions Due to USAC by 11:00 AM ET at rfp@usac.org
+                 3/19/20             Answers posted by USAC
+                 4/3/20              Proposal Due to USAC by 11:00 AM ET at rfp@usac.org
+
+       To be timely, Offeror’s proposal must be received by USAC by the Proposal Due Date at the
+       email address specified above. Any offer, modification, revision, or withdrawal of an offer
+       received at the USAC office designated in the solicitation after the Proposal Due Date and
+       Time is “late” and will not be considered by USAC, unless USAC determines, in its sole
+       discretion, that (1) circumstances beyond the control of Offeror prevented timely submission,
+       (2) consideration of the offer is in the best interest of USAC, or (3) the offer is the only proposal
+       received by USAC.
+
+       D. SUBMISSION OF QUESTIONS
+
+       USAC will only accept written questions regarding the RFP. All questions must be emailed
+       to rfp@usac.org no later than March 13, 2020, 11:00 AM Eastern Time (ET). USAC plans to
+       post all questions and responses under this procurement on our website on January 10, 2020
+       5:00 PM ET.
+
+       E. AMEND, REVISE OR CANCEL RFP
+
+      USAC reserves the right to amend, revise or cancel this RFP at any time at the sole discretion
+      of USAC and no legal or other obligations are assumed by USAC by virtue of the issuance of
+      this RFP, including payment of any proposal costs or expenses, or any commitment to procure
+      the services sought herein.
+
+ II.       CONTRACT AWARD
+
+       USAC intends to evaluate offers and make a single award. USAC may reject any or all offers
+       if such action is in the public’s or USAC’s interest; accept other than the lowest offers; and
+       waive informalities and minor irregularities in offers received.
+
+III.       IDENTIFICATION OF CONFIDENTIAL INFORMATION
+
+       The proposal shall clearly and conspicuously identify information contained in the proposal
+       that the Offeror contends is Confidential Information. See Section C.XIV.
+
+IV.        PROPOSAL VOLUMES COVER PAGE
+
+        Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                                     Page 31
+                                                                           Available for Public Use
+
+
+ Each volume of Offeror’s proposal must contain a cover page. On the cover page, please
+ include:
+      • The name of the Offeror’s organization,
+      • The Offeror’s contact name and title,
+      • The Offeror’s contact information (address, telephone number, email address, website
+          address),
+      • The Offeror’s data universal numbering system (“DUNS”) number,
+      • The date of submittal,
+      • A statement verifying the proposal is valid for a period of 120 days, and
+      • The signature of a duly authorized Offeror’s representative.
+
+V.     PROPOSAL CONTENT
+
+ Each proposal shall be comprised of the following four (4) volumes:
+
+     A. CORPORATE INFORMATION (VOLUME I)
+
+This volume must include:
+
+     1. A cover page, as outlined above.
+
+     2. An executive summary summarizing all key features of the proposal, including the
+        identification of any subcontractors and affiliated individuals or firms that will assist the
+        Offeror in performing the Contract.
+
+     3. Pricing information should not appear in Volume I.
+
+     4. A statement regarding any known conflicts of interest.
+
+          a. USAC procurements are conducted with complete impartiality and with no
+             preferential treatment. USAC procurements require the highest degree of public
+             trust and an impeccable standard of conduct. Offerors must strictly avoid any
+             conflict of interest or even the appearance of a conflict of interest, unless USAC has
+             otherwise approved an acceptable mitigation plan.
+
+          b. Offerors must identify any actual or potential conflicts of interest including current
+             USAC vendors involving the Offeror or any proposed subcontractor, or any
+             circumstances that give rise to the appearance of a conflict of interest, and the means
+             by which it proposes to avoid, neutralize, or mitigate such conflicts. Offerors shall
+             identify such conflicts or potential conflicts or appearance issues to USAC and
+             provide detailed information regarding the nature of the conflict. Examples of
+             potential conflicts include, but are not limited to: (1) any ownership, control or other
+             business or contractual relationship(s), including employment relationships,
+             between the Offeror (or proposed subcontractor) and any USF Stakeholder; (2) an
+             Offeror has a direct personal or familial relationship with a USAC or FCC employee;
+     Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                                  Page 32
+                                                                      Available for Public Use
+
+
+         (3) a former employee of USAC or FCC who had access to confidential
+         procurement-related information works for the Offeror; (4) a USAC or FCC
+         employee receives any type of compensation from the Offeror, or has an agreement
+         to receive such compensation in the future; (5) Offeror has communications with a
+         USAC or FCC employee regarding future employment following the issuance of the
+         RFP for this procurement; (6) any employment or consultation arrangement
+         involving USAC or FCC employees and the Offeror or any proposed subcontractor;
+         and (7) any ownership or control interest in the Offeror or any proposed
+         subcontractor that is held by an FCC or USAC employee. Offerors must also
+         identify any participation by the Offeror, or any proposed subcontractor(s) or
+         personnel associated with the Offeror, in any of the universal service programs. The
+         requirement in this Section E.V.A applies at all times until Contract execution.
+
+     c. Offerors shall propose specific and detailed measures to avoid, neutralize, or
+        mitigate actual, potential and/or apparent conflicts of interest raised by the
+        affiliations and services described above. If USAC determines that Offeror’s
+        proposed mitigation plan does not adequately avoid, neutralize or mitigate any actual
+        or potential conflict of interest, or the appearance of a conflict of interest, Offeror
+        will not be eligible for award of a contract.
+
+       d. All Offerors are advised that this RFP and any resulting contract is subject to the
+          terms of the Confidentiality Agreement contained in this RFP as Attachment 3.
+          This Confidentiality Agreement must be executed and submitted along with any
+          bid/proposal for this RFP.
+
+B. TECHNICAL (VOLUME II)
+
+This volume must include:
+
+     1. A cover page, as outlined above.
+
+     2. A summary detailing Offeror’s experience providing CISO advisory services in the
+        capacity described in Section B of this RFP.
+
+     3. An in-depth discussion of Offeror’s technical approach to providing the services
+        listed in Section B.VI., along with a clear statement of whether or not the Offeror’s
+        performance of the Contract will comply with all requirements, Terms and
+        Conditions set forth in the RFP. Offerors must submit a detailed response to this
+        RFP. The Offeror must clearly state whether it will comply with all requirements
+        and Terms and Conditions set forth in the RFP and provide detailed information
+        about how it will fulfill the requirements of the RFP. Any deviations from, or
+        exceptions to, the requirements or Terms or Conditions contained in this RFP must
+        be clearly identified in an Attachment B to Volume II.
+
+             Note: Offers that include material deviations from, or take material exceptions
+Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                             Page 33
+                                                                      Available for Public Use
+
+
+                  to, RFP requirements, Terms or Conditions will be evaluated as technically
+                  unacceptable and will be ineligible for award unless USAC subsequently
+                  amends the RFP to modify the requirements or, if discussions will be held,
+                  decides to address the deviations/exceptions during discussions and thereby
+                  resolves the deviations/exceptions are thereby resolved.
+
+     4. Technical proposals that merely repeat the requirements set forth in the RFP and
+        state that Contractor “will perform the statement of work” or similar verbiage will
+        be considered technically unacceptable and will not receive further consideration.
+        USAC is interested only in proposals that demonstrate the Contractor’s expertise in
+        performing engagements of this type as illustrated by the Offeror’s description of
+        how it proposes to perform the requirements set forth in this RFP.
+
+     5. Capabilities. Describe Offeror’s capabilities for performing the Contract, including
+        personnel resources and management capabilities. If applicable, describe how
+        subcontractors or partners are used and how rates are determined when using
+        subcontractors. Provide a list of firms, if any, that will be used.
+
+     6. Experience. Describe your firm’s experience with providing the related services as
+        detailed in Section B of this RFP. Provide examples of projects and personnel to
+        include project scope, size, and complexity, and types of positions with length of
+        assignments.
+
+7. Key Personnel. Identify by name all key personnel. Describe the technical knowledge
+   and experience of proposed personnel in the requested services with respect to, but not
+   limited to, experience and qualifications including depth of knowledge, expertise and
+   number of years. It is preferred that the bidder provide two (2) clients in which the
+   proposed held a similar position. Indicate any other personnel that will be assigned to
+   USAC and his/her role on the contract. Provide a brief summary of each of these
+   professional staff members’ qualifications to include education and all relevant
+   experience.
+
+
+            a. Submit resumes/biographies for all key personnel, as an attachment
+               (Attachment 4) to the technical volume, no longer than two (2) pages in
+               length per resume.
+
+            b. If Contractor, at the time of proposal and prior to the award of the Contract,
+               has information that any such key personnel anticipate terminating his or her
+               employment or affiliation with Contractor, Contractor shall identify such
+               personnel and include the expected termination date in the proposal.
+
+
+
+
+Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                             Page 34
+                                                                      Available for Public Use
+
+
+C. PAST PERFORMANCE EVALUATION (VOLUME III)
+
+This volume must include:
+   1. A cover page, as outlined above.
+
+     2. A list of three (3) current or recently completed contracts (no older than 5 years from
+        the date of the solicitation) similar in scope to those required by this solicitation. Each
+        entry on the list must contain:
+
+             a.       the client’s name;
+             b.       the project title;
+             c.       the period of performance;
+             d.       the Contract number;
+             e.       the Contract value;
+             f.       a primary point of contact (including the telephone number and email
+                      address for each point of contact, if available);
+             g.       a back-up point of contact.
+
+     If a back-up point of contact is not available, please explain how USAC may contact the
+     client in the event the primary point of contact fails to respond.
+
+             a. For each past performance, provide a description of the relevant performance
+                and the name and telephone number for USAC to contact for past
+                performance information for each project discussed. A past performance
+                description will consist of:
+
+                      (i)      an overview of the engagement;
+                      (ii)     a description of the scope of work performed;
+                      (iii)    its relevance to this effort;
+                      (iv)     the results achieved.
+
+                  This is the time to identify any unique characteristics of the project, problems
+                  encountered, and corrective actions taken. Each overview shall not exceed
+                  one (1) page.
+
+             b. USAC will attempt to contact past performance references identified in the
+                proposal for confirmation of the information contained in the proposal and/or
+                will transmit a past performance questionnaire to the contacts identified in the
+                Offeror’s proposals. Although USAC will follow-up with the contacts, the
+                Offeror, not USAC, is responsible for ensuring that the questionnaire is
+                completed and returned by the specified date in USAC’s transmittal. If USAC
+                is unable to reach or obtain a reference for the project, USAC may not
+                consider the Contract in an evaluation of past performance.
+
+
+Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                             Page 35
+                                                                             Available for Public Use
+
+
+ D. PRICE (VOLUME IV)
+
+ This volume must include:
+
+       1. A cover page, as outlined above.
+
+       2. Completed pricing information in Attachment 1: Bid Sheet.
+
+                a. The fixed price must be fully burdened and must include wages, overhead,
+                   general and administrative expenses, taxes and profit.
+
+       3.     Attachment 2: Invoice Schedule
+               a. An invoice for the Initial Contract Term which includes milestones,
+                   deliverables, and estimated time periods based on the firm fixed price of the
+                   initial Contract term. The Contractor’s invoice schedule will be
+                   incorporated into the Contract once approved by USAC. Furthermore, as a
+                   condition to exercising the option periods under the Contract, the parties shall
+                   agree on an invoice schedule for the option period to include milestones,
+                   deliverables, and estimated time periods based on the firm fixed price of the
+                   option period.
+
+ E. PAGE COUNT LIMITS
+
+ Page count, for each Volume including the Cover page, may not exceed the below:
+
+       1. Volume I – Corporate Information; may not exceed three (3) pages, including Cover
+          page and Attachment 3 (Confidentiality Agreement).
+
+       2. Volume II – Technical; may not exceed eight (8) pages including Cover page; however
+          excluding Attachment 4 (Resumes)
+
+       3. Volume III – Past Performance Information; may not exceed four (4) pages, including
+          Cover page.
+
+       4. Volume IV – Price; may not exceed two (2) pages, including Cover page.
+
+ Any proposals received exceeding the page count, will be considered technically unacceptable
+ and may not receive further consideration.
+
+VI.      EVALUATION
+
+      A. EVALUATION FACTORS
+
+      USAC will award a single contract resulting from this solicitation to the responsible Offeror
+      whose offer conforming to the solicitation will be most advantageous to USAC, price and
+       Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                                    Page 36
+                                                                        Available for Public Use
+
+
+ other factors considered. The following factors, which are listed in descending order of
+ importance, shall be used to compare offers and select the awardee – technical, past
+ performance, and price. When combined, the technical and past performance factors are
+ significantly more important than price.
+
+  1. Technical: The technical sub-factors listed below in descending order of importance:
+
+           a.   Technical Approach
+           b.   Capabilities
+           c.   Experience
+           d.   Key Personnel
+
+  2. Past Performance: Past performance information will be evaluated to assess the risks
+     associated with an Offeror’s performance of this effort, considering the relevance,
+     how recent the project is (no older than 5 years from the date of the solicitation), and
+     quality of the Offeror’s past performance on past or current contracts for the same or
+     similar services. Past performances The Offeror’s past performance will be evaluated
+     based on the Offeror’s discussion of its past performance for similar efforts,
+     information obtained from past performance references (including detailed references
+     for the Offeror’s proposed teaming partner(s) and/or subcontractor(s), as applicable)
+     and information that may be obtained from any other sources (including government
+     databases and contracts listed in the Offeror’s proposal that are not identified as
+     references).
+
+  3. Price Evaluation: USAC will evaluate price based on the firm fixed price, listed in the
+     Bid Sheet. While price is an evaluation factor, USAC may not necessarily award a
+     Contract to the lowest priced Offeror. USAC further recognizes that the size of a
+     company, its name-recognition, geographical offerings and the expertise/experience of
+     staff impacts the price of the service category rates offered by the firms, thus making
+     comparisons of differently situated firms less meaningful. Therefore, when considering
+     rates, USAC will use the rates of similarly situated companies for reasonableness and
+     comparison purposes. Price may become a more important selection factor if the
+     ratings for the non-price factors are the same or very close to the same. In addition to
+     considering the total prices of the Offerors when making the award, USAC will also
+     evaluate whether the proposed prices are realistic (i.e., reasonably sufficient to perform
+     the requirements) and reasonable. Proposals containing prices that are determined to
+     be unrealistic or unreasonable will not be considered for award.
+
+B. DOWN-SELECT PROCESS
+
+ USAC may determine that the number of proposals received in response to this RFP are too
+ numerous to efficiently conduct a full evaluation of all evaluation factors prior to establishing
+ a competitive range. In such case, USAC may conduct a down-select process to eliminate
+ Offerors, prior to discussions, from further consideration based on a comparative analysis of
+ Offerors proposals, with primary focus on the price proposal, but USAC may, in its sole
+  Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                               Page 37
+                                                                        Available for Public Use
+
+
+ discretion, consider other factors such as failure to follow instructions as provided, quality of
+ proposal, technical capabilities and past performance. Proposals that include proposed prices
+ that are significantly higher than the median proposed price for all Offerors may be excluded
+ from the competition without evaluation under the other evaluation factors. Proposals that
+ contain prices that are unrealistically low in terms of sufficiency to perform the Contract may
+ also be excluded from the competition.
+
+C. RESPONSIBILITY DETERMINATION
+
+ USAC will only award a contract to a responsible Offeror. USAC will make a responsibility
+ determination based on any available information, including information submitted in an
+ Offeror’s proposal. In making a responsibility determination, USAC will consider whether:
+
+  1. the Offeror has sufficient resources to perform the Contract;
+
+  2. the Offeror has a satisfactory record of performance, integrity and business ethics;
+
+  3. the Offeror has the accounting systems and internal controls, quality assurance processes
+     and organizational structure and experience necessary to assure that contract work will
+     be properly performed and accurately invoiced;
+
+  4. the Offeror has the facilities, technical and personnel resources required to perform the
+     Contract; and
+
+  5. The Offeror is not excluded from Government contracting, as listed on the excluded
+     parties list in https://www.sam.gov.
+
+
+
+
+  Universal Service Administrative Co. | CISO Advisory Services | Request for Proposals (RFP)
+                                               Page 38
+

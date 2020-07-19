@@ -1,0 +1,1676 @@
+Request for Proposal (RFP) for Software Solution to
+    Automate the City of Durham Employee
+         Performance Evaluation Program
+                 City of Durham
+
+                      March 8, 2018
+                                         Table of Contents
+General Information
+10. Date of RFP.
+20. Project Manager and Contact with City; Questions about this RFP.
+
+Description of Project and Nature of RFP
+30. Project.
+40. Scope of Work.
+45. City IT Standards
+46. Cloud Computing Security Requirements.
+50. Compensation Amount and Schedule.
+60. Definitions in this RFP.
+70. Contract.
+80. Trade Secrets and Confidentiality.
+90. Bonds.
+100. Insurance.
+110. Discretion of the City.
+
+Schedule
+120. Schedule.
+130. Keeping Proposals Open.
+140. Deadline to Submit Proposals.
+
+Getting More Information on the Project and RFP Process
+170. Updates and revisions to RFP.
+
+Evaluation Criteria
+180. Evaluation Criteria.
+240. Contents of Proposal.
+
+Cover Letter with Proposal
+250. Cover letter.
+260. Addendums.
+
+How to submit a proposal
+270.   How to submit a proposal.
+280.   Format.
+290.   Alternative Proposals.
+300.   Candidate to Bear Expense; No Claims against City.
+310.   Reserved.
+320.   Notice Under the Americans with Disabilities Act (ADA).
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 2
+Attachments
+Exhibit A – Model Services Contract
+Exhibit B – Procurement Forms
+Exhibit C – City of Durham Insurance Requirements
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 3
+10. Date of RFP: March 8, 2018
+
+20. Project Manager and Contact with City; Questions about this RFP. Direct questions and concerns to:
+
+        Attn: Brian Green
+        Technology Solutions Department
+        101 City Hall – 4th Floor
+        Durham, NC 27701-3329
+
+        Phone: 919-560-4122 ext. 33203
+        Email: brian.green@durhamnc.gov
+
+If you have concerns about this RFP that you believe are not being addressed by the project manager,
+please contact
+
+        Kerry Goode, TS Director/CIO
+        Technology Solutions Department
+        Phone: 919- 560-4122 ext. 33248
+        Email: kerry.goode@durhamnc.gov
+
+
+                             DESCRIPTION OF PROJECT AND NATURE OF RFP
+
+30. Project.
+The City of Durham (hereinafter “City”), desires to procure and implement a software solution to support
+a new Employee Performance Evaluation Program (hereinafter “EPEP”). Qualified firms, contractors,
+software vendors or entities, that meet the requirements set forth in this Request for Proposals
+(hereinafter “RFP”), and are capable of providing the services requested, are encouraged to participate.
+The tangible deliverables expected include, but are not limited to, providing the City with:
+
+       Real-time communication venue between employee and supervisor; Software that is web
+        accessible and mobile friendly.
+
+       A solution to support a five (5) level rating system, pre-populated or customizable with
+        descriptions of the performance expected for each rating level.
+
+       A solution to support the automatic calculation of an overall numeric score that can be weighted
+        and is associated with defined rating levels.
+
+       A library of competencies from which standards can be selected and developed as applicable to
+        various job families and levels of responsibility
+
+       A library of assistance for performance related activities (i.e. how-to’s on coaching, setting
+        standards, providing constructive feedback, conducting an appraisal discussion).
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 4
+       Reporting and data extraction tools to allow tracking trends and analysis of performance data.
+        Reports should be able to identify employees that are in an Appeal Process, Correctional Action
+        Plan, who are current on leave, and/or who have completed their annual appraisal.
+
+       Data dashboards that allow tracking and analysis of performance data.
+
+       Performance software that will establish a greater connection between employees’ performance
+        standards and the City’s Strategic Plan and Values.
+
+       Software that is “user friendly” for all City employees: from front-line Laborers, to professional
+        Accountants, to management level employees such as Department Directors.
+
+
+40. Scope of Work. The following section details the scope of work and requirements of the City of
+Durham but is meant as an initial guide for the proposal. The City is looking for a comprehensive and best
+practice solution to implement a software solution to automate the City of Durham employee
+performance evaluation program. Respond with “Yes”, “No” or “Future Release” in the column titled
+“Included” to indicate if the feature is present in the current release.
+
+REQUIRED FUNCTIONALITY
+                 Description                                          Included                   Comments
+1. Web based technology compatible with mobile
+platforms
+2. Proposed PM system will have pre-populated
+performance factors and HR will have access to
+customizable libraries for updating factors as City
+priorities/goals evolve.
+3. Proposed PM System will have real-time reporting
+with customizable set-up and selection criteria
+generated in a variety of exportable formats.
+4. Proposed PM System allows HR to assist Supervisor
+and Employee draft their performance plans in the
+beginning of the appraisal year.
+5. Proposed system will develop position descriptions
+(Performance Plans) at the work group or individual
+level that will more specifically describe the duties and
+responsibilities of each unique position.
+6. Ability to support a five (5) level employee
+performance rating system: Exemplary, Highly
+Effective, Effective, Minimally Effective, and Ineffective.
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 5
+7. Proposed PM System will have a real-time
+communication portal between employee and
+supervisor, to facilitate "the conversation." Supervisors
+and employees can make comments but neither will be
+able to delete any information added or saved by the
+other.
+8. Software should include ability to attach MS Office
+and .pdf files as well as JPEG/PNG to defined job
+measures: software should allow users to attach
+supplemental documentation.
+9. Proposed PM System will have a Corrective Action
+Plan (CAP).
+10. Proposed PM System will have an Appeal Process
+that will be attached to a scheduled/trackable start and
+end date. The entire process should be accessible to
+the initiating Department and HR.
+11. Software should include ability to support different
+performance year cycles, and off-cycle performance
+reviews (new hire probationary reviews, transfers, and
+promotions); with system prompts to update Job
+Factors and Objectives based on changed job
+responsibilities.
+12. Proposed PM overall rating will be calculated as a
+numeric value, combining scores of objectives and
+factors. The applicable weights of objectives will be
+higher than those of factors, but will be driven by the
+system not by an individual supervisor's discretion.
+13. Proposed PM System will have customizable
+evaluations by Employee Categories with pre-selected
+performance factors that will be drafted by Human
+Resources.
+14. Software must be able to house/upload the
+following EPEP forms: City Position Descriptions, EPEP
+Employee Manual, EPEP Supervisor Manual, EPEP
+Management Manual, EPEP Police Manual, EPEP Fire
+Manual and EPEP Executive Manual.
+15. Multi-departmental concurrent access (we have 25
+departments).
+16. Ability to download into and upload from MS Office
+products such as Outlook, Excel and Word.
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 6
+17. Browser based reports with customizable set-ups,
+including sorts, groupings, and selection criteria
+generated in a variety of exportable formats. Graphical
+representations, drill-down capabilities, performance
+measure indexing capabilities, and automated
+scheduling (please provide print screen examples).
+18. Browser based reports available for users viewing
+from outside the City’s network:
+• Ability to display organizational cascading goals, i.e.
+individual, team, department, organizational.
+• Ability to identify performance trends across City,
+including key strengths and weaknesses, and
+organizational skills.
+• Ability to monitor employee ratings over time and
+easily assess employee rating distributions across the
+City.
+• Ability to search and display City talent pools along
+with employee profiles based on defined criteria.
+19. Data visualization capabilities to include ability to
+produce charts, graphs, multiple dash boarding
+components, and multiple output formats (i.e. such as
+completed appraisals throughout City) please provide
+examples.
+20. Ability to retrieve/export data for Ad-Hoc Reporting
+purposes: software must provide a reporting
+mechanism so that users can use the most current data
+to create ad-hoc queries and reports (i.e. CSV, Excel).
+21. Software must be equipped with on-line training
+tutorials on how to conduct performance evaluation
+tasks such as drafting SMART measures and help
+buttons/support functions on how to use the software.
+22. Writing Assistant Feature: The software provides a
+pre-populated and customizable internal library to
+assist supervisors in selecting appropriate wording
+through sample statements to capture performance
+messages when providing feedback and coaching.
+Feature should aid supervisor in using legally sound
+wording.
+23. Software must have the ability to schedule full and
+incremental backups of all business and configuration
+data.
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 7
+24. Software must provide an Employee Profile
+Feature, including an editable employee profile page
+that contains the following: current position, work
+history, education, competencies, responsibilities,
+skills, job specifications, and position description.
+Reporting on these items should be available and
+profile skills, etc. should be searchable across the City.
+25. Software should have built-in library of skills,
+competencies, and certifications in order to maintain
+consistency throughout City. The content of these
+libraries should be able to be accessible through a
+dropdown selection for consistency. HR should be able
+to add additional options if not available in dropdown
+to maintain consistency in naming convention. This
+data would need to be retrievable also in format that
+could be imported into other HRIS systems.
+26. Software must have the following or similar EPEP
+forms: EPEP Evaluation Form, Coaching Form,
+Employee Self-Appraisal, Corrective Action Plan (CAP)
+Form, Learning and Development Plan Forms,
+Supervisor Critique Form and Peer Critique Form.
+27. Software should include some Goal Management
+feature to allow the City to create, distribute, record,
+update, and track goals, programs, project tracking,
+and action items through software.
+28. Software should include ability to provide an audit
+trail with user id and date/time stamp for
+adds/changes/deletes made to application elements
+such as employee feedback and employee profile page.
+29. Software should include ability to allow users the
+capability to save information and to return later to
+complete and/or update applications (auto save
+preferred).
+30. Software should provide workflow capability to
+trigger email notification/reminders to hierarchy of
+users. Multiple workflows should be available
+depending on the type of evaluation process being
+created.
+31. Software should provide hierarchical security access
+and viewing/approval workflow dependent upon
+reporting lines and/or specified permissions.
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 8
+32. Standardized interface with the following systems
+(please provide details and examples of integration
+process with each system): Munis (HRIS System),
+Cornerstone (LMS System) and NeoGov (Applicant
+Tracking and Onboarding System).
+33. System should have capability to export employee
+final performance ratings into City’s HRIS system to
+process annual performance merit increases in line
+with City compensation policies (i.e. lump sums at
+maximum pay, percentages based on policy guidelines).
+OPTIONAL FUNCTIONALITY
+                       Description                                    Included                   Comments
+1. Historical data integration/migration
+
+2. Prefer a system that provides a Voice Recognition
+feature, allowing user to dictate a document hands-
+free.
+3. Applicant tracking and Onboarding functionality or
+module as an option
+
+
+
+45. City On Premise IT Standards. The City of Durham has Information Technology Standards for
+governance and regulatory compliance for applications within its portfolio.
+
+         Category                                         Standard
+
+                              Endpoint Standards
+         Desktop / laptop / workstation                   Lenovo (Current)
+         Desktop / laptop / workstation                   Dell specialty computers
+         Desktop / laptop / workstation                   MAC
+         Desktop / laptop / workstation                   Other
+         Toughbook                                        Panasonic
+         Toughbook                                        XFR
+         Large Copier                                     Sharp
+         Tablets                                          iPad, and Android
+         Phones/VoIP                                      Cisco
+
+                              Software Standards
+         ERP system                                       Tyler Technologies Munis
+         Collaboration platform                           Sharepoint (CODI)
+         DurhamNC.Gov City website                        CivicPlus
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 9
+         Productivity Tools                               Microsoft Office / Office 365
+         Workstation Operating Systems                    Windows 7 / Windows 8 / Windows 10
+         Reporting                                        SQL report
+         Reporting                                        Crystal reports
+         Web Browsers                                     IE, Chrome, Firefox, Safari
+         Development Standards                            .net, java, ColdFusion
+
+               Network/Data Center Standards
+         Email                                            Microsoft Exchange / Office 365
+         Connectivity (Internet/ MAN)                     TCP/IP
+         VPN                                              Cisco / Cisco any connect
+         Storage                                          EMC VNX SAN
+         Backup System                                    Hitachi/Commvault
+         Virtual Environment                              Vmware
+         Network Switches                                 Cisco
+         Data Center Converged Infrastructure             HP Blade
+         Data Center O/S                                  Microsoft Server 2008, 2012
+         Email spam filter                                Barracuda
+         Network Load Balancer                            Fat pipe
+         Anti-Virus                                       McAffee
+         VOIP server                                      Cisco UC
+
+
+Vendor solution must be compatible with above standards for Endpoint, Software and Network/Data
+Center standards. Please indicate in your proposal where the solution is not compatible with the City of
+Durham standards.
+
+46. City Cloud Computing Security Requirements. The City of Durham has Cloud Computing Security
+Requirements for governance and regulatory compliance for applications with its portfolio.
+
+
+Identity management
+        Provider must have its own identity management system to control access to information and
+        computing resources. Please provide details of these controls.
+
+
+Physical and personnel security
+        Provider must ensure that physical machines are adequately secure and that access to these
+        machines as well as all relevant customer data is not only restricted but that access is
+        documented. Please provide details of these controls.
+
+
+Application security
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 10
+        Provider must ensure that applications available as a service via the cloud are secure by
+        implementing testing and acceptance procedures for outsourced or packaged application code. It
+        also requires application security measures are in place in the production environment. Please
+        provide details of these controls.
+
+
+Security Certifications
+        Provide list of security certifications you hold along with a copy of each. Providers should hold ISO
+        27001 for security controls or SAS 70 Type II audits for physical security.
+
+
+Architecture and Software Isolation
+        The cloud provides services via an abstraction layer – a web portal. Behind this abstraction layer is
+        a hidden world of complexity that includes firmware, hypervisors, operating systems, virtual
+        machines, user portals, charge back and metering systems, provisioning, orchestration and other
+        essential functions. Much of this functionality and its supporting software don’t typically exist
+        within IT infrastructures.
+
+        A. By adding new functionality and software to the architecture, what is known as an attack
+           surface emerges. From a security and privacy perspective, it is important for the provider to
+           detail how he will protect the City’s data from this. Please provide details of these controls.
+        B. Another area for concern is how the provider handles software isolation. This is how data is
+           set-up and shared across databases and common application platforms, particularly in multi-
+           tenant applications. All public sector cloud data must be isolated from shared systems,
+           databases and applications. Please provide details of these controls.
+
+
+Data Storage & Protection
+        A. All public sector cloud data must reside in the continental U.S.
+        B. Provide all locations of where the City’s data will be stored (geographical locations) to include
+           hot sites in case the system failure.
+        C. List the type of encryption used to secure the data
+        D. Detail how the data is protected against leaks
+        E. Provide a list of vendor employees and third parties that can access the City’s data
+        F. Provide a copy of the procedure for regulating access to the data
+        G. Provide a list of formats that the data can be stored and converted
+        H. Provide Data backup schedules
+        I.   Provide the method by which the City’s data will be sanitized from your storage when the
+             contract is terminated, to include backup copies
+        J.   Provide a copy of the vendor’s disaster recovery plan
+        K. Provide the process used to vet technicians
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 11
+Data Availability
+        Provider must assure the City that they will have regular and predictable access to their data and
+        applications. The vendor will have a method of providing continued operations for the City if the
+        vendor’s operations are suddenly shut down. Additionally, the provider must have a method to
+        return all data to the City if the provider goes out of business or is shut down. Please provide
+        details of these controls.
+
+
+Business continuity and data recovery
+        Provider must have business continuity and data recovery plans in place to ensure that service
+        can be maintained in case of a disaster or an emergency and that any data loss will be recovered.
+        These plans must be provided to the City.
+
+
+Incident Response
+        A. Provide a copy of your incident response plan.
+        B. Provider must detail any circumstance that might cause our data to be inaccessible such as a
+           subpoena, litigation, or e-discovery for another customer’s data or services.
+
+
+Compliance & Privacy
+        A. All public sector cloud data must reside in the continental U.S.
+        B. Numerous regulations pertain to the storage and use of data, including federal laws and
+           regulations such as FISMA, the National Archives and Records Management Act (NARMA),
+           North Carolina Records Retention and Disposition Schedule, Payment Card Industry Data
+           Security Standard (PCI DSS), the Health Insurance Portability and Accountability Act (HIPAA),
+           and the Sarbanes-Oxley Act, among others. Many of these regulations require regular
+           reporting and audit trails. Cloud providers must enable their customers to comply
+           appropriately with these regulations. Please provide details of these controls.
+        C. Provider must ensure that all critical data (credit card numbers, for example) are masked and
+           that only authorized users have access to data in its entirety. Moreover, digital identities and
+           credentials must be protected as should any data that the provider collects or produces about
+           customer activity in the cloud. Please provide details of these controls.
+        D. City data will not be used for vendor advertising or other promotional purposes. City data will
+           not be sold to third parties. Please provide details of these controls.
+        E. Provider has the ability to preserve, identify, collect, process, analyze and produce all forms of
+           electronic files. All public sector cloud data must be discoverable in accordance with state and
+           federal laws. Please provide details of these controls.
+        F. Provider must comply with North Carolina statutes when dealing with legal issues, such as
+           Contracts and E-Discovery, which may vary by state. Providers must also comply with the
+           North Carolina Municipal Records Retention and Disposition Schedule.
+           http://durhamnc.gov/ich/cco/Documents/retention_09.pdf
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 12
+        G. In addition to producing logs and audit trails, provider must work with the City to ensure that
+           these logs and audit trails are properly secured, maintained for as long as the City requires,
+           and are accessible for the purposes of forensic investigation (e.g., e-Discovery). Please provide
+           details of these controls.
+        H. Because so much of what’s behind the cloud is hidden, the City may need to conduct an audit
+           or review past performance and certifications to gain a degree of trust as to what is going on
+           within the infrastructure where our data will reside. It is critical that the provider allow for
+           external audits. Many cloud providers do not allow customers to enter their data centers. In
+           that case, it is important that they have provisions to allow external auditors to access the
+           facilities. Please provide details of these controls.
+
+
+
+50. Compensation Amount and Schedule.
+The timing of the payment or payments will be determined by a contract based on the project scope of
+work and budget. Provide separate pricing for the following, regardless of whether the items will be
+bundled:
+
+• Software license costs (the City is expecting about 2300 active users).
+• Initial configuration and set-up.
+• Hosting fees, if applicable and pricing model (by user, enterprise, module, etc.).
+• Training costs.
+• Ongoing technical support/ maintenance costs, by year.
+• Additional requirements or service
+• Optional functionality.
+
+If pricing is tiered, please provide specific listing of services and associated functions and pricing for each
+tier. Vendor will indicate which items are optional
+
+60. Definitions in this RFP: City, RFP, Proposal, Candidate, Contractor, Should. Unless the context
+indicates otherwise – (a) The expressions “RFP,” “this RFP,” and “the RFP” refer to this document as it
+may be amended or updated. (b) “City” and “city” mean the City of Durham. (c) The “proposal” is the
+response of a person, firm, or corporation proposing to provide the services sought by this RFP. (d) The
+word “Candidate” or “candidate” is the person, firm, or corporation that submits a proposal or that is
+considering submitting a proposal. (e) The word “Contractor” or “contractor” is the person, firm, or
+corporation with which the City enters into a contract to provide the services sought by this RFP. That is,
+“contractor” generally refers to a successful candidate that has obtained a fully executed contract with
+the City, while “candidate” is generally reserved to the stage before a contract has been signed. (f) The
+word “should” is used to tell candidates what the City thinks it wants and/or what the project manager
+thinks is best. Candidates that want to increase the likelihood of being selected will, in general, do what
+the RFP says candidates “should” do, but failure to comply with all “shoulds” will not necessarily and
+automatically result in rejection.
+
+70. Contract. The City anticipates that the conclusion of the RFP process will be a contract between the
+City and the successful candidate under which the successful candidate will provide the goods and
+services generally described in this RFP. It is the City’s intention to use the contract that is attached as
+Exhibit A, modified and filled in to reflect the RFP and the proposal. If a candidate objects to any of the
+contract, it should state the objections in its proposal.
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 13
+80. Trade Secrets and Confidentiality.
+As a general rule, all submissions to the City are available to any member of the public. However, if
+materials qualify as provided in this section, the City will take reasonable steps to keep trade secrets
+confidential.
+Definitions.
+         In this section (Trade Secrets and Confidentiality) –
+         The term “candidate” includes the candidate as contractor (that is, after it is a party to a contract
+         with the City).
+         The term “trade secret” means business or technical information, including but not limited to a
+         formula, pattern, program, device, compilation of information, method, technique, or process
+         that:
+                  a. Derives independent actual or potential commercial value from not being generally
+                  known or readily ascertainable through independent development or reverse engineering
+                  by persons who can obtain economic value from its disclosure or use; and
+                  b. Is the subject of efforts that are reasonable under the circumstances to maintain its
+                  secrecy. The existence of a trade secret shall not be negated merely because the
+                  information comprising the trade secret has also been developed, used, or owned
+                  independently by more than one person, or licensed to other persons.
+
+The term “record” means all documents, papers, letters, maps, books, photographs, films, sound
+recordings, magnetic or other tapes, electronic data-processing records, artifacts, or other documentary
+material, regardless of physical form or characteristics, received by the City of Durham in connection with
+the candidate’s proposal.
+
+        (a) Designation of Confidential Records. To the extent that the candidate wishes to maintain the
+        confidentiality of trade secrets contained in materials provided to the City, the candidate shall
+        prominently designate the material with the words “trade secrets” at the time of its initial
+        disclosure to the City. The candidate shall not designate any material provided to the City as
+        trade secrets unless the candidate has a reasonable and good-faith belief that the material
+        contains a trade secret. When requested by the City, the candidate shall promptly disclose to the
+        City the candidate’s reasoning for designating material as trade secrets; the candidate may need
+        to label parts of that reasoning as trade secrets. In providing materials to the City, the candidate
+        shall make reasonable efforts to separate those designated as trade secrets from those not so
+        designated, both to facilitate the City’s use of the materials and to minimize the opportunity for
+        accidental disclosure. For instance, if only a sentence or paragraph on a page is a trade secret,
+        the page must be marked clearly to communicate that distinction. To avoid mistake or confusion,
+        it is generally best to have only trade secret information on a page and nothing else on that page.
+
+        To the extent authorized by applicable state and federal law, the City shall maintain the
+        confidentiality of records designated “trade secrets” in accordance with this section. Whenever
+        the candidate ceases to have a good-faith belief that a particular record contains a trade secret, it
+        shall promptly notify the City.
+
+        (b) Request by Public for Access to Record. When any person requests the City to provide access
+        to a record designated as a trade secret in accordance with subsection (a) above, the City may
+                (1) decline the request for access,
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 14
+                (2) notify the candidate of the request and that the City has provided, or intends to
+                provide, the person access to the record because applicable law requires that the access
+                be granted, or
+                (3) notify the candidate of the request and that the City intends to decline the request.
+
+        Before declining the request, the City may require the candidate to give further assurances so that
+        the City can be certain that the candidate will comply with subsection (c) below.
+        (c) Defense of City. If the City declines the request for access to a record designated as trade
+        secrets in accordance with subsection (a), then, in consideration of the promises in (b) above and
+        for considering the candidate’s proposal, the candidate agrees that it shall defend, indemnify, and
+        save harmless Indemnitees from and against all Charges that arise in any manner from, in
+        connection with, or out of the City’s non-disclosure of the records. In providing that defense, the
+        candidate shall at its sole expense defend Indemnitees with legal counsel. The legal counsel shall
+        be limited to attorneys reasonably acceptable to the City Attorney.
+        Definitions. As used in this subsection (c), “Charges" means claims, judgments, costs, damages,
+        losses, demands, liabilities, fines, penalties, settlements, expenses, attorneys’ fees, and interest.
+        Indemnitees" means the City, and officers, officials, independent contractors, agents, and
+        employees, of the City. “Indemnitees” does not include the candidate. The City may require the
+        candidate to provide proof of the candidate’s ability to pay the amounts that may reasonably be
+        expected to become monetary obligations of the candidate pursuant to this section. If the
+        candidate fails to provide that proof in a timely manner, the City shall not be required to keep
+        confidential the records whose non-disclosure gives rise to the potential monetary obligation.
+        Nothing in this agreement shall require the City to require any person (including the City itself) to
+        be placed in substantial risk of imprisonment, of being found by a court to be in contempt, or of
+        being in violation of a court order. This subsection (c) is separate from and is to be construed
+        separately from any other indemnification and warranty provisions in the contract between the
+        City and the candidate.
+
+85. Reserved.
+
+90. Bonds. No fidelity bond, performance bond, or payment bond is required for this contract.
+
+100. Insurance. Depending on the nature of the approved project, the City of Durham Office
+of Risk Management, may require the candidate to carry insurance for the project, with the
+City named as an “additional insured.” The project contract will include any necessary
+insurance requirements which shall be the responsibility of the candidate. It is recommended
+that candidates indicate in their proposal what insurance they have.
+
+110. Discretion of the City.
+     A. The City of Durham reserves the right to reject any or all proposals.
+     B. NOTWITHSTANDING anything to the contrary in this document or in any addendums to this
+     document, unless the contrary provision refers specifically to this provision, the City reserves the
+     right (i) to negotiate changes of any nature with any candidate with respect to any term, condition,
+     or provision in this document and/or in any proposals, whether or not something is stated to be
+     mandatory and whether or not it is said that a proposal will be rejected if certain information or
+     documentation is not submitted with it, and (ii) to enter into an agreement for some or all of the
+     work with one or more persons, firms, or corporations that do not submit proposals. For example, all
+     deadlines are for the administrative convenience or needs of the City and may be waived by the City
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 15
+    in its discretion. This subparagraph B applies to the entire RFP, including the UBE portions.
+    C. Where the City asks or tells candidates to do stated things, such as that a proposal should follow a
+    stated format or that the candidate should do stated things in seeking the contract, the City may
+    reject a proposal because it does not comply with those requests, so the candidate is adding to its
+    risk of rejection by non-compliance. Still, the City may, in its discretion, waive non-compliance. This
+    subsection (C) does not limit subsections (A) and (B).
+    D. Of course, once a contract is signed, the parties to the contract may enforce the contract
+    according to its terms as allowed by applicable law.
+
+
+120. Schedule.
+
+ Task                                                                           Date
+ Solicitation of proposals from Candidates by the City of Durham                March 8, 2018
+ Pre-bid conference/questions due                                               March 15, 2018
+ Responses to questions posted                                                  March 16, 2018
+ Proposals due                                                                  March 22, 2018
+ Estimated Selection process                                                    May 1, 2018
+ Contract negotiation complete                                                  April 3, 2018
+ Contract execution                                                             May 7, 2018
+ Implementation completed                                                       November 2018
+
+This schedule is the City's best estimate of the schedule that will be followed. If a component of this
+schedule is delayed, the rest of the schedule will be shifted by the same number of days.
+
+130. Keeping Proposals Open. All proposals will remain open and valid for the City to accept for a period
+of 60 days after the deadline for submission of proposals. The Project Manager may release candidates
+from this obligation by a written letter that specifically refers to this paragraph if he or she determines
+that the candidate and/or the proposal will not meet the City’s needs.
+
+140. Deadline to Submit Proposals. Candidates should see that their proposals are received at the
+following address by March 22, 2018 at 5:00 pm ET:
+
+Attn: Brian Green
+Technology Solutions Department
+101 City Hall – 4th Floor
+Durham, NC 27701-3329
+
+
+GETTING MORE INFORMATION ON THE PROJECT AND RFP PROCESS
+
+160. Reserved
+
+170. Updates and revisions to RFP. If you have supplied the Project Manager with your preferred
+method of contact (email, fax, etc.), updates to this RFP (“addendums” or “addenda”) will be sent to you
+in that manner. This RFP and addendums are normally posted on the City’s website, on the Purchasing
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 16
+Division’s webpage, at http://durhamnc.gov/bids.aspx . Check that webpage to see that you have
+received all addenda.
+
+Pre-submittal conferences, meetings, and site visits: The City will conduct a Pre-Proposal Conference on
+March 15, 2018 at 10:00am in the Audit Conference Room of City Hall, 101 City Hall Plaza. Attendees
+should already be familiar with this RFP.
+
+                                          EVALUATION CRITERIA
+
+180. Evaluation Criteria. If an award is made, it is expected that the City’s award will be to the candidate
+that agrees to meet the needs of the City. Proposals will be reviewed and evaluated on a 100 point basis
+as outlined below. After evaluating all submissions, the City may ask some or all of the firms that
+submitted a response to participate in interviews and solution demonstrations. Upon completion of the
+evaluation process, the City may assign a detailed scope of work to the selected candidate and negotiate
+fees for services.
+                                          Criteria                        Points
+                       Experience and Qualifications                  20
+                       References                                     15
+                       Solution Alignment to Business Need            25
+                       Methodology/Approach Used                      25
+                       Cost                                           15
+
+The above-stated Evaluation Criteria are intended to be used to make a recommendation to the entity or
+person (the City Manager or the City Council) who will award the contract, but who are not bound to use
+these criteria or to award on the basis of the recommendation. The City reserves the right to change the
+criteria and to otherwise vary from this procedure as it determines to be in the City’s interest.
+
+In addition, the City deems this project to be governed by the provisions of N.C.Gen.Stat. § 143-129.8,
+which govern the “Purchase of Information Technology Goods and Services.” The referenced statute
+allows the City to use procurement methods set forth in N.C.Gen.Stat. 143-135.9 in developing and
+evaluating requests for proposals. Further, N.C.Gen.Stat. § 143-129.8 authorizes the City to negotiate with
+any proposer in order to obtain a final contract that best meets the needs of the City of Durham.
+Negotiations to that end shall at all times be pursued such that they do not go beyond the scope of this
+Request for Proposals in a manner that: (i) deprives proposers or potential proposers of a fair opportunity
+to compete for the subject contract; and (ii) would have resulted in the award of the contract to a
+different person or entity if the alterations had been included in this Request for Proposals.
+
+                                         CONTENTS OF PROPOSAL
+240. Contents of Proposal.
+Please enclose 3 hard copies of your proposal in addition to an electronic copy (via Email, USB drive or
+Disk) . The proposal should include sections, numbered as follows:
+
+        1. Contact information. Include the candidate’s name and address, and the contact information
+           (name, mailing address, email address, fax number, and telephone number) of the person
+           whom the City should contact regarding the proposal.
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 17
+        2. Legal Status of the Candidate and Signers. State the full, exact name of the candidate. State
+           whether the candidate is an individual, corporation, limited partnership, general partnership,
+           limited liability company, professional corporation, professional association, etc. If it is
+           anything other than an individual or a general partnership, specify the State under which the
+           entity is organized. If the State under which the entity is organized is not North Carolina,
+           specify whether the candidate has received a certificate of authority from the N. C. Secretary
+           of State to transact business in North Carolina. State whether the entity is in existence at the
+           time the proposal is submitted, and if not, whether and when the candidate intends to
+           officially form the entity. State the names and titles of the individuals who will sign the
+           contract with the City.
+
+
+        3. Qualifications, References, and Licenses. This part should include the candidate’s experience
+           on similar projects and include 2 references and how to contact them. Government
+           references are preferred.
+
+
+        4. List the candidate’s current licenses that are pertinent to this project.
+
+
+        5. Project Team, Location of Work, and Subcontracting. State the names and qualifications of
+           the individuals who will have responsibility for this project.
+
+        6. Detailed response to the requirements section (Section 40). Please use format provided in
+           section 280.
+
+
+        7. Methods, Procedures and Implementation Plan. Include the work break down structure and
+           outline the schedule for this project.
+
+
+        8. Compensation. Explain the entire compensation arrangement that you propose.
+
+        9. Assumptions regarding City of Durham Actions and Participation. If your proposal assumes
+        that the City will take certain actions, provide facilities, or do anything else, you should state these
+        assumptions explicitly.
+
+        10. Equal Business Opportunity Program. It is the policy of the City to provide equal
+        opportunities for City contracting for underutilized firms owned by minorities and women doing
+        business in the City’s Contracting Marketplace. It is further the policy of the City to prohibit
+        discrimination against any firm in pursuit of these opportunities, to conduct its contracting
+        activities so as to prevent such discrimination, to correct present effects of past discrimination
+        and to resolve complaints of discrimination. This policy applies to all professional services
+        categories.
+
+        In accordance with the Ordinance, all contractors are required to provide information
+        requested in the “Equal Business Opportunity Program Procurement Forms” package
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 18
+        included with this Request for Bids. Bids that do not contain the appropriate, completed forms
+        will be deemed non-responsive and ineligible for consideration.
+
+        For procurement services that have no UBE goals, only the “Employee Breakdown” form is
+        required. This project has no UBE goals.
+
+        The Department of Equal Opportunity/Equity Assurance is responsible for the Equal Business
+        Opportunity Program. All questions about Professional Services Forms should be referred to
+        Deborah Giles or other department staff at (919) 560- 4180.
+
+        11. Financial Condition, Insurance, and Bonds. The City may reject proposals from candidates
+        that are overdue on City property taxes.
+
+        12. Conflict of Interest. If the candidate has any grounds to believe there could be a conflict of
+        interest, such as that a City employee who is involved in awarding the contract has a connection
+        with the candidate, please explain.
+
+        12. Non-collusion.
+        Sign the following and include it with your response:
+
+
+
+
+        NON-COLLUSION AFFIDAVIT
+        By executing this proposal, I certify that this proposal is submitted to the City of Durham
+        competitively and without collusion. I am authorized to represent the candidate both in
+        submitting this bid and in making this Non-collusion Affidavit. To the best of my knowledge and
+        belief, (1) the candidate has not violated N. C. General Statute section 133-24 in connection with
+        the proposal, (2) the candidate has not entered into any agreement, participated in any collusion,
+        or otherwise taken any action in restraint of free competitive bidding in connection with its
+        proposal, and (3) the candidate intends to do the work with its own bonafide employees or
+        subcontractors and is not bidding for the benefit of another contractor. The neuter includes the
+        masculine and the feminine. The candidate to which this Non-Collusion Affidavit refers is:
+
+        ________________________________________________________.
+        (insert name of candidate)
+
+        _____________________________________________
+        (signature of individual)
+
+        ACKNOWLEDGMENT
+        Type or print name of the individual who signed the affidavit:
+
+        _______________________________________ .
+        Type or print the name of Notary Public signing this acknowledgment:
+        _____________________________________
+
+        Place where acknowledgment occurred: County of __________________, State of ________
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 19
+        Notary’s residence: County of __________________________, State of ___________
+
+        I, the Notary Public named above, certify (1) the individual named above personally appeared
+        before me this day, (2) I have personal knowledge, or satisfactory evidence, of the individual’s
+        identity; and (3) the individual acknowledged signing the foregoing affidavit.
+        This the ____ day of ____________, 20____.         _________________________________
+                                                                  Notary Public
+        My commission expires:
+        ____________________________
+
+
+
+                                     COVER LETTER WITH PROPOSAL
+
+250. Cover letter. The proposal should contain a cover letter, signed by a principal of the candidate. The
+cover letter should contain the following statement:
+        The undersigned, whose title and position with the candidate are stated next to or beneath his or
+        her signature, has the authority to submit this proposal (including this cover letter) on behalf of
+        the candidate in response to the City of Durham’s Request for Proposals.
+
+        Unless otherwise clearly stated in this response to the RFP, our proposal accepts the terms and
+        conditions stated in the RFP, including the description of services to be performed and the
+        provisions of the contract to be signed.
+
+The cover letter should contain one of the following two paragraphs A or B. If (i) the cover letter lacks
+both paragraph A and paragraph B, or (ii) the cover letter contains paragraph A but fails to comply with
+the instructions in the section of the RFP titled “Trade Secrets and Confidentiality,” the City may treat
+everything it receives from the candidate as NOT trade secret or confidential, and the City may disclose to
+the public everything it receives from the candidate.
+
+        A. With respect to all trade secrets that the candidate may submit to the City in connection with
+        this proposal or the contract, if the contract is awarded to the candidate, the candidate shall
+        comply with the section of the RFP titled “Trade Secrets and Confidentiality,” including all of its
+        subsections, including the subsection titled “Defense of City.” The candidate acknowledges that
+        the City will rely on the preceding sentence.
+                                                           -or-
+        B. The candidate is not submitting any trade secrets to the City in connection with this proposal
+        or the contract; if the contract is awarded to the candidate, the candidate will not submit any
+        trade secrets to the City in connection with this proposal or the contract. The candidate
+        acknowledges that the City will rely on the preceding sentence.
+
+        A. This proposal is an offer that cannot be revoked before 60 days. The City may allow the
+        candidate to withdraw the offer by sending written withdrawal permission that refers specifically
+        to this provision.
+                                                        -or-
+        B. This proposal is not an offer, and the candidate retains the right to decline to enter into a
+        contract with the City for this project.
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 20
+260. Addendums. The cover letter should list the last addendum that the City issues for this RFP, with a
+statement such as the undersigned candidate has read all the addendums issued by the City for this RFP,
+through and including Addendum No. ____. In that blank the candidate should list the number of the last
+addendum.
+
+                                       HOW TO SUBMIT A PROPOSAL
+
+270. How to submit a proposal.
+Candidates should submit 3 hard copies and one electronic copy of their proposal in a sealed envelope.
+The envelope should be addressed for delivery to the Project Manager at the address shown in the
+“Project Manager and Contact with City” section at the beginning of this RFP.
+
+Write the following prominently on the outside of the envelope:
+
+Project Name:
+RFP Number:
+
+280. Format. Please provide response in appropriate business format. Submit an electronic copy and 3
+hard copies of the completed proposal. Include a table that contains responses to all requirements in
+section 40 with itemized pricing, in addition to a summary of work with a and total solution cost.
+
+290. Alternative Proposals. If you wish to submit a proposal that does not comply with the City’s
+standards and expectations, consider submitting two proposals: a proposal that complies, plus a proposal
+that does not comply, so that your “non-compliant” version can be considered as an alternative if the City
+is interested. This will allow your compliant version to be considered if the City remains steadfast on
+applying the standards and expectations.
+
+300. Candidate to Bear Expense; No Claims against City. No candidate will have any claims or rights
+against the City arising out of the participation by a candidate in the proposal process. No candidate will
+have any claims or rights against the City for the City’s failure to award a contract to it or for awarding a
+contract to another person, firm, or corporation, regardless of whether the other person, firm, or
+corporation participated in the RFP process or did not submit a proposal that complied with the RFP. A
+notice of award will not constitute acceptance by the City; the City’s only method of acceptance is the
+City’s execution of a formal contract in accordance with law.
+
+310. Reserved.
+
+320. Notice Under the Americans with Disabilities Act (ADA).
+A person with a disability may receive an auxiliary aid or service to effectively participate in city
+government activities by contacting the ADA Coordinator, voice (919) 560-4197, fax 560-4196, TTY (919)
+560-1200, or ADA@durhamnc.gov, as soon as possible but no later than 48 hours before the event or
+deadline date.
+Aviso bajo el Acto de Americanos Discapacitados – Una persona con una discapacidad puede recibir
+asistencia o servicio auxiliar para participar efectivamente en actividades del gobierno de la ciudad con
+ponerse en contacto con el Coordinador de ADA, buzón de voz (919) 560-4197, fax (919) 560-4196, TTY
+(919) 560-1200, o ADA@durhamnc.gov, lo más antes posible pero no menos de 48 horas antes del evento
+o fecha indicada.
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 21
+330. Values of City of Durham regarding Treatment of Employees of Contractors
+
+A.        Statement of City EEO Policy. The City of Durham opposes discrimination in employment because
+of race, color, religion, sex, national origin, political affiliation or belief, age, or handicap. Therefore, it
+desires that firms doing business with the City:
+1.        not discriminate against any employee or applicant for employment because of race, color,
+religion, sex, national origin, political affiliation or belief, age, or handicap.
+2.        take affirmative action to ensure that applicants are employed and that employees are treated
+equally during employment, without regard to race, color, religion, sex, national origin, political affiliation
+or belief, age, or handicap. This action includes employment, upgrading, demotion, transfer, recruitment
+or advertising, layoff or termination, rates of pay or other forms of compensation, and selection for
+training, including apprenticeship.
+3.        state, in solicitations or advertisement for employees, that all qualified applicants will receive
+consideration for employment without regard to race, color, religion, sex, national origin, political
+affiliation or belief, age, or handicap.
+4-        include this Statement of City EEO Policy in every purchase order for goods to be used in
+performing City contracts and in every subcontract related to City contracts.
+
+B.       Livable Wage. The City of Durham desires that firms doing business with the City pay their
+workers a livable wage rate while working on City contracts. The livable wage rate is $14.15 per hour
+through June 30, 2018, and $15.00 per hour for July 1, 2018 – June 30, 2019. The City will re-set the rate
+for the period after June 30, 2019.
+
+
+---- End of RFP ---
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 22
+                                          Exhibit A: Model Services Contract
+
+CONTRACT FOR [descriptive title to be inserted*]
+
+           This contract is dated, made, and entered into as of the _____ day of ___________________, 20_____, by
+the City of Durham (“City”), a N. C. municipal corporation, and [name of firm] (“Contractor”), [Indicate type of
+entity, for instance:
+       a corporation organized and existing under the laws of [name of State];
+       a limited liability company organized and existing under the laws of [name of State];
+       a professional corporation organized and existing under the laws of [name of State];
+       a professional association organized and existing under the laws of [name of State];
+       a limited partnership organized and existing under the laws of [name of State];
+       a sole proprietorship;
+       or a general partnership
+If it’s a corporation, LLC, or limited partnership, use the above “organized and existing” language, and do not
+substitute news about the contractor’s principal office or place of business.].
+
+          Sec. 1. Background and Purpose.
+          Sec. 2. Services and Scope to be Performed. Presumption that Duty is Contractor’s. The Contractor shall
+[state the services to be provided and the schedule for those services.*]. In this contract, “Work” means the services
+that the Contractor is required to perform pursuant to this contract and all of the Contractor’s duties to the City that
+arise out of this contract. Unless the context requires otherwise, if this contract states that a task is to be performed or
+that a duty is owed, it shall be presumed that the task or duty is the obligation of the Contractor.
+          Sec. 3. Reserved.
+          Sec. 4. Complete Work without Extra Cost. Except to the extent otherwise specifically stated in this
+contract, the Contractor shall obtain and provide, without additional cost to the City, all labor, materials, equipment,
+transportation, facilities, services, permits, and licenses necessary to perform the Work.
+          Sec. 5. Contractor’s Billings to City. Compensation. The Contractor shall send invoices to the City on a
+monthly basis for the amounts to be paid pursuant to this contract. Each invoice shall document, to the reasonable
+satisfaction of the City: such information as may be reasonably requested by the City Within twenty days after the
+City receives an invoice, the City shall send the Contractor a check in payment for all undisputed amounts contained
+in the invoice.
+          The City shall pay the Contractor for the Work as follows. The City shall not be obligated to pay the
+Contractor any payments, fees, expenses, or compensation other than those authorized by this section. [If applicable,
+you can add a sentence to this effect*: The total dollar amount to be paid under this contract by the City to the
+Contractor shall not exceed $(insert amount).]
+          Sec. 6. Prompt Payment to Subcontractors. (a) Within 7 days of receipt by the Contractor of each payment
+from the City under this contract, the Contractor shall pay all Subcontractors (which term includes subconsultants and
+suppliers) based on work completed or service provided under the subcontract. Should any payment to the
+Subcontractor be delayed by more than 7 days after receipt of payment by the Contractor from the City under this
+contract, the Contractor shall pay the Subcontractor interest, beginning on the 8 th day, at the rate of 1% per month or
+fraction thereof on such unpaid balance as may be due. By appropriate litigation, Subcontractors shall have the right
+to enforce this subsection (a) directly against the Contractor, but not against the City of Durham.
+          (b) If the individual assigned to administer this contract for the City (in this section, titled “Prompt Payment
+to Subcontractors,” he or she will be referred to as the “Project Manager”) determines that it is appropriate to enforce
+subsection (a) in this manner, the City may withhold from progress or final payments to the Contractor the sums
+estimated by the Project Manager to be
+                (i) the amount of interest due to the Subcontractor under subsection (a), and/or
+                (ii) the amounts past-due under subsection (a) to the Subcontractor but not exceeding 5% of the
+                payment(s) due from the City to the Contractor.
+This subsection (b) does not limit any other rights to withhold payments that the City may have.
+          (c) Nothing in this section (titled “Prompt Payment to Subcontractors”) shall prevent the Contractor at the
+time of invoicing, application, and certification to the City from withholding invoicing, application, and certification
+to the City for payment to the Subcontractor for unsatisfactory job progress; defective goods, services, or construction
+not remedied; disputed work; third-party claims filed or reasonable evidence that such a claim will be filed; failure of
+the subcontractor to make timely payments for labor, equipment, and materials; damage to the Contractor or another
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 23
+subcontractor; reasonable evidence that the subcontract cannot be completed for the unpaid balance of the subcontract
+sum; or a reasonable amount for retainage not to exceed 10%.
+          (d) The Project Manager may require, as a prerequisite to making progress or final payments, that the
+Contractor provide statements from any Subcontractors designated by the Project Manager regarding the status of
+their accounts with the Contractor. The statements shall be in such format as the Project Manager reasonably requires,
+including notarization if so specified.
+          Sec. 7. Insurance.
+          Sec. 8. Performance of Work by City. If the Contractor fails to perform the Work in accordance with the
+schedule required by this contract, the City may, in its discretion, in order to bring the project closer to the schedule,
+perform or cause to be performed some or all of the Work, and doing so shall not waive any of the City’s rights and
+remedies. Before doing so, the City shall give the Contractor notice of its intention. The Contractor shall reimburse
+the City for additional costs incurred by the City in exercising its right to perform or cause to be performed some or all
+of the Work pursuant to this section
+          Sec. 9. Exhibits. The following exhibits are made a part of this contract
+          Exhibit A [Insert title of exhibit] containing [insert number] page(s).
+          Exhibit B [Insert title of exhibit] containing [insert number] page(s).
+          In case of conflict between an exhibit and the text of this contract excluding the exhibit, the text of this
+contract shall control.
+          Sec. 10. Notice. (a) This subsection (a) pertains to all notices related to or asserting default, breach of
+contract, claim for damages, suspension or termination of performance, suspension or termination of contract, and
+extension or renewal of the term. All such notices shall be given by personal delivery, fax, UPS, Federal Express, a
+designated delivery service authorized pursuant to 26 U.S.C. 7502(f)(2), or certified United States mail, return receipt
+requested, addressed as follows. The parties are requested to send a copy by email.
+          To the City:
+          [Insert name and department*]
+          City of Durham
+          101 City Hall Plaza
+          Durham, NC 27701-3329
+          The fax number is (919) [Insert fax number.*]
+          Email: [Insert email address.*]
+
+         To the Contractor:
+         [Insert name and address]
+         The fax number is ___________.
+         Email:
+
+          (b) Change of Address. Date Notice Deemed Given. A change of address, email address, fax number, or
+person to receive notices under subsection (a) shall be made by notice given pursuant to subsection (a). All notices
+and other communications related to or under this contract shall be deemed given and sent at the time of actual
+delivery, if personally delivered or sent by fax, personal delivery, UPS, Federal Express, or a designated delivery
+service. If the notice or other communication is sent by United States mail, it shall be deemed given upon the third
+calendar day following the day on which such notice or other communication is deposited with the United States
+Postal Service or upon actual delivery, whichever first occurs.
+          Sec. 11. Indemnification. (a) To the maximum extent allowed by law, the Contractor shall defend,
+indemnify, and save harmless Indemnitees from and against all Charges that arise in any manner from, in connection
+with, or out of this contract as a result of acts or omissions of the Contractor or subcontractors or anyone directly or
+indirectly employed by any of them or anyone for whose acts any of them may be liable. In performing its duties
+under this subsection “a,” the Contractor shall at its sole expense defend Indemnitees with legal counsel reasonably
+acceptable to City. (b) Definitions. As used in subsections “a” above and “c” below -- “Charges” means claims,
+judgments, costs, damages, losses, demands, liabilities, duties, obligations, fines, penalties, royalties, settlements, and
+expenses (included without limitation within “Charges” are (1) interest and reasonable attorneys' fees assessed as part
+of any such item, and (2) amounts for alleged violations of sedimentation pollution, erosion control, pollution, or other
+environmental laws, regulations, ordinances, rules, or orders -- including but not limited to any such alleged violation
+that arises out of the handling, transportation, deposit, or delivery of the items that are the subject of this contract).
+“Indemnitees” means City and its officers, officials, independent contractors, agents, and employees, excluding the
+Contractor. (c) Other Provisions Separate. Nothing in this section shall affect any warranties in favor of the City that
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 24
+are otherwise provided in or arise out of this contract. This section is in addition to and shall be construed separately
+from any other indemnification provisions that may be in this contract. (d) Survival. This section shall remain in
+force despite termination of this contract (whether by expiration of the term or otherwise) and termination of the
+services of the Contractor under this contract. (e) Limitations of the Contractor's Obligation. If this section is in, or
+is in connection with, a contract relative to the design, planning, construction, alteration, repair or maintenance of a
+building, structure, highway, road, appurtenance or appliance, including moving, demolition and excavating
+connected therewith, then subsection “a” above shall not require the Contractor to indemnify or hold harmless
+Indemnitees against liability for damages arising out of bodily injury to persons or damage to property proximately
+caused by or resulting from the negligence, in whole or in part, of Indemnitees.
+          Sec. 12. Trade Secrets; Confidentiality. The request for proposals (RFP) section titled “Trade Secrets and
+Confidentiality” shall apply to any Trade Secrets disclosed to the City during the process leading to the parties’
+entering into this Contract (including all of the Contractor’s responses to the RFP). This section (titled “Trade
+Secrets; Confidentiality”) shall remain in force despite termination of this contract (whether by expiration of the term
+or otherwise) and termination of the services of the Contractor under this contract. For purposes of this contract, the
+word “candidate” in the RFP section just cited shall mean the “Contractor.”
+          Sec. 13. Termination for Convenience (“TFC”). (a) Procedure. Without limiting any party’s right to
+terminate for breach, the parties agree that the City may, without cause, and in its discretion, terminate this contract
+for convenience by giving the Contractor written notice that refers to this section. TFC shall be effective at the time
+indicated in the notice. (b) Obligations. Upon TFC, all obligations that are still executory on both sides are
+discharged except that any right based on prior breach or performance survives, and the indemnification provisions
+and the section of this contract titled Trade Secrets and Confidentiality, if any, shall remain in force. At the time of
+TFC or as soon afterwards as is practical, the Contractor shall give the City all Work, including partly completed
+Work. In case of TFC, the Contractor shall follow the City’s instructions as to which subcontracts to terminate. (c)
+Payment. The City shall pay the Contractor an equitable amount for the costs and charges that accrue because of the
+City’s decisions with respect to the subcontracts, but excluding profit for the Contractor. Within 20 days after TFC,
+the City shall pay the Contractor one hundred dollars as a TFC fee and shall pay the Contractor for all Work
+performed except to the extent previously paid for. Work shall be paid for in accordance with the method (unit prices,
+hourly fees, etc.) to be used for payment had the Work been completed except to the extent it would be inequitable to
+either party, and if Work was to be paid for on a lump-sum basis, the City shall pay the part of the lump sum that
+reflects the percentage of completion attained for that Work. The Contractor shall not be entitled to any payment
+because of TFC except as stated in this section, whether on the basis of overhead, profit, damages, other economic
+loss, or otherwise.
+          Sec. 14. State Law Provisions.
+          (a) E-Verify Requirements. (A) If this contract is awarded pursuant to North Carolina General Statutes
+(NCGS) 143-129 – (i) the contractor represents and covenants that the contractor and its subcontractors comply with
+the requirements of Article 2 of Chapter 64 of the NCGS; (ii) the words "contractor," "contractor’s subcontractors,"
+and "comply" as used in this subsection (A) shall have the meanings intended by NCGS 143-129(j); and (iii) the City is
+relying on this subsection (A) in entering into this contract. (B) If this contract is subject to NCGS 143-133.3, the
+contractor and its subcontractors shall comply with the requirements of Article 2 of Chapter 64 of the NCGS.
+          (b) Iran Divestment Act Certification. The Contractor certifies that, if it submitted a successful bid for this
+contract, then as of the date it submitted the bid, the Contractor was not identified on the Iran List. If it did not
+submit a bid for this contract, the Contractor certifies that as of the date that this contract is entered into, the
+Contractor is not identified on the Iran List. It is a material breach of contract for the Contractor to be identified on
+the Iran List during the term of this contract or to utilize on this contract any subcontractor that is identified on the
+Iran List. In this Iran Divestment Act Certification section -- “Contractor” means the person entering into this
+contract with the City of Durham; and “Iran List” means the Final Divestment List – Iran, the Parent and Subsidiary
+Guidance– Iran list, and all other lists issued from time to time by the N.C. State Treasurer to comply with G. S. 147-
+86.58 of the N.C. Iran Divestment Act.
+          Sec. 15. Miscellaneous
+          (a) Choice of Law and Forum; Service of Process. (i) This contract shall be deemed made in Durham
+County, North Carolina. This contract shall be governed by and construed in accordance with the law of North
+Carolina. The exclusive forum and venue for all actions arising out of this contract shall be the North Carolina
+General Court of Justice, in Durham County. Such actions shall neither be commenced in nor removed to federal
+court. This subsection (a) shall not apply to subsequent actions to enforce a judgment entered in actions heard
+pursuant to this subsection. (ii) If the Contractor is not a natural person (for instance, the Contractor is a corporation
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 25
+or limited liability company), this subsection (ii) applies. “Agent for Service of Process” means every person now or
+hereafter appointed by the Contractor to be served or to accept service of process in any State of the United States.
+Without excluding any other method of service authorized by law, the Contractor agrees that every Agent for Service
+of Process is designated as its non-exclusive agent for service of process, summons, and complaint. The Contractor
+will instruct each Agent for Service of Process that after such agent receives the process, summons, or complaint, such
+agent shall promptly send it to the Contractor. This subsection (ii) does not apply while the Contractor maintains a
+registered agent in North Carolina with the office of the N. C. Secretary of State and such registered agent can be
+found with due diligence at the registered office.
+          (b) Waiver. No action or failure to act by the City shall constitute a waiver of any of its rights or remedies
+that arise out of this contract, nor shall such action or failure to act constitute approval of or acquiescence in a breach
+thereunder, except as may be specifically agreed in writing.
+          (c) Performance of Government Functions. Nothing contained in this contract shall be deemed or construed
+so as to in any way estop, limit, or impair the City from exercising or performing any regulatory, policing, legislative,
+governmental, or other powers or functions.
+          (d) Severability. If any provision of this contract shall be unenforceable, the remainder of this contract shall
+be enforceable to the extent permitted by law.
+          (e) Assignment. Successors and Assigns. Without the City's written consent, the Contractor shall not assign
+(which includes to delegate) any of its rights (including the right to payment) or duties that arise out of this contract.
+The City Manager may consent to an assignment without action by the City Council. Unless the City otherwise
+agrees in writing, the Contractor and all assignees shall be subject to all of the City’s defenses and shall be liable for
+all of the Contractor’s duties that arise out of this contract and all of the City’s claims that arise out of this contract.
+Without granting the Contractor the right to assign, it is agreed that the duties of the Contractor that arise out of this
+contract shall be binding upon it and its heirs, personal representatives, successors, and assigns.
+          (f) Compliance with Law. In performing all of the Work, the Contractor shall comply with all applicable
+law.
+          (g) Notice of City Policy. THE CITY OPPOSES DISCRIMINATION ON THE BASIS OF RACE AND
+SEX AND URGES ALL OF ITS CONTRACTORS TO PROVIDE A FAIR OPPORTUNITY FOR MINORITIES
+AND WOMEN TO PARTICIPATE IN THEIR WORK FORCE AND AS SUBCONTRACTORS AND VENDORS
+UNDER CITY CONTRACTS.
+          (h) EBOP. The Contractor shall comply with all applicable provisions of Article III of Chapter 18 of the
+Durham City Code (Equal Business Opportunities Ordinance), as amended from time to time. The failure of the
+Contractor to comply with that article shall be a material breach of contract which may result in the rescission or
+termination of this contract and/or other appropriate remedies in accordance with the provisions of that article, this
+contract, and State law. The Participation Plan submitted in accordance with that article is binding on the Contractor.
+Section 18-59(f) of that article provides, in part, “If the City Manager determines that the Contractor has failed to
+comply with the provisions of the Contract, the City Manager shall notify the Contractor in writing of the deficiencies.
+The Contractor shall have 14 days, or such time as specified in the Contract, to cure the deficiencies or establish that
+there are no deficiencies.” It is stipulated and agreed that those two quoted sentences apply only to the Contractor’s
+alleged violations of its obligations under Article III of Chapter 18 and not to the Contractor’s alleged violations of
+other obligations.
+          (i) No Third Party Rights Created. This contract is intended for the benefit of the City and the Contractor
+and not any other person.
+          (j) Principles of Interpretation and Definitions. (1) The singular includes the plural and the plural the
+singular. The pronouns “it” and “its” include the masculine and feminine. References to statutes or regulations
+include all statutory or regulatory provisions consolidating, amending, or replacing the statute or regulation.
+References to contracts and agreements shall be deemed to include all amendments to them. The words “include,”
+“including,” etc. mean include, including, etc. without limitation. (2) References to a “Section” or “section” shall
+mean a section of this contract. (3) “Contract” and “Agreement,” whether or not capitalized, refer to this instrument.
+(4) “Duties” includes obligations. (5) The word “person” includes natural persons, firms, companies, associations,
+partnerships, trusts, corporations, governmental agencies and units, and other legal entities. (6) The word “shall” is
+mandatory. (7) The word “day” means calendar day. (8) The word “Work” is defined in Section 2. (9) A definition
+in this contract will not apply to the extent the context requires otherwise.
+          (k) Modifications. Entire Agreement. A modification of this contract is not valid unless signed by both
+parties and otherwise in accordance with requirements of law. Further, a modification is not enforceable against the
+City unless it is signed by the City Manager, a deputy or assistant City Manager, or, in limited circumstances, a City
+department director. This contract contains the entire agreement between the parties pertaining to the subject matter
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 26
+of this contract. With respect to that subject matter, there are no promises, agreements, conditions, inducements,
+warranties, or understandings, written or oral, expressed or implied, between the parties, other than as set forth or
+referenced in this contract.
+          (l) City’s Manager’s Authority. To the extent, if any, the City has the power to suspend or terminate this
+contract or the Contractor’s services under this contract, that power may be exercised by City Manager or a deputy or
+assistant City Manager without City Council action.
+
+IN WITNESS WHEREOF, the City and the Contractor have caused this contract to be executed under seal themselves
+or by their respective duly authorized agents or officers.
+
+
+ATTEST:
+
+By: ________________________                                  By: ______________________________
+         City Clerk                                                    Authorized City Manager Designee
+
+                                                              Date: _____________
+
+
+
+This instrument has been pre-audited in the manner required by the Local Government Budget and Fiscal Control Act.
+
+
+__________________________
+      Finance Officer
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 27
+                               CITY OF DURHAM
+                         EQUAL BUSINESS OPPORTUNITY
+                                  PROGRAM
+
+                                      PROCUREMENT FORMS
+                                                     Revised 3/2016
+
+
+
+
+                                                               Street Address:
+
+     Phone: 919-560-4180                                       101 City Hall Plaza (Annex)
+     Facsimile: 919-560-4513                                   Durham, North Carolina 27701
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 28
+                              Equal Business Opportunity Program
+                               UBE Procurement Documentation
+
+All information in this document is applicable as indicated when UBE goals are required. If documents are
+not submitted, your bid may be deemed non-responsive. Only the Employee Breakdown form is required
+when there are no UBE goals. Underutilized Business Enterprise (UBE) means a business, including a sole
+proprietorship, partnership, corporation, limited liability company, joint venture or any other business or
+professional entity that has been certified by (i) the State of North Carolina as a historically underutilized
+business (HUB) pursuant to G.S. 143-128.4, as amended; (ii) the North Carolina Department of
+Transportation as a disadvantaged minority-owned or woman-owned business pursuant to G.S. 136-28.4,
+as amended; or (iii) the Small Business Administration 8(a) Business Development program of the Small
+Business Administration of the U.S. Department of Commerce pursuant to 15 U.S.C. 637(a), as amended,
+ UBE Participation On this form, “participation” is the dollar amount of subcontracts for significant goods
+and services to be used to perform the contract. For instance, if the bidder would enter into a subcontract
+with UBEs for a total of $30,000, that would be the UBE participation amount. The sum of UBE
+participation and non UBE participation should equal the amount of the bid. This form is required for a bid
+that has participation goals and must be completed and submitted with your bid.
+
+Employee Breakdown must be completed and submitted for the location providing the service/commodity.
+If the parent company will be involved in providing the service/commodity on the City contract, a
+consolidated employment breakdown must be submitted.
+
+Statement of Intent to Perform as Subcontractor The bidder must provide one of these forms for each
+UBE firm that the bidder would subcontract with if the City awards the contract to the bidder.
+
+Request to Change UBE Participation After Bid Opening: If at any time during a City contract,
+the bidder/contractor proposes to do any of the following :
+        to replace a subcontractor,
+        to perform subcontracted work with the bidder/contractor’s own
+         forces,
+        to increase the quantity of subcontracted work,
+        to decrease the quantity of subcontracted work, or
+        to change the allocation of work among subcontractors,
+
+ then the bidder/contractor must make good-faith efforts to attain the goals that it has shown on the UBE
+ Participation form, and the bidder/contractor must fill out the Request to Change UBE Participation After
+ Bid Opening. Substitutions of subcontractors in these circumstances, both before and after the awarding
+ of a contract, are subject to City approval. Consult the City’s EO/EA Department on the procedures to
+ follow.
+
+ Questionnaire on Bidder’s Good-Faith Efforts Bidders that do not attain the UBE goals have the
+responsibility to make good-faith efforts and to demonstrate to the City that they have made such efforts. In
+determining a bidder’s good-faith efforts to engage UBEs, the City Manager shall consider the information
+supplied by the bidder to answer the questions in this form, along with other criteria that the City Manager
+deems proper. This questionnaire is an optional tool that bidders may use to show that they have made
+good-faith efforts. Even though this form may be submitted after the bid opening, it cannot include
+information on efforts made after the bid opening. Even if a bidder does not use this form, the City will
+nevertheless attempt to answer the questions on the questionnaire using good-faith documentation
+supplied by the bidder. Bidders who do not turn in the questionnaire will still find it helpful to know how the
+City will determine whether good-faith efforts have been made.
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 29
+                                                     EMPLOYEE BREAKDOWN
+
+           Part A – Employee Statistics for the Primary Location
+
+                                                     M--------a--------l--------e--------s           F----e-----m-----a-----
+         l-----e-----s
+
+Employment     Total       Total   Total     White     Black   Hispanic Asian or   Indian or White    Black   Hispanic Asian or   Indian or
+Category       Employees   Males   Females                              Pacific    Alaskan                             Pacific    Alaskan
+                                                                        Islander   Native                              Islander   Native
+Project
+Manager
+Professional
+
+
+Labor
+
+Clerical
+
+Totals
+
+
+
+
+           Part B – Employee Statistics for the Consolidated Company (See instructions for this form on
+           whether this part is required.)
+
+                                                     M--------a--------l--------e--------s            F-----e-----m-----a---
+         --l-----e-----s
+
+Employment     Total       Total   Total     White     Black   Hispanic Asian or   Indian or White    Black   Hispanic Asian or   Indian or
+Category       Employees   Males   Females                              Pacific    Alaskan                             Pacific    Alaskan
+                                                                        Islander   Native                              Islander   Native
+Project
+Manager
+Professional
+
+
+Labor
+
+Clerical
+
+Totals
+
+
+
+
+         RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 30
+                                     UBE PARTICIPATION ON BID
+
+
+ Name of Bidder:
+
+ Is bidder a UBE (circle one):      Yes                  No
+
+ Total dollar amount of UBE participation in bid work:
+
+                                                      For each row, check one column: E or F, .
+  Column A                  Column B            Column C         Column D      Column E    Column F
+
+  Name of                   Goods and           Subcontract          Percentage      Minority-     Women-
+  proposed                  services to be      amount, in           of total        owned         owned
+  subcontractor for         provided for base   dollars, for base    base bid        UBE           UBE
+  base bid work             bid work            bid work             (Column C
+                                                                     divided by
+                                                                     total base
+                                                                     bid)
+                                                $                             %
+
+
+
+                                                $                             %
+
+
+
+                                                $                             %
+
+
+
+                                                $                             %
+
+
+ Attach extra sheets as needed.
+
+ Do the above participation amounts meet the goals on this contract, assuming only the base bid is
+ counted?
+
+   Yes No. If the answer is No: (1) the bidder must have made good-faith efforts; (2) the bidder
+   must
+   provide, within 2 business days after bid opening, documentation of good-faith efforts; and (3) the
+   bidder must sign below.
+
+ As an authorized representative of the Bidder, I swear or affirm under penalty of fraud that the good-
+ faith efforts documentation submitted with this bid, pertaining to the base bid and all alternates, if
+ any, is correct and not intended to defraud or mislead. After the contract between the City and the
+ Bidder is signed, except to the extent that the City gives prior written approval for changes, the
+ Contractor agrees that it shall engage the subcontractors listed on this form to perform the work for
+ the dollar amounts or percentages described on this form.
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 31
+                             Signature of individual authorized to sign for Bidder
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 32
+                         STATEMENT OF INTENT TO PERFORM AS SUBCONTRACTOR
+
+
+  Name of Bidder:
+
+  Name of Project:
+
+  The undersigned firm meets the City of Durham’s criteria as a UBE.
+
+  The undersigned UBE represents that it will enter into a formal contract with the Bidder to perform the
+  following work in connection with the Project, in the dollar amount or percentage listed below, if the
+  Bidder signs a contract with the City of Durham for the Project.
+
+  Describe the work in sufficient detail so that it can be determined whether the UBE’s work is a
+  substantial and necessary part of the Project.
+
+  Column 1 - description of work to       Column 2 - dollar amount       Column 3 - percentage of Bidder’s
+  be done by undersigned UBE              of the proposed                base bid represented by the proposed
+                                          subcontract between the        subcontract between the Bidder and
+                                          bidder and the undersigned     the undersigned UBE
+                                          UBE
+
+
+
+
+  The undersigned UBE will be ready to begin work on the subcontract on the following
+  date:_____________
+
+
+   Name of UBE:                                                Telephone No.
+
+   Address, including Zip Code, of UBE:                                   Fax No.
+
+
+                                                    Signature of authorized representative of UBE
+
+  Title of the person who signed above:
+
+  What person with the UBE should the City contact with questions about this form or the proposed
+  subcontract?
+
+  Name of individual:                                                    Telephone No.
+  Title of individual:
+  Email address:
+  By submitting this form to the City of Durham, the Bidder represents that if the Bidder signs the
+  contract with the City of Durham for the Project, the Bidder will enter into the subcontract described
+  above with this UBE.
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 33
+                    REQUEST TO CHANGE UBE PARTICIPATION AFTER BID OPENING
+
+
+Project:
+
+
+Name of bidder or contractor:
+
+
+Name and title of representative of bidder or contractor:
+
+
+ Address:                                                                 Zip Code:
+
+ Telephone No.:                                                           Fax No.:
+
+Email Address:
+
+
+
+ Total amount of original contract, before any change orders or amendments:
+
+Total amount of the contract, including all approved change orders and amendments to date, but not
+counting the changes proposed in this form:
+
+Dollar amount of changes proposed in this form:
+
+The proposed change (check one)        increases     decreases the dollar amount of the bidder’s/contractor’s
+contract
+with the City.
+
+Does the proposed change decrease the UBE participation? (check one)        yes             no
+If the answer is yes, complete the following:
+
+BOX A. For the subcontract proposed to be changed (increased, reduced, or eliminated): Name of
+subcontractor:
+
+Goods and services to be provided before the proposed change:
+
+
+
+ Is it proposed to eliminate this subcontract?   yes       no
+
+If the subcontract is to be increased or reduced, describe the nature of the change (such as adding
+$5,000 in concrete work and deleting $7,000 in grading):
+
+
+Dollar amount of this subcontract before this proposed change:
+
+Dollar amount of this subcontract after this proposed change:
+
+This subcontractor is (check one):
+ 1. Minority-owned UBE
+ 2. Women-Owned UBE
+ 3. Not a UBE
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 34
+BOX B. Proposed subcontracts other than the subcontract described in Box A above
+Name of subcontractor for the new work:
+
+Goods and Services to be provided by this proposed subcontractor:
+
+
+Dollar amount proposed of this proposed subcontract: This subcontractor is:
+ 1. Minority-owned UBE
+ 2. Women-Owned UBE
+ 3. Not a UBE
+
+
+
+Add additional sheets as necessary.
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 35
+ This form is used only if the conditions described in the instructions are present.
+
+                              QUESTIONNAIRE ON BIDDER’S GOOD-FAITH EFFORTS
+
+ Name of Bidder:
+
+
+ If you find it helpful, feel free to attach pages to explain your answers. How many pages is your
+firm attaching to this questionnaire?
+
+ (Don’t count the 2 pages of this questionnaire.)
+
+If a yes or no answer is not appropriate, please explain the facts. All of the answers to these questions
+relate only to the time before your firm submitted its bid or proposal to the City. In other words, actions
+that your firm took after it submitted the bid or proposal to the City cannot be mentioned or used in any
+answers.
+
+ 1. SOLICITING UBEs.
+
+ (a) Did your firm solicit, through all reasonable and available means, the interest of all -UBEs (that
+ is, in the list provided by the City-) in the scopes of work of the contract? yes no
+
+ (b) In such soliciting, did your firm advertise?   yes no Are you attaching copies to
+ this questionnaire, indicating the dates and names of newspaper or other publication for each
+ ad if that information is not already on the ads? yes   no
+
+ (c) In such soliciting, did your firm send written (including electronic) notices or letters? Are you
+ attaching one or more sample notices or letters? yes no
+
+ (d) Did your firm attend the pre-bid conference?          yes    no
+
+ (e) Did your firm provide interested UBEs with timely, adequate information about the
+ plans, specifications, and requirements of the contract?         yes           no
+
+ (f) Did your firm follow up with UBEs that showed interest?              yes    no
+
+ (g) With reference to the UBEs that your firm notified of the type of work to be subcontracted -- Did
+     your firm tell them?
+
+                            (i) the specific work your firm was considering for subcontracting? yes no
+                                                                                                yes no
+                                         (ii) that their interest in the contract is being solicited?
+        (iii) how to obtain and inspect the applicable plans and specifications and descriptions of items
+                                                                        to be purchased?       yes no
+
+ 2. BREAKING DOWN THE WORK.
+
+ (a) Did your firm select portions of the work to be performed by UBEs in order to increase the
+     likelihood that the goals would be reached?               yes     no
+
+ (b) If yes, please describe the portions selected. ANSWER:
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 36
+NEGOTIATION. In your answers to 3, you may omit information regarding UBEs for which you are
+providing
+  Form E-105.
+
+ (a) What are the names, addresses, and telephone numbers of UBEs that you contacted? ANSWER:
+ .
+ (b) Describe the information that you provided to the UBEs regarding the plans and specifications for
+ the work
+     selected for potential subcontracting.      ANSWER:
+
+
+ (c) Why could your firm not reach agreements with the UBEs that your firm made contact with?
+ Be specific.
+     ANSWER:
+
+
+ 3. ASSISTANCE TO UBEs ON BONDING, CREDIT, AND INSURANCE.
+
+ (a) Did your firm or the City require any subcontractors to have bonds, lines of credit, or insurance?
+     yes no (Note: In most projects, the City has no such requirement for subcontractors.)
+
+ (b) If the answer to (a) is yes, did your firm make efforts to assist UBEs to obtain bonds, lines of credit,
+ or insurance? yes no         If yes, describe your firm’s efforts:. ANSWER:
+
+ (c) Did your firm provide alternatives to bonding or insurance for potential subcontractors?      yes     no
+     If yes, describe. ANSWER:
+
+ 4. GOODS AND SERVICES. What efforts did your firm make to help interested UBEs to obtain goods
+ or services
+    relevant to the proposed subcontracting work? ANSWER:
+
+ 5. USING OTHER SERVICES.
+ (a) Did your firm use the services of the City to help solicit UBEs for the work? yes no       Please
+ explain.   ANSWER:
+
+ (b) Did your firm use the services of available minority/women community organizations, minority and
+ women contractors' groups, government-sponsored minority/women business assistance agencies, and
+ other appropriate organizations to help solicit UBEs for the work? yes no Please explain.
+ ANSWER:
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 37
+                                                Exhibit C
+
+                              City of Durham Insurance Requirements
+
+Contractor shall purchase and maintain insurance coverage for not less than the following:
+
+Commercial General Liability, covering:
+ Premises/operations
+ Products/completed operations (two years minimum, from project completion)
+ Broad form property damage
+ Contractual liability
+ Independent contractors, if any are used in the performance of this contract
+ City of Durham must be named additional insured, and an original of the endorsement to effect
+  the coverage must be attached to the certificate (if by blanket endorsement, then agent may so
+  indicate in the GL section of the certificate, in lieu of an original endorsement)
+ Combined single limit not less than $1,000,000 per occurrence, with an annual aggregate on
+  not less than $2,000,000.
+
+Commercial Auto Liability, covering:
+ Symbol 1, all vehicles
+ Combined single limit of $1,000,000
+ City of Durham must be named additional insured
+
+
+Workers' Compensation Insurance, covering:
+ Statutory benefits;
+ Covering employees; covering owners partners, officers, and relatives (who work on this
+  contract) (this must be stated on the certificate)
+ Employers' liability, $1,000,000
+ Waiver of subrogation in favor of the City of Durham
+
+Insurance shall be provided by:
+ Companies authorized to do business in the State of North Carolina
+ Companies with Best rating of A-, VII or better.
+
+Insurance shall be evidenced by a certificate:
+ Providing notice to the City of not less than 30 days prior to cancellation or reduction of
+   coverage
+ Certificates shall be addressed to:
+      City of Durham, North Carolina
+      Attention: (your name and address)
+
+
+
+
+RFP for Software Solution to Automate the City of Durham Employee Performance Evaluation Program page 38
+

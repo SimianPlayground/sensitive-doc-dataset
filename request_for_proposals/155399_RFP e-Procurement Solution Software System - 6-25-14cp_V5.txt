@@ -1,0 +1,2301 @@
+                   Administrative Services Department
+              Purchasing & Contracts Administration Division
+
+
+
+             Request for Proposal (RFP) Number 155399
+                     for Professional Services
+
+       E-PROCUREMENT SOLUTION SOFTWARE SYSTEM
+
+
+
+
+       Pre-proposal Meeting                   None scheduled
+       RFP submittal deadline:                3:00 p.m.
+                                              Tuesday, July 29, 2014
+       Contract Administrator:                John Montenero
+       (Email address)                        john.montenero@City ofpaloalto.org
+
+
+                                  CITY OF PALO ALTO
+                          PURCHASING/CONTRACT ADMINISTRATION
+                                 250 HAMILTON AVENUE
+                                  PALO ALTO, CA 94301
+                                      (650) 329-2271
+
+
+
+
+City of Palo Alto                         1
+                       REQUEST FOR PROPOSAL (RFP) NO. 155399
+                           FOR PROFESSIONAL SERVICES
+
+             TITLE: E-PROCUREMENT SOLUTION SOFTWARE SYSTEM
+
+1. INTRODUCTION
+
+        A. The City of Palo Alto is seeking proposals from qualified firms to provide
+           professional services for a hosted, web-based E-Procurement solution
+           software system (“System”). Procurement solutions for consideration
+           under this RFP include, but are not limited to the following:
+                   Self-service vendor registration
+                   Automated vendor notifications and published plan holders list
+                   Solicitation management services
+                   Receipt of electronic submissions
+                   Solicitations (RFI/RFP/RFQ/IFB) evaluation processes
+                   Project and Management Reporting
+                   Contract Compliance, and
+                   Contract Management
+
+       The required services and performance conditions are described in the “Scope of
+       Work” (or Services).
+
+2. ATTACHMENTS
+
+       The attachments below are included with this Request for Proposals (RFP) for
+       your review and submittal (see asterisk):
+
+          Attachment A – Proposer’s Information Form
+          Attachment B – Scope of Work/Services
+          Attachment C – Sample Agreement for Professional Services
+          Attachment D – Sample Table, Qualifications of Firm Relative to City’s Needs
+          Attachment E – Cost Proposal Format
+          Attachment F – Insurance Requirement
+          Attachment G – SaaS / VISA and other IT Requirements
+
+
+       The items identified with an asterisk (*) shall be filled out, signed by the
+       appropriate representative of the company and returned with submittal.
+
+
+
+
+City of Palo Alto                               2
+3. INSTRUCTIONS TO PROPOSERS
+
+       3.1    Pre-proposal Conference
+
+              A pre-proposal conference is not scheduled for this RFP.
+
+       3.2    Examination of Proposal Documents
+
+              The submission of a proposal shall be deemed a representation and
+              certification by the Proposer that they:
+
+              3.2.1 Have carefully read and fully understand the information that was
+                    provided by the City to serve as the basis for submission of this
+                    proposal.
+              3.2.2 Have the capability to successfully undertake and complete the
+                    responsibilities and obligations of the proposal being submitted.
+              3.2.3 Represent that all information contained in the proposal is true and
+                    correct.
+              3.2.4 Did not, in any way, collude, conspire to agree, directly or indirectly,
+                    with any person, firm, corporation or other Proposer in regard to the
+                    amount, terms or conditions of this proposal.
+              3.2.5 Acknowledge that the City has the right to make any inquiry it
+                    deems appropriate to substantiate or supplement information
+                    supplied by Proposer, and Proposer hereby grants the City
+                    permission to make these inquiries, and to provide any and all
+                    related documentation in a timely manner.
+
+              No request for modification of the proposal shall be considered after its
+              submission on grounds that Proposer was not fully informed to any fact or
+              condition.
+
+       3.3    Addenda/Clarifications
+
+              Should discrepancies or omissions be found in this RFP or should there
+              be a need to clarify this RFP, questions or comments regarding this RFP
+              must be put in writing and received by the City no later than 1:00 p.m.,
+              Wednesday (the one before the proposal deadline), July 23, 2014.
+              Correspondence shall be e-mailed to john.montenero@cityofpaloalto.org.
+              Responses from the City will be communicated in writing/email to all
+              recipients of this RFP. Inquiries received after the date and time stated
+              will not be accepted and will be returned to senders without response. All
+              addenda shall become a part of this RFP and shall be acknowledged on
+              the Proposer’s Form.
+
+              The City shall not be responsible for nor be bound by any oral instructions,
+              interpretations or explanations issued by the City or its representatives.
+
+
+
+
+City of Palo Alto                            3
+       3.4    Submission of Proposals
+
+              In order to submit bids/proposals to the City of Palo Alto you must comply
+              with the following:
+
+              1. The Proposer shall email one (1) Adobe PDF type file of its proposal
+                 to the email address noted below.
+
+              2. Your PDF file proposal shall conform to the naming convention of:
+                         “RFP number_Your company name”
+                         Example: “RFP123456_Good Guy Consulting”
+
+              3. When sending proposals by email you are responsible for marking
+                 your email “return receipt” and “notify when read” this will ensure you
+                 know we have received and when the email was opened at the
+                 predetermined bid opening time.
+
+              All proposals shall be submitted to:
+
+                    Email: bids@cityofpaloalto.org
+
+              Proposals must be received no later than 3:00 p.m. on Tuesday, July 29,
+              2014. All proposals received after that time will be returned to the
+              Proposer deemed as disqualified. Once your email is received by the City
+              you will receive an email acknowledgement notification back confirming
+              receipt of your email.
+
+       3.5    Withdrawal of Proposals
+
+              A Proposer may withdraw its proposal at any time before the expiration of
+              the time for submission of proposals as provided in the RFP by delivering
+              a written email request for withdrawal on behalf of the Proposer.
+
+       3.6    Rights of the City of Palo Alto
+
+              This RFP does not commit the City to enter into a contract, nor does it
+              obligate the City to pay for any costs incurred in preparation and
+              submission of proposals or in anticipation of a contract. The City reserves
+              the right to:
+                   Make the selection based on its sole discretion;
+                   Reject any and all proposals;
+                   Issue subsequent Requests for Proposals;
+                   Postpone opening for its own convenience;
+                   Remedy technical errors in the Request for Proposals process;
+                   Approve or disapprove the use of particular subconsultants;
+                   Negotiate with any, all or none of the Proposers;
+                   Accept other than the lowest offer;
+                   Waive informalities and irregularities in the Proposals and/or
+City of Palo Alto                               4
+                    Enter into an agreement with another Proposer in the event the
+                     originally selected Proposer defaults or fails to execute an agreement
+                     with the City.
+
+       An agreement shall not be binding or valid with the City unless and until it is
+       executed by authorized representatives of the City and of the Proposer.
+
+4. PROPOSED TENTATIVE TIMELINE
+
+   The tentative RFP timeline is as follows:
+   RFP Issued                                          July 09, 2014
+   Pre-Proposal Meeting                                None
+   Deadline for questions, clarifications              July 23, 2014
+   Proposals Due                                       July 29, 2014
+   Finalist Identified                                 August 29, 2014
+   Consultant Interviews/Demos                         TBD
+   Consultant selection and contract preparation       November 2014
+   Contract awarded                                    December 2014
+   Implementation                                      March 2015
+
+5. INFORMATION TO BE SUBMITTED (to be submitted in this order only)
+
+       These instructions outline the guidelines governing the format and content of the
+       proposal and the approach to be used in its development and presentation. The
+       intent of the RFP is to encourage responses that clearly communicate the
+       Proposer’s understanding of the City’s requirements and its approach to
+       successfully provide the products and/or services on time and within budget.
+       Only that information which is essential to an understanding and evaluation of the
+       proposal should be submitted. Items not specifically and explicitly related to the
+       RFP and proposal, e.g. brochures, marketing material, etc. will not be considered
+       in the evaluation.
+
+       All proposals shall address the following items in the order listed below and shall
+       be numbered 1 through 8 in the proposal document.
+
+       5.1 Chapter 1 – Proposal Summary
+
+            This Chapter shall discuss the highlights, key features and distinguishing
+            points of the Proposal. A separate sheet shall include a list of individuals and
+            contacts for this Proposal and how to communicate with them. Limit this
+            Chapter to a total of three (3) pages including the separate sheet.
+
+       5.2 Chapter 2 – Profile on the Proposing Firm(s)
+
+            This Chapter shall include a brief description of the Prime Proposer’s firm
+            size as well as the proposed local organization structure. Include a
+
+City of Palo Alto                                  5
+           discussion of the Prime Proposer firm’s financial stability, capacity and
+           resources. Include all other firms participating in the Proposal, including
+           similar information about the firms.
+
+           Additionally, this section shall include a listing of any lawsuit or litigation and
+           the result of that action resulting form (a) any public project undertaken by
+           the Proposer or by its subcontractors where litigation is still pending or has
+           occurred within the last five years or (b) any type of project where claims or
+           settlements were paid by the consultant or its insurers within the last five
+           years.
+
+       5.3 Chapter 3 – Qualifications of the Firm
+
+           This Chapter shall include a brief description of the Proposer’s and sub-
+           Proposer’s qualifications and previous experience on similar or related
+           projects. Provide in a table format (see Sample Table, Attachment D)
+           descriptions of pertinent project experience with other public municipalities
+           and private sector that includes a summary of the work performed, the total
+           project cost, the percentage of work the firm was responsible for, the period
+           over which the work was completed, and the name, title, and phone number
+           of client’s to be contacted for references. Give a brief statement of the firm’s
+           adherence to the schedule and budget for the project.
+
+           This chapter shall include information regarding any relationships with firms
+           and/or individuals who may submit proposals in response to the RFPs being
+           developed.
+
+       5.4 Chapter 4 – Work Plan or Proposal
+
+           This Chapter shall present a well-conceived service plan. Include a full
+           description of major tasks and subtasks. This section of the proposal shall
+           establish that the Proposer understands the City’s objectives and work
+           requirements and Proposer’s ability to satisfy those objectives and
+           requirements. Succinctly describe the proposed approach for addressing the
+           required services and the firm’s ability to meet the City’s schedule, outlining
+           the approach that would be undertaken in providing the requested services.
+
+       5.5 Chapter 5 – Proposed Innovations
+
+           The Proposer may also suggest technical or procedural innovations that have
+           been used successfully on other engagements and which may provide the
+           City with better service delivery. In this Chapter discuss any ideas,
+           innovative approaches, or specific new concepts included in the Proposal
+           that would provide benefit to the City.
+
+
+       5.6 Chapter 6 – Project Staffing
+
+           This Chapter shall discuss how the Proposer would propose to staff this
+           project. Key project team members shall be identified by name, title and
+City of Palo Alto                             6
+           specific responsibilities on the project. An organizational chart for the project
+           team and resumes for key Proposer personnel shall be included. Key
+           personnel will be an important factor considered by the review committee.
+           Changes in key personnel may be cause for rejection of the proposal.
+
+       5.7 Chapter 7 – Proposal Exceptions
+
+           This Chapter shall discuss any exceptions or requested changes that
+           Proposer has to the City’s RFP conditions, requirements and sample
+           contract. If there are no exceptions noted, it is assumed the Proposer will
+           accept all conditions and requirements identified in the Attachment C –
+           “Sample Agreement for Services.” Items not excepted will not be open to
+           later negotiation.
+
+       5.8 Chapter 8 – Proposal Costs Sheet and Rates (Optional to provide in separate
+           sealed envelope)
+
+           The fee information is relevant to a determination of whether the fee is fair
+           and reasonable in light of the services to be provided. Provision of this
+           information assists the City in determining the firm’s understanding of the
+           project, and provides staff with tools to negotiate the cost, provide in a table
+           (See Table, Attachment E).
+
+           This Chapter shall include the proposed costs to provide the services
+           desired. Include any other cost and price information, plus a not-to-exceed
+           amount, that would be contained in a potential agreement with the City . The
+           hourly rates may be used for pricing the cost of additional services outlined in
+           the Scope of Work.
+
+          PLEASE NOTE: The City of Palo Alto does not pay for services before it
+          receives them. Therefore, do not propose contract terms that call for upfront
+          payments or deposits.
+
+6. CONTRACT TYPE AND METHOD OF PAYMENT
+
+   It is anticipated that the agreement resulting from this solicitation, if awarded, will be
+   a not-to-exceed budget per fixed fee form of contract. A Sample Agreement of
+   Services is provided as Attachment C. The method of payment to the successful
+   Proposer shall be on a per fixed fee basis with a maximum “not to exceed” fee as set
+   by the Proposer in the proposal or as negotiated between the Proposer and the City
+   as being the maximum cost to perform all work. This figure shall include direct costs
+   and overhead, such as, but limited to, transportation, communications, subsistence
+   and materials and any subcontracted items of work. Progress payments will be
+   based on a percentage of project completed.
+
+   Proposers shall be prepared to accept the terms and conditions of the Agreement,
+   including Insurance Requirements in Attachment F. If a Proposer desires to take
+   exception to the Agreement, Proposer shall provide the following information in
+   Chapter 7 of their submittal package. Please include the following:
+
+
+City of Palo Alto                            7
+            Proposer shall clearly identify each proposed change to the Agreement,
+             including all relevant Attachments.
+            Proposer shall furnish the reasons for, as well as specific
+             recommendations, for alternative language.
+
+   The above factors will be taken into account in evaluating proposals. Proposals that
+   take substantial exceptions to the proposed Agreement may be determined by the
+   City , at its sole discretion, to be unacceptable and no longer considered for award.
+
+   Insurance Requirements
+
+   The selected Proposer(s), at Proposer’s sole cost and expense and for the full term
+   of the Agreement or any extension thereof, shall obtain and maintain, at a minimum,
+   all of the insurance requirements outlined in Attachment F.
+
+   All policies, endorsements, certificates and/or binders shall be subject        to the
+   approval of the Risk Manager of the City of Palo Alto as to form and content.   These
+   requirements are subject to amendment or waiver if so approved in writing       by the
+   Risk Manager. The selected Proposer agrees to provide the City with a copy      of said
+   policies, certificates and/or endorsement upon award of contract.
+
+7. REVIEW AND SELECTION PROCESS (EVALUATION CRITERIA)
+
+   This RFP process is being undertaken to enable City of Palo Alto staff to identify and
+   recommend one or more finalists who have submitted a proposal to provide the
+   services that are the subject matter of this RFP process. A preliminary review of the
+   basic responsiveness of the proposal will be conducted to ensure all requirements of
+   the RFP have been met. City staff will evaluate the proposals provided based on the
+   following criteria:
+      7.1 Quality and completeness of proposal;
+      7.2 Key System Features and Functionality: Provide sample screenshots, menu
+          options and an overview of capabilities of proposed System. (Page Limit –
+          not to exceed 15 pages for the primary module being proposed and 5
+          additional pages for each additional module proposed).
+      7.3 Reporting: Provide sample reports, menu options and an overview of
+          standard System reporting capabilities (Page Limit – not to exceed 10
+          pages).
+      7.4 Quality, performance and effectiveness of the solution, goods and/or
+          services to be provided by the Proposer; Emphasizing on “Ease of Use”:
+          Efficient to use, takes less time to accomplish a particular task, easier to
+          learn, operation can be learned by observation, and is considered more
+          satisfying to use. Overall, the extent to which the System can be used by
+          City users to achieve specified goals with effectiveness, efficiency, and
+          satisfaction in a specified context of use.
+        7.5 Proposers experience, including the experience of staff to be assigned to
+            the project, the engagements of similar scope and complexity; Emphasizing
+            on “Customer Support Services”: Online, Email and or phone support
+City of Palo Alto                         8
+            availability, technical support, trouble shooting, maintenance, upgrading,
+            FAQ, automated self-support, and activities designed to enhance the level
+            of customer satisfaction for City users and vendors.
+       7.6 Cost to the City; Submit ALL proposed costs and fees associated with
+           performing, providing and completing the services requested in this RFP.
+           Include a itemized description of each type of fee. (i.e., licensed user fees,
+           initial set-up and implementation fees, training, hourly rates, trip charge,
+           monthly fixed, tax, etc.)
+       7.7 Proposer’s financial stability;
+       7.8 Proposer’s ability to implement and perform the work within the time
+           specified by the proposal. Include a detailed implementation plan of tasks
+           and time line for completion and how the implementation schedule will be
+           maintained when challenged by unforeseen issues;
+       7.9 Proposer’s prior record of performance with City or others;
+       7.10 Proposer’s ability to provide future maintenance, repairs parts and/or
+            services; and
+       7.11 Proposer’s compliance with applicable laws, regulations, policies (including
+            City Council policies), guidelines and orders governing prior or existing
+            contracts performed by the contractor.
+   Evaluation Formula: Final selection will be evaluated based on the best value to the
+   City after consideration of both the Qualifications and Technical Proposal and the
+   Economic Proposal. The maximum possible points awarded a Proposal will be 100.
+   The points will be allocated as follows:
+
+    Qualitative Factors:                                              Weights
+    Quality & Completeness                                            Medium
+    Key System Features and Functionality                             High
+    Reporting Capability Features                                     High
+    Ease of use                                                       Medium
+    System Features Customization                                     Medium
+    Experience / References / Prior Record                            High
+    Implementation                                                    Medium
+    Customer Support Services (Training, Maint., Tech Support)        High
+    Security and Accessibility                                        High
+    Quantitative Factors:
+    Cost to the City                                                  High
+
+   Evaluation Panel: An evaluation panel (“Panel”) established by the City of Palo Alto
+   will evaluate the proposals and interviews in accordance with this section Part 7 -
+   Evaluation Criteria. The Panel may consist of members from within and/or outside
+   the Authority. The Panel may short-list Proposers for this RFP in an effort to identify
+   the highest ranked Proposers, which may then be requested to interview with the
+   Panel. Proposers may be requested by the City to supplement their proposal with
+   additional information.
+
+City of Palo Alto                            9
+   The City of Palo Alto reserves the right to consider additional services related to e-
+   procurement and to award to one or more firms and either award in whole or in part
+   based on which modules and what approach the City decides upon that in its sole
+   opinion, best meets the City’s needs.
+
+   The selection committee will make a recommendation to the awarding authority.
+   The acceptance of the proposal will be evidenced by written Notice of Intent to
+   Award from the City’s Purchasing & Contract Administration Division to the
+   successful Proposer.
+
+8. ORAL INTERVIEWS
+
+   Proposers may be required to participate in an oral interview. The oral interview will
+   be a panel comprised of members of the selection committee.
+
+   Proposers invited to interview shall be required to provide an on-line demo of their
+   proposed System. At the discretion of the Proposer, Proposer may attend the
+   interview in-person or via webinar or other mutually acceptable electronic method.
+
+   Proposers may only ask questions that are intended to clarify the questions that they
+   are being asked to respond.
+
+   Each Proposer’s time slot for oral interviews will be determined randomly.
+   Proposers who are selected shall make every effort to attend. If representatives of
+   the City experience difficulty on the part of any Proposer in scheduling a time for the
+   oral interview, it may result in disqualification from further consideration.
+
+9. PUBLIC NATURE OF MATERIALS
+
+   Responses to this RFP become the exclusive property of the City of Palo Alto. At
+   such time as the Administrative Services Department recommends to form to the
+   City Manager or to the City Council, as applicable, all proposals received in
+   response to this RFP becomes a matter of public record and shall be regarded as
+   public records, with the exception of those elements in each proposal which are
+   defined by the Proposer as business or trade secrets and plainly marked as
+   “Confidential,” “Trade Secret,” or “Proprietary”. The City shall not in any way be
+   liable or responsible for the disclosure of any such proposal or portions thereof, if
+   they are not plainly marked as “Confidential,” “Trade Secret,” or “Proprietary” or if
+   disclosure is required under the Public Records Act. Any proposal which contains
+   language purporting to render all or significant portions of the proposal
+   “Confidential,” “Trade Secret,” or “Proprietary” shall be regarded as non-responsive.
+
+   Although the California Public Records Act recognizes that certain confidential trade
+   secret information may be protected from disclosure, the City of Palo Alto may not
+   accept or approve that the information that a Proposer submits is a trade secret. If a
+   request is made for information marked “Confidential,” “Trade Secret,” or
+   “Proprietary,” the City shall provide the Proposer who submitted the information with
+   reasonable notice to allow the Proposer to seek protection from disclosure by a court
+   of competent jurisdiction.
+City of Palo Alto                          10
+10. COLLUSION
+
+   By submitting a proposal, each Proposer represents and warrants that its proposal is
+   genuine and not a sham or collusive or made in the interest of or on behalf of any
+   person not named therein; that the Proposer has not directly induced or solicited any
+   other person to submit a sham proposal or any other person to refrain from
+   submitting a proposal; and that the Proposer has not in any manner sought collusion
+   to secure any improper advantage over any other person submitting a proposal.
+
+
+11. DISQUALIFICATION
+
+   Factors such as, but not limited to, any of the following may be considered just
+   cause to disqualify a proposal without further consideration:
+       11.1 Evidence of collusion, directly or indirectly, among Proposers in regard to
+       the amount, terms or conditions of this proposal;
+       11.2   Any attempt to improperly influence any member of the evaluation team;
+       11.3 Existence of any lawsuit, unresolved contractual claim or dispute between
+       Proposer and the City;
+       11.4   Evidence of incorrect information submitted as part of the proposal;
+       11.5 Evidence of Proposer’s inability to successfully complete the
+       responsibilities and obligation of the proposal; and
+       11.6 Proposer’s default under any previous agreement with the City, which
+       results in termination of the Agreement.
+
+12. NON-CONFORMING PROPOSAL
+
+   A proposal shall be prepared and submitted in accordance with the provisions of
+   these RFP instructions and specifications. Any alteration, omission, addition,
+   variance, or limitation of, from or to a proposal may be sufficient grounds for non-
+   acceptance of the proposal, at the sole discretion of the City.
+
+13. GRATUITIES
+
+   No person shall offer, give or agree to give any City employee any gratuity, discount
+   or offer of employment in connection with the award of contract by the City. No City
+   employee shall solicit, demand, accept or agree to accept from any other person a
+   gratuity, discount or offer of employment in connection with a City contract.
+
+14. FIRMS OR PERSONS NOT ELIGIBLE TO SUBMIT A PROPOSAL
+
+   In order to avoid any conflict of interest or perception of a conflict or interest,
+   Proposer(s) selected to provide professional services under this RFP will be subject
+   to the following requirements:
+
+
+
+City of Palo Alto                          11
+       14.1   The Proposer(s) who works on the procurement will be precluded from
+              submitting proposals or bids as a prime contractor or subcontractor in the
+              ultimate procurement.
+       14.2   The Proposer(s) may not have interest in any potential Proposer for the
+              ultimate procurement.
+
+
+
+                                    ~ End of Section ~
+
+
+
+
+City of Palo Alto                          12
+                                 Attachment A
+                           Proposer’s Information Form
+PROPOSER (please print):
+
+Name:          __________________________________________________________
+
+Address:       __________________________________________________________
+
+               __________________________________________________________
+
+Telephone:     _______________________ Email: ______________________________
+
+Contact person, title, email, and telephone: __________________________
+______________________________________________________________________
+______________________________________________________________________
+
+Proposer, if selected, intends to carry on the business as (check one):
+
+       Individual                                 Joint Venture
+
+       Partnership
+
+       Corporation
+
+        When incorporated? ______________
+
+        In what state?              _______________
+
+        When authorized to do business in California? _______
+
+       Other (explain):____________________________________________________
+
+ADDENDA
+To assure that all Proposers have received each addendum, check the appropriate box(es)
+below. Failure to acknowledge receipt of an addendum/addenda may be considered an
+irregularity in the Proposal:
+Addendum number(s) received:          1;       2;     3;     4;     5;     6;
+
+Or,        _____ _____No Addendum/Addenda Were Received (check and initial).
+
+2 PROPOSER’S SIGNATURE
+No proposal shall be accepted which has not been signed in ink in the appropriate space below:
+
+ By signing below, the submission of a proposal shall be deemed a
+ representation and certification by the Proposer that they have investigated
+ all aspects of the RFP, that they are aware of the applicable facts pertaining
+ to the RFP process, its procedures and requirements, and they have read
+ and understand the RFP. No request for modification of the proposal shall be
+ considered after its submission on the grounds that the Proposer was not
+ fully informed as to any fact or condition.
+City of Palo Alto                            13
+Attachment A – Proposer Information continued…
+
+
+   1.      If Proposer is INDIVIDUAL, sign here
+
+   Date:______________               _____________________________________
+                                     Proposer’s Signature
+
+                                     _____________________________________
+                                     Proposer’s typed name and title
+
+   2.      If Proposer is PARTNERSHIP or JOINT VENTURE; at least two (2) Partners shall
+           sign here:
+
+   ________________________________________________
+   Partnership or Joint Venture Name (type or print)
+
+   Date:______________               _____________________________________
+                                     Member of the Partnership or Joint Venture signature
+
+   Date:______________               _____________________________________
+                                     Member of the Partnership or Joint Venture signature
+
+   3.      If Proposer is a CORPORATION, the duly authorized officer shall sign as follows:
+
+The undersigned certify that he/she is respectively:
+
+_________________________________ and ___________________________
+Signature                                       Title
+
+Of the corporation named below; that they are designated to sign the Proposal Cost Form by
+resolution (attach a certified copy, with corporate seal, if applicable, notarized as to its
+authentiCity or Secretary’s certificate of authorization) for and on behalf of the below named
+CORPORATION, and that they are authorized to execute same for and on behalf of said
+CORPORATION.
+
+______________________________________
+Corporation Name (type or print)
+
+By:______________________________________ Date: _________________
+
+Title:__________________________________________
+
+
+
+
+City of Palo Alto                              14
+                       Attachment B – Scope of Services
+The City of Palo Alto currently utilizes SAP since 2002 when the City selected SAP as
+its preferred vendor for an Enterprise Resource Planning system with the purpose of
+integrating various business processes within the City and to pave the path for the City
+in moving towards the direction of electronic Government. In fiscal year 2003, the
+implementation of the SAP Enterprise Central Component (ECC 6.0), SAP core
+modules were completed and the SAP system has been running in the City since 2003,
+supporting Accounting, Finance, Purchasing, Project Management, Plant Maintenance,
+Budgeting, Payroll, Human Resource Management, and Service Order Management. In
+2009, the City completed a major upgrade to the SAP ERP system, which also replaced
+the former utility billing system (Banner) with the implementation of the SAP IS-U
+module, Customer Relationship Management (CRM), Utilities Customer Electronic
+Services (also known as My Utilities Account customer portal) and Business Intelligence
+systems (BI). Both business and technology needs have changed dramatically since the
+current ERP solution was selected and implemented.
+
+The City of Palo Alto is seeking to either replace or augment aspects of its existing SAP
+platform with a hosted, web-based or Software as a Service (SaaS) e-procurement and
+contract management software solution (“System”). Therefore, the City may award in
+whole all proposed modules or select in part which modules the City determines are in
+its best interest to award. E-procurement, contract management, inventory control and
+other solutions for consideration under this RFP include, but are not limited to, the listing
+in Section A-1/A-2 “Specified Services” below.
+
+Be advised the City reserves the right to modify this requested scope of services during
+contract negotiations with the Proposer selected as a result of this RFP process.
+
+Proposers are to detail how they will provide the following services, accomplish the
+listed minimum requirements and describe any additional services included as part of
+this proposal.
+
+A-1. Purpose: Provide the City with a hosted, web-based/Software-as-a-service
+     (SaaS), e-procurement software solution designed to automate one or more of the
+     City’s vendor management, purchase-to-pay, solicitation, evaluation, contract
+     management processes, inventory control, insurance and bond management,
+     emergency services and reporting.
+
+A-2. Scope of Contractor’s Responsibilities, Contractor- Provided Services, and
+     Contractor-Provided Deliverables: At the direction of and in consultation with
+     the City, Contractor shall configure, implement and provide the City with system
+     solutions that will enable City stakeholders to perform various functions related to
+     the procurement and contract management processes. Services shall include, but
+     are not limited to the following:
+
+   A. Specified Services:
+   1. Configure, implement, adequately train and support designated City staff to
+      successfully launch an integrated e-Procurement solution. Features and
+      functionality per proposed ‘module’ shall include, but not be limited to, the
+      following modules:
+City of Palo Alto                            15
+           Self-Service vendor registration module:
+                 Web-page interface with the City’s website;
+                 Vendor self-registration 24/7 and business certification
+                    management so vendors maintain status of certifications,
+                    w/automatic      renewal     notifications;   (incl.  classification,
+                    SBE/SBE/DBE certification, CA state registered business status,
+                    contractor licenses);
+                 Hard stop registration requirements - incl. OES, supplier approval;
+                 Commodity/Service category code identification w/coding
+                    independence (SIC, SITC, NAICS, UNSPSC, NIGP, Homegrown);
+                 Vendor notification and emailing;
+                 Vendor directory search, filter and profile viewing capabilities;
+                 List other available options, if any.
+
+           Requisition to Purchase Order process module:
+                Requisition, PO, BPO creation w/sourcing rules/controls;
+                Vendor directory search with filtration;
+                Purchase-To-Pay with vendor catalogs and punch-out catalogs;
+                Oversight of spend;
+                Configurable approval workflows;
+                Automated issuing PO to suppliers;
+                Warehousing and inventory module interaction;
+                Three-way matching – shipments/receipts, invoices, PO and/or
+                     invoice to PO/Contract reconciliation;
+                Suppliers automated return of PO as invoice;
+                Workflow approval process;
+                Budget visibility and alert notification of spending limits;
+                Portal/Integration capability with P-Card (Chase J.P Morgan);
+                Portal/Integration capability with City’s wired payments;
+                List other available options, if any.
+
+           Solicitation process module:
+                 Permit City to upload solicitation templates and related documents
+                      in various formats (PDF, Word, Excel);
+                 Automated supplier invitation/notification and event management of
+                      registered vendors for newly posted solicitations and participant
+                      updates;
+                 Access by industry/commodity/service vendor registration directory
+                 Permit City to manually add additional participants;
+                 Sourcing project roles for collaboration
+                 eCatalog punch-out
+                 Secured e-Bidding (eRFI/eRFP/eRFQ/eIFB), including line
+                      itemization, calculation w/Net terms;
+                 Administrative support functionality such as on-line plan holder lists,
+                      distribution of digital addenda and distribution of project results;
+                 Accept and verify bid bonds, verify receipt of addenda;
+                 Single-page/screen view for current bid management;
+
+City of Palo Alto                          16
+                       Permit registered vendors access to upload electronic submission
+                        in multiple files and document types;
+                       Provide a confirmation email for successful electronic uploads;
+                       Track and report on vendor notifications and downloads;
+                       Pre-bid meeting management and online Q&A management;
+                       Sealed bids management;
+                       Bid award functions, including both split and lump sum;
+                       e-Bidding for Public Works/Construction;
+                       List other available options, if any.
+
+           Evaluation process module:
+                 Automated bid tabulation and sealed bidding
+                 RFP event set up, permit city staff to register evaluation panel
+                    members w/review and scoring roles for structured collaboration;
+                 RFP automated evaluation functions, including sharing documents,
+                    evaluation criteria development, pre-qualifying prior to evaluation,
+                    review/score/rank matrix with/without knowledge of pricing, monitor
+                    evaluator status, including consensus scoring, automatic and
+                    custom email notifications, tracking of notes and information
+                    disseminated and collected from evaluation panel members;
+                 List other available options, if any.
+
+           Contract Management process module:
+                   Add/edit contract template drafting
+                   Track subcontractor information
+                   Upload contract document files
+                   View existing and past contract history
+                   Contract modifications tracking (change orders, amendments, etc.)
+                   Milestones and event tracking: terms, renewals, task, etc.
+                   Automated email
+                   Generate standard and Ad-Hoc Reports, analysis, graphical charts,
+                    audit trails;
+                   Contract Management Compliance/Performance Tracking
+                   Secure negotiation portal
+                   Searchable contract repository w/index variables, publicly accessible
+                   Category and Spend Analytics Management, reporting on
+                    purchasing transactions, including metrics tracking, w/Clear audit
+                    trails, archiving, and search tools for completed sourcing events;
+                   Supplier performance management
+                Integrate with City’s e-signature (‘DocuSign’) SaaS;
+                List other available options, if any.
+
+           Inventory Control module:
+                 Full control of replenishment method
+                 Simultaneously search inventory and external items
+                 Point-of-sale or automated replenish purchasing capability
+                 Vendor selection for solicitations
+                 Emergency item inventory designations
+                 Setup and maintenance of multiple warehouses capability
+City of Palo Alto                            17
+                       Evaluation of debits/credits against inventory budgets
+                       Check availability from desktop/dashboard
+                       Min/Max, FIFO/LIFO and Average Cost inventory valuation methods
+                       Barcode and/or RFID integration capability
+                       Integrated MSDS, health & safety compliance
+
+           Insurance Certificate and Bond Management module:
+                 Add/edit insurance certificates, Upload ACORD certificates in PDF;
+                 Broker/Agent and insurance administration;
+                 View existing and past ACORD certificates for history;
+                 Run reports (e.g. vendor name, insurance type, status, certificate
+                    dates, notes, contract title, contract administrator, project names);
+                 Integrated with AM Best;
+                 Automated notification settings, i.e. renewal, change, etc.;
+                 Custom email notifications;
+                 Flexible and configurable;
+                 OPTION: Portal/Integration capability with City insurance certificate
+                    management SaaS.
+
+           Emergency Services Operations module:
+                Identifies emergency suppliers shared by other public agencies
+                Additional emergency categorization (Goods, Services, Heavy
+                  Equipment…)
+                Complete emergency vendor detail form, customizable/uploadable
+                Integrated with vendor registration and edit profile forms or stand
+                  alone
+                Generate reports by pre-defined categories, sub-categories, and
+                  additional descriptions
+                Schedule automatic vendor notification emails to maintain up-to-
+                  date emergency records (monthly, quarterly)
+                Scheduled emergency vendor summary reports
+                Unlimited user access across the agency
+
+           Standard Reporting capabilities module:
+                 Solicitation/Project Outreach Reports;
+                 Activity & Management Reports;
+                 Executive-level dashboard reporting, include iOS-native type
+                   dashboard reporting;
+                 Vendor Reports and Searches;
+                 Configurable inventory and operations reporting;
+                 List other available options, if any.
+
+           Other available modules, list other available options, if any.
+
+           Ensure security of Web-based applications data:
+                 Maintain the privacy and confidentially of vendor records;
+                 Ability to control / restrict access by individuals;
+                 Protection against unauthorized web-based application intrusion;
+City of Palo Alto                           18
+                       Data back-up and disaster recovery;
+                       Web-based application availability rate equal or greater than 98%;
+                       support the City’s Open Data initiative;
+                       Please also refer to Attachment G “IT Requirements Document”
+                        and “SaaS Security & Privacy Assessment Questionnaire”.
+
+           City access to web-based application:
+                  City website Portal capability;
+                  24-hour access to application;
+                  Integration services to provide real-time data connection and error
+                    reporting with SAP modules - if not replacing SAP modules;
+                  Mobile access, with preference for full-featured iOS app.;
+                  List other available options, if any.
+
+   2. Training: at no additional cost to the City, Contractor shall provide online self-
+      training/instruction and/or on-site training courses on its System for City users.
+      Please describe the training course/class curriculums, and if applicable - on-site
+      schedules and duration.
+
+   3. On-call (online/toll free) Technical Support: at no additional cost to the City and
+      vendors, Contractor shall:
+      a. Assist and resolve problems with vendors and City users; and
+      b. Remedy any hardware or software problems; and
+      c. Other technical support available, if any.
+
+   B. Additional Services: If and when City requests Contractor to provide services
+        in addition to those specified above, Contractor shall develop a work plan
+        detailing the specific tasks to be completed and providing a detailed not-to-
+        exceed budget for performing such tasks. Contractor shall not perform any
+        Additional Services until City has issued a written notice-to-proceed with the
+        execution of the work plan. Contractor will not be authorized to perform or
+        invoice City for any work not specifically authorized in the City’s notice-to-
+        proceed.
+
+A-3. Non-financial Obligations: City shall provide Contractor with:
+     A. City Logo Artwork, and
+     B. City “user” names.
+
+
+                                END OF SCOPE OF SERVICES
+
+
+
+
+City of Palo Alto                            19
+                         ATTACHMENT C - SAMPLE CONTRACT
+                      CITY OF PALO ALTO CONTRACT NO. XXXXXX
+
+                    AGREEMENT BETWEEN THE CITY OF PALO ALTO AND
+
+                             FOR PROFESSIONAL SERVICES
+
+
+      This Agreement is entered into on this    day of     ,      , (“Agreement”) by
+and between the CITY OF PALO ALTO, a California chartered municipal corporation
+(“CITY”), and      ,a       , located at     ("CONSULTANT").
+
+                                          RECITALS
+
+The following recitals are a substantive portion of this Agreement.
+
+A.     CITY intends to         (“Project”) and desires to engage a consultant to        in
+connection with the Project (“Services”).
+
+B.      CONSULTANT has represented that it has the necessary professional expertise,
+qualifications, and capability, and all required licenses and/or certifications to provide the
+Services.
+
+C.     CITY in reliance on these representations desires to engage CONSULTANT to provide
+the Services as more fully described in Exhibit “A”, attached to and made a part of this
+Agreement.
+
+        NOW, THEREFORE, in consideration of the recitals, covenants, terms, and conditions,
+in this Agreement, the parties agree:
+
+
+                                         AGREEMENT
+
+SECTION 1. SCOPE OF SERVICES. CONSULTANT shall perform the Services described in
+Exhibit “A” in accordance with the terms and conditions contained in this Agreement. The
+performance of all Services shall be to the reasonable satisfaction of CITY.
+
+    Optional On-Call Provision (This provision only applies if checked and only applies to on-
+call agreements.)
+Services will be authorized by the City, as needed, with a Task Order assigned and approved by
+the City’s Project Manager. Each Task Order shall be in substantially the same form as Exhibit
+A-1. Each Task Order shall designate a City Project Manager and shall contain a specific scope
+of work, a specific schedule of performance and a specific compensation amount. The total price
+of all Task Orders issued under this Agreement shall not exceed the amount of Compensation set
+forth in Section 4 of this Agreement. CONSULTANT shall only be compensated for work
+
+                                                                                   Professional Services
+City of Palo Alto                                                                  Rev. Feb. 2014
+                                                1
+performed under an authorized Task Order and the City may elect, but is not required, to
+authorize work up to the maximum compensation amount set forth in Section 4.
+
+SECTION 2. TERM.
+The term of this Agreement shall be from the date of its full execution through                unless
+terminated earlier pursuant to Section 19 of this Agreement.
+
+OR
+
+The term of this Agreement shall be from the date of its full execution through completion of the
+services in accordance with the Schedule of Performance attached as Exhibit “B” unless
+terminated earlier pursuant to Section 19 of this Agreement.
+
+SECTION 3. SCHEDULE OF PERFORMANCE. Time is of the essence in the performance
+of Services under this Agreement. CONSULTANT shall complete the Services within the term
+of this Agreement and in accordance with the schedule set forth in Exhibit “B”, attached to and
+made a part of this Agreement. Any Services for which times for performance are not specified
+in this Agreement shall be commenced and completed by CONSULTANT in a reasonably
+prompt and timely manner based upon the circumstances and direction communicated to the
+CONSULTANT. CITY’s agreement to extend the term or the schedule for performance shall
+not preclude recovery of damages for delay if the extension is required due to the fault of
+CONSULTANT.
+
+SECTION 4. NOT TO EXCEED COMPENSATION. The compensation to be paid to
+CONSULTANT for performance of the Services described in Exhibit “A”, including both
+payment for professional services and reimbursable expenses, shall not exceed           Dollars
+($      ). In the event Additional Services are authorized, the total compensation for Services,
+Additional Services and reimbursable expenses shall not exceed               Dollars ($       ).
+The applicable rates and schedule of payment are set out in Exhibit “C-1”, entitled “HOURLY
+RATE SCHEDULE,” which is attached to and made a part of this Agreement.
+
+Additional Services, if any, shall be authorized in accordance with and subject to the provisions
+of Exhibit “C”. CONSULTANT shall not receive any compensation for Additional Services
+performed without the prior written authorization of CITY. Additional Services shall mean any
+work that is determined by CITY to be necessary for the proper completion of the Project, but
+which is not included within the Scope of Services described in Exhibit “A”.
+
+SECTION 5. INVOICES. In order to request payment, CONSULTANT shall submit monthly
+invoices to the CITY describing the services performed and the applicable charges (including an
+identification of personnel who performed the services, hours worked, hourly rates, and
+reimbursable expenses), based upon the CONSULTANT’s billing rates (set forth in Exhibit “C-
+1”). If applicable, the invoice shall also describe the percentage of completion of each task. The
+information in CONSULTANT’s payment requests shall be subject to verification by CITY.
+CONSULTANT shall send all invoices to the City’s project manager at the address specified in
+Section 13 below. The City will generally process and pay invoices within thirty (30) days of
+receipt.
+
+                                                                                    Professional Services
+                                                                                          Rev. Feb. 2014
+                                                2
+SECTION 6. QUALIFICATIONS/STANDARD OF CARE. All of the Services shall be performed by
+CONSULTANT or under CONSULTANT’s supervision. CONSULTANT represents that it possesses the
+professional and technical personnel necessary to perform the Services required by this Agreement and that the
+personnel have sufficient skill and experience to perform the Services assigned to them. CONSULTANT
+represents that it, its employees and subconsultants, if permitted, have and shall maintain during the term of this
+Agreement all licenses, permits, qualifications, insurance and approvals of whatever nature that are legally
+required to perform the Services.
+
+All of the services to be furnished by CONSULTANT under this agreement shall meet the professional standard
+and quality that prevail among professionals in the same discipline and of similar knowledge and skill engaged
+in related work throughout California under the same or similar circumstances.
+
+SECTION 7. COMPLIANCE WITH LAWS. CONSULTANT shall keep itself informed of and in
+compliance with all federal, state and local laws, ordinances, regulations, and orders that may affect in any
+manner the Project or the performance of the Services or those engaged to perform Services under this
+Agreement. CONSULTANT shall procure all permits and licenses, pay all charges and fees, and give all
+notices required by law in the performance of the Services.
+
+SECTION 8. ERRORS/OMISSIONS. CONSULTANT shall correct, at no cost to CITY, any and all errors,
+omissions, or ambiguities in the work product submitted to CITY, provided CITY gives notice to
+CONSULTANT. If CONSULTANT has prepared plans and specifications or other design documents to
+construct the Project, CONSULTANT shall be obligated to correct any and all errors, omissions or ambiguities
+discovered prior to and during the course of construction of the Project. This obligation shall survive
+termination of the Agreement.
+
+SECTION 9. COST ESTIMATES. If this Agreement pertains to the design of a public works project,
+CONSULTANT shall submit estimates of probable construction costs at each phase of design submittal. If the
+total estimated construction cost at any submittal exceeds ten percent (10%) of the CITY’s stated construction
+budget, CONSULTANT shall make recommendations to the CITY for aligning the PROJECT design with the
+budget, incorporate CITY approved recommendations, and revise the design to meet the Project budget, at no
+additional cost to CITY.
+
+SECTION 10. INDEPENDENT CONTRACTOR. It is understood and agreed that in performing the
+Services under this Agreement CONSULTANT, and any person employed by or contracted with
+CONSULTANT to furnish labor and/or materials under this Agreement, shall act as and be an independent
+contractor and not an agent or employee of the CITY.
+
+
+SECTION 11. ASSIGNMENT. The parties agree that the expertise and experience of CONSULTANT are
+material considerations for this Agreement. CONSULTANT shall not assign or transfer any interest in this
+Agreement nor the performance of any of CONSULTANT’s obligations hereunder without the prior written
+consent of the city manager. Consent to one assignment will not be deemed to be consent to any subsequent
+assignment. Any assignment made without the approval of the city manager will be void.
+
+
+
+
+                                                                                                   Professional Services
+                                                                                                   Rev. Feb. 2014
+SECTION 12. SUBCONTRACTING.
+
+  Option A: No Subcontractor: CONSULTANT shall not subcontract any portion of the work to be
+performed under this Agreement without the prior written authorization of the city manager or designee.
+
+  Option B: Subcontracts Authorized: Notwithstanding Section 11 above, CITY agrees that subconsultants
+may be used to complete the Services. The subconsultants authorized by CITY to perform work on this Project
+are:
+       CONSULTANT shall be responsible for directing the work of any subconsultants and for any
+compensation due to subconsultants. CITY assumes no responsibility whatsoever concerning compensation.
+CONSULTANT shall be fully responsible to CITY for all acts and omissions of a subconsultant.
+CONSULTANT shall change or add subconsultants only with the prior approval of the city manager or his
+designee.
+
+SECTION 13. PROJECT MANAGEMENT.                       CONSULTANT will assign               as the          to have
+supervisory responsibility for the performance, progress, and execution of the Services and          as the project
+       to represent CONSULTANT during the day-to-day work on the Project. If circumstances cause the
+substitution of the project director, project coordinator, or any other key personnel for any reason, the
+appointment of a substitute project director and the assignment of any key new or replacement personnel will be
+subject to the prior written approval of the CITY’s project manager. CONSULTANT, at CITY’s request, shall
+promptly remove personnel who CITY finds do not perform the Services in an acceptable manner, are
+uncooperative, or present a threat to the adequate or timely completion of the Project or a threat to the safety of
+persons or property.
+
+The City’s project manager is          ,       Department,       Division,        Palo Alto, CA 94303,
+Telephone:      . The project manager will be CONSULTANT’s point of contact with respect to performance,
+progress and execution of the Services. The CITY may designate an alternate project manager from time to
+time.
+
+SECTION 14. OWNERSHIP OF MATERIALS. Upon delivery, all work product, including without
+limitation, all writings, drawings, plans, reports, specifications, calculations, documents, other materials and
+copyright interests developed under this Agreement shall be and remain the exclusive property of CITY without
+restriction or limitation upon their use. CONSULTANT agrees that all copyrights which arise from creation of
+the work pursuant to this Agreement shall be vested in CITY, and CONSULTANT waives and relinquishes all
+claims to copyright or other intellectual property rights in favor of the CITY. Neither CONSULTANT nor its
+contractors, if any, shall make any of such materials available to any individual or organization without the
+prior written approval of the City Manager or designee. CONSULTANT makes no representation of the
+suitability of the work product for use in or application to circumstances not contemplated by the scope of work.
+
+SECTION 15. AUDITS. CONSULTANT will permit CITY to audit, at any reasonable time during the term
+of this Agreement and for three (3) years thereafter, CONSULTANT’s records pertaining to matters covered by
+this Agreement. CONSULTANT further agrees to maintain and retain such records for at least three (3) years
+after the expiration or earlier termination of this Agreement.
+
+
+
+                                                                                                   Professional Services
+                                                                                                   Rev. Feb. 2014
+SECTION 16. INDEMNITY.
+
+   [Option A applies to the following design professionals pursuant to Civil Code Section 2782.8:
+architects; landscape architects; registered professional engineers and licensed professional land
+surveyors.] 16.1. To the fullest extent permitted by law, CONSULTANT shall protect, indemnify, defend and
+hold harmless CITY, its Council members, officers, employees and agents (each an “Indemnified Party”) from
+and against any and all demands, claims, or liability of any nature, including death or injury to any person,
+property damage or any other loss, including all costs and expenses of whatever nature including attorneys fees,
+experts fees, court costs and disbursements (“Claims”) that arise out of, pertain to, or relate to the negligence,
+recklessness, or willful misconduct of the CONSULTANT, its officers, employees, agents or contractors under
+this Agreement, regardless of whether or not it is caused in part by an Indemnified Party.
+
+   [Option B applies to any consultant who does not qualify as a design professional as defined in Civil
+Code Section 2782.8.] 16.1. To the fullest extent permitted by law, CONSULTANT shall protect, indemnify,
+defend and hold harmless CITY, its Council members, officers, employees and agents (each an “Indemnified
+Party”) from and against any and all demands, claims, or liability of any nature, including death or injury to any
+person, property damage or any other loss, including all costs and expenses of whatever nature including
+attorneys fees, experts fees, court costs and disbursements (“Claims”) resulting from, arising out of or in any
+manner related to performance or nonperformance by CONSULTANT, its officers, employees, agents or
+contractors under this Agreement, regardless of whether or not it is caused in part by an Indemnified Party.
+
+              16.2. Notwithstanding the above, nothing in this Section 16 shall be construed to require
+CONSULTANT to indemnify an Indemnified Party from Claims arising from the active negligence, sole
+negligence or willful misconduct of an Indemnified Party.
+
+               16.3. The acceptance of CONSULTANT’s services and duties by CITY shall not operate as a
+waiver of the right of indemnification. The provisions of this Section 16 shall survive the expiration or early
+termination of this Agreement.
+
+SECTION 17. WAIVERS. The waiver by either party of any breach or violation of any covenant, term,
+condition or provision of this Agreement, or of the provisions of any ordinance or law, will not be deemed to be
+a waiver of any other term, covenant, condition, provisions, ordinance or law, or of any subsequent breach or
+violation of the same or of any other term, covenant, condition, provision, ordinance or law.
+
+SECTION 18. INSURANCE.
+
+                18.1. CONSULTANT, at its sole cost and expense, shall obtain and maintain, in full force and
+effect during the term of this Agreement, the insurance coverage described in Exhibit "D". CONSULTANT and
+its contractors, if any, shall obtain a policy endorsement naming CITY as an additional insured under any
+general liability or automobile policy or policies.
+
+                18.2. All insurance coverage required hereunder shall be provided through carriers with AM
+Best’s Key Rating Guide ratings of A-:VII or higher which are licensed or authorized to transact insurance
+business in the State of California. Any and all contractors of CONSULTANT retained to perform Services
+under this Agreement will obtain and maintain, in full force and effect during the term of this Agreement,
+identical insurance coverage, naming CITY as an additional insured under such policies as required above.
+
+                                                                                                  Professional Services
+                                                                                                  Rev. Feb. 2014
+                18.3. Certificates evidencing such insurance shall be filed with CITY concurrently with the
+execution of this Agreement. The certificates will be subject to the approval of CITY’s Risk Manager and will
+contain an endorsement stating that the insurance is primary coverage and will not be canceled, or materially
+reduced in coverage or limits, by the insurer except after filing with the Purchasing Manager thirty (30) days'
+prior written notice of the cancellation or modification. If the insurer cancels or modifies the insurance and
+provides less than thirty (30) days’ notice to CONSULTANT, CONSULTANT shall provide the Purchasing
+Manager written notice of the cancellation or modification within two (2) business days of the
+CONSULTANT’s receipt of such notice. CONSULTANT shall be responsible for ensuring that current
+certificates evidencing the insurance are provided to CITY’s Purchasing Manager during the entire term of this
+Agreement.
+
+              18.4. The procuring of such required policy or policies of insurance will not be construed to
+limit CONSULTANT's liability hereunder nor to fulfill the indemnification provisions of this Agreement.
+Notwithstanding the policy or policies of insurance, CONSULTANT will be obligated for the full and total
+amount of any damage, injury, or loss caused by or directly arising as a result of the Services performed under
+this Agreement, including such damage, injury, or loss arising after the Agreement is terminated or the term has
+expired.
+
+SECTION 19. TERMINATION OR SUSPENSION OF AGREEMENT OR SERVICES.
+
+               19.1. The City Manager may suspend the performance of the Services, in whole or in part, or
+terminate this Agreement, with or without cause, by giving ten (10) days prior written notice thereof to
+CONSULTANT. Upon receipt of such notice, CONSULTANT will immediately discontinue its performance
+of the Services.
+
+                19.2. CONSULTANT may terminate this Agreement or suspend its performance of the
+Services by giving thirty (30) days prior written notice thereof to CITY, but only in the event of a substantial
+failure of performance by CITY.
+
+
+                19.3. Upon such suspension or termination, CONSULTANT shall deliver to the City Manager
+immediately any and all copies of studies, sketches, drawings, computations, and other data, whether or not
+completed, prepared by CONSULTANT or its contractors, if any, or given to CONSULTANT or its
+contractors, if any, in connection with this Agreement. Such materials will become the property of CITY.
+
+                19.4. Upon such suspension or termination by CITY, CONSULTANT will be paid for the
+Services rendered or materials delivered to CITY in accordance with the scope of services on or before the
+effective date (i.e., 10 days after giving notice) of suspension or termination; provided, however, if this
+Agreement is suspended or terminated on account of a default by CONSULTANT, CITY will be obligated to
+compensate CONSULTANT only for that portion of CONSULTANT’s services which are of direct and
+immediate benefit to CITY as such determination may be made by the City Manager acting in the reasonable
+exercise of his/her discretion. The following Sections will survive any expiration or termination of this
+Agreement: 14, 15, 16, 19.4, 20, and 25.
+
+
+
+                                                                                                 Professional Services
+                                                                                                 Rev. Feb. 2014
+               19.5. No payment, partial payment, acceptance, or partial acceptance by CITY will operate as a
+waiver on the part of CITY of any of its rights under this Agreement.
+
+
+SECTION 20. NOTICES.
+
+               All notices hereunder will be given in writing and mailed, postage prepaid, by certified mail,
+addressed as follows:
+
+               To CITY:               Office of the City Clerk
+                                      City of Palo Alto
+                                      Post Office Box 10250
+                                      Palo Alto, CA 94303
+
+               With a copy to the Purchasing Manager
+
+               To CONSULTANT: Attention of the project director
+                              at the address of CONSULTANT recited above
+
+
+SECTION 21. CONFLICT OF INTEREST.
+
+               21.1. In accepting this Agreement, CONSULTANT covenants that it presently has no interest,
+and will not acquire any interest, direct or indirect, financial or otherwise, which would conflict in any manner
+or degree with the performance of the Services.
+
+               21.2. CONSULTANT further covenants that, in the performance of this Agreement, it will not
+employ subconsultants, contractors or persons having such an interest. CONSULTANT certifies that no person
+who has or will have any financial interest under this Agreement is an officer or employee of CITY; this
+provision will be interpreted in accordance with the applicable provisions of the Palo Alto Municipal Code and
+the Government Code of the State of California.
+
+                21.3. If the Project Manager determines that CONSULTANT is a “Consultant” as that term is
+defined by the Regulations of the Fair Political Practices Commission, CONSULTANT shall be required and
+agrees to file the appropriate financial disclosure documents required by the Palo Alto Municipal Code and the
+Political Reform Act.
+
+SECTION 22. NONDISCRIMINATION. As set forth in Palo Alto Municipal Code section 2.30.510,
+CONSULTANT certifies that in the performance of this Agreement, it shall not discriminate in the employment
+of any person because of the race, skin color, gender, age, religion, disability, national origin, ancestry, sexual
+orientation, housing status, marital status, familial status, weight or height of such person. CONSULTANT
+acknowledges that it has read and understands the provisions of Section 2.30.510 of the Palo Alto Municipal
+Code relating to Nondiscrimination Requirements and the penalties for violation thereof, and agrees to meet all
+requirements of Section 2.30.510 pertaining to nondiscrimination in employment.
+
+
+
+                                                                                                   Professional Services
+                                                                                                   Rev. Feb. 2014
+SECTION 23.          ENVIRONMENTALLY PREFERRED PURCHASING AND ZERO WASTE
+REQUIREMENTS. CONSULTANT shall comply with the City’s Environmentally Preferred Purchasing
+policies which are available at the City’s Purchasing Department, incorporated by reference and may be
+amended from time to time. CONSULTANT shall comply with waste reduction, reuse, recycling and disposal
+requirements of the City’s Zero Waste Program. Zero Waste best practices include first minimizing and
+reducing waste; second, reusing waste and third, recycling or composting waste. In particular, Consultant shall
+comply with the following zero waste requirements:
+           All printed materials provided by Consultant to City generated from a personal computer and
+              printer including but not limited to, proposals, quotes, invoices, reports, and public education
+              materials, shall be double-sided and printed on a minimum of 30% or greater post-consumer
+              content paper, unless otherwise approved by the City’s Project Manager. Any submitted
+              materials printed by a professional printing company shall be a minimum of 30% or greater post-
+              consumer material and printed with vegetable based inks.
+           Goods purchased by Consultant on behalf of the City shall be purchased in accordance with the
+              City’s Environmental Purchasing Policy including but not limited to Extended Producer
+              Responsibility requirements for products and packaging. A copy of this policy is on file at the
+              Purchasing Office.
+           Reusable/returnable pallets shall be taken back by the Consultant, at no additional cost to the
+              City, for reuse or recycling. Consultant shall provide documentation from the facility accepting
+              the pallets to verify that pallets are not being disposed.
+
+SECTION 24. NON-APPROPRIATION
+                24.1. This Agreement is subject to the fiscal provisions of the Charter of the City of Palo Alto
+and the Palo Alto Municipal Code. This Agreement will terminate without any penalty (a) at the end of any
+fiscal year in the event that funds are not appropriated for the following fiscal year, or (b) at any time within a
+fiscal year in the event that funds are only appropriated for a portion of the fiscal year and funds for this
+Agreement are no longer available. This section shall take precedence in the event of a conflict with any other
+covenant, term, condition, or provision of this Agreement.
+SECTION 25. MISCELLANEOUS PROVISIONS.
+
+               25.1.   This Agreement will be governed by the laws of the State of California.
+
+               25.2. In the event that an action is brought, the parties agree that trial of such action will be
+vested exclusively in the state courts of California in the County of Santa Clara, State of California.
+
+                25.3. The prevailing party in any action brought to enforce the provisions of this Agreement
+may recover its reasonable costs and attorneys' fees expended in connection with that action. The prevailing
+party shall be entitled to recover an amount equal to the fair market value of legal services provided by
+attorneys employed by it as well as any attorneys’ fees paid to third parties.
+
+               25.4. This document represents the entire and integrated agreement between the parties and
+supersedes all prior negotiations, representations, and contracts, either written or oral. This document may be
+amended only by a written instrument, which is signed by the parties.
+
+                25.5. The covenants, terms, conditions and provisions of this Agreement will apply to, and will
+bind, the heirs, successors, executors, administrators, assignees, and consultants of the parties.
+                                                                                                   Professional Services
+                                                                                                   Rev. Feb. 2014
+             25.6. If a court of competent jurisdiction finds or rules that any provision of this Agreement or
+any amendment thereto is void or unenforceable, the unaffected provisions of this Agreement and any
+amendments thereto will remain in full force and effect.
+
+               25.7. All exhibits referred to in this Agreement and any addenda, appendices, attachments, and
+schedules to this Agreement which, from time to time, may be referred to in any duly executed amendment
+hereto are by such reference incorporated in this Agreement and will be deemed to be a part of this Agreement.
+
+                25.8 If, pursuant to this contract with CONSULTANT, City shares with CONSULTANT
+personal information as defined in California Civil Code section 1798.81.5(d) about a California resident
+(“Personal Information”), CONSULTANT shall maintain reasonable and appropriate security procedures to
+protect that Personal Information, and shall inform City immediately upon learning that there has been a breach
+in the security of the system or in the security of the Personal Information. CONSULTANT shall not use
+Personal Information for direct marketing purposes without City’s express written consent.
+
+               25.9   All unchecked boxes do not apply to this agreement.
+
+               25.10 The individuals executing this Agreement represent and warrant that they have the legal
+capacity and authority to do so on behalf of their respective legal entities.
+
+                25.11 This Agreement may be signed in multiple counterparts, which shall, when executed by all
+the parties, constitute a single binding agreement
+
+               IN WITNESS WHEREOF, the parties hereto have by their duly authorized representatives
+executed this Agreement on the date first above written.
+
+ CITY OF PALO ALTO                                           CONSULTANT
+
+ ____________________________
+ City Manager
+                                                             By:___________________________
+ APPROVED AS TO FORM:
+
+ __________________________                                  Name:_________________________
+ Senior Asst. City Attorney
+
+                                                             Title:________________________
+
+Attachments:
+           EXHIBIT “A”:   SCOPE OF WORK
+ EXHIBIT “A-1”  ON CALL TASK ORDER (Optional)
+ EXHIBIT “B”:   SCHEDULE OF PERFORMANCE
+ EXHIBIT “C”:   COMPENSATION
+ EXHIBIT “C-1”: SCHEDULE OF RATES
+ EXHIBIT “D”:   INSURANCE REQUIREMENTS
+
+                                                                                                Professional Services
+                                                                                                Rev. Feb. 2014
+                                               Attachment D
+                                          SAMPLE TABLE FORMAT
+                             QUALIFICATIONS OF FIRM RELATIVE TO CITY ’S NEEDS
+
+Project Name        Client               Description of work   Total Project Cost   Percentage of work    Period work was   Client contact
+                                         performed                                  firm as responsible   completed         information*
+                                                                                    for
+
+
+
+
+Did your firm meet the project schedule (Circle one) : Yes No
+
+
+Give a brief statement of the firm’s adherence to the schedule and budget for the project:
+
+
+
+
+Did your firm meet the project schedule (Circle one) : Yes No
+
+
+Give a brief statement of the firm’s adherence to the schedule and budget for the project:
+
+
+
+
+Did your firm meet the project schedule (Circle one) : Yes No
+
+
+Give a brief statement of the firm’s adherence to the schedule and budget for the project:
+
+
+
+
+Did your firm meet the project schedule (Circle one) : Yes No
+
+
+Give a brief statement of the firm’s adherence to the schedule and budget for the project:
+
+
+
+
+*Include name, title and phone number.
+
+
+
+                                                                                                                            Professional Services
+                                                                                                                            Rev. Feb. 2014
+                                  Attachment E - SAMPLE COST PROPOSAL FORMAT – RFP ______
+    (The City is looking for a submittal of cost content that should match cost for scope of services required. The below example is a “Module” format,
+    but a “Fee Schedule” or other format may be more appropriate.)
+    Entity Type Entity
+
+                Description                 No. Of        Annual           Annual        Implementation     Integration            Extended          Renewal
+                                          User Seats    Subscription     Maintenance        1 x Cost         1x Costs                 Rate           Options
+                                                          Cost pp.          Cost                                              (seats x subcr cost)    +-%
+
+
+Module1 ___________________               11 to 30     $                $                $                 $                  $                           %
+
+
+Module 2 __________________               11 to 30     $                $                $                 $                  $                           %
+
+
+Module 3 __________________               11 to 30     $                $                $                 $                  $                           %
+
+
+Module 4 __________________               11 to 30     $                $                $                 $                  $                           %
+
+
+Module 5 __________________               11 to 30     $                $                $                 $                  $                           %
+
+
+Module 6 __________________               11 to 30     $                $                $                 $                  $                           %
+
+Module 7 __________________               11 to 30     $                $                $                 $                  $                           %
+
+Module 8 __________________               11 to 30     $                $                $                 $                  $                           %
+
+Module 9 __________________               11 to 30     $                $                $                 $                  $                           %
+
+TOTAL NOT TO EXCEED
+(All Modules)                                          $                $                $                 $                  $
+
+    1.800.990.9339
+                                                                                                               Professional Services
+                                                                                                               Rev. Feb. 2014
+                                        Attachment E
+                           SAMPLE COST PROPOSAL FORMAT – RFP ______
+
+
+                          Rate Card
+Service Proposed Hourly
+
+                                                           Proposed
+                                       Service              Hourly
+                                                             Rate
+
+                          Project Manager                  $
+
+
+                          Junior Programmer                $
+
+
+                          Web Developer                    $
+
+
+                          System Administrator             $
+
+
+                          Database Administrator           $
+
+
+                          Consulting/Assessment Services   $
+
+
+
+
+Rev. 11/07                                       2 of 2
+                                                  ATTAHCMENT F
+                                             INSURANCE REQUIREMENTS
+CONTRACTORS TO THE CITY OF PALO ALTO (CITY ), AT THEIR SOLE EXPENSE, SHALL FOR THE TERM OF THE CONTRACT
+OBTAIN AND MAINTAIN INSURANCE IN THE AMOUNTS FOR THE COVERAGE SPECIFIED BELOW, AFFORDED BY
+COMPANIES WITH AM BEST’S KEY RATING OF A-:VII, OR HIGHER, LICENSED OR AUTHORIZED TO TRANSACT INSURANCE
+BUSINESS IN THE STATE OF CALIFORNIA. PLEASE EMAIL CERTIFICATES TO: insurancecerts@City ofpaloalto.org
+
+AWARD IS CONTINGENT ON COMPLIANCE WITH CITY ’S INSURANCE REQUIREMENTS, AS SPECIFIED, BELOW:
+
+
+                                                                                              MINIMUM LIMITS
+     REQUIRED           TYPE OF COVERAGE                           REQUIREMENT
+                                                                                          EACH
+                                                                                                         AGGREGATE
+                                                                                       OCCURRENCE
+     YES          WORKER’S COMPENSATION             STATUTORY
+     YES          EMPLOYER’S LIABILITY              STATUTORY
+                                                    BODILY INJURY                          $1,000,000          $1,000,000
+     YES          GENERAL LIABILITY, INCLUDING
+                  PERSONAL INJURY, BROAD FORM       PROPERTY DAMAGE                        $1,000,000          $1,000,000
+                  PROPERTY DAMAGE BLANKET
+                  CONTRACTUAL, AND FIRE LEGAL       BODILY INJURY & PROPERTY DAMAGE        $1,000,000          $1,000,000
+                  LIABILITY                         COMBINED.
+
+                                                    BODILY INJURY                          $1,000,000          $1,000,000
+                                                    -  EACH PERSON                         $1,000,000          $1,000,000
+                                                    -  EACH OCCURRENCE                     $1,000,000          $1,000,000
+     YES          AUTOMOBILE LIABILITY, INCLUDING
+                  ALL OWNED, HIRED, NON-OWNED       PROPERTY DAMAGE                        $1,000,000          $1,000,000
+
+                                                    BODILY INJURY AND PROPERTY             $1,000,000          $1,000,000
+                                                    DAMAGE, COMBINED
+                  PROFESSIONAL LIABILITY,
+                  INCLUDING, ERRORS AND
+                  OMISSIONS, MALPRACTICE (WHEN
+                  APPLICABLE), AND NEGLIGENT
+                  PERFORMANCE                       ALL DAMAGES                                  $1,000,000
+
+     YES             THE CITY OF PALO ALTO IS TO BE NAMED AS AN ADDITIONAL INSURED: CONTRACTOR, AT ITS SOLE COST AND
+                    EXPENSE, SHALL OBTAIN AND MAINTAIN, IN FULL FORCE AND EFFECT THROUGHOUT THE ENTIRE TERM OF ANY
+                  RESULTANT AGREEMENT, THE INSURANCE COVERAGE HEREIN DESCRIBED, INSURING NOT ONLY CONTRACTOR AND
+                    ITS SUBCONSULTANTS, IF ANY, BUT ALSO, WITH THE EXCEPTION OF WORKERS’ COMPENSATION, EMPLOYER’S
+                     LIABILITY AND PROFESSIONAL INSURANCE, NAMING AS ADDITIONAL INSUREDS CITY , ITS COUNCIL MEMBERS,
+                                                     OFFICERS, AGENTS, AND EMPLOYEES.
+
+
+
+I.           INSURANCE COVERAGE MUST INCLUDE:
+
+             A.     A PROVISION FOR A WRITTEN THIRTY DAY ADVANCE NOTICE TO CITY OF CHANGE IN COVERAGE OR OF
+                    COVERAGE CANCELLATION; AND
+
+             B.     A CONTRACTUAL LIABILITY ENDORSEMENT PROVIDING INSURANCE COVERAGE FOR CONTRACTOR’S
+                    AGREEMENT TO INDEMNIFY CITY .
+
+             C.     DEDUCTIBLE AMOUNTS IN EXCESS OF $5,000 REQUIRE CITY ’S PRIOR APPROVAL.
+
+II.          CONTACTOR MUST SUBMIT CERTIFICATES(S) OF INSURANCE EVIDENCING REQUIRED COVERAGE.
+
+III.         ENDORSEMENT PROVISIONS, WITH RESPECT TO THE INSURANCE AFFORDED TO “ADDITIONAL INSUREDS”
+
+             A.     PRIMARY COVERAGE
+
+                    WITH RESPECT TO CLAIMS ARISING OUT OF THE OPERATIONS OF THE NAMED INSURED, INSURANCE AS
+                    AFFORDED BY THIS POLICY IS PRIMARY AND IS NOT ADDITIONAL TO OR CONTRIBUTING WITH ANY
+                    OTHER INSURANCE CARRIED BY OR FOR THE BENEFIT OF THE ADDITIONAL INSUREDS.
+
+
+
+Rev. 11/07                                                2 of 2
+             B.    CROSS LIABILITY
+
+                   THE NAMING OF MORE THAN ONE PERSON, FIRM, OR CORPORATION AS INSUREDS UNDER THE POLICY
+                   SHALL NOT, FOR THAT REASON ALONE, EXTINGUISH ANY RIGHTS OF THE INSURED AGAINST ANOTHER,
+                   BUT THIS ENDORSEMENT, AND THE NAMING OF MULTIPLE INSUREDS, SHALL NOT INCREASE THE TOTAL
+                   LIABILITY OF THE COMPANY UNDER THIS POLICY.
+
+             C.    NOTICE OF CANCELLATION
+
+                   1.     IF THE POLICY IS CANCELED BEFORE ITS EXPIRATION DATE FOR ANY REASON OTHER THAN THE
+                          NON-PAYMENT OF PREMIUM, THE ISSUING COMPANY SHALL PROVIDE CITY AT LEAST A THIRTY
+                          (30) DAY WRITTEN NOTICE BEFORE THE EFFECTIVE DATE OF CANCELLATION.
+
+                   2.     IF THE POLICY IS CANCELED BEFORE ITS EXPIRATION DATE FOR THE NON-PAYMENT OF
+                          PREMIUM, THE ISSUING COMPANY SHALL PROVIDE CITY AT LEAST A TEN (10) DAY WRITTEN
+                          NOTICE BEFORE THE EFFECTIVE DATE OF CANCELLATION.
+
+
+
+
+             NOTICES SHALL BE MAILED TO:
+
+                                           PURCHASING AND
+                                           CONTRACT ADMINISTRATION
+                                           CITY OF PALO ALTO
+                                           P.O. BOX 10250
+                                           PALO ALTO, CA 94303.
+
+
+
+
+Rev. 11/07                                            2 of 2
+              Attachment “G”
+              IT Requirements
+
+
+
+
+Project Title
+Requirements Document
+
+
+
+
+Rev. 11/07                2 of 2
+                                           Attachment “G”
+                                           IT Requirements
+
+
+Version History
+
+ID    Changes                                      Date Created   Author
+1     Original Doc                                 7/31/2013      Sherrie Wong
+2     Added new Functional & Technical Req.        8/8/2013       Todd Henderson
+3     Removed BIA section                          11/6/2013      Todd Henderson
+4     Tailored the document as part of the CIS     1/15/2014      Mai Ngo
+5     Update “Disaster Recovery and Business       3/3/2014       Mai Ngo
+      Continuity” per Kel email (3/3/2014)
+
+
+
+
+Rev. 11/07                                             2 of 2
+                                                                   Attachment “G”
+                                                                   IT Requirements
+
+
+Table of Contents
+Version History ................................................................................................................................ 15
+Table of Contents ............................................................................................................................. 16
+Functional Requirements .................................................................................................................. 17
+    Features and Functions ............................................................................................................................... 17
+    Reporting ................................................................................................................................................... 17
+    Training ..................................................................................................................................................... 17
+    Auditability ................................................................................................................................................ 18
+    Implementation management...................................................................................................................... 18
+Non‐functional Requirements ........................................................................................................... 18
+    Cloud Computing ........................................................................................................................................ 18
+    Maintainability ........................................................................................................................................... 18
+    System Compatibility .................................................................................................................................. 18
+    Portability .................................................................................................................................................. 18
+    Support ..................................................................................................................................................... 19
+    Service Level Agreement ............................................................................................................................. 19
+    Integration ................................................................................................................................................. 19
+    Open Data.................................................................................................................................................. 19
+    Security ..................................................................................................................................................... 19
+    Scalability .................................................................................................................................................. 20
+    Data Liberation ........................................................................................................................................... 20
+    Business Continuity ..................................................................................................................................... 20
+Signatures ......................................................................................... Error! Bookmark not defined.
+
+
+
+
+Rev. 11/07                                                                                   2 of 2
+                                                            Attachment “G”
+                                                            IT Requirements
+
+
+
+
+                IT Requirements for New Technology
+                Purpose: The purpose of this document is to outline requirements that will be utilized for all new
+                software purchases. Selecting vendors that meet these requirements will help to ensure that the City
+                minimizes risk, increases efficiencies and new technologies align to the City’s IT strategy. If for some
+                reason all non‐functional requirements cannot be met by any vendor, the City’s project manager is to
+                work with the City’s IT Governance & Planning Manager on next steps.
+
+
+Classification definition:
+                     Mandatory features must be included for the system to function.
+                     Required features should be included but the system can function without them.
+                     Desired features are nice to have but are not needed for the system to function.
+
+Instructions: Create a product backlog to track the results of your elicitations. Prioritize, and reorganize the elicitation results by
+categories. The list will become your Work Breakdown Structure (WBS). Your WBS does not have to have all the below categories; it
+depends on the type, size, and complexity of your project, but it should have at least:
+
+                     Features and Functions
+                     Implementation Management (Consultation Activities )
+                     Procurement Activities
+                     Training Activities
+                     Support
+                     User Acceptance Activities
+
+
+3 Functional Requirements
+The following functional requirements define specific behavior or functions required of the system.
+
+Features and Functions: interview stakeholders (sponsor, business owners, key users)
+ ID           Requirement                                                                           Classification
+              Interview the sponsor and stakeholders for their needs and concerns.                  Mandatory
+
+
+Reporting: interview stakeholders (sponsor, business owners, key users)
+ ID           Requirement                                                                           Classification
+              Check w/ stakeholders if any mandatory reports (i.e., legal requirements) are         Desired
+              required.
+
+Training: interview stakeholders (usually the business owner/ manager/ key users)
+ ID           Requirement                                                                           Classification
+              Vendor or partner/preferred vendor can provide system functional training to          Desired
+              users and system administrators
+              Provide functional training documentation for end‐users and administrators            Required
+
+
+
+
+Rev. 11/07                                                     2 of 2
+                                                           Attachment “G”
+                                                           IT Requirements
+
+Auditability: interview stakeholders (usually the business owner/ manager)
+    ID       Requirement                                                                          Classification
+             System logs all user & system actions and events (who, what, when)                   Desired
+
+Implementation management
+    ID       Requirement                                                                          Classification
+             <List any consultation activities for the vendor to manage the implementation or     Desired
+             provide consulting services>
+4
+5        Non‐functional Requirements
+The following non-functional requirements specify criteria that can be used to judge the operation of a system, rather than specific
+behaviors of the system.
+
+Note: Inability to meet any of the following requirements does not automatically exclude vendors from RFP (Request for Proposal)
+process
+
+
+15.1     Cloud Computing: interview stakeholders (usually the business owner/ manager)
+
+    ID    Requirement                                                                             Classification
+          Infrastructure and data is housed by cloud service provider to ensure the system        Required
+          proposed is aligned to the City’s IT cloud‐first strategy
+
+15.2
+
+15.3     Maintainability: interview vendors
+
+    ID    Requirement                                                                             Classification
+          System upgrades are fully maintained and managed by vendor                              Required
+          System is “off the shelf” solution and does not require custom development/coding       Required
+          by the vendor or the City
+          City should be able to configure the system with appropriate access privileges          Required
+
+15.4
+
+15.5     System Compatibility: interview vendors or Ops staff
+
+    ID    Requirement                                                                             Classification
+          <Examples include: Windows 7, Hyper‐V virtualization (not relevant if cloud service),
+          Internet Explorer version 9, Google Chrome, iOS>
+
+15.6
+
+15.7     Portability: interview vendors or Ops staff
+
+    ID    Requirement                                                                             Classification
+
+Rev. 11/07                                                      2 of 2
+                                                             Attachment “G”
+                                                             IT Requirements
+
+         Mobile apps (or has one of these features on product roadmap)                              Desired
+         Responsive web design for flexible and fluid layouts that adapt to almost any screen       Desired
+         <Sponsor and business process owner to fill out which devices that the system should       Required
+         be accessible from. Examples include: mobile devices, tablets, smartphones>
+
+15.8
+
+15.9    Support: interview stakeholders (usually the business owner/ manager)
+
+ ID      Requirement                                                                                Classification
+         For vendor: Technical ongoing or on‐demand support is maintained by the vendor or          Required
+         partner vendor
+         For staff: ongoing support after go life
+
+
+15.10 Service Level Agreement
+
+ ID      Requirement                                                                                Classification
+         For vendor: <Insert requirements defined by sponsor for response time (how quickly
+         the vendor responds to reported issues)>
+         For Operations: <Standard Ops Service Level Agreement>
+
+
+
+15.11 Integration/ interfaces: interview implementation SMEs
+
+ ID          Requirement                                                                            Classification
+             System has web services Application Programming Interface (API) capabilities to        Required
+             integrate with other City applications
+
+15.12
+
+15.13 Open Data: interview vendors
+
+ ID          Requirement                                                                            Classification
+             All system data should be exportable and machine readable to support open data         Required
+             environment
+             Exportable data should include metadata (set of data that describes and gives          Desired
+             information about other data)
+
+15.14
+
+15.15 Security: interview vendors
+
+ ID          Requirement                                                                            Classification
+             System complies with either: ISO 27001 (Information Security Management                Required
+             Systems) or NIST 800‐53 Standards (Security and Privacy Controls for Information
+             Systems)
+             Note: If chosen as a finalist, vendor will be required to complete the City’s Vendor
+
+Rev. 11/07                                                       2 of 2
+                                                              Attachment “G”
+                                                              IT Requirements
+
+             Information Security Assessment and acknowledge and agree to comply with the
+             City’s Security & Privacy Agreement
+
+15.16
+
+15.17 Scalability: interview vendors
+
+ ID          Requirement                                                                                Classification
+             Ability to easily utilize the technology across the organization for different purposes    Required
+             (for additional users and departments with varying processes and workflows and
+             configuration requirements)
+
+15.18
+
+15.19 Data Liberation: interview vendors
+
+ ID          Requirement                                                                               Classification
+             Ability to quickly move all of the data out of the system in an open, interoperable,      Required
+             portable format at no additional cost and in one fell swoop in the event that the
+             City wishes to discontinue the product
+
+15.20
+
+15.21 Disaster Recovery and Business Continuity: interview vendors and/or Ops staff
+
+ ID          Requirement                                                                               Classification
+             <Define the disaster recovery and business continuity requirements by                     Required
+             working with the sponsor and IT Management>
+
+
+
+
+Rev. 11/07                                                        2 of 2
+                                                              ATTACHMENT “G”                                                     City of Palo Alto
+                                                                                                                             Information Security
+                                                                                                                         Document Version: v2.1
+                                                                                                                              Form: InfoSec 100
+
+                                     Software as a Service (SaaS) Provider
+                          Information Security and Privacy Assessment Questionnaire
+Purpose: This form is to be used to conduct security assessment on SaaS provider
+Note/Instructions:
+                            THE SOFTWARE AS A SERVICE (SAAS) IS A SOFTWARE DISTRIBUTION MODEL IN WHICH APPLICATIONS ARE HOSTED BY A VENDOR OR
+       SERVICE PROVIDER AND MADE AVAILABLE TO CUSTOMERS OVER A NETWORK, TYPICALLY THE INTERNET.
+
+                            THIS DOCUMENT IS FOR THE SOLE USE OF THE INTENDED RECIPIENT(S) AND MAY CONTAIN CONFIDENTIAL AND PRIVILEGED INFORMATION
+       BELONGS TO THE CITY OF PALO ALTO (THE CITY ). ANY UNAUTHORIZED REVIEW, USE, DISCLOSURE OR DISTRIBUTION IS PROHIBITED. IF YOU ARE NOT THE INTENDED
+       RECIPIENT, PLEASE CONTACT THE SENDER BY REPLY EMAIL AND DESTROY ALL COPIES OF THE ORIGINAL MESSAGE.
+
+                            THE SAAS PROVIDER SHALL PROVIDE ANSWERS OR INFORMATION TO THE QUESTIONS OR STATEMENTS BELOW.
+      IN THE EVENT THAT THE SAAS PROVIDER CANNOT MEET THE CITY ’S SECURITY AND OR PRIVACY REQUIREMENTS, THE SAAS PROVIDER MAY SUBMIT AN EXCEPTION
+       WITH ALTERNATIVE COUNTERMEASURES TO ADDRESS THE RISK. THE CITY ’S INFORMATION SECURITY MANAGER MAY APPROVE OR REJECT THE EXCEPTION REQUEST
+       DEPENDING UPON THE RISK ASSOCIATED WITH THE EXCEPTION REQUEST.
+
+                           FOLLOWED BY THE SAAS PROVIDER’S RESPONSE THE CITY ’S INFORMATION SECURITY MANAGER WILL CONDUCT A SECURITY RISK
+       ASSESSMENT WITH FOLLOWING SCORING METHODOLOGY:
+
+       A = Meet completely,
+       B = Partially meets. The SaaS provider may require to provide additional requested details
+       C = Doesn’t meet. The SaaS provider may require to provide missing/additional detail.
+
+
+
+The SaaS provider’s Information:
+SaaS Provider’s Organization Name
+Address
+Information Security Contact Person Name
+Email
+Phone
+Date this Questionnaire Completed
+
+
+
+SaaS Provider Information Security Assessment Questionnaire                                                                       Version 2.0
+                                                                                                                                  9 July 2014
+                                                          ATTACHMENT “G”                              City of Palo Alto
+                                                                                                  Information Security
+                                                                                              Document Version: v2.1
+                                                                                                   Form: InfoSec 100
+
+1.0 BUSINESS PROCESS AND DATA EXCHANGE REQUIREMENTS
+                                                                                                    Additional
+ #                  Question                        Response from SaaS Provider   Score   Information/Clafication Required
+                                                                                                from SaaS Provider
+1.1   Please provide a detailed
+      description of the business process
+      that will be supported by the SaaS
+      provider as it relates to the
+      requirements of the RFP
+1.2   Does SaaS provider Have adopted
+      and implemented information
+      security and privacy policies that
+      are documented, are accessible to
+      the City and conform to ISO
+      27001/2 – Information Security
+      Management Systems (ISMS)
+      Standards.
+1.3   What data exchange needs to occur
+      between the City and SaaS
+      provider? What data will be stored
+      at the SaaS provider location?
+      (Provide data attributes with
+      examples)
+      Example: (PCI Credit Card Info,
+      SSN, DLN, Patrons Name,
+      Address, telephone etc.)
+1.4   In the event that SaaS provider is
+      required to store Private Information
+      (PI) or Personally Identifiable
+      Information (PII) or Sensitive
+      Information (SI) about peoples in
+      the SaaS provider’s business
+      systems -- how the SaaS provider
+      will maintain the confidentiality of
+      the Information in accordance with
+
+SaaS Provider Information Security Assessment Questionnaire                                           Version 2.0
+                                                                                                      9 July 2014
+                                                          ATTACHMENT “G”           City of Palo Alto
+                                                                               Information Security
+                                                                           Document Version: v2.1
+                                                                                Form: InfoSec 100
+
+      applicable federal, state and local
+      data and information privacy laws,
+      rules and regulations.
+1.5   What mechanism and/or what types
+      of tool will be used to exchange
+      data between the City and SaaS
+      provider? Example: (VPN, Data
+      Link, Frame Relay, HTTP, HTTPS,
+      FTP, FTPS, etc.)
+1.6   What types of data Storage (work in
+      progress storage and backup
+      storage) will be required at the
+      SaaS provider site Example: (PCI
+      Credit Card Info, SSN, DLN,
+      Patrons Name, Address, telephone
+      etc.)
+1.7   Is there any e-mail integration
+      required between the City and the
+      SaaS provider?
+      Example: The SaaS may require an
+      e-mail account on the City ’s e–mail
+      Server.
+1.8   Has the SaaS provider ever been
+      subjected to either an electronic or
+      physical security breach? Please
+      describe the event(s) and the steps
+      taken to mitigate the root causes.
+      What damages or exposure
+      resulted? Are records of breaches
+      and issues maintained and will
+      these records be available for
+      inspection by COPA?
+1.9   Does the SaaS provider maintain
+      formal security policies and
+      procedures to comply with
+      applicable statutory or industry
+      practice requirements/standards?
+
+
+SaaS Provider Information Security Assessment Questionnaire                       Version 2.0
+                                                                                  9 July 2014
+                                                          ATTACHMENT “G”                              City of Palo Alto
+                                                                                                  Information Security
+                                                                                              Document Version: v2.1
+                                                                                                   Form: InfoSec 100
+
+      Are records maintained to
+      demonstrate compliance or
+      certification? Does the SaaS
+      provider allow client audit of these
+      records? NOTE: PLEASE
+      PROVIDE SUPPORTING
+      DOCUMENTATION.
+2.0   What are the internet and the
+      browser security configuration of
+      the SaaS application? What
+      security standards and
+      requirements are maintained to
+      ensure application security at the
+      user interface? (A set of detailed
+      documentation should be provided
+      to support the compliance.
+
+2.0 APPLICATION/SOLUTION CONFIGURATION
+                                                                                   Score   Additional Information/Clafication
+ #                   Question                        Response from SaaS Provider
+                                                                                            Required from SaaS Provider
+2.1   What is the name of the application
+      the SaaS provider will host to
+      provide services to the City ? (List
+      all)
+2.2    What functionality will be provided
+ .    to the City employees or City
+      customers / citizens through the
+      application?
+2.3    Is the SaaS provider using a
+      subcontractor or 3rd party service
+      provider? (List all). If yes, then what
+      data privacy and information
+      security agreements are in place
+      between the SaaS provider and any
+      subcontractor to ensure appropriate
+
+
+SaaS Provider Information Security Assessment Questionnaire                                            Version 2.0
+                                                                                                       9 July 2014
+                                                          ATTACHMENT “G”           City of Palo Alto
+                                                                               Information Security
+                                                                           Document Version: v2.1
+                                                                                Form: InfoSec 100
+
+      and accountable treatment of
+      information. Also the City requires
+      that this questionnaire shall be
+      completed by each subcontractor
+      as well.
+
+2.4    What is the SaaS provider's
+      Application hosting hardware and
+      software platform? Also please
+      provide detailed description
+      including SP and a patch or security
+      applications in use
+      Example: Windows or Unix
+      Operating System (OS) and other
+      detail
+
+2.5    How do the SaaS provider’s
+      application and database
+      architecture; manage segregation of
+      the City 's data, from other
+      customers' data?
+
+2.6   Describe the SaaS provider’s server
+      and network infrastructure. Please
+      provide server and network
+      infrastructure deployment topology,
+      including data flow architecture
+      including but not limited to security
+      management applications, firewalls,
+      etc.
+2.7   Please provide detail proposed
+      solution which will be developed as
+      a part of the implementation to
+      support this project. (For example
+      detailed solution architecture,
+      secured data flow to support
+      business processes, etc.).
+
+
+SaaS Provider Information Security Assessment Questionnaire                       Version 2.0
+                                                                                  9 July 2014
+                                                                ATTACHMENT “G”                           City of Palo Alto
+                                                                                                     Information Security
+                                                                                                 Document Version: v2.1
+                                                                                                      Form: InfoSec 100
+
+
+
+3.0 DATA PROTECTION
+                                                                                 Score   Additional Information/Clafication
+#     Question                               Response from SaaS Provider
+                                                                                         Required from SaaS Provider
+3.1   What is the medium of data
+      exchange between the City and
+      SaaS provider?
+
+3.2    How the data is kept secure during
+.     the data exchange process?
+      Example: (VPN, Data Link, Frame
+      Relay, HTTP, HTTPS, FTP, FTPS,
+      etc.)
+3.3    How is the City data kept
+      physically and logically secure at
+      the SaaS provider location?
+      Example: Locked storage, Digitally,
+      Encrypted etc.
+3.4   What application level protections
+      are in place to prevent vendor/SaaS
+      provider or subcontractor staff from
+      being able to view protected
+      information ie: encryption, masking,
+      etc.?
+3.5   What controls does the SaaS
+      provider exercise over the
+      qualification and performance of
+      their team? Of their subcontractor’s
+      teams? (For example criminal
+      background verification prior to
+      employment, providing security
+      training after employment and
+      managing Role Based Access
+      Control (RBAC) during employment
+      and network and application access
+
+SaaS Provider Information Security Assessment Questionnaire                                                Version 2.0
+                                                                                                           9 July 2014
+                                                          ATTACHMENT “G”                                City of Palo Alto
+                                                                                                    Information Security
+                                                                                                Document Version: v2.1
+                                                                                                     Form: InfoSec 100
+
+      termination upon employment
+      termination.
+
+4.0 DATA BACK-UP
+                                                                                    Score
+ #               Question                                     Response                      COPA’s Security Assessment
+
+4.1    What method is used to keep
+      data secure during backup
+      process?
+
+4.2   Is the encryption technology
+ .    used to encrypt; whole, or
+      selective data?
+4.3    What types the “media” used
+      for data backup (Tape, Hard
+      Disk Drive or any other
+      devices)?
+
+4.4    Are the backups encrypted? If
+      yes, please provide encryption
+      specification, with type of
+      encryption algorithm and detail
+      process of encryption
+      handling. If No, please provide
+      detail description (with
+      process, tools and technology)
+      to keep data secured during
+      the back-up process.
+
+
+5.0 DATA RETENTION
+                                                                                        Score            Additional
+ #               Question                             Response from SaaS Provider
+                                                                                                  Information/Clafication
+
+
+SaaS Provider Information Security Assessment Questionnaire                                            Version 2.0
+                                                                                                       9 July 2014
+                                                          ATTACHMENT “G”           City of Palo Alto
+                                                                               Information Security
+                                                                           Document Version: v2.1
+                                                                                Form: InfoSec 100
+
+                                                                               Required from SaaS
+                                                                                    Provider
+5.1    What is the retention period
+      for the data being backed up?
+      The data retention process
+      shall comply with the City ’s
+      data retention policy.
+5.2    Are the data back-up
+      tapes/media stored at the
+      SaaS provider location or off-
+      site?
+
+5.3   If the SaaS provider’s
+      backups are stored with
+      another company, please
+      provide:
+           a. Company Name:
+          b. Address:
+          c.   Contact person detail
+                  (Phoen and
+                  Email):
+          d. What contractual
+               commitments are
+               in place to
+               guarantee security
+               performance from
+               these vendors
+5.5    What is the media transfer
+      process (I.e. The lock box
+      process used to send tapes
+      off-site)?
+5.6   Who has access to the media
+      lockbox? (Provide Name and
+      Role)
+
+SaaS Provider Information Security Assessment Questionnaire                       Version 2.0
+                                                                                  9 July 2014
+                                                          ATTACHMENT “G”                                     City of Palo Alto
+                                                                                                         Information Security
+                                                                                                     Document Version: v2.1
+                                                                                                          Form: InfoSec 100
+
+5.7   Who is authorized to access
+      back-up media? (Provide
+      Name and Role)
+5.8   What is the backup media
+      receiving and release
+      authorization process? (Please
+      submit a soft copy of the
+      process)
+
+6.0     ACCOUNT PROVISIONING AND DE-PROVISIONING (The SaaS provider must receive formal pre-authorization from the City ’s
+       Information Security Manager prior to provisioning and de-provisioning of application access account).
+                                                                                            Score             Additional
+ #                Question                           Response from SaaS Provider                        Information/Clafication
+                                                                                                     Required from SaaS Provider
+5.1   What is the account
+      provisioning/removal process?
+      Example: how are users
+      accounts created and
+      managed?)
+5.2   What is the account
+ .    deprovisioning/removal
+      process? Example: how are
+      users accounts created and
+      managed?)
+
+5.3   How will the City employees
+      gain access to required
+      application(s)?
+
+5.4   Does the application(s) have
+      the capability to restrict access
+      only from the City ’s WAN
+      (Wide Area Network)?
+
+
+
+SaaS Provider Information Security Assessment Questionnaire                                                  Version 2.0
+                                                                                                             9 July 2014
+                                                          ATTACHMENT “G”                           City of Palo Alto
+                                                                                               Information Security
+                                                                                           Document Version: v2.1
+                                                                                                Form: InfoSec 100
+
+
+6.0 PASSWORD MANAGEMENT
+                                                                                   Score            Additional
+ #               Question                            Response from SaaS Provider              Information/Clafication
+                                                                                           Required from SaaS Provider
+6.1   What will be the Policy and
+      Procedures for the logging,
+      authentication, authorization
+      and password management
+      scheme? (Please provide a
+      soft copy of the process)
+6.2   Where are the login and
+ .    password credentials stored?
+
+6.3   Are the password credentials
+      stored with encryption? If yes
+      please provide encryption
+      scheme detail.
+
+6.4   The SaaS application must
+      comply with following
+      password requirements. Does
+      the SaaS application meet
+      these requirements:
+
+          1. First time password
+             must be unique to an
+             individual and force
+             the user to change it
+             upon initial login.
+          2. If the password is sent
+             via plain text email to
+             the City employees to
+             mitigate against
+
+
+SaaS Provider Information Security Assessment Questionnaire                                        Version 2.0
+                                                                                                   9 July 2014
+                                                          ATTACHMENT “G”           City of Palo Alto
+                                                                               Information Security
+                                                                           Document Version: v2.1
+                                                                                Form: InfoSec 100
+
+             security exposure.
+        3.    The City requires first
+             time password to have
+             a time-out capability of
+             no more than 7 days.
+        4. The email notification
+           must not be CC’d to
+           anyone else except
+           the user.
+        5. The permanent / long
+           term password must
+           be changed
+           frequently, at least
+           TWICE a year
+        6. E-mail notification
+           must be sent to the
+           user whenever the
+           password has been
+           updated.
+        7. User should not be
+           able to view data or
+           conduct business
+           unless an initial
+           password has been
+           updated with a
+           different password.
+        8. The SaaS provider
+           shall notify to the City
+           ’s users; that when
+           creating a new
+           password, the user
+           shall not use their The
+           City LDAP password.
+        9. The password must
+
+
+SaaS Provider Information Security Assessment Questionnaire                       Version 2.0
+                                                                                  9 July 2014
+                                                                ATTACHMENT “G”                                                                      City of Palo Alto
+                                                                                                                                                Information Security
+                                                                                                                                            Document Version: v2.1
+                                                                                                                                                 Form: InfoSec 100
+
+            have 8 characters or
+            more and they must
+            contain at least one
+            character from each
+            line below i.e. each
+            line shall contribute at
+            least one character:
+           abcdefghijklmnopqrstu
+            vwxyz
+           ABCDEFGHIJKLMNO
+            PQRSTUVWXYZ
+           0123456789
+           !@#$%^&*()-
+            +=`~,></\"'?;:{[}]
+
+
+                                         --------------------------------------------------- End Of Document --------------------------------------------------
+
+
+
+
+SaaS Provider Information Security Assessment Questionnaire                                                                                            Version 2.0
+                                                                                                                                                       9 July 2014
+

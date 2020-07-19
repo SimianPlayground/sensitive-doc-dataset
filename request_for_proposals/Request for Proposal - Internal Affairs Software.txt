@@ -1,0 +1,2203 @@
+                                          DeKalb County
+                              Department of Purchasing and Contracting
+__________________________________________________________________________________________________
+ _____________________________________________________________________________________________________________________________________________________________
+
+
+
+
+                                                                 November 12, 2018
+
+                            REQUEST FOR PROPOSALS (RFP) NO. 18-500506
+
+                                                                             FOR
+
+                                INTERNAL AFFAIRS SOFTWARE SOLUTION
+
+
+
+
+                Procurement Manager:                                                Delois Robinson, CPPO
+                Phone:                                                              (404) 371-2395
+                Email:                                                              drobinson@dekalbcountyga.gov
+
+
+
+                Mandatory DeKalb First LSBE Meeting: November 14, 2018 and November 20, 2018
+                (Bidders must attend 1 meeting on either 4572 Memorial Drive, Decatur, Georgia 30032
+                of the dates listed.)                    Main Conference Room - A
+                                                         (Meetings are held at 10:00 a.m. and 2:00 p.m.)
+                                                          Video Conference: Utilize the link supplied on our
+                                                          webpage labeled “DeKalb First LSBE Video
+                                                          Meeting”
+                Pre-Proposal Conference and Site Visit: November 27, 2018, 11:00 am
+                                                         1300 Commerce Dr., 2nd Floor
+                                                         Decatur, GA 30030
+                Deadline for Submission of Questions:    5:00 P.M. ET, November 28, 2018
+                Deadline for Receipt of Proposals:       3:00 P.M. ET, December 13, 2018
+
+
+
+ THE RESPONSIBILITY FOR SUBMITTING A RESPONSE TO THIS RFP TO THE
+ DEPARTMENT OF PURCHASING AND CONTRACTING OF DEKALB COUNTY
+ GOVERNMENT ON OR BEFORE THE STATED DATE AND TIME WILL BE SOLELY AND
+ STRICTLY THE RESPONSIBILITY OF THE RESPONDER.
+
+
+
+                                                                              1
+                                               TABLE OF CONTENTS
+
+Section           Title                                                                                                Page
+
+I.     Introduction .....................................................................................................3
+II.    Scope of Work .......................................................................................... 4-11
+III.   Proposal Format ............................................................................................12
+       A. Cost Proposal ...........................................................................................12
+       B. Technical Proposal ...................................................................................13
+       C. Local Small Business Enterprise Ordinance ............................................14
+       D. Federal Work Authorization Program......................................................14
+IV.    Criteria for Evaluation ..................................................................................15
+V.     Contract Administration................................................................................15
+       A. Standard County Contract ........................................................................15
+       B. Submittal Instructions ..............................................................................15
+       C. Pre-Proposal Conference and Site Visit ...................................................16
+       D. Questions ..................................................................................................16
+       E. Acknowledgement of Addenda ................................................................16
+       F. Proposal Duration .....................................................................................16
+       G. Project Director/Contract Manager ..........................................................17
+       H. Expenses of Preparing Responses to this RFP .........................................17
+       I. Georgia Open Records Act .......................................................................17
+       J. First Source Jobs Ordinance .....................................................................17
+       K. Business License ......................................................................................17
+       L. Ethics Rules ..............................................................................................18
+       M. Right to Audit ..........................................................................................18
+       N. Cooperative Procurement .........................................................................18
+VI.    Award of Contract.........................................................................................19
+       Attachment A. Cost Proposal .................................................................. 20-21
+       Attachment B. Proposal Cover Sheet............................................................22
+       Attachment C. Contractor Reference and Release Form ..............................23
+       Attachment D. Subcontractor Reference and Release Form ........................24
+       Attachment E. LSBE Opportunity Tracking Form ................................. 25-33
+       Attachment F. Sample County Contract ................................................. 34-44
+       Attachment G. Responder Affidavit .............................................................45
+       Attachment H. First Source Jobs Ordinance Information & Exhibits .... 46-49
+
+
+
+
+                                                                   2
+                                       DeKalb County
+                           Department of Purchasing and Contracting
+     Maloof Administration Building, 1300 Commerce Drive, 2nd Floor, Decatur, Georgia 30030
+__________________________________________________________________________________________________
+     _______________________________________________________________________________________________________________________________________________________
+
+
+
+
+                                                             November 12, 2018
+
+
+                                 REQUEST FOR PROPOSAL (RFP) No. 18-500506
+
+                                                                          FOR
+
+                                  INTERNAL AFFAIRS SOFTWARE SOLUTION
+
+                                                 DEKALB COUNTY, GEORGIA
+
+
+DeKalb County Government (the County) requests qualified individuals and firms with experience in
+providing public safety software systems to submit proposals for a comprehensive Internal Affairs
+Software Solution.
+
+I.    INTRODUCTION
+
+The Internal Affairs Unit of DeKalb County Government, a business unit within DeKalb County
+Police Department is seeking to procure a business-critical Internal Affairs Software solution that
+supports its public safety operations to help mitigate regulatory and compliance risks. This solution
+must be reliable, scalable and have the capabilities to interface with other software systems. The
+application must also be accessible via desktop computer or Police mobile unit. The Internal Affairs
+Unit requires a system that is robust, configurable and delivers a product that enables cross-functional
+departmental collaboration.
+
+This need is driven by the new federal request on the issue of “use of force” in law enforcement and
+the overall business practices within the Internal Affairs Unit. To ensure compliance with policies and
+accountability to its citizenry and increase productivity, it is preferable that the solution proposed
+meets the Communications Assistance for Law Enforcement Act (CALEA) requirements. The
+department requires the services of a vendor who would demonstrate competences in articulating and
+turning its business need into a fully functional solution using best practice.
+
+
+
+
+                                                                           3
+Vendor will be adept in selecting the appropriate Software Development Lifecycle (SDLC)
+methodology that is fit for the specific business need of Internal Affairs Unit based on the project
+model below:
+       A. Project Management
+       B. System Design, Configuration
+       C. System Implementation
+       D. Training
+       E. System Support
+Each category above represents the service delivery expectation that vendor will deliver and will
+produce both tangible and intangible output efforts. The input of each category is covered in more
+details below.
+
+II.   SCOPE OF WORK
+
+      A. Project Management
+
+As indicated in the terms of engagement, and in line with Project Management Body of Knowledge
+(PMBOK®) practice standards and framework; vendor with support from DeKalb IT-PMO will work
+closely with stakeholders, where stakeholders in this case may be anyone from upper management to
+operations end user with vested interest in the success of this implementation to oversee, expertly
+guide and provide directions, schedule and create a plan while ensuring documents and deliverables
+relevant to the implementation are provided.
+
+      (1) PREPARE PROJECT MANAGEMENT PLAN
+
+            As indicated in the terms of engagement, Vendor will be tasked with the obligation of
+            creating a comprehensive and detailed project management plan. The project plan will
+            reflect best practices in project management applied specifically to the need of DeKalb
+            County Police Department Internal Affairs Unit. The project management plan must
+            include:
+
+        •   Project organization, including structure, roles, responsibilities, and human resources
+            management.
+        •   Project work breakdown structure (WBS) and schedule, fully loaded with dependencies
+            and resource requirements.
+        •   Approach to managing scope, budget, and schedule.
+        •   Approach to ensuring effective project communication.
+        •   Approach for identifying, tracking, and resolving issues and risks, including roles,
+            responsibilities, escalation process, and tools for reporting issues and risks.
+        •   Approach to configuration management for reviewing, accepting, and maintaining version
+            control on all project deliverables.
+
+
+
+                                               4
+   Vendor will be required to submit the draft project management plan to the DeKalb County IT-
+   PMO 5 business days after the finalization of the project contract. Upon review and acceptance,
+   the final project management plan will serve as the basis for controlling all project management
+   activities.
+
+     (2) PROVIDE PROJECT MANAGEMENT
+
+           Vendor will be responsible for the ongoing planning, monitoring, controlling, and reporting
+           of the project performance across projects within the scope of this commitment. Vendor will
+           synchronize its project management efforts and reporting with the efforts of DeKalb County
+           IT Department while collaboratively doing the same with DeKalb County Police
+           Department Internal Affairs Unit.
+
+           Vendor will provide effective project management for all the contracted services and
+           product delivery. Vendor will provide sufficient project management services to:
+
+           •   Ensure that all deliverables are produced according to the contract schedule.
+           •   Respond to reasonable inquiries about project status and risks in a timely manner (no
+               longer than two business days).
+           •   Identify issues, risks, and alternative solutions and notify DeKalb County Police
+               Department Internal Affairs Unit with sufficient time for DeKalb County Police
+               Department Internal Affairs Unit to effectively address these matters.
+           •   Report on any updated project work plan, schedule, staff plan, project status, and
+               budget when completing project milestones.
+
+     B. System Design and Configuration
+
+Activities in this section will follow the standard but appropriate System Development Lifecycle
+(SDLC) methodology, leveraging Information Technology Service Management (ITSM) to ensure
+value is delivered to stakeholders during and post-implementation.
+
+Based on their expertise, experience and inconsistency with DeKalb County Police Department
+Internal Affairs Unit’s overall goal, vendor will recommend configuration options that will facilitate
+the outcome the business seeks.
+
+     (1)   PREPARATION OF SOFTWARE DESIGN AND CONFIGURATION PLAN
+
+           As part of the obligation for a successful deployment of software, Vendor will be required
+           to submit the following:
+
+           Its’ plan for assembling the proposed components into a single system for deployment to
+           DeKalb County Police Department Internal Affairs Unit. The schedule and resources
+           required for system design, configuration, and construction.
+
+
+
+                                                5
+(2) CONDUCT REQUIREMENT ANALYSIS
+
+   Vendor will engage stakeholders in conducting and completing requirements analysis, using
+   DeKalb County Police Department Internal Affairs Unit’s domain/subject matter experts
+   (SMEs) or end-users to accurately define, verify and validate and document requirements
+   specific to DeKalb County Police Department Internal Affairs Unit’s business objectives.
+
+   • Any gaps identified must be accompanied by a plan for resolving through system
+   configuration, additional development, or additional component incorporation.
+   • Acceptance of target operating system (TOS) is contingent upon the solution satisfying
+   the conditions specified by stakeholders which must be fully captured in requirements
+   specification documents.
+
+(3) TRACK REQUIREMENT TO IMPLEMENTATION
+
+    Vendor will engage in requirements lifecycle management to ensure requirements and
+    design align with one another. Requirements must be monitored to ensure that changes
+    made are immediately updated.
+
+     Create a ‘Traceability matrix’ to enable consistent identification of requirements and
+    their dependencies.
+     Communicate complexity and scope of change.
+
+
+(4) DESIGN SOFTWARE
+
+   Vendor will lead in defining the design options that best satisfy stakeholders’ requirements,
+   one that offers the most opportunity for business process improvement in the target
+   operating system (TOS). Additionally, Vendor will define and create a general architectural
+   plan (diagram) for software configuration and integration with necessary documentation
+   along with libraries and tools. This documentation should include:
+
+       Case documentation,
+       Data dictionaries,
+       Security design,
+       Network design, inventory, protocols, and configuration
+       Hardware design, configuration, and inventory
+       Application design and inventory
+
+
+
+
+                                         6
+     (5) PERFORM SYSTEM TESTING
+
+           Vendor will provide a testable full version of the system that DeKalb County Police
+           Department Internal Affairs Unit can test and confirm its functionality prior to moving to
+           implementation. This should include:
+
+           •   All Technical, functional and performance requirements defined in the Requirements
+               Analysis,
+              Test plans,
+              Testing environment included with database testing,
+              Testing tools supporting all prototypes, releases, and deployment testing,
+              Documented test results.
+
+     C. System Implementation
+
+System implementation services and deliverables include all activities necessary to configure and
+deploy the system assembled in the System Design, Configuration, and Construction section above.
+Services associated with this section are expected to be:
+
+     (1) PREPARATION OF THE DEPLOYMENT PLAN
+           Vendor will coordinate rollout activities and support the business to oversee the Go Live to
+           establish the new system delivers and interacts seamlessly within the ecosystem.
+
+     (2) ASSIST CONFIGURATION
+
+           Vendor will offer guidance, advice and support as needed to designated personnel of
+           DeKalb County Police Department Internal Affairs Unit to make ideal configuration
+           decisions and assist in implementing and testing their initial configuration.
+
+
+     (3)   PERFORM DATA CONVERSION
+
+           As a joint effort from stakeholders (DKPD Internal Affairs Unit), and project sponsor to
+           ensure knowledge transfer is built into the new system. Vendor will engage in data analysis
+           process, verify and validate the quality and integrity of source data to the target system.
+
+          Prepare legacy data to ensure it meets the requirements of the target system
+          Determine the extent and complexity of cleansing required for transfer fitness.
+          Consolidate the following three databases:
+              i.  LEA Administrative
+             ii.  Employee Personal 2000
+            iii. Internal Affairs 2000
+
+
+
+
+                                                 7
+     (4)   ASSIST TESTING
+
+           a. Vendor will assist DeKalb County Police Department Internal Affairs Unit and DeKalb
+              County project team in setting up the test environment and lead system testing.
+           b. Vendor will create a test strategy, provide test plan and assist in preproduction testing
+              of configured application and converted data.
+           c. Vendor will supply Quality Assurance (QA) test plan and engage in QA testing.
+           d. The Vendor will coordinate UAT and support end-users through this process to
+              immediately mitigate any issues that may arise from these activities.
+
+
+     D. Training
+
+The following services include planning, coordinating, (online/offsite as agreed) and development of
+training materials and tools, and delivery of training to DeKalb County Police Department Internal
+Affairs Unit and DeKalb County project team fall within the remit of the Vendor service delivery:
+
+     (1) PLAN FOR TRAINING
+
+           This task requires Vendor’s input in ensuring a training plan is included in the project plan
+           to improve overall user experience at system interaction.
+
+     (2) PROVIDE      END USER AND ADMINISTRATOR TRAINING ONSITE FOR TECHNICAL AND
+           FUNCTIONAL FEATURE CONTROLS OF ALL COMPONENTS THAT MAKE UP THE SYSTEM .
+
+
+           a. This training will identify the design decisions that will be made in preparing the system
+              for implementation. The training approach should:
+                   i. Account for all roles,
+                  ii. Focus training to develop the knowledge and skills needed to effectively use the
+                      new system according to the daily activities of each role,
+                 iii. Assist in managing, changing, and improving DeKalb County Police
+                      Department Internal Affairs Unit’s business processes using system,
+                 iv. Employ a train-the-trainer approach (minimum of forty (40) personnel)
+
+
+  (3) PRODUCE TRAINING DOCUMENTATION
+
+    Vendor will be required to provide training and technical documentation for new system. The
+   documentation should include, but is not limited to:
+
+                   i. Step-by-step process instructions,
+                  ii. Standard operating procedures,
+
+
+
+
+                                                 8
+                iii.   General system administration,
+                iv.    Technical configuration,
+                 v.    System maintenance,
+                vi.    Troubleshooting procedures
+
+
+     E. System Support
+
+System support services include all the activities necessary to maintain, efficiently update, and
+generally support the system in the event of technical or other issues. At a minimum, the Vendor will
+be expected to deliver the following services:
+
+     (1) VERSION AND PATCH RELEASE MANAGEMENT
+
+          Any patch release and version update efforts must be based on a scheduled plan and
+          agreement specified by DKPD Internal Affairs Unit and DeKalb County IT with Vendor to
+          ensure minimal disruption of service. Any issue that requires a system-wide change must
+          be tracked and included in either a patch for critical issues or a future release for
+          functionality expansion or noncritical issues. Data refresh schedule and frequency must be
+          as agreed upon by the DKPD team and vendor.
+
+     (2) BACK-UP AND RECOVERY PROCEDURES AND TOOLS
+
+          Backup and recovery practices and procedures must be consistent with DeKalb County
+          standards. The Vendor must provide procedures and tools for system and data backup and
+          recovery to support the system availability performance requirements.
+
+     (3) ON-GOING SUPPORT
+
+          Vendor will ensure system readiness and availability of service. While the scope of support
+          may range from user login issues to major component support; Vendor will respond within
+          a set timeframe and escalate where necessary. Terms of support will include Service Level
+          Agreement (SLA), escalation procedures and scope of support as defined in the terms of
+          engagement.
+
+
+
+
+                                                9
+General Business Requirements                                       Desktop   Mobile   Comment
+                                                                               Unit
+Please indicate if the solution proposed provides the                Y/N       Y/N
+requirements listed below
+Enter/View/Track Body Camera Usage
+Enter/View/Track Use Of Force Event
+Enter/View/Track Disciplinary Action Recommendation (DAR)
+Enter/View/Track Part Time Job Request
+Enter/View/Track Officer Involved Vehicle Accidents/Pursuits
+Enter/View/Track Drug Screening
+Enter/View/Track Line Level Complaints (Major, Formal, Off
+Duty, Phone and Internal)
+Enter/View/Track Officer Injury Reports
+Generate Forms Letters (Correspondence) within the application
+System Generate Early Intervention Platform /Alerts
+To create a centralized and accessible document location, i.e., a
+forms library
+Field Level review and approval of documents
+Event/Case Management
+
+System Requirements
+Standard Statistical Reporting/Charts
+A query builder which allows for custom reporting and analysis
+Provides a comprehensive audit trail of edits within the system,
+i.e., add/delete/modify
+The ability to configure Early Warning Intervention Alerts
+The ability to configure Archive Protocol
+Electronic Document Signature Capability
+User Login verified via Active Directory Authentication
+
+
+System Platform
+The solution proposed is SaaS
+The solution proposed is On-Premise
+The solution proposed is Third Party Hosted
+
+Security
+Defined User Roles
+Defined User Permission Levels
+Defined User Groups
+
+
+
+
+                                                10
+                                                                     Mobile   Desktop   Comment
+System Maintenance/Support                                           Y/N      Y/N
+Notify customer 48 hours before any planned patch or system
+enhancement to ensure downtime that may significantly impact
+system availability is scheduled outside of business hours)
+24/7 Customer Support Center
+Are there multiple support levels/tiers, if yes provide the levels
+Technical Requirements
+Client Application must function on Microsoft Window 7.0 or
+higher
+Client Application must function 34bit and 64 bit
+The items below require a detailed response within
+your RFP documentation
+Define general architecture plan
+
+Define Software Configuration
+
+Define Backup and Recovery Process
+
+Define migration and Conversion Process
+
+Transition Requirements
+Identify rollout activities
+
+Provide End-User and System Administration training (train the
+trainer) strategy
+Provide End-User/System Administrator Training
+Guides/Documentation
+Provide Recorded Training Materials
+
+
+
+
+                                                 11
+        F.     The following Required Documents Checklist includes a list of attachments which must
+               be completed and returned with Responder’s technical proposal:
+
+             Required Documents                             Attachment
+             Cost Proposal Form (1 copy, separate &         A
+             sealed)
+             Proposal Cover Sheet                           B
+             Contractor Reference and Release Form          C
+             Subcontractor Reference and Release Form       D
+             (make additional copies as needed)
+             LSBE Documents – Exhibits A and B              E
+             Responder Affidavit                            G
+             First Source Jobs Ordinance (with Exhibits 1   H
+             – 4)
+             New Employee Tracking Form                     I
+             Exceptions to the Standard County
+             Contract, if any
+
+
+        G.     The services shall commence within ten (10) calendar days after acknowledgement of
+               receipt of written notice to proceed.
+
+
+
+III.   PROPOSAL FORMAT
+
+       Responders are required to submit their proposals in the following format:
+
+       A. Cost Proposal
+
+          1. The cost proposal must be submitted in a separate, sealed envelope with the responder’s
+             name and “Cost Proposal for Request for Proposals No. 18-500506 for INTERNAL
+             AFFAIRS SOFTWARE SOLUTION” on the outside of the envelope.
+
+          2. The sealed envelope containing the cost proposal is requested to be included in the sealed
+             package containing the technical proposal.
+
+          3. DO NOT INCLUDE FEES OR COSTS IN ANY AREA OUTSIDE OF THIS COST
+             PROPOSAL. Including fees in any area outside of the Cost Proposal in its separate, sealed
+             envelope shall result in Responder’s proposal being deemed non-responsive.
+
+          4. Responders are required to submit their costs on Attachment A, Cost Proposal Form.
+             Responder shall not alter the cost proposal form.
+
+
+
+
+                                                    12
+B. Technical Proposal
+
+ DO NOT INCLUDE ANY COSTS OF ANY KIND IN THE TECHNICAL PROPOSAL
+      OR ON THE DISCS CONTAINING THE TECHNICAL PROPOSAL.
+
+
+   1. Technical Proposals must be submitted in a sealed envelope(s) or box(es) with the
+      responder’s name and “Request for Proposals No. 18-500506 for Internal Affairs Software
+      Solution” on the outside of each envelope or box.
+
+   2. Responder shall complete Attachment B, Proposal Cover Sheet, and include this as the
+      first page of the technical proposal.
+
+   3. Project Management: (in accordance with the scope of work in section A)
+      a. Describe how the project will be organized and managed;
+      b. Describe progress reporting procedures for the project;
+      c. Include the anticipated use of subcontractors or vendors; and
+      d. Describe the resources necessary to accomplish the purpose of the project.
+
+   4. System Design and Construction: (in accordance with the scope of work in section B)
+      a. Responders are required to describe the procedures and methods that will achieve the
+         required outcome of the project as specified herein;
+      b. Include a listing of the County’s responsibilities and the Responder’s responsibilities
+         required to complete the project; and
+      c. Provide a project schedule at the task level starting with the receipt of the Notice to
+         Proceed and ending with project completion.
+
+   5. System Implementation: (in accordance with the scope of work in section C)
+      a. Describe the preparation of the Deployment Plan
+      b. Include the guidance and support to assist in configuration decision and implementation
+         and testing.
+      c. Provide information regarding data conversion performance.
+
+   6. Training: (in accordance with the scope of work in section D)
+      a. Provide the training plan as described herein.
+      b. Identify the individuals who will be part of the project team;
+      c. Include any outside personnel, such as subcontractors; and
+      d. Provide detailed resumes of team members and subcontractors who will be directly
+         working on the project.
+
+   7. Responder must describe their Organizational Qualifications to include their experience,
+      capabilities and other qualifications for this project. Include if the Responder operated
+      under current company name and if the Responder ever been debarred, suspended,
+      proposed for debarment, declared ineligible, or voluntarily excluded by any Federal
+      department or agency from doing business with the Federal Government.
+
+
+
+
+                                          13
+   8. Responder must provide financial statements for the last three (3) years that evidences the
+      responder’s financial capabilities to perform the scope of work. (Audited statements are
+      preferable but a minimum of balance sheet, income statement and cash flow statement may
+      be accepted.) Provide year of incorporation (if applicable).
+
+   9. References:
+      a. Responder shall provide three (3) references for projects similar in size and scope to
+         the project specified herein using the Reference and Release Form attached hereto as
+         Attachment C.
+      b. Provide three (3) references for each subcontractor proposed as a part of the project
+         team. The references shall be for the same or similar types of services to be performed
+         by the subcontractor (including LSBE-DeKalb and LSBE-MSA firms) on projects
+         similar in size and scope to the project outlined in this RFP. Use Attachment D,
+         Subcontractor Reference and Release Form. Make additional copies as needed.
+
+   10. Provide the following information: Are you a DeKalb County Firm? Yes/No.
+
+
+C. DeKalb First Ordinance
+
+   1. It is the objective of the Chief Executive Officer and Board of Commissioners of
+      DeKalb County to provide maximum practicable opportunity for all businesses to
+      participate in the performance of government contracts. The current DeKalb County
+      List of Certified Vendors may be found on the County website at
+      http://www.dekalbcountyga.gov/purchasing/pdf/supplierList.pdf.
+
+   2. It is required that all responding Responders attend the mandatory LSBE meeting
+      within two-weeks of the solicitation’s advertisement, and comply, complete and
+      submit all LSBE forms with the Responder’s response to remain
+      responsive. Attendance can be in person, via video conference and
+      teleconference. Video conferencing is available through Skype/Lync. Instructions for
+      attendance via video conference can be found on the County’s website at
+      https://www.dekalbcountyga.gov/purchasing-contracting/dekalb-first-lsbe-program.
+
+   3. For further details regarding the DeKalb First Local Small Business Enterprise
+      Ordinance, contact the LSBE Program representative, Felton Williams at
+      fbwilliams@dekalbcountyga.gov or (404) 371-6312.
+
+
+D. Federal Work Authorization Program Contractor and Subcontractor Evidence of
+   Compliance
+
+   All qualifying contractors and subcontractors performing work with DeKalb County, Georgia
+   must register and participate in the federal work authorization program to verify the work
+   eligibility information of new employees. Successful responder(s) shall be required to register
+   and participate in the federal work authorization program which is a part of Attachment F,
+
+
+
+                                           14
+           Sample County Contract. In order for a Proposal to be considered, it is mandatory that the
+           Responder Affidavit, Attachment G, be completed and submitted with responder’s proposal.
+
+
+IV.   CRITERIA FOR EVALUATION
+
+      The following evaluation criteria and the maximum points stated below will be used as the basis
+      for the evaluation of proposals.
+
+      A.   System Design, Configuration (20 points)
+      B.   Project Management (15 points)
+      C.   System Implementation (15 points)
+      D.   Training (10 points)
+      E.   System Support (10 points)
+      F.   Local Small Business Enterprise Participation (10 points)
+      G.   Cost (10 points)
+      H.   Financial Responsibility (5 points)
+      I.   References (5 points)
+      J.   Optional Interview/Demonstration (10 points) - bonus
+
+
+V.    CONTRACT ADMINISTRATION
+
+      A. Standard County Contract
+
+           The attached sample contract is the County’s standard contract document (see Attachment F),
+           which specifically outlines the contractual responsibilities. All responders should thoroughly
+           review the document prior to submitting a proposal. Any proposed revisions to the terms or
+           language of this document must be submitted in writing with the responder’s response to the
+           request for proposals. Since proposed revisions may result in a proposal being rejected if the
+           revisions are unacceptable to the County, responders should review any proposed revisions
+           with an officer of the firm having authority to execute the contract. No alterations can be made
+           in the contract after award by the Board of Commissioners.
+
+      B. Submittal Instructions
+
+           One (1) original Technical Proposal stamped “Original” and five (5) compact discs or
+           flash drives with each containing an identical copy of the Technical Proposal (do not
+           include the Cost Proposal on the discs); and one (1) original Cost Proposal (see Section
+           III.A. for additional instructions regarding submittal of Cost Proposal) must be submitted
+           to the following address no later than 3:00 p.m. on December 13, 2018.
+
+           DeKalb County Department of Purchasing and Contracting
+           The Maloof Center, 2nd Floor
+           1300 Commerce Drive
+           Decatur, Georgia 30030
+
+
+
+                                                    15
+   Proposals must be clearly identified on the outside of the packaging with the responder’s name
+   and “Request for Proposals No. 18-500506 for Internal Affairs Software Solution” on the
+   outside of the envelope(s) or box(es).
+   It is the responsibility of each Responder to ensure that its submission is received by 3:00 p.m.
+   on the bid due date. The time/date stamp clock located in the Department of Purchasing &
+   Contracting shall serve as the official authority to determine lateness of any response. The RFP
+   opening time shall be strictly observed. Be aware that visitors to our offices will go through
+   a security screening process upon entering the building. Responders should plan enough time
+   to ensure that they will be able to deliver their submission prior to our deadline. Late
+   submissions, for whatever reason, will not be evaluated. Responders should plan their
+   deliveries accordingly. Telephone or fax bids will not be accepted.
+
+
+C. Pre-Proposal Conference and Site Visit
+
+   A pre-proposal conference and site visit will be held at 11:00 a.m. on the 27th day of
+   November 2018 at Maloof Administration Building, 1300 Commerce Drive, 2nd Fl., Decatur,
+   GA 30030. Interested responders are strongly encouraged to attend and participate in the pre-
+   proposal conference and site visit. For information regarding the pre-proposal conference and
+   site   visit,   please    contact      Delois    Robinson      at    (404)    371-2395     or
+   drobinson@dekalbcountyga.gov.
+
+D. Questions
+
+   All questions concerning the Project and requests for interpretation of the Contract may be
+   asked and answered at the pre-bid conference; however, oral answers are not authoritative.
+   Questions     must      be     submitted      to    Delois     Robinson,      via   email to
+   drobinson@dekalbcountyga.gov no later than close of business on December 13,
+   2018. Questions and requests for interpretation received by the Department of Purchasing and
+   Contracting after this date will not receive a response or be the subject of addenda.
+
+E. Acknowledgment of Addenda
+
+   Addenda may be issued in response to changes in the RFP. It is the responsibility of the
+   responder to ensure awareness of all addenda issued for this solicitation. Please acknowledge
+   the addenda and submit to the Department of Purchasing and Contracting as requested.
+   Responder may call Delois Robinson at (404) 371-2395 or send an email to
+   drobinson@dekalbcountyga.gov to verify the number of addenda prior to submission.
+   Addenda issued for this project may be found on DeKalb County’s website,
+   https://www.dekalbcountyga.gov/purchasing-contracting/bids-itb-rfps.
+
+F. Proposal Duration
+
+   Proposals submitted in response to this RFP must be valid for a period of One Hundred Twenty
+   (120) days from proposal submission deadline and must be so marked.
+
+
+
+
+                                            16
+G. Project Director/Contract Manager
+
+   The County will designate a Project Director/Contract Manager to coordinate this project for
+   the County. The successful responder will perform all work required pursuant to the contract
+   under the direction of and subject to the approval of the designated Project Director/Contract
+   Manager. All issues including, payment issues, shall be submitted to the Project
+   Director/Contract Manager for resolution.
+
+H. Expenses of Preparing Responses to this RFP
+
+   The County accepts no responsibility for any expenses incurred by the responders to this RFP.
+   Such expenses are to be borne exclusively by the responders.
+
+I. Georgia Open Records Act
+
+   Without regard to any designation made by the person or entity making a submission, DeKalb
+   County considers all information submitted in response to this invitation or request to be a
+   public record that will be disclosed upon request pursuant to the Georgia Open Records Act,
+   O.C.G.A. §50-18-70 et seq., without consulting or contacting the person or entity making the
+   submission, unless a court order is presented with the submission. You may wish to consult
+   an attorney or obtain legal advice prior to making a submission.
+
+J. First Source Jobs Ordinance
+
+   The DeKalb County First Source Jobs Ordinance requires contractors or beneficiaries entering into
+   any type of agreement with the County, including purchase orders, regardless of what they may be
+   called, for the procurement or disposal of supplies, services, construction projects, professional or
+   consultant services, which is funded in whole or part with County funds or County administered
+   funds in which the contractor is to receive $50,000 or more in County expenditures or committed
+   expenditures and recipient of urban redevelopment action grants or community development block
+   funds administered in the amount of $50,000 or more make a good faith effort to hire DeKalb
+   County residents for at least 50% of jobs using the First Source Registry (candidate database). The
+   work to be performed under this contract is subject to the provisions of the DeKalb County First
+   Source Jobs Ordinance. Please complete the First Source Jobs Ordinance Acknowledgement and
+   New Employee Tracking Form included in Attachment H, First Source Jobs Ordinance (with
+   Exhibits 1 – 4) and submit with the responder’s proposal.
+
+   For more information on the First Source Jobs Ordinance requirement, please contact WorkSource
+   DeKalb at www.worksourcedekalb.org or 404-687-3400.
+
+
+K. Business License
+
+   Responder shall submit a copy of its current, valid business license with its proposal or upon
+   award. If the responder is a Georgia corporation, responder shall submit a valid county or city
+   business license. If the responder is not a Georgia corporation, responder shall submit a
+
+
+
+                                              17
+   certificate of authority to transact business in the state of Georgia and a copy of its valid
+   business license issued by its home jurisdiction. If responder holds a professional certification
+   which is licensed by the state of Georgia, then responder shall submit a copy of its valid
+   professional license. Any license submitted in response to this requirement shall be maintained
+   by the responder for the duration of the contract.
+
+L. Ethics Rules
+
+   Bidders are subject to the Ethics provision within the DeKalb County Purchasing Policy; the
+   Organizational Act, Section 22A, the Code of DeKalb County; and the rules of Executive
+   Order 2014-4. Any violations will be addressed, pursuant to these policies and rules.
+
+   To the extent that the Organizational Act, Section 22A, the Code of DeKalb County, and the
+   rules of Executive Order 2014-4 allow a gift, meal, travel expense, ticket, or anything else
+   of value to be purchased for a CEO employee by a contractor doing business with the County,
+   the contractor must provide written disclosure, quarterly, of the exact nature and value of
+   the purchase to the Chief Integrity Officer, if created, or the Finance Director or his/her
+   designee. Every contractor conducting business with the County will receive a copy of
+   these ethical rules at the time of execution of the contract.
+
+M. Right to Audit
+
+   The County shall have the right to audit all books and records, including electronic records,
+   relating or pertaining to this contract or agreement, including but not limited to all financial
+   and performance related records, property, and equipment purchased in whole or in part
+   with County funds and any documents or materials which support those records, kept under
+   the control of the Contractor, including but not limited to those kept by the Contractor's
+   employees, agents, assigns, successors and subcontractors. The County also has the right to
+   communicate with Contractor's employees related to the audited records.
+
+   The Contractor shall maintain such books and records, together with such supporting or
+   underlying documents and materials, for the duration of this contract and for seven (7) years
+   after termination or expiration, including all renewals thereof. The books and records, together
+   with supporting documents and materials shall be made available, upon request to the County
+   or its designee, during normal business hours at the Contractor's office or place of business. If
+   no such location is available, then the books, records, and supporting documents shall be made
+   available for audit at a time and location which is convenient for the County.
+
+N. Cooperative Procurement
+
+   The County through the Department of Purchasing and Contracting may permit piggybacks to
+   this contract from other city, county, local authority, agency, or board of education if the
+   vendor will extend the same prices, terms, and conditions to the city. Piggybacking shall only
+   be available where competition was used to secure the contract and only for a period of 12-
+   months following entry, renewal or extension of the contract. This provision shall not apply to
+   any contract where otherwise prohibited or mandated by state law.
+
+
+
+
+                                            18
+19
+                                       ATTACHMENT A
+
+                                   COST PROPOSAL FORM
+                                     (consisting of 2 pages)
+
+                       INTERNAL AFFAIRS SOFTWARE SOLUTION
+
+Responder: Please complete the attached pages 20-21 of the Cost Proposal Form and return
+them with this cover page. The cost proposal (pages 20-21) must be submitted in a separate,
+sealed envelope with the Responder’s name and “Request for Proposals No. 18-500506, Internal
+Affairs Software Solution” clearly identified on the outside of the envelope.
+
+By signing this page, Responder acknowledges that he has carefully examined and fully understands
+the Contract, Scope of Work, and other attached documents, and hereby agrees that if his proposal is
+accepted, he will contract with DeKalb County according to the Request for Proposal documents.
+
+
+Please provide the following information:
+
+Name of Firm: ___________________________________________________________
+
+Address: _______________________________________________________________
+
+Contact Person Submitting Proposal:__________________________________________
+
+Title of Contact Person:____________________________________________________
+
+Telephone Number:_______________________________________________________
+
+Fax Number:_____________________________________________________________
+
+E-mail Address:__________________________________________________________
+
+
+                                            ____________________________________
+                                            Signature of Contact Person
+
+                                            ____________________________________
+                                            Title of Contact Person
+
+
+
+
+                                               20
+                                     ATTACHMENT A
+                                 COST PROPOSAL FORM
+
+
+Responder: State a FIRM FIXED LUMP SUM for all costs, direct and indirect, administrative
+costs, and all things necessary for an Internal Affairs Software Solution.
+
+
+
+               Category                                                 Total
+
+      Software System                                             $__________________
+
+      System Implementation Requirements and Services
+       Professional Services                                      $__________________
+        Training                                                  $__________________
+        Data Migration                                            $__________________
+
+      Maintenance Costs for the 1st Year                          $__________________
+      Maintenance Costs for the 2nd Year                          $__________________
+      Maintenance Costs for the 3rd Year                          $__________________
+      Maintenance Costs for the 4th Year                          $__________________
+      Maintenance Costs for the 5th Year                          $__________________
+      Other Professional Services not listed above (please specify)
+      Travel                                                      $__________________
+                                                                  $__________________
+                                                                  $__________________
+
+
+      Total Proposed Cost:                                        $__________________
+
+
+
+      $___________________________________________________________________
+      (State the TOTAL FIRM FIXED LUMP SUM amount in writing on this line)
+
+
+      $___________________________________________________________________
+      (State the TOTAL FIRM FIXED LUMP SUM amount in figures on this line)
+
+
+
+
+                                              21
+                                  ATTACHMENT B
+
+                            PROPOSAL COVER SHEET
+
+
+NOTE: Read all instructions, conditions and specifications in detail before completing
+this Request for Proposal.
+
+
+Please complete and include this cover sheet with your technical proposal.
+Company Name                                                         Federal Tax ID#
+
+Complete Primary Address                               County           City    Zip Code
+
+Mailing Address (if different)                         City             State   Zip Code
+
+Contact Person Name and Title                          Telephone Number (include area
+                                                       code)
+
+Email Address                                          Fax Number (include area code)
+
+Company Website Address                                Type of Organization (check one)
+
+                                                        Corporation  Joint Venture
+                                                       Proprietorship Government
+
+Proposals for RFP No. 18-500506, Internal Affairs Software Solution described herein
+will be received in the Purchasing & Contracting Department, Room 2nd Floor, The Maloof
+Center, 1300 Commerce Drive, Decatur, Georgia 30030 on December 13, 2018 until 3:00
+p.m. (EST). Proposals shall be marked in accordance with the RFP, Section V.B.
+
+CAUTION: The Decatur Postmaster will not deliver certified or Special Delivery Mail to
+specific addresses within DeKalb County Government. When sending bids or time
+sensitive documents, you may want to consider a courier that will deliver to specific
+addresses.
+
+
+Proposal Cover Sheet should be signed by a representative of Proposer with the authority
+to bind Proposer to all terms, conditions, services, and financial responsibilities in the
+submitted Proposal.
+
+Authorized Representative Signature(s)                           Title(s)
+
+
+Type or Print Name(s)                                            Date
+
+
+
+
+                                            22
+                                ATTACHMENT C
+                    CONTRACTOR REFERENCE AND RELEASE FORM
+List below at least three (3) references, including company name, contact name, address, email
+address, telephone numbers and contract period of whom you have provided a software solution and
+can verify your experience and ability to perform the type of service listed in the solicitation.
+
+ Company Name                                               Contract Period
+
+ Contact Person Name and Title                              Telephone Number (include area code)
+
+ Complete Primary Address                                   City            State       Zip Code
+
+
+ Email Address                                              Fax Number (include area code)
+
+ Project Name
+
+
+ Company Name                                               Contract Period
+
+ Contact Person Name and Title                              Telephone Number (include area code)
+
+ Complete Primary Address                                   City            State       Zip Code
+
+
+ Email Address                                              Fax Number (include area code)
+
+ Project Name
+
+
+ Company Name                                               Contract Period
+
+ Contact Person Name and Title                              Telephone Number (include area code)
+
+ Complete Primary Address                                   City            State       Zip Code
+
+
+ Email Address                                              Fax Number (include area code)
+
+ Project Name
+
+
+                         REFERENCE CHECK RELEASE STATEMENT
+You are authorized to contact the references provided above for purposes of this RFP.
+
+Signed_______________________________________ Title___________________________
+         (Authorized Signature of Proposer)
+Company Name _____________________________________Date _____________________
+
+
+
+                                                   23
+                              ATTACHMENT D
+                 SUBCONTRACTOR REFERENCE AND RELEASE FORM
+List below at least three (3) references, including company name, contact name, address, email
+address, telephone numbers and contract period who can verify your experience and ability to perform
+the type of service listed in the solicitation.
+
+ Company Name                                               Contract Period
+
+ Contact Person Name and Title                              Telephone Number (include area code)
+
+ Complete Primary Address                                   City            State       Zip Code
+
+
+ Email Address                                              Fax Number (include area code)
+
+ Project Name
+
+
+ Company Name                                               Contract Period
+
+ Contact Person Name and Title                              Telephone Number (include area code)
+
+ Complete Primary Address                                   City            State       Zip Code
+
+
+ Email Address                                              Fax Number (include area code)
+
+ Project Name
+
+
+ Company Name                                               Contract Period
+
+ Contact Person Name and Title                              Telephone Number (include area code)
+
+ Complete Primary Address                                   City            State       Zip Code
+
+
+ Email Address                                              Fax Number (include area code)
+
+ Project Name
+
+
+                         REFERENCE CHECK RELEASE STATEMENT
+You are authorized to contact the references provided above for purposes of this RFP.
+
+Signed_______________________________________ Title___________________________
+         (Authorized Signature of Proposer)
+Company Name _____________________________________Date _____________________
+
+
+
+                                                   24
+                                          ATTACHMENT E
+                            DEKALB FIRST LSBE INFORMATION
+                                 WITH EXHIBITS A – B
+
+      SCHEDULE OF LOCAL SMALL BUSINESS ENTERPRISE PARTICIPATION
+                     OPPORTUNITY TRACKING FORM
+
+The Chief Executive Officer and the Board of Commissioners of DeKalb County believe that it is
+important to encourage the participation of small and local businesses in the continuing business of
+County government; and that the participation of these types of businesses in procurement will
+strengthen the overall economic fabric of DeKalb County, contribute to the County’s economy and tax
+base, and provide employment to local residents. Therefore, the Chief Executive Officer and the Board
+of Commissioners have made the success of local small businesses a permanent goal of DeKalb County
+by implementing the DeKalb First Local Small Business Enterprise Ordinance.
+
+     PROVISIONS OF DEKALB FIRST LOCAL SMALL BUSINESS ENTERPRISE (LSBE)
+                                 ORDINANCE
+
+                              Percentage of LSBE Participation Required
+                                         20% of Total Award
+
+                  Certification Designation                  Request For Proposals
+                                                                     (RFP)
+                  LSBE Within DeKalb (LSBE-                Ten (10) Preference
+                  DeKalb)                                  Points
+                  LSBE Outside DeKalb (LSBE-               Five (5) Preference Points
+                  MSA)
+                  Demonstrated GFE                         Two (2) Preference Points
+
+Certified Local Small Business Enterprises (LSBEs) located within DeKalb County and prime
+contractors utilizing LSBEs that are locally-based inside DeKalb County shall receive ten (10) points
+in the initial evaluation of their response to any Request for Proposal. Certified LSBEs located outside
+of DeKalb County but within the nine (9) County Metropolitan Statistical Area (MSA) consisting of
+Cherokee, Clayton, Cobb, Douglas, Fayette, Fulton, Gwinnett, Henry and Rockdale Counties shall
+receive five (5) points in the initial evaluation of their response to any Request for Proposal. Prime
+Contractors who demonstrate sufficient good faith efforts in accordance with the requirements of the
+ordinance shall be granted two (2) points in their initial evaluation of responses to any Request for
+Proposal. Pro-rated points shall be granted where a mixture of LSBE-DeKalb and LSBE MSA firms
+are utilized. Utilization of each firm shall be based upon the terms of the qualified sealed solicitation.
+
+Prime Contractor(s) deemed responsible and remains responsive to an Invitation to Bid (ITB) because
+they are either a certified LSBE-DeKalb or LSBE-MSA firm or has obtained 20% participation of
+an LSBE-DeKalb or LSBE-MSA firm, submits the lowest bid price shall be deemed the
+lowest, responsive and responsible bidder.
+
+Prime Contractor(s) deemed responsible and remains responsive to an Invitation to Bid (ITB) and
+documented good faith efforts, submits a lower bid price than a Prime Contractor that achieved 20%
+LSBE participation, or otherwise required benchmark, then the Prime Contractor who actually met the
+
+
+
+                                                   25
+benchmark will be given the opportunity to match the lowest bid price of the Prime Contractor who
+only made good faith efforts. Prime Contractor(s) who choose not to match the lowest bid price, then
+the Prime Contractor who made the good faith efforts will be deemed the lowest, responsive and
+responsible bidder.
+
+For all qualified sealed solicitations, the Director of Purchasing and Contracting, DeKalb County
+Government, shall determine if the bidder/proposer has included written documentation showing that
+at least twenty percent (20%) of the total contract award will be performed by a certified LSBE. This
+written documentation shall be in the form of a notarized Schedule of LSBE Participation (Attached
+hereto as “Exhibit A”.) For all contracts, a signed letter of intent from all certified LSBEs describing
+the work, material, equipment and/or services to be performed or provided by the LSBE(s) and the
+agreed upon percentage shall be due with the bid or proposal documents and included with “Exhibit A”.
+The certified vendor list establishes the group of Certified LSBE’s from which the bidder/proposer must
+solicit subcontractors for LSBE participation. This list can be found on our website
+http://www.dekalbcountyga.gov/purchasing-contracting/about-purchasing-and-contracting or obtained
+from the Special Projects LSBE Program team.
+
+Prime Contractors failing to meet the LSBE benchmark must document and demonstrate Good Faith
+Efforts in accordance with the attached “Checklist for Good Faith Efforts” portion of “Exhibit A.” The
+notarized Schedule of LSBE Participation shall be due and submitted with each bid or proposal. Failure
+to achieve the LSBE benchmark or demonstrate good faith efforts shall result in a bid or proposal being
+rejected. Prime Contractors that fail to attend the mandatory LSBE meeting in person or via video
+conference shall mean that the Prime Contractor has not demonstrated sufficient good faith efforts and
+its bid or proposal if submitted, shall be deemed non-responsive without any further review.
+
+Upon award, Prime Contractors are required to submit a report detailing LSBE Sub-Contractor usage
+with each request for payment and not less than on a monthly basis. Prime Contractors shall ensure that
+all LSBE sub-contractors have been paid within seven (7) days of the Prime’s receipt of payment from
+the County. Failure to provide requested reports/documentation shall constitute a material breach of
+contract, entitling the County to terminate the Contract for default or pursue other remedies. LSBE sub-
+contractors must confirm payments received from the Prime(s) for each County contract they participate
+in.
+
+For eligible bids/proposals valued over $5,000,000.00, the Mentor-Protégé provision of the Ordinance
+shall apply. Prime Contractors must agree to become mentors and take on an LSBE protégé in an effort
+to enhance the potential of future LSBEs. Qualifying projects shall be performed by both Mentor and
+Protégé through a subcontract between both parties. This requirement is in addition to all other
+applicable sections of the DeKalb First Ordinance. Please review the ordinance, section 2-214 or contact
+the LSBE Program Representative for detailed information regarding this initiative.
+
+
+
+
+                                                  26
+                                              EXHIBIT A
+
+       SCHEDULE OF DEKALB FIRST LOCAL SMALL BUSINESS ENTERPRISE
+                            PARTICIPATION
+                     OPPORTUNITY TRACKING FORM
+
+As specified, Bidders and Proposers are to present the details of LSBE participation below:
+
+PRIME
+BIDDER/PROPOSER___________________________________________________________
+
+SOLICITATION NUMBER: Insert solicitation number
+
+TITLE OF UNIT OF WORK – Insert solicitation name
+
+1.     My firm, as the prime bidder/proposer on this unit of work, is a certified (check all that apply):
+       ____LSBE-DeKalb ____LSBE-MSA
+
+2.     If you are a Certified LSBE-DeKalb or MSA, please indicate below the percentage of that
+       your firm will carry out directly: ____________________________________.
+
+3.     If the prime bidder/proposer is a joint venture, please describe below the nature of the joint
+       venture and level of work and percentage of participation to be provided by the LSBE-DeKalb
+       or MSA joint venture firm.
+
+       ________________________________________________________________________
+
+       ________________________________________________________________________
+
+4.     List the LSBE-DeKalb or MSA subcontractors and/or firms (including suppliers) to be utilized
+       in of this contract, if awarded. No changes can be made in the subcontractors listed below
+       without the prior written approval of the County. Please attach a signed letter of intent from all
+       certified LSBEs describing the work, materials, equipment or services to be performed and/or
+       provided and the agreed upon percentage of work to be performed. A Letter of Intent form is
+       attached hereto as “Exhibit B”.
+
+         Name of Company
+         Address
+
+         Telephone
+         Fax
+         Contact Person
+         Indicate certification status and attach proof
+         of certification:
+         LSBE-DeKalb/LSBE-MSA
+         Description of services to be performed
+
+         Percentage of work to be performed
+
+
+
+                                                   27
+Name of Company
+Address
+
+Telephone
+Fax
+Contact Person
+Indicate certification status and attach proof
+of certification:
+LSBE-DeKalb/LSBE-MSA
+Description of services to be performed
+
+Percentage of work to be performed
+
+Name of Company
+Address
+
+Telephone
+Fax
+Contact Person
+Indicate certification status and attach proof
+of certification:
+LSBE-DeKalb/LSBE-MSA
+Description of services to be performed
+
+Percentage of work to be performed
+
+Name of Company
+Address
+
+Telephone
+Fax
+Contact Person
+Indicate certification status and attach proof
+of certification:
+LSBE-DeKalb/LSBE-MSA
+Description of services to be performed
+
+Percentage of work to be performed
+
+
+                     Please attach additional pages, if necessary.
+
+
+
+
+                                         28
+                                      EXHIBIT A, CONT’D
+
+                                     DEKALB COUNTY
+                             CHECKLIST FOR GOOD FAITH EFFORTS
+
+A bidder/proposer that does not meet the County’s LSBE participation benchmark is required to submit
+documentation to support all “Yes” responses as proof of “good faith efforts.” Please indicate whether
+or not any of these actions were taken:
+
+           Yes          No         Description of Actions
+1.                                 Prime Contractors shall attend a MANDATORY LSBE Meeting in
+                                   person or via video conference within two-weeks of advertisement of
+                                   the solicitation.
+2.                                 Provide a contact log showing the company’s name, contact person,
+                                   address, email and contact number (phone or fax) used to contact the
+                                   proposed certified subcontractors, nature of work requested for quote,
+                                   date of contact, the name and title of the person making the effort,
+                                   response date and the percentage of work.
+3.                                 Provide interested LSBEs via email, of any new relevant information, if
+                                   any, at least 5 business days prior to submission of the bid or proposal.
+4.                                 Efforts made to divide the work for LSBE subcontracting areas likely
+                                   to be successful and to identify portions of work available to LSBEs
+                                   consistent with their availability. Include a list of divisions of work not
+                                   subcontracted and the corresponding reasons for not including them.
+                                   The ability or desire of a bidder/proposer to perform the contract work
+                                   with its own organization does not relieve it of the responsibility to
+                                   make good faith efforts on all scopes of work subject to subcontracting.
+5.                                 Efforts were made to assist potential LSBE subcontractors meet
+                                   bonding, insurance, or other governmental contracting requirements.
+                                   Where feasible, facilitating the leasing of supplies or equipment when
+                                   they are of such a specialized nature that the LSBE could not readily
+                                   and economically obtain them in the marketplace.
+6.                                 Communication via email or phone with DeKalb First Program Staff
+                                   seeking assistance in identifying available LSBEs. Provide DeKalb First
+                                   Program Staff representative name and title, and date of contact.
+7.                                 For all contracts, a signed letter of intent from all certified LSBEs
+                                   describing the work, materials, equipment or services to be performed
+                                   or provided by the LSBE(s) and the agreed upon LSBE participation
+                                   percentage shall be due with the bid or proposal documents.
+8.                                 Other Actions, to include Mentor/Protégé commitment for solicitations
+                                   $5M and above (specify):
+
+
+Please explain all “no” answers above (by number):
+
+
+
+
+                                                 29
+This list is a guideline and by no means exhaustive. The County will review these efforts, along with
+attached supporting documents, to assess the bidder/proposer’s efforts to meet the County’s LSBE
+Participation benchmark. If you require assistance in identifying certified, bona fide LSBEs, please
+contact the Purchasing and Contracting Department - DeKalb First Program, Felton Williams,
+Procurement Projects Manager at 404-371-6312.
+
+
+
+
+                                                30
+                                     EXHIBIT A, CONT’D
+
+      DEKALB FIRST LOCAL SMALL BUSINESS ENTERPRISE SCHEDULE OF
+                           PARTICIPATION
+                     OPPORTUNITY TRACKING FORM
+
+                           Bidder/Proposer Statement of Compliance
+
+    Bidder(s)/Proposer(s) hereby state that they have read and understand the requirements and
+conditions as set forth in the objectives and that reasonable effort were made to support the County
+in providing the maximum practicable opportunity for the utilization of LSBEs consistent with the
+efficient and economical performance of this contract. The Bidder and any subcontractors shall file
+compliance reports at reasonable times and intervals with the County in the form and to the extent
+prescribed by the Director of DeKalb County Purchasing and Purchasing and Contracting
+Department. Compliance reports filed at such times as directed shall contain information as to the
+employment practices, policies, programs and statistics of Contractors and their subcontractors.
+
+
+1.     Non-Discrimination Policy
+       a.    During the performance of this agreement, Contractor agrees to conform to the
+             following Non-Discrimination Policy adopted by the County.
+       b.    Contractor shall not discriminate against any employee or applicant for employment
+             because of race, color, religion, sex, national origin, or disability. The Contractor
+             will take action to ensure that applicants are employed, and the employees are treated
+             during employment without regard to their race, color, religion, sex, national origin,
+             or disability. Such action shall include, but not be limited to, the following:
+             (1)      Employment, upgrading, demotion or transfer; recruitment or recruitment
+                      advertising; layoff or termination; rates of pay or other forms of
+                      compensation; and selection for training, including apprenticeship.
+                      Contractor agrees to post in conspicuous places available to employees and
+                      applicants for employment, notices to be provided setting forth provisions of
+                      this non-discrimination clause.
+             (2)      Contractor shall, in all solicitations or advertisements for employees placed
+                      by or on behalf of Contractor, state that all qualified applicants will receive
+                      consideration for employment without regard to race, color, religion, sex,
+                      national origin, or disability.
+       c.    Without limiting the foregoing, Contractor shall not discriminate on the basis of
+             disability in the admission or access to, or treatment or employment in, the programs
+             and activities, which form the subject of the contract. The Contractor will take
+             action to ensure that applicants for participation in such programs and activities are
+             considered without regard to disability. Such action shall include, but not be limited
+             to, the following:
+             (1)      Contractor agrees to post in conspicuous places available to participants in
+                      its programs and activities notices to be provided setting forth the provisions
+                      of this non-discrimination clause.
+
+
+
+
+                                                31
+            (2)     Contractor shall, in all solicitations or advertisements for programs or
+                    activities, which are the subject of the contract, state that all qualified
+                    applicants will receive consideration for participation without regard to
+                    disability.
+2.   Commitment
+         The undersigned certifies that he/she has read, understands, and agrees to be bound by
+     the bid specifications, including the accompanying Exhibits and other terms and conditions
+     of the Invitation to Bid and/or Request for Proposal regarding LSBE utilization. The
+     undersigned further certifies that he/she is legally authorized by the bidder or responder to
+     make the statements and representations in Exhibit A and that said statements and
+     representations are true and correct to the best of his/her knowledge and belief. The
+     undersigned will enter into formal agreement(s) with the LSBE(s) listed in this Exhibit A,
+     which are deemed by the owner to be legitimate and responsible LSBEs. Said agreement(s)
+     shall be for the work and contract with the Prime Contractor. The undersigned understands
+     and agrees that if any of the statements and representations are made by the Bidder knowing
+     them to be false, or if there is a failure of the successful Bidder (i.e., Contractor) to
+     implement any of the stated agreements, intentions, objectives, goals and commitments set
+     forth herein without prior approval of the County, then in any such events the contractor’s
+     act or failure to act, as the case may be, shall constitute a material breach of contract,
+     entitling the County to terminate the Contract for default. The right to so terminate shall be
+     in addition to, and not in lieu of, any other rights and remedies the County may have for
+     other defaults under the Contract. Additionally, the Contractor will be subject to the loss of
+     any future contract awards by the County for a period of one year.
+
+     Firm Name (Please Print):
+     _________________________________________________________________
+
+     Firm’s Officer:
+     _________________________________________________________________
+     (Authorized Signature and Title Required)                   Date
+
+     Sworn to and Subscribed to before me this ____ day of_______________, 201__.
+
+     _________________________________________________________________
+     Notary Public
+     My Commission Expires:_____________________________________________
+
+
+
+
+                                              32
+                                           EXHIBIT B
+
+                LETTER OF INTENT TO PERFORM AS A SUBCONTRACTOR
+                        PROVIDING MATERIALS OR SERVICES
+
+Instructions:
+
+1. Complete the form in its entirety and submit with bid documents.
+2. Attach a copy of the LSBE’s current valid Certification Letter.
+
+To:__________________________________________________________________________
+(Name of Prime Contractor Firm)
+
+From: ________________________________________                   LSBE –DeKalb     LSBE –MSA
+      (Name of Subcontractor Firm)                                   (Check all that apply)
+
+ITB Number: 18-500506
+
+Project Name: Internal Affairs Software Solution__________________________
+
+The undersigned subcontractor is prepared to perform the following described work or provide
+materials or services in connection with the above project (specify in detail particular work items,
+materials, or services to be performed or provided).
+
+                                                                                          % of
+                                                                                        Contract
+  Description of Materials or Services            Project/Task Assignment                Award
+
+
+
+
+Prime Contractor                              Sub-contractor
+
+Signature:_________________________           Signature:______________________________
+
+Title:_____________________________           Title:__________________________________
+
+Date:_____________________________            Date: __________________________________
+
+
+
+
+                                                33
+     ATTACHMENT F
+
+ SAMPLE COUNTY CONTRACT
+
+
+
+
+SAMPLE
+
+
+
+           34
+                  AGREEMENT FOR PROFESSIONAL SERVICES
+
+                                  DEKALB COUNTY, GEORGIA
+
+
+THIS AGREEMENT made as of this ____day of _____, 20___, (hereinafter called the “execution
+date”) by and between DEKALB COUNTY, a political subdivision of the State of Georgia (hereinafter
+referred to as the “County”), and ____________________, a corporation organized and existing under
+the laws of the State of __________, with offices in __________ __________, __________
+(hereinafter referred to as “Contractor”), shall constitute the terms and conditions under which the
+Contractor shall provide _______________________ in DeKalb County, Georgia.
+WITNESSETH: That for and in consideration of the mutual covenants and agreements herein set forth,
+the County and the Contractor hereby agree as follows:
+
+
+                                ARTICLE I. CONTRACT TERM
+
+         The Contractor shall commence the Work under this Contract within ten (10) days from the
+acknowledgement of receipt of the Notice to Proceed. As required by O.C.G.A §36-60-13, this
+Contract shall (i) terminate without further obligation on the part of the County each and every
+
+
+
+
+              SAMPLE
+December 31st, as required by O.C.G.A. § 36-60-13, as amended, unless terminated earlier in
+accordance with the termination provisions of this Contract; (ii) automatically renew on each January
+1st, unless terminated in accordance with the termination provisions of this Contract; and (iii) terminate
+absolutely, with no further renewals, on December 31, 20XX, unless extended by Change Order
+adopted and approved by the DeKalb County Governing Authority and the Contractor in accordance
+with the terms of this Contract.
+
+                                    ARTICLE III. PAYMENT
+        As full payment for the faithful performance of this Contract, the County shall pay the
+Contractor, the Contract Price, which is an amount not to exceed ______________ ($__________),
+unless changed by written Change Order in accordance with the terms of this Contract. The term
+“Change Order” includes the term “amendment” and shall mean a written order authorizing a change
+in the Work, and an adjustment in Contract Price to Contractor or the Contract Term, as adopted and
+approved by the Contractor and the DeKalb County Governing Authority, or the Chief Executive
+Officer, if exempted from Governing Authority adoption and approval in accordance with the express
+terms of this Contract. The Chief Executive Officer or his/her designee shall have the authority to
+approve and execute a Change Order lowering the Contract Price or increasing the Contract Price up
+to twenty percent (20%) of the original Contract Price, provided that the total amount of the increase
+authorized by such Change Order is less than $100,000.00. If the original Contract or Purchase Order
+Price does not exceed $100,000.00, but the Change Order will make the total Contract Price exceed
+$100,000.00, then the Change Order will require approval by official action of the Governing
+Authority. Any other increase of the Contract Price shall be by Change Order adopted and approved
+by the DeKalb County Governing Authority and the Contractor in accordance with the terms of this
+Contract. Amounts paid to the Contractor shall comply with and not exceed Attachment A, the
+Contractor’s Cost Proposal, consisting of ______ page(s) attached hereto and incorporated herein by
+reference. Payment is to be made no later than thirty (30) days after submittal of undisputed invoice.
+        Invoice(s) must be submitted as follows:
+
+        A. Original invoice(s) must be submitted to:
+
+
+                                                   35
+               DeKalb County, Georgia
+               Attention: “USER DEPARTMENT”
+               ________________________
+               ________________________
+
+            B. Upon award, Prime Contractor(s) with Local Small Business Enterprise (LSBE)
+            Subcontractor(s) shall enter utilization reports electronically at www.dekalblsbe.info.
+            Proof of payment to the LSBE Subcontractor must be uploaded and submitted. LSBE
+            Subcontractors shall confirm receipt of payment from the Prime, electronically also, at
+            www.dekalblsbe.info
+
+
+
+
+                                ARTICLE IV. SCOPE OF WORK
+
+The Contractor agrees to provide all ___________ services in accordance with the County’s Request
+for Proposals (RFP) No. XX-XXXXXX for _______________________, attached hereto as Appendix
+I and incorporated herein by reference, and the Contractor’s response thereto, attached hereto as
+Appendix II and incorporated herein by reference.
+
+
+
+
+              SAMPLE
+The Contractor’s services shall include all things, personnel, and materials necessary to accomplish
+specific projects authorized by the County. Specific Work Authorizations will have precedence over
+any interpretation within the Contract.
+                                     ARTICLE V. GENERAL CONDITIONS
+     A. Accuracy of Work The Contractor shall be responsible for the accuracy of the Work and any
+error and/or omission made by the Contractor in any phase of the Work under this Agreement.
+     B. Additional Work The County shall in no way be held liable for any work performed under
+this section which has not first been approved in writing by the County in the manner required by
+applicable law and/or the terms of this Contract. The County may at any time order changes within
+the scope of the Work without invalidating the Contract upon seven (7) days written notice to the
+Contractor. The Contractor shall proceed with the performance of any changes in the Work so ordered
+by the County unless such change entitles the Contractor to a change in Contract Price, and/or Contract
+Term, in which event the Contractor shall give the County written notice thereof within fifteen (15)
+days after the receipt of the ordered change, and the Contractor shall not execute such changes until it
+receives an executed Change Order from the County. No extra cost or extension of time shall be
+allowed unless approved by the County and authorized by execution of a Change Order. The parties’
+execution of any Change Order constitutes a final settlement of all matters relating to the change in the
+Work which is the subject of the Change Order. The County shall not be liable for payment for any
+work performed under this section which has not first been approved in writing by the County in the
+manner required by applicable law and/or the terms of this Contract.
+     C. Ownership of Documents All documents, including drawings, estimates, specifications, and
+data are and remain the property of the County. The Contractor agrees that the County may reuse any
+and all plans, specifications, drawings, estimates, or any other data or documents described herein in
+its sole discretion without first obtaining permission of the Contractor and without any payment of any
+monies to the Contractor therefore. However, any reuse of the documents by the County on a different
+site shall be at its risk and the Contractor shall have no liability where such documents are reused.
+
+
+
+
+                                                   36
+     D. Right to Audit The County shall have the right to audit all books and records, including
+electronic records, relating or pertaining to this contract or agreement, including but not limited to all
+financial and performance related records, property, and equipment purchased in whole or in part with
+County funds and any documents or materials which support those records, kept under the control of
+the Contractor, including but not limited to those kept by the Contractor’s employees, agents, assigns,
+successors and subcontractors. The County also has the right to communicate with Contractor’s
+employees related to the audited records.
+    The Contractor shall maintain such books and records, together with such supporting or underlying
+documents and materials, for the duration of this contract and for seven (7) years after termination or
+expiration, including any and all renewals thereof. The books and records, together with supporting
+documents and materials shall be made available, upon request to the County or its designee, during
+normal business hours at the Contractor’s office or place of business. In the event that no such location
+is available, then the books, records, and supporting documents shall be made available for audit at a
+time and location which is convenient for the County.
+     E. Successors and Assigns The Contractor agrees it shall not sublet, assign, transfer, pledge,
+convey, sell, or otherwise dispose of the whole or any part of this Contract or his right, title, or interest
+therein to any person, firm, or corporation without the previous written consent of the County. If the
+County consents to any such assignment or transfer, then the Contractor binds itself, its partners,
+successors and assigns to all covenants of this Contract. Nothing contained in this Contract shall create,
+nor be interpreted to create privity, or any other relationship whatsoever, between the County and any
+person, or entity or than Contractor.
+
+
+
+
+              SAMPLE
+     F. Reviews and Acceptance Work performed by the Contractor shall be subject to review and
+acceptance in stages as required by the County. Acceptance shall not relieve the Contractor of its
+professional obligation to correct, at his own expense, any errors in the Work.
+     G. Termination of Agreement The Contractor understands and agrees that the date of the
+beginning of Work, rate of progress, and time for completion of the Work are essential conditions of
+this Contract. The County may, for its own convenience and at its sole option, without cause and
+without prejudice to any other right or remedy of County, elect to terminate the Contract by delivering
+to the Contractor, at the address listed in the Notices article of this Contract, a written notice of
+termination specifying the effective date of termination. Such notice shall be delivered to Contractor
+at least thirty (30) days prior to the effective date of termination. If Contractor’s services are terminated
+by the County, the termination will not affect any rights or remedies of the County then existing or
+which may thereafter accrue against Contractor or its surety. In case of termination of this Contract
+before completion of the Work, Contractor will be paid only for the portion of the Work satisfactorily
+performed through the effective date of termination as determined by the County. Neither party shall
+be entitled to recover lost profits, special, consequential or punitive damages, attorney’s fees or costs
+from the other party to this Contract for any reason whatsoever. This Contract shall not be deemed to
+provide any third-party with any remedy, claim, right of action, or other right. The parties’ obligations
+pursuant to this Section shall survive any acceptance of Work, or termination or expiration of this
+Contract.
+     H. Indemnification Agreement The Contractor shall be responsible from the execution date or
+from the time of the beginning of the Work, whichever shall be the earlier, for all injury or damage of
+any kind resulting from the Work, to persons or property, including employees and property of the
+County. The Contractor shall exonerate, indemnify, and save harmless the County, its elected officials,
+officers, employees, agents and servants, hereinafter collectively referred to in this Section as “the
+County Indemnitees,” from and against all claims or actions based upon or arising out of any damage
+or injury (including without limitation any injury or death to persons and any damage to property)
+caused by or sustained in connection with the performance of this Contract or by conditions created
+thereby or arising out of or any way connected with Work performed under this Contract, as well as
+
+
+
+                                                     37
+all expenses incidental to the defense of any such claims, litigation, and actions. Furthermore,
+Contractor shall assume and pay for, without cost to the County Indemnitees, the defense of any and
+all claims, litigation, and actions suffered through any act or omission of the Contractor, or any
+Subcontractor, or anyone directly or indirectly employed by or under the supervision of any of them.
+Notwithstanding any language or provision in this Contract, Contractor shall not be required to
+indemnify any County Indemnitee against claims, actions, or expenses based upon or arising out of the
+County Indemnitee’s sole negligence. As between the County Indemnitees and the Contractor as the
+other party, the Contractor shall assume responsibility and liability for any damage, loss, or injury,
+including death, of any kind or nature whatever to person or property, resulting from any kind of claim
+made by Contractor’s employees, agents, vendors, Suppliers or Subcontractors caused by or resulting
+from the performance of Work under this Contract, or caused by or resulting from any error, omission,
+or the negligent or intentional act of the Contractor, vendors, Suppliers, or Subcontractors, or any of
+their officers, agents, servants, or employees. The Contractor shall defend, indemnify, and hold
+harmless the County Indemnitees from and against any and all claims, loss, damage, charge, or expense
+to which they or any of them may be put or subjected by reason of any such damage, loss, or injury.
+The Contractor expressly agrees to provide a full and complete defense against any claims brought or
+actions filed against the County Indemnitees, where such claim or action involves, in whole or in part,
+the subject of the indemnity contained in this Contract, whether such claims or actions are rightfully
+or wrongfully brought or filed. The County has the sole discretion to choose the counsel who will
+provide the defense. No provision of this Contract and nothing herein shall be construed as creating
+any individual or personal liability on the part of any elected official, officer, employee, agent or
+
+
+
+
+             SAMPLE
+servant of the County, nor shall the Contract be construed as giving any rights or benefits hereunder to
+anyone other than the parties to this Contract. The parties’ obligations pursuant to this Section shall
+survive any acceptance of Work, or termination or expiration of this Contract.
+    I. Insurance Prior to commencing work, Contractor shall, at its sole expense, procure and
+maintain insurance of the types and in the amounts described below from insurer(s) authorized to
+transact business in the state where the work or operations will be performed by Contractor. Such
+insurance shall be placed with admitted insurers that maintain an A.M. Best's rating of not less
+than “A” (Excellent) with a Financial Size Category of VII or better with coverage forms
+acceptable to Contractor. The insurance described below shall be maintained uninterrupted for the
+duration of the project, including any warranty periods, and shall protect Contractor, and others as
+required by contract, for liabilities in connection with work performed by or on behalf of
+Contractor, its agents, representatives, employees or Contractors.
+        1.       Certificates of Insurance in companies doing business in Georgia and acceptable to the
+                 County covering:
+                 (a)     Statutory Workers’ Compensation Insurance, or proof that Contractor is not
+                         required to provide such coverage under State law;
+                         (1) Employer’s liability insurance by accident, each accident $1,000,000
+                         (2) Employer’s liability insurance by disease, policy limit $1,000,000
+                         (3) Employer’s liability insurance by disease, each employee $1,000,000
+                 (b)     Professional Liability Insurance on the Contractor’s services in this Agreement
+                         with limit of $1,000,000;
+                 (c)     Commercial General Liability Insurance covering all operations with
+                         combined single limit of $1,000,000;
+                 (d)     Comprehensive Automobile Liability Insurance with form coverage for all
+                         owned, non-owned and hired vehicles with combined single limit of
+                         $1,000,000.
+                 (e)     Umbrella or Excess Insurance. Umbrella or excess insurance is to be provided
+                         with General Liability, Auto Liability and Employers Liability scheduled as
+
+
+                                                  38
+                   underlying policies with limits not less than the following:
+                   $5,000,000 per occurrence
+                   $5,000,000 aggregate
+2.        Additional Insured Requirement:
+          (a)      The County, its elected officials, officers, employees and agents, hereinafter
+                   referred to in this article and in the article entitled “Certificates of
+                   Insurance” as “the County and its officers” are to be named as additional
+                   insured on all policies of insurance except worker’s compensation insurance
+                   with no cross suits exclusion. The County and its officers shall be included
+                   as additional insureds under commercial general liability and commercial
+                   umbrella insurance, for liabilities arising out of both the ongoing and
+                   completed operations of Contractor. Such additional insured coverage shall
+                   be endorsed to Contractor’s policy by attachment of ISO Additional Insured
+                   Endorsement forms CG 20 10 10 01 (ongoing operations) and CG 20 37 10
+                   01 (products-completed operations), or form(s) providing equivalent
+                   coverage.
+          (b)      All coverages required of the Contractor will be primary over any insurance
+                   or self-insurance program carried by the County.
+          (c)      If the Contractor is a joint venture involving two (2) or more entities, then
+                   each independent entity will satisfy the limits and coverages specified here
+
+
+
+
+          SAMPLE
+                   or the joint venture will be a named insured under each respective policy
+                   specified.
+     3.    Fidelity Bond coverage shall be provided. Coverage limits shall not be less than the
+          amount scheduled in the contract.
+
+     4. Certificates of Insurance must be executed in accordance with the following provisions:
+         (a)      Certificates to contain policy number, policy limits, and policy expiration date
+                  of all policies issued in accordance with this Agreement;
+         (b)      Certificates to contain the location and operations to which the insurance
+                  applies;
+         (c)      Certificates to contain Contractor’s protective coverage for any subcontractor’s
+                  operations;
+         (d)     Certificates to contain Contractor’s contractual liability insurance coverage;
+         (e)     Certificates are to be issued to:
+                                 DeKalb County, Georgia
+                                 Director of Purchasing & Contracting
+                                 The Maloof Center, 2nd Floor
+                                 1300 Commerce Drive
+                                 Decatur, Georgia 30030
+     5. The Contractor shall be wholly responsible for securing certificates of insurance
+         coverage as set forth above from all subcontractors who are engaged in this work.
+     6. The Contractor agrees to carry statutory Workers’ Compensation Insurance and to have
+         all subcontractors likewise carry statutory Workers’ Compensation Insurance.
+     7. Contractor agrees to waive all rights of subrogation and other rights of recovery against
+         the County and its officers and shall cause each Subcontractor to waive all rights of
+         subrogation for all coverage, excluding Professional E&O.
+     8. Failure of the County to demand such certificate or other evidence of full compliance
+         with these insurance requirements or failure of the County to identify a deficiency from
+
+
+
+                                            39
+               evidence provided will not be construed as a waiver of the Contractor’s obligation to
+               maintain such coverage. Contractor understands and agrees that the purchase of
+               insurance in no way limits the liability of the Contractor.
+           9. Certificates shall state that the policy or policies shall not expire, be cancelled or altered
+               without at least sixty (60) days prior written notice to the County. Policies and
+               Certificates of Insurance listing the County and its officers as additional insureds
+               (except for workers’ compensation insurance) shall conform to all terms and conditions
+               (including coverage of the indemnification and hold harmless agreement) contained in
+               this Contract.
+           10. If the County shall so request, the Contractor will furnish the County for its inspection
+               and approval such policies of insurance with all endorsements, or confirmed specimens
+               thereof certified by the insurance company to be true and correct copies. Contractor
+               shall be responsible and have the financial wherewithal to cover any deductibles or
+               retentions included on the certificate of insurance.
+
+    J. Georgia Laws Govern The laws of the State of Georgia shall govern the construction of this
+Contract without regard for conflicts of laws. Should any provision of this Contract require judicial
+interpretation, it is agreed that the court interpreting or construing the same shall not apply a
+presumption that the terms hereof shall be more strictly construed against one party, by reason of the
+rule of construction, that a document is to be construed more strictly against the party who itself or
+through its agent prepared same; it being agreed that the agents of all parties have participated in the
+
+
+
+
+              SAMPLE
+preparation hereof, and all parties have had an adequate opportunity to consult with legal counsel. In
+interpreting this Contract in its entirety, the printed provisions of this Contract, and any additions
+written or typed hereon, shall be given equal weight, and there shall be no inference by operation of
+law or otherwise; that any provision of this Contract shall be construed against either party hereto.
+    K. Venue This Agreement shall be deemed to have been made and performed in DeKalb County,
+Georgia. For the purposes of venue, all suits or causes of action arising out of this Agreement shall be
+brought in the courts of DeKalb County, Georgia.
+    L. Contractor and Subcontractor Evidence of Compliance; Federal Work Authorization
+Pursuant to O.C.G.A. §13-10-91, the County cannot enter into a contract for the physical performance
+of services unless the Contractor, its Subcontractor(s) and sub-subcontractor(s), as that term is defined
+by state law, register and participate in the Federal Work Authorization Program to verify specific
+information on all new employees. Contractor certifies that it has complied and will continue to
+comply throughout the Contract Term with O.C.G.A. §13-10-91 and any related and applicable
+Georgia Department of Labor Rule. Contractor agrees to sign an affidavit evidencing its compliance
+with O.C.G.A. §13-10-91. The signed affidavit is attached to this Contract as Attachment B.
+Contractor agrees that in the event it employs or contracts with any Subcontractor(s) in connection
+with this Contract, Contractor will secure from each Subcontractor an affidavit that certifies the
+Subcontractor’s current and continuing compliance with O.C.G.A. §13-10-91 throughout the Contract
+Term. Any signed Subcontractor affidavit(s) obtained in connection with this Contract shall be
+attached hereto as Attachment C. Each Subcontractor agrees that in the event it employs or contracts
+with any sub-subcontractor(s), each Subcontractor will secure from each sub-subcontractor an affidavit
+that certifies the sub-subcontractor’s current and continuing compliance with O.C.G.A. §13-10-91
+throughout the Contract Term. Any signed sub-subcontractor affidavit(s) obtained in connection with
+this Contract shall be attached hereto as Attachment D.
+    M. County Representative The County may designate a representative through whom the
+Contractor will contact the County. In the event of such designation, said representative shall be
+consulted and his written recommendation obtained before any request for extra work is presented to
+
+
+
+
+                                                    40
+the County. Payments to the Contractor shall be made only upon itemized bill submitted to and
+approved by said representative.
+     N. Contractor’s Status The Contractor will supervise and direct the Work, including the Work
+of all Subcontractors. Only persons skilled in the type of work which they are to perform shall be
+employed. The Contractor shall, at all times, maintain discipline and good order among his employees,
+and shall not employ any unfit person or persons or anyone unskilled in the work assigned him. The
+relationship between the County and the Contractor shall be that of owner and independent contractor.
+Other than the consideration set forth herein, the Contractor, its officers, agents, servants, employees,
+and any Subcontractors shall not be entitled to any County employee benefits including, but not limited
+to social security, insurance, paid annual leave, sick leave, worker's compensation, free parking or
+retirement benefits. All services provided by Contractor shall be by employees of Contractor or its
+Subcontractors and subject to supervision by Contractor. No officer or employee of Contractor or any
+Subcontractor shall be deemed an officer or employee of the County. Personnel policies, tax
+responsibilities, social security payments, health insurance, employee benefits and other administrative
+policies, procedures or requirements applicable to the Work or services rendered under this Contract
+shall be those of the Contractor, not the County.
+     O. Georgia Open Records Act Contractor shall comply with the applicable provisions of
+the Georgia Open Records Act, O.C.G.A. §50-18-70 et seq.
+     P. First Source Jobs Ordinance and Preferred Employees The Contractor is required to comply
+with the DeKalb County First Source Jobs Ordinance, Code of DeKalb County as Revised 1988,
+section 2-231 et seq., and among other things, is required to make a good faith effort to hire DeKalb
+
+
+
+
+              SAMPLE
+County residents for at least fifty percent 50% of all jobs created by an Eligible Project, as that term is
+defined in the First Source Ordinance, using the First Source Registry. Contractors, subcontractors,
+and independent contractors bidding on this contract will be encouraged by DeKalb County to have
+25% or more of their labor forces for this project consist of Preferred Employees selected from the
+First Source Registry. The First Source Registry has Preferred Employees trained by U.S. Department
+of Labor registered apprenticeship programs and other partners. For information on Preferred
+Employees, please contact the DeKalb County Workforce Development by telephone at 404-687-3417
+or 404-687-7171or in person at 320 Church Street, Decatur, GA 30030.
+     Q. Business License Contractor shall submit a copy of its current, valid business license with
+this Contract. If the Contractor is a Georgia corporation, Contractor shall submit a valid county or city
+business license. If Contractor is a joint venture, Contractor shall submit valid business licenses for
+each member of the joint venture. If the Contractor is not a Georgia corporation, Contractor shall
+submit a certificate of authority to transact business in the state of Georgia and a copy of its current,
+valid business license issued by its home jurisdiction. If Contractor holds a professional license, then
+Contractor shall submit a copy of the valid professional license. Failure to provide the business license,
+certificate of authority, or professional license required by this section, may result in the Contract being
+terminated. Contractor shall ensure that any insurance, license, permit or certificate submitted in
+response to the County’s RFP or as part of the Contract shall be current and valid when submitted, and
+shall remain valid, current and maintained in good standing for the Contract Term.
+     R. Sole Agreement This Contract constitutes the sole contract between the County and the
+Contractor. The terms, conditions, and requirements of this Contract may not be modified, except by
+Change Order. No verbal agreement or conversation with any officer, agent, or employee of the
+County, either before or after the execution of the Contract, shall affect or modify any of the terms or
+obligations herein contained. No representations, oral or written, shall be binding on the parties unless
+expressly incorporated herein. No Change Order shall be enforceable unless approved by official action
+of the County as provided by law or in this Contract.
+     S. Attachments and Appendices This Contract includes the following Attachments and
+Appendices all of which are incorporated herein by reference: Attachment A, Contractor’s Cost
+
+
+
+                                                    41
+Proposal; Appendix I, County’s RFP; Appendix II, Contractor’s Response; Attachment B,
+Contractor’s Affidavit; Attachment C, Subcontractor’s Affidavit(s); Attachment D, Sub-
+subcontractor’s Affidavit(s); and Attachment E, Certificate of Corporate Authority or Joint Venture
+Certificate.
+    T. Severability If any provision of this Contract or the application thereof to any person or
+circumstance shall to any extent be held invalid, then the remainder of this Contract or the application
+of such provision to persons or circumstances, other than those as to which it is held invalid, shall not
+be affected thereby, and each provision of this Contract shall be valid and enforced to the fullest extent
+permitted by law.
+    U. Notices Any notice or consent required to be given by or on behalf of any party hereto to any
+other party hereto shall be in writing and shall be sent to the County’s Chief Executive Officer and the
+Executive Assistant or to the Contractor or his authorized representative on the work site by (a)
+registered or certified United States mail, return receipt requested, postage prepaid, (b) personal
+delivery, or (c) overnight courier service. All notices sent to the addresses listed below shall be binding
+unless said address is changed in writing no less than fourteen days before such notice is sent. Future
+changes in address shall be effective upon written notice being given by the Contractor to the County’s
+Executive Assistant or by the County to the Contractor’s authorized representative via certified first
+class U.S. mail, return receipt requested. Such notices will be addressed as follows:
+        If to the County:
+
+                                         Chief Executive Officer
+
+
+
+
+              SAMPLE
+                                         1300 Commerce Drive, 6th Floor
+                                         Decatur, GA 30030
+
+                                         and
+
+                                         Executive Assistant
+                                         1300 Commerce Drive
+                                         Decatur, Georgia 30030
+
+                With a copy to:          Chief Procurement Officer
+                                         1300 Commerce Drive, 2nd Floor
+                                         Decatur, Georgia 30030
+
+                With a copy to:          Director of the Finance Department
+                                         1300 Commerce Drive
+                                         Decatur, Georgia 30030
+
+
+
+        If to the Contractor:
+
+                                          ____________________,
+                                          ____________________
+                                          _________________________
+                                          ____________________
+                                          _________________________
+
+
+
+
+                                                    42
+    V. Counterparts This Contract may be executed in several counterparts, each of which shall be
+deemed an original, and all such counterparts together shall constitute one and the same Contract.
+    W. Controlling Provisions The Contract for this Project shall govern the Work. If any portion of
+the Contract shall be in conflict with any other portion, the various documents comprising the Contract
+shall govern in the following order of precedence: Contract, Change Orders or modifications issued
+after execution of the Contract; the provisions of the County’s RFP; and the Contractor’s Response
+thereto.
+
+                             [SIGNATURES CONTINUE ON NEXT PAGE]
+
+
+
+
+             SAMPLE
+
+
+
+                                                  43
+        IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed
+        in three counterparts, each to be considered as an original by their authorized
+        representative.
+______________________________                  DEKALB COUNTY, GEORGIA
+
+
+
+By:                                (SEAL)                                 by Dir.(SEAL)
+       Signature                             MICHAEL L. THURMOND
+                                             Chief Executive Officer
+                                             DeKalb County, Georgia
+       Name (Typed or Printed)
+
+                                                   Date
+       Title
+
+
+       Federal Tax I.D. Number
+
+
+      Date
+
+
+
+
+             SAMPLE
+ATTEST:                                      ATTEST:
+
+
+
+
+       Signature                             BARBARA H. SANDERS, CCC, CMC
+                                             Clerk of the Chief Executive Officer
+                                             and Board of Commissioners of
+       Name (Typed or Printed)               DeKalb County, Georgia
+
+
+       Title
+
+
+APPROVED AS TO SUBSTANCE:                    APPROVED AS TO FORM:
+
+
+
+
+Department Director                          County Attorney Signature
+
+
+                                             County Attorney Name (Typed or Printed)
+
+
+
+
+                                            44
+                                           ATTACHMENT G
+
+                                      RESPONDER AFFIDAVIT
+
+        By executing this affidavit, the undersigned verifies its compliance with O.C.G.A. § 13-10-91, as
+amended, stating affirmatively that the responder submitting a bid to DEKALB COUNTY, GA, a political
+subdivision of the State of Georgia, has registered with and is participating in a federal work authorization
+program* [any of the electronic verification of work authorization programs operated by the United States
+Department of Homeland Security or any equivalent federal work authorization program operated by the
+United States of Homeland Security to verify information of newly hired employees, pursuant to the
+Immigration Reform and Control Act of 1986 (IRCA), P.L. 99-603], in accordance with the applicability
+provisions and deadlines established in O.C.G.A. § 13-10-91, as amended].
+
+
+
+Responder’s Name                                                         Federal Work Authorization
+                                                                         Enrollment Date
+
+BY:     Authorized Officer or Agent
+
+
+Title of Authorized Officer or Agent of Bidder                           Identification Number
+
+
+Printed Name of Authorized Officer or Agent
+
+
+Address (*do not include a post office box)
+
+
+SUBSCRIBED AND SWORN
+BEFORE ME ON THIS THE
+_________ DAY OF ________________, 20__
+
+
+Notary Public
+My Commission Expires:          ________________________
+
+
+
+
+                                                     45
+                                                          ATTACHMENT H
+
+                                  FIRST SOURCE JOBS ORDINANCE INFORMATION
+                                             (WITH EXHIBITS 1 – 4)
+
+                                                                EXHIBIT 1
+
+                            FIRST SOURCE JOBS ORDINANCE ACKNOWLEDGEMENT
+
+The DeKalb County First Source Ordinance requires contractors or beneficiaries of eligible projects entering into any type of agreement
+with the County, including purchase orders, regardless of what they may be called, for the procurement or disposal of supplies, services,
+construction projects, professional or consultant services, which is funded in whole or part with County funds or County administered funds
+in which the contractor is to receive $50,000 or more in County expenditures or committed expenditures and recipient of urban
+redevelopment action grants or community development block funds administered in the amount of $50,000 or more to make a good faith
+effort to hire DeKalb County residents for at least 50% of jobs created using the First Source Registry (candidate database) within one
+hundred twenty (120) days of contract execution. The work to be performed under this contract is subject to the provisions of the DeKalb
+County First Source Jobs Ordinance. All contractors will be asked to submit an Employment Roster and/or copies of active payroll registers
+on a monthly basis to verify compliance. The undersigned acknowledges and agrees to comply with the provisions of the DeKalb County
+First Source Jobs Ordinance.
+
+CONTRACTOR OR BENEFICIARY INFORMATION:
+
+
+Contractor or Beneficiary Name (Signature)
+
+
+Contractor or Beneficiary Name (Printed)
+
+
+Title
+
+Telephone
+
+Email
+_______________________________________
+Name of Business
+
+Please answer the following questions:
+
+             1.   How many job openings do you anticipate filling related to this contract? _____
+
+    2. How many incumbents/existing employees will retain jobs due to this contract?
+       DeKalb Residents: _____ Non-DeKalb Residents: _____
+
+    3. How many work hours per week constitutes Full Time employment? ______
+
+         Please return this form to WorkSource DeKalb, (404)687-3900 or email to fkadkins@dekalbcountyga.gov,
+         malee@dekalbcountyga.gov, vlnicksion@dekalbcountyga.gov, or jmjones@dekalbcountyga.gov
+
+                  WorkSource DeKalb (WSD) is an EEO/M/F/D/V employer/program. Auxiliary aids/services are available upon request to
+              individuals with disabilities. Persons with hearing impairments may call 1-800-255-0135 or 711 TTY for assistance. WSD is
+            100% funded by the U. S. Department of Labor and is a proud partner of the American Job Center Network. Revised March
+                                                                                                                                 2018
+
+
+
+
+                                                                      46
+                     FIRST SOURCE JOBS ORDINANCE INFORMATION
+                                     EXHIBIT 2
+
+                               NEW EMPLOYEE TRACKING FORM
+
+Name of Bidder______________________________________________________________________
+Address_____________________________________________________________________________
+E-Mail______________________________________________________________________________
+Phone Number_______________________________________________________________________
+Fax Number_________________________________________________________________________
+Do you anticipate hiring from the First Source Candidate Registry? Y or N (Circle one)
+If so, the approximate number of employees you anticipate hiring: _____________________________
+
+  Type of Position (s) you anticipate hiring:       The number you                      Timeline
+                                                    anticipate hiring:
+  (List position title, one position per line)
+     Attach job description per job title:
+
+
+
+
+Please return this form to WorkSource DeKalb, fax (404) 687-4099 or email to
+FirstSourceJobs@dekalbcountyga.gov.
+
+
+
+
+                                                     47
+                           FIRST SOURCE JOBS ORDINANCE INFORMATION
+                                           EXHIBIT 3
+
+                                    BUSINESS SERVICE REQUEST FORM
+
+note: We need one form completed for each position that you have available.
+
+:                                                FEDERAL TAX ID:
+
+      COMPANY NAME:                                               WEBSITE:
+
+      ADDRESS:
+
+      (WORKSITE ADDRESS IF DIFFERENT):
+
+      CONTACT NAME:
+
+      CONTACT PHONE:                                              CONTACT FAX:
+
+      CONTACT E-MAIL ADDRESS:
+
+      Are you a private employment agency or staffing agency?                YES       NO
+
+      JOB DESCRIPTION: (PLEASE INCLUDE A COPY OF JOB DESCRIPTION)
+
+      POSITION TITLE:
+
+      NUMBER OF POSITIONS AVAILABLE:_________ TARGET START DATE:__________
+
+      WEEKLY WORK HOURS:                    20-30 hours               30-40 hours        Other
+
+      SPECIFIC WORK SCHEDULE:
+
+      SALARY RATE(OR RANGE):
+
+      PERM               TEMP               TEMP-TO-PERM                    SEASONAL
+
+      PUBLIC TRANSPORTATION ACCESSIBILITY                             YES           NO
+
+      IF SCREENINGS ARE REQUIRED, SELECT ALL THAT APPLY:
+         CREDIT   DRUG    MVR    BACKGROUND      OTHER __________________________
+      Please return form to: Business Solutions Unit (First Source)
+                             774 Jordan Lane Bldg. #4
+                             Decatur, Ga. 30033
+                             Phone: (404) 687-3400
+                             FirstSourceJobs@dekalbcountyga.gov
+
+
+
+
+                                                            48
+                         FIRST SOURCE JOBS ORDINANCE INFORMATION
+                                         EXHIBIT 4
+
+                                            EMPLOYMENT ROSTER
+                                               DeKalb County
+
+Contract Number: ______________________
+Project Name:________________________
+Contractor: ___________________________                                  Date: _______________________
+       Name             Position:   Start    Hourly     Hired     Anticipated   % of Time   Full or   Georgia County
+                                    Date     Rate of   for this    Length of    Dedicated    Part     of Residency
+                                              Pay      Project?   Employment      to the    Time?
+                                                       (yes/no)    (Months)      Project    (No. of
+                                                                                            Hours)
+
+
+
+
+                                                         49
+

@@ -1,0 +1,53 @@
+                                                                         STANDARD PURCHASE ORDERS
+
+Type                         Purchase      Purchase    Release      Delivery             Receiving Information             Invoice Distribution form         Invoice       Receipt Close
+                             Requisition   Order                                                                           (IDF)                             Matching      Match
+Tangible Goods and           Yes           Set price   No           Standard Delivery    Receipt Traveler – done by        No – If department receives       3-way match   0%
+Equipment                                                           through one of the   Receiving and Expediting          vendor’s invoice, must forward
+                                                                    docks                                                  invoice to AP with PO #
+Tangible Goods and           Yes           Set price   No           Direct Delivery      Department needs to fill out      No – If department receives       3-way match   0%
+Equipment                                                                                Departmental Receipt and          vendor’s invoice, must forward
+                                                                                         forward to Expediting for input   invoice to AP with PO #
+                                                                                         into AIS
+One-time Service(s), i.e.,   Yes           Set price   No           Direct Delivery      No Receiving required             Yes – put invoice with IDF and    2-way match   0%
+speaker, repair of                                                                                                         send to Disbursements
+equipment, etc.
+Multi-payment services,      Yes           Set         No           Direct Delivery      No Receiving required             Yes – put invoice with IDF and    2-way match   100%
+i.e., lease payments,                      agreement                                                                       send to Disbursements
+maintenance, utilities,
+etc.
+
+     PLANNED PURCHASE ORDERS FOR MISCELLANEOUS ITEMS (SUPPLIES, BOOKS, SERVICES, SPORTING GOODS, ETC.) (ONE VENDOR – SAME
+                                                       CATEGORY)
+
+Type                         Purchase      Purchase    Release      Delivery             Receiving Information             Invoice Distribution form         Invoice       Receipt Close
+                             Requisition   Order                                                                           (IDF)                             Matching      Match
+Goods and Services – NO      Yes           Set         Yes          Direct Delivery      No Receiving required             Yes – Put invoice with IDF and    2-way match   10%
+equipment                                  agreement                                                                       Release and send to Purchasing
+                                                                                                                           for input into AIS, Purchasing
+                                                                                                                           will forward to Disbursements
+                                                                                                                           for payment
+
+          SYSTEM WIDE BLANKET ORDERS – BERGEN BRUNSWIG (#2), CORPORATE EXPRESS (BT BUSCHART) (#1), FISHER SCIENTIFIC (#6714)
+
+Type                         Purchase      Purchase    Release      Delivery             Receiving Information             Invoice Distribution form         Invoice       Receipt Close
+                             Requisition   Order                                                                           (IDF)                             Matching      Match
+System Wide Blanket –        No            No          Blanket      Direct Delivery      Receiving required – should be    Yes – put invoice with IDF and    3-way match   0%
+for Goods                                              Release –                         done by department then           forward to Purchasing for input
+                                                       entered in                        forwarded to Expediting for       into AIS, Purchasing will
+                                                       system by                         input of receiving information    forward to Disbursments for
+                                                       Purchasing                        for the departments               payment
+System Wide Blanket –        No            No          Blanket      Direct Delivery      No Receiving required             Yes – put invoice with IDF and    2-way match   0%
+for services – NONE SET                                Release                                                             forward to Purchasing for input
+UP AT THIS TIME                                                                                                            into AIS, Purchasing will
+                                                                                                                           forward to Disbursments for
+                                                                                                                           payment
+
+                       UNENCUMBERED PAYMENTS – REGISTRATIONS, MEMBERSHIPS, SUBSCRIPTIONS, INTERVIEWEE EXPENSES, ETC.
+
+Type                         Purchase      Purchase    Release      Delivery             Receiving Information             Invoice Distribution form         Invoice       Receipt Close
+                             Requisition   Order                                                                           (IDF)                             Matching      Match
+Unencumbered Payments        No            No          No           No                   No                                Yes – put invoice with IDF and    No            No
+forward to Disbursments for
+payment
+

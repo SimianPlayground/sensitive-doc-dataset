@@ -1,0 +1,299 @@
+                        REQUEST FOR PROPOSALS (RFP) for
+              Document Management Software System for the City of Bismarck
+
+Scope of Work
+The City of Bismarck’s Finance Department is seeking experienced, qualified, and professional vendors
+to provide document management software. The City is upgrading their current New World System,
+(NWS), Financial and Human Resources Software System to Logos.NET, a browser based system. The
+City uses Real Vision Imaging, (RVI), an AS400 vendor for the current document management system
+(DMS). The City currently scans accounts payable documents centrally in the Finance office and
+documents are viewed city-wide by users. The City will continue to image documents in Logos.NET and
+may increase the types of imaged documents and decentralize some of the scanning activities to the
+departments. The City also needs to convert the current RVI imaged documents to the new DMS so the
+historical imaged documents can be viewed in Logos.NET. The DMS will reside on the City’s network
+server/platform, provide software implementation and data conversion services, user training and
+manuals, and offer on-going technical support, software upgrades and annual maintenance.
+
+Project Objectives
+The Request for Proposal (RFP) is intended to solicit services for the purchase and implementation of
+Document Management Software, data conversion services, user training and technical support, software
+upgrades and annual maintenance capabilities.
+
+Proposal Submission Deadline
+Five hard copies of the proposal, including a sample contract, must be submitted in a sealed envelope by
+hand delivery, regular mail, or delivery service no later than 3:00 PM CST, April 9, 2010. The envelope
+shall be clearly marked on the exterior as containing “Response to the RFP for DMS”. Proposals must be
+delivered to:
+                 City of Bismarck Finance Department
+                 Attention: Wayne Stoppler
+                 221 N. 5th Street P.O. Box 5503
+                 Bismarck, ND 58506-5503
+
+Proposals will be publically opened at 4:00 PM CST on April 9, 2010 in the Finance Conference Room,
+3rd floor of the City/County Building, 221 N. 5th Street
+
+Proposal should be submitted as follows:
+
+        a.      Please address and respond to the RFP items in the order in which they are presented on
+                the Project Requirements.
+        b.      Include, on the cover letter, a signature of someone at the vendor firm who has
+                administrative authority to validate the contents of the response which represent business
+                expectations. All information contained within the RFP responses will be used for the
+                evaluation process and may be part of the final contract.
+        c.      Include the name of the vendor designated primary contact that will have overall
+                responsibility for the project after selection. Clearly state the sub-consultants who will be
+                assigned to work on the DMS.
+                                                       1
+        d.      Proposals will be accepted until 3:00 p.m. April 9, 2010. No proposals will be
+                accepted after that time. Later proposals will be returned unopened. The City
+                Commission reserves the right to reject any and all proposals.
+        e.      The City of Bismarck will not pay for any costs or expenses in the preparation or
+                submission of RFPs.
+        f.      Proposals may be withdrawn at any time prior to the deadline of the receipt upon written
+                request of the vendor. Negligence on the part of the vendor in proposal preparation shall
+                not constitute a right to withdraw proposals, after it has been received
+        g.      Questions about the Request for Proposals may be directed to:
+
+                        City of Bismarck Finance Department
+                        Attention: Wayne Stoppler, IT Manager
+                        221 N. 5th Street, P.O. Box 5503
+                        Bismarck, ND 58506-5503
+                        wstopple@nd.gov
+                        701-355-1635
+
+A list of vendor questions and responses provided during DMS RFP preparation will be e-mailed to all
+vendors who have provided their e-mail addresses to Wayne Stoppler by April 2, 2010.
+
+RFP Guidelines:
+The RFP Guidelines are defined in the “Selection Process, Evaluation Criteria and Project Requirements.”
+
+Selection Process
+The selection committee of City of Bismarck will review and evaluate all properly submitted proposals
+received on or before the deadline. Proposals will be reviewed for compliance with the vendor
+qualifications and requirements of the RFP. The selection committee will evaluate and score the proposals
+based on the features and costs. The vendor recommended by the committee will be forwarded to the
+Board of City Commissioners for final approval.
+
+The City of Bismarck reserves the right to:
+   1. Conduct pre-award discussion and/or pre-award/contract negotiations with vendors who submit
+       proposals determined to be reasonably acceptable of being selected for award.
+   2. Conduct personal interviews or schedule presentations/webinars of any or all vendors prior to
+       selection; and make investigations of the qualification for vendors as it deems appropriate.
+   3. Complete a qualifying screening process, in the event that five (5) or more vendors submit
+       proposals. The qualifying screening will be based on delivery and project requirements as written
+       on submitted proposals. The qualifying screening process will result in the top three (3) selected
+       proposals to go on to a final scored selection process based on the “Selection Process and
+       Evaluation Criteria” sheet.
+   4. Request vendor(s) to modify proposals or provide reasonable information, if the selection
+       committee requires such to make the final selection.
+   5. Accord fair and equal treatment with respect to any opportunity for discussion and revisions of
+       proposals. Such revisions may be permitted after submission of proposals and prior to award.
+
+                                                   2
+    6. Negotiate any modifications to a proposal that are deemed acceptable, waive minor irregularities
+       in the procedures, and reject any and all proposals.
+    7. Process the selection of the successful proposer without further discussion.
+    8. Waive any irregularity in any proposal or reject any and all proposals, should it be deemed it is in
+       the best interest of the City to do so. City of Bismarck Finance Department shall be the sole judge
+       of vendors’ qualifications and reserves the right to verify all information submitted in RFPs.
+    9. Add the RFP response to the contract as an addendum.
+
+Evaluation Criteria
+Proposals will be evaluated by the selection committee based the following criteria:
+   1. Firm services and experience
+   2. Experience and performance for similar or like customers
+   3. Understanding of scope of project and proposed solutions
+   4. Demonstrated successful application(s) of proposed DMS with Logos.NET
+   5. Knowledge of current and future technologies
+   6. Personnel assignments and qualification
+   7. Costs and future benefits
+
+Project Approach
+The City of Bismarck is updating their current New World Systems software from the iSeries licensed
+standard software to the Logos.NET licensed standard software. A description of the financial and human
+resources modules are listed in Exhibit A. The City currently scans account payable documents centrally
+in the Finance office and documents are viewed city-wide by users. The City currently has 150 authorized
+users for Logos.NET. The City will continue to image documents in Logos.NET and may increase the
+types of documents imaged and decentralize some of the scanning activities to the departments. The City
+also needs to convert the current RVI imaged documents to the new DMS so the historical imaged
+documents can be viewed in Logos.NET.
+
+The primary document management system in place for the City is RVI on the iSeries. The Police
+Department is operating a separate iSeries which supports Sungard Public Sector “Crimes, ” their RMS
+system, as well as RVI for document management of police records.
+
+The City needs to enhance document image and content management capabilities by replacing RVI with
+a Windows based, enhanced system capable of linking and/or interfacing to all city application software
+systems and that will also support the Police department..
+
+A list of the City servers, application software, current scanned images and existing scanning equipment
+are included in Exhibit B.
+
+Project Requirements
+
+    1. Vendor Qualifications:
+    Describe vendor’s business including:
+           a) Vendor services and experience (years) in DMS design and sales
+
+                                                    3
+       b) Firm’s current financial condition or at a minimum provide the current annual financial
+          statements, as an addendum
+       c) Services to other governmental entities of similar size and at least two cities using New
+          World Systems Logos.NET or equivalent financial software who the City can contact as
+          references and/or discuss the proposed DMS solution. Preference shall be given to
+          Logos.NET references.
+
+2. Project Scope and Proposed Solution:
+Describe proposal and implementation plan including:
+       a) Detail description of the DMS solution that will demonstrate (1) scanning and viewing
+            capabilities that will support the New World System Logos.NET system software, (2)
+            conversion process for RVI historical images, (3) data storage requirements and (4)
+            capabilities to provide linking and/or interfacing to browser-based and current AS400
+            applications.
+       b) Licensing requirements including system software, scanning stations and user viewing
+            stations. Identify whether the software licensing is based on concurrent usage and
+            indicate how the usage is managed for scanning stations and user viewing stations.
+       c) Hardware and operating software requirements to support the DMS which will be
+            provided by the City and number of users supported by these requirements.
+       d) Minimum and optimum PC specifications for scanning the document images.
+       e) Minimum and optimum PC specifications for viewing the images.
+       f) The interface capabilities that the DMS supports.
+       g) Describe security capabilities and levels.
+       h) Describe availability and features for any application programming interface (API) within
+            the DMS system.
+       i) Provide a list of other items not noted elsewhere that are required for implementation or
+            maintenance of your system as well as an explanation of their benefits.
+       j) Provide a list of other items not noted elsewhere that may be useful for implementation or
+            maintenance of your system as well as an explanation of their benefits.
+
+3. Project personnel and support service
+   Describe services including:
+      a) Implementation process for the DMS
+      b) Training and assistance available for implementation and on-going system support
+      c) Estimated time and schedule for implementation, training and data conversion
+      d) Project personnel assignments and qualifications
+
+4. Project Costs
+   Detail cost proposal including:
+      a) Software cost identified by unit cost, number of units and total cost
+      b) Annual maintenance cost that identifies the unit cost, number of units and total cost and
+           basis for annual increases.
+      c) Costs for professional services for installation, data conversion and training
+      d) An hourly rate for additional professional services
+
+                                               4
+                              City of Bismarck
+                                                         Exhibit A
+New World Systems
+Logos.Net Application Software
+
+Financial Management
+     Logos.Net Financial Mangement Base Suite
+           General Ledger
+           Budget Management
+           Annual Budget Preparation
+           Accounts Payable Module
+           Revenue/Cash Receipting
+     Logos.Net Additional Financial Mangement Software
+           Asset Management
+           Grant Management
+           Project Accounting
+           Miscellaneous Billing & Receivables
+           Government (GASB) Reporting
+           Business Analytics
+           Bank Reconciliation
+     Logos.Net Procurement Management Suite
+           Puchasing Base
+           Requisition Processing
+           Contract Accounting
+
+Payroll & Human Resources
+     Logos.Net Human Resources Management Base Suite
+           Payroll Processing
+           Personnel Management
+     Logos.Net Human Resources
+           Employee Event Tracking
+     Logos.Net Additional Payroll & HR Modules
+           Position Control
+           Position Budgeting
+           Time & Attendance Interface
+           Business Analytics
+
+eSuite
+     eSuite Base Software
+     e HR
+             ePersonnel
+             ePayroll
+                                                City of Bismarck
+                                                                                                Exhibit B-1
+Major Software Involved in Project
+
+   Application Software       Current or    Operating    Primary      Link/interface Database    Notes/
+                                Future       System   Department User to Document     Type      Comments
+                              Application                             Management
+
+New World Systems – Fiscal Current          AS400     Fiscal              No        AS400 DB2 RVI Currently
+                                                                                              Used
+New World Systems – HR      Current         AS400     HR                  No        AS400 DB2 RVI Currently
+                                                                                              Used
+New World Systems – Fiscal Current          Windows   Fiscal, All Other   Yes       MS SQL
+                                                      Department Have
+                                                      Inquiry Access
+New World Systems – HR      Current         Windows   HR                  Yes       MS SQL
+Permits, Licenses, Contracts Future         Windows   Administration      Yes
+ESRI – GIS                  Future          Windows   All Departments     Yes       MS SQL
+CAMA                        Future          Windows   Assessing                     MS SQL
+Subdivision and Plat Maps   Future          Windows   Engineering         Yes
+Building Permits            Future          AS400     Community           Yes       AS400 DB2
+                                                      Development
+                                               City of Bismarck
+                                                                                                             Exhibit B-2
+Servers/Mid-Range Involved in Project
+
+  Servers Mid-Range Type/Model     Operating       Primary          Available Disk         Primary            Notes/
+                                    System     Department using     space stated in     Applications         Comments
+                                                    Server          Gigabytes GB      Residing on Server
+
+City Hall - AS400 – 9406 – 270   AS400 V5R4    All Departments                        Bldg Permits         Attached 3995
+
+Combined Communications – AS400 AS400 V5R4     Public Safety
+– 9406 – 270
+IBM x3550 Servers                Windows       Anyone using        Have iSCSI SAN .Net – 3 servers         Testing/Training
+                                 Server 2003   financial and HR                   (Application, SQL,       and E-Suite
+                                               software                           Testing/Training, E-     server is
+                                                                                  Suite)                   Vmware
+                                                                                                           partitioned.
+
+IBM x3650 (BISISS7)              Windows       All Departments                        File Server          Contracts,
+                                 Server 2003                                                               Applications,
+                                                                                                           Plats, ETC
+IBM x3650 (BISISS8)              Windows       All Departments                        GIS
+                                 Server 2003
+HP Server (BISISS11)             Windows       Assessing, other                       CAMA                 Real Estate
+                                 Server 2003   departments                                                 Property Data
+                                               inquiry as needed
+                              City of Bismarck
+                                                                     Exhibit B-3
+Existing Scanners Involved in Project
+
+    Scanner Type/Model      Approximate age        Primary       Network
+                            or acquired Date     Department Attached or USB
+                                                using Scanner      SCSI
+Fujitsu – fi-4220c          4 years            Fiscal         SCSI
+Fujitsu – fi-4220c          6 years or more    Fiscal             SCSI
+Fujitsu – fi-5120c          2 years            HR                 USB
+Fujitsu – fi 4220c          5 years            Police             SCSI
+
+
+
+
+Existing Index Image Index Data
+
+         Description              Type           Page Count         Image Index
+                                                                      Count
+AP – Invoices               Scanned Images              718,835            290,659
+
+
+Our 3995 has 15 platters (5.2 GB Double sided IBM p/n 59H4791) in operation to support the above table.
+Not all platters are full.
+

@@ -1,0 +1,346 @@
+Approved for Public Release: 12-0527.
+
+
+     Applying the Fundamentals of Quality to Software
+                       Acquisition
+              Steve Bygren, Greg Carrier, Tom Maher, Patrick Maurer, David Smiley, Rick Spiewak, Christine Sweed
+                                                  The MITRE Corporation
+                                                     Bedford, MA 01730
+
+
+ Abstract— Historically, software developed under government
+ contracts often does not stand up under real-world use, and
+ defects frequently result in cost and schedule overruns. While
+ proposed development activities from contractors commonly list
+ measures to improve quality, these descriptions cannot be used to
+ select a winning bidder if they are not part of the evaluation
+ criteria. By making software quality requirements explicit at the
+ proposal stage, contractor selection can be influenced by criteria
+ based on best practices in software development.
+
+    Keywords-component; software quality; contractor evaluation;                Figure 1 Acquisition process overview
+ acquisition; government contracts; software development
+                                                                          The Materiel Solution Analysis phase determines the set of
+                         I.    MOTIVATION                             available solutions to that need. If technology development is
+     To improve the quality of software and software-intensive        required, organizations may be contracted to deliver that
+ products, a “Quality in Depth” approach is needed -                  technology. Similarly, organizations may be contracted to take
+ introducing quality related measures at every stage of software      mature technology and develop or manufacture products based
+ acquisition. In a previous article [1], one of the authors           on it. In either case, source selection takes place using a
+ provided recommendations for improving software quality at           request for proposal (RFP) process. This process is shown in
+ the construction phase. This paper discusses how to apply these      Figure 2.
+ same principles to the source selection process.
+     In order to find a way to include software practices as
+ selection criteria, the authors set out to identify and recommend
+ changes to specific sections government Requests for Proposals
+ (RFP). Of particular interest are the Instructions for Proposal
+ Preparation (IFPP) and Evaluation Criteria (EC), known as
+ “Section L” and “Section M” respectively. The end goals of
+ these changes are to improve software and system quality, and
+ to reduce uncertainty (risk) in the software acquisition process.      Figure 2 Source selection phase of acquisition process
+ These changes will enable selection teams to identify
+ contractors whose software development processes and                     In source selection, an RFP is prepared and released
+ compliance with software quality standards are more likely to        detailing the product or service required, timeframe for
+ produce the desired results.                                         execution, deliverable items, as well as how each RFP response
+                                                                      will be evaluated. The government evaluates each proposal
+                        II.   BACKGROUND                              using the metrics specified; as such, respondents or “offerors”
+                                                                      compete on the basis of these metrics. The RFP and response
+ A. Quality and the acquisition process                               shape the contract between the government and those
+                                                                      organizations selected to perform the work.
+     Government acquisition of products and services is a highly
+ complex process. The Defense Acquisition Guidebook [3]
+                                                                      B. Software quality
+ provides detailed guidance on the process and responsibilities
+ of those involved at each stage.                                         Quality is often thought of as an absence of defects. With
+                                                                      many software products however, “defect” does not adequately
+     Figure 1 summarizes the phases of acquisition [3]. The           describe the range of phenomena that affect software quality as
+ process begins with determination of a need to be filled, or a       perceived by the customers, end users and other stakeholders.
+ “Materiel Development Decision”. Depending on the nature of          Using Crosby’s philosophy [2], we define the term “software
+ the need, the acquisition may begin at any point in the figure.      quality” to mean conformance to the requirements of the
+                                                                      software product’s users and other stakeholders. The more
+
+                                                  ©2012 IEEE. All Rights Reserved.
+closely a software product conforms to these requirements, the          Some SMEs proposed that contracts be structured to
+higher its quality.                                                 include enforcement / incentives that encourage contractors to
+                                                                    develop according to the software development plan (SDP).
+    For our study, we were particularly interested in software
+quality as it affects the acquisition process for defense related       The SMEs pointed out that RFP evaluations should be
+software. While end user requirements are of prime                  made on the basis methods, skills and expertise, rather than
+importance, poor software development and quality monitoring        prior contracts. This is to ensure potential respondents are not
+practices in early- and mid-stage acquisition can result in         excluded.
+failure to provide the desired results. These failures range from
+unwanted or missing features to cost and schedule overruns to           Acquisition SMEs and DoD guide materials highlighted
+critical flaws in system security or reliability.                   that contracts should avoid “telling contractors how to build”
+                                                                    and instead state the requirements to be met. In developing
+                                                                    example RFP text, the authors had to balance this with the
+C. Measuring software quality                                       needs of timely verification and validation.
+    Software quality as an outcome is best measured by the
+number of defects encountered after development is complete            The SMEs favored quantitative metrics for evaluation
+as the numerator, divided by the “size” of the software as the      where possible.
+denominator. One could also argue that if two different
+products were to be compared, some sort of “difficulty factor”      A. Recommendations for “Instructions for Proposal
+could be applied, as well as references to the software language        Preparation” (Section L)
+or development environment employed, e.g., assembly code                The instructions for proposal preparation provide guidance
+versus high order languages, or object-oriented versus              on the information requested for evaluation. The set below is
+functional languages.                                               intended as an example to facilitate RFP writing, and should be
+    Metrics exist which can be used to estimate the potential       modified to suit the specific acquisition strategy.
+defects in code. These are based on the use of function points         1.   The offeror’s proposal shall include a proposed
+as the measure of “size.” Function points can also be (loosely)             Software Development Plan (SDP) which describes
+correlated with the commonly used measurement – Source                      their approach to software development, to include the
+Lines of Code (SLOC).                                                       tools, techniques and standards to be used for
+                                                                            development, unit testing and component testing;
+                        III.   APPROACH                                     integration    tools   and    techniques    (including
+                                                                            configuration management) used to ensure the integrity
+    This article is the outcome of a study the authors conducted            of system builds; the number and type of reviews that
+at MITRE. Our approach was to gather information from
+                                                                            are part of the development process; and the methods
+Subject Matter Experts (SMEs), contracting officers, and                    and tools used to manage defect reports and analysis,
+acquisition experts for recommendations for additions to                    including root cause analysis as necessary. The
+proposal documents. We gathered initial information through                 proposed SDP will form the basis for a completed SDP
+correspondence with SMEs on internal email groups lists. We                 to be available after contract award as a Contract
+then iterated through rounds of interviews with identified                  Deliverable Requirements List (CDRL) item, subject to
+SMEs and development of draft RFP text. Reference materials                 government review and approval.
+from the Air Force and Navy were found which provided
+recommendations from prior work [4][5]. We then adapted the            2.   The offeror shall describe their plan for effective code
+suggestions to Sections L and M to more thoroughly describe                 reuse in order to minimize the amount of new code to
+software quality related criteria for source selection. Some of             be developed. Reused code can come from any origin,
+these criteria are aimed at the technical evaluation team, while            including previous efforts by the offeror or as provided
+some can be used by cost evaluators and past performance                    by the Government in the bidders’ library.
+evaluators as well as the technical team.
+                                                                       3.   The offeror shall provide a Basis of Estimate (BOE)
+   The example RFP text, contract elements and guidance for                 describing the rationale for the proposed staffing. The
+evaluators were developed iteratively, with refinement by the               detail of the BOE shall include labor hours for each
+authors and review by acquisition SMEs.                                     labor category (e.g., system engineering staff versus
+                                                                            software engineering staff) for the identified tasks in
+                         IV.   RESULTS                                      the Work Breakdown Structure (WBS) as it relates to
+                                                                            the Statement of Work (SOW).
+    The results from SME interviews were incorporated into
+example RFP text and reviewed with SMEs. While the results             4.   The offeror shall describe the process for orientation
+are latent in this text, the following elements were considered             and training for all project employees (e.g. certification
+important by the SMEs.                                                      and training in software best practices including
+                                                                            Information Assurance (IA) and risk management).
+   The SMEs viewed software quality oversight as important
+to information assurance (IA) validation, in addition to               5.   The offeror shall describe related systems experience,
+reducing acquisition program risk. This is because software                 including a description of previous experience
+quality practices reduce exposure to IA vulnerabilities.                    developing software of the same nature, and a
+                                                                            description of the extent to which personnel who
+
+                                                 ©2012 IEEE. All Rights Reserved.
+            contributed to these previous efforts will be supporting          The IMS and accompanying narrative will be evaluated
+            this effort.                                                  for level of detail and relevance of significant program
+                                                                          activities, degree of alignment, the proposed program
+      6.    The offeror shall describe proposed development               staffing profile, and integration of the proposed SDP into the
+            practices. For example, if spiral / incremental               IMS.       Additionally, critical path elements and key
+            development, they shall describe the number, duration,        dependencies will be assessed for relevance, completeness
+            and scope of spirals, as well as how the use of your          and the manner and level of risk containment.
+            approach would result in improved product quality and
+            user satisfaction over time.                                    Table 1 provides sample ratings for evaluating the software
+                                                                        development plan. It corresponds to the example RFP text. An
+      7.    The offeror shall provide an Integrated Master              “unacceptable” rating may be added depending on the
+            Schedule (IMS) and accompanying narrative that              thresholds of a specific acquisition need.
+            describes all significant program activities that are
+            aligned with the proposed program staffing profile.            Table 1 Sample Ratings for SDP Evaluation Criteria
+            Include a timeline for completion of each activity          Software                             RFP Response Evaluation
+            identified in the proposed program. Provide details         Development
+                                                                                               Marginal          Acceptable      Superior
+            that clearly describe the purpose for and importance of     Process Criteria
+            key activities. Identify all critical path elements and     Number and type        1 (any)           2               3 or more
+            key dependencies.                                           of peer reviews                          (design,code)   (requirements,
+                                                                                                                                 design, code, test)
+B. Recommendations for “Evaluation Criteria” (Section M)                Use of automated       unit tests        75% code        >85% code
+                                                                        unit testing           written after     coverage on     coverage on all
+   The text below provides example text for section M of an             including test         manual testing    new or          delivered code.
+RFP. Like the prior section, this text is expected to be                coverage               or only on        modified        Use of Test
+modified to suit the acquisition strategy. Further, sections L          requirements           selected code     code            Driven
+and M should correspond to one another.                                                                                          Development
+                                                                        Use of automated       used              used            additional rules or
+      The proposed SDP shall show a complete and                        syntax analysis        selectively or    consistently    tools specific to
+  comprehensive software development process, which                     tools; adherence to    with heavily      with standard   security analysis
+  incorporates best practices as well as standards such as IEEE         the incorporated       modified rules    rules
+  12207-2008. The contractor will be evaluated based on how             rules
+  their processes, as described in the SDP, incorporate the use         Breadth / depth of     formal            automated       continuous
+  of software best practices.                                           integration and test   integration       processes       integration
+                                                                        methods including      and test          applied         including syntax
+      Evaluation criteria related to the SDP include the                continuous                               periodically    analysis and unit
+  following:                                                            integration tools if                                     tests
+                                                                        used
+  •        The number and type of peer reviews
+                                                                        Use of readiness       individual        integrated      automated part of
+  •        The use of automated unit testing including test             requirements such      manual testing    testing by      check-in and
+           coverage requirements                                        as unit test and                         developer       continuous
+                                                                        syntax analysis for                                      integration
+  •        The use of automated syntax analysis tools and               code check-in                                            process
+           adherence to the rules incorporated by them                  Configuration          by individual     system-wide     managed tool
+                                                                        management and         developer         repository      with pre-check-in
+  •        The comprehensiveness of integration and test methods,       source code                                              requirements
+           including continuous integration tools if used               control tools +
+                                                                        techniques
+  •        The use of readiness requirements such as unit test and
+           syntax analysis for code check-in                            Extent that root       “red-team”        serious         routine periodic
+                                                                        cause analysis of      only              defects         analysis of defect
+  •        Configuration management and source code control             defects is part of                                       pool
+                                                                        the development
+           tools and techniques                                         process
+  •        The extent to which root cause analysis of defects is part   Selection of any       replacement       demonstrates    systematic
+           of the development process                                   source code to be      with              knowledge of    approach to reuse
+                                                                        reused / re-written    contractor’s      base code       and
+  •        The selection of software source code to be reused,          from previous          previous work                     modernization
+           replaced or rewritten from previous implementations or       implementations
+           other origins, including a description of how it will be
+           ensured that reused code meets or is brought up to the
+           same standards as newly developed code. Risks
+           associated with reused software shall also be discussed.
+           Such software shall include government rights to the
+           source code.
+
+
+
+                                                     ©2012 IEEE. All Rights Reserved.
+  V.    RECCOMENDATIONS FOR INCORPORATING SOFTWARE               B. Rationale for Incorporating Recommended RFP
+           QUALITY MEASURES IN CONTRACTS                             Language
+    The contract development process includes several steps at       The recommended RFP language was derived by the
+which information can be gathered and requirements set to        authors from a variety of sources including MITRE acquisition
+include software quality as a measure of vendor performance.     subject matter experts, existing guidance documents from the
+                                                                 Navy and Air Force, and also from the authors’ experience.
+  1) Sections L & M or equivalent from the RFP                   We have tried to provide a succinct rationale as to why the
+  • Add software quality measures as a discriminating factor     language asks for specific information from the contractor in
+     in selecting the contractor                                 the RFP:
+  •    Enumerate expectations in this area:                        •   The Software Development Plan (SDP) is a maturity
+           o    Types of methods used                                  indicator of the bidder’s development process. By
+                                                                       evaluating this, and then putting its provisions under
+           o    Evidence to be provided                                contract, it becomes possible to select a contractor on the
+                                                                       basis of development methodology and then obligate
+ 2) Technical Requirements Document (TRD), Statement of
+                                                                       them to perform as proposed.
+Objectives (SOO),Statement of Work (SOW)
+                                                                   •   Automated unit tests & comprehensive peer reviews are
+                                                                       widely used best practices. Capers Jones has noted that
+   Add requirements in the form of deliverable items – as              these are among the required steps to achieve effective
+CDRLs or Data Accession List (DAL) items as appropriate.               defect removal.
+Examples include the following:
+                                                                   •   Continuous Integration (CI) often includes the
+  •    Output of automated unit tests showing code coverage at         automated invocation of tests and code analysis during
+       or above required minimum                                       the build process. CI and static analysis expose
+  •    Output of automated syntax analysis            showing          problems earlier in the development process. The earlier
+       conformance to pre-determined rules                             problems are discovered, the lower the cost to resolve.
+  •    Evidence of accomplishing required peer reviews             •   Root cause analysis prevents the introduction of defects
+                                                                       and is a recognized best practice in all approaches to
+  •    Itemized list of tools with version numbers used to             process improvement. It is a Capability Maturity Model
+       produce output from each source module                          Integration (CMMI) Level 5 practice area. Prevention is
+  •    Programmer’s reference manual with examples                     more cost effective than detecting and fixing defects
+                                                                       after they are introduced.
+  •    Interface definitions
+                                                                   •   The Basis of Estimate (BoE) helps the evaluator
+  •    List of all software components with the following              understand the bidder’s cost to compare against industry
+       information:                                                    averages and government cost models. By examining
+                                                                       proposed labor categories, this can be checked against
+           o    Purpose and function                                   predicted labor distributions from government cost
+           o    Interfaces provided                                    models as well.
+           o    Language/version for each module                   •   The Integrated Master Schedule (IMS) can be checked
+                                                                       for alignment with required milestone dates, and it
+           o    Complete source code                                   supports an independent estimate.
+  •    Source from architectural design tool where available
+                                                                 C. Guidance for Evaluation Team Experience
+  •    Use cases (text and diagrams)
+                                                                     The government’s evaluation team must have relevant
+  •    Class diagrams where applicable                           software engineering experience. The experience should cover
+                                                                 the full life cycle of software development from design to
+  •    Complete list of any third-party components with          development, integration, testing and delivery. If the proposal
+       version numbers                                           is seeking a particular style of development methodology (e.g.,
+  •    Contact information for any outside dependencies          waterfall, spiral/incremental, agile), then the evaluation team
+                                                                 should have experience in that methodology in order to
+  •    Build procedures, including documentation for building    evaluate the RFP response.
+       all software components from source code
+                                                                     Since a significant portion of the suggested contract
+  •    Test procedures – including any automated unit tests      language relates to software quality monitoring, the evaluators
+       with source code, test scripts                            should be familiar with monitoring methods such as unit
+                                                                 testing, peer reviews, continuous integration (CI), static code
+                                                                 analysis, and metrics. Evaluators should also have some
+                                                                 knowledge of how these techniques are applied. For example,
+
+
+                                               ©2012 IEEE. All Rights Reserved.
+understanding when and how automated unit testing is applied           contracted out, look for further CMMI level compliance
+to software development for “test-driven development” ensures          information on the specific division/unit and sub-contractor(s)
+the evaluator can reconcile software development claims                as applicable.
+against other RFP response elements such as the SDP and IMS.
+                                                                       Development Process
+    The field of software engineering is diverse. It is                   If the proposal declares that a development process will be
+insufficient to simply have general software engineering               used that will involve multiple iterations / spirals / increments
+experience on the evaluation team without further having               (which is standard practice), then the evaluation team should
+experience in the applicable domain(s). Examples of these              look for further details on the process to include the following:
+domains include real-time / embedded, kernel / operating
+systems, numerical / digital signal processing, web                      •    What is the duration and scope of each increment?
+applications, service oriented architectures (SOA), information
+retrieval / search, security, and human-computer interface.              •    Are lessons and obstacles from one increment reviewed
+                                                                              for improvement to a subsequent increment?
+    Finally, the evaluation team should have an understanding
+of the CMMI process and rating criteria.                                 •    Is user (customer) feedback interaction only up front or
+                                                                              do most increments incorporate this? And how is that
+D. Guidance for Evaluating Technical Responses                                feedback prioritized?
+    The recommended contract language in this article includes           •    Are multiple increments planned in sufficient detail, or
+Section M of the RFP, also appearing as Evaluation Criteria.                  are only the present and possibly next increment
+The language is not very specific so as to elicit responses that              planned?
+are more original than simply claiming to do a long list of
+things that the government is checking for. In this section, we        Software Engineering
+discuss more specific guidance for the evaluation team in                  One key thing to look for in a proposal is to what degree the
+evaluating the responses.                                              contractor has experience in the technology the RFP calls for
+                                                                       them to deliver. The more complex the system, the more
+    In advance, the team should define objectives that are             important applicable contractor experience is.
+sought after and then define measurable criteria. The more
+objective the criteria, the better, though it is recognized that           Many DoD systems have a degree of interoperability and
+coming up with this criteria can be a challenge. After defining        integration required of them. For integration with particular
+criteria, they are prioritized and then weighted in a scheme the       systems, verify if the contractor has experience with that
+team deems appropriate.                                                system or has relationships with third parties with integration
+                                                                       capabilities that will be used. The contractor should also
+      Some general evaluation tips are as follows:                     participate in applicable Communities of Interest (COIs).
+  •      If key staff are identified in the proposal, how likely are       Testing processes and technologies that support them are
+         they to be available during contract execution?               important. Look for information on a test plan or strategy. If
+  •      In reference to quality assurance processes, does the         the proposal is serious about continuous integration and use of
+         proposal language favor or at least mention                   supporting tools, then listing the software to be used for this is
+         “empowerment” of the QA team over engineering                 a promising sign. Information on how the tools are used (e.g.,
+         processes?                                                    by exception and/or monitored on a periodic basis – and what
+                                                                       period) is also telling. If the proposal includes information on
+  •      Regarding the contractor's approach to Automated Unit         the proposed system design, then the evaluators could look to
+         Testing: Does the contractor require that unit tests be       see how “testable” the design is, particularly as it is
+         passed and cover a reasonable percentage of code before       incrementally built.
+         code can be checked in? Does the contractor use Test
+         Driven Development?                                                                 VI.    CONCLUSIONS
+  •      Regarding the contractor's approach to automated syntax           While it is important to implement quality measures in
+         analysis: Does the contractor require that syntax             software construction, this is undertaken after a contractor has
+         analysis be performed and that all required rules are         been selected. The authors recommend an in-depth approach,
+         followed before code can be checked in?                       beginning with the process of selecting the contractor. It can be
+                                                                       easy to overlook the importance of including specific language
+  •      Regarding development build and integration: Does the
+                                                                       in the proposal documents in order to be able to select the right
+         contractor use an automated build process which
+                                                                       contractor from those responding to a Request for Proposal. In
+         incorporates syntax analysis and automated unit testing?
+                                                                       order to accomplish this goal, it is critical to specify the
+    You can expect that the response is going to claim appraisal       instructions in Section L (or the IFPP) and the evaluation
+at a specific CMMI maturity level (commonly at least level 3).         criteria in Section M (or the EC) so that these can be used to
+This can be verified with the Appraisal Disclosure Statement           assign strengths or weaknesses appropriately. This is an early,
+(ADS) document. Another source is the Standard CMMI                    but often neglected, piece of the puzzle involved in building
+Appraisal Method for Process Improvement (SCAMPI). For                 quality software products for defense applications.
+the larger contractors, particularly when work is further sub-
+
+
+                                                     ©2012 IEEE. All Rights Reserved.
+                         ACKNOWLEDGEMENT                                       [2]   P. Crosby, “Quality is free: the art of making quality certain”, McGraw-
+                                                                                     Hill, 1979.
+    The authors wish to thank Tim Aiken and Carole Mahoney                     [3]   Defense Acquisition University, “Defense acquisition guidebook
+for their guidance as we conducted our research. Additionally,                       (DAG)”, August 5, 2010.
+we wish to thank the MITRE Systems Engineering Practice                        [4]   Secretary of the Air Force for Acquisition (SAF/AQ), “USAF weapon
+Office (SEPO), the acquisition community and our various                             systems software management guidebook”, Version 1 (abridged),
+programs for their contributions to our survey.                                      August 15, 2008.
+                                                                               [5]   Office of the Assistant Secretary of the Navy (Research, Development
+                                                                                     and Acquisition), “Guidebook for acquisition of Naval software
+                              REFERENCES                                             intensive systems”, Version 1.0, September 2008.
+[1]   R. Spiewak and K. McRitchie, “Apply the fundamentals of quality in
+      software construction to reduce costs and prevent defects,” CrossTalk,
+      pp. 23-27, December 2008.
+
+
+
+
+                                                         ©2012 IEEE. All Rights Reserved.
+

@@ -1,0 +1,53 @@
+                                                                         Purchasing & Contract Administration
+
+                                                         CHANGE REQUISITION OR PURCHASE ORDER
+                                                                      REQUEST
+University Hall 180
+Phone: (818) 677–2301
+Fax: (818) 677– 6544
+Mail Code: 8231
+Email: purch@csun.edu
+
+REQ ID                         PO ID                          VENDOR NAME_______________________________________________
+
+DEPT ID___________DEPT NAME_______________________REQUESTOR__________________EXT________EMAIL__________________
+
+ CHANGE REQUISITION                CLOSE REQUISITION                  CHANGE PURCHASE ORDER          CLOSE PURCHASE ORDER
+
+
+ ADD LINE ITEM              CHANGE LINE ITEM                   CANCEL LINE ITEM
+
+ LINE # ___ QTY ____ UNIT OF MEASURE (UOM)               UOM PRICE (EACH/LOT) $ ________TOTAL AMOUNT $_
+
+ DESCRIPTION
+ CHARTFIELD ACCT_                 FUND             DEPT ID_        PROGRAM______________CLASS________PROJECT______________
+ FROM CURRENT CHARTFIELD TO ACCT__________FUND _________DEPT ID_                   PROGRAM _________CLASS_ ___PROJECT________
+ INCREASE LINE AMOUNT FROM $___________________ TO $___________________
+ DECREASE LINE AMOUNT FROM $__________________ TO $____________________
+
+
+
+ ADD LINE ITEM              CHANGE LINE ITEM                   CANCEL LINE ITEM
+
+ LINE # ___ QTY ____ UNIT OF MEASURE (UOM)               UOM PRICE (EACH/LOT) $ ________TOTAL AMOUNT $_
+
+ DESCRIPTION
+ CHARTFIELD ACCT_                 FUND             DEPT ID_        PROGRAM ______________CLASS________PROJECT______________
+ FROM CURRENT CHARTFIELD TO ACCT__________FUND _________DEPT ID_                   PROGRAM _________CLASS_ ___PROJECT_ _______
+ INCREASE LINE AMOUNT FROM $___________________ TO $ ___________________
+ DECREASE LINE AMOUNT FROM $ __________________ TO $ ____________________
+
+
+SPECIAL INSTRUCTIONS/NOTES:
+
+An Authorized Signature Form must be on file in order to process this request.
+
+FINANCIAL APPROVER:                                             PRINT NAME:                                     DATE:
+                                         PURCHASING & CONTRACT ADMINISTRATION USE ONLY
+APPROVED:                 The requested change will be processed.
+NOT APPROVED:             The requested change cannot be processed for the following reason(s):
+
+PROCESSED BY:                                    DATE:
+APPROVED BY:                                     DATE:
+                                                                                                                         REV: 10/06/15
+

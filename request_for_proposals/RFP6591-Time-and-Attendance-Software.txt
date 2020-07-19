@@ -1,0 +1,1216 @@
+                                                    Des Moines Public Schools
+                                                      Request for Proposal
+                                                           RFP 6591
+
+
+                                         NOTICE TO VENDORS
+
+
+Des Moines Public Schools will receive sealed proposals for Time & Attendance software until 9:00 A.M.,
+on November 15, 2012 . They will be received by the District’s purchasing agent at his office: 1915
+Prospect, Suite 103 Des Moines, Iowa 50310.
+
+Bidders are requested to submit a signed original and an electronic copy. In addition to other requirements of
+this RFP, the proposal shall contain a cover letter and a completed Form of Proposal. The Form of Proposal
+shall be sealed in a separate envelope and clearly marked; the remaining required information shall be placed
+in a different envelope and affixed to the Form of Proposal envelope.
+
+Inquiries regarding interpretation of this request and other questions shall be addressed to Mark Mattiussi via
+email: mark.mattiussi@dmschools.org.
+
+Calendar of Events
+
+
+Issuance Date                                    10/18/12
+Inquiries Deadline                               11/01/12
+Due Date                                         11/15/12
+Tabulations Completed                            11/19/12
+Committee Review & Evaluation                    12/03/12
+Submitted for Board Approval                     12/04/12
+Anticipated Award                                12/11/12
+Project Initiated                                01/01/13
+RFP 6591 Time & Attendance Software
+
+
+                                            TABLE OF CONTENTS
+
+
+I.     Introduction                                             Page   3
+II.    Background & Objective                                   Page   3
+III.   Terms and Conditions
+       A.     General                                           Page   3
+       B.     Clarifications and Modifications                  Pages 3-4
+       C.     Pricing                                           Page   4
+       D.     Bid Preparations and Submission                   Page   4-5
+       E.     Conflicts of Interest                             Page   5
+       F.     Modification or Withdrawals of Bid Proposal       Page   6
+       G.     Evaluation of Bid Proposals                       Pages 6-7
+       H.     Selection Process                                 Page   7
+       I.     Award of Contract                                 Pages 7-10
+       J.     Termination or Cancellation                       Pages 10-11
+       K.     Bribery, Corruption and Gifts                     Page   11
+       L.     Disclosure of Content Information                 Page   11
+       M.     Disposition of Information Packets                Page   11
+       N.     Audit or Examination of Contract                  Page   12
+
+
+IV.    System Requirements                                      Pages 13-18
+
+
+V.     Form of Proposal                                         Pages 19-21
+
+
+VI.    Attachment
+       Proposal Reference Questionnaire                         Pages 22-23
+
+
+
+
+                                                  -2-
+RFP 6591 Time & Attendance Software
+
+
+I.     INTRODUCTION
+       Des Moines Public Schools (“the district”) is currently soliciting bids from interested parties for the
+       purchase of a Time and Attendance System with a Business Plus (SunGard) interface; this includes;
+       electronic time and attendance data entry (card reader clocks and web based time entry for example);
+       full integration with our Business Plus (SunGard) system, security and confidentiality features,
+       electronic approval process, real-time reporting, cost of all software (including initial cost and
+       recurring rate cost), setup, installation, programming, personnel training and software specific
+       equipment.
+
+II.    BACKGROUND
+       The District is located in Des Moines, Iowa, the capital city of the state and employees
+       approximately 5,000 teachers and staff. The District has over sixty two sites which include K-12
+       education, special education, operations and administration offices. It educates approximately
+       30,000 students annually and has provided education services for the past 100 years. In order to
+       maximize the use of funds and to comply with state and federal mandates the District is seeking
+       proposals for time and attendance software.
+
+III.   GENERAL TERMS AND CONDITIONS
+
+       A. General
+
+       1) Bidders shall make all investigations necessary to thoroughly inform themselves regarding the
+          delivery of services, materials and equipment as required by the solicitation. No plea of
+          ignorance by the Bidder of conditions that exist or that may hereafter exist as a result of failure
+          to fulfill the requirements of the contract documents will be accepted as the basis for varying
+          from the requirements of the District or the compensation to the Bidder.
+
+       2.) The terms and conditions of the Request for Proposal, the resulting contract(s) or activities
+           based upon this Request for Proposal shall be construed in accordance with the laws of Polk
+           County, Iowa. Wherever differences exist between Federal and State statutes or regulations
+           affecting this procurement, interpretation shall be in the direction of that which is most
+           beneficial to the interests of the District.
+
+       3.) Bidders are required to state exactly what they intend to furnish to the District via this
+           solicitation and must indicate any variances to the terms, conditions, and specifications of this
+           Bid; no matter how slight. If variations are not stated in the Bidder's Proposal, it shall be
+           construed that the Bidder's Proposal fully complies with all conditions identified in this bid.
+
+       4.) Bidders are advised that the District endorses the participation and utilization of local vendors
+           in its purchasing effort. Accordingly, Bid Proposals of equal price and quality will be awarded
+           to Bidders residing within the geographic area when available. This policy does not prohibit
+           Bidders who reside outside of the area from participating in the purchasing process as long as
+           these Bidders can offer quality products and services at competitive pricing.
+
+       B. Clarification and Modifications
+
+       1.) Where there appears to be variances or conflicts between the General Terms and Conditions
+           and The System Requirements outlined in this Bid solicitation, The System Requirements shall
+           prevail.
+
+
+
+                                                  -3-
+RFP 6591 Time & Attendance Software
+
+
+       B. Clarification and Modifications
+
+       2.) The apparent silence or omissions within this Bid solicitation regarding a detailed description
+           of the materials and services to be provided shall be interpreted to mean that only the best
+           commercial practices are to prevail and that only workmanship of first quality are to be used.
+
+       3.) If any Bidder contemplating submitting a Proposal under this solicitation is in doubt as to the
+           true meaning of the specifications, the Bidder must submit a written request for clarification to
+           the District’s Purchasing Agent by the date designated by the Calendar of Events by email @:
+           mark.mattiussi@dmschools.org.
+
+       4.) The Purchasing Agent for the District will work with the authorized agent of the District to
+           respond to all inquires and will render an official interpretation of the question in writing. The
+           District shall not be responsible for verbal interpretations offered by employees of the District
+           who are not agents of the District’s Purchasing Department.
+
+       5.) The District shall issue a written addendum if substantial changes, which impact the technical
+           submission of Proposals, are required. A copy of the addenda will be posted online at our
+           website: www.dmschools.org .The Bidder shall certify its acknowledgement of the addendum
+           by signing the addendum and returning it with their proposal. In the event of a conflict with the
+           original contract documents, addenda shall govern all other contract documents to the extent
+           specified. Subsequent addenda shall govern over prior addenda only to the extent specified.
+
+       C. Pricing
+
+       1.) If the Bidder is awarded a contract under this Bid solicitation, the prices proposed by the Bidder
+           shall remain fixed and firm during the term of the contract; provided, however, that the bidder
+           may offer incentive discounts from this fixed price to the District at any time during the
+           contractual term.
+
+       2.) Bidders will neither include Federal, State nor applicable local excise or sales taxes in bid
+           prices, as the District is exempt from payment of such taxes. An exemption certificate will be
+           provided where applicable upon request
+
+       3.) The Bidder, by affixing its signature to this Proposal, certifies that its Proposal is made without
+           previous understanding, agreement, or connection either with any persons, firms or
+           corporations offering a Bid Proposal for the same items, or with the District. The Bidder also
+           certifies their proposal is in all respects fair, without outside control, collusion, fraud, or
+           otherwise illegal action.
+
+       D. Bid Preparation and Submission
+
+       1.) The Proposal must be typed or legibly printed in ink, on the Form of Proposal supplied; use of
+           erasable ink is not permitted. The authorized agent of the Bidder must initial all corrections
+           made by the Bidder in ink.
+
+       2.) Bid Proposals must contain the signature of an authorized agent of the Bidder. If the Bidder's
+           authorized agent fails to sign the Bid Proposal, it shall be considered a non-responsive offer and
+           shall not be considered.
+
+
+
+
+                                                   -4-
+RFP 6591 Time & Attendance Software
+
+
+       D. Bid Preparation and Submission
+
+       3.) Price proposals shall be sealed in a separate envelope and clearly marked; the remaining
+           required information shall be placed in a different envelope and affixed to the price proposal
+           envelope. Both envelopes must have the RFP# clearly marked on the front.
+
+       4.) Bidders are requested to submit a signed original and an electronic copy. In addition to other
+           requirements of this RFP, the proposal shall contain a cover letter and a completed Form of
+           Proposal
+
+       5.) Unit prices shall be provided by the Bidder on their proposal. Where there is a discrepancy
+           between the unit price and the extension of prices, the unit price shall prevail.
+
+       6.) The Bidder must include all information and supplemental documentation required in
+           conjunction with this Bid. If the Bidder fails to supply any required information or documents,
+           its Proposal shall be considered non-responsive and shall not be considered
+
+       7.) The accuracy of the Bid Proposal is the sole responsibility of the Bidder. Bidder will not be
+           allowed to make changes to their Proposal after the date and time of the Bid opening due to
+           error by the Bidder.
+
+       8.) Information packages should not contain promotional or display materials unless specifically
+           required in The System Requirements section. Informational packages must address the
+           requirements as explained to aid the evaluation. All questions posed by the Request for
+           Proposal must be answered clearly and concisely.
+
+       9.) This solicitation does not commit the District to pay any cost incurred by the Bidder or any
+           other party in preparation and / or submission of proposals or in making necessary studies or
+           designs for the preparation thereof, nor is the District obligated to procure or contract for such
+           services.
+
+       10.) The District reserves the right to waive any and all informalities in information packages if
+            such waiver does not substantially change the offer or provide a competitive advantage to any
+            bidder.
+
+       11.) To facilitate the evaluation of Bidder’s proposal, Bidder is to number all pages of its proposal
+            and provide tabs as indicated below.
+
+               a. Tab # 1      Cover Letter: Introduction and general information
+               b. Tab # 2      Experience: Detail the use of your product by other public entities with the
+                               same complexities as those present with the District
+               c. Tab # 3      References: Provide references of the last three public installations of your
+                               product.
+               d. Tab # 4      Product/Services: The completed section from The System Requirements
+               e. Tab # 5      Exceptions/Alternatives: Detail any exception with this request
+
+
+
+
+                                                  -5-
+RFP 6591 Time & Attendance Software
+
+
+       E. Conflicts of Interest
+
+       1.) It shall be understood and agreed that Bid Proposals submitted are offered independently of any
+           other proposals.
+
+       2.) In the event that an independent contractor or firm in conjunction with the District developed
+           this RFP, neither this contractor, nor its principals or subsidiaries, shall be allowed to submit a
+           proposal for this solicitation.
+
+       3.) In the event that this proposal request requires consulting services which may ultimately lead to
+           the purchase of other goods or services in the future, neither the selected consultant, nor its
+           principals or subsidiaries, will be allowed to participate in the acquisition of these specific
+           goods and services in the future
+
+       4.) Chapter 722 of the Code of Iowa provides that it is a felony to offer, promise or give anything
+           of value or benefit to a person serving in a public capacity including a school district employee
+           with intent to influence that employee’s acts, opinions, judgment or exercise indiscretion with
+           respect to the employee’s duties. Section 68B.22 governs the solicitation and acceptance of
+           gifts by public officials.
+
+       F. Modifications or Withdrawals of Bid Proposal
+
+       1.) Bids may only be modified in the form of a written notice on company letterhead and must be
+           received prior to the time and date set for the Bid opening. Each modification submitted to the
+           District's Purchasing Office must have the Bidder's name and return address and the applicable
+           proposal number and title of the bid clearly marked on the face of the envelope. If more than
+           one modification is submitted, the modification bearing the latest date of receipt by the
+           District’s Purchasing Department will be considered the valid modification.
+
+       2.) Bids may be withdrawn prior to the time and date set for the Bid openings. Such requests must
+           be made in writing on company letterhead and signed by a duly authorized agent of the
+           submitting company.
+
+       G. Evaluation of Bid Proposal
+
+       1.) The District reserves the right to reject any and/or all bid proposals or parts thereof, to waive
+           informalities or irregularities in the information packages, and to enter into such contract or
+           contracts as shall be deemed in the best interests of the District.
+
+       2.) The District reserves the right to reject proposals or parts thereof for the following reasons:
+
+               a. The Bidder misstates or conceals any material fact in their Proposal.
+               b. The Bidder's Proposal does not strictly conform to the law or requirements of the RFP.
+               c. The Bid Proposal does not include documents including, but not limited to, certificates,
+                  licenses, information or specification sheets, bonds, and/or samples, which are required
+                  for submission with the Bid Proposal in conjunction with the General Terms and
+                  Condition or The System Requirements.
+               d. The Bid has not been properly executed by signature of an authorized representative of
+                  the Bidder.
+
+
+
+
+                                                   -6-
+RFP 6591 Time & Attendance Software
+
+
+       G. Evaluation of Bid Proposal
+
+       3.) A proposal may not be accepted from, nor any contract be awarded to, any person or firm
+           which is in arrears to the District upon any debt or contract or which is a defaulter as surety or
+           otherwise upon any obligation to the District.
+
+       4.) A proposal may not be accepted from, nor any contract awarded to, any person or firm, which
+           has failed to perform faithfully any previous contract with the District, state or federal
+           governmental agency for a minimum period of one (1) year after the previous contract was
+           terminated for cause.
+
+       5.) A proposal may be rejected if the Bidder is currently under suspension or debarment by any
+           local, state or federal government, and if the Bidder cannot so certify, then it shall submit along
+           with the proposal a written explanation of why it cannot make such certification.
+
+       6.) A proposal may not be accepted from, nor any contract awarded to, any person or firm, which
+           has pending litigation against the District on the date and time that the bid opens.
+
+       7.) The award will be made to the bidder that best meets the needs of the District based upon the
+           evaluation criteria. The District is not required to award the lowest cost proposal.
+
+       8.) The District reserves the right to:
+              a. Reject any and all Bid Proposals submitted by prospective Bidders.
+              b. Re-advertise this solicitation
+              c. Postpone or cancel the Bid process for this solicitation
+              d. Determine the criteria and process whereby proposals are evaluated and awarded.
+
+       H. Selection Process
+
+       1.) The following criteria may be used to assist in selecting the successful contractor:
+
+               a. Completeness: Each response will be reviewed prior to the selection process for
+                  completeness and adherence to format.
+               b. Evaluation Process: The District will rely on its staff to formally evaluate each
+                  complete proposal. The evaluation process will objectively grade the proposal on their
+                  merit and responsiveness.
+               c. Evaluation Criteria: The District will develop and employ a grading scale when
+                  evaluating proposals based on experience, the ability of the bidder’s products to meet
+                  the District’s demands, references from the bidders past customers, and cost.
+
+       2.) The District reserves the right to select the successful contractor based upon the original
+           response along with whatever other evaluation methodology the District chooses to pursue, in
+           accordance with the District policy.
+
+       I. Award of Contract
+
+         1.) Contract: The Board of Directors for the District shall award a contract to the successful
+             Bidder. The General Terms and Conditions, The System Requirements, the Bidder's
+             Proposal, written letters, addenda and the Purchase Order are collectively an integral part of
+             the contract between the District and the successful Bidder.
+
+
+
+                                                   -7-
+RFP 6591 Time & Attendance Software
+
+
+       I. Award of Contract
+
+         2.) Insurance Requirements: (If required) Successful bidder shall submit to the District certificates
+             of insurance, prior to beginning work under this contract and no later than ten (10) days after
+             award of the contract.
+
+             All policies of insurance required herein shall be written by insurance companies licensed to
+             conduct the business of insurance in Iowa, and acceptable to the District, and shall carry the
+             provision that the insurance will not be cancelled or materially modified without thirty days
+             (30) prior written notice to the District.
+
+             The certificates of insurance shall list the Des Moines Public Schools as the additional insured
+             for the specified project as outlined in this RFP.
+
+             Successful bidder must provide evidence of insurance coverage for professional liability
+             insurance to cover all of the areas for which they are submitting a proposal. This professional
+             liability shall be written on claims made form with a retroactive date no later than the date of
+             their proposed contract with the Des Moines Independent Community School District. The
+             coverage shall be written with a limit not less than $5 million for any one claim, with an
+             aggregate not less than $5 million for all claims in a policy period.
+
+             The successful bidder must provide a statement saying that such coverage shall be written
+             exclusively to cover the Des Moines contract or as an alternative guarantee that the aggregate
+             has not already been impaired by other claims if this policy covers other activities and other
+             services for other clients.
+
+             Other forms of insurance which must be maintained during the entire term of the contract and
+             any extensions shall be of the following forms and limits:
+
+                Forms                                               Limits
+                Workers' Compensation                               Statutory
+                Automobile Liability                                $1,000,000 Combined Single Limit
+                Commercial General Liability,                       $1,000,000 Combined Single Limit
+                (Including Contractual Liability & Products
+                 Completed Operations Coverage)
+                Umbrella/Excess Liability                           $2,000,000
+                The establishment of minimum limits of insurance by the Des Moines Public Schools does
+                not reduce or limit the liability or responsibilities of the Successful Bidder.
+
+         3.) Indemnification: The successful bidder shall assume the entire responsibility and liability for
+             any and all damages caused by or resulting from the negligent or willful unauthorized
+             disclosure of any confidential information on the part of the Successful bidder, its
+             subcontractors, agents or employees under or in connection with this contract.
+             The successful bidder shall, upon written demand by the District, assume and defend, at the
+             successful bidder’s sole expense, any and all such suits or defense of claims alleging
+             unauthorized disclosures of confidential information. Any negligent or willful unauthorized
+             disclosure of confidential information on the part of the successful bidder, its subcontractors,
+             agents or employees under or in connection with this contract shall constitute a breach of the
+             terms of this contract. (The successful bidder shall execute and submit a Non-Disclosure
+             Agreement form if instructed by District personnel.
+
+
+
+                                                  -8-
+RFP 6591 Time & Attendance Software
+
+
+       I. Award of Contract
+
+             Indemnification: The District may proceed by appropriate court action, including seeking
+             injunctive relief, to prevent continuing unauthorized disclosures, and successful bidder shall
+             hold harmless and indemnify the District for court costs, litigation expenses and attorney’s
+             fees that it may pay or incur as the result of seeking to prevent or stop any and all unauthorized
+             disclosures of confidential information.
+             The successful bidder shall hold harmless, indemnify, and save the District, its officers,
+             employees, and agents, from any and all liability claims, losses or damages arising or alleged
+             to arise during the performance of the work described herein by reason of any act or omission
+             of the successful bidder or any of its agents, employees, or representatives. The indemnity
+             applies to either active and passive acts or other conduct.
+         4.) Award Requirements
+
+               a. Successful Bidders shall be familiar and comply with all local, state, and federal
+                  directives, ordinances, rules, orders, and laws as applicable to, and affected by, this
+                  contract including but not limited to Equal Employment Opportunity Commission
+                  (EEOC), the Occupational Safety, Health Act (OSHA), and Title I and Title II of the
+                  Americans with Disabilities Act (ADA) regulations. No Bidder shall be excluded from
+                  consideration for award in conjunction with this solicitation on the basis of race, color,
+                  creed, national origination, handicap or sex or be subjected to discrimination under any
+                  contractual award administered by the District.
+               b. The Bidder shall not assign, transfer, convey, sublet or otherwise dispose of this
+                  contract, including any or all of its right, title or interest therein, or its power to execute
+                  such contract to any person, company or corporation without prior written consent of
+                  the District.
+               c. All employees of the Bidder shall be considered to be, at all times, employees of the
+                  Bidder under its sole direction and not an employee or agent of the District. The
+                  Successful bidder shall supply competent and physically capable employees in a
+                  number that is consistent with the bid requirements. Where required, employees shall
+                  be licensed and accredited.
+                  The District may require the Successful bidder to remove an employee it deems
+                  careless, incompetent, insubordinate or otherwise objectionable and whose continued
+                  employment on District property is not in the best interest of the District. In accordance
+                  with the District's policy regarding the use of tobacco and alcohol products and/or
+                  illegal drugs, no employee of the Successful bidder shall be permitted to use these
+                  substances when performing work on District property.
+                  The Successful bidder shall certify that all employees employed in support of this
+                  contract who have direct contact with students, which is defined to mean being in the
+                  presence of students during regular school hours or during school-sponsored activities,
+                  have not been convicted of (i) a felony; (ii) any offense involving the sexual
+                  molestation, physical or sexual abuse or rape of a child; or (iii) a crime of moral
+                  turpitude.
+               d. Award of this contract will be based on an item-by-item basis, group basis, or an
+                  aggregate basis; whichever method is most beneficial to the District. The method of
+                  award will be determined after bid proposals have been received and opened by the
+                  District and shall be primarily determined on the basis of the selection criteria detailed
+                  earlier.
+               e. The names of all subcontractors known, or contemplated, shall be listed. The District
+                  may approve all subcontracts.
+
+
+                                                    -9-
+RFP 6591 Time & Attendance Software
+
+
+       I. Award of Contract
+
+         5.) Payment
+
+               a. To be eligible for payment, all labor, equipment and materials covered under
+                  Successful bidders invoice must be completed and accepted by the District. The
+                  District agrees to make payments under this contract within forty five (45) days after
+                  receipt of a correct invoice for such payment. Where payment is made by mail, the
+                  date of postmark shall be deemed to be the date of payment.
+                  Any amounts due the District under the terms of this or any other agreement may be
+                  applied against Successful bidder’s invoices with documentation for the basis of the
+                  adjustment attached. In no event shall any interest penalty or late fee accrue when
+                  payment is delayed because of disagreement between the District and Successful bidder
+                  regarding the quantity, quality, time of delivery, or other noncompliance with the
+                  contract requirements for any product or service or the accuracy or correctness of any
+                  invoice.
+
+               b. Successful bidder shall submit to the District all invoices promptly upon completion of
+                  the requirements for installation, delivery, and acceptance of the products and services
+                  required under this contract. Invoices shall not include any costs other than those
+                  identified in the executed District purchase order awarding this contract or any
+                  subsequent change orders issued by the Purchasing Department. All shipping costs are
+                  the Bidder’s responsibility, except to the extent such charges are identified in the
+                  executed District purchase order or change orders. Successful Bidders invoices shall
+                  provide at a minimum:
+                           Type and description of the product or service installed, delivered and
+                           accepted;
+                                   Quantity delivered
+                                   Charge for each item
+                                   Extended total (unit costs x quantity)
+                                   This RFP number and / or the DMPS Purchase Order number
+
+               c. Payment terms offering a "prompt payment discount" of 20 days or greater will be
+                  considered in the evaluation of proposals. All other payment terms shall be net forty-
+                  five (45) calendar days or greater.
+
+               d. Special Educational or Promotional Discounts:
+                  Successful bidder shall extend any special educational or promotional sale prices or
+                  discounts immediately to the District during the term of the contract. Such notice shall
+                  also advise the duration of the specific sale or discount price.
+       J. Termination or Cancellation
+
+         1.) In order to protect the vested interests the District, and to ensure the efficient utilization of
+             dollars, successful bidders shall comply with all contractual obligations contained in the
+             General Terms and Conditions, Special Conditions and The System Requirements. With
+             respect to these obligations, the District will report any non-compliance issues to the
+             successful Bidder for corrective action. Continued non-compliance by the successful Bidder
+             shall be the District’s justification for placing the Bidder's contract on probation status or
+             termination.
+
+
+
+
+                                                  - 10 -
+RFP 6591 Time & Attendance Software
+
+
+       J. Termination or Cancellation
+
+         2.) In the event that the successful Bidder defaults on its contract or the contract is terminated for
+             cause due to performance, the District reserves the right to re-procure the materials or
+             services from the next lowest Bidder or from other sources during the remaining term of the
+             terminated/defaulted contract.
+
+         3.) In the case of termination, costs shall be prorated to the date of termination and the parties
+             shall execute a settlement agreement to specify the terms. Failure to agree on a settlement is
+             subject to arbitration.
+
+         4.) With the mutual agreement of both the contractor and the District, upon receipt and
+             acceptance of not less than thirty days written notice, the contract may be terminated on an
+             agreed date before the end of the contract without penalties to either party.
+
+         5.) Either party may terminate the contract because of the failure of the other party to carry out
+             the provisions of the contract. In such case, the party terminating the contract shall give
+             thirty days notice of conditions endangering performance and if after notice the offending
+             party fails to remedy the violation of the terms to the satisfaction of the other party, the
+             contract may be terminated.
+
+         6.) In the event the filing of a Petition in Bankruptcy by or against the successful bidder, the
+             District shall have the right to terminate the contract by providing fifteen days notice of its
+             intentions to terminate.
+
+         7.) If funds anticipated for these services do not become available for any reason, the District
+             shall have the right to terminate the contract without penalty by giving not less than 10 days
+             written notice documenting the lack of funding.
+
+       K. Bribery, Corruption and Gifts
+
+             Chapter 722 of the Code of Iowa provides that it is a felony to offer, promise or give anything
+             of value or benefit to a person serving in a public capacity with intent to influence that
+             employee’s acts, opinions, judgment or exercise indiscretion with respect to the employee’s
+             duties. Section 68B.22 governs the solicitation and acceptance of gifts by public officials.
+
+       L. Disclosure of Information Content
+
+             The laws of Iowa require that at the conclusion of the selection process the contents of the
+             information packages be placed in the public domain and be open for inspection by interested
+             parties. Trade secrets or proprietary information that are recognized as such and are
+             protected by law may be withheld if clearly identified as such in the packages.
+
+       M. Disposition of Information Packages
+
+             All information packages become the property of the District and will not be returned to the
+             respondent.
+
+
+
+
+                                                   - 11 -
+RFP 6591 Time & Attendance Software
+
+
+       N. Audit or Examination of Contract
+
+             Contractor agrees that any authorized auditor, the Office of Auditor of State and where
+             federal funds are involved, the Comptroller of the United States or a representative of the
+             United States Government, shall have access to and a right to examine, audit, excerpt, and
+             transcribe any directly pertinent books, documents, papers, and records of the contractor
+             relating to the orders, invoices, or payment of this contract.
+
+
+
+
+                                                - 12 -
+RFP 6591 Time & Attendance Software
+
+
+
+
+IV.    SYSTEM REQUIREMENTS
+
+       Experience: (Tab # 1)
+
+                 Include a cover letter introducing your firm
+
+       Experience: (Tab # 2)
+                 Your response must address the questions below
+
+                 Primary business address: (Include all office locations assigned to the project)
+                 Web site:
+                 Sales contact information: (Include a brief resume)
+                 Senior Management (assigned to this project) information: (Include a brief resume)
+                 Provide your bank reference:
+                 Provide credit references: (two suppliers)
+                 Provide a credit bureau report no older than three months:
+                 Describe your company ownership structure: (LLC, sole proprietorship, etc.)
+                 Details the number of years of continuous operations:
+                 Detail the number of years your company has provided this product / service:
+                 Detail the number of employees:
+                 Detail the size of your client base:
+                 Detail any pending litigation or investigations against your firm:
+                 Provide a brief statement detailing your firm’s prior experience, resources, and management
+                 systems, which demonstrate your ability to provided product/service:
+                 Detail the project team members including a brief biography of their education and
+                 experience as it pertains to the product / service proposed:
+                 Detail any subcontractors your firm plans to use to provide the product / service proposed:
+
+       References: (Tab # 3)
+       Your response must address the request below
+                 Please provide references of the last three installations of your product. Where the
+                 demographics and complexity of those installations are similar to the District. (Please send
+                 the enclosed questionnaire to your references, have them complete them and send them
+                 directly to the District’s Purchasing Department. Part of your evaluation will be based on
+                 the response from your references response to this request.)
+
+       Product & Services: (Tab # 4)
+       Your response must address the requirements below
+
+
+                 General Information:
+                 Des Moines Public Schools (“the District”) is currently soliciting bids from interested parties
+                 for the purchase of a Time and Attendance System with a Business Plus (SunGard)
+                 interface; this includes; electronic time and attendance data entry (card reader clocks and
+                 web based time entry for example); full integration with our Business Plus (SunGard)
+                 system, security and confidentiality features, electronic approval process, real-time
+                 reporting, cost of all software (including initial cost and recurring rate cost), setup,
+                 installation, programming, personnel training and software specific equipment. A
+                 description and the specifications of the System are detailed below.
+
+
+
+                                                            - 13 -
+RFP 6591 Time & Attendance Software
+
+
+                    Compatibility with Current H.R. / Payroll Software System
+                              The proposed system should leverage an interface into the District’s ERP
+                               solution of Business Plus (SunGard) for its database implementation.
+                              The system will need to provide a comprehensive security methodology for
+                               any data access outside the county’s network via the internet.
+                              The system will need to provide a comprehensive security methodology for
+                               any data access from outside the county’s network
+              Background:
+              This new system will support a payroll of approximately 5,000 employees, which includes a
+              mix of salaried employees (approximately 50%) and hourly employees (approximately
+              50%). The employees are broken into six pay groups currently, defined as either bi-weekly
+              pay periods or semi-monthly pay periods. Overtime is accrued in accordance with the Fair
+              Labor Standards Act. Employees report to work at a large number of facilities (~63
+              locations) scattered throughout the city of Des Moines, Iowa.
+              The Des Moines Public Schools has a totally converged voice and data network with both
+              fiber optic cable and wireless connecting 63 buildings. The Des Moines Public Schools has
+              standardized on Microsoft Windows 2008/2003 Server, Microsoft SQL 2005/2008,
+              Windows XP/7 and Office 2007/2010 Professional.
+              The district deploys an Ethernet network with a 10 GB backbone, 1GB to every building and
+              100 MG/1GB to the desktop. The district uses an IP phone system (VOIP) and a legacy
+              voice mail system.
+              The Information Technology (IT) department provides support for over 15,000 computers,
+              over 120 servers (both physical and virtual), 2,000 iPads, network and local printers, as well
+              as, various audiovisual equipment, and specialized peripherals. In addition, the department
+              provides software support for all district approved applications and is responsible for both
+              data and voice networks. The district employs 35 highly qualified individuals in the
+              Information Technology Department. The Information’s Technology’s education experience
+              ranges from degrees in Computer Information Systems, Education, Computer Science, A+
+              Certification, Cisco Certification and Microsoft Certification.
+              The Information Technology Department strives to better prepare our students and staff to
+              be 21st century learners by providing a reliable and responsive network with enhanced
+              technology and improved efficiency.
+              Products
+              System Basics
+              Provide the basic functions associated with an Employee Time and Attendance System.
+              Specifically, the system must be capable of capturing employee time, the automation of
+              payroll processing, and the generation of reports and be able to easily support the following
+              over existing District wireless and/or fiber optic.
+                  1. 500 (minimum) concurrent application users (i.e. Supervisors, Administrative
+                       Assistants, System Administrators, etc.)
+                  2. 1000 (minimum) clocking employees
+                  3. 1000 (minimum) employees using the system to check leave balances and leave
+                       history
+                  4. < 1second card swipe response time per employee if card based time capturing
+                       devices are utilized/biometric-capturing devices are preferred.
+                  5. The district currently has proximity badges that could be utilized instead of a
+                       physical swipe.
+                  6. Support: Biweekly and Semi- monthly pay periods; work schedules (fixed, rotating,
+                       as-needed); hourly and salary compensation; and compliance with overtime
+                       requirements (Fair Labor Standards Act).
+
+
+
+                                                - 14 -
+RFP 6591 Time & Attendance Software
+
+
+                 7. Unlimited different pay and attendance rules and policies to support each group
+                     using the same time system.
+                 8. Configurable, automated overtime rules for inclusion and exclusion of non-worked
+                     hours pay codes in timecard.
+                 9. Supervisory ability to review and act upon on-line leave requests.
+                 10. Global time entry to clock in/out some or all employees in their group at once by
+                     payroll, timekeeper or manager.
+                 11. Global schedule changes by manager/timekeeper for employee/workgroup.
+                 12. Flag time/policy errors on screens with valid solution, current schedule,
+                     acknowledgement and comment entry.
+                 13. Configurable error codes, checking and severity policy set by group not system
+                     wide.
+                 14. Support unlimited different pay codes and usage accruals including codes for
+                     vacation, sick leave, leave without pay, bereavement leave, workers' compensation,
+                     military leave, FMLA leave, jury duty, etc.
+                 15. Message system(s) for employee/manager exchange (e.g. messages displayed on the
+                     time capturing device(s). (Preferred not required)
+                 16. Unlimited shift schedule definition and assignment or no schedule assigned.
+                 17. Supports different early and late clock in/out rounding or no rounding as may be
+                     required.
+                 18. Must allow for the entry of forecasted time when the time must be submitted to
+                     Payroll, before the time is actually worked in limited instances.
+                 19. Must have the ability to charge back/dock hours. System and Integration
+              Connectivity
+                 1. The District requires that the proposed system support the District's converged voice
+                     and data network with both fiber optic cable and wireless connecting all District
+                     facilities. The Des Moines Public Schools has standardized on Microsoft Windows
+                     2008/2003 Server, Microsoft SQL 2005/2008, Windows XP/7 and Office 2007/2010
+                     Professional. The district deploys an Ethernet network with a 10 GB backbone, 1GB
+                     to every building and 100 MG/1GB to the desktop. The district uses an IP phone
+                     system (VOIP) and a legacy voice mail system.
+                 2. Integrate with the District's Ethernet network with 10GB backbone and
+                     1OOMB/1GB to the desktop and 1GB to every building. The district uses an IP
+                     phone system (VOIP) and a legacy voice mail system.
+                 3. For a vendor to be considered the vendor's product must be able to integrate with the
+                     District's hardware and software as described above. The selected system must be
+                     able to be networked throughout the District's WAN and interface with the current
+                     payroll system (SunGard). Preferably the system also interfaces with the District’s
+                     employee identification badge/access proximity system (Indala).
+                 4. The vendor will be required to work closely with the District's Information
+                     Technology Department in assuring that the hardware and software proposed will in
+                     no way compromise the security of the District's communication infrastructure.
+                 5. Be capable of user authentication by way of the District’s existing Active Directory.
+                     User authentication only by Active Directory is acceptable.
+                 6. Automatically adjust to time and date changes due to the number of days in the
+                     month, daylight savings time, leap year, etc.
+              Data Integrity and Backups
+                 1. The system must be operable 24 hours a day, 7 days a week, and 365 days a year.
+                 2. The system must provide for data integrity in the event of power outages, power
+                     surges, or damage to all or part of the database platform.
+
+
+
+                                               - 15 -
+RFP 6591 Time & Attendance Software
+
+
+                  3. The system must allow for punching, editing, calculating, reporting, and system
+                     backup without going offline or suffering noticeable degradation of performance.
+              Reporting
+                 1. Full data model and detailed database table descriptions to aid in report generation in
+                     selected vendor and/or SunGard.
+                 2. All reports available in user selected format: HTML, PDF and Excel spreadsheet.
+                 3. The system must produce the following reports using accurate, up-to-the-minute
+                     data:
+                               a. Individual employee time sheet
+                               b. Daily hours by time by project/employee/division/department
+                               c. Biweekly hours by project/employee/division/department
+                               d. Semi-Monthly hours by project/employee/division/department
+                               e. Monthly hours by project/employee/division/department
+                               f. Exception report by employee/division/department
+                               g. Absentee report by employee/division/department
+                               h. Punch detail
+                               i. Weekly time card by employee/division/department
+                               j. Vacation/Sick Leave/Comp time reports reflecting usage history
+                               k. Accruals and balances
+                               l. Leave history for all leave types
+                               m. Overtime tracking and monitoring including overtime asked/refused
+                               n. Employee schedules
+                               o. History /archival reports
+                               p. Punch edit history
+
+                 4. Reports must be available containing history (weekly, biweekly, monthly, annual,
+                     etc.) of various data including sick leave, late punches, absenteeism, etc.
+                 5. Specify if any of these are not standard reports already created in the solution being
+                     offered.
+              Capturing Time
+                 1. Time capturing devices must be Ethernet or Wireless based and is capable of
+                     holding 72 hours of employee data.
+                 2. Time capturing devices must not have to be polled.
+                 3. It is required that the time capturing devices be capable of using the District ID
+                     cards, which are proximity cards (sample card provided upon request)
+                 4. Describe all the ways in which the proposed system can capture employee time.
+                 5. Describe how an employee could clock in/out if they were in a remote location, not
+                     near a time clock or computer (i.e. wireless, cellular, etc.).
+                 6. The system must support division/department cost center and job change with code
+                     entry at time capturing device.
+                 7. The system MUST have a PC based browser/web clock available for clock in/out
+                 8. The time capturing device or the system must allow restriction to use the terminal to
+                     certain employees to certain times of the day, and to certain accounts. In addition,
+                     some employees must be granted universal punch-in ability within security
+                     clearances.
+                 9. Supervisors (with and without PCs) must have an option to enter punches for
+                     employees in the event a card is misplaced.
+                 10. Be synchronized for all time capturing devices based on server time.
+                 11. Card reading devices must have an audible sound that indicates a successful and
+                     unsuccessful punch and have a message display that verifies by name that the punch
+                     registered.
+
+
+                                                - 16 -
+RFP 6591 Time & Attendance Software
+
+
+              Security
+                  1. Have robust levels of security for Supervisors and employees. Some examples are:
+                              a. An employee can only see certain data as defined by a Supervisor such
+                                   as time and leave accrual (read only capability).
+                              b. Some Supervisors should have read only access to managerial tasks
+                                   while other Supervisors can have read and write access.
+                              c. If an employee has more than one Supervisor, each Supervisor should
+                                   only be able to see/edit/approve the time that the employee worked for
+                                   them and not the other Supervisor.
+                  2. Individual functions can be turned on and off for individual employees/managers.
+                  3. Unavailable functions and tabs removed from screen and drop down menus (the
+                     employee won't see an option if they don't have access to it).
+                  4. Screen timeout/lockout when inactive for a certain amount of time.
+                  5. The system must maintain an audit trail that tracks data changed, hold original data
+                     and user name of the person modifying or viewing an item.
+              Services: Installation/Implementation
+                  1. The vendor must provide an onsite representative for initial discovery/system
+                     documentation/mapping and implementation of the system.
+                  2. The vendor must allow for an overlap of two biweekly/semi-monthly pay periods
+                     where the new system will run in tandem with the existing system to assure proper
+                     functionality. This test of two pay periods is to begin AFTER the new system is
+                     fully operational.
+              Licensing and Maintenance
+                  1. The District must be entitled to all maintenance and new product updates and
+                     upgrades as part of the annual maintenance agreement. Maintenance as stated here
+                     should include updates, upgrades, training on these upgrades and support for the
+                     base product and the support for the updates and upgrades.
+                  2. Licensing must be based on concurrent users not number of employee records in the
+                     database.
+                  3. A maintenance program must be available for the time capturing devices. Discuss
+                     the warranty on time capturing devices and clarify situations where the warranty
+                     would not cover a damaged device. Discuss warranty replacement issues.
+                  4. If a time capturing device has to be replaced/repaired, diagnostics must be
+                     performed within 24 hours of notification. Replacement time clocks must be
+                     maintained in District stock room at no charge to the District until clock is needed.
+                     Replacement clock will be billable to District when used as needed/applicable.
+              Training
+                  1. The implementation must include training both for system administrators and end
+                     users. Indicate the length of time each training session would last and the
+                     recommended number of attendees per session.
+                  2. Cost for future training needed should be included.
+              Support
+                  1. The vendor must be able to provide 24/7/365 support for the system, including
+                     system administrator information
+                  2. The vendor must allow some kind of support for regular end users.
+                  3. The vendor must provide a direct support representative(s} that the District can
+                     contact. We do not want to have to be on hold with a call center or go through a
+                     complex phone menu to reach a support representative.
+                  4. The dedicated support representative (s} must handle all problem resolution and
+                     escalation for the District.
+                  5. The vendor must have a response time of two (2) hours or less on reported problems.
+
+
+                                               - 17 -
+RFP 6591 Time & Attendance Software
+
+
+              Desired Features
+              Systems Basics
+                  1. Timekeeper/manager controls initial screen layout and content to meet management
+                     by exception approach or other personal style.
+                  2. Flag errors with yellow warning and red as major error on screens.
+                  3. Support all fast entry formats throughout system, i.e. ?a for 7:00a.m.; 6p for 6:00pm;
+                     1700 for 5pm.
+              System and Integration
+                  1. System should be able to track employee's hours by work order/job key number.
+                     This may require employees to punch in the work order number immediately after
+                     swiping the badge. An employee could work on several jobs in a day requiring
+                     additional swiping/punching.
+                  2. System should be able to upload hours by individual work order/job key number
+                     into SunGard, the District Payroll System. This would be a separate upload that
+                     would be in addition to the upload noted under "System and Integration".
+                  3. It is highly desirable that end user training be held on-site at the District. We have
+                     computer training capability to accommodate.
+              Capturing Time
+                  1. The system should prevent the issue of "buddy punching.”
+                  2. The system should accommodate the deaf and blind.
+              Penalty Schedule / Miscellaneous
+                  1. If through no fault of the District, full functionality of proposed solution is not
+                     achieved within the project deadline, vendor will reduce total cost of project by 5%,
+                     and an additional 5% for each 30 day delay thereafter which is not the fault of the
+                     District.
+                  2. Time lines to be reviewed at specified milestones.
+                  3. The District will not be responsible for any cost that should have been disclosed but
+                     was not in the response to this RFP.
+                  4. List the items included in the maintenance agreement.
+                  5. Any additional costs or constraints on the proposed licenses should be clearly stated.
+
+       Product & Services: (Tab # 5)
+
+              List and detail any / all exceptions with the statement of work as presented or omissions you
+              feel need to be addressed.
+
+
+
+
+                                                - 18 -
+RFP 6591 Time & Attendance Software
+
+
+
+
+Form of Proposal
+Pricing
+
+   The district would like to obtain multiple pricing options:
+
+   Option # 1
+   Full-scale rollout and implementation of time clocks at all district locations (~63 locations)
+
+   Option # 2
+   Implementation of time clocks at half of the district locations (~40 locations), with a kiosk set-up at the
+   remaining locations (~23)
+
+   Option # 3
+   A hybrid of solution #1 and #2
+
+   Option # 4
+   Other options that resulted in successful implementations with similar sized Districts
+
+   A description of any licensing, maintenance, and support fees associated with any software employed in
+   the proposed applications. The fees should be listed as follows:
+
+   1. Fees for the first year
+   This is to include all original one-time costs as well as the first year costs of ongoing annual costs.
+
+      Option # 1                                                                    $ __________________
+
+      Option # 2                                                                    $ __________________
+
+      Option # 3                                                                    $ __________________
+
+      Option # 4                                                                    $ __________________
+
+      Any hardware requirements: _______yes _________no
+
+      If yes explain:
+      ____________________________________________________________________________________
+
+      ____________________________________________________________________________________
+
+
+
+      Additional Costs: (i.e. hardware requirements)
+      ____________________________________________________________________________________
+
+      ____________________________________________________________________________________
+
+
+
+
+                                                   - 19 -
+RFP 6591 Time & Attendance Software
+
+
+   2. Total fees for a 3-year period
+
+   This is to include all original one-time costs as well as ongoing annual costs. If there are any additional
+   ongoing annual costs other than previously stated – please describe the costs.
+
+      Option # 1                                                                 $ __________________
+
+      Option # 2                                                                 $ __________________
+
+      Option # 3                                                                 $ __________________
+
+      Option # 4                                                                 $ __________________
+
+      Any hardware requirements: _______yes _________no
+
+      If yes explain:
+      ____________________________________________________________________________________
+
+      ____________________________________________________________________________________
+
+      Additional Costs: (i.e. hardware requirements)
+      ____________________________________________________________________________________
+
+      ____________________________________________________________________________________
+
+
+       3. Total fees for a 5-year period
+
+      This is to include all original one-time costs as well as ongoing annual costs. If there are any
+      additional ongoing annual costs other than previously stated – please describe the costs.
+
+      Option # 1                                                                 $ __________________
+
+      Option # 2                                                                 $ __________________
+
+      Option # 3                                                                 $ __________________
+
+      Option # 4                                                                 $ __________________
+
+      Any hardware requirements: _______yes _________no
+
+      If yes explain:
+      ____________________________________________________________________________________
+
+      ____________________________________________________________________________________
+
+      Additional Costs: (i.e. hardware requirements)
+      ____________________________________________________________________________________
+
+      ____________________________________________________________________________________
+
+
+
+                                                  - 20 -
+RFP 6591 Time & Attendance Software
+
+
+
+
+Form of Proposal
+Pricing
+
+
+   4. Total fees for a 7-year period
+
+      This is to include all original one-time costs as well as ongoing annual costs. If there are any
+      additional ongoing annual costs other than previously stated – please describe the costs.
+
+      Option # 1                                                            $ __________________
+
+      Option # 2                                                            $ __________________
+
+      Option # 3                                                            $ __________________
+
+      Option # 4                                                            $ __________________
+
+
+      Any hardware requirements: _______yes _________no
+
+      If yes explain:
+      ____________________________________________________________________________________
+
+      ____________________________________________________________________________________
+
+      Additional Costs: (i.e. hardware requirements)
+      ____________________________________________________________________________________
+
+      ____________________________________________________________________________________
+
+
+
+
+                                              - 21 -
+RFP 6591 Time & Attendance Software
+
+
+
+
+Form of Proposal
+Signatures
+
+
+
+
+Company Name__________________________________________________________________________________________________________
+
+Street Address ___________________________________________________________________________________________________________
+
+City / State/ Zip __________________________________________________________________________________________________________
+
+Authorized Representative Signature ________________________________________________________________________________________
+
+Representative Name (print) _______________________________________________________________________________________________
+
+Contact Phone Number ___________________________________________________________________________________________________
+
+Contact Fax Number _____________________________________________________________________________________________________
+
+Contact Email Address ___________________________________________________________________________________________________
+
+
+
+
+ALSO SUBJECT TO THE TERMS AND CONDITIONS AS FOUND ON THE DMPS WEBSITE www.dmschools.org . THIS
+FORM AND EACH ADDITIONAL FORM OF PROPOSAL, IF ANY, MUST BE SIGNED. THE BIDDER AGREES TO
+COMPLY WITH ALL PROVISIONS AND REQUIREMENTS AS DETAIL IN THIS REQUEST FOR PROPOSAL. THEY
+FURTHER AGREE TO PROVIDE ALL PRODUCTS AND SERVICES AS DEFINED IN THE SYSTEMS REQUIREMENTS
+AND THE TERMS AND CONDITIONS AS SPECIFIED IN THIS DOCUMENT. BIDDER AGREES TO COMPLY WILL ALL
+LOCAL, STATE AND FEDERAL LAWS. THE BIDDER ASSURES TO THE BEST OF THEIR ABILIITY THAT ALL
+INFORMATION SUBMITTED IS ACCURATE AND WAS SUBMITTED WITHOUT COLLUSION WITH ANOTHER PARTY.
+BY SIGNING THIS PROPOSAL THE SIGNATORY CERTIFIES LEGAL AUTHORITY TO BIND THE PROPOSING
+ENTITY TO THE PROVISIONS OF THIS PROPOSAL AND ANY CONTRACT AWARD PURSUANT TO IT. BY SIGNING
+THIS DOCUMENT, THE BIDDER DECLARES THERE ARE NO CONFLICTS OF INTEREST BETWEEN THE BIDDER
+AND THE DISTRICT.
+
+
+
+
+                                                         - 22 -
+RFP 6591 Time & Attendance Software
+
+
+                                  Proposal Reference Questionnaire
+
+Proposer Name: __________________________________________________________________________
+                                Please print your company’s name prior to sending to the reference
+The above named firm has given your name as a reference for the Des Moines Public Schools request for proposal of a
+time and attendance software system. Part of the District’s evaluation of this firm will be based on the response to our
+reference request. We ask that you complete this form and return directly to:
+                 Des Moines Public Schools
+                 1915 Prospect Road
+                 Suite 103- Purchasing
+                 Des Moines, Iowa 50310
+
+           1.) What is the name of the individual, company, organization, or entity responding to this reference
+               questionnaire?
+                           i. Organization Name: _____________________________________________________
+
+                           ii. Individual Name: _______________________________________________________
+
+                          iii. Title: _________________________________________________________________
+
+                          iv. Telephone Number: _____________________________________________________
+
+                           v. E-mail Address: ________________________________________________________
+
+           2.) What product / service did the Proposer provide to your company or organization?
+
+
+           3.) What is the level of your overall satisfaction with the reference subject as a provider of the product or
+               service described above? (1 least satisfied to 5 most satisfied)
+
+           4.) If the product / services provided by the Proposer are completed, were those product / services
+               completed in compliance with the terms of the contract, on time, and within budget? If not, please
+               explain.
+
+
+
+           5.) If the product / services provided by the Proposer are in progress, are those product / services being
+               provided in compliance with the terms of the contract, on time, and within budget? If not, please
+               explain.
+
+
+           6.) How satisfied are you with the Proposer’s ability to perform on you expectations and according to the
+               contractual agreements? (1 least satisfied to 5 most satisfied)
+
+
+           7.) In what areas of service does / did the Proposer excel?
+
+
+           8.) In what areas of service does / did the Proposer fall short?
+
+
+
+
+                                                        - 23 -
+RFP 6591 Time & Attendance Software
+
+
+                                      Proposal Reference Questionnaire
+
+Proposer Name: __________________________________________________________________________
+                                   Please print your company’s name prior to sending to the reference
+The above named firm has given your name as a reference for the Des Moines Public Schools request for proposal of a
+time and attendance software system. Part of the District’s evaluation of this firm will be based on the response to our
+reference request. We ask that you complete this form and return directly to:
+                 Des Moines Public Schools
+                 1915 Prospect Road
+                 Suite 103- Purchasing
+                 Des Moines, Iowa 50310
+
+
+
+           9.) What is the level of your satisfaction with the Proposer’s project management structures, processes and
+               personnel? (1 least satisfied to 5 most satisfied)
+
+
+           10.) Considering the staff assigned by the Proposer to deliver services described in response to question 2
+                above, how satisfied are you with the technical abilities, professionalism, and interpersonal skills of the
+                individuals assigned? (1 least satisfied to 5 most satisfied)
+
+
+           11.) Would you contract again with the Proposer for the same or similar services?
+               (1 least likely to 5 very likely)
+
+
+           12.) Please record any comments regarding the products/ services provided by this Proposer.
+
+
+
+
+           Reference Signature: ________________________________________________
+
+           Date: ______/________/________
+
+
+
+
+                                                           - 24 -
+

@@ -1,0 +1,1735 @@
+                   NWSA / PORT OF TACOMA
+                  REQUEST FOR PROPOSALS
+                          No. 87747
+
+    INFORMATION TECHNOLOGY CONTRACT
+            STAFFING SERVICES
+
+                              Issued by
+                            Port of Tacoma
+                           One Sitcum Plaza
+                            P.O. Box 1837
+                        Tacoma, WA 98401-1837
+
+                             RFP INFORMATION
+
+    Date Issued                  9/23/2019
+
+    Contact:                     Sharon Rothwell
+
+    Email Addresses:             procurement@portoftacoma.com
+
+    Phone:                       (253) 592-6758
+
+    Deadline for Questions       10/3/2019 @ 2:00 PM (PDT)
+
+    Submittal Date               10/11/2019 2:00 PM (PDT)
+
+             PLEASE SUBMIT ALL CORRESPONDENCE AND PROPOSALS
+VIA E-MAIL DIRECTLY TO THE PROCUREMENT CONTACT LISTED ABOVE AND INCLUDE
+  ‘RFP 87747 INFORMATION TECHNOLOGY CONTRACT STAFFING SERVICES’ IN THE
+                                SUBJECT LINE
+                                    NWSA / PORT OF TACOMA
+                                 Request for Proposals (RFP) # 87747
+               INFORMATION TECHNOLOGY CONTRACT STAFFING SERVICES
+
+The NWSA / Port of Tacoma is soliciting proposals from firms interested in providing Information
+Technology Contract Staffing Services on an as-needed basis.
+
+A. BACKGROUND
+The NWSA is an operating partnership of the ports of Seattle and Tacoma. Combined, the ports are
+the fourth-largest container gateway in North America. Regional marine cargo facilities also are a major
+center for bulk, breakbulk, project/heavy-lift cargoes, automobiles, and trucks.
+The NWSA is governed by the two ports as equal Managing Members, with each Managing Member
+consisting of the five commissioners in each port. Each port’s commissioners are elected at large by
+the citizens of their respective counties. To learn more about the NWSA visit
+www.nwseaportalliance.com. To learn more about the Port of Tacoma visit www.portoftacoma.com.
+The Port maintains several enterprise software applications and terminal operating systems, including
+IBM Maximo Asset Management, Microsoft Dynamics GP, Microsoft Dynamics 365 CRM, Microsoft
+SharePoint, Microsoft PowerBI, Kronos TeleStaff, ADP eTime, PDS Vista HRMS, PsiGen PsiSAFE,
+Esri ArcGIS, Prophix (CPM), Yardi Systems property management, Trimble e-Builder, Argonaut
+Systems Bellerophon, Tideworks iPro and other systems. Some systems are SaaS/cloud services and
+others are hosted by the Port in a hybrid cloud (Azure) and on-premises infrastructure.
+The Port has an in-house Information Technology department with project management, infrastructure,
+support, technical, functional, and business process staff. On occasion, the Information Technology
+department requires additional human resources to supplement regular staff during peak workloads, to
+cover extended absences, or to provide specialized skillsets.
+The technical resources anticipated to be required are listed below. Experience levels for each resource
+required will vary from Junior to Senior depending upon the specific engagement. Specific skills and
+experience needed will also vary depending up the specific engagement:
+      Project Manager
+      Business Analyst
+      Software Engineer
+      Network Infrastructure Engineer
+      Systems Infrastructure Engineer
+      Database Analyst
+      IT Support Specialist (helpdesk)
+      Other IT Positions
+We anticipate needing to utilize 3-4 contract resources per year with a duration from 3-11 months each.
+In the past 12 months we have filled 3 contract staffing positions using our currently contracted vendors.
+There are four staffing firms that were selected by the previous procurement which will be expiring and
+will be replaced by firms selected using this new procurement.
+
+
+Attachment A to the RFP contains the Instructions and Information for proposing to the solicitation.
+
+
+Request for Proposals
+Information Technology Contract Staffing Services
+B. SCOPE OF SERVICES:
+Through this RFP the Port may award up to five (5) IT Contract Staffing contracts to those firms (“firms”),
+who agree to Port Terms and Conditions (Attachment D, Sample Contract), through which Port
+Information Technology Contract Staffing requirements will be sourced. The duration of this
+arrangement is expected to be three (3) years with the option, at the Port’s discretion, to renew for an
+additional two (2) years for a total of five (5) years.
+When the Port identifies a need for an Information Technology Contracting Resource a summary of the
+requirements will be sent to all selected staffing firms using a Project Service Order (PSO) form. The
+requirements will include a description of the engagement, skillset required, experience level required,
+expected duration, and any other pertinent information. Attachment B includes sample PSO forms to
+illustrate typical positions. These are examples only. Please do NOT include resumes for candidates
+with your submitted proposal for this RFP.
+Within five (5) days of receipt of a PSO form for a staffing opportunity, selected firms will complete the
+Contractor section of the PSO form and submit it along with resumes of available, qualified, contract
+resources. The Port will review submitted resumes, and schedule interviews with shortlisted
+candidates. The Port will select the candidate who best fits the Port’s requirements, which will generally
+consist of a combination of experience, value, and cultural fit. If no sufficiently qualified candidates are
+received from the selected firms, the Port may then open the staffing opportunity to other firms.
+Purchase Orders will be issued for individual Contract Staffing engagements.
+C. DELIVERABLES:
+Deliverables will vary based on the PSO.
+
+D. RFP ELEMENTS & EVALUATION CRITERIA:
+Proposals should present information in a straightforward and concise manner, while ensuring
+complete and detailed descriptions of the Firm’s/Team’s abilities to meet the requirement of this RFP.
+Emphasis will be on completeness of content. The written proposals should be prepared in the
+sequential order as outlined below.
+Proposals are limited to 10 numbered pages (8 ½ by 11 inch) including the cover letter and all
+appendices. References (Attachment C) do not count toward the 10-page total. All pages shall be in
+portrait orientation with 1- inch margins. Font size shall be 11 point or larger. Proposals that do not
+follow this format will not be reviewed.
+The cover letter shall include the RFP Title and Number, Name, Title, Email Address, Phone Number
+and Addresses of the Proposing Firm’s main contact and include the following information:
+      Describe any claim submitted by any client against the firm within the past two years related to
+       the services provided by the firm or its key personnel. For purposes of this request, “claim”
+       means a sum of money in dispute in excess of 5% of the firm’s fee for the services provided.
+      Any real or perceived conflicts of interests for team members, inclusive of the prime, sub-
+       consultants and key team members.
+Proposals are to address, and will be evaluated upon, the following criteria:
+
+INITIAL EVALUATION PHASE
+
+1. Qualifications & Experience -                                                    35 PTS
+      Describe the history of the firm submitting the proposal, including length of time in business,
+       business history including patterns of growth, mergers or acquisitions; length of time offering
+       services similar to those proposed; office locations, etc.
+      Describe the number, size and type of customers; number of actively placed Contract resources;
+       market/vertical specializations, etc.
+      Describe the factors that differentiate the firm submitting the proposal from other contract staffing
+       firms.
+      Submit three (3) references with whom you have a current contract using the form at
+       Attachment C.
+
+2. Staffing Approach -                                                              35 PTS
+      Describe the approach your firm will use to evaluate candidates to ensure they are a good match
+       for a position prior to submitting them to the NWSA/Port for consideration.
+      Include a summary of innovative ideas and suggestions for enhancing the scope of services.
+      Assumptions and Risks: Define the assumptions made regarding accomplishing the Scope of
+       Services. Define the factors the firm believes are risks to the successful completion of the Scope
+       of Services.
+      Coordination & Communication: Provide a plan for communications and coordination between
+       the firm and the Port.
+
+3. Rates -                                                                          30 PTS
+   Use the Rate Sheet form in Attachment E to specify low (junior) to high (senior) range of rates, for
+   each of the resource types listed below. Rates must be fully burdened to include, but not limited to,
+   hourly rates, administrative overhead, travel, lodging, per diem, etc., and be valid for at least one
+   year. Annual adjustments will be based on the CPI-U:
+          o   Project Manager
+          o   Business Analyst
+          o   Software Engineer
+          o   Network Infrastructure Engineer
+          o   Systems Infrastructure Engineer
+          o   Database Analyst
+          o   IT Support Specialist (helpdesk)
+   Rates will be evaluated by averaging the high range of the rates submitted for each resource type.
+   Points will be normalized and the firm with the lowest overall average will receive the maximum
+   points available.
+FINAL EVALUATION PHASE (if applicable)
+
+4. Interviews (as requested by the Port) -                                       100 PTS
+   If an award is not made based on the written evaluations alone, interviews will be conducted with
+   the top-ranked proposers. Failure to participate in the interview process will result in the Proposer’s
+   disqualification from further consideration. If interviews are conducted, they will be held at the Port
+   of Tacoma, Tacoma, WA. Travel costs will not be reimbursed for the interview.
+
+Attachments:
+    Attachment A – Instructions for Proposers
+    Attachment B – Project Service Order (PSO) Form Samples
+    Attachment C – Reference Questionnaire
+    Attachment D – Sample contract/terms and conditions
+    Attachment E – Rate Sheet
+                       ATTACHMENT A - INSTRUCTIONS FOR PROPOSERS
+VENDOR OBLIGATION
+Port of Tacoma Requests for Bids, Requests for Proposals and Requests for Qualifications can be
+accessed on the Port’s website, www.portoftacoma.com under ‘Contracts’; Procurement and then
+finding RFP Number (87747) and RFP Title.
+When viewing the details page for this procurement on the Port’s Website firms may subscribe to the
+Holders List.
+
+
+
+Detailed instructions for subscribing to the Holder’s List for Port of Tacoma Procurements are available
+here.
+By subscribing to the Holders List, firms will automatically be notified when new documents or changes
+relating to this procurement occurs.
+COMMUNICATION / INQUIRES
+Proposers who, relative to this scope of services, contact any individuals or Commission members
+representing the Port, other than the Procurement Representative on the RFP may be disqualified from
+consideration.
+Written questions about the meaning or intent of the Solicitation Documents shall only be submitted to
+Procurement at procurement@portoftacoma.com (Solicitation Name in subject line).
+Proposers who may have questions about provisions of these documents are to email their questions
+by the date listed above. The Port will respond to all written questions submitted by this deadline.
+PRE-PROPOSAL CONFERENCE
+The Port will not conduct a pre-proposal conference for this procurement. To obtain answers to any
+questions or for further clarifications, submit all questions as noted above.
+ADDENDA
+The Port may make changes to this Solicitation. Oral or other interpretations, clarifications or submittal
+instructions will be without legal effect. Any information modifying a solicitation will be furnished in a
+formal, written addendum. Addenda will be posted to the Port’s web site and conveyed to those
+potential submitters who have subscribed to the Holders List.
+SUBMITTAL PROCESS
+RFPs must be received via email by the date and time outlined on the front page of this RFP. Send
+your electronic submittal to:
+              procurement@portoftacoma.com.
+              Name of Firm, RFP Title (Subject Line)
+Please submit one electronic copy in Adobe Acrobat PDF format, including all appendices. Submittals
+to be limited to 9 MB in total email size. It is the Proposer’s responsibility to verify the receipt of the
+submittal. Electronic verification will be provided upon request.
+*Late RFP’s will not be accepted by the Port. RFPs received after the stated date and time will
+not be reviewed and shall be deemed non-responsive.
+EVALUATION AND AWARD PROCESS
+An evaluation team will review the RFPs and evaluate all responses received based upon the criteria
+in the RFP. The Port may request clarifications or additional information, if needed. A selection may
+be made based on the RFP’s and initial evaluation criteria alone or the firms determined to be most
+qualified through the initial evaluation phase may be invited in for interviews and the final determination
+for short listed firms will be based on reference checks and/or interviews.
+The Port intends to select the proposed Team which represents the most qualified team to the Port and
+begin the negotiation and award process based on the evaluated scores.
+The selected Proposer will be invited to enter into contract negotiations with the Port. Should the Port
+and the selected Proposer not mutually agree, the Port will terminate negotiations and move to the next
+highest ranked team and proceed with negotiations.
+The Port reserves the right to accept or reject any information in its entirety or in part and to waive
+informalities and minor irregularities and to contract as the best interest of the Port may require. The
+Port reserves the right to reject any RFPs submitted as non-responsive or non-responsible.
+News releases pertaining to this RFP, the services, or the project to which it relates, shall not be made
+without prior approval by, and then only in coordination with, the Port.
+COSTS BORNE BY PROPOSERS
+All costs in the preparation of a RFP and participation in this RFP and negotiation process shall be
+borne by the proposing firms.
+PUBLIC DISCLOSURE
+RFPs submitted under this Solicitation will be considered public documents and, with limited
+exceptions, will become public information and may be reviewed by anyone requesting the document
+under a Public Records Request following the conclusion of the evaluation, negotiation, and award
+process. This process is concluded when a signed contract is executed between the Port and the
+selected Proposer.
+If a firm considers any portion of its response to be protected under the law, the firm shall clearly identify
+each such portion with words such as “CONFIDENTIAL”, “PROPRIETARY” or “BUSINESS SECRET”
+on each page for which the protection is sought. If a request is made for disclosure of such portion,
+the Port will notify the firm of the request and allow the vendor not less than ten (10) days to seek a
+protective order from the Courts or other remedy and/or waive the claimed confidentiality. Unless such
+protective order is obtained and provided to the Port by the stated deadline, the Port will release the
+requested portions of the response. By submitting a response, the vendor assents to the procedure
+outlined in this paragraph and shall have no claim against the Port because of actions taken under such
+procedure.
+                                    ATTACHMENT B – SAMPLE PSO FORMS
+
+                                              SAMPLE #1
+                                             Port of Tacoma
+                             Contracted Information Technology (IT) Services
+                                      Project Service Order (PSO)
+It is mandatory for all Contractors contracted for the required IT service below to respond to this PSO within five (5) working days.
+Failure to do so may result in the Contractor’s candidates being eliminated for consideration for this position procurement. The
+Port will provide the information requested in the green fields below. Contractors are to provide the information requested in the
+blue fields below for each candidate submitted for consideration.
+
+All pricing is firm/fixed. Contractors may not exceed maximum price proposed on the Agreement. Firm/Fixed pricing
+may be re-negotiated annually for those PSOs exceeding one (1) year but may not at any time exceed the maximum price.
+
+   Port
+Name                                        Section                                                          PSO Identification Number
+Janaya Smith                                Information technology                                                  097
+Contact Name                                               Contact Phone Number         Contact Email Address
+Josh Smith                                                 123-456-7890                 Jsmith3232@portoftacoma.com
+Service Category                       Service Required
+SharePoint Support and
+Development (Software                  Contract Staffing
+Engineer)
+Estimated Start Date                          Estimated Completion Date                     Estimated Total Hours
+                                              Maximum six months duration, on a
+7/15/19                                                                                     1040
+                                              month-to-month basis.
+
+
+Project Scope (Description of work needed. Additional background check requirements are to be added here.)
+The Port of Tacoma is seeking a temporary Software Engineer to support our Microsoft SharePoint Online environment. The
+Port has recently migrated SharePoint to the Office 365/Online environment and a significant user demand currently exists to
+develop SharePoint sites and functionality. The Port is also currently recruiting for a regular full-time position to fulfill these (and
+additional) responsibilities, and this temporary position will be on a month-to-month basis until the regular full-time position is
+filled.
+
+The temporary position will work with SharePoint system users, translate their business needs into system designs, and develop
+and implement solutions. The role will also perform and coordinate system administration, support, operations, and maintenance
+activities to ensure SharePoint operates reliably and securely.
+
+Expected Deliverables
+Works with SharePoint users one-on-one and in small groups to analyze and understand business problems and user
+requirements.
+
+Envision and design appropriate SharePoint sites and solutions.
+
+Develops moderately complex SharePoint sites and solutions.
+
+
+
+
+Specific Skills Required (Programming languages, databases, operating systems, etc.)
+A minimum of five years of SharePoint development and support experience with analysis and enhancement responsibilities
+required.
+
+Knowledge of the capabilities of the Microsoft SharePoint platform, and experience leveraging these capabilities to enhance
+business collaboration, communication and efficiency.
+
+Skilled at developing Microsoft SharePoint Online/Office 365 solutions.
+
+Skilled at working collaboratively with system users to elicit requirements, develop designs, and implement solutions.
+
+Ability to translate business requirements and business process analyses into system specifications and designs.
+
+Excellent troubleshooting and problem-solving skills.
+
+Good written and verbal communications.
+
+Excellent customer service skills.
+   Contractor
+Contract Number      Company Name                                                  Contact Name
+
+
+Contact Phone Number           Contact Email Address                                                   Hourly Rate Proposed
+
+
+PSO Hours Proposed                           Proposed Start Date                           PSO Proposed Total Cost
+
+
+Resource(s) Proposed
+(Attach the resume of the proposed resource and include a summary of the proposed resource below to explain why they would be a good
+match for this PSO.)
+   The following is to be completed once the Port has selected the Contractor who will fulfill the PSO.
+
+       PSO Not to Exceed Amount
+
+   By signing below, the parties understand that this PSO is subject to the Contract (Contract #           ) between the Port of
+   Tacoma and the Contractor, the requirements of this PSO, and the Contractor’s response to this PSO. In the event of any
+   conflict between the language contained in the original Agreement and this PSO, the language contained in the original
+   Contract will prevail. Electronic signatures in the form of electronic mail shall have the same effect.
+
+   Port
+Name                                                              Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+   Contractor
+Contractor Company Name                                           Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+                                         Internal Use Only
+
+   Budget Approval
+Authorizing Signature                    Printed Name                               Title                        Date
+                                              SAMPLE #2
+                                             Port of Tacoma
+                             Contracted Information Technology (IT) Services
+                                      Project Service Order (PSO)
+It is mandatory for all Contractors contracted for the required IT service below to respond to this PSO within five (5) working days.
+Failure to do so may result in the Contractor’s candidates being eliminated for consideration for this position procurement. The
+Port will provide the information requested in the green fields below. Contractors are to provide the information requested in the
+blue fields below for each candidate submitted for consideration.
+
+All pricing is firm/fixed. Contractors may not exceed maximum price proposed on the Agreement. Firm/Fixed pricing
+may be re-negotiated annually for those PSOs exceeding one (1) year but may not at any time exceed the maximum price.
+
+   Port
+Name                                        Section                                                          PSO Identification Number
+Jackie Smith                                Information technology                                                  098
+Contact Name                                              Contact Phone Number         Contact Email Address
+Jimmy Smith                                               123-456-7890                 Jsmith5454@portoftacoma.com
+Service Category                      Service Required
+Business Analyst                      Contract Staffing
+Estimated Start Date                          Estimated Completion Date                     Estimated Total Hours
+7/15/19                                       5/15/20                                       1800
+
+
+Project Scope (Description of work needed. Additional background check requirements are to be added here.)
+The Port of Tacoma is seeking a Senior Business Analyst (BA) to support multiple IT system implementation projects. Through
+the comprehensive analysis of As-Is business processes, including systems, data, and human resource components, and the
+design of To-Be solutions for these elements, this role is instrumental in ensuring business processes and system functionality
+are updated and implemented successfully.
+
+The Sr. Business Analyst leads and facilitates cross functional collaboration, and works with IT, process owners, organizational
+leadership, project management, and functional experts. Utilizing proven methodologies, the Sr. Business Analyst is responsible
+for analyzing, documenting and communicating process changes and functional system requirements. Through the utilization of
+techniques including As-Is Process Mapping, To-Be Process Mapping, Gap Analyses and solution envisioning, the incumbent
+ensures that the entirety of process and business change is understood, and the risk associated with introduction of new
+systems or changes to existing systems is minimized.
+
+Expected Deliverables
+Undertakes Business Analysis initiatives for new IT system implementation and modifications to existing IT systems. Performs
+detailed As-is, To Be, and Gap Analysis activities to define current business processes and map potential future processes and
+gaps.
+
+Determines and defines the Business Analysis methodologies to be utilized and deliverables to be developed for complex
+initiatives.
+
+Actively facilitates meetings with diverse staff groups to elicit process details and define system requirements.
+
+Develops comprehensive Business Analysis documentation and deliverables for multiple and diverse IT system implementation
+projects.
+
+Undertakes solution envisioning and partners with IT staff to design system solutions that meet process and technical
+requirements.
+
+Communicate process recommendations through formal presentations, interactive discussions or small focus groups.
+May perform some project management functions for assigned initiatives.
+
+
+
+
+Specific Skills Required (Programming languages, databases, operating systems, etc.)
+Minimum education requirement: Bachelor's degree
+
+Certified Business Analysis Professional (CBAP) Certification desirable.
+
+Project Management Professional (PMP) Certification desirable.
+
+Must possess a minimum of five (5) years of responsible business analysis and process design experience. Experience must
+demonstrate successful ability work with diverse stakeholders to identify and document requirements for complex IT systems and
+identify and document business process changes that would be needed as a result of new or changed systems. Must have
+experience in delivering formal presentations and in facilitating small to medium size work groups. Project Management
+experience with software implementation is also desired.
+
+Must have excellent interpersonal and technical skills.
+
+Must have the ability to work with both technical and non-technical individuals and communicate clearly and effectively.
+
+Must thrive in a fast paced, results oriented and collaborative environment.
+
+Must have strong attention to detail and data.
+
+Must have ability to organize, prioritize work, meet strict deadlines and work both independently and in teams.
+
+Must have excellent planning skills.
+
+Must have the ability to understand issues, analyze options and articulate a course of action to a wide variety of individuals.
+Must have knowledge of SDLC, Agile, Six Sigma and Lean methodologies.
+   Contractor
+Contract Number      Company Name                                                  Contact Name
+
+
+Contact Phone Number           Contact Email Address                                                   Hourly Rate Proposed
+
+
+PSO Hours Proposed                           Proposed Start Date                           PSO Proposed Total Cost
+
+
+Resource(s) Proposed
+(Attach the resume of the proposed resource and include a summary of the proposed resource below to explain why they would be a good
+match for this PSO.)
+   The following is to be completed once the Port has selected the Contractor who will fulfill the PSO.
+
+       PSO Not to Exceed Amount
+
+   By signing below, the parties understand that this PSO is subject to the Contract (Contract #           ) between the Port of
+   Tacoma and the Contractor, the requirements of this PSO, and the Contractor’s response to this PSO. In the event of any
+   conflict between the language contained in the original Agreement and this PSO, the language contained in the original
+   Contract will prevail. Electronic signatures in the form of electronic mail shall have the same effect.
+
+   Port
+Name                                                              Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+   Contractor
+Contractor Company Name                                           Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+                                         Internal Use Only
+
+   Budget Approval
+Authorizing Signature                    Printed Name                               Title                        Date
+                                              SAMPLE #3
+                                             Port of Tacoma
+                             Contracted Information Technology (IT) Services
+                                      Project Service Order (PSO)
+It is mandatory for all Contractors contracted for the required IT service below to respond to this PSO within five (5) working days.
+Failure to do so may result in the Contractor’s candidates being eliminated for consideration for this position procurement. The
+Port will provide the information requested in the green fields below. Contractors are to provide the information requested in the
+blue fields below for each candidate submitted for consideration.
+
+All pricing is firm/fixed. Contractors may not exceed maximum price proposed on the Agreement. Firm/Fixed pricing
+may be re-negotiated annually for those PSOs exceeding one (1) year but may not at any time exceed the maximum price.
+
+   Port
+Name                                        Section                                                          PSO Identification Number
+Jane Smith                                  Information Technology                                           099
+Contact Name                                               Contact Phone Number        Contact Email Address
+Jeb Smith                                                  123-456-6543                jsmith6565@portoftacoma.com
+Service Category                       Service Required
+Project Management                     Contract Staffing
+Estimated Start Date                          Estimated Completion Date                           Estimated Total Hours
+                                              2/1/2020
+3/1/2019                                                                                          1800
+                                              (project duration estimated at 11 months)
+Project Scope (Description of work needed. Additional background check requirements are to be added here.)
+The Port of Tacoma is seeking an IT Project Manager to manage multiple IT system upgrade and/or system implementation
+projects. The projects require a pragmatic and flexible style of project management, coupled with the ability to effectively develop
+and manage from a project plan. Excellent communication, coordination, facilitation and organization skills will be essential for
+success. Strong technical writing skills are required to develop project documentation including requirements, training materials,
+policy and procedure documents, RFP’s, test scripts, communication plans, etc. Vendors provide the technical resources for many
+of these projects, so solid vendor relationship management skills are required. The Project Manager may also be assigned to
+manage the phases of additional implementation, upgrade, or design projects that are currently in progress as required.
+
+
+
+
+Expected Deliverables
+
+Projects successfully delivered to agreed scope, schedule and budget.
+
+Thoroughly researched, considered and agreed project planning deliverables.
+
+Effectively managed and communicated project risks and issues.
+
+Project management artifacts, including charters, WBS, status reports, budgets, project logs, etc.
+
+Other technical artifacts, including policy documents, procedure documents, training materials, etc.
+
+
+
+
+Specific Skills Required (Programming languages, databases, operating systems, etc.)
+A minimum of five years of experience with IT project management, primarily managing complex infrastructure, networking, COTS
+and SaaS software implementation and upgrade projects.
+
+Bachelor’s degree required. Candidates without Bachelor’s degrees will not be considered.
+
+PMP Certification required. Candidates without a current PMP Certification will not be considered.
+
+Must possess a flexible, patient, collaborative and creative approach, and be able and willing to do whatever it takes to ensure
+project success.
+
+Experience and skilled at writing technical documentation. Documentation will include project management deliverables and
+artifacts including project charters, test plans, test cases, project requirement documentation, training documentation, and status
+reports. Experience coordinating and managing infrastructure roll-outs is desired.
+
+Excellent communication and collaboration skills required, including the ability to work effectively with technical and management
+resources at both the Port and vendors. Must possess the ability to translate complex requirements and technical language
+between technical and non-technical stakeholders.
+
+Experience in developing, updating, and managing projects to a Project Plan reflecting a projects Work Breakdown Structure
+(WBS), deliverables, tasks, task dependencies, schedule, and resource assignments required.
+
+Experience with Budget Management.
+
+Vendor management, including managing vendor relationships, accountability and deliverables working closely with vendor Project
+Managers to coordinate project tasks, dependencies and deliverables.
+
+Experience managing projects that are funded with federal grant funds is desired.
+   Contractor
+Contract Number      Company Name                                           Contact Name
+
+
+Contact Phone Number           Contact Email Address                                           Hourly Rate Proposed
+
+
+PSO Hours Proposed                           Proposed Start Date                    PSO Proposed Total Cost
+
+
+Resource(s) Proposed (Attach resumes of all proposed resources.)
+
+
+
+
+   Contractors are to respond below to the Scope and Required Deliverables, demonstrating their understanding of the Port’s
+   requirement. The Scope of Work Response and the Hourly Rate Proposed will be evaluated, and a Contractor selected to
+   provide the service.
+
+Response to Project Scope and Required Deliverables
+   The following is to be completed once the Port has selected the Contractor who will fulfill the PSO.
+
+       PSO Not to Exceed Amount
+
+   By signing below, the parties understand that this PSO is subject to the Contract (Contract #           ) between the Port of
+   Tacoma and the Contractor, the requirements of this PSO, and the Contractor’s response to this PSO. In the event of any
+   conflict between the language contained in the original Agreement and this PSO, the language contained in the original
+   Contract will prevail. Electronic signatures in the form of electronic mail shall have the same effect.
+
+   Port
+Name                                                              Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+   Contractor
+Contractor Company Name                                           Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+                                         Internal Use Only
+
+   Budget Approval
+Authorizing Signature                    Printed Name                               Title                        Date
+                                              SAMPLE #4
+                                             Port of Tacoma
+                             Contracted Information Technology (IT) Services
+                                      Project Service Order (PSO)
+
+It is mandatory for all Contractors contracted for the required IT service below, to respond to this PSO within five (5) working days.
+Failure to do so may result in submitted candidates being removed from consideration. The Port will provide the information
+requested in the green fields below. Contractors are to provide the information requested in the blue fields on the next page.
+
+All pricing is firm/fixed. Contractors may not exceed maximum price proposed on the Agreement. Firm/Fixed pricing
+may be re-negotiated annually for those PSOs exceeding one (1) year, but may not at any time exceed the maximum
+price.
+
+   Port
+Name                                        Section                                                          PSO Identification Number
+Jason Smith                                 Information Technology                                                  0133
+Contact Name                                              Contact Phone Number         Contact Email Address
+Jodie Smith                                               253 428 8648                 Jsmith389384@portoftacoma.com
+Service Category                      Service Required
+Network Infrastructure
+                                      Contract Staffing
+Engineer
+Estimated Start Date                          Estimated Completion Date                           Estimated Total Hours
+11/15/2017                                    6 months                                            1040
+
+Project Scope (Description of work needed. Additional background check requirements are to be added here.)
+
+The Port of Tacoma is seeking a temporary Network Infrastructure Engineer to provide tier 1 level support for the
+installation, administration, and support of an enterprise class IT network infrastructure.
+
+
+
+
+Expected Deliverables
+Responsible for providing support of multi-protocol routers, multi-layer switches, network devices and network management systems.
+Responsible for Tier I level support for installation, administration, and support of an LAN/WAN, systems at multiple sites.
+
+Acts as a contributor and technical resource on infrastructure projects. Serves as technical lead and primary support on infrastructure
+projects.
+
+Acts as Tier 1 support to assist other parts of the IT department in resolution of faults. Analyze and resolve faults on the network to meet
+defined services levels.
+
+Performs duties associated with the setup and operation of Windows Active Directory, domain controllers, DNS/DHCP physical and software
+firewalls, encryption devices and multi-factor authentication.
+
+
+
+
+Specific Skills Required (Programming languages, databases, operating systems, etc.)
+
+
+
+Requires basic knowledge of IT infrastructure technologies including network equipment and software from Cisco and Microsoft,
+and storage, server and backup equipment and software from HP. Have working knowledge of TCP/IP internetworking, and
+LAN/WAN connectivity.
+
+Minimum of a college degree, with course emphasis in a computing or business-related field.
+
+Professional Certifications required and desired include:
+
+       Cisco certifications – Expert level (CCIE) or Professional level (CCSP, CCNP, CCIP, CCDP), required
+       CISSP - Certified Information Systems Security Professional, desired
+       MCSE - Microsoft Certified Systems Engineer, desired
+
+Previous experience with ITIL/ITSM processes required, certification desired.
+
+Previous job experience required should include a minimum of 3-7 years of increasingly responsible experience in this or in a
+related field. An expert level of proficiency in enterprise level infrastructure solutions and equipment is required.
+
+Extensive experience with a wide range of networking equipment, including advanced knowledge and skills relating to Switches,
+Routers, Firewalls, CSS’s, ACS’s, Wireless devices, etc. This experience should primarily be with equipment manufactured by
+Cisco.
+
+Extensive experience with Microsoft Windows Server 2003 and 2008. Experience in data center technologies is required.
+
+Excellent customer service skills.
+   Contractor
+Contract Number      Company Name                                           Contact Name
+
+
+Contact Phone Number           Contact Email Address                                           Hourly Rate Proposed
+
+
+PSO Hours Proposed                           Proposed Start Date                    PSO Proposed Total Cost
+
+
+Resource(s) Proposed (Attach resumes of all proposed resources.)
+
+
+
+
+   Contractors are to respond below to the Scope and Required Deliverables, demonstrating their understanding of the Port’s
+   requirement. The Scope of Work Response and the Hourly Rate Proposed will be evaluated, and a Contractor selected to
+   provide the service.
+
+Response to Project Scope and Required Deliverables
+   The following is to be completed once the Port has selected the Contractor who will fulfill the PSO.
+
+       PSO Not to Exceed Amount
+
+   By signing below, the parties understand that this PSO is subject to the Contract (Contract #           ) between the Port of
+   Tacoma and the Contractor, the requirements of this PSO, and the Contractor’s response to this PSO. In the event of any
+   conflict between the language contained in the original Agreement and this PSO, the language contained in the original
+   Contract will prevail. Electronic signatures in the form of electronic mail shall have the same effect.
+
+   Port
+Name                                                              Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+   Contractor
+Contractor Company Name                                           Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+                                         Internal Use Only
+
+   Budget Approval
+Authorizing Signature                    Printed Name                               Title                        Date
+                                              SAMPLE #5
+                                             Port of Tacoma
+                             Contracted Information Technology (IT) Services
+                                      Project Service Order (PSO)
+
+It is mandatory for all Contractors contracted for the required IT service below, to respond to this PSO within five (5) working days.
+Failure to do so may result in submitted candidates being removed from consideration. The Port will provide the information
+requested in the green fields below. Contractors are to provide the information requested in the blue fields on the next page.
+
+All pricing is firm/fixed. Contractors may not exceed maximum price proposed on the Agreement. Firm/Fixed pricing
+may be re-negotiated annually for those PSOs exceeding one (1) year, but may not at any time exceed the maximum
+price.
+
+   Port
+Name                                        Section                                                          PSO Identification Number
+Jason Smith                                 Information Technology                                                  0198
+Contact Name                                              Contact Phone Number         Contact Email Address
+Jodie Smith                                               253 428 8648                 Jsmith389384@portoftacoma.com
+Service Category                      Service Required
+Systems Infrastructure
+                                      Contract Staffing
+Engineer
+Estimated Start Date                          Estimated Completion Date                           Estimated Total Hours
+11/15/2017                                    9/15/2018                                           1800
+
+Project Scope (Description of work needed. Additional background check requirements are to be added here.)
+
+The Port of Tacoma is seeking a temporary Systems Infrastructure Engineer to provide installation, administration, and support
+of an enterprise class IT systems infrastructure, utilizing expert level skills with standard systems hardware and software..
+Expected Deliverables
+This position is responsible for the maintenance and support of an enterprise class IT Infrastructure, conducting hands on
+troubleshooting, configuration, installation, testing, and administration of infrastructure components utilizing expert level skills with
+Microsoft Windows Server networking software, HP Server and Storage Hardware, and associate level Cisco network support.
+
+This position will be responsible for the management of multiple SAN’s, servers, backup/restore and telecommunication systems.
+
+In collaboration with IT management, the Systems Infrastructure Engineer is responsible for the IT Infrastructure, incorporating
+factors such as business goals and requirements, cost, IT strategies and technical standards, and system security, redundancy,
+scalability, and disaster recovery requirements.
+
+The Systems Infrastructure Engineer evaluates and recommends changes to the IT infrastructure on an ongoing basis as relevant
+technologies develop and business requirements change, ensuring infrastructure designs meet performance and uptime
+requirements.
+
+Performs as enterprise Backup and Restore Administrator and is responsible to create, schedule, and manage backup jobs for
+nightly incremental and weekly full backups. This includes daily tape rotation and coordination with the co-location data center.
+Ensures backups are comprehensive and ensures backup integrity. Advanced knowledge is required for log review and system
+troubleshooting.
+
+In conjunction with other stakeholders, and in balance with organizational and business needs, ensures the optimum level of
+security for all components of the Port’s IT infrastructure.
+
+Performs other duties as assigned.
+
+
+
+
+Specific Skills Required (Programming languages, databases, operating systems, etc.)
+
+
+This position requires a combination of technical planning, design skills, and expert hands on implementation and support skills.
+Specific in depth knowledge of IT infrastructure technologies including storage, server and backup equipment and software
+from HP and network equipment and software from Microsoft and Cisco.
+Specific in depth knowledge of all aspects of TCP/IP internetworking.
+High level knowledge and understanding of LAN and WAN connectivity.
+Minimum education required is as follows:
+A college degree, with course emphasis in a computing or business related field.
+Professional Certifications required and desired include:
+       MCSE - Microsoft Certified Systems Engineer, required
+       MCP – Microsoft Certified Professional, required
+       Cisco certifications – Associate Level (CCNA), desired
+       HP certifications – SAN switches and blade servers, required
+Previous experience with ITIL/ITSM processes required, certification desired.
+Previous job experience required should include a minimum of 5-7 years of increasingly responsible experience in this or in a
+related field. An expert level of proficiency in enterprise level infrastructure solutions and equipment is required.
+Extensive experience with Microsoft Windows Server 2003 and 2008. Experience with Microsoft Exchange 2007 and 2010.
+
+Experience in enterprise technologies and fields including SAN’s, clustering, data center technologies, enterprise backup, etc, is
+required.
+
+Excellent customer service skills. Be results oriented, process oriented, and a collaborative team player.
+   Contractor
+Contract Number      Company Name                                           Contact Name
+
+
+Contact Phone Number           Contact Email Address                                           Hourly Rate Proposed
+
+
+PSO Hours Proposed                           Proposed Start Date                    PSO Proposed Total Cost
+
+
+Resource(s) Proposed (Attach resumes of all proposed resources.)
+
+
+
+
+   Contractors are to respond below to the Scope and Required Deliverables, demonstrating their understanding of the Port’s
+   requirement. The Scope of Work Response and the Hourly Rate Proposed will be evaluated, and a Contractor selected to
+   provide the service.
+
+Response to Project Scope and Required Deliverables
+   The following is to be completed once the Port has selected the Contractor who will fulfill the PSO.
+
+       PSO Not to Exceed Amount
+
+   By signing below, the parties understand that this PSO is subject to the Contract (Contract #           ) between the Port of
+   Tacoma and the Contractor, the requirements of this PSO, and the Contractor’s response to this PSO. In the event of any
+   conflict between the language contained in the original Agreement and this PSO, the language contained in the original
+   Contract will prevail. Electronic signatures in the form of electronic mail shall have the same effect.
+
+   Port
+Name                                                              Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+   Contractor
+Contractor Company Name                                           Authorizing Signature
+
+
+Printed Name                                          Title                                                 Date
+
+
+
+
+                                         Internal Use Only
+
+   Budget Approval
+Authorizing Signature                    Printed Name                               Title                        Date
+              ATTACHMENT C - REFERENCES QUESTIONNAIRE
+
+INSTRUCTIONS TO THE PROPOSER:
+
+Proposers are allowed three (3) completed reference questionnaires. The completed references
+questionnaires must be from individuals, companies, or agencies with knowledge of the
+proposer’s experience that is similar in nature to the products or services being requested by this
+RFP, and are within the last (3) years from the date this RFP was issued.
+
+References not received prior to the RFP Closing Date and time will receive a score of “0” for that
+reference. References outside the (3 years) (see paragraph above), and references determined
+to be not of a similar nature to the products or services requested by this RFP will also receive a
+score of zero (0) points. Determination of similar will be made by using the information
+provided by the reference in Section II of the Reference Questionnaire, General Information
+and any additional information provided by the reference.
+
+If more than three (3) qualifying references are received, the first three (3) fully completed
+references received will be used for evaluation purposes. References will be averaged.
+
+
+
+
+1. Proposers must complete the following information on page 2 of the “Reference’s Response
+To” document before sending it to the Reference for response.
+
+   a. Print the name of your reference (company/organization) on the “REFERENCE NAME” line.
+
+   b. Print the name of your company/organization on the “PROPOSER NAME” line.
+
+  c. Enter the RFP Closing date and time in Instruction 5 (see the INSTRUCTIONS block.)
+
+2. Send the “Reference’s Response To” document to your references to complete.
+
+
+NOTE: It is the proposer’s responsibility to follow up with their references to ensure timely
+submission of all questionnaires. Proposers may e-mail the Procurement Representative prior to
+the RFP closing date to verify receipt of references.
+
+
+
+
+Request for Proposals
+Information Technology Contract Staffing Services
+                               REFERENCE QUESTIONNAIRE
+                               REFERENCE’S RESPONSE TO:
+                                 RFP Number: 087747
+               RFP Title: Information Technology Contract Staffing Services
+
+
+
+REFERENCE NAME
+(Company/Organization):______________________________________
+
+PROPOSER NAME (Company/Organization): _________________________________ has
+submitted a proposal to the Port of Tacoma, provide the following services: Information
+Technology Contract Staffing Services. We’ve chosen you as one of our references.
+
+
+
+
+INSTRUCTIONS
+
+1. Complete Section I. RATING using the Rating Scale provided.
+
+2. Complete Section II. GENERAL INFORMATION (This section is for information only and will
+   not be scored.)
+
+3. Complete Section III. ACKNOWLEDGEMENT by manually signing and dating the document.
+   (Reference documents must include an actual signature.)
+
+4. E-mail THIS PAGE and your completed reference document, SECTIONS I through III to:
+
+         Procurement Representative: Sharon Rothwell
+
+         E-mail: procurement@portoftacoma.com
+
+5. This completed document MUST be received no later than 10/11/2019 at 2:00 p.m. (PDT).
+   Reference documents received after this time will not be considered. References received
+   without an actual signature will not be accepted.
+
+6. DO NOT return this document to the Proposer.
+
+7. In addition to this document, the Port may contact references by phone for further clarification
+   if necessary.
+Section I. RATING
+
+Using the Rating Scale provided below, rate the following numbered items by circling the
+appropriate number for each item:
+
+                                          Rating Scale
+               Category                                                          Score
+
+              Poor or Inadequate Performance                                       0
+
+              Below Average                                                      1–3
+
+              Average                                                            4–6
+
+              Above Average                                                      7-9
+
+              Excellent                                                           10
+
+
+Circle ONE number for each of the following numbered items:
+
+
+1. Rate the overall quality of the firm’s services:
+
+       10      9        8      7      6       5       4     3       2        1         0
+
+2. Rate the response time of this firm:
+
+       10      9        8      7      6       5       4     3       2        1         0
+
+
+3. Rate the overall customer service and timeliness in responding to customer service inquiries,
+   issues and resolutions:
+
+       10      9        8      7      6       5       4     3       2        1         0
+
+4. Rate the knowledge of the firm’s assigned staff and their ability to accomplish duties as
+   contracted:
+
+       10      9        8      7      6       5       4     3       2        1         0
+
+
+5. Rate the accuracy and timeliness of the firm’s billing and/or invoices:
+
+       10      9        8      7      6       5       4     3       2        1         0
+6. Rate the firm’s ability to quickly and thoroughly resolve a problem related to the services
+   provided:
+
+       10      9      8       7       6      5       4      3       2       1      0
+
+7. Rate the firm’s flexibility in meeting business requirements:
+
+       10      9      8       7       6      5       4      3       2       1      0
+
+8. Rate the likelihood of your company/organization recommending this firm to others in the
+   future:
+
+       10      9      8       7       6      5       4      3       2       1      0
+
+
+Section II. GENERAL INFORMATION
+
+1. Please include a brief description of the services provided by this firm for your business:
+
+
+
+
+2. During what time period did the firm provide these services for your business?
+
+   Month:_________ Year:_________            to      Month: _________ Year:_________
+
+
+Section III. ACKNOWLEDGEMENT
+
+I affirm to the best of my knowledge that the information I have provided is true, correct, and
+factual:
+
+
+____________________________________                 ________________________________
+Signature of Reference                               Date
+
+
+____________________________________                 ________________________________
+Print Name                                           Title
+
+
+____________________________________                 ________________________________
+Phone Number                                         Email Address
+                               ATTACHMENT D
+                       SAMPLE Contract / Terms & Conditions
+
+    (Do NOT fill out and include with proposals. This is a SAMPLE that includes the Port’s terms and
+                      conditions that all selected firms will be required to agree to.)
+
+                                           Port of Tacoma
+                                           CONTRACT FOR
+
+This Contract is made effective _______ (the “Effective Date”), and entered into by and between the Port
+of Tacoma (“Port”), a Washington municipal corporation; and ________________ (“Contractor”), a
+corporation of the State of _______, and authorized to do business in the State of Washington.
+
+
+               Contractor Business
+               Name of Representative
+               Contractor Address
+               Contractor Phone
+               Contractor Fax
+               Contractor E-mail
+
+
+WHEREAS, the purpose of this contract is to provide the Port of Tacoma with Information Technology
+     staffing Services; and
+
+WHEREAS, Contractor was selected as a result of a Request for Proposal process initiated _______20-
+     ____; and
+
+WHEREAS, funds for this purpose are authorized through Port of Tacoma annual budget;
+
+NOW, THEREFORE, in consideration of the terms, conditions, covenants, and performance of the scope
+of work contained herein, as attached and made a part hereof, Port of Tacoma and Contractor mutually
+agree as follows:
+
+1. Entire Agreement: This Contract, including all attachments, amendments and subsequently issued
+   change notices, comprises the entire agreement between The Port and the Contractor. The Request
+   for Proposal (“RFP”), Addenda, and Contractor’s Proposal are explicitly included as Attachments.
+   Where there are conflicts between these documents, the controlling document will first be this Contract
+   as amended, then the Contractor’s proposal, the RFP and Addenda.
+
+2. Term of Contract
+   This contract shall be for three (3) years, with one extension two-year extension, for a total of 5 years.
+   Such extensions shall be mutual with written confirmation from the Port to the Contractor, unless the
+   Port provides the Contractor advance notice of the intention to not renew. Such notice shall be given
+   prior to the otherwise automatic renewal date.
+
+3. Time of Beginning and Completion
+   Contractor shall begin the work stated in the "Scope of Work" (“work”) section upon receipt of written
+   notice to proceed from the Port. The Port will acknowledge in writing when work is complete. Time
+   limits established pursuant to this Contract shall not be extended because of delays for which the
+   Contractor is responsible, but may be extended by the Port, in writing, for its convenience or for
+
+Request for Proposals
+Information Technology Contract Staffing Services
+    conditions beyond Contractor’s control. Time is of the essence.
+
+4. Scope of Work
+   Contractor shall provide the following products and/or services as specified below and/or as attached.
+   These services shall be termed “work” herein. [See RFP scope of work]
+
+
+5. Limits of Sales to Authorized Products and Services
+   Contractor has responsibility to limit sales to those products or services authorized within the contract,
+   whether authorized by changes and amendments or stated within the original contract scope. The
+   Contractor is responsible for refusing orders that are not properly authorized by the contract or through
+   other proper Purchase Orders issued by authorized persons from the Port. If the Contractor has
+   consistent sales of unauthorized products or services, the Port reserves the right to use any of the
+   following: terminate the contract in accordance with termination provisions, place the Contractor
+   payments on “hold” for all incoming invoices while the Port determines which are authorized items
+   eligible for payment, and/or refuse certain invoices that contain non-authorized items.
+
+6. Payment/Payment Procedures
+   The Port agrees to compensate as specified herein or attached, in consideration of acceptable
+   Contractor performance. Payment shall only be made for services performed and/or product delivered,
+   after receipt, review, and authorization by the Port. Such payment shall be made according to early
+   payment discount terms, or if no early payment discount is offered, thirty (30) days after the Port’s
+   receipt and acceptance of the goods or completion and acceptance of the services. Computation of
+   Payment periods will be from either the date of delivery and acceptance of all goods ordered, the
+   acceptance by the Port of completion of all services, or the date of receipt of a correct invoice, whichever
+   date is later. This section is not intended to restrict partial payments that are specified in the contract.
+   All dollars referenced in this Contract and attachments are US Dollars.
+
+7. Invoices
+   Invoices must show line item detail and price for each. Invoices must provide the Contract or Purchase
+   Order Number. If the pricing structure is based upon a discount below list, or a mark-up above cost,
+   then the Contractor must provide a method for tracking the cost of the item to the Port , with the Port
+   discount calculation displayed so that pricing discounts can be easily tracked and verified by the Port
+   .
+
+    For contracts where prevailing wages are required, the Contractor must include a statement that
+    certifies Prevailing Wages have been paid for the Contractor and Subcontractors, if any. If it is to be
+    the final payment, there must be an approved affidavit for the Contractor and Subcontractors before
+    payment is made.
+
+8. Taxes, Fees and Licenses
+
+      A. Fees and Licenses: Contractor shall pay for and maintain in a current status, any license fees,
+         assessments, permit charges, etc., which are necessary for contract performance. It is the
+         Contractor’s sole responsibility to monitor and determine any changes or the enactment of any
+         subsequent requirements for said fees, assessments, or charges, and to immediately comply with
+         said changes during the entire term of this Contract. Contractor must pay all custom duties,
+         brokerage or import fees where applicable as part of the contract price. Contractor shall take all-
+         necessary actions to ensure that materials or equipment purchased are expedited through
+         customs.
+
+      B. Taxes: Where required by state statute, ordinance or regulation, Contractor shall pay for and
+         maintain in current status all taxes that are necessary for contract performance. Unless otherwise
+         indicated, The Port agrees to pay State of Washington sales or use taxes on all applicable
+         consumer services and materials purchased. No charge by the Contractor shall be made for
+         federal excise taxes and The Port agrees to furnish Contractor with an exemption certificate where
+         appropriate.
+
+     C. Contractor is to calculate and enter the appropriate Washington State and local sales tax on the
+        invoice. Tax computation is to be on new items after deduction of any trade-in, in accordance with
+        WAC 458-20-247.
+
+9. Anti-Trust: Seller and Buyer recognize that in actual economic practice, overcharges resulting from
+   anti-trust violations are in fact borne by the Buyer. Therefore, Seller hereby assigns to the Buyer any
+   and all claims for such overcharges.
+
+10. Pricing
+    Pricing shall be subject to the following terms. This is in addition to required annual Prevailing Wage
+    adjustments instructions when specified elsewhere within this solicitation. The Contracts and
+    Purchasing representative may exempt these requirements for extraordinary conditions that could not
+    have been known by either party at the time of bid or other circumstances beyond the control of both
+    parties, as determined in the opinion of the Contract Administrator. Changes (whether increases or
+    decreases) may only be issued by the Contract Administrator. No other individual or Port Department
+    has authorization to approve such modifications. The Contract Administrator shall issue price changes
+    in writing. Absent a written contract document, such changes shall not be considered effective.
+
+    Hourly Rates or Service Pricing: For multi-year contracts that provide services. The Contractor may
+    submit a price reduction that implements a lower and more favorable cost to the Port at any time during
+    the contract. Contractor requests for rate increases must be no sooner than one year after contract
+    signature, are at the discretion of the Contracts and Purchasing; and must be:
+        a. The direct result of increases to wage rates and do not exceed the CPI Index or other
+             appropriate service rate index agreed upon between the Contracts and Purchasing and the
+             Contractor.
+        b. Incurred after contract commencement date.
+        c. Not produce a higher profit margin than that on the original contract.
+        d. Clearly identify the service titles and the hours of service performed if specified within the
+             contract and the before and after wage rates for such titles.
+        e. Be filed with Contract Administrator a minimum of 90 calendar days before the effective date
+             of proposed increase.
+        f. Be accompanied by detailed documentation acceptable to the Contracts and Purchasing
+        sufficient to warrant the increase.
+             g. The United States published indices such as the Consumer Price Index or other
+                  government data may be referenced to help substantiate the Contractor’s documentation.
+                  A link to the CPI Data is available at
+                  http://data.bls.govpdq/SurveyOutputServlet?data_tool=dropmap&series_id=CUUR0400S
+                  A0,CUUS0400SA0.
+        h. The Adjustment (if any) shall remain firm and fixed for at least 365 days after the effective date
+             of the adjustment.
+        i. Should not deviate from the original contract pricing scheme/methodology
+
+    The Port will not be bound by prices contained in an invoice that are higher than those in the contract.
+    Unless the Port has accepted the higher price and amended the contract, otherwise the invoice may
+    be rejected and returned to the Contractor for corrections.
+
+11. Identification
+    Place Contract or Purchase Order numbers on all invoices, packing slips, packages, instruction
+    manuals, correspondence, shipping notices, shipping containers, and other written documents affecting
+    the contract or the applicable purchase order number. Packing lists shall be enclosed with each
+    shipment, indicating the contents therein.
+
+12. Charges for Handling
+    No charges will be allowed for handling that includes but is not limited to packing, wrapping, bags,
+    containers, or reels, unless otherwise stated herein.
+
+13. Contract Notices, Deliverable Materials and Invoices Delivery
+    The Port of Tacoma agent for Contract changes shall be the Port of Tacoma Contracts and Purchasing
+    named below, hereinafter referred to as “Contract Administrator.” Contract notices such as change
+    requests, shall be delivered to Contract Administrator at the following addresses (or such other address
+    as either party may designate in writing):
+
+             If delivered by the U.S. Postal Service, it must be addressed to:
+                    Sharon Rothwell
+                                 Port of Tacoma
+                                 Contracts and Purchasing
+                     PO Box 1837
+                                Tacoma, WA 98401-1837
+
+             If delivered by other than the U.S. Postal Service, it must be addressed to:
+                                 Sharon Rothwell
+                                 Port of Tacoma
+                         Contracts and Purchasing
+                         1 Sticum Plaza
+                         Tacoma, WA 98421
+
+                        Phone: (253) 592-6758
+                        Fax: (253) 597-7573
+                        E-Mail: srothwell@portoftacoma.com
+
+        Project work, invoices, and communications shall be delivered to cpinvoices@portoftacoma.com
+                         Port of Tacoma, [Department]
+                         Attention:
+                         Address: PO Box 1837
+                                    Tacoma, WA 98401-1837
+                         Phone:
+                         E-mail:
+
+14. Representations
+    Contractor represents and warrants that it has the requisite training, skill and experience necessary to
+    provide Work and is appropriately accredited and licensed by all applicable agencies and governmental
+    entities.
+
+15. Warranties
+    Contractor warrants that articles supplied under this order conform to specifications herein and are fit
+    for the purpose for which such goods are ordinarily employed, except that if a particular purpose is
+    stated, the material must also be fit for that particular purpose.
+    The Contractor shall warrant all materials and workmanship delivered under any resulting contract to
+    be free from defects, damage, or failure for a minimum of ninety (90) days after the date of final
+    acceptance and without cost to the Port for labor, materials, parts, installation, or any other costs except
+    where longer periods of warranty of guarantees are specified.
+16. Independent Contractor
+    An independent Contractor relationship is created by this contract. The Seller or its employees or
+    agents performing under this contract are not employees or agents of the Port of Tacoma. Conduct
+    and control of the work will be solely with the Seller.
+
+17. Inspection
+    The Work shall be subject, at all times, to inspection by and with approval of the Port, but the making
+    (or failure or delay in making) such inspection or approval shall not relieve Contractor of responsibility
+    for performance of the Work in accordance with this Contract, notwithstanding The Port’s knowledge
+    of defective or noncomplying performance, its substantiality or the ease of its discovery. Contractor
+    shall provide sufficient, safe, and proper facilities and equipment for such inspection and free access
+    to such facilities.
+
+18. Title, Risk of Loss, Freight, Overages or Underage’s
+    Title of goods received under this contract shall remain with the Contractor until they are delivered to
+    the address specified, at which time title passes to The Port. Regardless of FOB point, Contractor
+    agrees to bear all risks of loss, injury, or destruction of goods and materials ordered herein which occur
+    prior to delivery and acceptance. Such loss, injury, or destruction shall not release Contractor from any
+    obligations under. Prices include freight prepaid and allowed. Contractor assumes the risk of every
+    increase, and receives the benefit of every decrease, in delivery rates and charges. Shipments shall
+    correspond with the Contract; any unauthorized advance or excess shipment is returnable at
+    Contractor’s expense.
+
+19. Performance
+    Acceptance by The Port of unsatisfactory performance with or without objection or reservation shall not
+    waive the right to claim damage for breach, or terminate the contract, nor constitute a waiver of
+    requirements for satisfactory performance of any obligation remaining to be performed by Contractor.
+
+20. Affirmative Efforts for Utilization of Women and Minority Subcontracting and Employment,
+    Nondiscrimination in providing services
+    Employment Actions: Contractor shall not discriminate against any employee or applicant for
+    employment because of race, religion, creed, age, color, sex, marital status, sexual orientation, gender
+    identity, political ideology, ancestry, national origin, or the presence of any sensory, mental or physical
+    handicap, unless based upon a bona fide occupational qualification. Contractor shall take affirmative
+    action to ensure that applicants are employed, and that employees are treated during employment,
+    without regard to their creed, religion, race, age, color, sex, national origin, marital status, political
+    ideology, ancestry, sexual orientation, gender identity, or the presence of any sensory, mental or
+    physical handicap. Such action shall include, but not be limited to employment, upgrading, promotion,
+    demotion, or transfer; recruitment or recruitment advertising, layoff or termination, rates of pay, or other
+    forms of compensation and selection for training.
+
+21. Assignment and Subcontracting
+    Contractor shall not assign or subcontract any of its obligations under this Contract without the Port’s
+    written consent, which may be granted or withheld in The Port’s sole discretion. Any subcontract made
+    by Contractor shall incorporate by reference all the terms of this Contract. The Port’s consent to any
+    assignment or subcontract shall not release the Contractor from liability under this Contract, or from
+    any obligation to be performed under this Contract, whether occurring before or after such consent,
+    assignment, or subcontract.
+
+22. Key Persons and Subcontractors
+    Contractor shall not transfer, reassign, or replace any individual or Subcontractor that is determined to
+    be essential, without express written consent of the Port. If during the term of this Contract, any such
+    individual leaves the Contractor’s employment or any named Subcontractor is terminated for any
+    reason, the Contractor shall notify the Port and seek approval for reassignment or replacement with an
+    alternative individual or Subcontractor. Upon the Port’s request, the Contractor shall present to The
+    Port, one or more Subcontractors, or individual(s) with greater or equal qualifications as a replacement.
+    The Port’s approval or disapproval shall not be construed to release the Contractor from its obligations
+    under this Contract.
+
+23. Publicity
+    No news release, advertisement, promotional material, tour, or demonstration related to The Port ’s
+    purchase or use of the Contractor’s product or services performed pursuant to this Contract shall be
+    produced, distributed, or take place, without the prior, specific written approval of the Port ’s Project
+    Manager or his/her designee.
+
+24. Proprietary and Confidential Information
+    A. Contractor understands that any records (including but not limited to bid or proposal submittals, the
+    Agreement, and any other contract materials) it submits to the Port , or that are used by the Port
+    even if the Contractor possesses the records, are public records under Washington State law, RCW
+    Chapter 42.56. Public records must be promptly disclosed upon request unless a statute exempts them
+    from disclosure. The Contractor also understands that even if part of a record is exempt from disclosure,
+    the rest of that record generally must be disclosed.
+
+    B. If the Port receives a public disclosure request made pursuant to RCW 42.56, the Port will not assert
+    an exemption from disclosure on behalf of the Contractor. For materials that the Contractor has properly
+    marked, the Port may notify the Contractor of the request and postpone disclosure for ten business
+    days to allow the Contractor to file a lawsuit seeking an injunction preventing the release of documents
+    pursuant to RCW 42.56.540. Providing any notification is a courtesy and is not an obligation on behalf
+    of the Port. Unless the Contractor obtains and serves an injunction upon the Port before the close of
+    business on the tenth business day after the date of the notification, the Port may release the
+    documents. It is the Contractor’s discretionary decision whether to file the lawsuit.
+
+    C. If the Contractor does not obtain and serve an injunction upon the Port within 10 business days of
+    the date of the Port’s notification of the request, the Contractor is deemed to have authorized releasing
+    the record.
+
+    D. The Contractor will fully cooperate with the Port in identifying and assembling records in case of any
+    public disclosure request.
+
+25. General Legal Requirements
+
+    A. General Requirement: Contractor, at no expense to The Port, shall comply with all applicable laws
+       of the United States and the State of Washington; the Charter and ordinances of The Port; and
+       rules, regulations, orders, and directives of their administrative agencies and the officers thereof.
+       Without limiting the generality of this paragraph, the Contractor shall specifically comply with the
+       following requirements of this section.
+
+    B. Licenses and Similar Authorizations: Contractor, at no expense to The Port , shall secure and
+       maintain in full force and effect during the term of this Contract all required licenses, permits, and
+       similar legal authorizations, and comply with all requirements thereof.
+
+    C. Taxes: The Contractor shall pay, before delinquency, all taxes, import duties, levies, and
+       assessments arising from its activities and undertakings under this Contract; taxes levied on its
+        property, equipment and improvements; and taxes on the Contractor's interest in this Contract
+
+26. American with Disabilities Act
+    Contractor shall comply with all applicable provisions of the Americans with Disabilities Act of 1990
+    (ADA) in performing its obligations under this Contract. In particular, if the Contractor is providing
+    services, programs or activities to The Port employees or members of the public as part of this Contract,
+    the Contractor shall not deny participation or the benefits of such services, programs, or activities, to
+    people with disabilities on the basis of such disability. Failure to comply with the provisions of the ADA
+    shall be a material breach of, and grounds for the immediate termination of, this Contract.
+
+27. OSHA/WISHA
+    Contractor agrees to comply with conditions of the Federal Occupational Safety and Health Acts of
+    1970 (OSHA), as may be amended. If the Contractor has a workplace within the State of Washington,
+    the Washington Industrial Safety and Health Act of 1973 (WISHA), as may be amended, and the
+    standards and regulations issued thereunder and certifies that all items furnished and purchased under
+    this order will conform to and comply with said standards and regulations. Contractor further agrees to
+    indemnify and hold harmless purchaser from all damages assessed against purchaser as a result of
+    Contractor’s failure to comply with the acts and standards thereunder and for the failure of the items
+    furnished under this order to so comply.
+28. Contract Work Hours and Safety Standards
+    For all contracts that employ mechanics or laborers, the Contractor and all subs shall comply with
+    Sections 102 and 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 327-333), as
+    supplemented by Department of Labor regulations (29 CFR part 5). Under Section 102 of the Act, each
+    Contractor shall be required to compute the wages of every mechanic and laborer on the basis of a
+    standard work week of 40 hours. Work in excess of the standard work week is permissible provide that
+    the worker is compensated at a rate of not less than 1 ½ times the basic rate of pay for all hours worked
+    in excess of 40 hours in the work week. Section 107 of the Act is applicable to construction work and
+    provides that no laborer or mechanic shall be required to work in surroundings or under working
+    conditions which are unsanitary, hazardous or dangerous. These requirements do not apply to the
+    purchases of supplies or materials or articles ordinarily available on the open market, or contracts for
+    transportation or transmission of intelligence.
+
+29. Indemnification
+    To the extent permitted by law, the Contractor shall protect, defend, indemnify and hold the Port
+    harmless from and against all claims, demands, damages, costs, actions and causes of actions,
+    liabilities, fines, penalties, judgments, expenses and attorney fees, resulting from the injury or death of
+    any person or the damage to or destruction of property, or the infringement of any patent, copyright, or
+    trademark, or trade secret arising out of the work performed or goods provided under this Contract, or
+    the Contractor’s violation of any law, ordinance or regulation, contract provision or term, or condition of
+    regulatory authorization or permit, except for damages resulting from the sole negligence of the Port .
+    As to the Port of Tacoma, the Contractor waives any immunity it may have under RCW Title 51 or any
+    other Worker’s Compensation statute. The parties acknowledge that this waiver has been negotiated
+    by them, and that the contract price reflects this negotiation.
+
+30. Insurance.
+    Contractor shall maintain at its own expense at all times during the term of this Contract the following
+    insurance, as well as any other additional coverage requirements issued by the Port .
+
+   1. The Contractor shall procure and maintain during the life of this contract such insurance. It as shall
+       protect it from claims or damages for bodily injury, including death resulting therefrom as well as
+       from claims for property damage, which may arise from operations under this contract, whether such
+       operations be by itself, its agents, or by anyone directly or indirectly employed by either of them.
+    2. Certificates of all insurance shall be filed with the Port of Tacoma naming the Port of Tacoma as
+       additional insured, and shall provide:
+         a. That the policies shall not be canceled, or the amount thereof reduced, without thirty- days
+               (30) prior written notice to the Port of Tacoma, and
+         b. That thirty-day (30) prior written notice shall also be given if the policy is not to be renewed
+               at the scheduled expiration date.
+    3. The amount of such insurance shall not be less than:
+      Commercial General Liability Insurance, on an occurrence basis, including contractual liability and
+      completed operations, in an amount of not less than One Million Dollars
+         a. ($1,000,000.00) for bodily injury, including sickness, disease, and death at any time resulting
+             therefrom, sustained by any person and for property damage;
+         b. Business Auto Insurance in an amount of not less than One Million Dollars ($1,000,000.00)
+             for damages because of bodily injury or property damage;
+    4. The Contractor shall procure and maintain insurance in accordance with the requirements of all
+       applicable State and Federal Worker’s Compensation Laws. Contractor shall furnish to the Port of
+       Tacoma evidence of such insurance, including Employers Contingent Liability (Stop Gap) Insurance.
+
+31. Contractual Relationship
+    The relationship of Contractor to The Port by reason of this Contract shall be that of an independent
+    Contractor. This Contract does not authorize Contractor to act as the agent or legal representative of
+    The Port for any purpose whatsoever. Contractor is not granted any express or implied right or authority
+    to assume or create any obligation or responsibility on behalf of or in the name of The Port or to bind
+    The Port in any manner or thing whatsoever.
+
+32. Federal Debarment for Primes and all Subcontractors
+    Contractor shall immediately notify the Port of any suspension or debarment or other action that
+    excludes the Contractor and any Subcontractor from participation in Federal contracting. Contractor
+    shall verify all Subcontractors that are intended and/or used by the Contractor for performance of Port
+    work are in good standing and are not debarred, suspended, or otherwise ineligible by the Federal
+    Government.        Debarment     shall    be    verified  at   System     for   Award     Management
+    https://www.sam.gov/SAM/pages/public/searchRecords/search.jsf The Contractor shall keep proof of
+    such verification within the Contractor records.
+
+33. Supervision and Coordination
+    Contractor shall:
+     Competently and efficiently, supervise and direct the implementation and completion of all contract
+       requirements specified herein;
+     Designate in its bid or proposal to The Port, a representative(s) with the authority to legally commit
+       Contractor’s firm. All communications given or received from the Contractor’s representative shall
+       be binding on the Contractor; and
+     Promote and offer to Purchasers only those materials, equipment, and/or services as stated herein
+       and allowed for by contractual requirements. Violation of this condition will be grounds for contract
+       termination.
+
+34. No Conflict of Interest
+    Contractor confirms that Contractor does not have a business interest or a close family relationship
+    with any Port officer or employee who was, is, or will be involved in the Contractor selection, negotiation,
+    drafting, signing, administration, or evaluating the Contractor's performance.
+
+35. No Gifts or Gratuities
+    Contractor shall not directly or indirectly offer anything of value (such as retainers, loans, entertainment,
+    favors, gifts, tickets, trips, favors, bonuses, donations, special discounts, work or meals) to any Port
+    employee, volunteer or official, that is intended, or may appear to a reasonable person to be intended,
+    to obtain or give special consideration to the Contractor.
+
+36. Errors & Omissions: Correction
+    Contractor shall be responsible for the professional quality, technical accuracy, and the coordination
+    of all designs, drawings, specifications, and other services furnished by or on the behalf of the
+    Contractor under this Contract. The Contractor, without additional compensation, shall correct or
+    revise any errors or omissions in the designs, drawings, specifications, and/or other Contractor
+    services immediately upon notification by The Port. The obligation provided for in this section with
+    respect to any acts or omissions during the term of this Contract shall survive any termination or
+    expiration of this Contract and shall be in addition to all other obligations and liabilities of the
+    Contractor.
+
+37. Intellectual Property Rights
+    Patents: Contractor hereby assigns to The Port all rights in any invention, improvement, or discovery,
+    together with all related information, including but not limited to, designs, specifications, data, patent
+    rights and findings developed in connection with the performance of Contract or any subcontract
+    hereunder. Notwithstanding the above, the Contractor does not convey to The Port, nor does The Port
+    obtain, any right to any document or material utilized by Contractor that was created or produced
+    separate from this Contract or was preexisting material (not already owned by The Port), provided that
+    the Contractor has clearly identified in writing such material as preexisting prior to commencement of
+    the Work. To the extent that preexisting materials are incorporated into the Work, the Contractor grants
+    The Port an irrevocable, non-exclusive, fully paid, royalty-free right and/or license to use, execute,
+    reproduce, display, and transfer the preexisting material, but only as an inseparable part of the Work.
+
+    Copyrights: For materials and documents prepared by Contractor in connection with the Work,
+    Contractor shall retain the copyright (including the right of reuse) whether or not the Work is completed.
+    Contractor grants to The Port a non-exclusive, irrevocable, unlimited, royalty-free license to use every
+    document and all other materials prepared by the Contractor for The Port under this Contract. If
+    requested by The Port, a copy of all drawing, prints, plans, field notes, reports, documents, files, input
+    materials, output materials, the media upon which they are located (including cards, tapes, discs and
+    other storage facilities), software programs or packages (including source code or codes, object codes,
+    upgrades, revisions, modifications, and any related materials) and/or any other related documents or
+    materials which are developed solely for, and paid for by, the Port in connection with the performance
+    of the Work, shall be promptly delivered to the Port .
+
+    The Port may make and retain copies of such documents for its information and reference in connection
+    with their use on the project. The Contractor does not represent or warrant that such documents are
+    suitable for reuse by The Port, or others, on extensions of the project, or on any other project. Contractor
+    represents and warrants that it has all necessary legal authority to make the assignments and grant
+    the licenses required by this Section.
+
+38. Interlocal Cooperation Act
+    RCW 39.34 allows cooperative purchasing between public agencies, and other political subdivisions.
+    SMC 20.60.100 also allows nonprofits to use these agreements. If a public agency files or has filed an
+    Intergovernmental Cooperative Purchasing Agreement with the Port of Tacoma, those agencies are
+    eligible to purchase from Contracts established by the Port. Such agencies may ask Port of Tacoma
+    Contractors to accept orders from the agency, citing the Port of Tacoma contract as the basis for the
+    order. The Contractor may accept or decline such orders. If the Contractor accepts an order from
+    another public agency using the Port of Tacoma contract as the basis, the Contractor agrees to sell
+    additional items at the contract prices, terms, and conditions. The Port of Tacoma accepts no
+    responsibility for the payment of the purchase price by other governmental agencies.
+39. Expansion
+    Expansion of any resultant contract or Purchase Order may occur as allowed below. A modification
+    may be considered per the criteria and procedures below, for any ongoing unexpired Contract.
+    Likewise, a one-time Purchase Order may be modified if the bid reserved the right for additional orders
+    to be placed within a specified period of time, or if the project or body of work associated with a
+    Purchase Order is still active. Modifications must be mutually agreed to. The only person authorized to
+    make such agreements on behalf of the Port is the Contract Administrator. No other Port employee is
+    authorized to make such written notices. Expansions must be issued in writing from Contract
+    Administrator in a formal notice. The Contract Administrator will ensure the expansion meets the
+    following criteria:
+    (a) It could not be separately bid,
+    (b) The change is for a reasonable purpose,
+    (c) The change was not reasonably known to either the Port or Contractors at time of bid or else was
+    mentioned as a possibility in the bid (such as a change in environmental regulation or other law);
+    (d) The change is not significant enough to be reasonably regarded as an independent body of work;
+    (e) The change could not have attracted a different field of competition; and
+    (f) The change does not vary the essential identity or main purpose of the contract.
+
+    The Contract Administrator shall make this determination, and may make exceptions for immaterial
+    changes, emergency or sole source conditions, or for other situations as required.
+
+    Note: changes, which are not considered an expansion of scope, including an increase in quantities
+    ordered the exercise of options and alternates in the bid, or ordering of work originally identified within
+    the originating solicitation. If such changes are approved, changes are conducted as a written order
+    issued by Contract Administrator to the Contractor.
+
+40. Disputes
+    If a dispute arises relating to this Agreement and cannot be settled through direct discussions, the
+    parties agree to endeavor to settle the dispute through a mediation firm acceptable to both parties, the
+    cost of which shall be divided equally. The Port reserves the right to join any dispute under this
+    Agreement with any other claim in litigation or other dispute resolution forum, and the Contractor agrees
+    to such joinder, so that all disputes related to the project may be consolidated and resolved in one
+    forum. Venue for any litigation shall be the Pierce County Superior Court of the state of Washington
+    and the prevailing party shall be entitled to recover its costs and reasonable attorney’s fees.
+
+41. Termination
+
+        A. For Cause: The Port may terminate this Contract if the Contractor is in material breach of any
+           of the terms of this Contract, and such breach has not been corrected to The Port ’s reasonable
+           satisfaction in a timely manner.
+
+        B. For Port’s Convenience: The Port may terminate this Contract at any time, without cause and
+           for any reason including The Port’s convenience, upon written notice to the Contractor.
+
+        C. Non-appropriation of Funds: The Port may terminate this Contract at any time without notice
+           due to non-appropriation of funds, whether such funds are local, state or federal grants, and
+           no such notice shall be required notwithstanding any notice requirements that may be agreed
+           upon for other causes of termination.
+
+        D. Acts of Insolvency: The Port may terminate this Contract by written notice to Contractor. If the
+           Contractor becomes insolvent, makes a general assignment for the benefit of creditors, suffers
+           or permits the appointment of a receiver for its business or assets, becomes subject to any
+            proceeding under any bankruptcy or insolvency law whether domestic or foreign, or is wound
+            up or liquidated, voluntarily or otherwise.
+
+
+        E. Notice: The Port is not required to provide advance notice of termination. Notwithstanding,
+           the Contract Administrator may issue a termination notice with an effective date later than the
+           termination notice itself. In such case, the Contractor shall continue to provide products and
+           services as required by the Contract Administrator until the effective date provided in the
+           termination notice.
+
+
+        F. Actions Upon Termination: In the event of termination not the fault of the Contractor, Contractor
+           shall be paid for the services properly performed prior to the effective termination date that has
+           been specified by the Contract Administrator, together with any reimbursable expenses then
+           due, but in no event shall such compensation exceed the maximum compensation to be paid
+           under the Contract. Contractor agrees that this payment shall fully and adequately compensate
+           Contractor and all Subcontractors for all profits, costs, expenses, losses, liabilities, damages,
+           taxes, and charges of any kind whatsoever (whether foreseen or unforeseen) attributable to
+           the termination of this Contract. Upon termination for any reason, Contractor shall provide The
+           Port with the most current design documents, contract documents, writings and other product
+           it has completed to the date of termination, along with copies of all project-related
+           correspondence and similar items. The Port shall have the same rights to use these materials
+           as if termination had not occurred.
+
+42. Force Majeure – Suspension and Termination
+    This section applies in the event that either party is unable to perform the obligations of this contract
+    because of a Force Majeure event as defined herein, to the extent that the Contract obligations must
+    be suspended in full. A Force Majeure event is an event that prohibits performance and is beyond the
+    control of the party. Such events may include natural or man-made disasters, or an action or decree
+    of a superior governmental body, which prevents performance.
+
+    Should either party suffer from a Force Majeure event and is unable to provide performance, such party
+    shall give notice to the remaining party as soon as practical and shall do everything possible to resume
+    performance.
+
+    Upon receipt of such notice, the party shall be excused from such performance as is affected by the
+    Force Majeure Event for the period of such Event. If such Event affects the delivery date or warranty
+    provisions of this Agreement, such date or warranty period shall automatically be extended for a period
+    equal to the duration of such Event.
+
+43. Workers Right to Know
+    “Right to Know” legislation required the Department of Labor and Industries to establish a program to
+    make employers and employees more aware of the hazardous substances in their work environment.
+    WAC 296-839-300 requires among other things that all manufacturers/distributors of hazardous
+    substances, including any of the items listed on this RFP or contract bid and subsequent award must
+    include with each delivery completed Material Safety Data Sheets (MSDS) or Safety Data Sheets (SDS)
+    for each hazardous material. Additionally, each container of hazardous material must be appropriately
+    labeled with the identity of the hazardous material, appropriate hazardous warnings, and the Name and
+    Address of the chemical manufacturer, improper, or other responsible party.
+
+    Labor and Industries may levy appropriate fines against employers for noncompliance and agencies
+    may withhold payment-pending receipt of a legible copy of the MSDS/SDS. OSHA Form 20 is not
+    acceptable in lieu of this requirement unless it is modified to include appropriate information relative to
+    “carcinogenic ingredients: and “routes of entry” of the product(s) in question.
+
+44. Miscellaneous Provisions
+       A. Amendments: No modification of this Contract shall be effective unless in writing and signed
+           by an authorized representative of the Port, except as otherwise authorized herein. The Port
+           shall issue change notices to Contractor, and such notices shall take effect under the signature
+           of the Port unless written objection of the notice is received by the Contractor upon their receipt
+           of the change notice.
+
+        B. Conflict: In the event of conflict between contract documents and applicable laws, codes,
+           ordinances or regulations, the most stringent or legally binding requirement shall govern and
+           be considered a part of this contract to afford The Port the maximum benefits.
+
+        C. Liens, Claims and Encumbrances: All materials, equipment, or services shall be free of all
+             liens, claims or encumbrances of any kind and if The Port requests a formal release of same
+             shall be delivered to The Port.
+
+        C. Binding Contract: This Contract shall not be binding until signed by both parties. The
+           provisions, covenants and conditions in this Contract shall bind the parties, their legal heirs,
+           representatives, successors, and assigns.
+
+        D. Applicable Law/Venue: This Contract shall be construed and interpreted in accordance with
+           the laws of the State of Washington. The venue of any action brought hereunder shall be in
+           the Superior Court for Pierce County, Washington
+
+        E. Remedies Cumulative: Rights under this Contract are cumulative and nonexclusive of any
+           other remedy at law or in equity.
+
+        F. Captions: All titles, including sections or subsections, are for convenience only and do not
+           define or limit the contents.
+
+        G. Severability: Any term or provision of this Contract found to be prohibited by law shall be
+           ineffective to the extent of such prohibition without invalidating the remainder of the Contract.
+
+        H. Waiver: No covenant, term, or the breach thereof shall be deemed waived, except by written
+           consent of the party against whom the waiver is claimed. Any waiver of the breach of any
+           covenant, term, or condition shall not be deemed to be a waiver of any preceding or succeeding
+           breach of the same or any other covenant, term or condition. Neither, the acceptance by the
+           Port of any performance by the Contractor after the time the same shall have become due nor
+           payment to the Contractor for any portion of the Work, shall constitute a waiver by the Port of
+           the breach or default of any covenant, term or condition unless otherwise this is expressly
+           agreed to by The Port, in writing. The Port ’s failure to insist on performance of any of the terms
+           or conditions herein or to exercise any right or privilege or the Port ’s waiver of any breach
+           hereunder shall not thereafter waive any other term, condition, or privilege, whether of the same
+           or similar type.
+
+        I.   Entire Contract: This document, along with any attachments and work orders, constitutes the
+             entire agreement between the parties with respect to the Work. No verbal agreement or
+             conversation between any officer, agent, associate or employee of The Port and any officer,
+             agency, employee or associate of the Contractor prior to the execution of this Contract shall
+             affect or modify any of the terms or obligations contained in this Contract.
+        J.     Negotiated Contract: The parties acknowledge that this is a negotiated Contract, that they
+               have had the opportunity to have this Contract reviewed by respective legal counsel, and that
+               terms and conditions are not construed against any party on the basis of such party's
+               draftsmanship thereof.
+
+        K. No personal liability: No officer, agent or authorized employee of the Port shall be personally
+           responsible for any liability arising under this Contract, whether expressed or implied, nor for
+           any statement or representation made herein or in any connection with this Contract.
+
+
+
+IN WITNESS WHEREOF, in consideration of the terms, conditions, and covenants contained herein, or
+attached and incorporated and made a part hereof, the parties have executed this Contract by having their
+authorized representatives affix their signatures below.
+
+   (Contractor)                                           Port of Tacoma
+
+
+  By     SAMPLE-ONLY-DO-NOT-SIGN                          By     SAMPLE-ONLY-DO-NOT-SIGN
+       Signature                                               Signature
+                               Date                                                    Date
+
+
+       (Printed Name)                                          Sharon Rothwell
+                                                               Manager, Purchasing and Supplier Diversity
+
+       Title
+                        ATTACHMENT E - Rate Sheet
+
+
+
+ Use this Rate Sheet to specify low (junior) to high (senior) range of hourly rates for
+ each of the resource types listed below:
+
+
+                                                LOW RANGE               HIGH RANGE
+RESOURCE TYPE                                   (JUNIOR LEVEL          (SENIOR LEVEL
+                                                  RESOURCE)              RESOURCE)
+PROJECT MANAGER                              $_____ to $_____        $_____ to $_____
+                                                   per hour                per hour
+BUSINESS ANALYST                             $_____ to $_____        $_____ to $_____
+                                                   per hour                per hour
+SOFTWARE ENGINEER                            $_____ to $_____        $_____ to $_____
+                                                   per hour                per hour
+NETWORK INFRASTRUCTURE                       $_____ to $_____        $_____ to $_____
+ENGINEER
+                                                   per hour                per hour
+SYSTEM INFRASTRUCTURE                        $_____ to $_____        $_____ to $_____
+ENGINEER
+                                                   per hour                per hour
+DATABASE ANALYST                             $_____ to $_____        $_____ to $_____
+                                                   per hour                per hour
+IT SUPPORT SPECIALIST (HELPDESK)             $_____ to $_____        $_____ to $_____
+                                                   per hour                per hour
+
+
+ Rates must be fully burdened to include, but not limited to, hourly rates, administrative
+ overhead, travel, lodging, per diem, etc., and be valid for at least one year. Annual
+ adjustments will be based on the CPI-U.
+

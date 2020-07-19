@@ -1,0 +1,1350 @@
+Request for Proposals (RFP)
+  Information Technology
+Staff Augmentation Services
+RFP No. 14-80101507-SA-B
+    ADDENDUM NO. 4
+
+  Questions and Answers
+    RFP Amendments
+
+
+         March 2016
+Contained herein are the responses to the questions submitted to the Department of Management Services (Department). The Department hereby
+amends RFP No. 14-80101507-SA-B as noted within this Addendum. In the event of a conflict between previously released information and the
+information contained herein, the information herein shall control. The information included in this addendum is now made part of this solicitation.
+
+FAILURE TO FILE A PROTEST WITHIN THE TIME PRESCRIBED IN §120.57(3), FLORIDA STATUTES, OR FAILURE TO FILE A BOND OR
+OTHER SECURITYWITHIN THE TIME ALLOWED FOR FILING A BOND SHALL CONSTITUTE A WAIVER OF PROCEEDINGS UNDER
+CHAPTER 120, FLORIDA STATUTES.
+
+Any protest must be timely filed with the Department of Management Services’ Agency Clerk.
+
+Please Note: This Addendum No. 4 does not need to be returned with the Reply.
+
+The Department has received the following questions from the vendor community though the MFMP Sourcing Tool and answers are provided in the
+following table:
+
+    #                           Question                                                                           Answer
+   RRP, Section 1, Introduction
+           Our firm responded to the IT Staff Augmentation bid last year. Can you tell    This question regards an issue not contained in the
+           us why the solicitation was cancelled and what the differences are with this   current solicitation. These questions and answers are
+           rebid?                                                                         to assist the vendors in understanding this solicitation’s
+     1.                                                                                   requirements. Section 287.057(2), Florida Statutes.
+                                                                                          Please download and read this solicitation in its entirety
+                                                                                          to ensure that any response your company submits
+                                                                                          contains all the required information for this solicitation.
+           Why was the original RFP for Staff Augmentation, RFP 04-80101507-SA-B,         See response to question 1.
+     2.
+           cancelled and this new one issued?
+           Were the original proposals to RFP #04-80101507-SA-B opened or read by         See response to question 1.
+     3.
+           The State of Florida?
+           Why is RFP No. 14-80101507-SA-B being rebid? What specifically caused          See response to question 1.
+     4.
+           the rebid?
+           What are reasons that a similar RFP was issued and cancelled in Oct 2015,      See response to question 1.
+     5.
+           that prompted reissuing this bid?
+           Could you provide any supporting rationale or basis as to why the last RFP     See response to question 1.
+     6.
+           was deemed "reject-all"?
+
+
+ Information Technology Staff Augmentation Services Rebid
+ RFP No. 14-80101507-SA-B
+ Addendum 4
+                                                                                                                                             Page 2 of 30
+          To the extent possible please provide information on why was the IT staff       See response to question 1.
+    7.    Augmentation Services RFP 04-80101507-SA-B issued in September 2015
+          cancelled?
+          Should we be withdrawing our original proposal to RFP 04-80101507-SA-B          As to the first sentence, no. As to the second question,
+    8.    in order to bid this RFP # 14-80101507-SA-B? If not, are both available for     assuming “FOIL” means a public records request, see
+          future FOIL or no?                                                              section 119.071(1)(b), Florida Statutes.
+          We sent in a proposal for RFP No.04-80101507-SA-B. To help all vendors          See response to question 1.
+          save time and focus on what is new, could you please indicate what
+    9.
+          changes have been made to the original documents in RFP No 14-
+          80202507 and what remains the same?
+          The rebid is only for Staff Augmentation, project area 4. Will there be         This RFP is for IT staff augmentation services and does
+   10.    additional requisitions to bid on other project areas? If not, what is the      not include project based deliverables. See section 6 of
+          contract that the other project areas fall under?                               the RFP.
+          Does DMS intend to issue a procurement for fixed priced contracts (Project      See response to question 1.
+   11.    Areas 1, 2, and 3 under the current IT contract)? Or will agencies be
+          required to issue ITNs or RFPs for fixed price work?
+          Can you provide a list of the consulting firms currently providing IT Staff     The Department does not have a contract for just staff
+          Augmentation to the State of Florida and how many contractors they              augmentation services. All of the current contractors
+   12.
+          currently have working for the State of Florida?                                for contract 973-561-10-1, IT Consulting Services can
+                                                                                          be found on the Department’s website found here.
+          Is it possible to get revisions made to this rebid e.g. a document with Track   See response to question 1.
+   13.
+          Changes, that compares Oct 2015 RFP and this rebid RFP?
+          Can you share list of incumbents on the current IT Staff augmentation           The Department does not have a contract for just staff
+          contract?                                                                       augmentation services. All of the current contractors for
+   14.
+                                                                                          contract 973-561-10-1, IT Consulting Services can be
+                                                                                          found on the Department’s website found here.
+   15.    Will a list of other vendors that have joined this RFP be made available?       This question is unclear.
+          Is the Contractor required to have an office in the state of Florida? Or, can   The solicitation does not require an office location in
+          they be licensed to do business in the state of Florida, yet have offices       Florida.
+          outside the state of Florida? If awarded a Contractor role with the state of
+   16.
+          Florida, would you require the Contractor to obtain office space in the state
+          of Florida for the duration of the contract if they don’t currently have an
+          office located in the state?
+          1.8 Who May Respond – We have two independent stand-alone                       Legally distinct entities are permitted to submit separate
+   17.
+          companies. One is incorporated and the other is a LLC. The companies            proposals; however please be aware of the prohibitions
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                           Page 3 of 30
+          share some, but not all of the same principals. Is there any reason why           against collusion and complementary responses in
+          both companies cannot submit individual responses to this RFP?                    PUR 1001 and arising from applicable law.
+          It is our understanding that DMS has the capability to capture data and           No, the data was not reported by project area.
+          produce reports within MFMP to ascertain dollar spend against State Term
+          Contracts within certain parameters. Would you be able to provide the
+   18.
+          spend data for the existing IT Consulting and Staff Augmentation contract
+          (Project Area 4) for the last 2 years? If not, please provide the rationale for
+          not doing so.
+          How much did the State of Florida spend on Category 4 - Staff                     This data was not reported by project area.
+   19.
+          Augmentation procurements in 2015?
+   20.    How do you define IT Staff Augmentation Experience?                               See new section 1.3.15 of this addendum.
+          Is there a minimum/maximum "Font" size requirement for the RFP                    The minimum/maximum font size is 8/12.
+   21.    responses?
+
+  RRP, Section 2, Solicitation Overview
+          Section 2.7 Would the State be willing to discuss/negotiate any exceptions        No.
+   22.
+          to the Terms and conditions raised by Vendor?
+          Section 2.7 Is the Vendor allowed to submit the exceptions to Terms and           No. Please see section 4 of PUR 1001.
+          conditions at the time of Final Response submission? if Yes, Please
+   23.
+          suggest mode of submission?(ex: Addition to any of the RFP attachment or
+          if there is provision to upload document separately)
+          Section 2.12, Documentation: Pursuant to 119.071 Florida Statutes, a              These questions and answers are to assist the vendors
+          sealed proposal to this solicitation is exempt from public records disclosure     in understanding this solicitation’s requirements.
+          until the Department provides notice of its intended decision or 30 days          Section 287.057(2), Florida Statutes. This question
+          after the opening of proposals, whichever comes earlier. Rejection of all         concerns matters other than the requirements of this
+          proposals may result in up to 12 months of exemption from public records          solicitation. However, as a courtesy: To date, none of
+          disclosure pursuant to section119.071, Florida Statutes, for those proposals      the responses received for RFP 04-80101507-SA-B
+          should the Department concurrently provide notice that it intends to reissue      have been released in response to a public records
+   24.                                                                                      request.
+          the competitive solicitation. Notwithstanding the prior statements in the
+          section, portions of sealed proposals may remain confidential or exempt
+          from disclosure if properly protected under other applicable law. See
+          section 3.7. Please confirm that all vendor proposals submitted for the
+          September 15 version of RFP No. 04-80101507-SA-B have remained
+          exempted from public records disclosure and have not been released to
+          any vendor or other entity.
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                          Page 4 of 30
+          What is FL- Florida Department of Management Services’ minority-owned             See section 2.14 of the RFP.
+   25.    small business goal?
+
+  RRP, Section 3, Instructions
+          Section 3.3 What will be the Transaction Fee percentage?                          The current transaction fee (.7%) was set by the Florida
+   26.
+                                                                                            Legislature, the percentage has never exceeded 1%.
+   27.   Section 3.3 Can you please confirm the amount of the transaction fee?              See response to question 26.
+         Section 3.3 Transaction Fees Can the Department please clarify                     See response to question 26.
+   28.
+         the transaction fee amount or percent?
+         Section 3.7 How do we submit a redacted copy of our proposal as indicated          A redacted copy can be uploaded into MFMP Sourcing,
+   29.
+         in 3.7 of the RFP?                                                                 once this solicitation enters the ‘Open’ phase.
+         Section 3.7 If there is not a way to provide a separate redacted copy of our       No, a redacted copy cannot be your only submission. A
+   30.   proposal, can we submit the redacted copy only?                                    separate redacted copy can be uploaded into MFMP
+                                                                                            Sourcing, once this solicitation enters the ‘Open’ phase.
+          Section 3.7 How does the agency handle public records requests that               See Section 3.7 of the RFP.
+   31.
+          include confidential information from a vendor?
+          Section 3.8 RFP States Respondents seeking an award must provide                  See updated section 3.8 in this addendum.
+          prices for all Scope Variants per Job Title they bid on. In other words, the
+          Respondent is required to provide a price for every Scope Variant for each
+   32.    Job Title they would like to receive an award for. Awards will be made by
+          job title. As per our understanding the vendor can respond to any of the
+          categories (Job Families) and it is not mandatory to respond to all
+          categories. Please confirm if our understanding is right?
+          Section 3.8 Under section 3.8, we assume the pricing must be similar for          This question is unclear.
+   33.    other staff augmentation bids, but other types of bids do not apply to this. Is
+          this correct?
+          Section 3.8 Vendors will complete pricing on each scope variant & title, but      See updated section 3.8 in this addendum.
+   34.
+          only receives awards for specific titles. Is this an accurate statement?
+          Section 3.8 The below mentions ceiling rates– not seeing those.                   The ceiling rates are on the Price Sheets, Attachment
+   35.    Pg 13: THE RESPONDENT’S HOURLY RATE SHALL NOT EXCEED THE                          E.
+          CEILING RATE LISTED NEXT TO EACHSCOPE VARIANT.
+          Section 3.9, Florida Counties or Statewide - Will DMS score vendors that          Section 3.9 will not be scored.
+   36.    can provide statewide services higher than vendors who only provide
+          services in a limited geographical area of the state?
+
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                            Page 5 of 30
+          Where appropriate, can we use the notarized forms from the original RFP        No, see new section 3.11 in this addendum. Please
+          or do new forms have to be notarized?                                          download and read this solicitation in its entirety to
+   37.
+                                                                                         ensure that any response your company submits
+                                                                                         contains all the required information for this solicitation.
+          I understand this new bid has changes to Section 5; however, I would like      Please see response to question 37.
+          to know if we can submit the attachments for areas that did not change as
+          we submitted for the first bid in October? For example, the past
+          performances did not change and they are signed by our customers so to
+   38.    avoid asking the customer to sign the same forms again, may we submit
+          the applicable attachments from our bid in October to respond to this rebid?
+          Attachments B and C will not change for us either so may we simply submit
+          these already completed and notarized attachments with the re-bid since
+          they are still valid?
+          I have a last bid submitted reference letters and notarized document with      Please see response to question 37
+          last time data stamp. Can you submit same document for this ReBid or I
+   39.    have to take again these reference and notarized document.
+
+
+  RRP, Section 4, Respondent Submission
+          Section 4.1 Mandatory Requirement Questions RFP States: Mandatory              Respondents that answer “no” to any of the mandatory
+          Requirement Q 5: Does Respondent certify that it has read the entire           requirement questions will be considered non-
+   40.    solicitation document and agrees to all Terms and Conditions? If the           responsive. Also, please see section 4 of the PUR
+          Vendor is taking exceptions to State Terms & Conditions will the Vendor be     1001.
+          disqualified?
+          Section 4.1 The first Mandatory question about being registered with the       Yes, vendors must be registered before responding,
+          Department of State - Do we need to be registered before responding or         see section 4.1 for the requirements on the Mandatory
+   41.
+          can we respond - That we are not registered but will register immediately      Questions.
+          upon being selected?
+          Section 4.3 – Per the instructions in section 4.3, “Respondents are to         See updated section 5.3.3 in this addendum.
+          complete each section entirely or the Respondent may be deemed non-
+   42.    responsive.” If a respondent is unable to provide the details requested in
+          section 5.3.3 to remain compliant with existing contracts, will said
+          respondent be deemed “non-responsive?”
+          Section 4.4. Submissions Capacity Requirements: Total allowance is 46          See the updated section 4.4 in this addendum.
+   43.    pages, but the breakdown of pages is 45. Can you please specify the
+          number of page limit?
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                            Page 6 of 30
+          Section 4.4 – In the table, the sum of the pages adds to 45 but the total         See the updated section 4.4 in this addendum.
+   44.
+          shown is 46. Which one is correct?
+          Section 4.4 Submission Capacity Requirements; Downloaded Price Sheets             See updated section 4.4 in this addendum.
+          (Attachment E – Excel File). The file contained 8 pages. However, the page
+   45.    limit is nine (9) pages. Are we missing a page? The Page Limit adds up to
+          45 allowable pages. If the Price Sheets are actually 8 pages, shouldn’t the
+          Total pages allowable for RFP Response be 44 pages?
+          Section 4.4/page 16 - Submission Capacity Requirements                            Yes.
+   46.    Is a Respondent able to use charts in the Staffing Resource Management
+          Plan?
+          Please clarify this statement. RESPONDENTS WHO SUBMIT MORE                        Do not submit more pages than are allowable. See
+          PAGES THAN ARE ALLOWABLE IN THIS SOLICITATION MAY BE                              updated section 4.4 in this addendum. See also,
+   47.    FOUND NON-RESPONSIVE. Does this mean that additional pages may be                 section 16 of the PUR 1001.
+          allowable under some circumstances? If so, please describe the conditions
+          under which additional pages would be appropriate and favorable.
+          Section 4.4 Understanding that respondents must maintain an overall limit         Do not submit more pages per part than are allowable.
+          of 46 pages. If respondents provide the requested information in the              See updated section 4.4 in this addendum. See also,
+          Resource Management Plan or IT Staff Augmentation Contract Experience             section 16 of the PUR 1001.
+   48.    sections, and use less than the allotted page limit per section, can
+          respondents supplement the other section with the pages not used in the
+          other? How would this affect scoring?
+
+  RRP, Section 5, Evaluation Methodology
+          On page 18, paragraph 5.3.2 (B) states "List Respondent's principal               See updated section 5.3.2 in this addendum.
+          personnel who will be responsible for services under the contract(s) that
+          results from this solicitation and include the following:".
+          Please clarify what you mean by "principal personnel". Do you want all the
+   49.
+          requested information submitted for every single consultant that will be
+          offering services on the contract(s), or do you only want the principal
+          officer(s) of the company that will be the ultimate staff responsible for
+          overseeing delivery of services from all the consultants?
+          Section 5.3.2 (B) - Do we have to supply information regarding each person        No.
+   50.
+          for each job title?
+          Section 5.3.2 (B) - Please clarify the definition of Principal Personnel in the   See section updated section 5.3.2 in this addendum.
+   51.
+          context of this section.
+
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                            Page 7 of 30
+          In scoring the Staffing Resource Management Plan, what criteria or                   The information submitted by the Respondent will be
+   52.    thresholds must be met to qualify a company as “exceptional”, “average”              compared to the RFP criteria in section 5.3.2.
+          and “minimal”?
+          Can you please provide a definition for exceptional, average and minimal             The information submitted by the Respondent will be
+   53.    as it relates to how a company will be scored on their Staffing Resource             compared to the RFP criteria in section 5.3.2.
+          Management Plan?
+          Section 5.3.2.B - Respondent’s Principal Personnel Does the Vendor need              Question is unclear; see section updated section 5.3.2
+   54.    to provide separate principal personnel for each job family? Or can we have          in this addendum.
+          one principal personnel for multiple job families?
+          5.3.2 Staffing Resource Management Plan, B. Respondent's Principal                   No, see section 1.3.4 Principal Personnel of the RFP.
+   55.    Personnel- Is there an effective or suggested number to list, instead of
+          possible 100's for large companies?
+          On page 18 of 51 in the RFP, where it states that the Staffing Resource              The information submitted by the Respondent will be
+          Management Plan will be evaluated using the following scoring                        compared to the RFP criteria in section 5.3.2.
+   56.    methodology. Please provide specific definition of the following terms: a.
+          “exceptional” ability to provide qualified staff; b. “average”, ability to provide
+          qualified staff; c. “minimal” ability to provide qualified staff
+          Section 5.3.2 – Staffing Resource Management Plan - In section A, the                See new section 1.3.12 in this addendum.
+          State asks respondents to “Describe Respondent’s operational formula to
+   57.
+          ensure staffing availability for IT Staff Augmentation services.” Please
+          define exactly what the state means by “operational formula.”
+          Section 5.3.2 – Staffing Resource Management Plan - In section B where               See section updated section 5.3.2 in this addendum.
+          each respondent needs to list out their principal personnel, please define
+   58.    what the State means by “principal.” Does principal mean director level
+          employees and up? Or does it mean those employees who would be
+          actively doing work for the State’s staff augmentation contract.
+          5.3.2 Staffing Resource Management Plan – 300 Maximum Possible Points                The information submitted by the Respondent will be
+          The Management Plan has Part A (Respondent’s Proposed Employment                     compared to the RFP criteria in section 5.3.2.
+   59.
+          Procedures and Part B (Respondent’s Principal Personnel). How will the
+          300 points be allocated between the two parts?
+          The Evaluation Criteria for other areas of the RFP are well defined. Please          The information submitted by the Respondent will be
+          define “Extensive Experience”, “Average Experience”, “Minimal                        compared to the RFP criteria in section 5.3.2. and
+          Experience”, and ”Fails to Demonstrate” . Are they defined by the number             section 5.3.3.
+   60.    of contracts, the size of the contracts both or neither? For
+          example: Extensive Experience – over 21 contracts; Average Experience –
+          6 to 20 contracts; Minimal Experience – 1 to 5 contracts; Fails to
+          Demonstrate – 0 contracts
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                              Page 8 of 30
+          On page 18 of the RFP, under Section A, please clarify what information           See new section 1.3.12 in this addendum.
+          you are seeking where it states, “Describe Respondent’s operational
+   61.
+          formula to ensure staffing availability for IT Staff Aug Services.” Can you
+          provide an example?
+          In the Staffing Resource Management Plan, what demonstrates                       The information submitted by the Respondent will be
+   62.
+          exceptional, average, minimal or a failed ability to provide a qualified staff?   compared to the RFP criteria in section 5.3.2.
+          5.3.2/page 18 - Evaluation Criteria for the Staffing Resource Management          The information submitted by the Respondent will be
+          Plan -The evaluation scoring is based on ‘exceptional, average, minimal,          compared to the RFP criteria in section 5.3.2.
+   63.
+          and failure to meet criteria’. Can the Department quantify the criteria for
+          determining whether a Proposal is ‘exceptional’ vs. average?
+          5.3.2/page 18 - Staffing Resource Management Plan                                 This page limit is based on the Staffing Resource
+   64.    Why was the Staffing Management Plan page limit increased from 5 pages            Management Plan portion of the RFP.
+          to 15 pages?
+          5.3.2/page 18 - Staffing Resource Management Plan                                 See new section 1.3.14 in this addendum.
+          When the Department asks us to define our ‘minimum employment
+   65.    standards that we expect our employees to follow’, is the Department
+          looking for the ethical standards, code of conduct, and personnel policies or
+          some other information? Please clarify this requirement.
+          5.3.2/page 18 - Respondent's Principal Personnel                                  See updated section 5.3.2 in this addendum.
+          The definition provided in the RFP defines Principal Personnel as follows:
+          1.3.4 Principal Personnel The management of the Respondent’s company
+          who make operational decisions. In 5.3.2 the RFP states: Respondent’s
+   66.    principal personnel who will be responsible for services under the
+          contract(s). It is preferred that the Respondent’s principal personnel have IT
+          experience. Can the Department please specify what operational decisions
+          you are referring to in 1.3.4? Can the Department clarify what role or
+          responsibilities you are seeking in 5.3.2?
+          In section 5.3.2, Staffing Resource Management Plan, Section A: How is            See new section 1.3.12 in this addendum.
+   67.    "Operational Formula" defined? What specific details should be discussed
+          regarding this bullet point?
+          Please elaborate on expectations from DMS regarding the contractors               See new section 1.3.12 in this addendum.
+   68.
+          “operational formula” to ensure staffing availability?
+          On page 19, section 5.3.3, you are requesting a list of past and current IT       See updated section 5.3.3 in this addendum.
+          Staff Augmentation contracts. The only State of Florida IT Staff
+   69.    Augmentation contracts that we have been party to are 973-561-10-1 and
+          973-561-06-1. We have received many purchase orders over the years
+          from various State Agency entities that have resulted from these two
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                           Page 9 of 30
+          contracts. Looking at all the columns of information that you are requesting
+          for each contract (specific entities, timeframes, and dollar amounts listed), it
+          makes me think that what you actually want a list of is the individual
+          purchase orders and not the two contracts above. Is this correct? If yes,
+          then we would report the P.O. Number in the column requesting [Contract
+          Number] and the P.O. Start Date in the column requesting [Contract Start
+          Date].
+          On page 19 in section 5.3.3, you're asking for the Original Term of the            See updated section 5.3.3 in this addendum.
+          Contract, Contract Start Date, and Duration of each contract (time it
+          actually took to complete the work). We have never, ever had a consultant
+          released early after completing a project on a Staff Augmentation hourly
+   70.
+          engagement. The client usually just finds some enhancements or other
+          work for the consultant to perform instead of releasing them early. This
+          [Duration of each contract (time it actually took to complete the work)]
+          would seem more appropriate for fixed price bid projects. Please advise.
+          On page 18 of the RFP, under Section B, please define “IT                          See new section 1.3.13 in this addendum.
+          Experience”. Does this mean professional work experience in the IT staff
+   71.
+          augmentation industry or does this mean experience as a technologist such
+          as a DBA, Programmer, Architect, etc.?
+          Section 5.3.3 How many Customer references needs to be provided as part            This solicitation does not contain a reference
+   72.
+          of the response?                                                                   requirement.
+          Section 5.3.3, Company’s IT Staff Augmentation Contract Experience – Are           See updated section 5.3.3 in this addendum.
+          you wanting us to provide all of the bulleted information listed in this section
+          for EACH IT Staff Aug contract we’ve ever had in place? We’ve been in the
+          IT staffing business since 1983 and we’ve had thousands of IT Staff
+   73.    Augmentation contracts in place. In 2015 alone, we had contract
+          consultants on staff with over 350 companies across the US. If this is
+          something we are legally unable to do, what else could we provide in place
+          of this? Would we be able to give you a small subset of these to
+          demonstrate our business acumen, reliability and stability?
+          In scoring the Company’s IT Staff Augmentation Experience, what criteria           The information submitted by the Respondent will be
+   74.    or thresholds must be met to qualify a company as “extensive”, “average”           compared to the RFP criteria in section 5.3.3.
+          and “minimal”?
+          Can you please provide a definition for extensive, average and minimal as          The information submitted by the Respondent will be
+   75.    it relates to how a company will be scored on their IT Staff Augmentation          compared to the RFP criteria in section 5.3.3.
+          Experience?
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                              Page 10 of 30
+          Is a company’s IT Staff Augmentation Experience scored on dollar amount         The information submitted by the Respondent will be
+          generated or years in business? If dollar amount, what are the thresholds       compared to the RFP criteria in section 5.3.3.
+   76.    for a company to be scored extensive, average or minimal? If years, what
+          are the thresholds for a company to be scored “extensive”, “average” and
+          “minimal”?
+          In section 5.3.3, you are asking for each of the respondent’s past and          See updated section 5.3.3 in this addendum.
+          present IT Staff Augmentation contracts and the respective contact
+          information, dollar amounts, etc. Are you wanting all contracts a company
+   77.    has been awarded over the entire life of the company, or are you wanting
+          contracts representative from each year they have been doing IT Staff
+          Augmentation? In addition, are you wanting only contracts related to public
+          sector IT Staff Augmentation?
+          According to section 5.3.3- Is there a limit to the number of contract          See updated section 5.3.3 in this addendum.
+   78.
+          examples that the Department would like to see?
+          According to section 5.3.3- Is this limited to state government experience?     No.
+   79.
+          If so, is it to Florida only?
+          Our company works with over 1,100 clients. We are not able to put               See updated section 5.3.3 in this addendum.
+          information regarding 1,100 of our clients into our proposal. We offer
+   80.    naming our top 10 contracts and size of those engagements as an
+          alternative option. Will that suffice? May you please advise on how you
+          would list our extensive contract history in the proposal.
+          Our standard contract includes a non-disclosure agreement to protect the        See updated section 5.3.3 in this addendum, also see
+          confidentiality of the clients we service. This prevents us from using client   section 3.7 of the RFP for information on redacted
+   81.
+          names, address, contract person’s names, telephone number and                   submissions
+          email. Is it ok to list client descriptions instead of client names?
+          Are client references or Reference Form Attachment D from RFP No. 04-           This solicitation does not contain a reference
+   82.
+          80101507-SA-B no longer required?                                               requirement.
+          Under section 5.3.3, Company’s IT Staff Augmentation Experience, may we         See updated section 5.3.3 of the draft contract in this
+   83.    include subcontracting where we providing staff augmentation services to a      addendum.
+          prime vendor?
+          5.3.3 Company's IT Staff Augmentation Contract Experience- Must an              See updated section 5.3.3 in this addendum. See
+          entire Client List be provided or is there a minimum number required to still   section 1.8 of the RFP for information on Public
+   84.    secure maximum point credit? In any case, we consider this contact              Records and see section 3.7 of the RFP for information
+          information to be "Private & Confidential". Can this information be marked      on redacted submissions.
+          as such and be excluded from public view?
+
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                          Page 11 of 30
+          Our company considers the information being requested in 5.3.3, Name of         See section 1.8 of the RFP for information on Public
+          Entity, contact person's name, telephone number and email as proprietary        Records and see section 3.7 of the RFP for information
+   85.    or trade secrets. Question, will DMS provide an opportunity to submit a         on redacted submissions.
+          redacted version of our response and how long is this information protected
+          by the State of Florida as confidential?
+          For 5.3.3, can you provide the benchmark or qualifying criteria to meet the     The information submitted by the Respondent will be
+          various levels of the Evaluation Criteria for the score of 200 (demonstrates    compared to the RFP criteria in section 5.3.3.
+   86.
+          extensive), 150 (demonstrates average) and 100 points (demonstrates
+          minimal)?
+          On page 19 of 51 paragraph 5.3.3 of the RFP, please clarify your use of the     See updated section 5.3.3 in this addendum.
+          term “IT Staff Augmentation Contracts.” For example, Florida DMS has
+          awarded several multi‐year IT Staff Augmentation Contracts since the
+   87.
+          1990’s. It appears that you are looking for summary information for these
+          types of contracts rather than a listing of every Purchase Order under these
+          contracts for the past several years. Is that correct?
+          Also on page 19 of 51 in the RFP, where it states that the Staff                The information submitted by the Respondent will be
+          Augmentation Contract Experience will be evaluated using the following          compared to the RFP criteria in section 5.3.3.
+          scoring methodology. Please provide specific definition of the following
+   88.
+          terms: a. “extensive” company IT Staff Augmentation contract experience;
+          b. “average”, company IT Staff Augmentation contract experience; c.
+          “minimal” company IT Staff Augmentation contract experience
+          5.3.3 – As a large professional services respondent, we maintain hundreds       See updated section 5.3.3 in this addendum.
+          of IT contracts within the state of Florida and thousands around the nation.
+          Due to non-disclosure agreements, we would be in breach of contract if we
+          were to provide the details requested in the RFP by the State of FL DMS.
+   89.    How do you advise respondents in this situation proceed? In lieu of the
+          requested details, can respondents restricted by contract obligations
+          provide blinded case studies that speak to our IT professional delivery
+          capabilities? Will respondents have points deducted from the overall score
+          if unable to share the requested details?
+          5.3.3 - Due to the 15-page limit with this section and the volume of            See updated section 5.3.3 in this addendum.
+          contracts that we maintain, we would not be able to provide the requested
+          details for all past and current contracts. What details do you feel are most
+   90.
+          relevant based upon these parameters? Will vendors have points deducted
+          from the overall score if unable to share all past and current contract
+          details?
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                        Page 12 of 30
+          5.3.3 – second bullet: “Total combined dollar amount all IT Staff                See updated section 5.3.3 in this addendum.
+          Augmentation contracts” - Define what you mean by “all IT Staff
+   91.
+          Augmentation contracts” as this could mean any number of things to
+          different types of vendors.
+          We have performed on the current and previous Florida State Term                 See updated section 5.3.3 in this addendum.
+          Contracts. During this time we have had Purchase Orders with most
+          government departments and agencies. Do we reference this as one
+   92.
+          contract or are we allowed to list each Purchase Order issued under the
+          Florida State Term Contract from every state department and agency for
+          whom we have done IT work?
+   93.    Do you prefer to have this information in a table?                               The state has no preference here.
+          Can staff augmentation services outside The State of Florida be used in the      Yes.
+   94.
+          IT Staff Augmentation Contract Experience section?
+          On Page 19, Section 5.33 under Company’s IT Staff Augmentation                   See updated section 5.3.3 in this addendum.
+          Contract Experience, please clarify a time period for which you would like
+   95.    the Respondent’s past and current IT staff Augmentation Contracts (i.e. last
+          3 years).
+
+          For the SACE document, so you want details down to each Purchase                 See updated section 5.3.3 in this addendum.
+   96.
+          Order, or combined total under the STC?
+          For the SACE document, is the STC considered one with each extension             See updated section 5.3.3 in this addendum.
+   97.
+          combined, or do we have to represent each extension individually?
+          Page 19, Section 5.3.3, Company’s IT Staff Augmentation Contract                 See updated section 5.3.3 in this addendum.
+          Experience -This section requests: Total number of all IT Staff
+          Augmentation contracts. Total combined dollar amount of all IT Staff
+          Augmentation contracts. Our firm has provided IT Staff Augmentation
+   98.    contracts for 36 years. Contract information dating that far back may no
+          longer be available since it well exceeds required federal and state records
+          retention requirements. How would DMS like firms like ours to address
+          these two stated requirements?
+          Page 19, Section 5.3.3, Company’s IT Staff Augmentation Contract                 See updated section 5.3.3 in this addendum.
+          Experience - This section requests, “For each of the Respondent’s past and
+   99.    current IT Staff Augmentation contracts, provide the following: Name of the
+          entity that received the services; Entity address; Etc. Due to the number of
+          IT contracts provided by our firm over the last 36 years, we will be unable to
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                         Page 13 of 30
+          fit all of our past and current projects within the 15 page limit. How would
+          DMS like firms like ours to address this situation?
+          Page 19, Section 5.3.3, Company’s IT Staff Augmentation Contract                 See updated section 5.3.3 in this addendum.
+          Experience - This section requests, “For each of the Respondent’s past and
+          current IT Staff Augmentation contracts, provide the following: Entity’s
+          contact person’s name, telephone number and email. For some of our
+  100.    clients, the contact person may no longer be at the same agency, may
+          have moved to another state, retired, or passed away. Also, several of the
+          agencies we have worked with have merged or changed names. How
+          would DMS like us to address these two situations when responding to this
+          procurement?
+
+          Would DMS consider providing preference points to vendors who have               Such preference points are not a part of the RFP.
+  101.    provided direct IT staffing services to the State of Florida under previous IT
+          Staff Augmentation contracts?
+          Section 5.3.3 – Company’s IT Staff Augmentation Contract Experience -            See updated section 5.3.3 in this addendum.
+          Since our company is not yet on the Staff Augmentation Contract, we have
+          been providing augmentation services through another vendor that
+          currently is on contract. Thus, our contracted work is paid to the vendor that
+          our company is providing services through. Our company has done a large
+  102.
+          amount of State-related work through this vendor and provided many of the
+          staff augmentation services outlined in this proposal. The question is, will
+          these past services, provided by our company but through a vendor on the
+          contract, count as Staff Augmentation Contract Experience, as described in
+          section 5.3.3?
+          Section 5.3.3 – Company’s IT Staff Augmentation Contract Experience -            Yes.
+          When listing our staff augmentation experience, are we allowed to include
+  103.
+          similar staff augmentation work that our company has done outside of
+          Florida?
+          Section 5.3.3 – Company’s IT Staff Augmentation Contract Experience -            Section 5.3.3 does not require that the IT staff
+          According to the new scoring formula, 20% of a respondent’s score is             augmentation contract experience be provided under
+          determined by their staff augmentation contract experience. Is it the State’s    the current state term contract.
+  104.    intention to specifically favor incumbent vendors that are already on the
+          contract? Having such a scoring structure puts companies that are not on
+          the current State staff augmentation contract at an extreme scoring
+          disadvantage.
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                         Page 14 of 30
+          Per Section 5.3.3, pp 19: Vendors are required to provide past and current      See updated section 5.3.3 in this addendum.
+          IT Staff Augmentation contracts. Would you prefer want these references to
+  105.    be from the State of Florida? What if, as a large vendor, there are hundreds
+          of Staff Augmentation contracts for which we have provided resources –
+          shall we select a sampling of these to present to the State? How many?
+          Per Section 5.3.3, pp 19: Evaluation Criteria: Will the procurement             See updated section 5.3.3 in this addendum.
+  106.
+          evaluation give additional weight to references from the State of Florida?
+          5.3.3/page 19 - Company's IT Staff Augmentation Contract Experience:            See new section 1.3.15 of this addendum.
+  107.    What services are the Department defining as Staff Augmentation? Does
+          this definition include, for example, consulting services?
+          5.3.3/ page 19 - Company's IT Staff Augmentation Contract Experience            See updated section 5.3.3 in this addendum.
+          Due to confidentiality considerations in our numerous contracts, i.e. each
+          client must individually permit release of their name and contact
+          information, including the information required by the Department is
+          extremely onerous. As a large organization with several hundred clients,
+          getting the required release is extremely time consuming. In light of this,
+          would the Department consider revising/clarifying the requirement(s) as
+          follows: Name of the entity that received the services - Would the
+          Department consider revising the requirement to state the client industry,
+          as many companies require permission to use their name/information?
+  108.
+          Entity’s contact person’s name, telephone number and email - Due to the
+          timely nature of gathering this information, would the Department consider
+          eliminating this requirement? Duration of each contract (Time it actually
+          took to complete the work) - When the Department specifies ‘time it actually
+          took to complete the work’, the language sounds like a project by project
+          basis. A majority of staff augmentation engagements span multiple projects
+          at one client site, often simultaneously. Are you asking for an entry of each
+          project our resources worked on per client? Total dollar amount received -
+          Per project or entire client spend? The number of staff assigned - Per
+          project or per client site?
+          5.3.3/ page 19 - Evaluation Criteria for Staff Augmentation Contract            The information submitted by the Respondent will be
+          Experience: The evaluation scoring is based on ‘extensive, average,             compared to the RFP criteria in section 5.3.3.
+  109.
+          minimal, and failure to meet criteria’. Can the Department quantify the
+          criteria for determining whether a Proposal is ‘exceptional’ vs. ‘average’?
+          For the section 5.3.3 Company’s IT Staff Augmentation Contract                  See updated section 5.3.3 in this addendum.
+  110.    Experience, do you want us to provide the past contract details right from
+          the company's start date? Can you specify a number for contracts to be
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                        Page 15 of 30
+          provided? Should we include government as well as commercial client
+          details or just government? What if the entity's contact person we worked
+          with is no longer with that entity or what if the entity we worked with in the
+          past no longer existing?
+          Under Section 5.3.3 Company’s IT Staff Augmentation Contract Experience           See updated section 5.3.3 in this addendum.
+          - 200 Maximum Possible Points below is mentioned: Provide the following
+          for the Respondent’s past and current IT Staff Augmentation
+  111.
+          Contracts: Total number of all IT Staff Augmentation contracts. Total
+          combined dollar amount all IT Staff Augmentation contracts. Are the total
+          number of contracts till date and the total dollar amount till date?
+          P19, Section 5.3.3, Company’s IT Staff Augmentation Contract Experience,          See updated section 5.3.3 in this addendum.
+          “Provide the following for the Respondent’s past and current Staff
+          Augmentation Contracts:” … “For each of the Respondent’s past and
+          current IT Staff Augmentation contracts, provide the following:” and the
+          RFP asks for 10 pieces of information per contract. Question: We have
+  112.    thousands of contracts to report and hundreds of millions of dollars to
+          breakout. There are security aspects in the fact that this could all become
+          public information. We expect a listing of this nature to produce well over
+          500 pages of documentation for you to go through, not to mention the time
+          it will take us to produce this information. We see a limit imposed of 15
+          pages. How would you like us to handle this requirement?
+          Does the State want to know the yearly or total dollar amount of the past         See updated section 5.3.3 in this addendum.
+  113.
+          and current Staff IT Contracts?
+          Will the Entity's contact person (Contract Experience) be used as                 See section 3.10 of the RFP.
+  114.
+          references for this RFP response?
+          Page 19 of 51 - Provide the following for the Respondent’s past and current       See updated section 5.3.3 in this addendum.
+          IT Staff Augmentation Contracts – a. Should these contracts be from public
+  115.    sector clients only? b. How many years back in the past would you like us
+          to go? c. Is there a minimum size to the IT Staff Augmentation contract? d.
+          Are previous IT contracts from Florida State (DMS) to be included?
+          Page 19 of 51 - Total number of all IT Staff Augmentation contracts – a. Are      See updated section 5.3.3 in this addendum.
+          you referring to the Master IT staff Augmentation contracts only like the one
+  116.    DMS plans to issue through this solicitation? b. Are you referring to total for
+          each and every purchase order (PO) that a vendor would have received
+          from any individual state agency and every private sector client.
+          Total combined dollar amount all IT Staff Augmentation contracts – Are you        See updated section 5.3.3 in this addendum.
+  117.
+          looking at an exact amount or approximation is fine?
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                          Page 16 of 30
+          If a respondent to this RFP is the lowest priced for specific line item(s),   Please see section 5 of the RFP.
+          (determined to be responsive and responsible) and passes all the
+  118.
+          evaluation criteria, can they be reasonably assured of receiving an award
+          based on your evaluation and award criteria?
+          5.5 Basis for Award: Other than pricing, will the remainder of the proposal   No, proposals will not be scored per Job Title for
+          be scored per Job Title for Sections 5.1, 5.2, and 5.3. If so how will the    Sections 5.1, 5.2 and 5.3.
+  119.
+          State differentiate a vendors experience, Resource Management Plan, and
+          IT Contract Experience by Job Title?
+          Page 20, Section 5.5, Basis of Award - Would DMS consider awarding            No.
+  120.    vendors positions on the contract based on Job Family, rather than by Job
+          Title?
+          Can the State provide clarification surrounding the change in the scoring     This question is unclear.
+  121.
+          methodology?
+          Are references required for this re-bid?                                      This solicitation does not contain a reference
+  122.
+                                                                                        requirement.
+          Would DMS consider providing preference points to vendors with                Such preference points are not a part of the RFP.
+  123.    headquarters in the state of Florida to ensure taxpayer money and jobs are
+          kept within Florida?
+          Would DMS consider providing preference points to minority, veteran, or       Such preference points are not a part of the RFP.
+          women owned vendors to ensure contract diversity?                             Please see section 2.14 of the RFP and section 1.14 of
+  124.                                                                                  the draft contract. However, see also section
+                                                                                        287.057(12), Florida Statutes and 60A-1.011, Florida
+                                                                                        Administrative Code.
+          The original RFP released last summer included a form for references to       This solicitation does not contain a reference
+  125.    complete and sign. This rebid does not include a component for references.    requirement.
+          How do you plan to evaluate references?
+          Why were references deleted from the evaluation process for this              See response to question 1.
+  126.    solicitation?
+
+  RRP, Section 6, Scope of Work
+          Page 21, Section 6, Scope of Work -This section states, “The awarded          We believe our specifications are clear; contracts
+          Contractor(s) shall provide information technology staff augmentation         resulting from this solicitation should not be structured
+  127.
+          services including comprehensive staff resource management. Contractor’s      as fixed-price agreements or used for any services
+          staff shall render information technology services identified by the          requiring authorization for payment of milestone tasks.
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                        Page 17 of 30
+          Customers and shall be paid on an hourly basis. Contracts resulting from
+          this solicitation should not be structured as fixed-price agreements or used
+          for any services requiring authorization for payment of milestone tasks.”
+          Please confirm that this statement means that staff augmentation contracts
+          procured under this IT Staff Augmentation Contract will not include
+          deliverables tied to timelines and payments.
+
+  RRP, Section 7, Draft Contract
+  128.    Will the state of FL be accepting red lines to the sample contract?               No.
+          Section 7 - Draft Contract Document Is Vendor expected to complete "Draft         No, a Respondent is not expected to return the draft
+  129.    Contract Document" (including Exhibit A,B,C,D,E and F) as part of RFP             contract or any of its exhibits as part of its RPF
+          response? Or has this been provided only for vendor reference?                    response.
+  130.    On page 28, section 1.2, is there a capped amount per purchase for the            P-card caps are established by the Florida Department
+          State of Florida to purchase under the P-card program? If so, what is that        of Financial Services and each agency.
+          cap?
+          1.2 Term: Based on the substantial reliance that Eligible User have on this       No.
+          contract to conduct business that is critical to the health, safety and well-
+  131.
+          being of Floridians would the State consider extending the initial term or
+          consider adding options years to the contract?
+          This contract is for only a two year term with no renewals, therefore, when       This information is not available at this time.
+          would you anticipate issuance of a new solicitation prior to the expiration of
+  132.
+          the contracts resulting from this RFP? Is there a targeted timeline prior to
+          expiration regarding your pre-solicitation and solicitation phases?
+          Is Unlimited Liability involved with any of the projects which Vendor will take   The liability language in the RFP is contained in section
+  133.    up as a result of this contract?                                                  1.4 of the draft contract. The Customer may have
+                                                                                            different requirements.
+          Is there any provision for travel under this RFP? If an agency requires           Yes, if travel is permitted by the Customer it must be
+          travel and is willing to pay the travel costs as a separate line item on their    submitted in accordance with section 112.061, Florida
+  134.    purchase order for these services, would they have the discretion to do so?       Statutes; see section 1.7 of the draft contract.
+          What is the expectation of staff augmentation which may require travel, but
+          as yet is unknown as it on an individual RFQ requirement?
+          Page 29, Section 1.8, Public Records - Item b in this section states,             The Department expects contractors to comply with
+          “Provide the public with access to public records on the same terms and           Florida public records law.
+  135.    conditions that the Department would provide the records and at the cost
+          that does not exceed the cost provided in Chapter 119, Florida Statutes, or
+          as otherwise provided by law.” What is DMS’ expectation for vendor
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                              Page 18 of 30
+          compliance with public records for staff augmentation contracts in which
+          staff are working on-site at an agency?
+          Section 1.10: Is this section negotiable? Due to the nature of providing         No.
+          information technology staff augmentation services, there are often times
+  136.
+          where bill rates for certain job positions may vary due location and/or an
+          individual candidate’s experience level, skill set, and/or job qualifications.
+          Inside Exhibit A on page 30, paragraph 1.11 reads "The Contractor shall          See updated section 1.11 of draft contract document in
+          not subcontract any work under the Contract without prior written consent        this addendum.
+          of the Department. "All of the consultants that I currently have working for
+          me right now and consulting for various State of Florida Agencies are non-
+  137.    employees, and are getting paid via IRS Form 1099 as sub-contractors. We
+          are directly submitting the invoices to the State, and paying the sub-
+          contractors. Is paragraph 1.11 saying that this will no longer be allowed?
+          My company acknowledges that we are taking full responsibility for the
+          satisfactory completion of all subcontracted work.
+          Attachment A, Section 1.11- states that no work may be subcontracted             See updated section 1.11 of the draft contract in this
+  138.    without previous approval. How would the Department like for a vendor to         addendum.
+          request approval before or during a competitive procurement?
+          Attachment A, Section 1.11 - Although internally we do now allow 1099            This question is unclear.
+  139.    employment of staff, will the Department require proof of insurance from
+          any 1099 candidate coming from an approved vendor?
+          Should we include any named sub-contractors in our bid proposal or               No, see updated section 1.11 of the draft contract in
+  140.    not? We understand the State of Florida needs to approve any                     this addendum.
+          subcontractors.
+          Exhibit A, Contract Conditions, page 30 1.11 Subcontracts: “The Contractor       See updated section 1.11 of the draft contract in this
+          shall not subcontract any work under the Contract without prior written          addendum.
+  141.
+          consent of the department”. What form should that consent be in and at
+          what stage should it be requested?
+          On page 27, Special Contract conditions, are there any Vendor related            These are State of Florida standard contract conditions
+  142.    expenses to options 1.11, 1.12 and 1.13? If so, can you please provide           and if there are costs associated with these clauses the
+          those costs?                                                                     costs will be borne by the vendor.
+          On page 32, section 1.21, if there was a performance or payment bond             Any bonds, if applicable, are set by the Customer and
+          required by the customer, would we be notified of that in the original           the number of requests is not available.
+  143.    request or no? How many requests have been made by The State of
+          Florida under the previous IT Staff Augmentation contract for a
+          performance or payment bond?
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                          Page 19 of 30
+          Section 1.21: Will we have the ability to decline a Purchase Order and/or       Yes, as part of the RFQ process.
+  144.    negotiate the Customer requirements if performance or payment bonds are
+          mandated for a particular job?
+          On page 33, section 1.23, was this included in the previously awarded IT        Florida law requires all contracts to include financial
+  145.    staff augmentation contract in the State of Florida? If no, what has led to     consequences. See section 287.058, Florida Statutes.
+          this requirement?
+          On page 33, section 1.23, how does the customer define “non-                    This will be determined by the Customer.
+  146.    performance” under this contract? It is all hourly work with no deliverable
+          schedule.
+          Section 1.23.1-1.23.2: Will we have the ability to review and/or negotiate      This will be determined by the Customer.
+  147.    Customer Mandated financial consequences prior to acceptance of a
+          Purchase Order?
+          Exhibit A, Contract Conditions, page 33, 1.23 Financial Consequences. “In       The Customer will determine the type of notification
+          the event that the deliverable is deemed unsatisfactory by Customer, the        given and the timeframe.
+          Contractor shall re-perform the Deliverable as needed for submittal of a
+          satisfactory deliverable, at no additional cost to Customer, within the
+  148.
+          timeframe established by Customer”. What documentation will the
+          Customer use to notify the Contractor about unsatisfactory deliverable? Is
+          there a timeframe for the Customer to notify the Contractor about
+          unsatisfactory deliverable?
+          Exhibit A, Section 1.23.1 – How do you determine what “unsatisfactory” is       This is determined by the Customer.
+          in relation to deliverables? How do you ensure a reasonable expectation in
+  149.
+          relation to deliverables being defined and delivered satisfactorily by the
+          Contractor?
+          In the RFP on page 33 section 1.32.2, will the State notify the vendors in      We believe you are referring to section 1.23.2 and this
+  150.
+          regard to a compliance violation? What is the time frame for notification?      will be determined by the Customer.
+          On page 33, the RFP states: A financial consequence in the amount of one        This is determined by the Customer.
+          (1) times the hourly rate(s) of each Contractor employee assigned to the
+          purchase order will be assessed against Contractor for each submittal of an
+          invoice during the period that the Contractor is out of compliance of the
+  151.    purchase order. We interpret this as follows: If three resources provided
+          services during a period at $100/hr that was determined to be out of
+          compliance, and two invoices were delivered over that period, the financial
+          consequence would be assessed at $600 regardless of the number of
+          hours worked during this period.
+          Page 33, Section 1.24, Invoicing - This section states, “The Contractor shall   Yes.
+  152.
+          be paid upon submission of monthly or quarterly invoices to the Customer
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                         Page 20 of 30
+          after delivery and acceptance of services.” Is it acceptable to submit
+          invoices on a different schedule if approved by the Customer?
+          Page 34, Section 1.27, Contractor Security Clearance - Who is responsible       This is determined by the Customer.
+  153.    for the cost of the Level 2 background screenings? Is this cost paid for by
+          the Contractor or the Customer?
+          Section 1.27 Contractor Security Clearance                                      Please also see updated section 1.27 of the draft
+          The State's language seems to conflict with EEOC guidelines that require        contract in this addendum. Contractors retain all
+          for individualized assessments for background screenings under which            responsibility to comply with law in their relationship
+          Candidates criminal record must be free of all felony or misdemeanor            with their own employees.
+          convictions involving crimes against persons or property or involving
+  154.
+          dishonesty that are reasonably related to the job applied for. Will the State
+          revise section 1.27 to allow vendors to conform to federal employment
+          guidelines? If the State is unwilling to adjust the language will the State
+          accept any liability related to background investigations conducted outside
+          of EEOC guidelines?
+          On page 35, section 1.28, will contractors utilize The State of Florida’s       This will be determined by the Customer.
+  155.    equipment to perform duties or will the contractor be required to provide his
+          or her own laptop or computer?
+          The RFP mentions the state may choose to award contracts to as many as          As to the award process see Section 5.5. The random
+          200 or more Contractors. In Exhibit A, Section 1.29.2, it states that no        selection process will electronically, without human
+          more than 8 Contractors (3 chosen by the Agency/Customer soliciting the         intervention, add 5 additional contractors to each RFQ
+          RFQ and 5 randomly chosen Contractors) will participate in the RFQ. How         notice. This random selection process will afford all
+  156.    are the Contractors randomly selected? How do you ensure that all               awarded contractors the same chance of being sent an
+          Contractors are treated fairly in the random selection process? Do you          RFQ notice for each RFQ.
+          assess the Customer's choice of 3 Contractors and the randomly selected
+          Contractors over time to avoid the same Contractors receiving an unfair
+          number of opportunities?
+          Exhibit A – page 36 – Item - 1.29.2                                             These questions are unclear.
+          Does this mean that only 8 vendors will be selected to work on each
+  157.    position?
+          Could you explain the RFQ as it pertains to supplemental staffing and the
+          Florida contract?
+          How will specific bidders down select the amount of vendors that they use       This question is unclear. Section 1.29 of the draft
+  158.    for their open requirements? Does every buyer need to use all 200               contract in the RFP may address your concerns.
+          vendors or is there specific down select criteria such as pricing.
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                           Page 21 of 30
+          On page 36, the RFP states: The Customer shall select at least three (3)           These RFQ’s will only be accessible by the awarded
+          awarded Contractors for the RFQ event. MyFloridaMarketPlace Sourcing               Contractors who were invited to participate. The
+          will automatically add an additional five (5) randomly selected awarded            Customer may consider any quotes from awarded
+          Contractors to the RFQ event. All eight (8) awarded Contractors sent the           Contractors submitted in response to the RFQ.
+          RFQ will receive an alert of the RFQ and may respond. Customers may
+  159.
+          view the RFQ Contractor List on the event’s “Overview” tab. Please confirm
+          that vendors not selected as one of the eight to receive notification will still
+          be able to bid if they learn of the procurement and request procurement
+          information from the customer. Please confirm that these procurements will
+          be accessible on MyFloridaMarketPlace for all vendors to view.
+          Exhibit A, Contract Conditions, page 36, 1.30 Resume Self Certification            The first question is unclear. For the second question
+          Form. “When submitting a response to the RFQ the Contractor shall submit           no electronic signatures will be accepted.
+          with its response a signed Self-Certification Form (Exhibit D) to the
+  160.
+          Customer for each Candidate included in the RFQ response”. Is this also
+          relevant to resumes of key personnel presented in our response for STC
+          renewal? Can electronic signatures be used on Self Certification Forms?
+          Is the resume self-certification form to be included as part of the staffing       No, the resume self-certification is not to be returned
+  161.    management resource plan as was the case with the initial proposal in              with a response.
+          October?
+          Can the contractor request a copy of the “quarterly contractor performance         Yes.
+  162.    survey?” It seems this would be a good tool to ensure maximum
+          performance & with the state.
+          I have 5-10 people (my 1099s technicians) that have worked with me on              This is determined by the Customer.
+          previous contracts. I am very interesting in hiring them. The first question
+  163.    they ask is "Are the jobs in St. Petersburg/Tampa area?" Do you find out
+          the job location when you win the awarded contract? I was guessing the
+          jobs can be anywhere in the State of Florida.
+          Page 43, Exhibit F, Contractor Performance Survey - Who is responsible             The Department’s Contract Manager will collect and
+  164.    for ensuring customers complete and submit this survey?                            compile the surveys.
+
+          How will the State of Florida manage conflict resolution in relation to            This will be determined by the Customer.
+  165.    Customer concerns regarding Contract employees or Contract employees
+          concerns related to employment with a Customer?
+          Considering that Information Technology Consultants will be working under          No.
+  166.    the authority of Eligible Users management for daily direction in the
+          workplace. Would the State revise the indemnification to better reflect the
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                             Page 22 of 30
+          level of control allowed the vendor, by modifying the language to reflect
+          "negligent acts".
+
+  RRP, Section 8, Attachments
+          Attachments A, B and C all contain the year 2015 where a notary is               Attachment A does not include a notary requirement.
+  167.
+          required, will new versions be made available with 2016?                         See updated Attachments B and C in this addendum.
+          Attachments B and C - Regarding the signatures on forms, does the notary         No.
+  168.
+          have to be registered in Florida?
+          Attachment D Are you seeking to know how many years of IT experience             Please see section 5.3.1 for the requirements on
+  169.    the firm has or how many years the firm has provided IT staff augmentation       Attachment D.
+          services only?
+          Attachment E - The price sheet still contains the old RFP number in the          Please see the updated Price Sheet (Attachment E)
+  170.    header. Are we to use this one? Or will an updated one be provided with          attached to this addendum.
+          the re-bid number?
+          How were the ceiling prices determined for each line item stated on the          The ceiling prices were established based on industry
+  171.
+          pricing sheet?                                                                   research and current pricing.
+          Could you please confirm and clarify that vendors do not have to respond         See updated section 3.8 in this addendum.
+  172.
+          for all job family descriptions included in the RFP?
+          Attachment E What are the experience qualifications for each level for job       See the Job Family Descriptions pdf document posted
+  173.    titles within a job family?                                                      within the advertisements of this solicitation on both the
+                                                                                           Vendor Bid System and MFMP Sourcing.
+          Attachment E Why is the Department of Management Services not                    The Department chose the pricing option from a
+          considering tiered pricing categories for different sized vendors? We            number of alternatives.
+          believe the state agencies would be better served with pricing for small,
+          medium and large vendors who bring different levels of skills and
+  174.
+          resources. There is a difference in the cost, resource/skills reach, and value
+          a global, national, regional, and/or local vendor could bring to an agency.
+          Why not give the agencies more options on what they need and which
+          pricing category fits their respective budgets?
+          Attachment E Is there a listing of position descriptions, experience, and        Yes, please see the Job Family Descriptions pdf
+          qualifications for each Job Title Outlined Staff Augmentation Attachment E -     document posted within the advertisements of this
+  175.
+          Price Sheet?                                                                     solicitation on both the Vendor Bid System and MFMP
+                                                                                           Sourcing.
+          Attachment E Do we have to use the pricing form AS IS or can we submit           Respondents must use Attachment E, which is in the
+  176.
+          an excel table with the same contents?                                           excel format, and is available in MFMP Sourcing.
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                           Page 23 of 30
+                                                                                         Please do not submit the pdf format posted on the
+                                                                                         Vendor Bid System.
+          Attachment E Based on previous experience, Job Titles can have varying See the Job Family Descriptions pdf document posted
+  177.    roles and responsibilities within different entities; therefore, can the State within the advertisements of this solicitation on both the
+          provide detailed job descriptions for all positions required?                  Vendor Bid System and MFMP Sourcing.
+
+
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                                                         Page 24 of 30
+The following requirements supplement or replace those found in the RFP. The variations between
+the new and the old requirements are highlighted in yellow.
+
+   1. Section 1.3 Definitions, is hereby revised to add new sections 1.3.12 and 1.3.13 as follows:
+
+      1.3.12 - Operational Formula
+      The day to day actions of a company that are guided by a written policy or procedure that is prescribed
+      for repetitive use as a practice, in accordance with agreed upon operations that are aimed at obtaining
+      a desired outcome.
+
+      1.3.13 – Information Technology Experience
+      Experience working in the computer science industry that involves equipment, hardware, software,
+      firmware, programs, systems, networks, infrastructure, media, and related material used to
+      automatically, electronically, and wirelessly collect, receive, access, transmit, display, store, record,
+      retrieve, analyze, evaluate, process, classify, manipulate, manage, assimilate, control, communicate,
+      exchange, convert, converge, interface, switch, or disseminate information of any kind or form.
+
+      1.3.14 – Employment Standards
+      Management-approved performance threshold(s), requirement(s), or expectation(s) that must be met
+      by a company’s staff and subcontractors.
+
+      1.3.15 - IT Staff Augmentation Experience
+      Experience in the allocation and outsourcing of qualified information technology staff to augment a
+      customer’s workforce on a temporary basis.
+
+   2. Section 3.8 Price Sheet Instructions, is hereby revised as follows:
+
+      3.8 Price Sheet Instructions
+      Descriptions of “Job Families” are displayed in the left columns of the Pricing Spreadsheets. Within
+      each Job Family are a number of Job Titles. The Job Title is often, but not always, broken down into
+      “Scope Variants," which are gradations of experience within that Job Title.
+      AWARDS WILL BE MADE BY JOB TITLE. A RESPONDENT IS NOT REQUIRED TO RESPOND TO
+      EVERY JOB FAMILY OR EVERY JOB TITLE, HOWEVER A RESPONDENT IS REQUIRED TO
+      PROVIDE A PRICE FOR EVERY SCOPE VARIANT WITHIN THE JOB TITLES THEY CHOOSE.
+      RESPONDENTS SEEKING AN AWARD MUST PROVIDE PRICES FOR ALL SCOPE VARIANTS
+      FOR EACH JOB TITLE THEY BID ON. IN OTHER WORDS, THE RESPONDENT IS REQUIRED TO
+      PROVIDE A PRICE FOR EVERY SCOPE VARIANT FOR EACH JOB TITLE FOR WHICH THEY
+      SEEK TO RECEIVE AN AWARD. PROPOSALS FOR JOB TITLES THAT DO NOT CONTAIN
+      PRICES FOR EACH SCOPE VARIANT WILL NOT BE CONSIDERED AND WILL NOT BE
+      EVALUATED BY THE DEPARTMENT.
+
+      THE RESPONDENT’S HOURLY RATE SHALL NOT EXCEED THE CEILING RATE LISTED NEXT
+      TO EACH SCOPE VARIANT. PROPOSALS FOR JOB TITLES THAT CONTAIN ANY PRICES FOR
+      ANY SCOPE VARIANTS THAT ARE HIGHER THAN THE CEILING RATES SHALL NOT BE
+      CONSIDERED FOR THAT JOB TITLE AND WILL NOT BE EVALUATED BY THE DEPARTMENT
+
+      Pricing offered to the State of Florida for this solicitation shall be the best price available to the State
+      and shall be comparable to or better than the best available pricing offered by the Respondent to
+      similarly situated government entities. Other states similar in size and buying power to the State of
+      Florida are California, New York, and Texas.
+
+      Prices shall not increase for the entire contract term.
+  3. Section 3.11 Solicitation Forms, is hereby added as follows:
+
+      3.11 Solicitation Forms
+      Respondents must supply all of the required forms from this solicitation in order to be deemed
+      responsive. Any of the Respondent’s forms found to be invalid for this solicitation may be grounds for
+      the Respondent to be deemed non-responsive.
+
+  4. Section 4.4 Submission Capacity Requirements, is hereby revised as follows:
+
+      4.4     Submission Capacity Requirements
+      Due to the large amount of responses anticipated, the Department has determined that the following
+      are the capacity requirements of each Respondent’s submission:
+
+
+           Part                                    Title                                   Page Limit
+           ONE       Executive Summary (Written by Respondent) {PDF File}                        1
+                     Respondent Information Form (Attachment A) {PDF File}                       1
+                     Responsible Vendor Review Form (Attachment B) {PDF File}                    2
+                     Financial Certification Form (Attachment C) {PDF File}                      1
+           TWO       IT Experience Certification Form (Attachment D) {PDF File}                  1
+                     Staffing Resource Management Plan (Written by Respondent)                  15
+                     {PDF File}
+       THREE         IT Staff Augmentation Contract Experience (Written by                      15
+                     Respondent) {PDF File}
+        FOUR         Price Sheets (Attachment E) {Excel File}                                    8
+                     Total pages allowable for RFP Response                                     44
+
+
+      RESPONDENTS WHO SUBMIT MORE PAGES THAN ARE ALLOWABLE IN THIS SOLICITATION MAY BE FOUND NON-
+      RESPONSIVE.
+
+      5.          Section 5.3.2 B, Respondent’s Principal Personnel, is hereby revised as follows:
+
+                  B. Respondent’s Principal Personnel
+                     It is preferred that the Respondent’s principal personnel have IT experience.
+                      List Respondent’s principal personnel who will make management decisions concerning
+                          staff placement for services under the contract(s) that results from this solicitation and
+                          include the following:
+                             o   Each principal personnel’s name, education, credentials and certifications, job title, years
+                                 of IT experience, and number of years employed with the Respondent.
+                             o   Describe the role each principal personnel will have in a contract(s) that may result from
+                                 this solicitation
+                             o   Describe each principal personnel’s Staffing Resource Management role in past IT Staff
+                                 Augmentation contracts.
+                             o   Detail any unique expertise and capabilities each principal personnel possess that could
+                                 bring additional value to the State.
+
+
+
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                               Page 26 of 30
+      6. Section 5.3.3 Company’s IT Staff Augmentation Contract Experience, is hereby revised as
+         follows:
+
+          5.3.3    Company’s IT Staff Augmentation Contract Experience - 200 Maximum Possible
+                   Points
+
+                   In order to convey its experience in IT Staff Augmentation contracting, the
+                   Respondent shall supply up to 15 pages of information that the Respondent
+                   determines is the best representation of its experience and shall include the
+                   following:
+
+                      Total number of IT Staff Augmentation contracts/purchase orders
+                      Total combined dollar amount of IT Staff Augmentation contracts/purchase orders
+                      Information on the entities that received the IT Staff Augmentation services that includes:
+                           o   Entity name or description
+                           o   Entity address
+                           o   Entity’s contact person’s name, telephone number and email
+                           o   Contract number/purchase order assigned by the Entity
+                           o   Original Term of the Contract
+                           o   Contract/purchase order Start Date
+                           o   Duration of each contract/purchase order (Time it actually took to complete the
+                               work)
+                           o   Total dollar amount received
+                           o   The number of staff assigned
+                           o   Type of tasks performed by assigned staff
+                           o   Stipulate if you were the primary contractor or hired as a subcontractor by the
+                               prime and list name of prime
+                   Staff Augmentation Contract Experience will be evaluated using the following scoring
+                   methodology:
+
+                                           Evaluation Criteria                        Score
+                  Respondent demonstrates extensive company IT Staff Augmentation
+                                                                                       200
+                  contract experience.
+                  Respondent demonstrates average company IT Staff Augmentation
+                                                                                       150
+                  contract experience.
+                  Respondent demonstrates minimal company IT Staff Augmentation
+                                                                                       100
+                  contract experience.
+                  Respondent fails to demonstrate IT Staff Augmentation contract
+                                                                                        0
+                  experience.
+
+  7. Section 7, Draft Contract Document, 1.11, Subcontracts is hereby revised as follows:
+
+      1.11    Subcontracts
+              The Contractor is fully responsible for satisfactory completion of all work on this contract. The
+              Contractor shall ensure, and provide assurances to the Department upon request, that any
+              subcontractor selected for work under this Contract has the necessary qualifications and
+              abilities to perform in accordance with the terms and conditions of this Contract. The Contractor
+              must provide the Customer with the names of any subcontractor considered for work on a
+              purchase order issued under this Contract. The Customer shall retain the right to reject any of
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                    Page 27 of 30
+              Contractor’s or subcontractor’s staff whose qualifications or performance, in the Customer’s
+              judgment, are insufficient. The Contractor agrees to be responsible for all work performed and
+              all expenses incurred by the subcontractor while performing work under this contract. Any
+              subcontract arrangements must be evidenced by a written document available to the
+              Department upon request.
+
+              The Contractor agrees to make payments to the subcontractor within seven (7) working days
+              after receipt of full or partial payments from the Customer in accordance with Section 287.0585,
+              F.S., unless otherwise stated in the contract between Contractor and subcontractor. The
+              Contractor agrees that the Department shall not be liable to any subcontractor for any expenses
+              or liabilities incurred under the subcontract and Contractor shall be solely liable to the
+              subcontractor for all expenses and liabilities incurred under the subcontract. The Contractor, at
+              its expense, will defend the Customer and the Department against such claims. The following
+              provisions apply, in addition to any terms and conditions included in the Customer’s purchase
+              order.
+
+              The Department supports diversity in its procurements and contracts, and requests that
+              Contractors offer subcontracting opportunities to certified woman-, veteran-, and minority-owned
+              small businesses. The Contractor may contact the OSD at osdinfo@dms.myflorida.com for
+              information on certified business enterprises available for subcontracting opportunities.
+  8. Section 7, Draft Contract Document, 1.27, Contractor Security Clearance is hereby revised as
+     follows:
+      1.27 Contractor Security Clearance
+      Customers may designate certain duties and/or positions as positions of “special trust” because they
+      involve special trust responsibilities, are located in sensitive locations, or have key capabilities with
+      access to sensitive or confidential information. The designation of a special trust position or duties is at
+      the sole discretion of the Customer. Contractor or Contractor’s employees who, in the performance of
+      this Contract, will be assigned to work in positions determined by the Customer to be positions of
+      special trust, may be required to submit to background screening and be approved by the Customer to
+      work on this Contract.
+  9. Section 7, Draft Contract Document, 1.36, Indemnity is hereby added as follows:
+
+      1.36 Indemnity
+      To the extent permitted by Florida law, the Contractor agrees to indemnify, defend, and hold the
+      Department, Customer, the State of Florida, its officers, employees and agents harmless from all fines,
+      claims, assessments, suits, judgments, or damages, including consequential, special, indirect, and
+      punitive damages, including court costs and attorney’s fees, arising out of any acts, actions, breaches,
+      neglect or omissions of the Contractor, its employees, agents, subcontractors, assignees or delegates
+      related to the Contract, as well as for any determination arising out of or related to the Contract that the
+      Contractor or Contractor’s employees, agents, subcontractors, assignees or delegates are not
+      independent contractors in relation to the Department. The Contract does not constitute a waiver of
+      sovereign immunity or consent by the Department or the State of Florida or its subdivisions to suit by
+      third parties.
+      Further, the Contractor shall fully indemnify, defend, and hold harmless the Department from any suits,
+      actions, damages, and costs of every name and description, including attorneys’ fees, arising from or
+      relating to violation or infringement of a trademark, copyright, patent, trade secret or intellectual
+      property right.
+
+Information Technology Staff Augmentation Services Rebid
+RFP No. 14-80101507-SA-B
+Addendum 4
+                                                                                                     Page 28 of 30
+    10. Attachment B, is hereby revised as follows:
+
+
+
+                                                RFP No. 14-80101507-SA-B
+                                                    ATTACHMENT B
+                                           RESPONSIBLE VENDOR REVIEW FORM
+
+Vendor Name:              ________________________________________________________________
+
+Vendor Address:           ________________________________________________________________
+
+Respondents are required to answer the questions set forth below, and for each “YES” answer provide a detailed, written
+explanation (1 page) relevant to each “YES” answer and attach copies of documents relevant to written explanation(s)
+provided. The Department reserves the right to request additional information as needed.
+
+The undersigned, as an authorized representative of the above-named Vendor, having direct knowledge of the legal affairs
+and contractual relationships and responsibilities of Respondent, hereby attests to the accuracy of the following information:
+
+    1. Within the past five (5) years, have there been any civil or criminal judgments or administrative actions or
+       settlements against the above-named vendor?
+
+        YesNo
+
+
+    2. Within the past five (5) years, has the vendor had any of its contracts terminated for cause?
+
+        YesNo
+
+
+
+____________________________________
+SIGNATURE:
+
+____________________________________
+SIGNED BY (Print Name):
+
+____________________________________
+DATE:
+
+
+
+SUBSCRIBED AND SWORN to before me this _____ day of ___________, 2016, by ______________,
+
+________________________ who is personally known to me, or who has produced the following form of
+
+Identification: ___________________________________
+Notary Signature: ________________________________                                  (Seal)
+Name of Notary: _________________________________
+                 (print, type, or stamp)
+
+
+
+
+ Information Technology Staff Augmentation Services Rebid
+ RFP No. 14-80101507-SA-B
+ Addendum 4
+                                                                                                               Page 29 of 30
+    11. Attachment C, is hereby revised as follows:
+
+
+                                               RFP No. 14-80101507-SA-B
+                                                   ATTACHMENT C
+                                            FINANCIAL CERTIFICATION FORM
+As a risk management best practice and part of the responsible Respondent determination (pursuant to ss. 287.057 and
+287.012, F.S.) the Department requires this Financial Certification regarding the Respondents’ financial stability, viability
+and capacity. The Respondent shall submit this Financial Certification with its response. To be eligible for award as a
+responsible Respondent, Respondent must be able to respond “YES” to each statement on this Attachment.
+
+I, _______________________________________ am the _____________________ of
+                (Authorized Representative’s Name)                            (Title)
+
+_______________________________ hereinafter “Respondent”, and am legally authorized to
+        (Respondent’s Name)
+
+represent and bind the responding Vendor. Having been duly sworn, I do hereby certify the following:
+    1. I have direct knowledge of the financial condition and operations of Vendor.
+       YesNo
+
+    2. To the best of my knowledge and belief, Vendor has financial resources sufficient to pay its immediate and short-
+       term obligations.
+       YesNo
+
+    3. To the best of my knowledge and belief, Vendor has financial resources sufficient to pay its long-term obligations
+       and remain in business over the life of the Contract.
+       YesNo
+
+    4. To the best of my knowledge and belief, Vendor’s operations generate income which exceeds Vendor’s operating
+        expenses.
+        YesNo
+
+    5. To the best of my knowledge and belief, Vendor has the capacity to provide the goods or services as specified in
+        the Contract document, the solicitation, and the response.
+        YesNo
+
+____________________________________
+SIGNATURE:
+
+____________________________________
+SIGNED BY (Print Name):
+
+____________________________________
+DATE:
+
+SUBSCRIBED AND SWORN to before me this _____ day of ___________, 2016, by ______________,
+
+________________________ who is personally known to me, or who has produced the following form of
+
+Identification: ___________________________________
+Notary Signature: ________________________________                                  (Seal)
+Name of Notary: _________________________________
+                 (print, type, or stamp)
+
+
+
+
+ Information Technology Staff Augmentation Services Rebid
+ RFP No. 14-80101507-SA-B
+ Addendum 4
+                                                                                                              Page 30 of 30
+

@@ -1,0 +1,1411 @@
+    REQUEST FOR PROPOSAL
+Information Technology Software,
+Hardware, Services and Solutions
+
+
+       Issued December 21, 2018
+
+
+        Responses due via email
+     by 4:30pm CT on January 25, 2019
+Table of Contents
+ I.      Introduction ............................................................................................................................................................... 4
+ II.     Description of SURS ................................................................................................................................................. 4
+ III. Scope of Products and Services Required ....................................................................................................... 5
+ IV. Qualifications ............................................................................................................................................................ 6
+ V.      Proposal Content ...................................................................................................................................................... 6
+
+  Cover Letter .......................................................................................................................................................... 7
+
+  Statement of Qualifications .................................................................................................................................. 7
+
+  Reference Checks.................................................................................................................................................. 7
+
+  Questionnaire ....................................................................................................................................................... 7
+
+  Fee Proposal ......................................................................................................................................................... 7
+
+  Contract ................................................................................................................................................................ 7
+
+  Project Schedule ................................................................................................................................................... 7
+
+ VI. Submission of Proposals ....................................................................................................................................... 7
+ VII. Evaluation Process .................................................................................................................................................. 8
+
+  Pre-Evaluation Review .......................................................................................................................................... 8
+
+  Proposal Evaluation .............................................................................................................................................. 8
+
+ VIII. Anticipated Timeline and Contact Information ..........................................................................................10
+ IX.     Submission Process ...............................................................................................................................................10
+  Deadline .............................................................................................................................................................. 10
+
+  Withdrawal ......................................................................................................................................................... 10
+
+  Questions ............................................................................................................................................................ 10
+
+ X.      General Conditions ................................................................................................................................................11
+  Freedom of Information Act Disclosure.............................................................................................................. 11
+
+  Redacted Version of RFP Response .................................................................................................................... 11
+
+  Ordinary Course of Business Communications Allowed ..................................................................................... 11
+
+  SURS Quiet Period Policy .................................................................................................................................... 12
+
+  Rights Reserved .................................................................................................................................................. 12
+
+  Equal Opportunity .............................................................................................................................................. 13
+
+  Terms and Conditions ......................................................................................................................................... 13
+
+ Appendix A: Statement of Qualifications ................................................................................................................11
+ Appendix B: Questionnaire .........................................................................................................................................12
+                                                                                         2
+ Contact and Company Information: .................................................................................................................... 12
+
+ Organization Background: ................................................................................................................................... 12
+
+Appendix C: Fee Proposal .............................................................................................................................................14
+Appendix D: Addendum to Contract.........................................................................................................................16
+Appendix E: Technology Products and Services ..................................................................................................18
+
+ GENERAL DEFINITION OF PRODUCTS AND/OR SERVICES ................................................................................... 18
+
+ Technology Products .......................................................................................................................................... 18
+
+ Technology Services and Solutions ..................................................................................................................... 18
+
+ Acer Products, Services and Solutions ................................................................................................................ 19
+
+ Adobe Products, Services and Solutions ............................................................................................................. 19
+
+ Amazon Web Services Products, Services and Solutions.................................................................................... 19
+
+ Apple Products, Services and Solutions .............................................................................................................. 19
+
+ Cisco Products, Services and Solutions ............................................................................................................... 20
+
+ Citrix Products, Services and Solutions ............................................................................................................... 20
+
+ CommVault Products, Services and Solutions .................................................................................................... 20
+
+ Dell Products, Services and Solutions ................................................................................................................. 20
+
+ EMC² Products, Services and Solutions .............................................................................................................. 21
+
+ Fortinet Products, Services and Solutions .......................................................................................................... 22
+
+ Google Products, Services and Solutions ............................................................................................................ 22
+
+ HP (Inc.) Products ............................................................................................................................................... 22
+
+ HP (e) Products, Services and Solutions ............................................................................................................. 22
+
+ IBM Products, Services and Solutions................................................................................................................. 23
+
+ Jabra Products, Services and Solutions ............................................................................................................... 23
+
+ Kofax Products, Services and Solutions .............................................................................................................. 23
+
+ Lenovo Products, Services and Solutions ........................................................................................................... 23
+
+ Lexmark Products, Services and Solutions.......................................................................................................... 23
+
+ Logitech Products, Services and Solutions.......................................................................................................... 23
+
+ Microsoft Products, Services and Solutions........................................................................................................ 23
+
+ Mimecast Products, Services and Solutions ....................................................................................................... 24
+
+ NetApp Products, Services and Solutions ........................................................................................................... 24
+
+ Palo Alto Products, Services and Solutions......................................................................................................... 24
+
+ Panasonic Products, Services and Solutions ....................................................................................................... 24
+
+                                                                                  3
+    Plantronics Products, Services and Solutions ..................................................................................................... 25
+
+    Proofpoint Products, Services and Solutions ...................................................................................................... 25
+
+    Quest Products, Services and Solutions.............................................................................................................. 25
+
+    Samsung Products, Services and Solutions ......................................................................................................... 25
+
+    Symantec Products, Services and Solutions ....................................................................................................... 25
+
+    Veeam Products, Services and Solutions ............................................................................................................ 26
+
+    Veritas Products, Services and Solutions ............................................................................................................ 26
+
+    VMware Products, Services and Solutions ......................................................................................................... 26
+
+    Template for pricing information ....................................................................................................................... 26
+
+  Appendix F: Products and Services of Prime Interest.......................................................................................27
+
+    Lot #1 Hardware and Hardware Maintenance ................................................................................................... 27
+
+    Lot #2 Software (licensing, upgrades and maintenance).................................................................................... 28
+
+    Lot #3 Services .................................................................................................................................................... 29
+
+
+
+
+  I.       Introduction
+
+The State Universities Retirement System (“SURS” or the “System”) is soliciting proposals from qualified and
+authorized Partners and Distributors to establish a multi-year Master Services Agreement (MSA) which acts as
+a procurement vehicle for Information Technology products, services, solutions and related products and
+services.
+All forms/required documents needed for submitting a Request for Proposal (“RFP”) are available on the SURS
+website at www.surs.org.
+A proposer’s preparation and submittal of a proposal or subsequent participation in presentations or contract
+negotiations creates no obligation on the System to award a contract or to pay any associated costs. All
+proposals and related materials will be retained by the System and will be subject to disclosure as required in
+accordance with the Illinois Freedom of Information Act.
+
+
+II.        Description of SURS
+
+SURS is the administrator of a cost-sharing, multiple employer, public employee retirement system that
+provides retirement, survivor, disability and death benefits to employees of Illinois state universities,
+community colleges, and certain other affiliated organizations and agencies. SURS was created in 1941, by an
+act of the Illinois General Assembly, and is governed by the Illinois Pension Code (40 ILCS 5/15-101 et seq.).
+SURS provides benefit services to over 230,000 members who work for 61 employers. SURS is responsible for
+investing assets of more than $19 billion in a diversified portfolio of U.S. and foreign stocks, bonds, real estate
+and alternative investments. SURS also administers a defined contribution plan, the Self-Managed Plan, which
+currently has assets of approximately $2.2 billion. Northern Trust serves as SURS’ Master Trustee Custodian.
+
+                                                                                    4
+An elected and appointed, eleven-person, Board of Trustees, governs SURS. The chairperson of the Board of
+Trustees is, by statute, the chairperson of the Illinois Board of Higher Education. Five members of the Board are
+appointed by the governor of the state of Illinois. The remaining six members of the Board are elected by
+participating members (four individuals) and annuitants (two individuals). Our trustees serve six-year terms.
+SURS is funded by participant payroll deductions and annual employer contributions provided by the state of
+Illinois. By statute, SURS is defined as a “body politic and corporate” created by Article 15 of the Illinois Pension
+Code.
+SURS currently employs approximately 132 staff, located in 2 offices in Champaign and Naperville, Illinois. Two
+SURS employees are in the Naperville office. The remaining SURS employees are situated in the Champaign
+office.
+A copy of SURS’ most recent Comprehensive Annual Financial Report (CAFR) is available for review, or to
+download, at www.surs.org.
+The Illinois Governmental Ethics Act, 40 ILCS 420, provides guidelines for ethical practices concerning state and
+local pension plans. Respondent providers should be familiar with the provisions of this Act.
+Section 1-109.1(6) of the Illinois Pension Code (40 ILCS 5/1-109.1(6)) encourages Illinois public pension systems
+like SURS to utilize businesses owned by “minorities”, “women”, and “persons with disabilities” for all
+contracts and services, as those terms are defined in the Business Enterprise for Minorities, Women, and
+Persons with Disabilities Act (“BEMWPD”,30 ILCS 575). Additionally, Section 1-109.1(10) of the Illinois Pension
+Code (40 ILCS 5/1-109.1(10)) sets an aspirational goal of not less than 20% of contracts awarded to such
+businesses for "information technology services", "accounting services", "insurance brokers", "architectural
+and engineering services", and "legal services" as defined by the BEMWPD. Accordingly, businesses that meet
+these definitions are strongly encouraged to submit responses to this RFP.
+A section of the Illinois Procurement Code concerning prohibitions of political contributions for vendors, 30
+ILCS 500/50-37, may or may not apply to SURS service providers. However, each service provider should be
+familiar with the provisions of this section and comply with this section if the service provider deems it
+appropriate.
+SURS is subject to its own procurement statutes and rules. Responders should be familiar with those
+procurement requirements as well. The selected responder will be paid by SURS directly.
+Further legal requirements that vendors should be familiar with are contained in the Addendum to Contract
+under Appendix D.
+
+
+III.     Scope of Products and Services Required
+
+The State Universities Retirement System is soliciting proposals from qualified vendor(s) to enter into a Master
+Agreement for the procurement of a complete line of Technology Products, Services, Solutions and Related
+Products and Services. These include but are not limited to the products and services noted in Appendix E and
+Appendix F. SURS reserves the right to select all or some of license products and services listed in Appendix E
+that best match its needs and budget for the product.
+SURS recognizes that any one Supplier may not provide all product lines. No computer-related products,
+supplies or services are excluded from this RFP. All computer product, supplies and accessories carried in a
+Supplier’s catalog(s), price book(s) or otherwise available by special order are part of this solicitation. User
+conference passes and other training and certification opportunities are in-scope and would be viewed as
+value-added offerings.
+
+                                                            5
+Multiple awards may be issued as a result of this RFP. Multiple Awards will ensure that any ensuing Master
+Agreements fulfill SURS current and future requirements.
+
+
+
+
+IV.       Qualifications
+The following is a list of qualifications that will be used when evaluating potential vendors. Mandatory
+qualifications are noted. Respondents will be asked to confirm their qualifications via Appendix A.
+      •   The responder’s key professionals and/or organization must not have material conflicts with the SURS
+          Board. (Mandatory)
+      •   Cisco Gold Certified Partner
+      •   HP Gold or Platinum partner
+
+      •   Dell Partner Direct Preferred or Premier Partner
+
+      •   Panasonic Authorized Reseller Partner
+
+      •   EMC² Gold or Platinum Partner
+      •   Comm Vault Value-Added Reseller
+
+      •   Symantec Gold or Platinum Partner
+      •   VMware Enterprise or Premier Partner
+
+      •   Microsoft Gold or Silver Certified Partner
+
+      •   Authorized Microsoft Dynamics Partner and Solution Provider
+
+      •   Citrix Gold Solutions Advisor or Platinum Solutions Advisor
+
+      •   NetApp Platinum or Star Partner
+
+      •   3 year or greater licensing and support term
+      •   Azure Cloud Readiness Assessment offering available
+      •   Azure Cloud Migration Services offering available
+
+      •   Consultative feedback on an ongoing basis
+
+      •   History of working with pension fund desirable
+      •   Online self-service portal for ordering, supporting API interfaces to financial systems and other levels
+          of customization
+
+
+ V.       Proposal Content
+
+At a minimum, the proposal must include the following information to be considered for the engagement. For
+ease of review, each requirement should be addressed separately.
+
+
+
+
+                                                             6
+Cover Letter
+A cover letter, which will be considered an integral part of the proposal package, in the form of a standard
+business letter, must be signed by an individual authorized to bind the proposer contractually. This cover
+letter must indicate the signer is so authorized and must indicate the signer’s title or position. An unsigned
+proposal will be rejected. The cover letter must also include:
+
+          a. A statement that the proposal meets all requirements of this RFP, and that the offer
+              tendered by the proposal will remain in full force and effect until and may be accepted
+              by SURS at any time prior to 30 days beyond the deadline for submittal.
+
+          b. A disclosure of any current business relationship or any current negotiations for
+              prospective business with SURS, or with any member of the Board of Trustees or SURS staff,
+              or any party currently rendering services to SURS.
+          c. A statement that the proposer acknowledges that all documents submitted in response to this
+              RFP may be subject to disclosure under the Illinois Freedom of Information Act and/or the
+              Illinois Open Meetings Act.
+
+Statement of Qualifications
+Proposers must complete and return the Qualifications Certification in the form contained in Appendix A.
+
+Reference Checks
+Reference checks will be conducted for each finalist.
+
+Questionnaire
+The questionnaire contained in Appendix B to this RFP must be completed and returned as part of the proposal
+
+Fee Proposal
+Proposers must submit a proposal in the format prescribed in Appendix C. Any deviation from the prescribed
+format which in the opinion of SURS is material and may result in the rejection of the proposal. The proposed
+fee shall include all costs and expenses for providing the services and equipment as described in this RFP, and
+any agreed-upon extended warranties that are associated with initial installation. Once finalists are selected,
+fees may be subject to a “best and final” offer process to be determined at the discretion of the System.
+The fee proposal must expressly state that the proposed discount structures are guaranteed for the term of
+any resulting contract.
+
+Contract
+This Request for Proposal is neither a contract nor meant to serve as a contract. It is anticipated that one or
+more of the proposals submitted in response to this Request for Proposal may be selected as the basis for
+negotiation of a contract with the proposer. Such a contract is presently contemplated to contain, at a
+minimum, the terms of the proposal submitted, as finally negotiated and approved by the System. SURS
+reserves the right to negotiate additions, deletions, or modifications to the terms of proposals submitted.
+However, the terms contained in Appendix D, Addendum to Contract, must be agreed to and accepted by the
+candidate or organization selected to perform the work contemplated by this RFP.
+
+Project Schedule
+The submission must include a preliminary project schedule based on the number of calendar days required to
+perform the work following the award of the contract.
+
+
+VI.      Submission of Proposals
+                                                           7
+ All proposals must be received no later than the deadline stated in the Anticipated Timeline and Contact
+ Information section. Submissions must be made via email to the identified contact person by the stated
+ deadline. Only email submissions will be accepted.
+ The proposals become the property of SURS upon submission. All costs for developing proposals and attending
+ presentations and/or interviews are entirely the responsibility of the proposer and shall not be chargeable to
+ SURS.
+ Only one proposal from an individual, firm, partnership, corporation, or combination thereof, will be
+ considered for this assignment.
+
+
+VII.      Evaluation Process
+
+ Pre-Evaluation Review
+ All proposals will be reviewed to determine if they contain all the required submittals specified in this RFP.
+ Those not submitting all required information in the prescribed format will be rejected.
+
+ Proposal Evaluation
+ All proposals received by the SURS representative on or before the deadline listed above will be reviewed to
+ determine whether they meet the minimum requirements of this RFP.
+ All proposals received by deadline and pass the pre-evaluation review will undergo an evaluation process
+ conducted by SURS staff. They will be reviewed to determine whether they meet the requirements of this RFP.
+ SURS will consider the following factors in the evaluation process, ranked in no specific order, and will render a
+ decision based on the perceived best fit and best value for the engagement. Fees will be one of the
+ determining factors in this decision but will not be the primary determinative. Proposals will be evaluated
+ based on criteria including:
+
+           •    Understanding of the services requested
+           •    Timeline for recommended solution to be implemented
+           •    Proposed deliverables
+           •    Relevant knowledge, experience and qualification of firm and team members including
+                established record of success in similar work
+           •    References
+           •    Willingness to negotiate contract terms, including length of contract terms
+           •    Breadth and quality of products/services
+           •    Service, support, product warranty and maintenance
+           •    Financials, i.e. pricing and terms that provide for increased discounts and lower overall cost,
+                rebates, other financial incentives
+           •    Administration, i.e. reporting capabilities
+           •    Order placement/delivery/installation
+           •    On-line capabilities, including electronic ordering, e-commerce, procurement cards, billing and
+                access to supplier’s electronic catalogs
+           •    Adherence to RFP requirements which closely align with SURS institutional policies, federal,
+                state, and local legal and regulatory requirements and policies
+           •    Environmentally sustainable products and Green Purchasing/Sustainability initiatives
+           •    Supplier diversity, including Historically Underutilized Businesses (HUBs), Woman and Minority
+                Business Enterprises (WMBEs) and Small Business Enterprises as defined by the Small Business
+                Administration (SBA)
+                                                            8
+          •    Added value incentives and services
+          •    Other information as deemed relevant by SURS
+
+Proposals that contain false or misleading statements or that provide references which do not support an
+attribute or condition claimed by the proposer will be rejected. Issuance of the Request for Proposal creates no
+obligation to award a contract or to pay any costs incurred in the preparation of a proposal. Nothing in this
+RFP or any resulting contract shall preclude SURS from procuring services similar to those described herein
+from other sources.
+During the evaluation process, proposers may be requested to provide additional information and/or clarify
+contents of their proposal. Other than information requested by SURS, no proposer will be allowed to alter the
+proposal or add new information after the filing date.
+Once finalists are selected, fees may be subject to a “best and final” offer process to be determined at the
+discretion of the System.
+
+
+
+
+                                                          9
+VIII.     Anticipated Timeline and Contact Information
+      Schedule                                          Dates
+      Quiet Period Begins                               December 21, 2018
+      RFP Issued                                        December 21, 2018
+      Deadline for Responder Questions                  January 11, 2019
+      Response to Questions                             January 15, 2019
+      RFP Responses due 4:30 p.m. CT                    January 25, 2019
+      Evaluations and Candidate Interviews              January 28 – February 15, 2019
+      Anticipated Project Start Date                     March 1, 2019
+      SURS may extend these deadlines at its discretion. Any such extensions will be posted to the SURS website.
+
+      SURS RFP Contact Information
+      Procurement Officer
+      Procurement_Officer@surs.org
+      SURS
+      1901 Fox Drive
+      Champaign, IL 61825-2710
+
+
+
+
+ IX.      Submission Process
+
+  Deadline
+  To be considered for selection, proposals must be received via e-mail in Adobe Acrobat format at
+  Procurement_Officer@surs.org no later than 4:30 p.m. CT, January 25, 2019. Please reference the “IT Software
+  Hardware and Services RFP Response - Name of Responder” in your communications. An email confirmation
+  will be sent confirming receipt of the proposal.
+
+  Withdrawal
+  A proposal may be withdrawn any time prior to the deadline by written notification signed by the individual
+  applicant or authorized agent of the firm and received at Procurement_Officer@surs.org no later than the
+  deadline of 4:30 p.m. CT, January 25, 2019. Please reference the “IT Software Hardware and Services RFP
+  Response - Name of Responder” in your communications. An email confirmation will be sent confirming
+  withdrawal of the proposal. The proposal may be resubmitted with any modifications no later than the
+  deadline. Modifications offered in any other manner will not be considered.
+
+  Questions
+  To clarify any issues in this Request for Proposal, SURS will respond only to questions that are presented in
+  writing via e-mail to Procurement_Officer@surs.org. All questions should be submitted to SURS by 4:30 p.m.
+  CT, January 11, 2019. Please reference the “IT Software Hardware and Services RFP Response - Name of
+  Responder” in your communications. These questions will be consolidated into a single Q&A document and
+
+                                                            10
+responded to by SURS on, or about, January 15, 2019. The Q&A document will be posted on the SURS web site
+at www.surs.org/rfp without indicating the source of the query.
+
+
+
+
+ X.      General Conditions
+
+Freedom of Information Act Disclosure
+All materials submitted in response to the RFP become property of SURS. Proposals remain confidential during
+the selection process. However, upon completion of the selection process, all responses, including that of the
+individual, vendor or firm selected, will be a matter of public information and will be open to public inspection
+in accordance with the state of Illinois Freedom of Information Act (FOIA).
+If, in response to this RFP, trade secrets or commercial or financial information are furnished under a claim that
+they are proprietary, privileged or confidential and that disclosure of the trade secrets or commercial or
+financial information would cause competitive harm to the person or business responding to this RFP, such
+claim must be clearly made, and such information must be clearly identified. (5 ILCS 140/7 and 7.5) Responses
+to this RFP with every page marked as proprietary, privileged or confidential will not satisfy this
+requirement. Bidders are required to make a good faith attempt to properly identify only those portions of the
+response that are truly furnished under a claim that they are proprietary, privileged or confidential and that
+disclosure of the trade secrets or commercial or financial information would cause competitive harm to the
+person or business responding to this RFP.
+
+Redacted Version of RFP Response
+In the event Responder believes and claims that certain materials or information contained in the submitted
+response are exempt from public disclosure under the Illinois FOIA, Responder is required to provide a
+redacted version of the response it believes will be suitable for release under the Illinois Freedom of
+Information Act. (5 ILCS 140/7 and 7.5)
+A RESPONDER’S FAILURE TO PROVIDE A REDACTED VERSION OF THE RFP WILL RESULT IN SURS DISCLOSING
+THE RESPONDER’S ENTIRE RFP RESPONSE IF THE SAME IS REQUESTED UNDER THE ILLINOIS FOIA AND
+NEITHER THE RESPONDER NOR ANY THIRD PARTIES SHALL HAVE ANY RECOURSE AGAINST SURS FOR ITS
+DISCLOSURE OF THE NON-REDACTED RFP RESPONSE.
+However, any claim of privilege from disclosure is not definitive. SURS has the right and legal obligation to
+determine whether such information is exempt from disclosure under the Illinois Freedom of Information Act
+and no information will be considered or determined by SURS to be proprietary, privileged or confidential
+unless it is identified and separated as indicated herein. (5 ILCS 140/7 and 7.5)
+
+Ordinary Course of Business Communications Allowed
+Other than existing normal business matters, respondents, potential respondents, or their representatives
+should not contact anyone at SURS (including SURS staff, members of the SURS advisory committees and
+members of the SURS Board) other than the listed RFP contact. In addition, respondents must not discuss this
+RFP with any employee of SURS, trustee of SURS, employee of SURS’ custodian, managers, legal counsel, or
+other advisors or persons/entities having contracts or other affiliations with SURS.
+
+
+
+
+                                                         11
+SURS Quiet Period Policy
+Please note the following Quiet Period Policy establishing guidelines by which the SURS Board of Trustees and
+SURS Staff will communicate with prospective vendors or service providers during a search process. The Quiet
+Period for this RFP began on the date the RFP was issued: December 21, 2018.
+
+1.   The quiet period shall commence upon Committee action (or Board action if the selection is not initiated
+     through a Committee) to authorize a search for a service provider and end once a selection has been made
+     by the Board and accepted by the service provider;
+
+2.   Initiation, continuation and conclusion of the quiet period shall be publicly communicated via the SURS
+     website (www.SURS.org) to prevent inadvertent violations;
+
+3.   All Board members, and SURS staff not directly involved in the search process, shall refrain from
+     communicating with potential service providers regarding any product or service related to the search
+     offered by the provider throughout the quiet period and shall refrain from accepting meals, travel, hotel, or
+     other value from the providers;
+
+4.   Throughout the quiet period, if any Board member or SURS staff member is contacted by a potential service
+     provider, the Board member or SURS staff member shall refer the provider to the SURS staff member
+     directly involved in the search process;
+
+5.   All authority related to the search process shall be exercised solely by the relevant Committee or Board as a
+     whole, and not by individual Board Members;
+
+6.   All information related to the search process shall be communicated by SURS staff to the relevant
+     Committee or Board as a whole, and not to individual Board Members;
+
+7.   The quiet period does not prevent Board approved due diligence, client conference attendance, or
+     communications with an existing service provider that happens to be a provider in the ordinary course of
+     services provided by such service provider; however, discussions related to the pending selection shall be
+     avoided during those activities;
+
+8.   The provisions of this policy will apply to potential service providers throughout the quiet period and shall
+     be communicated to providers in conjunction with any competitive proposal process; and
+
+9.   A potential service provider or vendor may be disqualified from a search process for a violation of the Quiet
+     Period or any portion of this policy.
+
+Rights Reserved
+SURS reserves the right to amend any segment of the RFP prior to the announcement of a selected
+vendor/contractor. In such an event, all respondents will be afforded the opportunity to revise their proposals
+to accommodate the RFP amendment.
+SURS reserves the right to remove any or all services from consideration for this contract. At its discretion,
+SURS may issue a separate contract for any service or groups of services included in this RFP. SURS may
+negotiate additional provisions to the contract awarded pursuant to this RFP.
+SURS may request additional information from any or all bidders to assist in the evaluation of proposals, and
+SURS reserves the right to conduct background investigations of selected individuals or firms prior to awarding
+a contract under this RFP.
+SURS does not bear any obligation to complete the RFP process or to select any individual(s) or firm(s). SURS
+also reserves the right without prejudice to reject any or all proposals submitted.
+SURS will NOT reimburse any expenses incurred in responding to this RFP.
+                                                           12
+Equal Opportunity
+SURS does not discriminate because of race, color, religion, creed, sex, sexual orientation, age, marital status,
+military status, certain unfavorable discharges from military service, political affiliation, citizenship, ancestry,
+national origin, physical or mental handicap or disability or any other characteristic protected by law. It is the
+System’s intent to comply with all state, federal, and local equal employment and opportunity laws and public
+policies.
+
+Terms and Conditions
+Following a review of submitted materials, if requested, selected individuals or organizations must be prepared
+to make a presentation or otherwise participate in an in-person interview in Champaign, IL or in Chicago, IL
+with SURS staff members and/or members of the SURS board of trustees at a date and location to be
+determined by SURS. SURS will not provide reimbursement for any costs incurred by the individuals or
+organizations associated with this presentation. Prior to the award of a contract pursuant to this RFP, selected
+individuals or firms must provide all requested documentation.
+
+
+
+
+                                                           13
+Appendix A: Statement of Qualifications
+
+
+(Firm Name)                                                              certifies that it meets the following
+minimum qualifications.
+Please initial each item applicable to your organization.
+
+_______       1.    The responder’s key professionals and/or organization has no material conflicts with the SURS Board *
+_______       2.    Cisco Gold Certified Partner
+_______       3.    HP Gold or Platinum partner
+_______       4.    Dell Partner Direct Preferred or Premier Partner
+_______       5.    Panasonic Authorized Reseller Partner
+_______       6.    EMC² Gold or Platinum Partner
+_______       7.    Comm Vault Value-Added Reseller
+_______       8.    Symantec Gold or Platinum Partner
+_______       9.    VMware Enterprise or Premier Partner
+_______      10.    Microsoft Gold or Silver Certified Partner
+_______      11.    Authorized Microsoft Dynamics Partner and Solution Provider
+_______      12.    Citrix Gold Solutions Advisor or Platinum Solutions Advisor
+_______      13.    NetApp Platinum or Star Partner
+_______      14.    3 year or greater licensing and support term
+_______      15.    Azure Cloud Readiness Assessment offering available
+_______      16.    Azure Cloud Migration Services offering available
+_______      17.    Consultative feedback on an ongoing basis
+_______      18.    History of working with pension fund desirable
+_______      19.    Online self-service portal for ordering, supporting API interfaces and other levels of customization
+
+
+                    * Indicates Mandatory Qualification
+
+Signed: _______________________________________________
+Date: __________________
+Title: _______________________________________________
+
+
+
+
+                                                            11
+Appendix B: Questionnaire
+
+ The following questionnaire must be completed and included with your response to this RFP. Type your
+ responses in the same order as the questionnaire, listing the question first followed by your answer.
+
+
+
+Contact and Company Information:
+
+ Name of Individual / Organization:
+ Mailing Address:
+
+
+ City:                                     State:                Zip Code:        Phone:
+ Fax:
+
+
+ Federal Employer Identification Number:
+
+
+ Contact Person(s):
+ Name:                                          Phone:                                           Title:
+
+
+ Fax:                                           Email:
+ Website:
+
+
+Organization Background:
+1. Please provide a general description and history of the organization, its operations (please include any history
+of mergers and/or acquisitions), year founded, ownership structure, biographies of the principals and percentage
+ownership by current employees.
+
+2. Provide a brief, descriptive statement detailing evidence of the respondent’s ability to deliver the goods or
+services sought under this RFP.
+
+3. Is Respondent a “Minority owned business,” meaning a business which is at least 51% owned by one or more
+minority persons, or in the case of a corporation, at least 51% of the stock in which is owned by one or more
+minority persons; and the management and daily business operations of which are controlled by one or more of
+the minority individuals who own it? If so, please provide a detailed explanation.
+
+4. Is Respondent a “Female owned business,” meaning a business which is at least 51% owned by one or more
+females, or, in the case of a corporation, at least 51% of the stock in which is owned by one or more females; and
+the management and daily business operations of which are controlled by one or more of the females who own
+it? If so, please provide a detailed explanation.
+
+5. Is Respondent a “Business owned by a person with a disability,” meaning a business that is at least 51% owned
+by one or more persons with a disability and the management and daily business operations of which are
+                                                          12
+controlled by one or more of the persons with disabilities who own it? A not-for-profit agency for persons with
+disabilities that is exempt from taxation under Section 501 of the Internal Revenue Code of 1986 is also
+considered a "business owned by a person with a disability". If so, please provide a detailed explanation.
+
+
+
+
+                                                        13
+Appendix C: Fee Proposal
+
+ Please include detail regarding scope and cost of services, deliverables and timeframe for completion of the
+ project.
+
+
+
+
+  FIRM NAME:         _______________________________________________________
+
+
+  ADDRESS:       _______________________________________________________
+
+
+  ____________________________________________________________________
+
+
+  TELEPHONE: _______________________________________________________
+
+
+  REPRESENTATIVE: __________________________________________________
+  Please include:
+       1.   Schedule/lead times
+       2.   Appendix E: Technology Products and Services.
+                a.    Provide pricing for all products, services and solutions supported by your firm in a format
+                      that is clear, concise and easily understood.
+                b.    Software and Hardware pricing to be shown as fixed discount percent off Manufacturer
+                      List Price, or any other widely-verifiable base cost
+                c.    Services pricing to be shown as hourly rates
+                d.    Maintenance pricing to be shown with monthly/annual rates
+       3.   Appendix F: Products and Services of Prime Interest
+                a.    Provide pricing for products and services within each Lot supported by your firm
+                b.    Software and Hardware pricing to be shown as fixed discount percent off Manufacturer
+                      List Price, or any other widely-verifiable base cost
+                c.    Services pricing to be shown as hourly rates
+                d.    Maintenance pricing to be shown with monthly/annual rates
+       4.   Proposals must include a full description of each service offering. Services may include but not
+            limited to installation/de-installation, staging/deployment, asset tagging, image loading,
+            maintenance, support, training, migration, integration, asset management, recycling/disposal,
+            pre-implementation design, disaster recovery planning and support, helpdesk, technical
+            support.
+  Indicate project duration and frequency of visits (if applicable) below.
+                                                        14
+___________________________________________________________________
+
+
+___________________________________________________________________
+
+
+___________________________________________________________________
+
+
+Cost for additional meetings, if requested by SURS: $______________________________
+
+
+I, _________________________________________, an authorized representative of the above-indicated
+firm, have reviewed and understand the ______________________ Request for Proposals, and I/we am/are
+prepared to provide the required services for the above costs.
+
+
+
+
+__________________________________
+
+
+(SEAL)
+
+
+ATTACH A MINIMUM OF TWO PROJECT REFERENCES, SIMILAR IN DESIGN AND SCOPE.
+
+
+ATTACH LIMITS OF COVERAGE FOR PROFESSIONAL LIABILITY INSURANCE.
+
+
+
+
+                                                15
+Appendix D: Addendum to Contract
+
+                                            ADDENDUM TO CONTRACT
+
+
+
+    In consideration of SURS entering into such contract, the Vendor/Contractor also agrees to the following:
+
+1) If the Contractor is an individual, he or she certifies that he or she is not in default on an educational
+    loan as provided in Section 3 of the Educational Loan Default Act, 5 ILCS 385/3.
+
+2) The Contractor certifies that it is not barred from being awarded a contract or subcontract because of a
+    conviction or admission of guilt for bribery or for bribing an officer or employee of the State of Illinois or
+    any other state in that officer or employee’s official capacity as provided in Section 50-5 of the Illinois
+    Procurement Code, 30 ILCS 500/50-5.
+
+3) The Contractor certifies that it will provide a drug free workplace by engaging in the conduct
+    prescribed in Section 3 of the Drug Free Workplace Act, 30 ILCS 580/3.
+4) The Contractor certifies that it is not barred from contracting with SURS because of a violation of either
+    Section 33E-3 (bid-rigging) or 33E-4 (bid rotating) of Article 33E of the Criminal Code of 1961, 720 ILCS
+    5/33E.
+
+5) The Contractor certifies that neither it nor any substantially owned affiliated company is participating or
+    shall participate in an international boycott in violation of the provisions of the
+    U.S. Export Administration Act of 1979 or the regulations of the U.S. Department of Commerce
+    promulgated under that Act.
+
+6) The Contractor certifies that no fees, commissions, or payments of any type have been or will be paid to any
+    third party in connection with the contract to which this is an addendum, except as disclosed in the contract
+    or an exhibit thereto as provided in 30 ILCS 500/50-25 and in 40 ILCS 5/1-
+    145. The Contractor shall promptly notify SURS if it ever has reason to believe that this certification is no
+    longer accurate.
+
+7) To the extent Illinois law is applicable to Contractor, pursuant to 775 ILCS 5/2-105, Contractor agrees to:
+    a) Refrain from unlawful discrimination and discrimination based on citizenship status in employment and
+         undertake affirmative action to assure equality of employment opportunity and eliminate the effects
+         of past discrimination;
+
+    b) Comply with the procedures and requirements of the Illinois Department of Human Rights’
+         regulations concerning equal employment opportunities and affirmative action;
+    c) Provide such information, with respect to its employees and applications for employment, and
+         assistance as the Illinois Department of Human Rights may reasonably request; and
+
+    d) Have written sexual harassment policies that shall include, at a minimum, the following
+         information:
+         i)    The illegality of sexual harassment;
+         ii)   The definition of sexual harassment under State law;
+
+                                                           16
+        iii) A description of sexual harassment, utilizing examples;
+            iv) Contractor’s internal complaint process including penalties;
+            v)   The legal recourse, investigative and complaint process available through the Illinois
+                 Department of Human Rights and the Illinois Human Rights Commission;
+         vi)     Directions on how to contact the Illinois Department of Human Rights and the Illinois Human
+                 Rights Commission; and
+         vii)    Protection against retaliation as provided by Section 6-101 of the Illinois Human Rights Act. A
+                 copy of the policies shall be provided to the Illinois Department of Human Rights upon request.
+
+8) To the extent it applies to Contractor and this contract, Contractor agrees to comply with the Illinois
+    Prevailing Wage Act, 820 ILCS 130/1, et seq.
+
+9) Contractor shall maintain, for a minimum of five (5) years after the completion of the contract, adequate
+    books, records, and supporting documents to verify the amounts, recipients, and uses of all disbursements
+    of funds passing in conjunction with the contract. Contractor shall further make all such books, records, and
+    supporting documents related to the contract available for review and audit by the internal auditor of SURS
+    and by the Illinois Auditor General and shall cooperate fully with any audit conducted by the internal auditor
+    of SURS and the Illinois Auditor General and will further provide the internal auditor of SURS and the Illinois
+    Auditor General full access to all relevant materials.
+
+10) Contractor agrees to notify the SURS Ethics Officer if it solicits or intends to solicit for employment any of
+    the employees of SURS during the term of the contract.
+11) Contractor understands that SURS and this contract are subject to the provisions of the Illinois Open
+    Meetings Act (5 ILCS 120/1, et seq) and the Illinois Freedom of Information Act (5 ILCS 140/1, et seq).
+
+12) Counterparts. This Agreement and Addendum may be executed in counterparts, each of which shall be
+    deemed to be an original, but all of which, taken together, shall constitute one and the same agreement.
+    The counterparts of this Agreement and Addendum may be executed and delivered by facsimile or other
+    electronic signature by any of the parties to any other party and the receiving party may rely on the receipt
+    of such document so executed and delivered by facsimile or other electronic means as if the original had
+    been received.
+Under penalties of perjury, Contractor certifies that                                                            is
+its correct Federal Taxpayer Identification Number.
+Contractor is doing business as a(n) (please circle applicable entity):
+
+
+
+    • Individual                       •   Sole Proprietorship                  •   Partnership
+
+    • Corporation                      •   Not-for-Profit                       •   Medical and Health Care
+                                           Corporation                              Services Provider
+                                                                                    Corporation
+
+    • Real Estate Agent                •   Governmental Entity                  •   Tax Exempt Organization
+                                                                                    (IRC 501(a) only)
+
+    • Trust or Estate                  •   Other: _____________
+
+
+
+
+                                                            17
+Appendix E: Technology Products and Services
+
+GENERAL DEFINITION OF PRODUCTS AND/OR SERVICES
+
+Offerors are to propose the broadest possible selection of TECHNOLOGY PRODUCTS, SERVICES, SOLUTIONS, AND
+RELATED PRODUCTS AND SERVCES they offer. The intent of this solicitation is to provide SURS with products and
+services to meet their various needs. A template for providing pricing information is included at the bottom of
+this Appendix. Therefore, the Offerors should have demonstrated experience in providing the Products and
+Services as defined in this RFP, including but not limited to:
+
+Technology Products
+A complete portfolio of technology products such as desktops, laptops, tablets, PDA’s, servers, storage,
+ruggedized devices, thin clients, printers, monitors, multifunction printers, scanners, plotters, projectors, video
+conferencing, teleconferencing, analog phones, VoIP phones, conference phones, audiovisual equipment such as
+computer video interfaces, switchers, matrix switchers, distribution amplifiers, video scalers, scan converters,
+processing devices Ethernet control interfaces and high resolution cables, instructional equipment, security
+equipment, cabling, modems, wired and wireless networking, networking to support server, storage and client
+applications such as routers and switches, software, computer accessories, computer components, power
+protection, data protection, video cameras, virtualization products, systems and network management tools,
+database products, data center facilities (racks, fire suppression, electrical, HVAC, generator, physical access
+controls) as well as any other technology products available from Offeror.
+
+Technology Services and Solutions
+A complete portfolio of technology services and solutions such as systems configuration, testing, software
+copying, hardware and software installation, upgrades and/or maintenance, system integration, network
+integration, extended warranties, warranty service, staff augmentation and any other services and solutions
+available from Offeror. Specific requirements will be developed on a task order basis and may include, but is not
+limited to, services and solutions such as:
+    •    Virtualization: Transform data center with virtualization to consolidate servers, reduce energy
+         consumption, increase IT capacity, add system flexibility and prepare for cloud computing.
+    •    Physical Security: Security solutions seaports, airports, water and wastewater, transportation, critical
+         infrastructure, perimeter defense, physical and logical access control, identity management,
+         antiterrorism protection, automated alarms and alerts, integration with databases containing critical
+         security information, cyber security and asset management, endpoint security and other network
+         security and IT security.
+    •    Communications: Communication solutions to converge voice, data and video communications onto a
+         single, secure IP-based network.
+    •    Cloud: Cloud solutions for scalable computing and storage capacity and rapid self-provisioning
+         computing capabilities. This may include, but is not limited to, Cloud Infrastructure as a Service (IaaS),
+         Cloud Software as a Service (SaaS) and Cloud Platform as a Service (PaaS).
+    •    Infrastructure: Infrastructure solutions such as data center management, network modernization and
+         migration, desktop virtualization, risk and vulnerability management, and IT service management.
+    •    Data Management: Data management solution which uses technologies such as thin provisioning, de-
+         duplication and automated storage tiering to improve storage utilization.
+
+
+                                                           18
+    •    Visual Communications: Visual communications that integrate audio, video, voice and presentation
+         capabilities.
+    •    UCC (Unified Communications and Collaboration): UCC video teleconferencing solutions that provide for
+         critical infrastructure, emergency operations centers, command rooms, fusion centers, training rooms,
+         and classrooms.
+    •    Broadcast Studio: Broadcast studio solutions for staff that oversee communications and public
+         broadcast efforts which provide integration (system design engineering), fabrication, budgeting,
+         scheduling, engineering, architectural planning (technical grounding, power distribution and facility load
+         requirements), and equipment specification (video, audio, network and storage technologies).
+    •    Mobility: Mobility services to keep users connected, responsive and secure such as email protection,
+         download prevention, containerize content on devices, self-destructing content, and content linked back
+         to the user.
+    •    Asset Management: Asset management solutions to identify and manage installed software, hardware
+         and license entitlements.
+    •    Data Protection: Data protection to protect, backup, recover and archive data and applications.
+    •    Financial Services: Financing options such as lease, lease to own, lease with option to own, and IT as a
+         Service.
+    •    Other Services and Solutions: Services and solutions not listed above that may be proposed by Offeror.
+
+
+
+Acer Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Acer.
+
+
+
+Adobe Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Adobe.
+
+
+
+Amazon Web Services Products, Services and Solutions
+Amazon Web Services Products and Services: A complete offering of Amazon Web Services products and
+services including, but not limited to, global compute, storage, database, analytics, application and deployment
+services to power web and mobile applications, data processing and warehousing, storage and archive, as well as
+any other products and services offered by Amazon Web Services.
+Amazon Web Services Solutions: A complete offering of Amazon Web Services solutions including, but not
+limited to, cloud based solutions for websites, backup and recovery, archiving, disaster recovery, development
+and test, big data, high performance, databases, digital marketing, e-commerce, media and entertainment,
+mobile services, internet of things, enterprise IT, business applications, content delivery, health and any other
+solutions offered by Amazon Web Services.
+
+
+
+Apple Products, Services and Solutions
+A complete offering of Apple products, services and solutions including, but not limited to, MacBook, MacBook
+Air, MacBook Pro, iMac, Mac Pro, Mac mini, ipad mini, ipad, iphone, watch, ipod, Apple TV, accessories for all
+products, apps, servers, music, support and any other products, services or solutions offered by Apple.
+
+
+
+
+                                                           19
+Cisco Products, Services and Solutions
+Cisco Products: A complete offering of Cisco products including, but not limited to, application networking
+services products, blade switches, cloud and systems management, collaboration endpoints, conferencing,
+connected safety and security, customer collaboration, data center management and automation, data center
+switches, infrastructure software, interfaces and modules, networking software, optical networking, routers,
+security, servers, service exchange, storage networking, switches, unified communications, video, wireless, and
+any other products offered by Cisco.
+Cisco Services and Solutions: A complete offering of Cisco services and solutions including, but not limited to,
+cloud and systems management services, collaboration services, collaboration endpoints services, conferencing
+services, data center and virtualization services, enterprise network services, routing services, security services,
+services for application networking services, storage networking services, switching services, unified
+communication services, unified computing services, video services, wireless services and any other services and
+solutions offered by Cisco.
+
+
+
+Citrix Products, Services and Solutions
+Citrix Products: A complete offering of Citrix products, including but not limited to, Workspace Suite, Workspace
+Cloud, GoToMeeting, GoToTraining, GoToWebinar, OpenVoice, Podio, receiver for universal access from any
+device, XenMobile, ShareFile, Worx Moblie Apps, GoToAssist, Concierge, XenApp, XenClient, XenDesktop,
+NetScaler, CloudBridge, CloudPlatform, XenServer, CloudPortal Business Manager and any other products offered
+by Citrix.
+Citrix Services and Solutions: A complete offering of Citrix services and solutions including, but not limited to,
+application and desktop virtualization, enterprise mobility management, file sync and sharing, cloud networking,
+collaboration, cloud services and any other services and solutions offered by Citrix.
+
+
+
+CommVault Products, Services and Solutions
+ CommVault Products: A complete offering of CommVault software including Simpana software, but not limited
+to, backup and recovery, virtual machine, integration, replication, OnePass Backup and Archive, deduplication,
+reporting and insights, workflow automation, content-based retention, self-service access, search and
+eDiscovery, legal hold, ContentStore, and any other products offered by CommVault.
+ CommVault Solutions, Services and Support: A complete offering of CommVault solutions, services and support
+including, but not limited to, data and information management, enterprise applications, bundled appliances,
+solutions for specialized industries such as healthcare, government and education, consulting services,
+professional services, support and training and any other solutions, services and support offered by CommVault.
+
+
+
+Dell Products, Services and Solutions
+Dell Products:
+    •    General Products: A complete offering of Dell products including, but not limited to, laptops, notebooks,
+         PDA’s, desktops, workstations, thin clients, monitors, servers, accessories, battery back-up, power or
+         surge, cables, data storage and drives, networking, digital imaging such as cameras and scanners,
+         memory and system components, office equipment, sound and multimedia, telecommunications
+         products, video monitors, cards and projectors, interactive whiteboards, DVD’s, books, music and video.
+
+                                                           20
+    •    Software: A complete offering of Dell software including, but not limited to, information management,
+         data protection, data center and cloud management, mobile workforce management, security,
+         platforms and any other software offered by Dell.
+Dell Services and Solutions: A complete offering of Dell services and solutions including, but not limited to,
+support services, application modernization, application services, business process outsourcing, digital business
+services, cloud-based services, information security services, financing and leasing, IT consulting, managed
+services, training services, cloud solutions, data center solutions, security solutions, big data, information and
+data management, mobility and security solutions and any other services and solutions offered by Dell.
+
+
+
+EMC² Products, Services and Solutions
+EMC² Products:
+    •    Big Data: A complete offering of EMC² Big Data products including, but not limited to, storage, analytics,
+         applications and any other Big Data products offered by EMC².
+    •    Cloud: A complete offering of EMC² cloud products including, but not limited to, applications, data
+         protection, infrastructure, security, cloud enabled solutions and any other cloud products offered by
+         EMC².
+    •    Convergent Infrastructure: A complete offering of EMC² convergent infrastructure products including,
+         but not limited to, blocks, racks, appliances, reference architecture and any other convergent
+         infrastructure products offered by EMC².
+    •    Storage: A complete offering of EMC² storage products including, but not limited to, primary storage,
+         software-defined storage, enterprise applications storage, storage for small and medium organizations,
+         data protection products and any other storage products offered by EMC².
+    •    Security: A complete offering of EMC² security products including, but not limited to, authentication,
+         data loss prevention, data protection, fraud prevention, governance, risk and compliance, identity and
+         access management, network analytics, security information and event management, cyber security
+         framework, incident response assistance, and any other security products offered by EMC².
+EMC² Services and Solutions:
+    •    Big Data: A complete offering of EMC² Big Data consulting, services and solutions.
+    •    Cloud: A complete offering of EMC² cloud management, support, services and solutions.
+    •    Content Management: A compete offering of EMC² content management services and solutions
+         including, but not limited to, process management, capture, customer communications, collaboration,
+         pervasive governance and any other content management services and solutions offered by EMC².
+    •    Data Protection Solutions: A complete offering of EMC² data protection solutions including, but not
+         limited to, data protection solutions for Oracle, data protection solutions for Microsoft, data protection
+         solutions for SAP, data protection solutions for VMware, data protection solutions for EMC Enterprise
+         Hybrid Cloud, data protection solutions for Big Data, deduplication solutions, desktop, laptop and
+         remote office solutions, disaster recovery solutions, mainframe tape replacement solutions, tape
+         replacement solutions and any other data protection services and solutions offered by EMC².
+    •    Infrastructure Management: A complete offering of EMC² infrastructure management services and
+         solutions including, but not limited to, data center automation, IT operations management, IT
+         performance management, configuration and compliance management, storage resource management,
+         applications performance management, Vblock platform management and any other infrastructure
+         management services and solutions offered by EMC².
+
+
+
+                                                           21
+    •   Security: A complete offering of EMC² security services and solutions including, but not limited to,
+        advance security operations, authentication, data loss prevention, fraud prevention, network monitoring
+        and any other security services and solutions offered by EMC².
+    •   General Services and Solutions: A complete offering of any additional EMC² services and solutions
+        including, but not limited to, installation, support, warranties, training, and any other services and
+        solutions offered by EMC².
+
+
+
+Fortinet Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Fortinet.
+
+
+
+Google Products, Services and Solutions
+A complete offering of Google product, services and solutions including, but not limited to, Apps for work, cloud
+platform, maps for work, search for work, chrome for work, android for work, Google business solutions and any
+other products, services and solutions offered by Google.
+
+
+
+HP (Inc.) Products
+HP Inc. Products: A complete offering of HP products including, but not limited to:
+
+    •   Computers: Desktops, laptops, tablets, monitors, workstations, accessories, point of sale computers for
+        retail environments, thin client software portfolio, digital signage and any other computer equipment
+        and software available from HP.
+    •   Printers
+
+
+
+HP (e) Products, Services and Solutions
+HPe Products: A complete offering of HP products including, but not limited to:
+    •   Networking: Data center networking, software-defined networking, switches, wireless networking,
+        campus networking and any other networking available from HP.
+    •   Servers: Blade servers, scalable servers, integrity mission-critical servers, rack and tower servers and any
+        other servers available from HP.
+    •   Software: Application lifecycle management, big data analytics, business service management,
+        enterprise security, hybrid cloud management, information governance, information management, IT
+        service management, mobile solutions, operations management, software-defined data center, DevOps
+        solutions and any other software available from HP.
+    •   Storage: Primary storage, backup, recovery and archive storage, enterprise application storage, primary
+        storage, software-defined storage, Simply StoreIT solutions and any other storage available from HP.
+
+
+HP Services and Solutions: A complete offering of HPe services and solutions including, but not limited to,
+analytics and data management, applications services, business process services, data center, workload and cloud
+services, enterprise security services, IT financing and asset recovery services, mobility and workplace services,
+support services, technology consulting, computing services, big data solutions, cloud solutions, mobility
+solutions, security solutions, converged systems solutions, small and midsize organization solutions, total access
+education solutions, and any other services and solutions offered by HPe.
+
+                                                          22
+IBM Products, Services and Solutions
+IBM Products:
+    •    General Products: A complete offering of IBM products including, but not limited to, laptops,
+         notebooks, PDA’s, desktops, workstations, thin clients, monitors, servers, accessories, battery back-up,
+         power or surge, cables, data storage and drives, networking, digital imaging such as cameras and
+         scanners, memory and system components, office equipment, sound and multimedia,
+         telecommunications products, video monitors, cards and projectors, interactive whiteboards, DVD’s,
+         books, music and video.
+    •    Software: A complete offering of IBM software including, but not limited to, information management,
+         data protection, data center and cloud management, mobile workforce management, security,
+         platforms and any other software offered by IBM.
+IBM Services and Solutions: A complete offering of IBM services and solutions including, but not limited to,
+support services, application modernization, application services, business process outsourcing, digital business
+services, cloud-based services, information security services, financing and leasing, IT consulting, managed
+services, training services, cloud solutions, data center solutions, security solutions, big data, information and
+data management, mobility and security solutions and any other services and solutions offered by IBM.
+
+
+
+Jabra Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Jabra.
+
+
+
+Kofax Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Kofax.
+
+
+
+Lenovo Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Lenovo.
+
+
+
+Lexmark Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Lexmark.
+
+
+
+Logitech Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Logitech.
+
+
+
+Microsoft Products, Services and Solutions
+Microsoft Products:
+
+    •    Devices: A complete offering of Microsoft devices including, but not limited to, Surface products, PC’s
+         and tablets, Xbox, Lumia Phones, Microsoft Band, Microsoft HoloLens, Microsoft Surface Hub,
+         accessories and any other devices offered by Microsoft.  Software and Apps: A complete offering of
+         Microsoft software and apps, including but not limited to, Office, Windows, other software and services
+                                                           23
+        such as Microsoft Health, Microsoft Security Essentials, Skype, Internet Explorer, OneDrive, Outlook,
+        OneNote, Bing, Visual Studio, Visio, Project, and MSN, apps, games, downloads, Developer and IT Pro,
+        Business and Enterprise such as cloud platform, data availability, business analytics, customer
+        relationship management, Enterprise Mobility Suite, Enterprise resource and planning, business
+        software and apps such as Microsoft Dynamics, Microsoft Power BI, Microsoft SQL Server, Windows
+        Server, Microsoft System Center, Visual Studio, Microsoft Azure, Microsoft Social Engagement, Windows
+        Embedded, Microsoft Intune, OneDrive for Business, Exchange Server, SharePoint and any other
+        software and apps offered by Microsoft.
+ Microsoft Services and Solutions: A complete offering of Microsoft services and solutions including, but not
+limited to, support, licensing and any other services and solutions offered by Microsoft.
+
+
+
+Mimecast Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Mimecast.
+
+
+
+NetApp Products, Services and Solutions
+ NetApp Products: A complete offering of NetApp products, including but not limited to, hybrid data storage,
+software and converged infrastructure, enterprise all-flash data storage, software and converged infrastructure,
+hardware and software for cloud storage and any other products offered by NetApp. 3.1.17.2. NetApp Services
+and Solutions: A complete offering of NetApp services and solutions to build a cloud-ready data center,
+accelerate enterprise application performance, protect and recover data, strategy, design, deploy and transition,
+operations, training, certification, support and any other services and solutions offered by NetApp.
+
+
+
+Palo Alto Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Palo Alto.
+
+
+
+Panasonic Products, Services and Solutions
+Panasonic Products:
+    •   Communications: A complete offering of Panasonic communication systems including, but not limited
+        to, business communication systems, HD visual communication systems, IP phones and any other
+        communications products, applications and accessories offered by Panasonic.
+    •   Security Systems: A complete offering of Panasonic security systems including, but not limited to,
+        network cameras, video recorders, interfaces, software and converters, analog cameras, digital video
+        recorders, switchers and controllers, remote head cameras, module cameras, wearable cameras,
+        security viewer application and any other security systems and accessories offered by Panasonic.
+    •   Personal Computers: A complete offering of Panasonic computers including, but not limited to, rugged,
+        semi-rugged and business-rugged Toughbooks and Toughpads and any other personal computers and
+        accessories offered by Panasonic.
+    •   Professional AV: A complete offering of Panasonic professional AV equipment including, but not limited
+        to broadcast and professional AV equipment such as camcorders, camera systems, switchers and mixers,
+        monitors and accessories, visual systems such as projectors, professional displays and accessories, sound
+        systems such as public address systems, infrared wireless microphone systems and RAMSA audio
+        systems and any other professional AV and accessories offered by Panasonic.
+
+                                                          24
+    •    Terminals: A complete offering of Panasonic terminals including, but not limited to, handheld tablets,
+         point of sale workstations and any other terminals offered by Panasonic.
+    •    Soft Module Products: A complete offering of Panasonic soft module products including, but not limited
+         to, audio and video processing software, voice recognition software, image recognition software and any
+         other soft module products offered by Panasonic.
+    •    Recording Media: A complete offering of Panasonic recording media including, but not limited to, SD
+         cards for professional camcorders, SD memory cards for industrial use, blue-ray disc, ADA (advanced disc
+         for archive, DV cassettes and any other recording media offered by Panasonic.
+Panasonic Services and Solutions: A complete offering of Panasonic services and solutions including, but not
+limited to, installation, product configurations, product support, warranties, insurance, railway industry solutions
+and any other services and solutions offered by Panasonic.
+
+
+
+Plantronics Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Plantronics.
+
+
+
+Proofpoint Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Proofpoint.
+
+
+
+Quest Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Quest.
+
+
+
+Samsung Products, Services and Solutions
+A complete offering of Samsung products, services and solutions including, but not limited to, Galaxy Tabs, Galaxy
+Notes, Wi-Fi Tablets, 4G / LTE Tablets, Laptops, Desktops, Chrome Devices, All-in-One PCs, Monitors, Printers, Cell
+Phones, Wearable Tech, Memory & Storage, Home Theater & Audio, IP Cameras, Security Systems, TVs,
+accessories for all products, apps, servers, music, support and any other products, services or solutions offered by
+Samsung.
+
+
+
+Symantec Products, Services and Solutions
+Symantec Products: A complete offering of Symantec security products including, but not limited to, advanced
+threat protection, code signing, control compliance suite, data loss prevention, DeepSight security intelligence,
+email security, encryption, endpoint management (Altiris), internet of things, endpoint protection, incident
+response, managed security services, mobile security and management, Norton, protection suite, SSL certificates,
+user authentication and any other security products offered by Symantec.
+Symantec Services and Solutions: A complete offering of Symantec services and solutions including, but not
+limited to, consulting, education services, managed services, support services, appliance services, licensing,
+technical support, training and certification, threat protection solutions, information protection solutions, cyber
+security services, enterprise mobility management, and any other services and solutions offered by Symantec.
+
+
+
+
+                                                           25
+Veeam Products, Services and Solutions
+A complete offering of product, services and business solutions offered by Veeam.
+
+
+
+Veritas Products, Services and Solutions
+ Veritas Products: A complete offering of Veritas Information Management products including, but not limited
+to, archiving and eDiscovery, backup exec, information fabric technology platform, InfoScale, NetBackup,
+NetBackup appliances, storage foundation high availability, system recovery and any other offered by Veritas.
+ Veritas Services and Solutions: A complete offering of Veritas services and solutions including, but not limited
+to, consulting, education services, managed services, support services, appliance services, licensing, technical
+support training and certification, and any other services and solutions offered by Veritas.
+
+
+
+VMware Products, Services and Solutions
+ VMware Products: A complete offering of VMware products including, but not limited to, data center and cloud
+infrastructure, networking and security, storage and availability, hyper-converged infrastructure, data center and
+cloud management, personal desktop software, business mobility software, desktop and application
+virtualization software, enterprise mobility management software and any other products offered by VMware.
+VMware Services and Solutions: A complete offering of VMware services and solutions including, but not limited
+to, cloud computing, software-defined data center, virtualization, business mobility, data center virtualization
+and hybrid cloud extensibility, streamlined and automated data center operations, application and infrastructure
+delivery automation, security controls native to infrastructure, high availability and resilient infrastructure, and
+any other services and solutions offered by VMware.
+
+
+
+Template for pricing information
+
+Please provide pricing information for supported Manufacturer products, services and solutions in a format that
+is clear, concise and easily understood. The template below has been provided as a guideline.
+
+
+
+ Manufacturer         Product, Service,     Rate or        List any criteria for              Notes
+                      or Solution           Discount%      enhanced pricing, if
+                                                           available
+
+
+
+
+                                                          26
+Appendix F: Products and Services of Prime Interest
+
+SURS has identified a subset of specific products, software and services that are identified ‘of prime interest’
+with a higher sense of urgency due to upcoming projects. Respondents should provide current pricing for
+these items based on estimated quantities for purchase, although this is not a guarantee of purchase order.
+This list is divided into 3 separate lots. Please follow the pricing guidelines as defined in Appendix C. This will
+be used for vendor evaluation.
+SURS recognizes that any one Supplier may not provide all product lines within a given lot. PLEASE INDICATE
+THE LOTS YOU ARE RESPONDING TO IN THIS PORTION OF THE PROPOSAL:
+_____ Lot #1 - Hardware and Hardware Maintenance (including but not limited to: desktops, workstations,
+laptops, tablets, thin clients, Printers and Scanners, Servers, Storage, Network Devices, Peripherals and
+Accessories monitors/displays, memory, docking stations, input devices, storage devices and systems, video
+projectors, cameras, audio and headsets).
+_____ Lot #2 - Software (operating systems, commercial off-the-shelf (COTS), middleware)
+_____ Lot #3 - Related Services and Support
+
+
+
+
+                        Lot #1 Hardware and Hardware Maintenance
+
+The following Hardware and Hardware Maintenance items with quantity greater than 1 are targeted for Fiscal
+Year 2019 (July 1, 2018 – June 30, 2019). Other items are for comparison purposes and may or may not be
+purchased in FY 2019.
+
+ Qty                Description                                                         Price
+ 17                 Cisco Smartnet Catalyst 3750 Switch WS-C3750G24TS-S1U
+                    maintenance 1 year
+ 2                  Cisco Smartnet 2921 Router CISCO2921-SEC/K9 maintenance 1 year
+ 1                  Cisco Smartnet 2921 Router CISCO2911-SEC/K9 maintenance 1 year
+ 2                  Cisco Smartnet Catalyst 3650 WS-C3650-24PD-S maintenance 1
+                    year
+ 1                  Laptop: Lenovo ThinkPad P52s - 15.6" - Core i5 8350U - 8 GB RAM -
+                    256 GB SSD Mfr Part #:20LB0010US
+ 1                  Lenovo Desktop Computer ThinkCentre M710q (10MR0004US)
+ 1                  Lenovo ThinkPad USB-C Dock 40A90090US
+ 2                  Palo Alto Networks PA-3020
+ 5                  Cisco One Catalyst 3650 48-Port Full POE 2X10G Mfr. Part#: C1-
+                    WS3650-48FD/K9
+ 10                 Cisco Aironet 2702i Controller-based - wireless access point Mfr. #
+                    AIR-CAP2702I-A-K9
+ 2                  Lexmark printers 50 ppm MS811dn
+
+
+
+                                                             27
+                Lot #2 Software (licensing, upgrades and maintenance)
+
+Microsoft Licensing and Support are targeted for Fiscal Year 2019 (July 1, 2018 – June 30, 2019). Other Licensing
+and Software Maintenance will be needed as current contracts expire.
+
+ Qty                Description                                                         Price
+ Microsoft Licensing and Support (all pricing should be for annual cost unless otherwise specified)
+ 3                  Microsoft Exchange Server - License & software assurance - 1
+                    server - academic - Enterprise, Select, Select Plus, EES - All
+                    Languages
+ 150                Microsoft Exchange Server - License & software assurance - 1
+                    user CAL - Select, Select Plus - Win - All Languages
+ 15                 Microsoft SQL Server Standard Edition - License & software
+                    assurance - 1 server - academic - Enterprise, Select, Select Plus,
+                    EES - Win - All Languages
+ 30                 Microsoft SQL Server - License & software assurance - 1 device
+                    CAL - Campus, School, Enterprise, Select, Select Plus, EES - Win -
+                    All Languages
+ 150                Windows 10 Pro - Upgrade license - 1 license - Select Plus - All
+                    Languages
+ 50                 Microsoft Windows Virtual Desktop Access - Subscription license
+                    - 1 device - Select, Select Plus, EES - Win - All Languages
+ 50                 Microsoft Windows Remote Desktop Services - License &
+                    software assurance – 1 user CAL - Enterprise, Select, Select Plus -
+                    Win - All Languages
+ 8                  Microsoft Windows Server Datacenter Edition - License &
+                    software assurance – 2 cores - Enterprise - All Languages
+ 10                 Microsoft Windows Server Standard Edition - License & software
+                    assurance – 2 cores - Enterprise - All Languages
+ 150                Microsoft Windows Server - License & software assurance - 1
+                    CAL - academic - Select, Select Plus - All Languages
+ 10                 Microsoft Visual Studio Professional with MSDN - License &
+                    software assurance – 1 user - Select, EES - Win - All Languages
+ 20                 Microsoft CRM licenses and/or Microsoft Dynamics 365
+ 150                Microsoft Office 365 G3 level licenses
+ 5                  Microsoft Project Online Professional for Government
+ 20                 Microsoft Visio Online Plan 1 for Government
+ 5                  Microsoft Power BI Pro for Government
+ Other Licensing and Software Maintenance
+ 1                  VMWare vSphere support
+ 8                  Veeam Annual Basic Maintenance Backup Replication Phone
+                    Support Service
+ 1                  Adobe LiveCycle Designer
+ 5                  Adobe Creative Cloud for Teams
+ 1                  Quest software maintenance for NetVault Smartdisk
+                                                         28
+ 25                    Cisco XenDesktop Maintenance
+ 1                     Kofax Standard Support Image Vol 300k/Yr Ver 11
+ 1                     Kofax Standard Support KTM Unlimited Fields Extr Ver 11
+
+
+                                              Lot #3 Services
+
+Items listed in the Microsoft Services and Support section are actual projects targeted to be completed within
+the next 18 months. System Integration/Implementation Services and Networking Support are as needed.
+Please quote an hourly rate for services such as:
+
+ Description                                                                                     Hourly Rate
+ System Integration/implementation Services and Networking Support
+ Palo Alto Firewall Configuration Assistance
+ ISE Configuration and Upgrade Services
+ Cisco UCS, Switches, Routers and Wireless Controllers updates & configuration
+ changes
+ NetApp configuration, update and support
+ Encryption Assistance
+ Microsoft Services and Support
+ Assistance with Office 365 rollout to all staff & training
+ General Office 365 support
+ Assistance with Migration from Skype for Business to Teams (current Coexistence
+ mode – Islands)
+ Deploy security tools and features for email and other Office 365 workloads to
+ ensure SURS organizational data is protected.
+ Assist with implementation of Office 365 Security features
+ Office 365 eDiscovery and litigation hold setup and training
+ Intranet site migration to SharePoint
+
+
+
+
+                                                         29
+

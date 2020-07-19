@@ -1,0 +1,498 @@
+                     Request for Proposal (RFP) for:
+
+                     Technology Consulting Services
+
+     RFP Issued                                 March 8, 2018
+
+     Respondent’s Orientation                   March 13, 2018
+
+     Final Day to Submit Questions              March 21, 2018
+
+     Proposals Due                              March 28, 2018
+
+     Evaluation Completion                      April 4, 2018
+
+     Award Announced                            April 5, 2018
+
+     Contract Start Date                        April 9, 2018
+
+               Proposal must be received no later than
+               3:00 p.m. Pacific Daylight Time (PDT)
+                          March 28, 2018
+
+                  ABSOLUTELY NO EXCEPTIONS
+
+ SDWP is an equal opportunity employer and is committed to equal
+opportunity in its contracting process. Auxiliary aids and services are
+       available upon request to individuals with disabilities.
+                                                                                    Telecommunications Infrastructure RFP
+
+
+                                                       Table of Contents
+
+1. Introduction and Scope of Work ............................................................................................. 1
+   1.1 Purpose of RFP ..................................................................................................................... 1
+   1.2 Scope of Work ...................................................................................................................... 2
+   1.3 Contract Period ..................................................................................................................... 4
+   1.4 Organizational Overview & Governance.............................................................................. 4
+   1.5 Eligible Applicants................................................................................................................ 4
+   1.6 Addenda to this RFP ............................................................................................................. 4
+   1.7 Right to Cancel ..................................................................................................................... 4
+   1.8 Submittal of Proposals .......................................................................................................... 4
+   1.9 Questions and Answers about the RFP ................................................................................. 4
+2. Proposal Submission ................................................................................................................. 5
+   2.1 Cover Page ............................................................................................................................ 5
+   2.2 Proposal Narrative ................................................................................................................ 5
+      2.2.2 Project Approach (30 points) ......................................................................................... 5
+   2.3 Project Budget ....................................................................................................................... 6
+3. Evaluation Criteria and Contract Award............................................................................... 6
+   3.1 Evaluation Criteria and Access to Evaluation Information .................................................. 6
+   3.2 Contract Award ..................................................................................................................... 6
+      3.2.1 Negotiation/Contract ...................................................................................................... 6
+   3.3 Conflict of Interest ................................................................................................................ 7
+      3.3.1 Cooling Off Period ......................................................................................................... 7
+   3.4 General Provisions ................................................................................................................ 7
+      3.4.1 Contract Terms, Insurance and Litigation Warranty ..................................................... 7
+   3.5 Appeal Process ...................................................................................................................... 8
+   3.6 Restriction on Disclosure ...................................................................................................... 8
+
+
+
+
+                                                                       ii
+1. Introduction and Scope of Work
+
+1.1 Purpose of RFP
+
+Since its inception, the San Diego Workforce Partnership (SDWP) has followed a traditional IT
+path of internally building and managing the systems infrastructure for the headquarters location
+and six Job Centers (See Figure 1 Current Locations). While this has served the organization in
+the past, the infrastructure is aging, much of the hardware/software is no longer supported and
+SDWP believes the model is insufficient to meet future growth or business requirements for
+monitoring and support, system availability, and business recovery in the event of a disaster.
+
+                                            Figure 1 Current Locations
+ Site Name          Address                           City               State         Zip
+                    3910 University Ave
+ SDWP                                                San Diego           CA            92105
+                    Suite 400
+ East County        924 East Main                    El Cajon            CA            92021
+ Downtown Library   330 Park Ave                     San Diego           CA            92101
+                    1949 Avenida Del Oro
+ North Coastal                                       Oceanside           CA            92056
+                    Suite 106
+                    613 W. Valley Parkway
+ North Inland                                        Escondido           CA            92025
+                    Suite 220
+ South County       1111 Bay Blvd                    Chula Vista         CA            91911
+ South Metro        4389 Imperial Ave                San Diego           CA            92113
+
+
+As effective programs are increasingly dependent on technology for service delivery, in 2017,
+SDWP performed a gap analysis and established a IT strategic plan for the organization. This
+study identified areas in need of change to meet the future business requirements of the
+organization, including changes to the Wide Area Network that connects the job centers with
+SDWP, security of the network and system devices, shortage and bandwidth of in-house skills
+and competencies to support system needs, limitations with the system’s recoverability in the
+event of a disaster, and a need to improve the maintenance and support contracts on key IT
+infrastructure.
+
+Based on this analysis, the San Diego Workforce Partnership (SDWP) has approved an 18-month
+roadmap to transform an aging information technology infrastructure to meet the current and
+future needs of our workforce system (See Attachment A: Road Map). Specifically, SDWP will
+be:
+    • Replacing the existing Wide Area Network and Internet configuration to address existing
+        challenges with degraded performance for clients and remote users accessing internally
+        hosted business applications, lag times in routine task execution, limited ability to stream
+        multi-media content, and inability to maintain an offsite data backup system.
+    • Implementing Voice Over IP telephones to provide greater flexibility and expanded
+        features
+    • Transitioning servers to a Co-Location facility to provide secure, stable performance.
+    • Porting many of its business applications to cloud hosted platforms including 3rd party
+        application providers, custom-built solutions on Launch Pad (a Sales Force hosted
+        application), and file storage in Office 365
+    • Replacing Wi-Fi network at the HQ location and implementing Wi-Fi at select Job
+        Center locations
+    • Moving to a managed services support model to gain access to a deep bench of technical
+        expertise which can flex with our evolving network’s needs
+
+
+                                                        1
+   •   Designing and implementing a disaster recovery plan to protect program data and ensure
+       business continuity
+   •   Performing system tuning to ensure proper security protocols are in place
+   •   Piloting a leasing vs. purchase model for hardware for increased flexibility
+   •   Additionally, with the recent award of our Americas Job Center RFP to a single vendor
+       and ongoing changes in program needs, SDWP is assessing existing leases and will likely
+       transition one or more of the facilities within the coming year.
+
+SDWP is now looking for an expert consultant to manage the implementation of the strategic
+roadmap, including any site moves, and ensure the changes to organization’s IT infrastructure,
+whether physical or virtual, align with and support SDWP’s current and future business goals.
+SDWP seeks a perspective which is not only informed by industry standards and best-practices
+but also reasonable given our organization’s size, scope, and business requirements. SDWP
+seeks respondents with experience and technical skills providing IT project management and
+process improvement in the areas of:
+    • Network configuration and administration – WAN, LAN, Wifi
+    • Security – physical and virtual
+    • Telecommunications – Internet and Voice
+    • Transition to outsourced models, specifically Managed Services and Co-Location
+    • Office Re-location/site build out
+    • Disaster Recovery and Continuity of Operations
+    • IT vendor management
+
+1.2 Scope of Work
+SDWP intends to purchase consulting services for IT project management and process
+improvement for the duration of the calendar year to oversee key aspects of the roadmap
+implementation as well as concurrent site moves. The scope of work of this RFP is centered on
+managing multiple, complex work streams outlined in the technology roadmap in parallel with
+physical location shifts. Total costs for the contract that results from this RFP may not exceed
+$100,000 annually. While this is the maximum amount for this project, we will be evaluating
+bids on their value and relative costs and strongly encourage interested bidders to propose a set
+of services which are below this limit.
+
+Specifically, consulting services are required to oversee the following:
+   • Installation of Wi-Fi at 3 AJCC locations (procurement underway)
+   • Transformation of telecommunications infrastructure (procurement underway)
+   • Shift from in-house to managed services for network and Help Desk support
+       (procurement process slated to start in March)
+   • Transition of servers to a co-location facility (procurement process slated to start in
+       April/May)
+   • Potential site moves, to include site transition and or closure (in discussion)
+
+Specific tasks under this RFP include:
+
+   •   IT Project Management
+           o Lead multiple strategic and continuous improvement projects simultaneously (as
+              outlined in Section 1.1).
+           o Partner with project team members and stakeholders, including vendors, to ensure
+              timely and successful project completion.
+
+                                                2
+           o  Support the development of project charters, plans, and schedules; manage project
+              budgets, communication plans, project review meetings, and deliverables.
+          o Identify and monitor key measures to ensure project success and prepare project
+              status reports.
+          o Coordinate/facilitate/support all aspects of project management in regard to key
+              organizational, process and technology change projects to align systems and
+              operations with business objectives.
+          o Serve as strategic advisor to leadership team on IT initiatives
+   •   Process Improvement
+          o Gather requirements (as related to projects in Section 1.1) define and document
+              business processes/procedures using workflow modeling techniques.
+          o Analyze large amounts of quantitative and qualitative data and recommend
+              insights and solutions to leadership team.
+          o Use data insights, process knowledge and critical thinking to identify and validate
+              process improvement opportunities.
+          o Develop business cases for strategic and continuous improvement projects.
+   •   Communication and Change Management
+          o Create and deliver stakeholder and executive level project and business case
+              presentations.
+          o Support the development of presentations that deliver succinct/concise
+              recommendations to management team and be able to provide rationale and
+              justifications behind the recommendations.
+          o Partner with stakeholders to manage the impact of a project, including training,
+              communication and risk management plans.
+          o Ensure adoption of new tools and processes by identifying, monitoring and
+              communicating success metrics.
+          o Draft communications and partner with vendors to create and deliver updates to
+              policies and procedures.
+
+Deliverables shall include but not be limited to:
+   • Delivery of updates to the strategic roadmap, both as roll-out unfolds as well as annual
+       refresh
+   • Creation and maintenance of weekly dashboard to track status of all ongoing projects and
+       their dependencies
+   • Performance of technical reviews of vendor documentation, as part of ongoing roadmap
+       implementation
+   • Development of business process documentation, to include IT policies and procedures
+   • Vendor management during transition to Managed Services, change of physical location
+       and setup in co-location facility
+   • Creation of businesses cases and cost benefit analysis to support IT decision-making
+   • Delivery of regular briefings for SDWP IT leadership and/or larger leadership team
+
+Please note, these are high level tasks to help inform bidders’ proposal narratives and budget.
+Interested respondents should review the attached roadmap as well as the recent technology-
+related RFQ/RFPs issued by SDWP (available on our website) and propose a set deliverables to
+meet the objectives. Final contract Scope of Work with be based on SDWP needs, the selected
+bidders proposed timeline and approach (see section 2.0), and final negotiations with the selected
+bidder prior to contract award.
+
+
+
+                                                3
+1.3 Contract Period
+SDWP intends to award one contract that will begin on April 9, 2018 and end December 31,
+2018
+
+1.4 Organizational Overview & Governance
+SDWP is a 501(c)(3) tax-exempt organization chartered by the County and the City of San Diego
+to fund job training programs in the San Diego region. The organization’s primary funding is
+allocated by the U.S. Department of Labor (DOL) under the provisions of WIOA and is overseen
+under the leadership of the Workforce Development Board (WDB) and the Policy Board. For
+additional information on SDWP, visit workforce.org.
+
+1.5 Eligible Applicants
+For-profit and nonprofit organizations, public agencies, consortiums, and/or a collaboration of
+these organizations are all encouraged to apply. Consortiums, joint ventures, or collaboration of
+organizations with complementary skills and experience are encouraged to apply, but proposals
+need to clearly identify one legal entity as the prime respondent that will hold contracting
+responsibilities and liabilities.
+
+1.6 Addenda to this RFP
+SDWP may revise any part of this RFP and will release an addendum that will be posted on
+SDWP’s website, workforce.org/procurement. Respondents are responsible for checking the
+website to remain informed about the process and any changes that may affect the RFP. If
+respondents have difficulty or problems accessing the website or downloading information,
+contact SDWP at (619) 228-2954 or procurement@workforce.org.
+
+1.7 Right to Cancel
+SDWP reserves the right to delay, amend, reissue or cancel, all or any part of this RFP at any time
+without prior notice. SDWP also reserves the right to modify the RFP process and timeline as
+necessary. This RFP does not commit SDWP to accept any proposal or execute an agreement with
+any bidders, nor is SDWP responsible for any costs incurred by the respondents in the preparation
+of responses to this RFP. SDWP reserves the right to reject any or all proposals, to accept or reject
+any or all items in the proposal and to award the contracts in whole or in part as is deemed to be
+in the best interest of SDWP. SDWP reserves the right to negotiate with any respondent after
+proposals are reviewed, if such action is deemed to be in the best interest of SDWP.
+
+1.8 Submittal of Proposals
+SDWP must receive proposals no later than 3:00 p.m. PST, Wednesday March 28, 2018.
+
+PDF versions of written and signed proposals should be sent to procurement@workforce.org with
+the title of “Technology Consulting Services – [name of bidder] response”.
+
+Late proposals will not be accepted.
+
+1.9 Questions and Answers about the RFP
+All questions about this RFP must be submitted in writing to procurement@workforce.org with
+the name of the RFP in the subject line. The final day to submit questions will be on March 21,
+2018 at 3pm PDT. Questions received after that time will not be answered.
+
+
+
+                                                  4
+All questions and answers will be posted online at http://workforce.org/procurement. SDWP will
+respond to all questions no later than March 23rd, 2018.
+
+2. Proposal Submission
+
+ Section    Section Title                                         Page Limit(s)
+ 2.1        Cover Page                                            1 Page
+ 2.2        Proposal Narrative                                    10 pages
+ 2.3        Project Budget                                        1 Page
+
+2.1 Cover Page
+Include company name, address, phone number, website and federal tax identification number, as
+well as the name, phone number, email, and electronic signature for the person authorized to
+negotiate the contract and make decisions for the organization.
+
+2.2 Proposal Narrative
+The written narrative portion of the RFP cannot exceed 10 double-spaced pages. Content beyond
+the 10-page limit will be removed before proposals are evaluated. Proposals that do not include a
+proposal narrative will be disqualified and will not be considered for funding.
+
+Respondents must address the following sections in the proposal narrative:
+
+2.2.1 Organizational Qualifications and Project Management (20 points)
+
+   o Please provide an overview of your organization and your organizations experience and
+     qualifications for similar sized projects.
+
+   o Please describe the experience and qualifications of the project lead/project manager and
+     other key members of the project team.
+
+2.2.2 Project Approach (30 points)
+
+   o Please outline your project management approach including how you will address
+     competing timelines and inter-project dependencies.
+
+   o Please provide a concise timeline with key milestones and roles of responsibilities of
+     contractor and SDWP to achieve each milestone.
+
+   o Please describe your process for gathering stakeholder input and managing differing
+     perspectives.
+
+   o Please describe your experiences managing the following: transitions from in-house IT
+     support to managed services, site ramp up/down, transformation of telecommunications
+     structures and Wi-Fi installations.
+
+   o Please describe your experience managing external vendors against tight deadlines.
+
+
+
+
+                                                5
+   o Please provide specific risks you see related to this project and how your organization
+     with manage/mitigate these risks through your project management approach.
+
+2.2.3 Relevant Qualifications and References (20 points)
+
+   o Please describe projects where your organization has performed a similar scope of work
+     for other clients.
+
+   o Please provide at least three references including an overview of the work performed and
+     contact information.
+
+2.3 Project Budget (30 Points)
+
+Please provide a clear and concise budget that includes fully loaded hourly rates and # of hours
+for each staff member involved in the project by deliverable.
+
+3. Evaluation Criteria and Contract Award
+
+3.1 Evaluation Criteria and Access to Evaluation Information
+An RFP Scoring Panel will score and rank proposals and make a recommendation for funding.
+The selection will be based upon proposal information supplied by the respondent in response to
+this RFP.
+
+The following details the points assigned per section:
+
+      Proposal Section                                                 Point Value
+
+      2.2.1 Organizational Qualifications and Project Management                 20
+
+      2.2.2 Project Approach                                                     30
+
+      2.2.3 Relevant Qualifications and References                               20
+
+      2.3 Project Budget                                                         30
+
+      Total Points                                                              100
+
+
+
+3.2 Contract Award
+The RFP Scoring Panel’s recommendations will be finalized, and all bidders will be notified of
+the results by April 5, 2018.
+
+   3.2.1 Negotiation/Contract
+   The respondent’s designated authorized negotiator must be empowered to make binding
+   commitments for the successful respondent and its subcontractors, if any. SDWP reserves the
+   right to negotiate the final terms of the contract agreements with the successful respondent(s).
+   Items that may be negotiated include, but are not limited to, the scope of work, the
+   implementation schedule, and the final award amount. If any respondent recommended for
+   funding fails to provide services outlined in the agreement and proposal, SDWP may use an
+   alternate respondent to perform services upon board approval.
+
+
+                                                     6
+   3.2.2 This project is investment in SDWP’s infrastructure and operations (i.e. – is not a
+   programmatic funding contract to a subrecipient). Per SDWP’s approved signature authority
+   guidelines approved by the Board on February 18, 2016, such investments, if included in a
+   budget previously approved by the WDB and Policy Board, does not require separate board
+   approval.
+
+3.3 Conflict of Interest
+
+A completed Conflict of Interest Disclosure Form – Attachment E must be submitted even if
+there are no actual or potential conflicts of interest.
+
+   3.3.1 Cooling Off Period
+
+   SDWP, the WDB and the Policy Board shall not approve or contract with, and will reject any
+   bid or proposal submitted by an individual or entity who within the preceding twelve (12)
+   months was themselves or employs anyone who is a current, dismissed, separated, or formerly
+   employed person of SDWP, and:
+
+       a) Was employed in any position(s) of substantial responsibility in the area of service to
+          be performed by the contract; or
+       b) Participated in any way in the negotiations, transactions, planning, arrangements, or
+          any part of the decision-making process relevant to the proposed contract/service
+          agreement, or was or is employed in a role of substantial responsibility in the same
+          general subject area as the proposed contract; or
+       c) Is an owner, officer, principal, partner, or major shareholder of the proposed
+          subrecipient.
+
+   This prohibition will apply to any qualified person(s) leaving the employ of SDWP, and will
+   apply at all times during the twelve-month period beginning on the date the person left the
+   employment of SDWP, and will apply to any procurement issued or contract executed within
+   that twelve-month period. Potential respondents must detail any Cooling Off Period
+   disclosures on the Conflict of Interest Disclosure Form - Attachment E. The Policy Board
+   may, upon a showing of special circumstances that would justify the approval of such a
+   contract, waive this cooling off provision.
+
+3.4 General Provisions
+
+   3.4.1 Contract Terms, Insurance and Litigation Warranty
+
+   The RFP, any addenda, and the respondent’s response shall also become part of the contract
+   agreement between SDWP and the respondent. The respondent shall indicate in its proposal
+   any exceptions that the respondent takes to the terms and conditions in the Contract General
+   Provisions – Attachment or to any of the contents of this RFP. Contract terms required by the
+   respondent must be included or attached to the respondent’s proposal.
+
+   Respondents, by submitting a proposal, warrant that they are not currently involved in litigation
+   or arbitration concerning their performance as it relates to the same or similar services to be
+
+
+                                                 7
+   supplied pursuant to the referenced contract and that no judgments or awards have been made
+   against the respondents on the basis of their performance in supplying the same or similar
+   services, unless such fact is disclosed to SDWP in the proposal(s).
+
+   Disclosure of litigation will not automatically disqualify the respondents; however, SDWP
+   reserves the right to evaluate proposals) based on facts surrounding such litigation or
+   arbitration.
+
+3.5 Appeal Process
+
+Only respondents to this RFP may appeal the results if the procurement process was violated in
+some manner, and/or Federal, State, and/or SDWP procurement guidelines have been violated. An
+appeal will not be allowed to contest individual scores, the rating system, disqualification, or
+dissatisfaction with the evaluation results.
+
+The appeal process is:
+   • A written letter of appeal will be sent to procurement@workforce.org including:
+           o evidence for appeal and the specific relief sought.
+   • The written appeal must be received by SDWP within five business days from the date the
+       RFP recommendation is posted on SDWP’s website.
+   • An appeal review panel appointed by the WDB Chair will review the appeal.
+   • The panel will review the appeal and collect information. At their discretion, the panel may
+       request a meeting with the respondent and SDWP staff, and/or use other methods to gather
+       relevant information.
+   • Once all the information is gathered and reviewed, the panel will issue a written decision
+       to the appellant and the WDB.
+   • The decision of the appeal review panel will be final.
+
+3.6 Restriction on Disclosure
+Confidential information: Any information deemed confidential or proprietary by respondent must
+be clearly marked and identified by respondent as such and include an explanation of why such
+information is exempt from disclosure under applicable law.
+
+Such identified confidential or proprietary information will be protected and treated with
+confidentiality to the extent permitted by law. Information not protected from disclosure by law
+will be considered a public record.
+
+If respondent does not mark information as confidential or proprietary, SDWP will treat the
+information as public. All sections of the proposal including attachments are subject to release.
+
+Proposals will be received, maintained and disclosed to the public consistent with the California
+Public Records Act and the Freedom of Information Act. Proposals will be exempt from disclosure
+until the evaluation and selection process has been completed. Respondents should be aware that
+SDWP is required by law to make its records available for public inspection and copying, with
+certain exceptions (see California Public Records Act, California Government code §§6250 et.seq.
+and the Freedom of Information Act, 5 U.S.C. §552).
+
+SDWP will not notify respondent of requests for release of information or that SDWP released
+data unless SDWP receives a request for information previously marked and identified by
+
+                                                8
+respondent as confidential or proprietary. If SDWP receives a request for release of such
+previously marked and identified confidential or proprietary information, SDWP will notify
+respondent of such request to allow respondent to challenge such request consistent with applicable
+law.
+
+Respondent, by submission of materials marked confidential or proprietary, expressly
+acknowledges and agrees that neither SDWP nor the City or County of San Diego will have any
+obligation or liability to the respondent in the event a court of competent jurisdiction compels the
+disclosure of these materials.
+
+Any data to be returned should be so marked by respondent and will be returned if not essential to
+the proposal or contract record.
+
+
+
+
+                                                 9
+

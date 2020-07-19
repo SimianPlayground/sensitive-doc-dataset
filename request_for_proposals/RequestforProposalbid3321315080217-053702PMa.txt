@@ -1,0 +1,1593 @@
+                    RFP #17-20 RECREATION MANAGEMENT SOFTWARE
+
+     THE CITY OF SMITHVILLE REQUESTS SEALED PROPOSALS FOR THE FOLLOWING
+                                  SOFTWARE:
+
+Sealed Bids for a comprehensive, fully-integrated, public sector-specific Parks and Recreation
+Management Software will be received by the City of Smithville, Missouri, at the City Hall at 107
+West Main Street, Smithville, MO 64089, until 10:00 A.M. local time on August 23rd, 2017, at which
+time the Bids received will be publicly opened and read.
+
+Specifications for City Hall are set forth in the RFP and attached Exhibit(s).
+
+INSTRUCTIONS TO PROPOSERS:
+
+1.    Proposals must be addressed to Daniel Toleikis, Finance Director, 107 W. Main Street,
+      Smithville, Missouri 64089 and be received before 10:00 A.M. local time on August 23rd,
+      2017.
+
+2.    Pricing and anything pertaining to the RFP should be in a sealed envelope. It is preferred that
+      the PROPOSAL RESPONSE FORM in this RFP be used. Three (3) original proposals must be
+      included in a sealed and marked outer envelope by RFP number and date of closing. In
+      addition, one (1) electronic copy on a flash drive shall be provided, enclosed in the sealed
+      envelope. The only information we will read at the closing will be the vendors, or proposers
+      who responded. The closing is at 10:00 A.M. on the 23rd day of August, 2017, at City Hall.
+
+3.    Disabled persons wishing to participate in the RFP closing and who require a reasonable
+      accommodation may call the City at (816) 532-3897. A forty-eight-hour notice is required.
+
+4.    Any questions regarding this RFP should be directed to Daniel Toleikis, Finance Director.
+
+THE CITY OF SMITHVILLE RESERVES THE RIGHT TO REJECT ANY OR ALL PROPOSALS.
+
+
+
+__________________
+  Finance Director                            Issued: the 2nd day of August, 2017
+                CITY OF SMITHVILLE REQUEST FOR WRITTEN QUOTATIONS
+                       GENERAL INSTRUCTIONS AND CONDITIONS
+
+1.    Written quotations, subject to the conditions listed below and any special conditions set forth
+      in the attached specific Proposal, will be received by the City of Smithville, 107 W. Main
+      Street, Smithville, Missouri 64089, until the closing.
+
+2.    The City reserves the right to accept or reject any and all proposals and/or alternatives and
+      to waive technicalities, and to accept the offer that the City considers to be the most
+      advantageous.
+
+3.    Vendors, contractors or proposers should use the forms provided for the purpose of
+      submitting quotes and if applicable should give the unit price, extend totals, and sign the
+      quote as required in each specific instance.
+
+4.    If applicable identify the item you will furnish by brand or manufacturer’s name and catalog
+      numbers, as applicable. Also furnish all specifications and descriptive literature.
+
+5.    Whenever products or materials of any particular producer or manufacturer are mentioned in
+      our specifications, they are intended to be descriptive of type or quality and not restrictive to
+      those particular items mentioned.
+
+6.    The City of Smithville is exempt from payment of Missouri Sales and Use Tax in accordance
+      with Section 144.010 et seq. R.S.MO 1969 and is exempt from payment of Federal Excise
+      Taxes in accordance with Title 26 United States Code, Annotated.
+
+7.    The delivery date(s) or dates when work will start shall be stated in definite terms, as they
+      will be taken into consideration when making the award.
+
+8.    The City reserves the right to cancel all or any part of any order(s) if delivery and/or service
+      is not made or work is not started as guaranteed.
+
+9.    If applicable, prices must be stated in the units of quantity specified, if applicable, in the
+      Proposal and must be firm. Quotes qualified by escalator clauses may not be considered.
+
+10.   Any questions regarding this request may be addressed to Daniel Toleikis, Finance Director,
+      107 W. Main Street, Smithville, Missouri 64089, (816) 532-3897.
+
+11.   The Contractor must affirm its enrollment and participation in a federal work authorization
+      program with respect to the employees proposed to work in connection with the services
+      requested herein Pursuant to 285.530 RSMo.
+                   RFP #17-20 RECREATION MANAGEMENT SOFTWARE
+
+                            ARTICLE I GENERAL INFORMATION
+
+1.   The Board of Aldermen of the City of Smithville, Missouri (“City”) invites you to submit a
+     written Proposal for Integrated Public Sector Recreation Management Software, located at
+     107 W. Main Street, Smithville, MO 64089.
+
+2.   The term “RFP” means this Request for Proposal; the term “Contractor“, “Offeror”, “Vendor”,
+     “Bidder”, or “Proposer” refers to one who submits a proposal in response to the RFP; and the
+     term “Proposal” means the proposal of the Contractor, Offeror, Vendor, Bidder, or Proposer.
+
+3.   By submitting a Proposal, the Vendor agrees, if its proposal is accepted, to perform the
+     Service described in this RFP in accordance with the terms and conditions contained herein,
+     at the prices set forth in its Proposal.
+
+4.   Note: The Vendor is presumed to accept the RFP requirements. The Vendor must raise any
+     questions regarding the RFP requirements no later than three (3) days prior to the Closing
+     Date. In addition, the Vendor must list and outline, in their Proposal, any exceptions to the
+     RFP requirements and Contract requirements. The timeliness, nature and number of the
+     exceptions taken by the Vendor are among the factors that the City will consider in selecting
+     the successful Vendor.
+
+5.   Additional information and/or questions relating to this RFP can be obtained by contacting
+     Daniel Toleikis, Finance Director, 107 W. Main Street, Smithville, Missouri 64089; (816) 532-
+     3897.
+                            ARTICLE II PROPOSAL INSTRUCTIONS
+
+RFP PROPOSALS - CONTENTS AND SUBMISSION
+
+The City recognizes this type of initiative may vary greatly in scope, approach and deliverables
+from one firm to another. The City will evaluate the qualifications of prospective firms, proposed
+scope of services and the value of the proposed work.
+
+The City requests the following items from professional firms to complete and undertake the above
+referenced services:
+
+   1.    Name, address, and telephone number of Proposer(s).
+
+   2.    A completed Proposal Response Form attached to this Request for Proposal (preferred,
+         not required).
+
+   3.    Provide a concise overview of the system proposed.
+
+   4.    Provide an overview of the company, including ownership structure, number of
+         employees, and annual revenues.
+
+   5.    Specify the number of years the vendor has been in the public sector software business.
+         Provide public sector vs. private sector for number of clients, as well as revenue
+         percentage comparisons.
+
+   6.    Indicate whether the company is a parent or subsidiary in a group of companies.
+
+   7.    Indicate whether this company or product being proposed ever been purchased by
+         another company or acquired because of a merger or acquisition. If so, provide details
+         regarding the name of the companies involved, specific products affected and when such
+         merger or acquisition(s) took place.
+
+   8.    Identify what percentage of revenues this offered system represents to your company
+         verses other products offered.
+
+   9.    Provide a brief statement of the company’s background demonstrating longevity and
+         financial stability.
+
+   10.   Provide the company’s annual operating income/losses for the past five (5) years.
+
+   11.   Include a statement as to whether the company has a workforce reduction during the
+         past five (5) years. If so, provide details regarding workforce reductions: percentage of
+         workforce, areas affected, senior management team changes, etc.
+
+   12.   Provide details of all past or pending litigation, liens or claims filed against your company.
+
+   13.   Describe the seniority, tenure and background of the senior management team.
+
+   14.   Describe how your company measures customer satisfaction for software applications
+         and customer service & support.
+   15.   Describe the company’s commitment to research & development for the specific public
+         sector solution being proposed; include percentage of annual revenue invested in
+         application development of solution proposed.
+
+   16.   For each of the applications being proposed, please provide the following background
+         information: original development organization release, date of first release, and date of
+         most recent release.
+
+         Note: If any of the proposed applications were not originally developed by the proposing
+         vendor, please provide narrative details for the following subjects:
+
+                   Date of product merger / acquisition
+
+                   Name of the products and organizations involved
+
+                   Description of how integration / interfacing was accomplished (batch vs. real
+                   time, consolidated or separate databases, etc.)
+
+                   Description of the development technologies used for each product
+
+                   Status of the originating development team resources (retention rate, location)
+
+   17.   Describe the approach and resources needed to implement the proposed software.
+         Attach a proposed implementation schedule with key activities and estimated milestones.
+
+   18.   Describe your overall user training approach.
+
+   19.   Describe your company’s service & support philosophy, how it is carried out and how
+         success is measured.
+
+   20.   Describe your ongoing services and support, such as a toll-free customer service number,
+         annual training classes, online customer service web site and online software
+         maintenance.
+
+   21.   Provide a thorough description of help desk services including dial-in, web support,
+         ongoing maintenance, and days/hours of availability for customer support.
+
+   22.   Identify how you service and troubleshoot problems for your current clients.
+
+   23.   Provide resumes of proposed project team demonstrating recent project management
+         engagements.
+
+   24.   Describe anticipated software updates and enhancements, including frequency and
+         associated costs, if any.
+
+ADDENDA
+
+All changes, additions, and/or clarifications in connection with this RFP will be issued by the City
+Finance Director in the form of a written addendum. Signed acknowledgement of receipt of each
+addendum must be submitted with the Proposal to this RFP. Verbal responses and/or
+representations shall not be binding.
+EVALUATION
+
+In evaluating any aspect of the Proposal, the City may consider previous dealings with the Vendor,
+references from the Vendor’s customers, inspections of other Service performed by the Vendor,
+and any other information the City obtains regarding the Vendor, or that the City deems relevant.
+
+1.   Responsive Proposals from responsible vendors, contractors or proposers will be evaluated
+     on the basis of criteria that include the following:
+
+     A)    Overall cost to the City, whether direct or indirect.
+
+     B)    The City’s opinion regarding the degree of responsibility of the vendors, contractors or
+           proposers. The responsibility of the vendors, contractors or proposers will be
+           determined pursuant to the criteria contained in this request for proposal.
+
+2.   The timeliness, nature and number of any exceptions taken by the Vendors, Contractors, or
+     Proposers to the RFP will be considered by the City in evaluating a Proposal. Any one of
+     these criteria alone, or in combination, may provide a basis for not accepting the Vendor’s,
+     Contractor’s, or Proposer’s Proposal.
+
+3.   A responsible Vendor is one who, in the opinion of the City, possesses the skill, experience,
+     ability, integrity and financial and other resources necessary for the faithful performance of
+     the Service. In evaluating a Vendor’s responsibility, or in evaluating any other aspect of the
+     Proposal, the City may consider previous dealing with the City, references from the vendors,
+     contractors or proposer’s customers, inspections of other Services or projects performed and
+     equipment supplied by the vendor, contractor or proposer, and any other information the
+     City obtains regarding the vendor, contractor or proposer or that the City deems relevant.
+
+4.   The City may request detailed demonstrations of the proposed application software. Vendors
+     may also be required to make presentations and/or provide written clarifications of their
+     responses at the request of the City.
+
+SUPPLEMENTAL MATERIALS
+
+Proposers are responsible for including all pertinent product data (if applicable) in the returned
+Proposal package. Literature, brochures, data sheets, specification information, completed forms
+requested as part of the proposal package and any other facts which may affect the evaluation
+and subsequent contract award should be included. Materials such as legal documents and
+contractual agreements, which the offeror wishes to include as a condition of the proposal, should
+also be in the returned proposal package. Failure to include all necessary and proper supplemental
+materials may be cause to reject the entire Proposal.
+
+RESPONSIVE PROPOSALS EXPIRATION
+
+All Proposals shall be considered as firm for a period of ninety (90) calendar days, commencing on
+the date and time of the RFP closing and expiring at 10:00 P.M. of the last day.
+
+Unless withdrawn, as provided in this RFP, a Proposal is binding on the Vendor, and may be
+received by the City at any time up to and including the proposed RFP opening date.
+
+RFP CLOSING
+
+Three (3) original Proposals and any modifications shall be received in sealed and marked on the
+outer envelope by RFP number and date of closing addressed to Daniel Toleikis, Finance Director,
+107 W. Main Street, Smithville, Missouri 64089. RFPs will be opened at 10:00 A.M. at City Hall on
+the date specified on the cover letter. The RFP number and RFP closing date shall be shown on the
+face of the envelope, and should be labeled with the Vendor’s name. Facsimile telegraph RFPs will
+not be considered. RFPs may be modified if sent in a sealed envelope, marked “Revised RFP”, and
+be in the possession of the City by the RFP opening date and time. It is preferred but not required
+that all prospective Proposers utilize the attached Proposal Form. All Proposers should adhere to
+the specifications and requirements as set forth in the RFP request. Failure to provide the required
+information and/or adhere to the specifications and requirements as set forth in the RFP may be
+used by the City as reason not to consider a vendor’s proposal.
+
+RFP REJECTION
+
+The City reserves the right to reject any and all Proposals received in response to RFPs, and to
+waive all irregularities in Proposals.
+
+ACCEPTANCE OF RFPS
+
+The City reserves the right to accept the Proposal that, in its judgment, is the lowest and/or best
+Proposal in response to this RFP.
+
+LATE PROPOSALS
+
+Proposals received after the date and time of the responsive Proposals to the RFP opening shall
+not be considered.
+
+MISTAKE IN PROPOSALS
+
+If the respondent discovers a mistake in his or her responsive Proposal to the RFP prior to the date
+and time specified for the RFP opening, he or she may correct the mistake by modifying or
+withdrawing the RFP. If the apparent low and best Proposer discovers a mistake in his or her
+Proposal of a serious and significant nature which is unfavorable to him or her prior to the issuance
+of a purchase order or the execution of a contract, he or she may request consideration be given
+to modifying the RFP if he or she remains the lowest Proposer or to withdrawing the RFP if the
+result of the correction of the mistake makes another Proposer the lowest and best Proposer. The
+mistake must be evident and provable. The right is reserved by the Board of Aldermen to reject
+any and all requests for correction of mistakes in Proposals received after the date and time of the
+Proposals to the RFP opening. A mistake in a Proposal cannot be considered once a purchase
+contract is executed by the parties.
+
+NEGOTIATION
+
+The City reserves the right to award a contract based on the initial Proposals received, without
+engaging in discussions or negotiations. Accordingly, a Vendor should submit its initial proposal to
+the RFP on the most favorable terms possible to the City. However, should only one proposal to
+the RFP be received by the City, the City may, but is not obligated to, conduct negotiations with
+this Vendor whose Proposal, in the opinion of the City, is competitive or may best meet the needs
+of the City.
+
+The City may, but is not obligated to, seek clarification of a Proposal submitted by a Vendor.
+
+If the City chooses to negotiate, negotiation may involve any issue bearing on the Proposal and
+may take place after submission of Proposal and before an award is made. The City reserves the
+right to follow negotiations with a request for submission of a best and final Proposal.
+AWARD OF THE CONTRACT
+
+After the RFPs have been opened and duly considered, the lowest and/or best proposal to the RFP
+shall be submitted to the City Board of Aldermen for formal approval. After approval by the City
+Board of Aldermen, the City Clerk will notify, in writing, the successful Proposer. An approved
+Resolution by the City Board of Aldermen shall constitute the City’s official award of the RFP. A
+written contract noting the terms and conditions of this RFP will be executed before “Notice to
+Proceed” is given. Vendors with standardized contracts should submit them with the Proposal.
+
+HOLD HARMLESS CLAUSE
+
+The Vendor awarded the contract from this RFP agrees to save and hold harmless the City and its
+agents, servants, and employees of, and from, any and all liabilities, expenses, causes of action,
+damages and attorney’s fees resulting, or to result, from any of the Vendor’s businesses or
+operations resulting from any act or omission of the Vendor’s agents, servants or employees.
+
+OFFICIALS NOT TO BENEFIT
+
+No regular employee or elected or appointed member of the City government or their immediate
+family shall benefit from or be a part of and/or share any or part of this contract, or to any benefit
+that may arise there from without notifying the City in the Response to the RFP that a regular
+employee or elected or appointed member of the City government or their immediate family may
+benefit under the contract. No such identified regular employee or elected or appointed member of
+the City government shall participate in any decision, approval, disapproval, recommendation, or
+preparation of any part of a contract awarded pursuant to this RFP.
+
+GRATUITIES ILLEGAL TO ANY EMPLOYEE AND FORMER EMPLOYEES
+
+It is unlawful for any person or business to offer, give or agree to give, to any employee of the
+City, or former employee of the City, to solicit, demand, accept or agree to accept from another
+person or business, a gratuity, offer of employment or anything of pecuniary value in connection
+with any decision, approval, disapproval, recommendation, or preparation of any part of a contract
+requirement or a purchase request, influencing the content of any specification or procurement
+standard, rendering the advice, investigation, auditing, or in any other advisory capacity in any
+proceeding or application, request for ruling, determination, claim or controversy, or other
+particular matter, pertaining to any contract or subcontract, or to any RFP thereof.
+
+CO-PARTNERSHIP DISCLAIMER
+
+It is mutually understood that nothing in this Request for Proposal or subsequent contractual
+agreements is intended, or shall be construed, as in any way creating or establishing the
+relationship or co-partners between the parties; or as constituting the contractor as an agent or
+representative of the City for any purpose, or in any manner whatsoever.
+
+NON-DISCRIMINATION IN EMPLOYMENT
+
+Contract for Service under this RFP obligates the Proposer not to discriminate in employment
+practices. Successful Proposer must be prepared to comply in all respects with all provisions
+regarding non-discrimination.
+
+KICKBACKS ILLEGAL IN SUBCONTRACTING
+
+It is unlawful for any payment, gratuity or benefit to be made by, on behalf of, or solicited from, a
+subcontractor under a contract to the prime contractor, or higher tier subcontractor, or any person
+associated therewith, as an inducement for the award of a subcontract to a contract of the City.
+Upon showing that a subcontractor made a kickback to a prime contractor, or a higher tier
+subcontractor in connection with the award of a subcontractor or order there under, it shall be
+conclusively presumed that the amount thereof was included in the price of the subcontract, or
+order, and ultimately borne by the City, and will be recoverable hereunder from the recipient. In
+addition, that amount may also be recovered from the subcontractor making such kickbacks.
+Recovery from one offending party shall not preclude recovery from other offending parties.
+                      ARTICLE III GENERAL TERMS AND CONDITIONS
+
+EXECUTION OF CONTRACT
+
+The successful Vendor (“Contractor”) shall, if its Proposal is accepted, execute a contract, with the
+City within ten (10) days after receipt of such acceptance. The contract shall be in a form
+prescribed by or acceptable to the City and shall incorporate the terms of this RFP, any
+amendment(s) to this RFP, and the terms of the Contractor’s written Proposal that are consistent
+with and do not materially add to and/or alter this RFP (the foregoing are hereafter collectively
+referred to as the “Contract”).
+
+CONTRACT PERFORMANCE
+
+Any contract entered into pursuant to this RFP should be performed by the Vendor within ninety
+(90) days from contract execution.
+
+GENERAL PROJECT ASSESSMENT REQUIREMENTS
+
+Upon award of the contract, the contractor shall work with the City to ensure an orderly transition
+of services and responsibilities under the contract and to ensure the continuity of those services
+required by the City.
+
+INSURANCE
+
+The Contractor shall purchase and maintain, at his expense, insurance of such types, and in such
+amounts as are specified in this announcement, to protect the City and contractor from claims
+which may arise out of or result from the contractor’s operations under the contract documents,
+whether such operations be by the contractor or by any subcontractor or for anyone whose acts
+contractor or any subcontractor may be legally liable. Such insurance shall cover claims for
+damages because of bodily injury or death to the contractor’s employees including claims brought
+under:
+
+1.   Worker’s Compensation Laws
+
+2.   Disability Benefit Laws
+
+3.   Occupational Sickness or Disease Laws
+
+4.   Other similar employee benefit laws
+
+Such insurance shall also cover claims for damages because of Personal Injury, bodily injury,
+sickness, disease or death of any person or persons other than contractor’s employees, and claims
+arising out of destruction of property, including loss of use thereof.
+
+Contractor must also carry liability insurance naming the following as “Additional Named Insured”:
+
+1.   City of Smithville
+     107 W. Main Street
+     Smithville, MO 64089
+
+Failure of the Contractor to maintain proper insurance coverage will not relieve Contractor of any
+contractual responsibility or obligations. If part of the Service is to be subcontracted, the
+Contractor shall either cover any and all subcontractors in Contractor’s insurance policy or require
+each subcontractor not so covered, to obtain insurance of same type and with the same limits as
+the Contractor is required to carry. Any payment of an insured loss under policies of property
+insurance, including but not limited to, the insurance required shall be made payable to the City.
+Certificate of Insurance shall be provided and become effective upon execution of the Contract.
+
+INSURANCE COVERAGE AND LIMITS OF COVERAGE REQUIRED
+
+1.   Worker’s Compensation – Statutory
+
+2.   Employer’s Liability - $1,000,000.00 each employee
+
+3.   General Liability - $10,000,000.00 each occurrence
+
+4.   Property Damage - $10,000,000.00 each occurrence
+
+AFFIDAVIT OF WORK AUTHORIZATION AND DOCUMENTATION
+
+Pursuant to Section 285.530 RSMo., (enclosed in the laws section) the Bidder must affirm its
+enrollment and participation in a federal work authorization program with respect to the employees
+proposed to work in connection with the services requested herein by:
+
+1.   Submitting a completed, notarized copy of EXHIBIT 1 AFFIDAVIT OF WORK
+     AUTHORIZATION, and
+
+2.   Providing documentation affirming the Bidder’s enrollment and participation in a federal work
+     authorization program (see below) with respect to the employees proposed to work in
+     connection with the services requested herein.
+
+E-Verify is an example of a federal work authorization program. Acceptable enrollment and
+participation documentation consists of the following two pages of the E-Verify Memorandum of
+Understanding (MOU): 1) a valid, completed copy of the first page identifying the Bidder and 2) a
+valid copy of the signature page completed and signed by the Bidder, the Social Security
+Administration, and the Department of Homeland Security – Verification Division.
+
+INSPECTIONS
+
+The City reserves the right to inspect any item(s) or service location for compliance with
+specifications and requirements and needs of the using department. If an offeror cannot furnish a
+sample of a proposed item, where applicable, for review, or fails to satisfactorily show an ability to
+perform, the City can reject the offer as inadequate.
+
+TESTING
+
+The City reserves the right to test equipment, supplies, material and goods proposed for quality,
+compliance with specifications and ability to meet the needs of the user. Demonstration units must
+be available for review. Should the goods or services fail to meet requirements and/or be
+unavailable for evaluation, the offer is subject to rejection.
+
+ADDITIONAL SERVICE AND CHANGE ORDERS
+
+The Contractor will not be compensated for Service that is not required by the Contract and that is
+performed without the prior written approval of the City.
+A request by the Contractor for a change order shall be submitted to the City in writing and must
+be approved by the City in writing before the Contractor proceeds with the Service that is the
+subject of the change order.
+
+PERMITS, LICENSES, ORDINANCES, AND REGULATIONS
+
+In performing the Service, the Contractor shall comply with all applicable laws, ordinances, codes,
+and regulations, including all applicable OSHA regulations. This requirement does not relieve the
+Contractor of its obligation to comply with the specifications of the Contract documents when they
+exceed the requirements of applicable laws, ordinances, codes or regulations.
+
+The Contractor shall not be compensated for changes in the Service that are required to comply
+with laws, codes, ordinances, and regulations that were in effect on the date the Proposal was
+due.
+
+SAFETY OF PERSONS AND PROPERTY
+
+The Contractor shall take all reasonably necessary steps to provide for the safety of and prevent
+damage, injury or loss to:
+
+1.   All persons;
+
+2.   All privately owned property real and/or personal;
+
+3.   The City’s real and/or personal property and all other real or personal property at or adjacent
+     to the work site; and
+
+4.   The Corps of Engineers real and/or personal property.
+
+The Contractor shall give all required notices and comply with all applicable laws, ordinances,
+rules, regulations and lawful orders of any public authority regarding the safety of persons or
+property or their protection from damage, injury or loss.
+
+BILLING
+
+Contractor shall, unless otherwise specified in the Contract, submit monthly statements for
+services and/or goods provided and/or delivered to the City.
+
+INTELLECTUAL PROPERTY RIGHTS
+
+Any and all material, images, slogans and/or items of any kind, tangible or intangible in nature
+(hereinafter collectively referred to as the "Product"), produced by Contractor pursuant to this RFP
+or resulting Contract shall be considered a Work for Hire and shall be owned by the City.
+Contractor will defend, at its own expense any action brought against the City to the extent that it
+is based on a claim that the Product infringes a copyright in the United States or a United States
+patent, or other intellectual property rights, and/or that the City did not obtain the sole rights to
+the Product from the Contractor. Contractor will indemnify and hold the City harmless (including
+attorney's fees and costs) with regard to any such claim provided the City reasonably notifies
+Contractor in writing of the claim, and that Contractor is reasonably allowed to participate in the
+defense of the claim.
+
+TERMINATION
+
+The Contract may be immediately terminated by the City if:
+1.   The Contractor defaults in the performance of any of its obligations under the Contract; or,
+
+2.   The City has documented receiving unsatisfactory services applicable to the Contractor’s
+     service or work performance;
+
+3.   A petition in bankruptcy or for reorganization under the Bankruptcy Code is filed by or
+     against the Contractor, or an order is entered adjudicating the Contractor bankrupt or
+     insolvent, or a trustee, receiver or custodian is appointed for the Contractor, or an
+     assignment for the benefit of creditors of the Contractor is made.
+
+OVERALL REQUIREMENTS
+
+Contract shall be governed by the laws of the State of Missouri. In the event of any litigation
+arising hereunder, venue shall be properly laid only in the State Circuit Court for Clay County,
+Missouri.
+
+The City shall not be obligated for any amounts in excess of the contract and/or RFP response
+(bid) unless approved in advance by the City in writing.
+
+The Contract is binding upon the parties, their partners, heirs, successors, assigns and legal
+representatives.
+
+The Contractor and its subcontractors are independent contractors and are not the employees or
+agents of the City. Neither the Contractor nor any of its subcontractors shall represent to any
+person, firm, or corporation that it is an employee or agent of the City and neither shall have the
+right, authority or power to make or assume any obligation of any kind on behalf of the City or to
+bind the City in any manner.
+
+The Contractor is prohibited from assigning, transferring, conveying, subletting, or otherwise
+disposing of this Contract, or any resultant agreement or its rights, title, or interest therein, or its
+power to execute such agreement, to any other person, company, or corporation, without the
+previous written approval of the City.
+
+If provided, the Contractor shall return all keys, code cards, unused supplies, other project-related
+materials, and any other City property to the City upon completion of the contract.
+
+Any contract let in response to this RFP shall be deemed to incorporate all applicable Missouri Laws
+and regulations, including but not limited to those set forth in the Laws Section of this RFP.
+
+CONFIDENTIALITY
+
+All reports, documents and material developed or acquired by the contractor, as a direct
+requirement specified in the contract, shall become the property of the City. The Contractor shall
+agree and understand that all discussions with the Contractor and all information gained by the
+Contractor as a result of the Contractor’s performance under the Contract shall be confidential and
+that no reports, documentation, or material prepared as required by the Contract shall be released
+to the public without the prior written consent of the City. Contractor acknowledges that it is aware
+of the fact that the City is subject to Missouri's Sunshine laws §610.010 et seq.
+SAMPLE CONTRACT
+
+A sample contract for this project may be attached to this RFP. If attached the sample is for
+general informational purposes only and is subject to change and finalization upon the awarding of
+any contract let pursuant to this RFP.
+                                              EXHIBIT 1
+
+
+STATE OF __________________ )
+                            )
+ss COUNTY OF ______________ )
+
+AFFIDAVIT
+
+(As required by Section 285.530, Revised Statutes of Missouri) As used in this Affidavit, the
+following terms shall have the following meanings:
+
+EMPLOYEE:
+Any person performing work or service of any kind or character for hire within the State of
+Missouri.
+
+FEDERAL WORK AUTHORIZATION PROGRAM:
+Any of the electronic verification of work authorization programs operated by the United States
+Department of Homeland Security or an equivalent federal work authorization program operated
+by the United States Department of Homeland Security to verify information of newly hired
+employees, under the Immigration Reform and Control Act of 1986 (IRCA), P.L. 99-603.
+
+KNOWINGLY:
+A person acts knowingly or with knowledge,
+(a)    With respect to the person’s conduct or to attendant circumstances when the person is
+aware of the nature of the person’s conduct or that those circumstances exist; or
+(b)    With respect to a result of the person’s conduct when the person is aware that the person’s
+conduct is practically certain to cause that result.
+
+UNAUTHORIZED ALIEN:
+An alien who does not have the legal right or authorization under federal law to work in the United
+States, as defined in 8 U.S.C. 1324a(h)(3).
+
+BEFORE ME, the undersigned authority, personally appeared ______________________________,
+who, being duly sworn, states on his oath or affirmation as follows:
+
+   1.    My name is ______________________________ and I am currently President of
+
+         ____________________________________ (hereinafter “Contractor”), whose business
+
+         address is ________________________________________________, and I am
+
+         authorized to make this Affidavit.
+
+   2.    I am of sound mind and capable of making this Affidavit, and am personally acquainted
+         with the facts stated herein.
+
+   3.    Contractor is enrolled in and participates in a federal work authorization program with
+         respect to the employees working in connection with the following services contracted
+         between Contractor and the City of Smithville, Missouri.
+
+   4.    Contractor does not knowingly employ any person who is an unauthorized alien in
+         connection with the contracted services set forth above.
+     5.   Attached hereto is documentation affirming Contractor’s enrollment and participation in a
+          federal work authorization program with respect to the employees working in connection
+          with the contracted services.
+
+Further, Affiant saith not.
+
+
+                                                    ______________________________
+                                                    [Signature]
+
+
+                                                    ______________________________
+                                                    [Printed name]
+
+
+Affiant Subscribed and sworn to before me this ______ day of _______________, 2017.
+
+
+
+                                                    ______________________________
+                                                    [Notary Public]
+
+
+                                                    My Commission Expires __________
+
+
+                                                    Commissioned in _________ County
+
+
+                                                    Commission # _________________
+
+
+PLEASE NOTE:
+Acceptable enrollment and participation documentation consists of the following two (2) pages of
+the E-Verify Memorandum of Understanding:
+
+1.    A valid, completed copy of the first page identifying the Contractor; and
+2.    A valid copy of the signature page completed and signed by the Contractor, and the
+      Department of Homeland Security - Verification Division
+                                         LAWS SECTION
+
+
+§ 285.530. Employment of unauthorized aliens prohibited--federal work authorization program,
+requirements for participation in--liability of contractors and subcontractors
+
+1.   No business entity or employer shall knowingly employ, hire for employment, or continue to
+     employ an unauthorized alien to perform work within the state of Missouri.
+
+2.   As a condition for the award of any contract or grant in excess of five thousand dollars by the
+     state or by any political subdivision of the state to a business entity, or for any business
+     entity receiving a state-administered or subsidized tax credit, tax abatement, or loan from the
+     state, the business entity shall, by sworn affidavit and provision of documentation, affirm its
+     enrollment and participation in a federal work authorization program with respect to the
+     employees working in connection with the contracted services. Every such business entity
+     shall also sign an affidavit affirming that it does not knowingly employ any person who is an
+     unauthorized alien in connection with the contracted services. Any entity contracting with the
+     state or any political subdivision of the state shall only be required to provide the affidavits
+     required in this subsection to the state and any political subdivision of the state with which it
+     contracts, on an annual basis. During or immediately after an emergency, the requirements
+     of this subsection that a business entity enroll and participate in a federal work authorization
+     program shall be suspended for fifteen working days. As used in this subsection,
+     "emergency" includes the following natural and manmade disasters: major snow and ice
+     storms, floods, tornadoes, severe weather, earthquakes, hazardous material incidents,
+     nuclear power plant accidents, other radiological hazards, and major mechanical failures of a
+     public utility facility.
+
+3.   Al public employers shall enroll and actively participate in a federal work authorization
+     program.
+
+4.   An employer may enroll and participate in a federal work authorization program and shall
+     verify the employment eligibility of every employee in the employer's hire whose employment
+     commences after the employer enrolls in a federal work authorization program. The
+     employer shall retain a copy of the dated verification report received from the federal
+     government. Any business entity that participates in such program shall have an affirmative
+     defense that such business entity has not violated subsection 1 of this section.
+
+5.   A general contractor or subcontractor of any tier shall not be liable under sections 285.525 to
+     285.550 when such general contractor or subcontractor contracts with its direct
+     subcontractor who violates subsection 1 of this section, if the contract binding the contractor
+     and subcontractor affirmatively states that the direct subcontractor is not knowingly in
+     violation of subsection 1 of this section and shall not henceforth be in such violation and the
+     contractor or subcontractor receives a sworn affidavit under the penalty of perjury attesting
+     to the fact that the direct subcontractor's employees are lawfully present in the United
+     States.
+(It is preferred that the Bid Response use this Form, however, the City reserves the right to accept
+Bids which provide the necessary information without using this form)
+
+                   RFP # 17-20 RECREATION MANAGEMENT SOFTWARE
+
+
+I, ______________________________, hereby representing
+        (Agent Submitting RFP)
+
+____________________________________, have read and reviewed the attached specifications.
+         (Firm or Company)
+
+I state the hereby offer meets or exceeds all requirements. Please note that Exhibit 1 and all other
+required information must be attached.
+
+
+______________________________                      ______________________________
+Company Name                                        Authorized Person (Print)
+
+______________________________                      ______________________________
+Address                                             Signature
+
+______________________________                      ______________________________
+City/State/Zip                                      Title
+
+______________________________                      ______________________________
+Telephone                                           Date
+
+______________________________                      ______________________________
+Tax ID No.                                          E-Mail Address
+
+State the name, address and telephone number of not less than three (3) customers for whom the
+Contractor has performed similar Service within the last two (2) years:
+
+
+
+
+The above said Company shall provide the materials and services clean up, and insurance
+requested for the goods and services of RFP #17-20 for a cost to the City of Smithville as follows:
+
+
+                         Item Description                                       Bid Price
+
+               Recreation Management Software
+      One-Time Cost for Set-up, Implementation, & Training
+               Recreation Management Software
+        Annual Cost for Licenses, Support, & Maintenance
+                                           EXHIBIT A
+
+SPECIFICATIONS
+
+Please address the following needs of the proposed software:
+
+   •   General Software Requirements (operating system, server, SQL, etc.)
+   •   Deployment Requirements
+   •   Network Requirements
+   •   Database Requirements
+   •   Licensing Requirements
+   •   Support Requirements
+   •   Application Specific Requirements
+
+The proposed software solution should address the following core requirements of the City:
+
+   •   Registration Management
+   •   Sports League Management
+   •   Facility Reservation Management
+   •   Customer Online Registration
+   •   City Online Accessibility
+   •   Mobility Options for City
+   •   Membership Sales and Tracking Management
+   •   Point of Sale System
+   •   Financial Integration with INCODE Software
+   •   Marketing
+   •   Scan and Store capability for City use (PDFs, Microsoft platform)
+   •   E-mail Integration with Microsoft Exchange 2010+
+                                                    EXHIBIT B
+
+    FUNCTIONALITY QUESTIONAIRRE
+
+    Vendors are instructed to indicate on the following chart whether the proposed solution can meet
+    the following functionality requirements by placing an “X” in the appropriate column as described
+    below:
+
+        •   Existing Ability – indicates that the Vendor’s standard software meets or exceeds the
+            requirement.
+
+        •   Custom Modification – indicates that a custom software modification is required to meet the
+            requirement. If there is an additional cost associated with the custom modification, please
+            list the dollar amount in the comments.
+
+        •   Planned Future Release – indicates that the Vendor’s software does not meet the
+            requirement at this time but plans to meet the requirement in the near future. Please list
+            the scheduled release date in the comments.
+
+        •   Not Available – indicates that the Vendor’s software does not meet the requirement at this
+            time and the Vendor has no plans to meet this requirement in the future.
+
+                                                                                 Planned
+                                               Existing        Custom                                 Not
+Item         Functional Requirement                                               Future
+                                                Ability      Modification                           Available
+                                                                                 Release
+SUPPORT
+      Live customer care support with
+  1   remote or dial-in support available
+      Comments
+      Unlimited live support available for
+      system down issues
+  2   24-hours-a-day, 7-days-a-week
+      Comments
+      All support calls and incidents
+      tracked in a customer relationship
+  3   management system
+      Comments
+ACCOUNTS
+      Ability to search by partial entry for
+      account name (e.g. “TH” returns
+  4   Thompson, Thomas, etc.)
+      Comments
+      System tracks address, city,
+      county, e-mail, phone number, and
+  5   emergency contacts
+      Comments
+      Ability to quickly retrieve clients by
+      name, phone number, address,
+  6   organization name, or account
+      number
+      Comments
+      Automatically checks for duplicate
+  7   accounts when adding new records
+      Comments
+                                                                         Planned
+                                               Existing     Custom                   Not
+Item         Functional Requirement                                       Future
+                                                Ability   Modification             Available
+                                                                         Release
+         Ability to quickly determine all
+         customers with a credit or debit
+ 8       balance
+         Comments
+         Ability to tag Resident/Non-
+         Resident status for accounts (and
+ 9       associated fees) without having Zip
+         code
+         Comments
+         System allows same person to be
+         on different family or organization
+         accounts, without creating two
+         separate records, and see all
+ 10      registrations and payments for
+         each account (e.g. a child in a
+         divorced family)
+         Comments
+         Ability to designate one individual
+         as primary contact for family or
+ 11      organization
+         Comments
+         Ability to place notes or comments
+         on each individual person and as
+ 12      one whole account
+         Comments
+         Ability to view an individual’s,
+         family’s, or organization’s entire
+         registration, booking, membership,
+ 13
+         and payment history on one screen
+
+         Comments
+         Ability to upload and attach
+         documents to specific accounts
+ 14      and persons within the account
+         Comments
+         Ability to flag customers or
+ 15      suspend accounts
+         Comments
+         Merging accounts is easy and the
+         process merges both accounts’
+ 16      information into one unit
+         Comments
+         System can automatically send
+ 17      e-mail receipts for all modules
+         Comments
+SYSTEM
+         The system can be automated to
+         integrate with INCODE Financial
+         System cash receipts and
+ 18      payments with various criteria
+         options (e.g. receipts by cashier,
+         location, date)
+         Comments
+                                                                        Planned
+                                              Existing     Custom                   Not
+Item       Functional Requirement                                        Future
+                                               Ability   Modification             Available
+                                                                        Release
+       Ability to handle the various date
+       formats (mm-dd-yyyy,
+19     yyyy/mm/dd, etc.) for input &
+       output
+       Comments
+       System allows user to either type
+       dates manually or select from a
+       pop-up graphical calendar; a pop-
+20     up calendar is available on all date
+       fields
+       Comments
+       System has customizable alert
+       messages that appear when
+       certain individuals, families,
+21     organizations, facilities, programs,
+       etc. are accessed
+       Comments
+       System prevents “run-away”
+       searches that can lock-up a
+22     machine for several minutes
+       Comments
+       System automatically translates
+       time, date, and currency entries
+       into correct formats even if user
+       enters a variation (e.g. user enters
+23     9 am but it is translated into 9:00
+       am automatically; user enters $4
+       but it is translated into $4.00
+       automatically, etc.)
+       Comments
+       Ability to interrupt any function
+       and perform another function and
+24     return to the original function
+       without losing information
+       Comments
+       Users can change their own
+25     password at any time
+       Comments
+       System includes a complete on-line
+       and printable tutorial that runs
+       against a tutorial/training database
+26     so that users can “try out” the
+       system in a non-production
+       environment
+       Comments
+       System has a full accounting audit
+       trail that shows who made a
+       particular accounting transaction,
+27     what the transaction was, and
+       where it was made
+
+       Comments
+                                                                       Planned
+                                             Existing     Custom                   Not
+Item        Functional Requirement                                      Future
+                                              Ability   Modification             Available
+                                                                       Release
+      System provides current totals
+      about program registrations,
+      including number of enrollments
+  28  processed number of spots
+      available on the main registration
+      screen
+      Comments
+      Ability to cascade account number
+      updates throughout the system
+      (e.g. if account number is changed
+  29  in one place, it is changed
+      throughout the system)
+      Comments
+      All modules of the system share
+      customer, facility, program,
+      membership, and financial
+      information (e.g. customers only
+  30  have to be entered into the system
+      once in order to register for a
+      program, book a facility, or
+      purchase a membership, etc.)
+      Comments
+      Ability to assign levels of security
+      to individual staff (e.g. some staff
+      only need a read-only option;
+  31  others would be able to take
+      payments and issue refunds)
+      Comments
+      Application offers a mobile phone
+      and tablet screen view/format in
+  32  IOS, Android, and Windows
+      Comments
+FINANCIAL
+      Software allows collection of
+      payment by cash, check, credit
+      card, or also “from account” if the
+      customer has a credit balance;
+  33  incomplete payments can be
+      accepted, including “split”
+      payments with part paid by check,
+      part cash, part from account, etc.
+      Comments
+      System has integrated credit and
+  34  debit card authorization
+      Comments
+      Ability to handle coupons for
+      inclusion in processing of
+  35  payments and tracking of coupon
+      or special offer codes
+      Comments
+      Ability to automatically apply fees
+  36  for NSF
+      Comments
+                                                                         Planned
+                                               Existing     Custom                   Not
+Item        Functional Requirement                                        Future
+                                                Ability   Modification             Available
+                                                                         Release
+        Ability to print a daily deposit
+        report (detailed and summary)
+        categorized by the different
+ 37     payment method (cash flow
+        report) and by user/location
+        Comments
+        Ability to charge administrative
+        fees for cancellations, withdrawals,
+ 38     etc.
+        Comments
+        Ability to process refunds
+        individually or in batches without
+ 39     having to manually put credit cards
+        numbers back into system
+        Comments
+        Ability to handle and calculate pro-
+        rated refunds based on number of
+ 40     classes (registration)/ months
+        (membership) remaining
+        Comments
+        Ability to interface payments on a
+        cash basis accounting in all
+ 41     modules (booking, registration,
+        memberships, etc.)
+        Comments
+        System adheres to GAAP and GASB
+ 42     accounting standards
+        Comments
+        Ability to track refund reasons
+ 43
+        Comments
+        System is PCI compliant
+ 44
+        Comments
+        System will not store actual credit
+ 45     card numbers at customers site
+        Comments
+        System has integrated Electronic
+        Fund Transfer authorization (e.g.
+ 46     weekly, monthly withdrawals)
+        Comments
+        Ability to store G/L accounts in
+        alphanumeric fields up to 20
+ 47     characters long
+        Comments
+REGISTRATION
+      Able to track programs including
+      name, type, level, prerequisites,
+      restrictions, program capacity,
+      equipment required, instructor
+ 48   names, extra fees, contact info,
+      method of registration, and special
+      instructions printed on receipts
+      Comments
+                                                                          Planned
+                                                Existing     Custom                   Not
+Item       Functional Requirement                                          Future
+                                                 Ability   Modification             Available
+                                                                          Release
+       Ability to track classes including
+       the class dates, location, class
+       capacity, start/end times, min/max
+49     class sizes, instructor, student info,
+       etc.
+       Comments
+       System has table-driven course
+       fees (if a course fee changes, the
+       administrator can simply change
+50     the fee in one place without having
+       to change the fee in multiple
+       places
+       Comments
+       Ability to quickly duplicate existing
+       courses so that courses with
+51     similar details do not have to be
+       entered from scratch
+       Comments
+       Activity fees can be set to
+       automatically calculate and
+       suggest a pro-rated fee if the
+52     enrollment is done after the first
+       session meeting has been held
+       Comments
+       Ability at events to utilize an IOS
+       device to take payments for
+53     merchandise and entrance fees
+       Comments
+       Clean out or close program options
+54     for all programs
+       Comments
+       Ability to enforce minimum and
+       maximum ages required for course
+       registration; minimum & maximum
+55     age fields are optional in course
+       set-up
+       Comments
+       Ability to restrict certain activities
+       to only those customers that have
+56
+       a particular membership type
+       Comments
+       The system calculates age based
+       on the start date of course rather
+       than the date of registration and
+57     uses this information to validate
+       age restrictions
+       Comments
+       Facilities can be automatically
+       booked from within the registration
+       module while setting up programs
+58     without having to launch the
+       facilities scheduling module
+       Comments
+                                                                         Planned
+                                               Existing     Custom                   Not
+Item       Functional Requirement                                         Future
+                                                Ability   Modification             Available
+                                                                         Release
+       Ability to identify holiday dates and
+       exclusion dates during a registered
+59     program and specify these dates
+       on the payment receipt
+       Comments
+       System prevents duplicate
+60     registrations
+       Comments
+       Ability to track prerequisites for a
+       particular course including
+       displaying an automatic alert
+61     message if a prerequisite has not
+       been met
+       Comments
+       Ability to handle anonymous group
+       registrations (e.g. John Doe
+       reserves 10 spots for the members
+       of a group but does not know the
+62     name of the people who will be
+       attending at the time of
+       registration)
+       Comments
+       System does not require one
+       session/season to be closed before
+63     starting another
+       Comments
+       Ability to warn operator of
+64     conflicting registrants activities
+       Comments
+       Ability to track special
+       requirements on an individual basis
+65     (e.g. “Note: this customer is a
+       diabetic”)
+       Comments
+       Ability to handle all aspects of
+       withdrawing customers (a single
+       customer or all participants of a
+       class) from courses including
+66     tracking of withdrawal reasons
+       (table driven), withdrawal
+       confirmation, admin fees, refunds,
+       etc.
+       Comments
+       Ability to do a global discount or
+       adjustment for an entire course or
+       program area. (e.g. Give a $5
+67     credit to everyone registered in
+       soccer because one night was
+       cancelled)
+       Comments
+       System supports wait listing of
+68     programs requests
+       Comments
+                                                                        Planned
+                                              Existing     Custom                   Not
+Item        Functional Requirement                                       Future
+                                               Ability   Modification             Available
+                                                                        Release
+       System allows multiple instructors
+ 69    to be assigned to a single activity
+       Comments
+       System has an interactive brochure
+       creation application that
+ 70    communicates with online
+       information
+       Comments
+       System has waiver tracking
+ 71    capabilities
+       Comments
+FACILITY REGISTRATION
+       Bookable areas are able to have a
+       relationship with other facilities
+       whereby if one is booked the other
+ 72    automatically becomes unavailable
+       to avoid double bookings
+       Comments
+       Ability to have multiple fees within
+       one facility (e.g. fees for non-
+ 73    primetime, primetime, resident,
+       and non-resident
+       Comments
+       System has default function
+       related set-up and take-down
+ 74    times that can be modified if
+       needed
+       Comments
+       Ability to block off times for
+ 75    administrative purposes
+       Comments
+       Ability to ask prompts, track, and
+       attach any forms or special
+       requirements related to the
+ 76    booking (e.g. alcohol permit,
+       checklist of facility needs)
+       Comments
+       Ability to print needed forms along
+       with contract by selection (Select
+ 77    extra forms needed and all print at
+       the same time as the contract)
+       Comments
+       Ability to generate multi-bookings
+       based on daily, weekly, bi-weekly,
+ 78    monthly, or specific dates
+       Comments
+       Ability to locate permits by
+       contract number, customer name,
+ 79    or organization name
+       Comments
+                                                                         Planned
+                                               Existing     Custom                   Not
+Item       Functional Requirement                                         Future
+                                                Ability   Modification             Available
+                                                                         Release
+       Ability to easily display and create
+       custom display formats for
+80
+       graphical booking
+       Comments
+       Ability to duplicate or roll over a
+       reservation from one date to
+81     another
+       Comments
+       Cancellations reasons are given
+82     and traceable
+       Comments
+       Custom questions can be asked
+83     and traceable through reporting
+       Comments
+       Ability to e-mail contracts, permits,
+84     or needed paperwork to customer
+       Comments
+       Ability to track available equipment
+       and amenities for each
+       facility/bookable area (this would
+85     be a checklist of
+       equipment/amenities needed for
+       each event)
+       Comments
+       Ability to track function (type of
+       event) and specify by facility the
+86     types of functions that can take
+       place there
+       Comments
+       System can handle various time
+       increments from different bookable
+87     areas
+       Comments
+       Ability to perform availability
+       search by complex, facility type,
+88     facility, bookable area type,
+       capacity, amenities, etc.
+       Comments
+       Ability to schedule payments as
+       due immediately, first of month,
+89     last of month, day of booking, and
+       X number of days before the event
+       Comments
+       Edit, print or view the booking
+       schedule for any center or
+       operation by day, week, month,
+90     room or area for internal staff and
+       external customers.
+       Comments
+       Ability to prevent a bookable area
+91     from being double booked
+       Comments
+                                                                        Planned
+                                              Existing     Custom                   Not
+Item        Functional Requirement                                       Future
+                                               Ability   Modification             Available
+                                                                        Release
+      Ability to create a waitlist when the
+      desired time block is not available;
+      this list should not require
+      payment or full rental detail, it
+ 92   should only record name, phone
+      number, date and time of request,
+      and facility
+      Comments
+      Ability to generate a report to
+      highlight confirmed bookings for
+ 93   which a deposit has not been
+      received in excess of XX days
+      Comments
+MEMBERSHIP MANAGEMENT
+      Ability to pay for memberships in
+      installments via Electronic Funds
+ 94   Transfer, Debit Card and Credit
+      Card
+      Comments
+      System handles date based (e.g.
+      valid for 30 days) and punch card
+ 95   style (e.g. valid for 10 visits)
+      membership passes
+      Comments
+      Ability to automatically e-mail
+      reminders to customer for
+ 96
+      membership renewals
+      Comments
+      Ability to assign memberships on
+      an individual, family, and group
+ 97   basis
+      Comments
+      Ability to assign multiple
+ 98   memberships to one individual
+      Comments
+      System has full
+ 99   barcoding/magnetic strip capability
+      Comments
+      Ability to assess extra fees to
+ 100  memberships
+      Comments
+      Ability to place money amount on
+      card and use for other purchases
+      (e.g. membership card has a cash
+ 101  balance on it that a child can use
+      to purchase food at the concession
+      stand)
+      Comments
+      System has membership card and
+ 102  key fob options
+      Comments
+                                                                         Planned
+                                               Existing     Custom                   Not
+Item         Functional Requirement                                       Future
+                                                Ability   Modification             Available
+                                                                         Release
+       Ability to handle a number of
+       validity options including a fixed
+       number of days (e.g. valid for the
+ 103   next 90 days) as well as fixed date
+       ranges (e.g. September 1 to
+       December 31)
+       Comments
+       Ability to track membership
+ 104   cancellation reasons
+       Comments
+       Ability to track member checking
+       and usage by day, month, and
+ 105   year
+       Comments
+       Ability to charge multiple different
+ 106   membership fees and types
+       Comments
+       Reporting ability to track
+       membership types, fees, and G/L
+ 107   accounts
+       Comments
+POINT OF SALE
+       POS module provides full cash
+ 108   register/POS functionality
+       Comments
+       POS and other modules have
+       access to the same account
+ 109   balance
+       Comments
+       Ability to record and track a variety
+       of sales transactions including
+       snack bar, retail sales, rental
+ 110   charges, membership sales without
+       having to change the fee in
+       multiple places
+       Comments
+       Ability to record and calculate
+       taxes by commodity and print sales
+ 111   tax receipt
+       Comments
+       Prompts can be assigned to
+       individual POS items to ask specific
+ 112   questions and record the
+       responses
+       Comments
+       Ability to accept/process gift cards,
+ 113   coupons, and vouchers
+       Comments
+       Ability to print a detailed
+ 114   transaction record
+       Comments
+                                                                        Planned
+                                              Existing     Custom                   Not
+Item         Functional Requirement                                      Future
+                                               Ability   Modification             Available
+                                                                        Release
+      A drop-in item (e.g. one aerobics
+      class) can be tagged as an
+      attendance item; this attendance
+      can be reported on individually or
+ 115  as a consolidated attendance
+      report for programs, memberships
+      and drop-ins
+      Comments
+      Ability to supply customers with
+ 116  itemized receipts
+      Comments
+      Each register has the ability to
+      print start and end of shift
+ 117
+      balancing reports
+      Comments
+      Ability to assign particular sales to
+ 118  preset keys
+      Comments
+      Cashiers have the ability to use
+      different terminals in a given day
+      and the transactions specific to a
+      user are accumulated as one total
+ 119  for the day. Similarly, the number
+      of users on a single register is not
+      limited
+      Comments
+      System includes locking cash
+      drawers including automatically
+ 120  opening them when a particular
+      transaction is completed
+      Comments
+      System can utilize two cash
+      drawers connected to the same
+ 121  terminal and assigned to different
+      users.
+      Comments
+      Ability to scan barcodes already
+ 122  existing on products
+      Comments
+      System can print SPC/SKU/barcode
+ 123  labels for items
+      Comments
+      Touch screen functionality
+ 124  available
+      Comments
+      Pop-up keyboard and number pad
+ 125  available on touch screen
+      Comments
+VOLUNTEER MANAGEMENT
+         Single sign on registration
+ 126
+         Comments
+                                                                        Planned
+                                              Existing     Custom                   Not
+Item         Functional Requirement                                      Future
+                                               Ability   Modification             Available
+                                                                        Release
+      System has the ability to e-mail
+      volunteers during each step of the
+      registration/approval process and
+ 127
+      notify participants of new
+      volunteer opportunities
+      Comments
+      Ability to register for multiple
+ 128  events and multiple departments
+      Comments
+      Ability to track number of
+      volunteered hours for a specific
+ 129  registrant or group
+      Comments
+INTERNET AND E-COMMERCE
+      Ability to completely customize the
+      look and feel of the website; the
+      site can be configured by the
+      organization to have the same
+ 130  color, fonts, backgrounds, and
+      header as the organizations main
+      website
+      Comments
+      Login to website with a user
+      defined ID/password that is simple
+ 131  to change for the user
+      Comments
+      System has the ability for
+ 132  registrations via mobile devices
+      Comments
+      Internet system is “real-time” and
+      internet users and staff at their
+      workstations access the same
+ 133
+      database and are able to register
+      customers simultaneously
+      Comments
+      Ability for customers to check their
+      current registrations via the web
+ 134  browser
+      Comments
+      Ability for customers to view
+      availability for specific classes and
+ 135  to see how many remaining spots
+      are available
+      Comments
+      Customers have the ability to pay
+      balances on memberships,
+ 136  programs, and facility rentals
+      Comments
+      Ability to have images, graphics,
+ 137  and movies play on their website
+      Comments
+                                                                         Planned
+                                               Existing     Custom                   Not
+Item        Functional Requirement                                        Future
+                                                Ability   Modification             Available
+                                                                         Release
+        Internet is multilingual and gives
+        Internet customers the option of
+ 138    viewing pages in English and
+        Spanish
+        Comments
+        Internet user has the capabilities
+        to electronically sign for payments,
+ 139    rentals, and waivers
+        Comments
+        Internet user has the capabilities
+        to attach needed documents to
+ 140    their specific account
+        Comments
+        System offers a “help” link if
+        customers have trouble navigating
+ 141    system
+        Comments
+        Ability for citizen to automatically
+        export a custom file to be imported
+        into Outlook automatically adding
+ 142    dates to their calendar of all
+        program course dates
+        Comments
+MARKETING
+      System has ability to send e-mail
+      blasts to select demographics (e.g.
+ 143  certain age groups, past
+      registrants, location)
+      Comments
+      Accessible program templates for
+      marketing that can be e-mailed or
+ 144  printed for advertising use
+      Comments
+      System has program brochure
+      templates and is capable of
+      automatically pulling program
+ 145  information and producing the
+      brochure
+      Comments
+      Ability to send mobile text and e-
+      mail alerts for program changes
+ 146  and weather advisory
+      Comments
+

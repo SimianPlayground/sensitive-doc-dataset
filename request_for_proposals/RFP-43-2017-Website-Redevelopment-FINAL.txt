@@ -1,0 +1,2419 @@
+                                Marketing & Creative Services
+
+
+
+
+                                  Request for Proposal (RFP)
+
+
+
+                                RFP Title: UND Website Redevelopment
+
+
+
+
+                                         RFP Number: 43-2017
+
+
+                                      Issued: October 4, 2016
+
+
+ Purpose of RFP: The University of North Dakota is requesting proposals from qualified Contractors to
+                            conduct a website redevelopment project.
+
+
+
+
+                Prepared by the University of North Dakota Procurement Services Department
+
+
+
+                                               Page 1 of 25
+RFP # 43-2017
+                                                                         TABLE OF CONTENTS
+
+
+SECTION ONE – INSTRUCTIONS........................................................................................................................................ 4
+1.0 PURPOSE OF THE RFP .......................................................................................................................................................... 4
+     1.1.       PROCUREMENT OFFICER CONTACT INFORMATION .................................................................................................................. 4
+     1.2.       ASSISTANCE TO INDIVIDUALS WITH A DISABILITY ..................................................................................................................... 4
+     1.3.       SECRETARY OF STATE REGISTRATION REQUIREMENTS .............................................................................................................. 4
+     1.4.       NOTICE PROVIDED ........................................................................................................................................................... 4
+     1.5.       RFP SCHEDULE ............................................................................................................................................................... 5
+     1.6.       QUESTIONS AND REQUESTS FOR CLARIFICATION ..................................................................................................................... 5
+     1.7.       OFFER HELD FIRM ........................................................................................................................................................... 5
+     1.8.       OFFEROR RESPONSIBLE FOR COSTS...................................................................................................................................... 5
+     1.9.       PROPOSAL SUBMISSION DEADLINE ...................................................................................................................................... 5
+     1.10.         AMENDMENT AND WITHDRAWAL OF PROPOSALS .............................................................................................................. 5
+     1.11.         PROPOSAL OPENING – LATE PROPOSALS REJECTED ............................................................................................................ 6
+     1.12.         NEWS RELEASES.......................................................................................................................................................... 6
+     1.13.         CONFLICT OF INTEREST ................................................................................................................................................. 6
+     1.14.         ATTEMPT TO INFLUENCE PROHIBITED .............................................................................................................................. 6
+     1.15.         COLLUSION PROHIBITED ............................................................................................................................................... 6
+SECTION TWO – BACKGROUND ........................................................................................................................................ 7
+2.0 BACKGROUND INFORMATION ............................................................................................................................................ 7
+     2.1.       BUDGET ........................................................................................................................................................................ 8
+SECTION THREE – SCOPE OF WORK ......................................................................................................................... 9
+3.0 SCOPE OF WORK ................................................................................................................................................................. 9
+     3.1.       APPLICABLE DIRECTIVES .................................................................................................................................................... 9
+     3.2.       INFORMATION TECHNOLOGY SOLUTION ............................................................................................................................... 9
+     3.3.       PRODUCT SUPPORT AND CUSTOMER SERVICE REQUIREMENTS ................................................................................................ 14
+     3.4.       OFFEROR EXPERIENCE AND QUALIFICATIONS MANDATORY REQUIREMENTS ............................................................................... 14
+SECTION FOUR – PROPOSAL ........................................................................................................................................... 15
+4.0 PROPOSAL PREPARATION AND SUBMISSION ................................................................................................................... 15
+     4.1.       FORMAT & PROPOSAL SUBMISSION INSTRUCTIONS .............................................................................................................. 15
+     4.2.       TECHNICAL PROPOSAL .................................................................................................................................................... 16
+     4.3.       COST PROPOSAL............................................................................................................................................................ 19
+     4.4.       SIMILAR WORK .............................................................................................................................................................. 19
+
+SECTION FIVE – PROPOSAL EVALUATION ................................................................................................................... 20
+5.1 AWARD .............................................................................................................................................................................. 20
+UND INTENDS TO AWARD A CONTRACT TO THE RESPONSIBLE OFFEROR WHOSE PROPOSAL IS DETERMINED TO BE
+RESPONSIVE TO THE REQUIREMENTS OF THE SOLICITATION AND IS DETERMINED TO BE MOST ADVANTAGEOUS IN
+CONSIDERATION OF THE RFP EVALUATION CRITERIA.EVALUATION CRITERIA .......................................................................... 20
+     5.2 PROPOSAL EVALUATION ...................................................................................................................................................... 20
+     5.3 COST PROPOSAL EVALUATIONS – RECIPROCAL PREFERENCE ........................................................................................................ 20
+     5.4 CLARIFICATIONS OF OFFERORS – DISCUSSIONS...................................................................................................................... 21
+     5.5 RIGHT OF REJECTION .......................................................................................................................................................... 21
+     5.6 PRESENTATIONS OR DEMONSTRATION ................................................................................................................................ 21
+     5.7 BEST AND FINAL OFFERS ...................................................................................................................................................... 21
+
+
+                                                                                      Page 2 of 25
+RFP # 43-2017
+     5.8 NEGOTIATIONS ............................................................................................................................................................... 22
+     5.9 CONTRACT APPROVAL ....................................................................................................................................................... 22
+SECTION SIX – CONTRACT INFORMATION................................................................................................................... 23
+     6.1 NORTH DAKOTA CONTRACTUAL REQUIREMENTS – BACKGROUND ............................................................................... 23
+     6.2 CONTRACT TERMS AND CONDITIONS – OFFEROR’S PROPOSED CHANGES ..................................................................................... 23
+     6.3 CONTRACTUAL TERMS AND CONDITIONS – NO MATERIAL CHANGES ...................................................................................................23
+     BECAUSE UND MAY ONLY OBLIGATE THOSE FUNDS THAT HAVE BEEN APPROPRIATED TO IT BY THE LEGISLATIVE
+     ASSEMBLY AND MAY ONLY OBLIGATE THOSE FUNDS FOR THE PURPOSES FOR WHICH THE FUNDS WERE APPROPRIATED,
+     UND WILL NOT AGREE TO CLAUSES WHICH MAY OBLIGATE IT TO PAY FOR CLAIMS THAT MIGHT EXCEED ITS CURRENT
+     FUNDING APPROPRIATION .................................................................................................................................................... 25
+     6.4 SCOPE OF WORK ................................................................................................................................................................. 25
+     6.5 CONTRACT TERM................................................................................................................................................................. 25
+     6.6 COMPENSATION .................................................................................................................................................................. 25
+     6.7 TAXES ............................................................................................................................................................................... 25
+
+
+                                                                                ATTACHMENTS
+1.           Cost Proposal
+2.           Proposal Evaluation Process
+3.           Contract
+
+
+
+
+                                                                                      Page 3 of 25
+RFP # 43-2017
+                                   SECTION ONE – INSTRUCTIONS
+
+1.0    PURPOSE OF THE RFP
+The University of North Dakota (UND) is requesting proposals from qualified Contractors to conduct a
+website redevelopment project using its existing content management system, OmniUpdate. The
+University is seeking a comprehensive solution to help reinvigorate its Web presence to support the
+creation of a student-centric website that is marketable and user friendly, while integrating social
+features, sharable content and abundant imagery.
+
+
+1.1.    PROCUREMENT OFFICER CONTACT INFORMATION
+The procurement officer is the point of contact for this RFP. Offerors shall direct all communications
+regarding this RFP to the procurement officer.
+PROCUREMENT OFFICER: Jana Thompson
+E-MAIL: jana.k.thompson@und.edu
+PHONE: 701-777-2126
+TTY Users call: 7-1-1
+FAX: 701-777-3948
+1.2.    ASSISTANCE TO INDIVIDUALS WITH A DISABILITY
+Contact the procurement officer, as soon as possible, if an individual with a disability needs assistance
+with the RFP including any events in the RFP schedule so reasonable accommodations can be made.
+1.3.    SECRETARY OF STATE REGISTRATION REQUIREMENTS
+Contractors conducting business with University of North Dakota must be registered with the North
+Dakota Secretary of State. Information on registering can be found at
+http://www.nd.gov/sos/businessserv/registrations/index.html. Offerors must comply with the following
+registration requirements:
+Proposals will be accepted from unregistered offerors. The successful offeror is required to complete
+the registration process within 60 calendar days from the date a notice of intent to award is issued. If
+the successful offeror does not register within this time, its proposal may be rejected.
+If you have any questions regarding the registration process, contact the Secretary of State’s Office for
+assistance at 701-328-4284 or e-mail sosbir@nd.gov.
+1.4.    NOTICE PROVIDED
+This RFP and any related amendment and notices will be posted on the North Dakota State
+Procurement Office Online Services website. Offerors are responsible for checking this website to obtain
+all information and documents related to this RFP: https://apps.nd.gov/csd/spo/services/bidder/main.htm
+
+Offerors may request to receive notices related to this RFP by contacting the procurement officer in
+writing with the following information: RFP title, business name, contact person, mailing address,
+telephone number, fax number, and e-mail address.
+
+
+
+
+                                                Page 4 of 25
+RFP # 43-2017
+1.5.    RFP SCHEDULE
+                         EVENT                                                DATE
+ RFP issued                                                              October 4, 2016
+ Deadline for Submission of Questions and Requests
+                                                                2:00 PM CST, October 14, 2016
+ for Clarification by
+ Solicitation Amendment with Responses to Questions
+ and Requests for Clarification issued approximately (if                October 19, 2016
+ required)
+ Deadline for Receipt of Proposals by                           2:00 PM CST, November 1, 2016
+ On-site Presentations                                                  November 29, 2016
+ Notice of Intent to Award issued approximately                         December 6, 2016
+ Contract executed approximately                                        December 12, 2016
+ Contract start approximately                                          December 15, 2016
+
+1.6.    QUESTIONS AND REQUESTS FOR CLARIFICATION
+Offerors should carefully review the RFP including all attachments. Questions or requests for
+clarification must be submitted to the procurement officer in writing by the deadline identified in the RFP
+schedule. Include a reference to the applicable RFP section or subsection. E-mail is the preferred
+method of submission.
+Responses to question and requests for clarifications will be distributed as a solicitation amendment,
+unless the question can be answered by referring the offeror to a specific section of the RFP.
+1.7.    OFFER HELD FIRM
+Offerors must hold proposals firm for at least 90 days from the deadline for receipt of proposals. UND
+may send a written request to all offerors to hold their offer firm for a longer time period of time.
+1.8.    OFFEROR RESPONSIBLE FOR COSTS
+Offeror is responsible for all costs associated with the preparation, submittal, presentation, and
+evaluation of any proposal.
+1.9.    PROPOSAL SUBMISSION DEADLINE
+An offeror is responsible for ensuring that its proposal is physically received by UND prior to the
+deadline for receipt of proposals identified in the RFP schedule. A solicitation amendment will be issued
+if this deadline is changed.
+Offerors assume the risk of the method of dispatch chosen. UND assumes no responsibility for delays
+caused by any delivery service. Postmarking by the deadline shall not substitute for actual proposal
+receipt by UND. A proposal submitted orally, by email, by fax, or by other electronic means will be
+rejected. Proposals may be faxed or electronically transmitted to a third party who must put in a
+properly addressed envelope or package and deliver it to UND prior to the deadline.
+Proposals will be secured and held unopened until the deadline for receipt of proposals. As proposals
+are received, the outer envelope will be annotated with the date and time of receipt. An offeror may
+contact the procurement officer to inquire whether its proposal has been received.
+1.10.   AMENDMENT AND WITHDRAWAL OF PROPOSALS
+Offerors may amend or withdraw proposals prior to the deadline for receipt of proposals. No
+amendments will be accepted after the deadline unless they are in response to UND’s request. After
+the deadline, offerors may make a written request to withdraw proposals and provide evidence that a
+substantial mistake has been made, and UND may permit withdrawal.
+
+
+                                                Page 5 of 25
+RFP # 43-2017
+1.11.   PROPOSAL OPENING – LATE PROPOSALS REJECTED
+A public opening will not be held. At the specified date and time, each proposal will be opened in a
+manner to avoid disclosure of the contents to the competing offerors. Proposals delivered late will be
+rejected.
+1.12.   NEWS RELEASES
+Offerors shall not make any news releases related to this RFP without prior approval of UND.
+1.13.   CONFLICT OF INTEREST
+Under procurement rules, a North Dakota University System employee or official shall not participate
+directly or indirectly in a procurement when the NDUS employee or officials knows of a conflict of
+interest. Potential conflicts of interest include NDUS employees or their immediate family members
+employed by the firm, seeking employment with the firm, or with a financial interest in the firm. Potential
+conflicts of interest will be addressed in accordance with SBHE Policy 611.4
+1.14.   ATTEMPT TO INFLUENCE PROHIBITED
+Offerors must not give or offer to give anything to a UND employee or official that might influence, or
+appear to influence procurement decisions.
+1.15.   COLLUSION PROHIBITED
+Offerors must prepare proposals independently, without collusion.
+
+
+
+
+                                                Page 6 of 25
+RFP # 43-2017
+                                      SECTION TWO – BACKGROUND
+
+2.1       BACKGROUND INFORMATION
+UND is the state’s flagship research university, with nearly 15,000 students, 225+ fields of study, and
+accredited professional schools of law and medicine. In addition to its extensive undergraduate
+programs, UND offers 40 online degree programs and 84 graduate programs.
+
+On July 1, 2016, Mark Kennedy became UND’s President. Under his new visionary leadership, UND
+will enhance its marketing and communication efforts. Reinvigorating the website is a top priority.
+Content Management System
+OmniUpdate (OU) provides the content management system for most UND websites. Since the launch
+of the OU-based website in 2011, work has focused on migrating content to OU and training UND’s
+500+ content developers who create, publish and manage their own content with little oversight. This
+has resulted in 30,000+ OU pages, many of which are plagued by outdated, poorly constructed and
+duplicate content.
+No major website revisions have occurred since 2011, but some enhancements have included a custom
+calendar embed, online form processing and emailing, reusable code snippets, database-driven faculty
+directory, and custom OU templates for select landing pages.
+Note: This project does not include any UND websites that will remain outside of OU.
+Governance
+Efforts to establish Web governance have failed in the past; therefore, the UND website is not
+governed by a Web policy. Developing a Web Governance Policy is a mandate of the newly formed
+UND Marketing Council, whose work is expected to occur concurrently with the proposed project.
+A project team will be formed, under the direction of the Provost, to make final decisions regarding the
+proposed effort.
+Templates
+UND OU pages generally fall into one of three categories:
+  1. Academic templates are typically used by colleges, schools, departments or units whose
+     mission is predominantly teaching or research. These templates have horizontal global
+     navigation (orange bar), a unique logo in the header, and custom home page templates.
+  2. Nonacademic templates are reserved for units that provide the leadership and/or services that
+     keep the University operating and on mission. These templates do not have horizontal global
+     navigation and use the primary UND logo in the header.
+  3. Organization templates are used by student organizations, individual faculty sites, university
+     affiliates, and events. These templates offer some flexibility in layout, color schemes and font
+     choices.
+It is expected the abovementioned template structure will change as a result of this project.
+Integrations
+The UND OU site has system integrations that may be impacted by this project. It is expected the
+Contractor will assume responsibility to:
+          Troubleshoot technical issues that could arise.
+          Provide integration owners with specifications to replicate the new template and navigation
+           structure.
+
+
+                                                  Page 7 of 25
+RFP # 43-2017
+       Create new templates for OmniUpdate with the flexibility to accept a variety of future
+        integrations.
+
+Integrations present on the site that must be taken into consideration for the proposed effort include,
+but are not limited to:
+       Bomgar Chat Software
+       Custom Embedded Apps: Job Openings Database, TINT, A-Z Index, Directories
+       Emergency Notifications
+       Faculty Finder
+       Google Search Appliance
+       Social Media Embeds
+
+TARGET AUDIENCE
+UND does not currently leverage an Intranet-based environment. To prepare for an eventual
+transition, it is anticipated that the website will be split into two separate navigation structures with
+different target audiences for each site.
+    1. A marketing site will serve primarily prospective students and their parents. It will also have a=
+       strong focus on serving current students. Secondary audiences for this site include:
+           a. Research Community
+           b. Government Constituents (state legislature, city government, etc.)
+           c. Business and Industry (entities who employ graduates, and those seeking University=
+               partnerships)
+           d. Donors
+           e. Athletic Fans
+
+    2. A publically accessible internal site in OU that serves faculty and staff.
+
+
+GOALS
+The project has several goals, stated in order of importance:
+    1. Shift to a responsive design framework using the existing content management system,
+       OmniUpdate.
+    2. Provide a visitor-centric, rather than organization-driven, information architecture and
+       navigation.
+    3. Redevelop the site into a marketing hub to attract the right students to UND with relevant
+       content, calls to action and a fresh design.
+    4. Convert the UND calendar from an outdated custom application into an off-the-shelf, enterprise-
+       graded calendaring software providing synchronization with industry-standard calendars
+       including Outlook, iCal, and Google Calendar.
+    5. Ensure the site complies with required federal and state accessibility standards.
+
+
+2.1.    BUDGET
+UND has not established a budget for this contract.
+
+
+                                                  Page 8 of 25
+RFP # 43-2017
+                                   SECTION THREE – SCOPE OF WORK
+
+3.0 SCOPE OF WORK
+The intent of this project is to redesign UND's OmniUpdate system into a responsive,
+marketable and user friendly site.
+3.1.    APPLICABLE DIRECTIVES
+This information technology project is subject to the following directives:
+    •           SBHE Policy 1901.3 related to Information Technology Project Management
+    •           NDUS Procedure 1901.3 related to Information Technology Approval Process
+
+3.2.    INFORMATION TECHNOLOGY SOLUTION
+A. Requirements
+The proposal should include specific tasks and milestones required for successful implementation of
+each phase listed below. Additional tasks that exceed the list of minimum deliverables may be included
+in an addendum to the financial proposal.
+A design and approval process will be articulated by the Contractor and approved by the UND Project
+Team. The selected Contractor can expect to work collaboratively with the UND Project Team
+throughout the duration of the project, although the Contractor will be expected to perform all proposed
+tasks. Please describe the proposed methodology for this effort.
+Analysis
+Please describe the process the vendor will use to analyze the work that will need to be performed. Key
+areas that need to be included are:
+        How the Contractor will utilize the full access of our Google Analytics on OU websites in order to
+         evaluate effectiveness and optimize functionality of analytics as leveraged throughout the
+         institution. This should include reviewing current Google Analytics configuration and reports, and
+         making suggestions for collecting or analyzing data.
+      Usability for prospective students is a top concern. Please describe the testing tools and
+         methodology, proposed by the Contractor. Any third party tools will need to be included in the
+         cost proposal. Key areas should include user task analysis, readability, site navigability,
+         accessibility, and user experience.
+      A competitive analysis will be performed by the Contractor. Specifically, UND is looking for ways
+         to differentiate its online presence from North Dakota State University and University of
+         Minnesota – Twin Cities. Please describe the methodology the Contractor will use and the
+         anticipated output.
+      Please describe how the Contractor will conduct in-person on-campus stakeholder interviews or
+         focus groups with select administration, faculty, staff, and current students in order to gather
+         additional stakeholder information.
+Based on findings from this phase and the Contractor’s knowledge of best practices, the Contractor
+must deliver a strategy report that drives subsequent project phases. Please describe what this report
+will look like and other information it will contain.
+Information Architecture
+The objective of this phase is to provide a more visitor-centric, rather than organization driven,
+information architecture and navigation. Using knowledge gleaned from Phase I, Phase II will be
+                                                 Page 9 of 25
+RFP # 43-2017
+accomplished by performing a comprehensive site audit and making suggestions to rename,
+reorganize, and add/remove pages. Additionally, the site must be divided into external and internal
+content, with specific attention to content for faculty and staff separated from marketing content.
+Deliverables from this phase include an audit report and a sitemap that clearly defines global navigation
+and subpage navigation.
+Template Design and Testing
+The Contractor must provide a minimum of three unique responsive design concepts with each
+consisting of a home page and inner page layouts. Schematics/wireframes along with creative artwork
+and copy are to be included with each concept. The designs must strictly adhere to the UND Identity
+Guidelines (UND.edu/identity). The templates must fulfill best practices for usability and accessibility
+and comply with federal and state accessibility standards. Ease of use for the end user (content
+developer) must also be considered. The Offeror must provide proof of meeting these guidelines.
+Please describe how you intend approaching meeting these standards.
+The concepts will be reviewed by the project team and one concept will be selected to develop the new
+templates. Responsive template development should include:
+       Design basics such as multiple layouts, a pattern library, web-friendly fonts, page printing
+        options, icons, graphics, etc.
+       HTML and CSS that retains mark-up references in order to limit the amount of content that
+        needs to change in OU.
+       XSL that uses potions of the current XSL to transform raw content in OU pages into usable
+        website pages.
+       Programming (ColdFusion and PHP) to pull together different parts of the pages such as
+        headers, footers, and more complex pages or content.
+       OU templates (TCF and TMPL files) with flexible layout options.
+       Open graph compatible meta data.
+       Search engine optimization.
+
+The Contractor will work with the UND Project Team to test (e.g., code validation and fix bugs)=
+templates.
+Content Creation and Migration
+Much of the site content will remain the same; however, there will be changes in the following areas:
+       Key Marketing Pages – The Contractor is to create up to 30 marketing-focused pages,
+        including the UND home page and primary landing pages. New pages must include
+        documentation of SEO initiatives implemented, including projected Google search rankings
+        amongst top site keywords.
+       Content (Copy/Graphics/Videos) – The Project Team will use its photography database to
+        update photography; however, new body copy, graphics and video elements are expected from
+        the Contractor for key marketing pages.
+       Calls-to-Action – Generating action (e.g., getting prospective students into the admissions
+        funnel, having current students share pages via social media) will require changes to copy and
+        page functionality.
+       New Calendar – UND’s calendar system is custom and no longer meeting needs. A new off-
+        the-shelf calendar system including full synchronization capacity with Outlook and industry-
+        standard calendaring such as CalDAV, Google Calendar etc. must be selected by the
+        Contractor and integrated throughout the site.
+                                                Page 10 of 25
+RFP # 43-2017
+A formal protocol will be established by the project team to audit existing content in OU and prepare it
+for migration into the new templates. The Contractor will serve as a consultant during this process. The
+Contractor will provide UND with a training guide to be used by content developers prior to and
+following the site launch.
+Please describe how the Contractor will support UND with this process including the possibility of
+collaborating with OmniUpdate directly to assist with the migration of content to the new templates
+using the OU Campus Migration Tool.
+Post-Launch Usability Testing and Support
+The Contractor is expected to test the effectiveness of the site post launch by repeating the usability
+testing conducted in Analysis to confirm the success of the design. Please describe the process the
+Contractor will use to re-test usability.
+The Contractor will provide 160 hours of post-launch support to the UND Project Team. Please
+describe the support services the Contractor will provide.
+OPTIONAL ADD-ON TASKS
+The following items are options that UND would like the Contractor to describe and price as optional
+additional services to be provided. These costs will not be included in the price evaluation but may be
+considered during contract negotiations.
+Task 1: Recommendations Report
+
+The UND website has been in a state of underperformance for several years, resulting in the need to
+rethink many of its most fundamental aspects. The Contactor should use the information gleaned from
+this project in conjunction with industry knowledge of best practices to prepare a formal
+recommendation report. Items that could be addressed in the report include, but are not limited to:
+
+       Content maintenance/management
+       Email or other digital marketing
+       Intranet options
+       Sharable content
+       Social media
+       Web governance
+       Web staffing
+
+Offerors should describe how they would accomplish this task.
+
+Task 2: Central Academic Program Website
+Currently, online content for UND’s 225+ academic programs is managed differently by individual
+departments, the Office of the Registrar, and separate recruitment offices (undergraduate, graduate,
+online, medical and law schools). The goal of this task is create a streamlined and convenient single
+location where prospective students can review all academic programs and take next steps.
+Step 1: The Contractor will evaluate and recommend one of the following approaches. Note: Custom
+applications will not be considered.
+
+    1. Use UND’s existing CourseLeaf instance by changing the look, content and feel of the catalog.
+       Example: guide.berkeley.edu.
+    2. Pull content out of CourseLeaf and embed it wherever applicable (e.g. department sites,
+       academic degree programs pages) in OU templates.
+                                                Page 11 of 25
+RFP # 43-2017
+    3. Use an off-the-shelf software that integrates with OU.
+
+UND must make a decision regarding the approach before subsequent tasks start.
+Step 2: The Contractor will create one custom template to be used by each program. The program
+pages must be searchable by keyword, area of interest, college/department, degree level, and other
+options (e.g., online, concurrent, joint). A custom home page is also requested.
+Step 3: Create new content for 225+ programs which includes:
+       Writing body copy tailored to the student’s decision making process.
+       Producing one unique 30 second promotional video for each program that highlights its unique
+        value proposition.
+       Generating new images/interactive elements to add visual appeal to pages.
+       Developing a new inquiry form.
+
+UND will assume responsibility for vetting the content.
+Step 4: The Contractor will migrate all content and perform testing. Contractor to provide 80 hours of
+post-launch support.
+The Contractor should provide the methodology and processes they would use to accomplish this.
+Task 3: Campus Map
+
+The goal of this task is to replace the virtual tour (powered by You Visit) and various printed campus
+maps with a new off-the-shelf campus map.
+
+Step 1: The Contractor will evaluate and recommend a software that is capable of producing interactive
+and printed maps.
+
+       Printed maps must have flexible layers that allow maps to be produced for various print pieces
+        and saved as PDF files.
+       Interactive maps must be multiplatform capable with flexible features such as information boxes,
+        GPS and directional tools, social media integration, and analytics.
+       3D and 2D options are preferred.
+
+Note: Custom applications will not be considered.
+UND must make a decision regarding the approach before subsequent tasks start.
+Step 2: The Contractor will use an updated base map provided by UND to create a new master campus
+map. The Contractor will be responsible for all map content.
+
+Step 3: The Contractor will provide 40 hours of post-launch support.
+The Offeror should describe the process they will used to accomplish this task and any experience
+utilizing mapping tools for project similar to this one.
+B. Location of Work – Travel
+Contractor will be required to travel as follows:
+       Travel to UND for Analysis
+       Travel to UND for Go-Live
+
+
+                                                    Page 12 of 25
+RFP # 43-2017
+C. UND Furnished Property and Services
+UND will provide work space while at the University, internet access, and scheduled meetings with
+stakeholders.
+UND will provide a primary project manager.
+Risk Management Requirements
+Please reference the insurance requirements in the Contract - Attachment 3.
+Contractor will take appropriate measures to ensure the safety of its employees, UND employees, the
+public, and property. Contractor must identify any additional risks associated with the project.
+D. Project Management Requirements
+UND and Contractor will be required to comply with the NDUS’s requirements related to Project
+Management of Large Information Technology Requirements. The project shall follow the Project
+Management Institute’s (PMI) Project Management Body of Knowledge (PMBOK)
+The Contract - Attachment 3 includes provisions related to Project Management.
+The UND project manager will prepare a Project Plan using the UND methodology and applicable
+template: http://cts.ndus.edu/sits-departments/office-of-the-cio/project-management-oversight/. The
+Contractor will need to provide information necessary to prepare the Project Plan.
+UND’s project manager will direct and manage the project on a day-to-day basis and will have the
+primary responsibility for management of the project. The Contractor’s project manager and lead
+consultants will report to UND’s project manager within the project’s governance structure.
+During the planning phase, Contractor shall be responsible for the project management related
+tasks/information specified below.
+        Contractor Primary Responsibilities:
+                a. Provide a Quality Management Plan to include the methodology for maintaining quality
+                   of the code and workmanship, and related subcontractor(s) activities where appropriate.
+                b. Provide a Test Management Plan which describes how the Contractor and UND shall
+                   verify the product meets the requirements.
+        Contractor Secondary Responsibilities:
+        1.         Assist in the development of detailed schedule with fixed deadlines to include:
+                   a. A work breakdown structure;
+                   b. Schedule including tasks, activities, activity duration, sequencing and dependencies;
+                   c. Completion date of each task;
+                   d. Milestones; including entrance and exit criteria for specific milestones;
+        2.         Assist in the development of the Human Resources Plan to include:
+                   a. Staff assigned and their location and schedule;
+                   b. The project resources required;
+                   c. Resource allocation percentage by role
+                   d. Contractor’s resources
+                   e. UND resources.
+        3.         Assist in the development of a Communication Plan including: a plan for generation,
+                   documentation, storage, transmission and disposal of project information.
+        4.         Assist in and review of the Risk Management Plan to ensure that risks are identified,
+                   planned for, analyzed, communicated and acted upon effectively.
+        5.         Assist in the development of the Training Plan.
+        6.         Assist in the development of the Implementation Plan.
+
+
+                                                   Page 13 of 25
+RFP # 43-2017
+        7.      Assist in the development of the Transition Plan. This plan shall describe the steps
+                necessary to turn the final deliverables over to the UND. The plan shall contain sufficient
+                information to assure that all necessary steps are identified and that each step has
+                sufficient resources assigned.
+        8.      Assist in the development of the Project Closeout Report to include participation in the
+                lessons learned exercise.
+E. Contract Schedule and Deliverables
+CONTRACTOR shall develop a schedule for accomplishing the Scope of Work, including these specific
+deliverables.
+UND and CONTRACTOR will agree upon acceptance criteria for deliverables.
+        1.   Project ‘Kick Off’ meeting: Estimated: November 3,
+             2016
+        2.   Planning
+        3.   Research
+        4.   Information Architecture
+        5.   Design & Testing
+        6.   Content Conversion
+             a. Content Creation
+             b. Content Conversion plan
+             c. Conversion of content
+        7.   Testing
+        8.   Training
+             a. Training plan
+             b. End user training
+             c. End User manuals
+             d. Application administration training
+             e. System and application administrator manuals
+        9.   Implementation: Estimated: March 1, 2018
+        10.  Closing
+        11.  Post Implementation Report
+3.3.    PRODUCT SUPPORT AND CUSTO MER SERVICE REQUIREMENTS
+
+A. Warranty
+Contractor must provide a minimum 30-day warranty for the proposed solution. The Contract –
+Attachment 3 includes provisions related to warranties. UND will consider options for additional
+warranty coverage.
+3.4.    OFFEROR EXPERIENCE AND QUALIFICATIONS MANDATORY REQUIREMENTS
+Offerors must meet the following experience and qualifications mandatory requirements:
+    1. Offeror must have performed similar work for a comparably sized institution of higher education
+       and industry experience within the previous two years.
+    2. Offeror must have at least three years’ professional experience conducting similar projects in
+       OmniUpdate.
+    3. Must be able to complete all work without employing subcontractors (with the exception of third-
+       party research and content migration).
+
+
+
+
+                                                 Page 14 of 25
+RFP # 43-2017
+                                     SECTION FOUR – PROPOSAL
+
+4.0             PROPOSAL PREPARATION AND SUBMISSION
+UND discourages overly lengthy and costly proposals. An offeror must prepare its proposal using the
+prescribed proposal format and provide all the requested information; this will enable the proposal to be
+evaluated fairly and completely. Proposals not submitted in this format may be considered
+unresponsive. If an offeror submits more than one proposal, each proposal must be prepared in
+accordance with these instructions.
+Proposals become property of UND.
+4.1.    FORMAT & PROPOSAL SUBMISSION INSTRUCTIONS
+Format: Each proposal will include a technical proposal and a cost proposal prepared in accordance
+with these instructions.
+Technical Proposal – Format the proposal with the following labeled sections:
+        Section 1 – Cover Letter
+        Section 2 – RFP Amendments
+        Section 3 – Information Technology Solution
+        Section 4 – Product Support and Customer Service
+        Section 5 – Experience and Qualifications
+        Section 6 – Sample Portfolio Website Links
+        Section 7 – Contract Provisions
+        Section 8 – Open Records and Confidentiality
+Cost Proposal – Submit in a separate sealed envelope.
+Submission Instructions: Offerors shall clearly address all envelopes or packages as follows:
+        University of North Dakota
+        Procurement & Payment Services
+        Attention: Jana Thompson
+        RFP: UND Website Redevelopment
+        RFP Number: 43-2017
+        264 Centennial Dr., Stop 8381
+        Grand Forks, ND 58202
+Offeror shall submit two (2) paper copies of its Technical Proposal.
+Offeror shall submit one paper copy of its Cost Proposal in a sealed envelope, clearly labeled “Cost
+Proposal.”
+Offeror shall submit an electronic copy of its proposal on a USB Flash Drive or CD. The electronic copy
+should be in a PDF format with the Technical Proposal and Cost Proposal saved as separate files.
+
+
+
+
+                                               Page 15 of 25
+RFP # 43-2017
+4.2.    TECHNICAL PROPOSAL
+Section 1 – Cover Letter.
+Proposals shall include a cover letter signed by an individual with authority to bind the offer that
+includes the following:
+    1. The name of the offeror, name of the person to contact regarding the proposal, email address,
+       telephone number, and mailing address.
+    2. A statement that the Offeror has read and agrees to comply with the requirements stated in this
+       Request for Proposal.
+    3. A statement that the Offeror’s proposal accurately describes the information technology solution
+       and services being offered to UND.
+    4. A statement indicating whether or not the firm or its employees have an apparent or actual
+       conflict of interest, such as immediate family members employed by the North Dakota University
+       System, or NDUS employees with a financial interest in the firm.
+Section 2 – RFP Amendments.
+Provide signed copies of all Solicitation Amendments issued by UND that were required to be
+acknowledged by offerors.
+Section 3 – Information Technology Solution
+Offerors must provide a point-by point response to explain how the proposed solution will meet all the
+requirements and achieve the stated objectives described in RFP Section 3, Scope of Work, subsection
+3.2 Information Technology Solution. Provide all requested information and documents.
+        A. Requirements
+        Requirements: Clearly describe how the proposed solution meets all requirements. Provide any
+        additional information to fully explain the solution being proposed. Proposals must follow the
+        same numbering used in the RFP, Section 3.2. A Requirements.
+        Value-Added Features
+        The proposed solution may include value-added features. Value-added features include any
+        functionality, products, services, optional modules, or upgrades that are not part of the IT
+        requirements in this RFP. Describe any additional functionality, products, optional modules,
+        upgrades or services that you offer and are not a part of the RFP requirements that you believe
+        would add value to your proposed work on this project.
+                1. Offeror shall list the cost of value-added features separately in the cost proposal.
+                2. UND shall not consider these costs as part of cost evaluation scoring.
+                3. UND reserves the right to include value-added features from the proposals during
+                   contract negotiations.
+        B. Enterprise Architectural Requirements
+            A.1.1 Compatibility with Existing Technology. Describe how the proposed solution
+                  including products and services is compliant with the UND’s technology standards.
+        C. Location of Work – Travel
+        Describe any workspace requirements or travel included in your proposal.
+        Identify any travel requirements other than those indicated in Section 3.2B.
+        Please include the number of people traveling as well as duration of stay for travel indicated in
+        Section 3.2B as well as any additional travel.
+
+
+
+                                                    Page 16 of 25
+RFP # 43-2017
+        D. UND Furnished Property and Services
+        Provide a detailed breakdown of Offeror’s expectations for UND resources that will be needed
+        for the project, including number of staff, qualifications, roles and responsibilities and the
+        percentage of time for each resource for the various phases of the project.
+        E. Risk Management and Safety Requirements
+        Describe any risks you feel could impact a timely and fully successful completion of the project.
+        Describe what measures will be taken to avoid or minimize these risks. Identify any additional
+        measures the UND can take to mitigate these risks
+        F. Project Management Requirements
+        The offeror must:
+                1. Describe your strategy for accomplishing the Project Management Requirements
+                   described in section 3.2.E. of the Scope of Work.
+                2. Provide examples of project management methodologies, tools, and templates used in
+                   previous projects that support Offeror’ s ability to function successfully within UND’s
+                   project management framework.
+                       a. Project management methodologies
+                       b. Quality management plan
+                       c. Testing management plan
+                       d. Work breakdown structure and schedule.
+        G. Contract Schedule and Deliverables
+        Offerors must submit a draft schedule that addresses the deliverables and milestones
+        specifically described in the Scope of Work. The proposed schedule may incorporate other
+        deliverables, work products, milestones, or work breakdown that the offeror feels are significant
+        in the project.
+        The draft work schedule will cover both Offeror and UND tasks and responsibilities. Describe
+        any expectations from UND related to each deliverable or milestone.
+        The schedule must contain a timeline in the number of days or weeks with start and stop dates
+        for analysis, build, testing, and implementation.
+        Upon award, the successful Offeror’s proposed project schedule will be reviewed and refined
+        during the planning phase.
+Section 4 – Product Support and Customer Service Requirements
+Offerors must provide a point-by point response to RFP Section 3, Scope of Work, Section 3.3, Product
+Support and Customer Service Requirements. Provide all requested information. Clearly describe how
+the proposed solution meets all requirements. Provide any additional information to fully explain the
+solution being proposed. Proposals must follow the same numbering used in the RFP. For example:
+        A. Warranty
+        Describe all warranties included for the proposed solution. All costs associated with the
+        warranties must be clearly outlined in the cost proposal.
+
+
+
+
+                                                   Page 17 of 25
+RFP # 43-2017
+Section 5 – Experience and Qualifications
+An Offeror must provide information to demonstrate meeting the Offeror Experience and Qualifications
+Mandatory Requirement in RFP Section 3, Scope of Work, Subsection 3.4 Offeror Experience and
+Qualifications Mandatory Requirements.
+        A. Prior Experience
+        Describe the number of years the offeror has provided the type of work requested in this RFP.
+        Describe specific experience of their firm in completing similar projects. Provide a description of
+        the project, approximate time frame of the project, and contact information for the customer.
+        B. Project Team
+        Provide a narrative or organizational chart that describes the organization of the proposed
+        project team. Provide information for key project team members, including:
+                1. Description of anticipated work they will perform and approximate estimated hours;
+                2. Resume or description of the relevant education, training, experience, skills and
+                   qualifications;
+                3. If the offeror has vacant positions, identify the job description and minimum qualifications
+                   for staff members to be recruited.
+                4. Subcontractors. If an offeror intends to use subcontractors, the offeror must identify in
+                   the proposal the names of the subcontractors and the portions of the work the
+                   subcontractors will perform. Provide a statement that the offeror will ensure that the
+                   subcontractor has or will obtain any required licenses and registrations, including
+                   registration with the North Dakota Secretary of State.
+                5. Joint Venture. If submitting a proposal as a joint venture, offeror must submit a copy of
+                   the joint venture agreement that identifies the parties involved and its rights and
+                   responsibilities regarding performance and payment.
+                6. Provide a partial list of your company’s customers and the type of services provided.
+                   Describe your company’s process in conducting similar projects.
+                7. Define what distinguishes your company and services from your competition.
+                8. Provide an online portfolio.
+
+        C. References
+        Provide three references for similar projects the offeror has completed. Offerors must include the
+        name of a contact person, address, e-mail, and telephone number. Offerors are instructed to
+        notify the reference that UND will be contacting them. Evaluation will be impacted if UND is
+        unable to contact the reference or the reference does not timely provide the requested
+        information.
+Section 6 – Contract Provisions
+        A. Contract
+        Offerors shall review Contract – Attachment 3.
+        The proposal must include a copy of the Contract completed according to the instructions in the
+        attachment.
+        Offerors are not to submit their own standard terms and conditions with their proposals. Offerors
+        should address the specific language in the attached contract and submit any proposed
+        changes or additional terms and conditions an offeror seeks to present for consideration by
+        UND.
+
+
+
+                                                    Page 18 of 25
+RFP # 43-2017
+        B. Proposed Additional Terms
+        The proposal may also include any proposed additional terms and conditions, such as a
+        software licensing agreement or maintenance agreement.
+Section 7 – Open Records and Confidentiality
+The state of North Dakota has broad open records laws. Proposals received are exempt from open
+record requirements until an award is made, in accordance with N.D.C.C. § 44-04-18.4(6). After award,
+proposals are subject to the North Dakota open records laws. Proposals or portions of proposals may
+be confidential only if specifically stated in law.
+Offerors are instructed not to mark their entire proposal as “confidential.”
+Offerors must provide one of the following in their proposal:
+    •           Provide a statement indicating that their proposal does not contain any confidential
+                information, or;
+    •           Make a written request to hold confidential any trade secrets and other proprietary data
+                contained in its proposal. Offeror must clearly identify the material considered confidential
+                and explain why the material is confidential. See the North Dakota Office of the Attorney
+                General website for additional information. http://www.ag.nd.gov/OpenRecords/ORM.htm
+If UND receives a request for public information, the procurement officer, in consultation with the NDUS
+Legal Counsel, shall determine whether the information is an exception to the North Dakota open
+records laws, and the information shall be processed accordingly.
+4.3.    COST PROPOSAL
+Cost proposals must be submitted in a separate sealed envelope clearly marked “Cost Proposal.”
+Cost proposals must provide a total proposed cost for completing the requirements of this RFP. Include
+a detailed itemization of the cost proposal (e.g. breakdown of the project costs, direct and indirect
+expenses, total number of hours at various hourly rates, overhead, travel, etc.).
+All costs must be stated in U.S. currency. Any commodities being imported must be identified, and the
+price must include any applicable customs, brokerage agency fees, and duties.
+The offeror should describe any discount terms for prompt payment. Discounts for prompt payment will
+not be considered in evaluating costs.
+Provide costs associated with any Value-Added Features included in your proposal response. Provide
+details related to initial costs, reoccurring costs, and options.
+The offeror must complete the Cost Proposal – Attachment 1 or prepare a cost proposal following the
+same format.
+4.4.    SIMILAR WORK
+The offeror must provide a list of a minimum of five (5) website links to similar work being proposed to
+UND and describe how the work addressed or exceeded the clients’ goals. Offerors must provide
+examples of work completed for other clients to demonstrate experience with similar projects.
+
+
+
+
+                                                     Page 19 of 25
+RFP # 43-2017
+                              SECTION FIVE – PROPOSAL EVALUATION
+
+5.1 AWARD
+UND INTENDS TO AWARD A CONTRACT TO THE RESPONSIBLE OFFEROR WHOSE
+PROPOSAL IS DETERMINED TO BE RESPONSIVE TO THE REQUIREMENTS OF THE
+SOLICITATION AND IS DETERMINED TO BE MOST ADVANTAGEOUS IN CONSIDERATION OF
+THE RFP EVALUATION CRITERIA.EVALUATION CRITERIA
+Proposals will be evaluated using a 100-point scale. The evaluation criteria and relative weight is as
+follows:
+Technical Proposal Evaluation: 75 Points
+    A. Approach to Work – 30 Points
+    B. Experience and Qualifications – 45 Points
+Cost Proposal Evaluation: 25 Points
+5.2 PROPOSAL EVALUATION
+    A. Responsiveness
+        All proposals will be evaluated to determine if they are responsive to the requirements of the
+        solicitation. UND reserves the right to waive minor informalities. Minor informalities are
+        insignificant omissions or nonjudgmental mistakes that are matters of form rather than
+        substance, evident from RFP document, with a negligible effect on price, quantity, quality,
+        delivery, or contractual conditions that can be waived or corrected without prejudice to other
+        offerors.
+        Responsive proposals will be evaluated by the procurement officer or evaluation committee
+        using the evaluation criteria stated in the RFP. The technical proposals evaluation score and
+        cost proposal evaluation score will be added to determine the total evaluation score. After the
+        initial evaluation, the evaluation committee may determine which proposals are reasonably
+        susceptible for award and short-list the evaluation process to only those offerors. The final
+        evaluation score will consider information received by UND, including but not limited to,
+        discussions with offerors, demonstrations, presentations, site visits, reference checks, and best
+        and final offers.
+    B. Responsibility
+        UND may, at any time, make a supplementary investigation as to the responsibility of any
+        offeror. This investigation may include, but is not limited to, financial responsibility, performance
+        record, or other matters related to the offeror’s probable ability to deliver if a contract is awarded
+        to the offeror. UND reserves the right to contact references, other customers, including state
+        and local government agencies, regarding past experience with the offeror. If it is determined
+        that an offeror appears not to be sufficiently responsible, the proposal will be rejected.
+5.3 COST PROPOSAL EVALUATIONS – RECIPROCAL PREFERENCE
+UND will calculate evaluation points awarded to cost proposals. Any prompt payment discount terms
+proposed by the offeror will not be considered in evaluating cost.
+The cost amount used for evaluation may be affected by the application of North Dakota Preference
+laws in accordance with SBHE Policy 803.1(7).
+
+
+
+
+                                                  Page 20 of 25
+RFP # 43-2017
+After applying any reciprocal preference, the cost proposal with the lowest cost will receive the
+maximum number of points. Points awarded to other cost proposals will be calculated as follows:
+
+
+
+
+5.4 CLARIFICATIONS OF OFFERORS – DISCUSSIONS
+In order to determine if a proposal is reasonably susceptible for award, communications by the
+procurement officer or evaluation committee are permitted with an offeror to clarify uncertainties or
+eliminate confusion concerning the contents of a proposal and determine responsiveness to the RFP
+requirements. Discussions will be limited to the specific section of the RFP or proposal indicated by the
+UND.
+In conducting discussions, there may be no disclosure of any information derived from proposals
+submitted by competing offerors. Clarifications may not result in a material or substantive change to the
+proposal.
+Discussions are generally conducted by telephone or internet-based conference.
+5.5 RIGHT OF REJECTION
+UND reserves the right to reject any proposals, in whole or in part. Proposals received from suspended
+or debarred bidders will be rejected. Proposals determined to be nonresponsive, to the requirements of
+the RFP will be rejected. UND reserves the right to reject the proposal of an offeror determined to be
+not responsible. UND reserves the right to refrain from making an award if determined to be in its best
+interest.
+5.6 PRESENTATIONS OR DEMONSTRATION
+Offerors whose proposals are determined to be reasonably susceptible for award will be required to
+provide a presentation for the evaluation committee. Offerors shall be responsible for all associated
+costs, including any travel and per diem.
+Location: Grand Forks, ND
+5.7 BEST AND FINAL OFFERS
+UND is not obligated to request best and final offerors; therefore, offerors should submit their best
+terms (technical and cost) in response to this RFP.
+If UND determines there is a need for any additional information, substantial clarification or changes to
+the RFP or proposals, UND may request for best and final offers from offerors that have submitted
+proposals determined to be reasonably susceptible for award. The best and final offer request will
+describe the additional information, clarification, or change being requested.
+A date and time will be established for receipt of revised proposals. If an offeror does not submit a best
+and final offer, UND shall consider its original proposal as its best and final offer.
+Best and final offers will be evaluated using the evaluation criteria stated in the RFP.
+
+
+
+
+                                                 Page 21 of 25
+RFP # 43-2017
+5.8 NEGOTIATIONS
+UND may enter into negotiations with one or more offeror whose proposals received the highest scores
+and are reasonably susceptible for award. During negotiations, UND and offeror may agree to alter or
+otherwise change the terms and conditions and price of the proposed contract. Negotiation, if held, will
+be within the scope of the RFP and limited to those items that would not have an effect on the ranking
+of proposals.
+The Offeror will be responsible for all costs, including any travel and per diem expenses.
+Contract negotiations will be conducted primarily by e-mail, conference calls, or internet-based
+conference. Any on-site negotiation, if needed, will be held at the University.
+UND may terminate negotiations, reject a proposal as nonresponsive, and continue or commence
+negotiations with other offerors reasonably susceptible for award, if the offeror:
+    •           fails to provide necessary information for negotiation in a timely manner,
+    •           fails to negotiate in good faith,
+    •           is unable to successfully negotiate contract terms that are acceptable to UND, or
+    •           indicates that it cannot perform the contract within the budgeted funds.
+5.9 NOTICE OF INTENT TO AWARD
+After proposals have been evaluated and the successful offeror selected, notice of intent to award will
+be promptly issued to all offerors that submitted proposals. Upon issuance of this notice, the
+procurement file becomes an open record.
+The successful offeror named in the Notice of Intent to Award is advised not to begin work, purchase
+materials, or enter into subcontracts until the successful offeror and UND sign the contract.
+5.10 CONTRACT APPROVAL
+This RFP does not, by itself, obligate UND. UND's obligation shall commence when UND signs the
+contract. Upon written notice to the Contractor, UND may set a different starting date for the contract.
+UND shall not be responsible for any work done by the Contractor, even work done in good faith, if it
+occurs prior to the contract start date set by UND.
+
+
+
+
+                                                    Page 22 of 25
+RFP # 43-2017
+                                 SECTION SIX – CONTRACT INFORMATION
+
+6.1 NORTH DAKOTA CONTRACTUAL REQUIREMENTS – BACKGROUND
+As a public institution and government entity of the North Dakota University System (NDUS), there are
+a number of statutes, rules, and policies (Requirements) that may restrict or prevent UND from entering
+into certain types of contracts or certain contractual terms and conditions, some of these Requirements
+are non-negotiable.
+While these requirements occasionally make the process of negotiating a contract with UND more
+challenging than negotiating with a private industry business, these are not unique to any one institution
+of the North Dakota University System. These requirements apply to all public institutions and
+government entities of the state of North Dakota. Although some are unique to North Dakota, the
+majority of these requirements are common to public institutions and government entities throughout
+the United States.
+6.2 CONTRACT TERMS AND CONDITIONS – OFFEROR’S PROPOSED CHANGES
+UND intends to execute a contract substantially similar to the Contract – Attachment 3. The Contractor
+must comply with the terms and conditions set forth in attached contract. Relevant North Dakota and
+SBHE procurement statutes, rules, and policies allow some negotiation of the terms and conditions. No
+changes to the terms and conditions will be permitted without prior written approval from UND.
+Proposals subject to conditions imposed by the Offeror may be rejected as nonresponsive, as
+determined by UND.
+Proposed terms and conditions that conflict with those contained in the attached contract or that
+diminish the UND’s rights under the contract shall be considered null and void. The terms and
+conditions in the attached contract shall prevail in the event a conflict arises between a term or
+condition in the proposal and a term or condition in the attached contract.
+Part or all of this RFP and offeror’s proposal may be incorporated into the attached contract.
+Proposed alternate language shall not be considered accepted by UND without UND’s written
+acceptance of such language. UND may deem any failure to object to a contract provision as the
+Offeror’s acceptance of that provision.
+UND instructs Offerors to contact the Procurement Officer in writing by the deadline set for questions in
+the RFP Schedule with any concerns regarding the contract provisions, including any proposed,
+alternate language.
+6.3 CONTRACTUAL TERMS AND CONDITIONS – NO MATERIAL CHANGES
+    A.1.2 Indemnification and Insurance
+                N.D.C.C. § 32-12.2-17 requires that the Office of Management and Budget establish
+                guidelines for indemnification and insurance provisions in state contracts. The
+                indemnification and insurance requirements contained in the attached contract are pursuant
+                to those guidelines. UND shall not be deemed to have accepted any alteration of these
+                provisions without prior written approval to offeror from UND acting in consultation with
+                NDUS general counsel.
+
+
+
+
+                                                   Page 23 of 25
+RFP # 43-2017
+                Indemnification
+                Indemnification is a contractual clause by which one party to a contract asks the other party
+                to defend it against any claims of third parties who might be injured as a result of something
+                that occurs while the parties are performing their duties and obligations under the contract.
+                Without specific authority and approval to do so, as outlined in SBHE Policy 840, UND
+                institutions cannot enter into agreements indemnifying contractors, or any other entity,
+                against third party claims.
+                Any clause that has the intent of indemnification, without using the words “indemnity” or
+                “indemnify,” are not clauses to which UND may agree, except in conformity with SBHE
+                Policy 840.
+                You are cautioned that UND will not agree to clauses to indemnify a contractor “to the extent
+                permitted by law.” Two reasons exist for this position. First, UND knows that the extent to
+                which the law permits it to indemnify contractors is to no or very limited extent, and it would
+                therefore be disingenuous for UND to imply in a contract that there might be some set of
+                circumstances under which UND would defend the contractor against a third party claim(s).
+                Simply put, UND is not going to agree to something it knows it cannot do. Second, the
+                “extent” clause is simply an invitation to litigate the matter in the event a third party claim(s)
+                arises, and UND does not enter into agreements that invite litigation.
+                Insurance
+                Upon receipt of the Notice of Intent to Award, the successful offeror must obtain the required
+                insurance coverage and provide the procurement officer with proof of coverage prior to
+                contract approval. The coverage must be satisfactory to UND, in consultation with NDUS
+                general counsel. The successful offeror’s failure to provide evidence of insurance coverage
+                is a material breach and grounds for withdrawal of the award or termination of the contract.
+    A.1.3 Limitation of Liability N.D.C.C. § 32-12.2-15 establishes that UND is prohibited from limiting
+          direct damages, including those resulting from property damage or personal injury. Any
+          request by an offeror for UND to limit direct damages is a request to which UND cannot
+          agree. Waivers of Jurisdiction and Venue; Alternative Dispute Resolution
+                You are cautioned that the UND has limited authority to agree to the jurisdiction or the laws
+                of another state or federal courts, and cannot do so except in consultation with NDUS
+                general counsel. You are further cautioned that the UND has limited authority to
+                contractually agree to alternative dispute resolution methods, and cannot agree to do so
+                except in consultation with NDUS general counsel.
+    A.1.4 Confidentiality
+                All state agencies of North Dakota are subject to North Dakota public records laws. UND
+                cannot agree to contractual terms that attempt to prevent it from having to disclose records
+                that are declared public records under applicable statutes. Although some confidentiality
+                and exemptions are allowed under the public records laws, UND may not agree to more
+                restrictive obligations concerning its records. Under North Dakota public records laws,
+                contracts are records that are open to the public and may be reviewed at the request of the
+                public.
+
+
+
+
+                                                      Page 24 of 25
+RFP # 43-2017
+    A.1.5 Unliquidated Expenses (i.e., attorney’s fees, add-ons, cost increases)
+                Because UND may only obligate those funds that have been appropriated to it by the
+                Legislative Assembly and may only obligate those funds for the purposes for which the
+                funds were appropriated, UND will not agree to clauses which may obligate it to pay for
+                claims that might exceed its current funding appropriation.
+6.4 SCOPE OF WORK
+The Scope of Work agreed upon by the parties will be incorporated into the attached contract.
+6.5 CONTRACT TERM
+The contract term will be set forth in contract, including any options for extension, renewal, and
+renegotiation.
+6.6 COMPENSATION
+Compensation and payment terms will be set forth in the contract based upon the successful offeror’s
+proposal.
+6.7 TAXES
+A contractor performing any contract, including service contracts, for the United States Government,
+State of North Dakota, counties, cities, school districts, park board or any other political subdivisions
+within North Dakota is not exempt from payment of sales or use tax on material and supplies used or
+consumed in carrying out contracts. In these cases, the contractor is required to file returns and pay
+sales and use tax just as required for contracts with private parties. Contact the North Dakota Tax
+Department at 701-328-1246 or visit its website at www.nd.gov/tax/ for more information.
+A contractor performing any contract, including a service contract, within North Dakota is also subject to
+the corporation income tax, individual income tax, and withholding tax reporting requirements, whether
+the contract is performed by a corporation, partnership, or other business entity, or as an employee of
+the contractor. In the case of employees performing the services in the state, the contractor is required
+to withhold state income tax from the employees' compensation and remit to the state as required by
+law. Contact the North Dakota Tax Department at 701-328-1248 or visit its web site for more
+information.
+
+
+
+
+                                                   Page 25 of 25
+RFP # 43-2017
+                                                                                                                                      Attachment #1
+                                                                                                                                     COST PROPOSAL
+                                                                                                                                                           Select One
+                            Description (with possible sub-categories) of Product or Service                                                                                            Unit of
+                                                                                                                                                          One-Time Cost
+         (Provide cost information for each referenced area of the RFP, if any. If no cost is associated, indicate such with a 0 in Column F.                             Quantity   Measure/Term   Price per Unit       Extension
+                                                                                                                                                          Ongoing Cost
+                                                                                                                                                                                        (time)
+Initial Solution Software Licensing Costs (Enter one-time costs only. Recurring support & Maintenance
+costs are to be entered in "Ongoing Costs" section below)
+      Required Third Party software, applications, libraries or drivers                                                                                   One-Time Cost                                              $               -
+                                                                                                                                                                                                                     $               -
+                                                                                                                                                                                                                     $               -
+                                                                                                                                                                                                                     $               -
+Deliverables based upon the proposed Scope of Work for the service deployment period (The specific
+items below must be priced, please add all deliverables pertaining to your specific solution.
+      Analysis                                                                                                                                            One-Time Cost                                              $               -
+      Information Architecture                                                                                                                            One-Time Cost                                              $               -
+      Template Design and Testing                                                                                                                         One-Time Cost                                              $               -
+      Content Creation and Migration                                                                                                                      One-Time Cost                                              $               -
+      Post-Launch Usability Testing and Support                                                                                                           One-Time Cost                                              $               -
+                                                                                                                                                                                                                     $               -
+                                                                                                                                                                                                                     $               -
+                                                                                                                                                                                                                     $               -
+                                                                                                                                                                                                                     $               -
+Ongoing Costs: (Provide ongoing costs, add additional rows if necessary for multiple maintenance/support
+options)
+      Technical Support                                                                                                                                   On-going Cost                                              $               -
+      Software Maintenance                                                                                                                                On-going Cost                                              $               -
+                                                                                                                                                                                                                     $               -
+                                                                                                                                                                                                                     $               -
+Travel: (Provide an estimate for any travel costs proposed, but not included in the prices above.)
+      Estimated Travel Costs                                                                                                                              One-Time Cost                                              $               -
+                                                                                                                                                                                                                     $               -
+                                                                                                                                                                                                                     $               -
+Standard Operating Procedures Licensing (Not included in cost evaluation)
+                                                                                                                                                                                                                     $               -
+                                                                                                                                                                                                                     $               -
+Value Added Features (Add costs for any value-added features proposed.) (Not included in cost
+evaluation)
+     Add-On Task 1: Recommendations Report                                                                                                                One-Time Cost                                              $               -
+     Add-On Task 2: Central Academic Program Website                                                                                                      One-Time Cost                                              $               -
+     Add-On Task 3: Campus Map                                                                                                                            One-Time Cost
+
+                                                                                                                                                                                                                     $               -
+
+
+
+
+                                                                                                                                            Page 1 of 1
+                                   ATTACHMENT 2
+                            PROPOSAL EVALUATION PROCESS
+
+Evaluators will use the technical proposal evaluation form in scoring responsive technical
+proposals. UND has assigned each evaluation criterion and the relative weight. The
+procurement officer will use the proposal evaluation worksheet to tally the scores for each
+vendor and to summarize the evaluation scoring. All final technical proposal evaluation forms
+and the proposal evaluation worksheet are included in the procurement file.
+
+INSTRUCTIONS FOR EVALUATORS
+UND has assigned each evaluation criterion a specific number of points. The questions under
+each evaluated area help measure the quality of the Offeror’s response. Do not assign points to
+individual questions: instead, award a total score for each evaluation criterion. Use the technical
+proposal evaluation form to make brief comments and score the proposal.
+
+CONFLICT OF INTEREST:
+Each evaluator must review the list of offerors submitting proposals and determine if they or any
+immediate family members have a conflict of interest with regard to an offeror, in accordance
+with SBHE Policy 611.4. By signing on the technical proposal evaluation form, evaluator is
+confirming no conflict of interest exists with the offeror being evaluated.
+
+RATING SCALE FOR ASSESSING VENDOR RESPONSES
+UND intends this rating scale to establish guidelines within that range to ensure members of the
+RFP evaluation committee perform their evaluation with consistency. Evaluators may assign
+any value for a given criterion from zero to the maximum number of points. A zero value
+typically constitutes no response or an inability of the vendor to meet the criterion. In contrast,
+the maximum value should constitute a high standard of meeting the criterion.
+
+For Example: “Experience and Qualifications” is an evaluation criterion receiving a weighting of
+20% of the total possible points. Using a 100-Point Scale, there can be a maximum of 20 points
+awarded. The rating scale would be:
+
+                                  Rating Scale (20 POINT Maximum)
+              Point
+              Value        Explanation
+              0            None. Not addressed or response of no value
+              1-5          Fair. Limited applicability
+              6-10         Good. Some applicability
+              11-15        Very Good. Substantial applicability
+              16-20        Excellent. Total applicability
+
+COST PROPOSAL
+The offeror is required to place cost proposals in a separate sealed envelope, and the pricing
+will not be disclosed to the evaluation committee until after the initial evaluation of proposals is
+completed.
+UND will evaluate cost as follows:
+
+
+
+
+                                            Page 1 of 10
+                                  ATTACHMENT 2
+                           PROPOSAL EVALUATION PROCESS
+
+Applying Preference Laws
+UND will not consider any prompt payment discounts terms proposed by the Offeror when
+evaluating cost. The cost amount used for evaluation may be affected by the application of
+North Dakota preference laws (N.D.C.C. § 44-08-01). The preference given to a resident Offeror
+will be equal to the preference given or required by the state of the nonresident Offeror (i.e.
+reciprocal preference).
+When evaluating cost proposals from nonresident (out-of-state) Offerors, the State will
+determine whether the Offeror’s state of residence has a preference law for vendors resident in
+that state. The State will increase the cost proposal of the nonresident Offeror by the same
+percentage of preference given to vendors resident in that state.
+For example, if the state law of the nonresident Offeror requires a 5% preference for vendors
+resident in that state, the procurement officer will increase that Offeror’s cost proposal by 5%
+before evaluation.
+See http://www.oregon.gov/DAS/Procurement/pages/index.aspx for a list of states Preference
+Laws or contact the Procurement Officer for more information.
+Converting Cost to Points
+After applying any reciprocal preference, the lowest cost proposal will receive the maximum
+number of points allocated to cost. The point allocations for cost on the other proposals will be
+determined as follows:
+
+
+
+
+                                           Page 2 of 10
+                             PROPOSAL EVALUATION PROCESS
+                               Proposal Evaluation Worksheet
+
+ RFP Number and Title
+
+ Name of Offeror:
+
+ Evaluator Name:
+ Signature of Evaluator
+ Date:
+
+THE TOTAL NUMBER OF POINTS USED TO SCORE THIS CONTRACT IS 100
+
+                                                                           Maximum
+                                                                           Points by
+                                                                           Category           Score
+ Experience, Qualifications and Sample Work                                   45
+ Approach to Work                                                             30
+ Cost                                                                         25
+
+
+INSTRUCTIONS FOR EVALUATORS
+
+It is very important that Evaluators first read all proposals one time without scoring. During the second
+reading, Evaluators should make notes about the proposals to support the initial scores. Evaluators
+should also write down any questions, concerns, or additional information they would like to help them
+better understand the proposals; these issues can be discussed during evaluation meetings.
+
+Proposals must be evaluated using the evaluation criteria published in the RFP. A 100-point scale will
+be used to evaluate proposals that are responsive to the RFP requirements.
+
+Evaluation Criteria
+
+25 Points – Cost Proposals. Cost will be evaluated by procurement staff. Cost will not be revealed to
+Evaluators until the Technical scores are finalized.
+
+     75 Points – Technical Proposal
+
+        45 Points – Experience, Qualifications and Similar Work
+             o Experience of the Offeror performing similar work
+             o Experience and qualifications of the project team
+             o References
+             o Sample Work
+
+        30 Points – Approach the Work
+             o Ability to meet the requirements of the scope of work
+             o Ability to meet the required timeline
+             o Value added services
+             o Response to Contract Terms and Conditions
+
+
+The questions under each evaluated area help you measure the quality of the offeror’s response. Do
+not assign points to individual questions, instead, award a total score for each evaluation criterion.
+Evaluators are not comparing proposals against each other to create a ranking (e.g. 1 st, 2nd, etc.).
+Instead, Evaluators are scoring proposal using the evaluation criteria and rating scales, so there may be
+multiple proposals that score in the “very good” or “excellent” range.
+                                              Page 3 of 10
+                             PROPOSAL EVALUATION PROCESS
+                               Proposal Evaluation Worksheet
+I.      Experience, Qualifications and Sample Work
+
+Maximum Point Value for this Section - 45 Points
+
+EVALUATION RATING SCALE
+This rating scale is used to ensure consistency in awarding evaluation points. Evaluators may assign any
+value for a given criterion from 0 to the maximum number of points. A score of zero or low point value is
+typically given when the proposal either did not provide the requested information or provided a response
+of no or limited applicability. A high or maximum score should constitute a high standard of meeting the
+criterion.
+
+                                      Rating Scale (45 POINT Maximum)
+               Point
+               Value         Explanation
+               0-8           None/Low. Not addressed or response of no value
+               9-17          Fair. Limited applicability
+               18-26         Good. Some applicability
+               27-35         Very Good. Substantial applicability
+               36-45         Excellent. Total applicability
+
+Do not assign points to individual questions, instead, award a total score for each evaluation criterion.
+
+Questions regarding the firm
+
+
+[a] How extensive is the experience of the firm in completing similar projects on time and within budget?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+ __________________________________________________________________________________
+
+
+[b] Did the company provide any information that distinguishes their company from others providing
+website redevelopment services?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+ __________________________________________________________________________________
+
+
+[c] How successful is the general history of the firm regarding timely and successful completion of
+projects?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+ __________________________________________________________________________________
+
+
+Questions regarding the project team
+[a] How well has the offeror described the make-up and organization of the project team?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+ __________________________________________________________________________________
+
+                                               Page 4 of 10
+                             PROPOSAL EVALUATION PROCESS
+                               Proposal Evaluation Worksheet
+
+[b] How well has the offeror described the roles, responsibilities, and type of work to be performed by
+the project team personnel?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[c] In reviewing the resumes of the project team members, how extensive is the applicable experience
+and qualifications of the project team members?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+Questions regarding Subcontractors and Joint Ventures
+
+[a] If Subcontractors or Joint ventures are proposed, how well does it measure up to the evaluation used
+for the Offeror?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+References
+
+
+[a] If the Offeror has provided letters of reference from previous clients, do the letters demonstrate
+successful past completion of similar projects?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[b] Do the references checks substantiate that the Offeror has successfully performed similar projects?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[c] What kind of comments did the reference checks provide regarding communication with the Offeror?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[d] Did the reference checks provide information about the firm’s ability to adhere to the project budget?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+
+
+
+                                              Page 5 of 10
+                           PROPOSAL EVALUATION PROCESS
+                             Proposal Evaluation Worksheet
+Sample Work
+
+[a] Do the samples show originality?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[b] Overall what is the quality of the website redevelopment Sample Work?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+
+ EXPERIENCE AND QUALIFICATIONS SCORE
+
+ Maximum Point Value for this Section - 45 Points
+
+
+Comments:
+
+
+
+
+                                           Page 6 of 10
+                             PROPOSAL EVALUATION PROCESS
+                               Proposal Evaluation Worksheet
+II.   Approach to Work
+Maximum Point Value for this Section - 30 Points
+
+
+                                      Rating Scale (30 POINT Maximum)
+               Point
+               Value         Explanation
+               0-5           None. Not addressed or response of no value
+               6-12          Fair. Limited applicability
+               13-18         Good. Some applicability
+               19-24         Very Good. Substantial applicability
+               25-30         Excellent. Total applicability
+
+Do not assign points to individual questions, instead, award a total score for each evaluation criterion.
+
+Approach to Creation of Deliverables
+
+[a] How well does the proposed work plan meet the technical requirements?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[b] How well does the proposed work plan meet the functional requirements?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[c] Has the Offeror offered any value-added functionality, products, services, or upgrades as part of the
+proposal that demonstrates added value?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[d] Evaluate the Offeror’s response to the professional services requirements. Has the offer proposed
+services that align with the requirements and demonstrate a good understanding of the scope required
+for this project?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[e] Evaluate the Offeror’s response to the project management requirements. Has the offer proposed
+project management services that align with the requirements and demonstrate a good understanding
+of the scope required for this project?
+EVALUATOR'S NOTES
+ __________________________________________________________________________________
+
+__________________________________________________________________________________
+
+
+
+
+                                               Page 7 of 10
+                            PROPOSAL EVALUATION PROCESS
+                              Proposal Evaluation Worksheet
+
+[f] Has the offeror described an approach to developing website content that will ensure creativity and
+originality?
+EVALUATOR'S NOTES
+
+__________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[g] Does the proposal describe a detailed and effective approach for the website redevelopment?
+EVALUATOR'S NOTES
+
+__________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[h] Evaluate the Offeror’s response to the contract schedule / deliverables. Does the offer’s response
+demonstrate a good understanding of the deliverables and schedule, and the capacity to achieve the
+deliverables based on a mutually agreed upon schedule?
+EVALUATOR'S NOTES
+
+__________________________________________________________________________________
+
+__________________________________________________________________________________
+
+[i] Evaluate the Offeror’s response to the communication plan requirements. Does the offer’s response
+demonstrate a collaborative approach to communication throughout the duration of the project?
+EVALUATOR'S NOTES
+
+__________________________________________________________________________________
+
+__________________________________________________________________________________
+
+Response to Contract Terms and Conditions
+
+[a] How extensive are the changes to the contract terms and conditions the Offeror seeks to negotiate
+with UND?
+EVALUATOR'S NOTES
+
+__________________________________________________________________________________
+
+__________________________________________________________________________________
+
+
+ APPROACH TO WORK SCORE
+
+ Maximum Point Value for this Section – 30 Points
+
+
+Comments:
+
+
+
+
+                                     Offeror Evaluation Totals
+
+                                              Page 8 of 10
+                               PROPOSAL EVALUATION PROCESS
+                                 Proposal Evaluation Worksheet
+
+
+RFP Number and Title: # 43-2017 Website Redevelopment
+
+
+Name of Offeror:
+
+  Technical
+  Evaluation       75 Points
+   Criteria        Maximum      Evaluator     Evaluator     Evaluator      Evaluator   Evaluator
+
+A. Experience,
+Qualifications
+                      45
+and Sample
+Work
+
+
+B. Approach
+                      30
+to Work
+
+
+Evaluator Totals
+
+
+                                Note: Sum of all individual technical proposal
+Grand Total
+                                scores.
+
+
+Technical Proposal              Note: Total of individual points divided by the
+Evaluation Score                number of evaluators
+
+
+Cost Proposal Evaluation
+                                Note: Insert points awarded
+Score
+
+
+                                Note: Add the Technical Proposal Evaluation
+Total Evaluation Score
+                                Score and Cost Proposal Evaluation Score
+
+
+
+
+                                             Page 9 of 10
+                     PROPOSAL EVALUATION PROCESS
+                       Proposal Evaluation Worksheet
+
+          Summary of Evaluation Committee Total Evaluation Scores
+
+
+RFP Number and Title: # 43-2017 Website Redevelopment
+
+
+Date:
+
+                         Name of       Name of     Name of   Name of   Name of
+                         Offeror       Offeror     Offeror   Offeror   Offeror
+
+Technical Proposal
+Evaluation Score
+
+
+Cost Proposals
+Evaluation Score
+
+
+Total Evaluation Score
+
+
+
+
+                                   Page 10 of 10
+                                         ATTACHMENT 3
+                                   TECHNOLOGY CONTRACT
+
+
+1. PARTIES
+  The parties to this contract (Contract) are the North Dakota University System, acting through the
+  University of North Dakota (UND), and Name of Business and type of business (e.g. Delaware
+  corporation or privately held company) having its principal place of business at principal
+  business address (CONTRACTOR);
+2. SCOPE OF WORK
+  CONTRACTOR, in exchange for the compensation paid by UND under this Contract, shall provide
+  SOW description.
+3. COMPENSATION
+
+
+
+
+                        T
+  a. Contractual Amount
+     UND shall pay for the accepted services provided by CONTRACTOR under this Contract an
+     amount not to exceed <amount> (Contractual Amount). The Contractual Amount shall be paid
+     according the Compensation Details document attached as Exhibit B.
+                     AF
+     The Contractual Amount is firm for the duration of the Contract and constitutes the entire
+     compensation due CONTRACTOR for performance of its obligations under this Contract
+     regardless of the difficulty, materials, or equipment required, including fees, licenses, overhead,
+     profit, and all other direct and indirect costs or expenses incurred by CONTRACTOR except as
+     provided by an amendment to this Contract.
+  b. Retainage
+     All deliverable payments shall be subject to 10% retainage. Retained amounts due to
+     CONTRACTOR shall be paid upon Final Acceptance.
+  c. Invoicing
+     R
+     The final cost set forth on each invoice shall be equivalent to the cost for each deliverable or
+     service as specified in the Scope of Work. CONTRACTOR shall not submit an invoice for any
+     deliverable or service specified in the Scope of Work that UND has not fully accepted.
+  d. Payment
+     Payment made in accordance with this Compensation section shall constitute payment in full for
+D
+
+     the services and work performed and the deliverables provided under this Contract and
+     CONTRACTOR shall not receive any additional compensation hereunder.
+     UND shall make payment under this Contract within forty-five (45) calendar days after receipt of
+     an approved invoice.
+     Payment of an invoice by UND will not prejudice UND’s right to object to or question that or any
+     other invoice or matter in relation thereto. CONTRACTOR's invoice will be subject to reduction
+     for amounts included in any invoice or payment made which are determined by UND not to
+     constitute allowable costs, on the basis of audits conducted in accordance with the terms of this
+     Contract. At UND’s sole discretion, all payments shall be subject to reduction for amounts equal
+     to prior overpayments to CONTRACTOR.
+     For any amounts that are or will become due and payable to UND by CONTRACTOR, UND
+     reserves the right to deduct the amount owed from payments that are or will become due and
+     payable to CONTRACTOR under this Contract.
+    e. Travel
+
+         UND shall reimburse CONTRACTOR for expenses related to travel at amounts not to exceed
+         those outlined below:
+
+         1) Lodging: UND shall reimburse actual costs of lodging. CONTRACTOR shall attempt to find
+            lodging that is close to the then-current, published GSA rate for the travel location. Copies of
+            receipts are required for lodging reimbursement. UND shall not reimburse for incidental and
+            miscellaneous expenses charged to the room, including alcohol, telephone charges, or
+            entertainment (e.g., movies).
+         2) Transportation: Air travel shall be reimbursed by UND at the actual cost of airfare for coach
+            class travel only. CONTRACTOR shall make air travel arrangements at least fourteen (14)
+            days in advance whenever possible. Reimbursement for rented, chartered, or contracted
+            vehicle transportation shall be limited to reasonable rates as determined by UND.
+         3) Meals: Meals shall be paid on a per diem basis for each day of travel at then-current,
+
+
+
+
+                             T
+            published GSA per diem rate for the travel location. Per diem for the first and last day of
+            travel shall be paid at seventy-five percent (75%) of the GSA per diem rate. Requests for
+            per diem payments must include the start and end dates of travel, the location where the
+            services are performed, and the allowable per diem amount for each trip on the
+            billing/invoice.
+                          AF
+         Payment for any travel expenses that exceed the travel budget as agreed upon by the parties
+         must be approved by UND’s project manager.
+
+    f.   Prepayment
+         UND will not make any advance payments before performance by CONTRACTOR under this
+         Contract.
+    g. Payment of Taxes by UND
+         UND is not responsible for and will not pay local, state, or federal taxes. UND sales tax
+         R
+         exemption number is E-2001. UND will furnish certificates of exemption upon request by
+         CONTRACTOR.
+    h. Taxpayer ID
+         CONTRACTOR’s federal employer ID number is: ______________________.
+    i.   Purchasing Card
+D
+
+         UND may make a payment using a government credit card. CONTRACTOR will accept a
+         government credit card without passing the processing fees for the government credit card back
+         to UND.
+4. EQUIPMENT, MATERIALS, AND WORKSPACE – RESOURCES PROVIDED BY PARTIES
+    For periods during which the parties mutually agree that CONTRACTOR’s assigned staff is on site:
+    a. On site means <list agency physical location address>.
+    b. UND agrees to provide an adequate working space, when required.
+    c. Equipment and software for on-site CONTRACTOR personnel is to be provided by
+       <CONTRACTOR or Agency name>.
+
+
+
+                                                  Page 2 of 16
+<Contract Name or Contract Reference Number>
+    When UND and CONTRACTOR agree that remote access to systems is required, UND shall
+    provide the necessary supervised remote access security to enable CONTRACTOR access to the
+    appropriate UND systems.
+5. TERM OF CONTRACT
+Note: Per SBHE Policy 803.1, part 5, service contracts have a maximum term of ten years
+including all extensions and renewals.
+    This Contract begins on its effective date and ends on [Month, Day], 20[Year].
+    a. No Automatic Renewal
+    This Contract will not automatically renew.
+Note: Any exercise of an Extension, Renewal, or Renegotiation requires a written contract
+amendment identifying the amended terms and conditions. Contract amendments should be
+drafted in consultation with assigned legal counsel.
+    b. Extension Option
+
+
+
+
+                             T
+Note: An Extension is a brief period of time used to wrap up ongoing work that could not be
+completed by the end of the Contract. It may also be used when all renewal options have been
+exercised and additional time is needed to close out the Contract.
+        UND reserves the right to extend the Contract for an additional period of time, not to exceed
+
+    c. Renewal Option
+                          AF
+        _____ months, beyond the current termination date of the Contract.
+
+
+        UND may renew this Contract upon satisfactory completion of the initial Contract term. UND
+        reserves the right to execute up to _____options to renew this Contract under the same terms
+        and conditions for a period of _____ months each.
+    d. Renegotiation Option
+        In view of the fact that it is unknown how long the products and services will be employed by
+        UND and that UND will require ongoing maintenance and support of the products for as long as
+        the system is operational, therefore after completion of the initial term of the Contract including
+        R
+        any extensions and renewals, UND and CONTRACTOR may renegotiate the Contract upon
+        mutual agreement of the parties.
+    e. Performance Review
+Note: Per SBHE Policy 803.1, part 5, all service contracts for a term in excess of three years
+must include a provision for review of performance at specified intervals not less frequently
+D
+
+than once every two years.
+        UND reserves the right to review the performance of the CONTRACTOR every two years
+        starting on the effective date of the Contract.
+6. TIME IS OF THE ESSENCE
+    CONTRACTOR hereby acknowledges that time is of the essence for performance under this
+    Contract unless otherwise agreed to in writing by the parties.
+
+
+
+
+                                                  Page 3 of 16
+<Contract Name or Contract Reference Number>
+7. TERMINATION
+    a. Termination by Mutual Agreement
+        This Contract may be terminated by mutual consent of both parties executed in writing.
+    b. Early Termination in the Public Interest
+        UND is entering into this Contract for the purpose of carrying out the public policy of the State of
+        North Dakota, as determined by its Governor, Legislative Assembly, the State Board of Higher
+        Education and Courts. If this Contract ceases to further the public policy of the State of North
+        Dakota, UND, in its sole discretion, by written notice to CONTRACTOR, may terminate this
+        Contract in whole or in part.
+    c. Termination for Non-appropriation
+        Continuation of this Agreement beyond June 30 of any odd-numbered year is contingent on
+        continued legislative appropriation of funds for the purposes of this Agreement. If those
+        appropriations are not forthcoming, UND will notify the CONTRACTOR as soon as possible and
+
+
+
+
+                             T
+        the Agreement will terminate on June 30 of that year. UND will not be penalized or incur any
+        liability because of termination of the Agreement as provided in this section. Any such
+        termination of this Agreement shall be without prejudice to any obligations or liabilities of either
+        party already accrued prior to such termination.
+    d. Termination for Lack of Funding or Authority
+                          AF
+        UND, by written notice to CONTRACTOR, may terminate the whole or any part of this Contract
+        under any of the following conditions:
+        1) If funding from federal, state, or other sources is not obtained and continued at levels
+           sufficient to allow for purchase of the services or supplies in the indicated quantities or term.
+        2) If federal or state laws or rules are modified or interpreted in a way that the services are no
+           longer allowable or appropriate for purchase under this Contract or are no longer eligible for
+           the funding proposed for payments authorized by this Contract.
+        3) If any license, permit, or certificate required by law or rule, or by the terms of this Contract, is
+           for any reason denied, revoked, suspended, or not renewed.
+        R
+        Termination of this Contract under this subsection is without prejudice to any obligations or
+        liabilities of either party already accrued prior to termination.
+    e. Termination for Cause.
+        UND may terminate this Contract effective upon delivery of written notice to CONTRACTOR, or
+D
+
+        any later date stated in the notice:
+        1) If CONTRACTOR fails to provide services required by this Contract within the time specified
+           or any extension agreed to by UND; or
+        2) If CONTRACTOR fails to perform any of the other provisions of this Contract, or so fails to
+           pursue the work as to endanger performance of this Contract in accordance with its terms.
+        The rights and remedies of UND provided in this subsection are not exclusive and are in
+        addition to any other rights and remedies provided by law or under this Contract.
+8. SUSPENSION FOR CONVENIENCE
+    UND shall have the right at any time to order the services of CONTRACTOR fully or partially
+    stopped for UND’s own convenience. UND shall provide CONTRACTOR written notice of the
+    reason for and duration of the suspension. The schedule shall be delayed on a day-for-day basis to
+    the extent UND has issued a stop work order to CONTRACTOR and such stop work order is
+    causing delays in completing services in accordance with the schedule. CONTRACTOR shall have
+                                                  Page 4 of 16
+<Contract Name or Contract Reference Number>
+    the right to submit claims in accordance with the terms of this Contract as a result of stop work
+    orders issued under this section.
+9. FORCE MAJEURE
+    Neither party shall be held responsible for delay or default caused by fire, riot, terrorism, acts of
+    God or war if the event is beyond the party’s reasonable control and the affected party gives notice
+    to the other party immediately upon occurrence of the event causing the delay or default or that is
+    reasonably expected to cause a delay or default.
+10. LIQUIDATED DAMAGES
+Note: UND may suffer damages if CONTRACTOR fails to perform on schedule. Liquidated
+damages clauses assist UND in being made whole if this occurs. While it is impracticable to
+compute—at the time of contracting—the exact damages caused by a future delay, the parties
+can agree on an amount that is a fair and reasonable estimate of damages due to UND in the
+event of a delay by CONTRACTOR. An agency shall discuss liquidated damages clauses with
+assigned legal counsel.
+
+
+
+
+                             T
+    The parties agree that UND may suffer damages due to a failure by CONTRACTOR to provide
+    deliverables or services under this Contract. Because it is difficult to fix the actual damages
+    sustained in the event of such delays, UND and CONTRACTOR agree that the amount of damages
+    will be determined as per this Section. In the event of any non-performance CONTRACTOR shall
+    pay that amount as liquidated damages and not as a penalty. Amounts due to UND as liquidated
+                          AF
+    damages may be deducted by UND from any amounts payable to CONTRACTOR, and any amount
+    outstanding over and above the amounts deducted from the invoice will be promptly tendered by
+    check from CONTRACTOR to UND.
+    Delays due to causes of Force Majeure or due to the responsibility of UND shall extend the time for
+    performance on a day-for-day basis. UND will not assess liquidated damages against
+    CONTRACTOR when the delay in delivery or performance is beyond the control and without the
+    fault or negligence of CONTRACTOR.
+Note: The following are examples of liquidated damages provisions. One or both may be
+applicable. Assigned legal counsel should assist in selecting or drafting appropriate language
+        R
+for liquidated damages.
+    a. Failure to Complete Deliverable on Schedule:
+        If CONTRACTOR fails to complete a Deliverable identified in <SOW or project schedule
+        reference> by the specified deadline (or revised deadline as agreed upon between the parties
+        through the Integrated Change Control Process), CONTRACTOR shall pay liquidated damages
+        to UND in the amount of $ <amount> per calendar day for each day the Deliverable is delayed.
+D
+
+    b. Failure to Complete Project on Schedule:
+        If CONTRACTOR fails to complete the project per the approved project schedule by the
+        specified deadline (or revised deadline as agreed upon between the parties through the
+        Integrated Change Control Process), UND will deduct liquidated damages from amounts
+        payable to CONTRACTOR in the amount of $ <amount> per calendar day for each day the
+        project is delayed.
+11. INJUNCTIVE RELIEF
+    CONTRACTOR shall immediately report to UND any and all unauthorized disclosures or uses of
+    UND’s Confidential Information or Proprietary Information of which CONTRACTOR or its staff is
+    aware or has knowledge. CONTRACTOR acknowledges that any unauthorized publication or
+    disclosure of UND’s Confidential Information or Proprietary Information to others may cause
+    immediate and irreparable harm to UND. If CONTRACTOR should publish or disclose such
+                                                Page 5 of 16
+<Contract Name or Contract Reference Number>
+    Confidential Information or Proprietary Information without authorization, UND shall immediately be
+    entitled to seek injunctive relief or any other remedies to which it is entitled under law or equity
+    without requiring a cure period. CONTRACTOR shall indemnify, defend, and hold harmless UND
+    from all damages, costs, liabilities, and expenses (including without limitation reasonable attorneys’
+    fees) caused by or arising from CONTRACTOR’s unauthorized notification or disclosure of UND’s
+    Confidential Information or Proprietary Information. As a condition to these indemnity obligations,
+    UND will provide CONTRACTOR with prompt notice of any claim of which UND is aware and for
+    which indemnification shall be sought under this Contract and shall cooperate in all reasonable
+    respects with CONTRACTOR in connection with any such claim.
+12. RIGHT OF SETOFF DAMAGES
+    Amounts due UND by CONTRACTOR, including liquidated or other damages, or claims for
+    damages, may be deducted or set-off by UND from any money payable to CONTRACTOR
+    pursuant to this Contract.
+13. RIGHT TO WITHHOLD AMOUNTS OTHERWISE DUE IF THE CONTRACTOR IS IN BREACH
+
+
+
+
+                             T
+    If CONTRACTOR fails to deliver Deliverables or to provide Services which satisfy CONTRACTOR’s
+    obligations under this Contract, UND shall have the right to withhold any and all payments due
+    under this Contract. UND may withhold any and all such payments due under this Contract to
+    CONTRACTOR without penalty or work stoppage by CONTRACTOR, until such failure to perform
+    is cured.             AF
+14. RIGHT TO REMEDIES AND CUMULATION OF RIGHTS
+    No remedy conferred by any of the specific provisions of the Contract is intended to be exclusive of
+    any other remedy, and each and every remedy shall be cumulative and shall be in addition to every
+    other remedy given under this Contract, now or in the future existing at law or in equity or by statute
+    or otherwise.
+15. NON-WAIVER
+    Either party’s failure to exercise any of its rights under the Contract, its delay in enforcing any right,
+    or its waiver of its rights on any occasion, shall not constitute a waiver of such rights on any other
+    occasion. No course of dealing by either party in exercising any of its rights shall constitute a waiver
+        R
+    thereof. No waiver of any provision of the Contract shall be effective unless it is in writing and
+    signed by the party against whom the waiver is sought to be enforced.
+16. INDEMNITY
+    CONTRACTOR agrees to defend, indemnify, and hold harmless UND, its officers and employees,
+    from and against claims based on the vicarious liability of UND or its agents, but not against claims
+D
+
+    based on UND’s contributory negligence, comparative and/or contributory negligence or fault, sole
+    negligence, or intentional misconduct. This obligation to defend, indemnify, and hold harmless does
+    not extend to professional liability claims arising from professional errors and omissions. The legal
+    defense provided by CONTRACTOR to UND under this provision must be free of any conflicts of
+    interest, even if retention of separate legal counsel for UND is necessary. CONTRACTOR also
+    agrees to defend, indemnify, and hold UND harmless for all costs, expenses and attorneys' fees
+    incurred if UND prevails in an action against CONTRACTOR in establishing and litigating the
+    indemnification coverage provided herein. This obligation shall continue after the termination of this
+    Contract.
+17. REPRESENTATIONS AND WARRANTIES
+    CONTRACTOR represents and warrants to UND that neither CONTRACTOR, in connection with
+    performing the services in performance of this Contract, nor the completed product delivered by
+    CONTRACTOR, will infringe any patent, copyright, trademark, trade secret or other proprietary right
+    of any person. CONTRACTOR further represents and warrants to UND that it will not use any trade
+                                                  Page 6 of 16
+<Contract Name or Contract Reference Number>
+    secrets or confidential or proprietary information owned by any third party in performing the services
+    related to this Contract or in delivery of the completed product unless CONTRACTOR has the
+    authority to license, use or provide those trade secrets or confidential or proprietary information to
+    UND. CONTRACTOR further represents and warrants to UND that neither CONTRACTOR nor any
+    other company or individual performing services pursuant to this Contract is under any obligation to
+    assign or give any work done under this Contract to any third party.
+18. INTELLECTUAL PROPERTY INFRINGEMENT INDEMNIFICATION
+    a. CONTRACTOR, at its own expense, shall defend and indemnify UND against claims that
+       products furnished under this Contract infringe a United States patent or copyright or
+       misappropriate trade secrets protected under United States law.
+    b. As to any product which is subject to a claim of infringement or misappropriation,
+       CONTRACTOR may (a) obtain the right of continued use of the product for UND or (b) replace
+       or modify the product to avoid the claim. If neither alternative is available on commercially
+       reasonable terms then, at the request of CONTRACTOR, any applicable Software license and
+       its charges will end, UND will stop using the product, and will return the product to
+
+
+
+
+                             T
+       CONTRACTOR. Upon return of the product, CONTRACTOR will give UND a credit for the price
+       paid to CONTRACTOR, less a reasonable offset for use and obsolescence.
+19. INSURANCE
+    CONTRACTOR shall secure and keep in force during the term of this Contract and CONTRACTOR
+                          AF
+    shall require all subcontractors, prior to commencement of an agreement between CONTRACTOR
+    and the subcontractor, to secure and keep in force during the term of this CONTRACT, from
+    insurance companies, government self-insurance pools or government self-retention funds,
+    authorized to do business in North Dakota, the following insurance coverages:
+    a. Commercial general liability, including premises or operations, contractual, and products or
+       completed operations coverages (if applicable), with minimum liability limits of $250,000 per
+       person and $1,000,000 per occurrence
+    b. Automobile liability, including Owned (if any), Hired, and Non-Owned automobiles, with
+       minimum liability limits of $250,000 per person and $1,000,000 per occurrence
+        R
+    c. Workers compensation coverage meeting all statutory requirements. The policy must provide
+       coverage for all states of operation that apply to the performance of this Contract
+Note: Optional clause (d) employer’s liability. This coverage is recommended for
+CONTRACTOR’s domiciled outside the state of North Dakota. Delete (d) if contracting with a
+resident (North Dakota) CONTRACTOR.
+D
+
+OPTION: DELETE IF NOT REQUIRED
+    d. Employer’s liability or “stop gap” insurance of not less than $1,000,000 as an endorsement on
+       the workers compensation or commercial general liability insurance
+    e. Professional errors and omissions with minimum limits of $1,000,000 per occurrence and in the
+       aggregate, CONTRACTOR shall continuously maintain such coverage during the Contract
+       period and for three (3) years thereafter. In the event of a change or cancellation of coverage,
+       CONTRACTOR shall purchase an extended reporting period to meet the time periods required
+       in this section.
+    The insurance coverages listed above must meet the following additional requirements:
+    a. Any deductible or self-insured retention amount or other similar obligation under the policies
+       shall be the sole responsibility of the CONTRACTOR.
+
+
+                                                Page 7 of 16
+<Contract Name or Contract Reference Number>
+    b. This insurance may be in policy or policies of insurance, primary and excess, including the so-
+       called umbrella or catastrophe form and must be placed with insurers rated “A-” or better by
+       A.M. Best Company, Inc., provided any excess policy follows form for coverage. Less than an
+       “A-” rating must be approved by UND. The policies shall be in form and terms approved by
+       UND.
+    c. The duty to defend, indemnify, and hold harmless UND under this agreement shall not be
+       limited by the insurance required in this agreement.
+    d. UND and its officers and employees shall be endorsed on the commercial general liability
+       policy, including any excess policies (to the extent applicable), as additional insured, and
+       thereby shall have all the benefits, rights and coverages of an additional insured under these
+       policies.
+    e. The insurance required in this agreement, through a policy or endorsement, shall include:
+         1) Waiver of Subrogation” waiving any right to recovery the insurance company may have
+            against UND.
+
+
+
+
+                             T
+         2) A provision giving the University the same rights as the CONTRACTOR regarding
+            cancelation or modification.
+         3) A provision that CONTRACTOR’s insurance coverage shall be primary (i.e., pay first) as
+            respects any insurance, self-insurance or self-retention maintained by UND and that any
+                          AF
+            insurance, self-insurance or self-retention maintained by UND shall be in excess of
+            CONTRACTOR’s insurance and shall not contribute with it.
+         4) Cross liability/severability of interest for all policies and endorsements.
+         5) The insolvency or bankruptcy of the insured CONTRACTOR shall not release the insurer
+            from payment under the policy, even when such insolvency or bankruptcy prevents the
+            insured CONTRACTOR from meeting the retention limit under the policy.
+    f.   Any attorney who represents UND under this policy must first qualify as and be appointed by the
+         North Dakota Attorney General as a Special Assistant Attorney General as required under
+         N.D.C.C. § 54-12-08
+         R
+    g. The legal defense provided to UND under the policy and any endorsements must be free of any
+       conflicts of interest, even if retention of separate legal counsel for UND is necessary.
+    h. CONTRACTOR shall furnish a certificate of insurance to the undersigned UND representative
+       prior to commencement of this agreement. All endorsements shall be provided as soon as
+       practicable.
+D
+
+    i.   Failure to provide insurance as required in this agreement is a material breach of contract
+         entitling UND to terminate this agreement immediately.
+20. WORKS FOR HIRE
+    CONTRACTOR acknowledges that all work(s) under this Contract is "work(s) for hire" within the
+    meaning of the United States Copyright Act (Title 17 United States Code) and, even failing
+    qualification as such, hereby assigns to UND all rights and interests CONTRACTOR may have in
+    the work(s) it prepares under this Contract, including copyright as well as any right to derivative use
+    of the work(s). All software and related materials developed by CONTRACTOR in performance of
+    this Contract for UND shall be the sole property of UND, and CONTRACTOR hereby assigns and
+    transfers all its right, title, and interest therein to UND. CONTRACTOR shall execute all necessary
+    documents to enable UND to protect UND’s intellectual property rights under this section.
+
+
+
+                                                  Page 8 of 16
+<Contract Name or Contract Reference Number>
+21. PERSONNEL
+    a. UND will designate a Project Manager to serve as the primary project manager for this Contract.
+       If, during the course of the Contract, it becomes necessary for UND to change the person
+       assigned as UND’s Project Manager, UND will notify CONTRACTOR in writing, pursuant to
+       Notice section of this Contract.
+    b. Unless UND otherwise notifies CONTRACTOR, UND’s Project Manager shall carry out UND’s
+       administrative and management functions under this Contract, shall be responsible for
+       acceptance of the Contract deliverables, and shall provide support and overall direction to
+       CONTRACTOR.
+    c. CONTRACTOR will designate a Project Manager and provide individuals to meet the
+       requirements and accomplish the work as stated in this Contract including any mutually agreed
+       upon Scope of Work.
+    d. CONTRACTOR agrees and understands that UND’s execution of the Contract is predicated, in
+       part and among other considerations, on the utilization of the specific individuals and personnel
+
+
+
+
+                             T
+       qualifications as identified; primary being <name of appropriate personnel, if applicable,>.
+       Therefore, CONTRACTOR agrees that:
+         1) Prior to assignment of personnel, CONTRACTOR shall obtain written approval from UND for
+            all personnel to be assigned to this project
+                          AF
+         2) The personnel assigned must have the knowledge necessary to complete requirements as
+            defined in the Contract.
+         3) CONTRACTOR shall warrant that all personnel assigned to perform tasks in response to
+            this Contract will remain assigned for the agreed-upon length of time.
+         4) No replacement, reassignment or substitution of any assigned individuals and personnel
+            qualifications shall be made without the prior written approval of UND and that such
+            replacement, reassignment or substitution shall be made at no additional cost to UND.
+         5) Any substitution made pursuant to this paragraph must be of equal or higher skills,
+            knowledge, and abilities than those personnel originally proposed and that UND’s approval
+            of a substitution is not construed as an acceptance of the substitution’s performance
+         R
+            potential. UND agrees that an approval of a substitution will not be unreasonably withheld.
+         6) CONTRACTOR shall assign personnel on a full-time basis. In the event that a work
+            assignment does not justify full-time participation, CONTRACTOR shall assign personnel on
+            a part-time basis with prior written approval of UND’s Project Manager. However, if the part-
+            time assignments are specified in the Contract, no written approval from UND’s Project
+D
+
+            Manager is necessary except for substitution of CONTRACTOR personnel.
+    e. Upon request by UND, CONTRACTOR shall replace any CONTRACTOR personnel that UND
+       determines, in its sole discretion, to be unable to perform the responsibilities of the Contract
+       acceptably, e.g., inappropriate or unprofessional personal conduct, professional inabilities, etc.
+    f.   UND 's working hours are Monday through Friday from 8:00 AM until 4:30 PM (CST or CDT)
+         with one hour for lunch. UND Project Manager may approve alternate work schedules.
+    g. According to UND policy, UND personnel are only obligated to work a forty-hour workweek,
+       Monday through Friday, and are allowed reasonable vacation, sick and educational absences.
+    h. CONTRACTOR’s personnel are not expected to work on State holidays or other mandatory
+       leave days.
+
+
+
+                                                Page 9 of 16
+<Contract Name or Contract Reference Number>
+22. PROJECT MANAGEMENT
+    a. Reporting
+Note: Change the timing of the reporting in the sections below to reflect the agency’s desired
+reporting periods.
+<Item 1> - DELETE IF NOT USED Item 1 should only be included in contracts that are time and
+materials based.
+        1) CONTRACTOR personnel will be responsible for providing written, <weekly/semi-
+           monthly> time utilizations, for each individual, to UND’s Project Manager, or UND’s project
+           staff, as UND’s Project Manager may assign.
+        2) CONTRACTOR’s Project Manager shall deliver to UND’s Project Manager, <weekly/semi-
+           monthly> reports of CONTRACTOR’s progress on the project and meeting the
+           objective/deliverables as stated in the Scope of Work. Each report must contain a
+           description of the current status of the project, the tasks on which time was spent, the
+           estimated progress to be made in the next reporting period, and the problems encountered
+
+
+
+
+                             T
+           the proposed solutions to them and their effect, if any, on the project budget/schedule.
+        3) Project Variance Reporting – CONTRACTOR must provide data to allow UND’s project
+           manager to calculate cost and schedule variance in accordance with N.D.C.C. § 54-35-15.2
+           as determined by UND. If UND’s analysis shows a negative cost or schedule variance
+                          AF
+           exceeding 20%, a subsequent report must also provide proposed corrective measures to
+           address the issues.
+    b. Integrated Change Control Process
+        CONTRACTOR and UND will utilize an integrated change control process to manage changes
+        during the life of a project.
+        1) A change request must be in writing to document the potential change. The write-up for the
+           proposed change must be submitted to CONTRACTOR and UND’s project managers who
+           will in turn provide it to relevant parties for assessment.
+        2) All change requests will be logged and tracked. UND‘s project manager will record the
+        R
+           request in the project repository and will update the repository throughout the process.
+        3) The change will be reviewed and, if acceptable to UND, CONTRACTOR will submit to UND
+           an estimate of the impact to cost, schedule, scope, and quality.
+        4) CONTRACTOR will continue performing the services in accordance with the original
+           Contract unless otherwise agreed upon by UND’s project manager. Work shall not
+D
+
+           commence on any new activities related to the change request until all parties agree in
+           writing.
+        5) CONTRACTOR’s project manager and UND’s project manager will adapt project plans to
+           incorporate approved changes.
+        6) Each change request duly authorized in writing by the parties shall be incorporated into and
+           considered part of the Contract.
+        7) During the course of the Contract, if CONTRACTOR determines or could reasonably
+           determine any UND actions or directions constitute a requirement to perform additional
+           work, CONTRACTOR shall notify UND within thirty (30) calendar days that UND has
+           requested CONTRACTOR to perform additional work in the form of a change request
+           utilizing the process above. CONTRACTOR understands that it waives the right to request
+           additional time and reimbursable costs if CONTRACTOR fails to notify UND within thirty (30)
+
+
+                                               Page 10 of 16
+<Contract Name or Contract Reference Number>
+            calendar days of determining or reasonably being able to determine that any UND actions or
+            directions constitute a requirement to perform additional work under the Contract.
+    c. Deliverable Acceptance
+        1) Unless otherwise noted in this Contract or agreed upon in writing by both parties,
+           acceptance testing will be performed on-site, on UND’s platform.
+        2) Prior to acceptance testing, CONTRACTOR will furnish UND with documentation of the
+           deliverable item, the expected performance, and agreed upon acceptance criteria.
+        3) Upon completion of a deliverable or sub-deliverable, UND will have five (5) working days in
+           which to accept or reject it in writing. UND will accept by signature. If UND rejects it, UND
+           will specify in writing its grounds for rejection and CONTRACTOR shall use its best efforts to
+           revise any issues for the deliverables to be acceptable to UND within the following five (5)
+           working days. If UND rejects it a second time, UND will have the option of repeating the
+           procedure as described in this acceptance statement above, escalating the issue to the
+           Executive Steering Committee, or terminating this Contract upon written notice to
+
+
+
+
+                             T
+           CONTRACTOR.
+    d. Final Acceptance
+        1) The successful completion of all deliverables as stated in the Scope of Work in accordance
+           with the deliverable acceptance process AND
+                          AF
+        2) The final delivered product fully implemented in UND’s live production environment AND
+        3) UND has sixty (60) calendar days thereafter in which to accept or reject it in writing. If UND
+           rejects it, UND shall specify in writing its grounds for rejection and CONTRACTOR shall use
+           its best efforts to make the product conform to the requirements of this Contract as soon as
+           possible and at no additional cost to UND. CONTRACTOR shall continue to use its best
+           efforts to make the product conform to the requirements of this Contract until UND accepts
+           the product or terminates this Contract upon written notice to CONTRACTOR.
+23. NOTICE
+    All notices or other communications required under this Contract must be given by registered or
+        R
+    certified mail and are complete on the date postmarked when addressed to the parties at the
+    following addresses:
+                     UND                                                 CONTRACTOR
+ Name                                                 Name
+ Title                                                Title
+D
+
+ PO Box 13597                                         Address
+ Grand Forks, ND 58208-3597                           City, State, Zip
+    Notice provided under this provision does not meet the notice requirements for monetary claims
+    against UND found at N.D.C.C § 32-12.2-04. Nor shall notice under this provision meet the
+    requirements for service of process under rule 4 of the North Dakota Rules of Civil Procedure.
+24. CONFIDENTIALITY
+    CONTRACTOR shall not use or disclose any information it receives from UND under this Contract
+    that UND has previously identified as confidential or exempt from mandatory public disclosure
+    except as necessary to carry out the purposes of this Contract or as authorized in advance by UND.
+    UND shall not disclose any information it receives from CONTRACTOR that CONTRACTOR has
+    previously identified as confidential and that UND determines in its sole discretion is protected from
+    mandatory public disclosure under a specific exception to the North Dakota public records law,
+    N.D.C.C. chapter 44-04, including applicable federal laws. The duty of UND and CONTRACTOR to
+    maintain confidentiality of information under this section continues beyond the term of this Contract.
+                                               Page 11 of 16
+<Contract Name or Contract Reference Number>
+25. COMPLIANCE WITH PUBLIC RECORDS LAWS
+    CONTRACTOR understands that, except for disclosures prohibited in this Contract, UND must
+    disclose to the public upon request any records it receives from CONTRACTOR. CONTRACTOR
+    further understands that any records obtained or generated by CONTRACTOR under this Contract,
+    except for records that are confidential under this Contract, may, under certain circumstances, be
+    open to the public upon request under the North Dakota public records law. CONTRACTOR agrees
+    to contact UND immediately upon receiving a request for information under the public records law
+    and to comply with UND’s instructions on how to respond to the request.
+26. INDEPENDENT ENTITY
+    CONTRACTOR is an independent entity under this Contract and is not a UND employee for any
+    purpose, including the application of the Social Security Act, the Fair Labor Standards Act, the
+    Federal Insurance Contribution Act, the North Dakota Unemployment Compensation Law and the
+    North Dakota Workforce Safety and Insurance Act. CONTRACTOR retains sole and absolute
+    discretion in the manner and means of carrying out CONTRACTOR’s activities and responsibilities
+    under this Contract, except to the extent specified in this Contract.
+
+
+
+
+                             T
+27. ASSIGNMENT AND SUBCONTRACTS
+    CONTRACTOR may not assign or otherwise transfer or delegate any right or duty without UND’s
+    express written consent. CONTRACTOR may, however, enter into subcontracts provided that any
+    subcontract acknowledges the binding nature of this Contract and incorporates this Contract,
+                          AF
+    including any attachments. CONTRACTOR is solely responsible for the performance of any
+    subcontractor. CONTRACTOR does not have the authority to Contract for or incur obligations on
+    behalf of UND.
+28. SPOLIATION – NOTICE OF POTENTIAL CLAIMS
+    CONTRACTOR shall promptly notify UND of all potential claims that arise or result from this
+    Contract. CONTRACTOR shall also take all reasonable steps to preserve all physical evidence and
+    information that may be relevant to the circumstances surrounding a potential claim, while
+    maintaining public safety, and grants to UND the opportunity to review and inspect the evidence,
+    including the scene of an accident.
+        R
+29. MERGER AND MODIFICATION, CONFLICT IN DOCUMENTS
+    This Contract, including the following documents, constitutes the entire agreement between the
+    parties. There are no understandings, agreements, or representations, oral or written, not specified
+    within this Contract. This Contract may not be modified, supplemented or amended, in any manner,
+    except by written agreement signed by both parties.
+D
+
+    Notwithstanding anything herein to the contrary, in the event of any inconsistency or conflict among
+    the documents making up this Contract, the documents must control in this order of precedence:
+    a. The terms of this Contract as may be amended;
+    b. UND’s Solicitation Amendment #1 to Request for Proposal (“RFP”) number __________ dated
+       ________;
+    c. UND’s Request for Proposal (“RFP”) number __________, dated __________;
+    d. CONTRACTOR’s proposal dated ____________ in response to RFP number
+       _______________.
+    e. All automated end user agreements (e.g., click-throughs) are specifically excluded and null and
+       void. Clicking shall not represent acknowledgement or agreement to any terms and conditions
+       contained in that agreement.
+
+
+                                               Page 12 of 16
+<Contract Name or Contract Reference Number>
+30. UNANTICIPATED AMENDMENTS
+    If additional work is required within the scope of this Contract due to a legitimate unforeseen
+    circumstance, UND shall provide CONTRACTOR a written description of the additional work and
+    request CONTRACTOR to submit a proposal for accomplishing the scope of work. CONTRACTOR
+    will not commence additional work until all parties agree in writing.
+31. SEVERABILITY
+    If any term of this Contract is declared to be illegal or unenforceable by a court having competent
+    jurisdiction, the validity of the remaining terms is unaffected and, if possible, the rights and
+    obligations of the parties are to be construed and enforced as if the Contract did not contain that
+    term.
+32. APPLICABLE LAW AND VENUE
+    This Contract is governed by and construed in accordance with the laws of the State of North
+    Dakota. Any action to enforce this Contract must be brought and solely litigated in the Northeast
+    Central Judicial District Court of Grand Forks County, North Dakota. Each party consents to the
+
+
+
+
+                             T
+    exclusive jurisdiction of such court and waives any claim of lack of jurisdiction or forum non
+    conveniens.
+33. ALTERNATIVE DISPUTE RESOLUTION – JURY TRIAL
+    UND does not agree to any form of binding arbitration, mediation, or other forms of mandatory
+                          AF
+    alternative dispute resolution. The parties have the right to enforce their rights and remedies in
+    judicial proceedings. UND does not waive any right to a jury trial.
+34. ATTORNEY FEES AND COSTS
+    In the event a lawsuit is instituted by UND to obtain performance under this Contract, and UND is
+    the prevailing party, CONTRACTOR shall, except when prohibited by N.D.C.C. §28-26-04, pay
+    UND’s reasonable attorney fees and costs in connection with the lawsuit.
+35. NONDISCRIMINATION AND COMPLIANCE WITH LAWS
+    CONTRACTOR agrees to comply with all applicable laws, rules, regulations and policies, including
+    those relating to nondiscrimination, accessibility and civil rights. CONTRACTOR agrees to timely
+        R
+    file all required reports, make required payroll deductions, and timely pay all taxes and premiums
+    owed, including sales and use taxes and unemployment compensation and workers' compensation
+    premiums. CONTRACTOR shall have and keep current at all times during the term of this Contract
+    all licenses and permits required by law.
+36. STATE AUDIT
+D
+
+    All records, regardless of physical form, and the accounting practices and procedures of
+    CONTRACTOR relevant to this Contract are subject to examination by the UND Internal Auditor,
+    North Dakota State Auditor, or their designees, or Federal auditors. CONTRACTOR shall maintain
+    all of these records for at least three (3) years following completion of this Contract and be able to
+    provide them at any reasonable time. UND, State Auditor, or Auditor’s designee shall provide
+    reasonable notice of an anticipated examination.
+37. EFFECTIVENESS OF CONTRACT
+    This Contract is not effective until fully executed by all parties.
+
+
+                    THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK.
+                                           SIGNATURE PAGE FOLLOWS.
+
+                                                  Page 13 of 16
+<Contract Name or Contract Reference Number>
+ CONTRACTOR                                         NORTH DAKOTA UNIVERSITY SYSTEM
+
+
+ <insert business>                                  Acting through the University of North Dakota
+
+
+ BY:                                                BY:
+
+
+ Printed Name:                                      Printed Name:
+
+
+ Title:                                             Title:
+
+
+
+
+                             T
+ Date:                                              Date:
+
+
+
+                          AF
+          R
+D
+
+
+                                               Page 14 of 16
+<Contract Name or Contract Reference Number>
+                                          EXHIBIT A – Scope of Work
+
+
+                                                 RESERVED
+
+
+
+
+                             T
+                          AF
+        R
+D
+
+
+                                                  Page 15 of 16
+<Contract Name or Contract Reference Number>
+                                      EXHIBIT B – Compensation Details
+1. PROJECT DELIVERABLE PAYMENT SCHEDULE:
+    The following table defines all payment points. After completion of the project plan, this table will be
+    amended with all dates filled in.
+                                                                                   To be
+                                                                  Deliverable    Retained
+  #     Deliverable                       Start    Finish           Value          (15%)        Invoice
+  1     Project Kickoff Meeting          <date>    <date>               $1000          $150          $850
+  2     Project Plan                     <date>    <date>         $<amount> $<amount>          $<amount>
+  3                                                               $<amount> $<amount>          $<amount>
+  4                                                               $<amount> $<amount>          $<amount>
+ <X>    Final Production                                              $<Total                     $<Total
+                                                                                         $0
+        Acceptance                                                 Retained>                    Retained>
+                                                                   Project Deliverable Total   $<amount>
+
+
+
+
+                             T
+2. TRAVEL BUDGET
+                                                                                 Budgeted        Total
+                                                     # of         # of People   Amount per     Budgeted
+   #     Key Task/Deliverable
+                          AF              Date      Trips          Traveling      Person        Amount
+ 1      Project Kickoff Meeting          <date>       1                 5            $1500         $7500
+ 2      Project Plan                     <date>      <#>              <#>       $<amount>      $<amount>
+ 3                                                                    <#>       $<amount>      $<amount>
+ 4                                                                    <#>       $<amount>      $<amount>
+ <X> Final Production                                                 <#>
+                                                                                $<amount>      $<amount>
+     Acceptance
+                                                                        Travel Budget Total    $<amount>
+
+3. PROJECT TOTAL
+The total budget for the project portion of this Contract is $<amount>
+        R
+D
+
+
+                                                  Page 16 of 16
+<Contract Name or Contract Reference Number>
+

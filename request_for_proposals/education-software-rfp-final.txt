@@ -1,0 +1,820 @@
+Education Scheduling Software
+    Replacement Project
+
+
+      Request for Proposal
+
+    RFP Date: January 17th, 2020
+
+
+
+
+      Due Date and Time:
+ February 14th, 2020 at 4:00 pm
+                                                               2
+
+                                            RFP Outline
+1 Introduction3
+   1.1Intent to Bid3
+   1.2 RFP Due Date3
+   1.3Response to Questions4
+   1.4Selected Vendor Presentations3
+   1.5Final Contract Negotiations and Notification of Award4
+   1.6 Intent4
+   1.7 Authority4
+   1.8 Confidentiality4
+   1.9 Audience4
+2 CBF Organizational4
+   2.1About CBF4
+   2.2 Project Background and Current Environment5
+3Statement of Need5
+   3.1Statement of Need5
+   3.2Scope of Work5
+   3.2.1 Functional Scope5
+   3.2.2 Life Cycle Implementation Professional Services6
+4 RFP Response6
+   4.1CBF Evaluation Criteria6
+   4.2Technical Proposal – Required Response Format6
+   4.2.1 Cover Letter and Executive Summary6
+   4.2.2 Proposed Solution Overview7
+   4.2.3 Company, References and Team Resources7
+   4.2.3.1 Company Overview7
+   4.2.3.2 References8
+   4.2.3.3 Team Resources8
+   4.2.3.4 Vendor Proposed Staff9
+   4.2.3.5 Recommended CBF Staff9
+   4.2.4 Functional Requirements9
+   4.2.5 Proposed Architecture9
+   4.2.5.1 Technical Architecture Overview9
+   4.2.5.2 Development Tool Suite10
+   4.2.5.3 Cloud/Hosted/Saas Narrative10
+   4.2.6 Proposed Implementation Approach10
+   4.2.7 Proposed Implementation Services 10
+   4.2.8 Proposed Project Schedule10
+   4.3 Cost Proposal – Required Response Format10
+   4.3.1 Vendor Proposed Software11
+   4.3.2 Payment Schedule11
+   4.3.3 Labor Rate Card11
+   4.4Proposed Agreements – Required Contract Documents12
+5 Appendix A. Listing of Functional Requirements12
+6 Appendix B. Education Management: Sample Screen Shots19
+                                                                                                                   3
+
+
+
+1 Introduction
+The Chesapeake Bay Foundation (CBF) is requesting Offers from qualified firms and/or individuals for
+the Education Software Replacement Project, an enterprise software selection and implementation
+initiative to modernize business systems in order to facilitate the mission of the organization, achieve
+operational efficiencies, and allow CBF to build a sustainable business model.
+The intent of this Request for Proposal (RFP) is to select software solutions and related implementation
+services that address all the needs described within this RFP. In general, the Education software selection’s
+scope includes Constituent Relationship Management (CRM), program scheduling management, event
+management, and online registration capabilities. CBF is open to using either a native integration or best of
+breed approach depending on the ability of the proposed solution(s) to meet their needs.
+The successful Offeror(s) will be expected to work closely with CBF’s designated Project Management Team to
+administer an effective and efficient program to successfully implement a complete solution.
+
+1.1 Intent to Bid
+Please provide an email response of your intent to bid on this RFP. Providing this information to CBF will
+allow you to be copied on all updates to the RFP process including vendor submitted questions, and CBF
+responses.
+Within your email, please provide the following information by February 24th, 2020.
+To: ndunn@cbf.org
+Email Subject Line: Intent to Bid
+Body of email
+Company Name
+Contact Name
+Email
+Phone
+
+1.2 RFP Due Date
+Offers shall be received via electronic email delivery on February 14th, 2020 by 4:00 PM ET at the email
+address below:
+ndunn@cbf.org
+Nicole Dunn
+Chesapeake Bay Foundation
+6 Herndon Avenue
+Annapolis, MD 21403
+Please compress (via “Zip”) your proposal(s) to limit email size constraints.
+No public disclosure shall be made until after award of the Contract resulting from this Request for Proposal
+(RFP).
+
+ 1.3 Response to Questions
+ Please submit questions in an email to Nicole Dunn (ndunn@CBF.org). Any and all questions regarding this
+ RFP shall be directed to Ms. Dunn and to no other office or individual at CBF. CBF may answer informal
+ questions orally. CBF makes no warranty of any kind as to the correctness of any oral answers and uses this
+ process solely to quickly provide minor clarifications. Oral statements or instructions shall not constitute an
+ addendum to this RFP. Offeror shall not be entitled to rely on any verbal response from CBF. Formal
+ questions regarding any part of this RFP that may result in material changes will result in a formal addendum
+ to the RFP.
+ All questions should be submitted by February 7th, 2020 to ensure a response from CBF.
+
+ 1.4 Selected Vendor Presentations
+                                                                                                                           4
+
+ CBF may request a presentation, demonstration or samples to be given to a selection committee in the event
+ the Offer is deemed to be among the most advantageous to CBF. CBF will schedule all presentations and in the
+ event a presentation is scheduled, demonstration scripts and topics will be included in the
+ invitation. Every attempt will be made to limit the demonstrations/presentations to no more than one
+ business day.
+ It will be the responsibility of the prime bidding contractor to organize and/or prepare for the required
+ demonstrations, including the coordination with other 3rd party organizations that have been proposed
+ within your proposal
+
+ 1.5 Final Contract Negotiations and Notification of Award
+ This RFP is part of a competitive negotiation process intended to allow CBF to obtain goods and services as
+ outlined herein in a manner that is most advantageous to CBF. This RFP provides CBF the flexibility to
+ negotiate with offerors, if desired, to arrive at a mutually agreeable relationship. Price may weigh heavily in
+ the evaluation process but will not be the only factor under consideration and may not be the determining
+ factor.
+
+ 1.6 Intent
+ It is CBF’s intent to select a single offer, which are most favorable in all respects, including scope, availability of
+ services, quality of services, reputation and price. If not otherwise stated herein, multiple awards may be made
+ or an award(s) may be made partial, by part, by line item, or by any combination of parts if identified as being
+ in the best interest of CBF.
+
+ 1.7 Authority
+ This document has been prepared for use by internal organization audiences as well as industry suppliers.
+ It should not be provided to external bodies without the express written or verbal consent of the Vice
+ President for Administration.
+ CBF will not reimburse any information or administrative costs incurred as a result of participation in
+ response to the RFP. All costs associated with response will solely reside at the responding party’s
+ expense.
+
+ 1.8 Confidentiality
+ All information included in this RFP is considered confidential and intended only for use by responders. No
+ information included in this document, or in discussions related to CBF’s enterprise software effort, may be
+ disclosed to another party or used for any other purpose without the express written or verbal consent of
+ CBF.
+
+1.9 Audience
+ The intended audience for this document includes industry suppliers with expertise in delivering an
+ integrated solution with the following major components
+
+        Comprehensive and integrated CRM solutions
+        Comprehensive and integrated program scheduling management
+        Comprehensive and integrated program event management and online registration
+        Industry partners to any of the before mentioned parties who may provide value added solutions or
+         services to systems within the scope of enterprise software selection.
+
+2 CBF Organizational
+2.1 About CBF
+    Established in 1967, the Chesapeake Bay Foundation (CBF) is the largest regional nonprofit conservation
+    organization dedicated to saving the Chesapeake Bay, its rivers and streams, and the wildlife that call it home
+    through education, advocacy, litigation, and restoration. Since 2010, CBF has engaged in a focused effort to
+                                                                                                                           5
+
+    defend and implement the Chesapeake Clean Water Blueprint, a binding federal and state collaborative
+    agreement aimed at reducing pollution to the science-based, legally-affirmed levels established by the U.S.
+    Environmental Protection Agency (EPA). The Blueprint is expected to be fully implemented by 2025. If the
+    states and the federal government achieve Blueprint goals, the Bay will finally—after decades of failed
+    efforts—be removed from the Clean Water Act’s impaired waters list. Successfully implementing the
+    Blueprint depends on a well-informed, engaged, active, and diverse constituency of members, advocates, and
+    volunteers who speak up and take action to save the Bay.
+    CBF has a staff of approximately 190 employees working in offices in Annapolis, Maryland; Richmond and
+    Virginia Beach, Virginia; Harrisburg, Pennsylvania; and Washington, D.C. as well as 15 field education
+    program locations. Our staff and volunteer corps work throughout the region educating students and adults,
+    advocating for clean water policies, restoring waterways, and litigating when necessary.
+    CBF's headquarters office in Annapolis, Maryland is the Philip Merrill Environmental Center, the world’s first
+    U.S. Green Build Council’s LEED platinum building. In 2014, CBF opened the Brock Environmental Center—
+    one of the world’s most energy efficient, environmentally smart buildings—in Virginia Beach, Virginia.
+    CBF has an annual budget of approximately $26 million and is supported by 300,000 members and e-
+    subscribers. For more information on CBF, please visit cbf.org.
+
+2.2 Project Background and Current Environment
+ CBF is consistently recognized as a premier organization dedicated to saving the Chesapeake Bay, a National
+ Treasure. In order to continue to Save the Bay, CBF has embarked on a strategic planning process. That
+ process has highlighted the need for an updated, more sophisticated and integrated education scheduling
+ enterprise software solution.
+ Today’s CBF’s Education department’s software does not adequately support the department’s
+ mission, business processes or the many needs and wants of the various constituencies, both internal
+ and external.
+ To address these current shortcomings, The Chesapeake Bay Foundation (CBF) is requesting Offers from
+ qualified firms and/or individuals for the Education Scheduling Software Replacement, an enterprise
+ software selection and implementation initiative to modernize business systems in order to facilitate the
+ mission of the organization, achieve operational efficiencies, and allow CBF to build a sustainable business
+ model.
+ The following table lists the core or key applications that are currently being used by the Education Department. Other
+ tools are being utilized with CBF and will be provided as needed.
+
+                                      Application                       Vendor
+                              EventPro                        Profit Systems, Inc.
+                              Luminate Online                 Blackbaud
+                              Luminate CRM                    Blackbaud
+                              Intacct                         Sage
+
+
+3 Statement of Need
+3.1 Statement of Need
+ In general, the fundamental goal of the Education enterprise software selection initiative is to develop a
+ comprehensive information and business system that assists the department in all operational areas
+ related to scheduling schools, teacher, and students for Education programs and communicating with
+ teachers, students, and internal staff as needed.
+
+ 3.2 Scope of Work
+ CBF envisions replacing all the functionality outlined in this RFP in one project but the roll out of core areas of
+ functionality may be staggered to better align with the Education department’s business cycles.
+                                                                                                                   6
+
+3.2.1 Functional Scope
+    Education Scheduling
+    Individual Event Registration (online and offline)
+    Group Application and Event Scheduling (online and offline)
+    Constituent Management
+    Event Communications
+    Financial Management
+
+3.2.2 Life Cycle Implementation Professional Services
+Services would include:
+    Configuration/Development – including all required interfaces to 3rd party solutions and/or data sources
+   (budget estimate)
+    Data Conversion Phase (Budget estimate)
+    System testing/Acceptance Testing Phase (Budget Estimate)
+    Training -- Technical and End User (budget estimate)
+    Post Go Live/Shake Out support (Budget Estimate)
+
+
+4 RFP Response
+Offer shall be submitted in the format requested in “RFP Response Format” section. Offers in any other format
+may be rejected. Conditional Offers shall not be considered. Cover Letter to be signed by an authorized
+individual. Offer that is not signed may be rejected.
+Offers to be submitted via E--Mail to the following address. A confirmation Email will be provided.
+                           Contact Email: ndunn@cbf.org
+                           Contact Name: Nicole Dunn
+The following structure should be used in the offeror’s response to this RFP.
+
+4.1 CBF Evaluation Criteria
+It is CBF’s intent to make an award to Offeror that, in the opinion of CBF, presents an offer that appears to be
+favorable to CBF, based upon the scope, availability of services, quality of services, reputation, and price
+offered. The criteria for evaluation of responses will be based on the following point structure:
+
+                                           Phase                                                   Value
+Offeror’s Qualifications, Project Resources, Client References                                  10 Points
+A detailed technical Offer including, but not limited to the following:
+     Clarity and reasonableness of proposed approach, method, accountability of                20 Points
+    implementing the solutions specified
+              Functional Requirements                                                          30 Points
+              Solution Architecture                                                            10 Points
+Price Proposal                                                                                  20 Points
+Overall responsiveness to RFP                                                                   10 Points
+
+
+
+4.2 Technical Proposal – Required Response Format
+4.2.1 Cover Letter and Executive Summary
+Signed by authorized individual, scanned and inserted into the proposal.
+                                                                                                                 7
+
+
+4.2.2 Proposed Solution Overview
+Please provide a general Solution Overview
+
+4.2.3 Company, References and Team Resources
+
+Company Name
+Company Address
+
+
+
+
+Contact Information                              Name:
+(Party Responsible for responding to RFI)        Address:
+
+                                                 Phone:
+                                                 Fax:
+                                                 E--mail:
+Company Webpage
+Main Products / Services
+Main Market / Customers
+Number of years in the Market
+Company location(s) that will serve CBF and
+this project
+
+Number of Employees
+Product Development
+Professional Services
+Marketing & Sales
+Quality Assurance
+4.2.3.1 Company Overview
+
+Please provide the following information on your organization
+
+
+      Financial Information
+      Previous year gross revenue
+      Previous year net income
+      Stock markets listed (if applicable)
+      Use the following section to include any additional financial information you feel would be helpful in
+      demonstrating the financial stability of your organization. If selected for negotiations, Offeror may be
+      required to provide the last two (2) years of audited financial statements
+                                                                                                                  8
+
+
+
+
+4.2.3.2 References
+Provide, at minimum, three (3) references, not including The Chesapeake Bay Foundation, identifying firms
+with requirements similar to those of CBF. Provide the name of the firm, contact person, email and the
+telephone number. CBF reserves the right to contact additional references not provided by Offeror.
+Preference may be given for those references, which are most similar to CBF including experience with
+integrating Offeror's solution or product with other systems for:
+
+Please provide three references
+
+Client Name                        Contact                     Phone Number         Email
+
+Project Description:
+
+
+
+
+Client Name                        Contact                     Phone Number         Email
+
+Project Description:
+
+
+
+
+Client Name                        Contact                     Phone Number         Email
+
+Project Description:
+
+
+
+
+4.2.3.3 Team Resources
+Provide a list of proposed personnel and/or functional job titles. Describe the specific assignment each
+person/resource will have on CBF project.
+
+Should Offeror subcontract any part of the stated scope of work, please list and describe any subcontractor’s
+qualifications and relevant experience. Describe how Offeror guarantees subcontractor performance. Offeror
+shall remain solely responsible for the performance of a resulting Contract from this RFP. All CBF payments for
+goods and/or services shall be made directly to the Offeror.
+
+Please provide a suggested Organization Chart and please provide a project staffing model similar to the
+tables below.
+                                                                                                               9
+
+
+
+
+4.2.3.4 Vendor Proposed Staff
+Resource Title                    Role                        Duration             Est. FTE % on Project
+
+
+
+
+4.2.3.5 Recommended CBF Staff
+Please describe CBF resources necessary to ensure a successful implementation. Based on best practices and
+your firms experience with similar projects, please estimate the time each role would be required for the
+project.
+
+Resource Title                    Role                         Duration             Est. FTE % on Project
+
+
+
+
+4.2.4 Functional Requirements
+Please complete the Excel worksheet of functional requirements included in electronic format as part of your
+RFP response. Instructions for completing the requirements matrix are contained in the worksheet.
+In addition, a Word version of the information in the Excel document is included in Appendix A.
+
+4.2.5 Proposed Architecture
+
+4.2.5.1 Technical Architecture Overview
+Please provide a technical narrative of the proposed solution including any graphical representation of each
+solution component and the overall solution architecture – including all 3rd party solutions not part of the
+Offeror’s core solution. Additionally, describe the technical solution components including what is shared
+in a multi-tenant environment, approach used to manage multi-tenant and what components are unique to
+CBF. Include a discussion of options available and the features/benefits/drawbacks of each approach.
+Please list the database platform (option) used within the core solution as well as additional databases
+required to operate 3rd party solutions.
+                                                                                                               10
+
+
+4.2.5.2 Development Tool Suite
+Please describe the Development Tool Suite that will allow CBF to build custom reports, add views/screens
+and fields, change field names, hide fields/screens and build other more complex application extensions,
+including Mobile Applications.
+
+4.2.5.3 Cloud/Hosted/SaaS Narrative
+CBF’s prefers a SaaS/Cloud/Hosted based solution. However, we will consider an on-premise solution should
+the Offeror make that recommendation. Please fully describe these solution delivery options as relevant
+service level agreements and architectural options. Also describe the type and number of environments
+included within your core solution including a minimum of the following environments -- Development,
+Testing, Training, and Production.
+Provide any other relevant information you deem necessary or that would differentiate your solution
+from competitors.
+
+4.2.6 Proposed Implementation Approach
+Please provide your suggestions/recommendations of a CBF rollout approach based on your understanding
+of CBF project. Include “best practices” recommendations addressing such topics as
+    Shared roles and responsibilities during implementation.
+    Knowledge Transfer Approaches including but not limited to End user and technical training
+    Post Go Live Support during shake out period – options and methods
+
+4.2.7 Proposed Implementation Services
+This section identifies the Implementation Services desired by CBF. Please feel free to expand and/or modify
+this list based on your firm’s proposed approach.
+
+4.2.8 Proposed Project Schedule
+    Configuration/Development – including all required interfaces to 3rd party solutions and/or data sources
+   (budget estimate)
+    Data Conversion Phase (Budget estimate)
+    System testing/Acceptance Testing Phase (Budget Estimate)
+    Training -- Technical and End User (Budget estimate)
+    Post Go Live/Shake Out support (Budget Estimate)
+Please describe the approach and methods used for each of the above life cycle steps. Please include all
+proposed deliverables for each life cycle activity mentioned above.
+Please include a Project Schedule representative of your understanding of CBF project with all proposed
+life cycle phases, tasks and key milestones. Please provide in electronic format as well as a summary
+printed version.
+
+4.3 Cost Proposal – Required Response Format
+CBF recognizes the inherent flexibility and optional approaches within any proposed solution. We also
+recognize that scope definitions may change or be altered based on new information, requirements, policy
+changes, timeline changes and other factors during the implementation life cycle. CBF is seeking a true
+partnership that shares both the risks and accountability for project success.
+
+To that end, the cost proposal will consist of both firm fixed cost components as well as initial budgetary
+estimates. CBF will evaluate each vendor’s proposal on overall implementation costs, a 3-year total cost of
+ownership model, cost assumptions, and cost reasonableness with respect to proposal pricing lower than
+expected industry standard practices. CBF reserves the right to move to a firm fixed cost contract after the
+Offeror has conducted its Discovery/Requirements Phase, thereby assuming the all requirements are
+understood, documented and approved by CBF.
+                                                                                                                    11
+
+Cost shall be provided for the following:
+
+         Software Components including all proposed 3rd party solutions (firm fixed cost)
+         Configuration/Development – including all required interfaces to 3rd party solutions and/or data sources
+          (budget estimate)
+         Data Conversion Phase (Budget estimate)
+         System testing/Acceptance Testing Phase (Budget Estimate)
+         Training -- Technical and End User (Budget estimate)
+         Post Go Live/Shake Out support (Budget Estimate)
+
+
+4.3.1 Vendor Proposed Software
+Please describe all proposed/recommended/optional software components including 3rd party solutions
+that comprise your overall solution architecture for Phase I requirements. It is the responsibility of the
+offer to negotiate and include all 3rd party solutions and services required to meeting Phase I
+requirements. Where options exist for 3rd party solutions, please provide initial year implementation costs
+as well as ongoing life cycle costs (yearly) and any optional per unit pricing as needed.
+
+Please assume the following user base assumptions for pricing:
+
+           Active Users-15
+           Inactive/Occasional Users – 40 (primarily via mobile application-see Appendix B)
+
+Please provide the Cost Proposal in a separate document/separate file for evaluation using the table below.
+
+    Description (Itemize as Required)     Implementation Year            Year 2                     Year 3
+       A. Software Costs
+       B. Services
+           Program Mgmt
+           Discovery/Requirements
+           Implementation, etc.
+       C. Customizations
+       D. Hosting/Other Costs
+           Total:
+
+4.3.2 Payment Schedule
+
+Please provide a proposed payment scheduled based upon deliverables and/or key milestones throughout
+the implementation life cycle.
+
+4.3.3 Labor Rate Card
+Please list the hourly/daily rates for staff you would include in this project in the table below. Please include
+any discounts that are available. Please estimate any on premise work needed (such as training). Please
+include an estimate of travel costs
+
+Please use the table below as a guide for your response.
+ Role                         Standard Rate                 Discounted Rate               Travel Costs
+                                                                                                                   12
+
+4.4 Proposed Agreements – Required Contract Documents
+Please include the following documents described as part of your proposal. CBF anticipates reviewing all
+terms and conditions and will provide feedback and/or comments prior to contract award.
+
+      Professional Services Statement of Work (SOW)
+      Hosted Storage / Environments Service Level Agreement
+      Software License Agreement including Escrow, Warranty
+      Customization Warranty Agreement
+      Software Support/Service Level Agreement(s) (SLA)
+      Other Third-Party Agreement(s)
+
+If Offeror is providing additional software components under this agreement, please include those 3rd party
+software, support, warranty, SLA agreements in this section.
+
+
+5 Appendix A. Listing of Functional Requirements
+The following list is included in the supplemental Excel File.
+Please provide the electronic version of this file as part of your response. This information below is
+included in addition to the electronic file submitted with this RFP.
+
+5.1 Functional Requirements Checklist
+
+
+5.2 Introduction
+The following is a list of functional requirements for the new Education solution. If there are multiple options
+to address the requirement (e.g. multiple reporting tools embedded within the solution), please describe the
+most appropriate tool/module/method to meet that requirement.
+
+5.3 Instructions:
+Please use the accompanying Excel requirement matrix to respond. Within each requirement, please name
+and provide descriptions of the proposed solution or approach addressing the solution. Please respond as
+follows for each requirement.
+   1. Yes/No – Requirement met within core vendor solution with little or no configuration (<5 hours) – if no
+   2. Yes/No – Requirement met within proposed vendor owned secondary solution with little or no
+   configuration (< 5 hours) – if no
+   3. Yes/No – Requirement met within proposed 3rd party vendor solution. If Yes, please provides details of the
+   proposed 3rd party solution (including level of native integration out of the box and/or required integration).
+   If necessary, provide additional detail as it pertains to the 3rd party solution in an appendix, fully describing
+   the proposed solution and vendor. If No,
+   4. Yes/No - Requirement to be met with material configurations and/or “custom” development effort (with
+   core, secondary or 3rd party solutions - > 5 hours). For each of these requirements, please provide a budgetary
+   estimate within the cost proposal. If No,
+   5. Cannot/Will not meet requirement
+
+We also recognize that a requirement may be addressed using a combination of the above and/or
+utilizing a different approach then suggested within the requirement. If that is the case, simply respond
+“Yes” to the appropriate area(s) and provided an explanation within the requirement matrix including, as
+necessary, any qualification to your response related to what your proposed solution will or will not
+deliver.
+
+5.4 Education Scheduling
+                                                                                                                           13
+
+5.4.1   Education runs two very different scheduling/registrations processes. For these requirements, they will be
+        divided into two types. Individual Event Registration and Group Event Application and Scheduling.
+
+5.4.2   Individual Event Registration – Ability to have online registration to register as individuals for a pre-set event.
+
+5.4.3   Group Event Application and Scheduling – Ability to have an online application process for groups (schools,
+        youth groups, etc.) where CBF staff can assign groups based on schedule availability to programs and staff
+        (from a resource calendar).
+
+5.5 Individual Event Registration
+5.5.1   In general, the proposed solution should provide the ability to support event setup, online and offline
+        registration, payment processing, CBF resources/staffing assignment.
+
+5.5.2   Proposed solution provides the ability to centrally schedule events and event logistics via the application.
+
+5.5.3   Proposed solution provides the ability to register individuals or groups for events both online via the web and
+        offline via the application. Program participants are entered (new participants) or drawn from a centralized
+        constituent database (see section 5.9 Constituent Management) before, during or after event (on line and off
+        line) with customizable registration forms.
+
+5.5.4   Proposed solution provides the ability to identify individuals present at an event via a mobile device and record
+        their attendance.
+
+5.5.5   Proposed solution provides the ability to add “user defined” fields to the on-line registration forms that is
+        viewable/reportable via the event management application.
+
+5.5.6   Solution provides an event wait listing option with the ability to automatically notify individuals on a waitlist if
+        space opens-up for an event.
+
+5.5.7   Proposed Event Management solution provides ability to enter specific discount codes or “coupon code” to
+        decrease event cost
+5.6 Group Application and Event Scheduling
+5.6.1   Ability for group/individual to complete an on-line application for event/program where the data would flow
+        into the system where the application could then be “assigned” to an open date for a program/resource.
+
+5.6.2   Applicant tracking through phases of CBF defined steps – e.g. Application, acceptance, contract,
+        confirmed/canceled, close out, etc.
+
+5.6.3   Proposed solution provides the ability to register organizations (schools, classes, etc.) as well as individuals for
+        an event.
+
+5.6.4   Proposed solution provides the ability to enter/track/tie student and teacher contacts to a “customer” (school)
+        account, and the student to parent account (if applicable).
+
+5.6.5   Ability to create and manage user defined fields
+
+5.6.6   Ability to view and manage all events through a graphical calendar where program/resources (including staff
+        resources) can be listed along with dates (See Appendix B) and events can be added, edited, deleted etc. via
+        the calendar.
+                                                                                                                          14
+
+5.6.7   Ability for the graphical calendar to have both internal and external versions with specific fields turned on/off
+        depending if it is for internal or external viewing. Also allowing for internal controls to publish the calendar for
+        external viewing or have it completely remain ‘off’/hidden.
+
+5.7 Event Communications
+5.7.1   Proposed Education Management solution provides the tools, methods, and techniques to communicate items
+        related to the event including email and SMS.
+
+5.7.2   Ability to create, send, attach, and record/track confirmation agreements, invoices, deposit amounts,
+        information packets (attachments), survey’s etc. to registrants
+
+5.7.3   Provide automatic email invites (via CRM segments) and RSVP reminder emails, provide automatic follow-up
+        emails based on dates, registration status, etc.
+
+5.7.4   Provide event confirmation email using mail merge with personalization and attachment capabilities (i.e.
+        approx. 600-700 confirmation emails are sent out 2 times per year)
+
+5.7.5   Communications to event/program (internal) staff via online and mobile calendar – specific events and all
+        events including click through to logistic information, including events comprising multiple locations and
+        multiple days – see Appendix B examples.
+                                                                                                               15
+
+5.8 Financial Management
+5.8.1   Proposed Event Management solution provides the ability process on line and off-line (invoice-based
+        processing, tracking and management) payment processing including credit card payment for
+        programs and events including payment via mobile platforms against a pre-selected payment
+        processor (e.g. PayPal, Stripe, etc.). Please provide payment processor options.
+
+5.8.2   Proposed Education Management solution supports ability to tie education event applications to
+        funding, contract, and grant sources.
+
+5.8.3   Ability to manage Sponsorship payment processing and allocation to events
+
+5.8.4   Provides integration with Intacct financial system / journal entries
+
+
+5.9 Constituent Management
+5.9.1   Ability to have records and track information for both individuals and organizations (teachers and
+        schools).
+
+5.9.2   Proposed solution provides the ability to track the following forms of constituent data:
+
+5.9.3   Biographical detail.
+
+5.9.4   Event participation history
+
+5.9.5   Constituent attributes, classifications, and other custom fields.
+
+5.9.6   Notes/contact/phone calls/letters/emails – i.e. all historical communication and touch points from all
+        sources/channels including date of contact – ability to archive all contact points/emails after a certain
+        date.
+
+5.9.7   Preferences – user defined set areas of interest/areas of conflict, solicitation preferences,
+        communication, opt in/opt out, etc.
+
+5.9.8   Audit capabilities of changes/additions to records – down to the field level.
+
+5.9.9   Ability to track relationships between individuals and organizations.
+
+5.9.10 Ability to collect constituent data (all of the above) via Mobile platforms (smart phones, tablets).
+        Please differentiate between responsive design capabilities within the core product versus native
+        smart phone/table applications (please list and describe).
+
+5.9.11 Ability to develop business rules and associated workflows when adding a new record.
+
+5.9.12 Proposed solution provides the ability to map both teachers and schools to legislative districts: local,
+        state and federal.
+                                                                                                                16
+
+
+
+
+5.10 De‐Duplication
+5.10.1 This requirement checks to minimize duplicate constituent records including tools, methods for real
+       time duplication checks and/or batch checks and disposition methods.
+
+5.10.2 Ability to define duplication rules and methods against both online and batch -processing.
+
+
+5.10.3 Solution should provide a tool to review, merge, delete (take action) against duplicate records.
+
+
+5.11 End User Reporting
+5.11.1 Reporting requirements includes end user query and custom reporting.
+
+5.11.2 Proposed solution provides reporting tool(s) targeted for simple list reporting, and mid-level complex
+       reports
+
+
+5.11.3 Ability to create ad-hoc reports and queries in the system based on any data in the system.
+
+
+5.11.4 Ability to save ad-hoc reports for re-use.
+
+
+5.11.5 Ability to output reports in multiple off-line formats – please list specific formats (e.g. PDF, CSV,
+       Excel, etc.)
+
+
+5.11.6 Ability to grant/restrict access to reporting tools to various users / profiles
+
+
+5.11.7 Proposed solution provides reporting tools targeted to end (non-IT staff) user base – please describe the
+       end user-based reporting tool options versus more sophisticated tools targeted toward IT staff.
+
+
+5.11.8 Ability to manage reporting against accounts/household versus individuals with the system able to
+       consolidate and /or eliminate duplicate data (i.e. record found against an account and individual
+       constituent)
+
+
+5.11.9 Please provide a list in a separate appendix of all available reports available “out of the box”. Solution
+       provides the tools and ability to modify these standard reports to suit end user needs.
+
+5.11.10 Ability to schedule reports to be run and emailed out to end users on said schedule.
+
+
+5.12 Information Technology
+5.12.1 Application/Solution Architecture
+
+5.12.1.1      Provide a narrative and graphical depiction of your solution architecture: On site, hosted,
+              Software as a Service (SaaS), multi-tenant, etc.
+                                                                                                           17
+
+
+5.12.1.2    Describe the locally hosted model if available
+
+5.12.1.3    Okta integration for authentication through SAML or OpenID connect. Solution should
+       allow for logins to only occur through Okta and not allow for local passwords within the
+       application. If this has an associated increase in expense, please indicate.
+
+5.12.1.4    No VPN tunnels shall be used in any portion of CBF implementation.
+
+5.12.1.5    Documented REST based APIs exist (read & write) for all data elements within the
+       system. Include a link to API documentation. If API throttling limits are in place, include a
+       description of these limits. If this has an associated increase in expense, please indicate.
+
+5.12.1.6    Solution must also be capable of being deemed PCI compliant.
+
+5.12.1.7    All data shall be encrypted in transit.
+
+5.12.1.8     All modules and functions within the system available without the use of remote desktop
+       style technology (Microsoft RDS, Citrix, etc).
+
+5.12.1.9    Should CBF choose to discontinue using the solution, describe the data offboarding process
+       and typical costs to do so.
+
+
+5.12.2 Application/Solution Architecture (Desired but not mandatory)
+
+5.12.2.1    Capable of syncing profile data from Okta to application
+
+5.12.2.2    SOC 2 Type II certification
+
+5.12.2.3     Ideally, the software will be fully web based. Indicate if any locally installed components
+       will be required, including browser plugins (Java, Flash, ActiveX, etc)
+
+5.12.2.4   All data shall be encrypted at rest Are there tools/technologies available that will allow for
+       more direct access of data within the ERP? (ODBC/SQL access, etc)
+
+5.12.2.5    Does the system have the native ability to connect to PowerBI for additional dashboarding
+       and analytics capabilities?
+
+5.12.3 Mobile Support
+5.12.3.1    Proposed mobile solution provides native support and/or rendering via various mobile
+            platforms including smart phones and/or tablets
+
+5.12.3.2    Proposed mobile solution provides mobile payments, online transactions (e.g. event
+            registration, etc.)
+                                                                                                            18
+
+ 5.12.3.3      Proposed mobile solution provides on-line and off-line (store/sync) database updates via
+               mobile platforms
+
+ 5.12.4 Configuration/Customization
+ 5.12.4.1    Proposed solution provides the ability to modify existing forms
+
+ 5.12.4.2      Proposed solution provides the ability to create new forms and attach to a specific function,
+               module, workflow
+
+ 5.12.4.3      Proposed solution provides the ability to add fields, change field names, add calculated field
+               types to form
+
+ 5.12.4.4      Proposed solution provides tools to create, modify workflows along with associated
+               business rules
+
+ 5.12.4.5      Proposed solution provides the ability to maintain the upgrade path/approach while
+               segmenting local “customizations” for all the above modifications.
+
+ 5.12.4.6      Proposed solution provides general user group security administration and role setup as
+               well as the ability to customize specific user experiences per role/security profile (i.e.
+               forms, landing pages, etc.)
+
+ 5.12.4.7      Proposed solution provides tools to allow real time integration (via web services, API’s,
+               etc.) with other 3rd party applications as identified in the table below.
+
+
+
+
+List and describe any 3rd party tools needed to meet any criteria listed above, including costs.
+Vendor                            Description                        Cost
+                                                                                                                     19
+
+
+
+6 Appendix B ‐‐ Sample Views for Education Program Requirements
+
+Booking calendar providing internal program staff to view program assignments, logistics and requirements.
+Each item is color coded depicting a variety of status (paid, unpaid invoicing, deposit status, etc.). Provides ability
+to view across dates of each month (or changing view to week, day, etc.) with “locations” (which can be programs
+or staff) as well as the ability to drill down into event details and schedule new events from the calendar.
+20
+                                                                                                                 21
+
+Below are two images from a smart phone device that shows for the selected day, all programs and when the
+specific date is open for a particular program (e.g. Baltimore Harbor program. Integration with Outlook/Mobile
+provides the ability to show program scheduled, including dates, times, teacher contact information, and other
+pertinent event details.
+

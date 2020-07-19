@@ -1,0 +1,1007 @@
+    RFP ITO (Rev. 12.0, 11/1/18)                                                                                                                 Instructions to Offerers
+                                                                         Dated 11/20/2018
+
+
+
+                                               Triad National Security, LLC (Triad)
+                                             Los Alamos National Laboratory (LANL)
+
+                                                       REQUEST FOR PROPOSALS
+                                                      INSTRUCTIONS TO OFFERORS
+                                                                 TABLE OF CONTENTS
+
+    No.      Title                                                                                                                                                       Page
+    1.       INVITATION TO SUBMIT BID/ PROPOSAL (Nov 2018) ..... .. ... ... ..... ......... .. ......... ... ..... ................ .. 2
+    2.       AMENDMENT OF SOLICITATION (Nov 2018) ... ........ ............... .. ...... .. ...... ...... ......... ... .. ........ ....... .. 3
+    3.       PREPARATION AND SUBMISSION OF PROPOSALS (Nov 2018) ..... ........... .. .. ........................... 3
+    4.       BASIS OF AWARD- BEST VALUE (Nov 2018) .. ......... ................ ...... ...................... .......... .... .... .. .. 6
+    5.       PRICING INFORMATION/ DOCUMENTATION (Nov 2018) ........ ...... ....... ................ ................... .. 8
+    6.       OTHER AWARD CONSIDERATIONS (Nov 2018) .. .. ....... ... .. .. .............. .......... ...... ..... ................ .... . 8
+    7.       EXAMINATION OF SOLICITATION DOCUMENTS (Nov 2018) ............ .............. .... ...... ................ . 9
+    8.       OFFEROR'S MODIFICATION AND WITHDRAWAL OF PROPOSALS (Nov 2018) ... ... ...... ........... 9
+    9.       DISCLOSURE OF PROPOSAL DATA (Nov 2018) .......... ........... ........ .................................... ......... 9
+    10.      REGIONAL PURCHASING PRICING PREFERENCES (Nov 2018) ..... ..... .. ....... .... ....... ............... 10
+    11 .     TRIAD PUEBLO BUSINESS ALLIANCE (Nov 201 B..... ........... .. .... .. .................... ...... .... ... ............. 11
+    12.      SUBCONTRACTOR'S REGIONAL AND COMMUNITY DEVELOPMENT PLAN (Nov
+             2018) .............. ........... ... ...................... ..... ................. .. ........................................... ....... ... .... .... ....... 11
+    13.      NOTICE TO UNSUCCESSFUL OFFEROR(S) (Nov 2018) ............ ..... ................ ........ ... ........ ....... 13
+)   14.      NOTICE CONCERNING NEW MEXICO GROSS RECEIPTS TAX (Nov 2018) ............. .............. 13
+    15.      ELECTRONIC FUNDS TRANSFER AUTHORIZATION FORM (Nov 2018) ...... .... ...... .. ............... 14
+    16.      SECURITY DOCUMENTS AND/OR APPROVALS REQUIRED PRIOR TO
+             COMMENCEMENT OF WORK (Aug 2015) ............. ... ................................................................. .. 14
+    17.      STATEMENT OF WORK CONFIGURATION REVIEW ............... ..... ............................. ........ .. ..... 14
+    18.      SOFTWARE LICENSE AGREEMENT OR MAINTENANCE AGREEMENT (Nov 2018) .. .... ...... .. 14
+    19.      GREEN/ SUSTAINABLE PRODUCTS (Oct 2014) .......... ............ ......... ............... ... ........ ............... 14
+    20.      TRIAD PROCUREMENT PROTEST PROCESS (Nov 2018) ...... .... .......... ...... ....... ......... ... .. ......... 14
+    21.      AGREEMENT TO ARBITRATE (Nov 2018) .......... ... .. .................... .. .............. .... ..... ..... .. ............ ... . 17
+
+
+
+
+    RFP No. 511017                                                                                                                                         Page 1 of 18
+    RFP ITO (Rev. 12.0, 11/1/18)                                                                     Instructions to Offerers
+                                                        Dated 11/20/2018
+
+
+
+    1.       INVITATION TO SUBMIT BID/ PROPOSAL (Nov 2018)
+             a.   The North American Industry Classification System (NAICS) code for this acquisition is
+                  334112. The small business size standard for the listed NAICS code is 1,250 employees.
+             b.   You are invited to submit a bid/proposal (herein referred to collectively as Proposal) for the
+                  items and services specified in this Solicitation, also known as request for proposal (RFP) and
+                  request for quotation (RFQ), in accordance with the provisions contained herein and the terms
+                  and conditions of the proposed subcontract. All questions you may have concerning this
+                  Solicitation should be submitted in writing and directed to the Triad Subcontract Administrator
+                  specified below.
+                       Maureen Armijo, Subcontract Administrator
+                       Telephone no.: 505-665-2098
+                       Email address: m_armijo@lanl.gov
+                       Facsimile no.: 505-665-8944
+             c.   Your Proposal is to be delivered to the Subcontract Administrator not later than 2:30 PM
+                  Mountain Time on March 18th, 2019,. Partial or incomplete proposals will not be considered.
+             d.   Proposals may be submitted as specified below.
+                  (1) Electronically to the Subcontract Administrator;
+                           •       Proposals shall be transmitted via electronic file transfer to the website below,
+                                   using m armijo@lanl.gov as the recipient:
+
+
+                                   https://transfer.lanl.gov
+
+)                          •       Each volume must include the specified Proposal Documents (see Section 3b
+                                   below) within a compressed , password protected , ZIP file archive. The file size
+                                   limitation per archive is 2GB.
+                           •       A Separate email must be sent to m armijo@lanl.gov containing the password
+                                   used to protect the file archive.
+                  (2) Via the U. S. Postal Service addressed as follows:
+                           Triad National Security, LLC
+                           Attn : Maureen Armijo
+                           P.O. Box 1663, MS D447
+                           Los Alamos, New Mexico 87545
+                  (3) Via other delivery services, such as UPS, Federal Express, Airborne , addressed as
+                      follows :
+                           Triad National Security, LLC
+                           Attn : Maureen Armijo, MS D447
+                           Bldg . SM-30 Bikini Atoll Road
+                           Los Alamos, New Mexico 87545
+                  (4) Hand-carried to the Subcontract Administrator. Offerors electing to hand-carry proposals
+                      should call the Subcontract Administrator to make arrangements for delivery.
+             e.   You will allow a minimum two hundred forty (240) calendar days for acceptance of your
+                  Proposal.
+             f.   Triad reserves the right to cancel this Solicitation at any time without incurring any
+                  liability/damages associated with such cancellation.
+
+
+
+
+    RFP No. 511017                                                                                          Page 2 of 18
+    RFP ITO (Rev. 12.0, 11/1/18)                                                                  Instructions to Offerors
+                                                   Dated 11/20/2018
+
+             g.   If you plan to submit a Proposal in response to this Solicitation, complete and return the
+                  Notification of Intent to Submit Proposal to the Triad Subcontract Administrator within seven
+                  (7) business days of receipt of this Solicitation. This form may be found at
+                  http://www.lanl .gov/business/vendors/supplier-forms. php.
+             h.   If you have an office within the continental United States of America or its territories, you must
+                  be registered and on active status in the System for Award Management (SAM) at
+                  https://www.sam.gov/ in order to be eligible for award of a Triad subcontract. If you are not
+                  listed in SAM at the time that your proposal is received, your proposal will be deemed to be
+                  incomplete and will not be considered until you have provided satisfactory written
+                  representations of your size and socioeconomic status to Triad .
+
+    2.       AMENDMENT OF SOLICITATION (Nov 2018)
+             a.   Triad may, by amendment, modify any provision or part of this Solicitation at any time prior to
+                  the award of any resultant subcontract. All terms and conditions that are not modified remain
+                  unchanged.
+             b.   You shall acknowledge receipt of any amendments to this Solicitation by email to the Triad
+                  Subcontract Administrator. In addition, you must also acknowledge receipt of all amendments
+                  on the Offerer's Proposal Letter; failure to do so may result in the disqualification of your
+                  Proposal.
+                  Acknowledgements shall be provided as follows :
+                       •   Immediately upon receipt of the amendment via email to the Triad Subcontract
+                           Administrator.
+                       •   In the Offerers Proposal Letter that accompanies the Offerer's proposal.
+
+    3.       PREPARATION AND SUBMISSION OF PROPOSALS (Nov 2018)
+)
+             a.   Your Proposal should contain your best terms from a cost/price and technical standpoint, and
+                  include all available discounts and/or government pricing.
+             b.   Submit your Proposal in two volumes, the contents of which are identified below:
+                  •   Commercial Proposal Volume (i.e. , business, administrative, and pricing information)
+                  •   Technical Proposal Volume (i.e., technical information on how the scope of work will be
+                      performed)
+             c.   The documents identified below are all required and must be submitted as part of your
+                  Proposal. Complete and accurate submittal of the information requested will be the basis to
+                  determine whether your Proposal is responsive to this Solicitation . Supplements to the
+                  documents may be used, if additional information is needed to present a complete and
+                  effective proposal. Note: unless otherwise stated below, a proposal document will not be
+                  incorporated in the resultant subcontract and will only be used for evaluation of your Proposal.
+             d.   Commercial Proposal Volume: The following documents/information must be completed,
+                  signed (when required) and submitted with your Proposal. They will provide the basis for the
+                  commercial evaluation of your Proposal.
+
+                  •   Offeror's Proposal Letter
+                      A copy is attached Hereto for an Offerer's use. Proposals by joint ventures, consortia,
+                      associations or partnerships shall designate one single participant to represent all those
+                      forming the offering entity, and shall list the full names and addresses of all participants in
+                      the offering entity. The name of the signatory shall be typed or otherwise clearly imprinted
+                      below each signature, and a corporate offerer shall state its place of incorporation.
+                      Evidence of the signatory's authority shall be included, if the offering entity is a joint
+                      venture, association, consortia or partnership; if not, satisfactory evidence of the authority
+
+
+
+
+    RFP No. 511017                                                                                       Page 3 of 18
+        RFP ITO (Rev. 12.0, 11/1/18)                                                                Instructions to Offerers
+                                                       Dated 11/20/2018
+
+                           of any signatory shall be furnished when requested . This form may be found at
+                           http://www.lanl.gov/business/vendors/supplier-forms. php.
+
+                      •    Form 3500.00.2002.Representations and Certifications
+                           If an offering entity is a joint venture, association, consortia or partnership, each member
+                           entity must submit individual Representations and Certifications. The successful Offerer's
+                           submittal will be incorporated in the resultant subcontract.
+                           This form may be found at http://www.lanl.gov/business/vendors/supplier-forms.php.
+
+                      •    RFP Form A, Schedule of Proposal Quantities and Prices
+                           The proposed quantities and pricing shall be firm fixed prices for all work to be performed
+                           pursuant to the subcontracts to be awarded as a result of the RFP . An offerer shall
+                           complete the attached Schedule of Quantities and Pricing herein or reasonable facsimiles
+                           thereof, inclusive of similar levels of itemization.
+                      •    RFP Form B, Schedule of Proposed Quantities and Prices
+                           The proposed schedules of quantiles and prices Form B shall correspond to Form A. An
+                           Offeror shall propose a Target Completion Schedule for each milestone based on its
+                           capabilities resources as well as its proposed work breakdown and time sequence.
+
+                      •    Exhibit C Form A, Schedule of Proposal Quantities and Prices
+                           A Sample Build document is attached hereto. This does not need to be returned with your
+                           proposal, the successful offerer's submittal will be incorporated in the resultant
+                           subcontract.
+                      •    Exhibit C Form B, Milestone and Payment Schedule
+                           A Sample Build document is attached hereto. The successful offerer's submittal will be
+    )                      incorporated in the resultant subcontract.
+
+                      •    RFP Form G, Offeror's Additional Representations
+                           This form may be found at http://www.lanl.gov/business/vendors/supplier-forms.php.
+
+                      •    Letter from Offeror's insurance company on Experience Modification Rate (EMR)
+                           data
+                           Submit the letter required by Exhibit F, Attachment F3-1, Safety Performance Eligibility
+                           Requirements, with your Proposal.
+
+                      •    Form 3191.00.0993 Small Business Subcontracting Plan
+                           The successful offerer's submittal will be incorporated in the resultant subcontract. This
+                           form may be found at http:/lwww.lanl.gov/business/vendors/supplier-forms.php.
+
+                           Note: (1) You do not have to submit this plan if you claim an exemption within the Small
+                           Business and Small Disadvantaged Business Subcontracting Certification in your
+                           Representations and Certifications. (2) The following conditions shall apply when you are
+                           required to submit a small business subcontracting plan.
+                               1.       No subcontract will be awarded unless and until an acceptable subcontracting
+                                        plan , if required, is negotiated with Triad and the approved plan is
+                                        incorporated as a material part of the subcontract.
+                               2.       As determined by Triad, an acceptable subcontracting plan must provide the
+                                        maximum practicable opportunity for Small Business, Veteran-Owned Small
+                                        Business, Service-Disabled Veteran-Owned Small Business, HUBZone Small
+                                        Business, Small Disadvantaged Business, and Women-Owned Small
+)                                       Business concerns to participate in the performance of the subcontract.
+
+
+
+        RFP No. 511017                                                                                      Page 4 of 18
+RFP ITO (Rev_12.0, 11/1/18)                                                                 Instructions to Offerers
+                                              Dated 11/20/2018
+
+                       3.     If an acceptable subcontracting plan is not negotiated with Triad within the
+                              time limits prescribed , the Offerer shall be ineligible for an award. Triad shall
+                              notify the Offerer in writing of the reasons for determ ining a subcontracting
+                              plan to be unacceptable and allow adequate time for the Offerer to modify its
+                              plan.
+                       4.     Commercial subcontracting plans on a company-wide basis must have a
+                              current Federal agency approval and are acceptable for commercial products
+                              only.
+                       5.     Master subcontracting plans on a division-wide or plant-wide basis must
+                              contain individual subcontracting goals for the particular subcontract.
+
+         e. Technical Proposal Vol ume: The following documents/information must be completed,
+            signed (when required) and submitted with your Proposal. They will provide the basis for the
+            technical evaluation of your Proposal. Note: Do not reveal labor rates or price information of
+            any kind in these documents.
+
+              •   Technical Requirements Document
+                  An Offerer's Technical Proposal shall include narrative and graphics as appropriate,
+                  providing responses/proposed technical solutions to each of the numbered sections of the
+                  Technical Requirements Document included in this RFP. An Offerer shall incorporate it
+                  Reponses/proposed technical soltuions directly into each sections of the Technical
+                  Requirements Document. The Technical Requirements Document is provided in MS word
+                  format to facilitate this proposal requ irement. The Scope of Work and Technical
+                  Specifications for any subcontract (s) resulting from this RFP will be negotiated based on
+                  the technical Requirements Document and the successful Offerer's responses/proposed
+                  technical solutions.
+
+             •    Technical Data Summary Sheet
+                  A copy of this document is attached hereto. An Offerer's Technical Proposal shall include
+                  this Technical Data Summary Sheet to summarize its proposed systems.
+
+             •    RFP Form C-1, Lower-Tier Experience Statement
+                  Submit a completed form for each lower-tier supplier or subcontractor that will be
+                  performing work on the proposed subcontract. A copy of this document is attached
+                  hereto.
+
+             •    RFP Form H, Resumes of Key Personnel
+                  A copy of this document is attached hereto.
+
+             •    RFP Form I, Summary of QA I QC Program
+                  A copy of this document is attached hereto.
+
+             •    RFP Form N, Experience Statement
+                  A copy of this document is attached hereto.
+
+             •    RFP Form F3-2, Environment, Safety and Health Worksheet
+                  This form may be found at http://www. lanl.gov/business/vendors/supplier-forms.php.
+
+
+
+
+RFP No. 511017                                                                                     Page 5 of 18
+RFP ITO (Rev. 12.0, 11/1/18)                                                               Instructions to Offerers
+                                                 Dated 11/20/2018
+
+4.       BASIS OF AWARD- BEST VALUE (Nov 2018)
+         a.   Triad intends to award a subcontract resulting from this Solicitation to the responsive,
+              responsible offeror whose proposal contains the combination of factors offering the best
+              overall value to Triad.
+         b. You shall provide a written proposal, fully compliant with these solicitation provisions.
+            Proposals for other than the total Work defined herein will be considered non-responsive and
+            may be rejected .
+         c.   Proposals received in response to this Solicitation shall be evaluated using the following
+              technical evaluation criteria in descending order of importance:
+              1.   Technical Design/Function
+              The program must continue to meet mission needs while adapting to sometimes radical
+              changes in technology. Codes running on NNSA Advanced Technology Systems (Trinity and
+              Sierra) in the 2019 timeframe are expected to run efficiently on Crossroads. The Technical
+              Requirements Document of this RFP sets forth targets which if achieved will present what
+              Triad believes to be an optimal solution that will meet current mission needs and provide a
+              well-documented path to the next generation architecture technology. It is important to note
+              that the scope of work and technical specifications for any subcontracts resulting from this
+              RFP will be negotiated based on the successful Offeror's responses/proposed solutions
+              responses to the Technical Requirements Document.
+              Each Offeror's Technical Proposal shall include narrative and graphics, as appropriate,
+              providing its responses/proposed solutions to each of the following sections of the Technical
+              Requirements Document.
+                         Scalability
+                        System Software and Runtime
+                        Software Tools and Programming Environment
+                        Platform Storage
+                        Application Performance
+                        Resilience, Reliability, and Availability
+                        Application Transition Support and Early Access to ACES Technologies
+                        Target System Configuration
+                        System Operations
+                        Power and Energy
+                        Facilities and Site Integration
+                        Options
+
+
+                   Each proposal will be upgraded where it exceeds a target and conversely downgraded
+                   where it fails to meet a target.
+                   Each of the proposals will be evaluated with the following technical design and function
+                   considerations in descending order of importance:
+                   a.   Knowing that all targets identified in the Technical Requirements Document may not
+                        be simultaneously achievable, each proposal will be evaluated to determine which
+                        proposal collectively best achieves the optimal solution of meeting current mission
+                        needs while providing a documented path to the next generation architecture
+                        technology:
+
+
+
+RFP No. 511017                                                                                    Page 6 of 18
+RFP ITO (Rev. 12.0, 11/1/18)                                                                 Instructions to Offerers
+                                                 Dated 11/20/2018
+
+
+
+                   b.   The extent to which the other additional features, components, performance
+                        characteristics, or other properties proposed by Offerer provide added value to the
+                        system .
+
+                   c.   The extent to which the proposed systems' designs promote efficient hardware
+                        problem identification and problem resolution with minimal system disruption.
+
+                   d.   The extent to which the proposed systems' packaging effectively balances reliability,
+                        power, cooling, and floor space requirements.
+
+                   e.   The extent to which the proposed systems' computational capabilities and operating
+                        environments are easily accessible and useable.
+
+                   f.   The extent to which the alternate risk mitigation point design mitigates schedule risk
+                        for the Crossroads delivery.
+
+
+              2.   Performance Capability
+
+                   Additionally, each proposal will be evaluated relative to the Offerer's Performance
+                   capability - This criterion is comprised of the following sub-factors, which are of
+                   approximately equal importance:
+
+                   a.   The Offerer's experience and past performance in providing high-end capability
+                        computing systems.
+                   b.   Assessment of project risks with regard to the Offerer meeting the technical, support,
+                        and schedule requirements of th is solicitation.
+                   c.   The Offerer's experience and past performance in providing project management and
+                        engineering services.
+
+
+         If the SEC Chairperson determines it will be beneficial in evaluating Technical Proposals
+         considering the Technical Evaluation Criteria stated above, the SEC may gather additional
+         information by any of the following methods:
+                                    Check references furnished by Offerers.
+                                    Conduct site visits to Offerers' facilities.
+                                    Request oral presentations of Offerers' proposals. Oral presentations
+                                    may be scheduled for dates/times approximately ten (10) days after the
+                                    scheduled proposal due date. Presentations will be limited to one (1)
+                                    hour, followed by an appropriate time period for questions and answers.
+         If additional information is gathered in accordance with these methods, that information may
+         positively or negatively impact the SEC's evaluation and its determination of Offerers' technical
+         ratings.
+         d.   Your technical ability will be evaluated based on the data and information submitted in your
+              Technical Proposal Volume that demonstrates your ability to meet the technical requirements
+              of this Solicitation .
+         e.   Proposals that are deemed to be technically acceptable will then be evaluated for total
+              price/cost reasonableness and realism in relation to the proposed scope of work ahd technical
+              specifications.
+
+
+
+
+RFP No. 511017                                                                                      Page 7 of 18
+RFP ITO (Rev. 12.0, 11/1/18)                                                                 Instructions to Offerers
+                                                Dated 11/20/2018
+
+         f.   Award will be made to the responsive, responsible offerer whose proposal contains the
+              combination of factors offering the best overall value to Triad. Assessment of best value will
+              be determined by comparing each offerer's proposal value in terms of the various proposed
+              technical features to the overall proposed cost. Award may be made to an offerer whose
+              technical proposal was rated highest, but whose price is not the lowest. In making this
+              cost/benefit analysis:
+                               [8]   All technical evaluation criteria, when combined , are significantly more
+                                     important than cost or price. However, Triad will not make an award at a
+                                     significantly higher overall cost to Triad to achieve slightly superior
+                                     technical or management features.
+                               D     All technical evaluation criteria, when combined , are approximately equal
+                                     to cost or price.
+                               D     All technical evaluation criteria, when combined, are significantly less
+                                     important than cost or price. However, Triad will not make an award
+                                     based upon a proposal with significantly inferior technical or management
+                                     features in order to achieve a small savings in cost to Triad .
+              A cost/benefit analysis will not be performed , if the offerer whose technical proposal was rated
+              highest also has the lowest evaluated cost or price.
+         g.   All communications by Triad with offerers shall be in accordance with the Triad Solicitation
+              and Selection Process for Competitive Procurements, which may be found at
+              http://www.lanl. gov/business/vendors/supplier-forms.php.
+
+5.       PRICING INFORMATION/ DOCUMENTATION (Nov 2018)
+         In order to assist Triad in determining whether your price(s) is/are fair and reasonable, you shall
+         furnish the following pricing information with your offer:
+         •    If the item(s) being procured are goods or services of a type offered and sold competitively in
+              substantial quantities in the commercial marketplace (i.e., commercial items), provide
+              published catalog or market prices. "Catalog price" means a price included in a catalog, price
+              list, schedule, or other form that is regularly maintained by the manufacturer or vendor, is
+             either published or otherwise available for inspection by customers, and states prices at which
+             sales are currently;- or were last, made to a significant number of buyers constituting the
+             general public. "Market prices" means current prices that are established in the course of
+             ordinary trade between buyers and sellers free to bargain and that can be substantiated
+             through competition or from sources independent of the offerers.
+         •    If the item(s) being procured are not commercial items, provide copies of three (3) recent
+             invoices showing the pricing offered to customers who have purchased the same or similar
+             item(s) .
+         •   If you have had a previous contract with LANS or Triad for the same or similar item(s), include
+             that subcontract number with your offer.
+         •   If the solicited item(s) are included in a current GSA Pricing Schedule, provide the GSA
+             Contract Number and its expiration date.
+         •   If your pricing is not documented through any of the methods described above, provide cost
+             or pricing data in sufficient detail to enable Triad to conclude, after analysis of such
+             information, that the final agreed-upon price for the item(s) being procured is fair and
+             reasonable.
+
+6.       OTHER AWARD CONSIDERATIONS (Nov 2018)
+         a.   Triad may, if such action is in its best interest, reject any or all proposals, and waive
+              informalities and minor irregularities in proposals received . Triad reserves the right to make a
+              partial award, multiple awards, or make no award if it deems that decision to be in its best
+              interest.
+
+
+
+
+RFP No. 511017                                                                                      Page 8 of 18
+RFP ITO (Rev. 12.0, 11/1/18)                                                                Instructions to Offerers
+                                               Dated 11/20/2018
+
+         b.   Neither financial data submitted with a proposal, nor representations concerning facilities or
+              financing, will form a part of the resulting subcontract. However, if the resulting subcontract
+              contains a clause providing for price reduction for defective cost or pricing data, the
+              subcontract price will be subject to reduction if cost or pricing data furnished is incomplete,
+              inaccurate, or not current.
+         c.   Triad may, at its sole discretion, conduct a pre-award survey. A Triad survey team may visit
+              your facility to determine your ability to perform . The team may also evaluate your system for
+              determining the financial and technical ability of any proposed lower-tier subcontractors or
+              suppliers. Any equipment to be used in performance of the proposed subcontract is also
+              subject to inspection and approval. Failure to abide by this provision may be grounds for
+              rejection of your Proposal.
+         d.   The terms and conditions contained in the proposed Triad Subcontract will be included in the
+              resultant subcontract. Triad does not intend to make changes to those terms and conditions,
+              unless necessary to clarify the scope of work and/or technical requirements. Failure to accept
+              the Triad terms and conditions may result in significant unacceptable delays in Triad's ability
+              to award a subcontract and may result in your Proposal being deemed to be nonresponsive.
+              Nonetheless, if you must take exception or suggest a deviation to a specific term or condition,
+              complete Form OED, Offeror's Exceptions and Deviations, and submit it with your Proposal.
+              This form may be found at http://www.lanl.gov/business/vendors/supplier-forms.php.
+         e.   In accordance with Exhibit A, General Condition GC-60, Subcontracts with Contractor's Team
+              Members and Team Member Affiliates (Nov 2018), no fee or profit shall be paid to any of
+              CONTRACTOR'S Team Members or Affiliates.
+
+7.       EXAMINATION OF SOLICITATION DOCUMENTS (Nov 2018)
+         a.   If you plan on submitting a proposal in response to this Solicitation, you should examine with
+              appropriate care all documents and all addenda made a part of this Solicitation, and inform
+              yourself of all conditions which might in any way affect the cost or the performance of the
+              Work. Failure to do so will be at your sole risk, as you will be deemed to have included all
+              costs for performance of the Work in your Proposal. Should you find discrepancies in, or
+              omissions from, the Solicitation documents, or should their intent or meaning appear unclear
+              or ambiguous, or should any other question arise relative to the Solicitation documents, you
+              shall promptly notify the Triad's Subcontract Administrator in writing as stated in these
+              solicitation provisions. You will be solely responsible for its timely receipt by the Subcontract
+              Administrator. Replies to such notices may be made in the form of supplementary
+              correspondence or, as appropriate, an amendment to the Solicitation documents which will be
+              issued simultaneously to all persons who have been sent this Solicitation by Triad.
+         b.   If you desire an explanation or interpretation of one or more Solicitation documents, you must
+              submit questions in writing no later than Ten (10) calendar days prior to the proposal due
+              date. No oral inquires will be accepted . Oral explanations or instructions given before the
+              award of the subcontract will not be binding on Triad. Any information given to a prospective
+              offeror concerning this Solicitation will be furnished promptly to all other prospective offerors
+              as an amendment to the Solicitation, if that information is necessary in submitting proposals
+              or if the lack of it would be prejudicial to any other prospective offeror.
+
+8.       OFFEROR'S MODIFICATION AND WITHDRAWAL OF PROPOSALS (Nov 2018)
+         You may modify or withdraw your Proposal by written notice, provided that the notice is received
+         by Triad's Subcontract Administrator prior to the proposal due date.
+9.       DISCLOSURE OF PROPOSAL DATA (Nov 2018)
+         a.   If you include in your proposal data that you do not want disclosed to the public for any
+              purpose except for evaluation purposes:
+              Mark the title page with the following legend:
+
+
+
+RFP No. 511017                                                                                     Page 9 of 18
+    RFP ITO (Rev. 12.0, 11/1/18)                                                                   Instructions to Offerers
+                                                      Dated 11/20/2018
+
+                             This proposal includes data that shall not be duplicated, used, or disclosed,
+                             in whole or in part, for any purpose other than to evaluate this proposal.
+                             The data subject to this restriction are contained in sheets [insert numbers
+                             or other identification of sheet].
+                  Mark each sheet of data you wish to restrict with the following legend :
+                             Use or disclosure of data contained on this sheet is subject to the restriction
+                             on the title page of this proposal.
+             b.   If, however, a subcontract is awarded as a result of, or in connection with, the submission of
+                  this data, Triad shall have the right to duplicate, use or disclose the data to the extent
+                  provided in the resulting subcontract. This restriction does not limit Triad's rights to use
+                  information obtained in this data if it is obtained from another source without restriction.
+    10.      REGIONAL PURCHASING PRICING PREFERENCES (Nov 2018)
+
+
+             In accordance with Appendix M of the Triad National Security, LLC (Triad) contract with
+             DOE/NNSA, Triad will maximize procurement opportunities for Northern New Mexico (NNM) small
+             business concerns and economic development companies representing the pueblos of Ohkay
+             Owingeh , San Ildefonso, and Acoma by providing the following two pricing preferences when
+             evaluating bids/offers submitted in response to a Triad solicitation.
+             a.   In acquisitions exceeding $100,000, the price preference will be given by adding 10% to the
+                  proposed total price/cost (including priced options) to an offerer's bid/offer whose business
+                  does not meet the definition of a NNM small business concern.
+                  1.    A NNM small business concern is a small business that is actively engaged in doing
+                       -business in NNM, has an operative business location in NNM, and uses labor from NNM.
+                        NNM includes the counties of Taos, Santa Fe, Rio Arriba, Sandoval , Mora, San Miguel,
+                        and Los Alamos, and the eight regional Pueblos of Nambe, Picuris, Pojoaque, San
+                        Ildefonso, Ohkay Owingeh (formerly known as San Juan), Santa Clara, Taos, and
+                        Tesuque.
+                  2.   If a business claims to be a NNM small business concern, it must demonstrate to Triad's
+                       satisfaction when requested, through the submission of New Mexico gross receipts tax
+                       and unemployment compensation tax forms or otherwise, that for the calendar year
+                       preceding the submission of its bid/offer that:
+                       (i)   it has been properly authorized to do business and has been operating in NNM with a
+                             staff of three or more full time equivalent employees (of which 51 % must reside in
+                             NNM), and that it currently has a facility in NNM that can support the business activity
+                             contemplated by the Statement of Work / Scope of Work; or
+                       (ii) it has historically operated in NNM with two or less full time equivalent employees who
+                            reside in NNM, it is independently owned (i.e., its owner(s) exercise(s) close control
+                            over operations and decisions which are not subject to control or the power to control
+                            by others), its majority ownership interest is held by residents of NNM, it has been
+                            properly authorized to do business in NNM and it currently has a facility in NNM that
+                            can support the business activity contemplated by the Statement of Work/ Scope of
+                            Work.
+             b,   In addition to the pricing preference specified in paragraph "a", in acquisitions exceeding
+                  $2,000,000 a price preference wiil be given by deducting 5% from the proposed total
+                  price/cost (including priced options) of an offerer's bid/offer whose business is a part of the
+                  Triad Pueblo Business Alliance.
+             c.   Examples of the application of the regional purchasing pricing preferences are shown below:
+                  Example A:
+)
+
+    RFP No. 511017                                                                                       Page 10 of 18
+    RFP ITO (Rev. 12.0, 11/1/18)                                                                 Instructions to Offerers
+                                                   Dated 11/20/2018
+
+                       Offerer A (not a NNM small business concern) bids $1,200,000
+                       Offerer B (is a NNM small business concern) bids $1,300,000
+                       Offeror C (is a NNM small business concern) bids $1,400,000
+                       Based on the pricing preference given to NNM small business concerns, an additional
+                       10% will be added to Offeror A's bid for evaluation purposes. Consequently, Offerer A's
+                       bid will be deemed to be $1,320,000 (i.e., $1 .2M plus 10%).
+                  Example B:
+                       Offeror A (not a NNM small business concern) bids $2,100,000
+                       Offerer B (a NNM small business concern) bids $2,300,000
+                       Offeror C (a NNM small business concern) bids $2,400,000
+                       Offerer D (an Acoma pueblo business enterprise) bids $2,350,000
+                       Based on the pricing preference given to NNM small business concerns, an additional
+                       10% will be added to Offeror A's bid for evaluation purposes. Consequently, Offerer A's
+                       bid will be deemed to be $2,310,000 (i.e., $2.1M plus 10%). In addition , based on the
+                       pricing preference given to Triad Pueblo Business Alliance Companies, Offerer D's bid
+                       will be reduced by 5% for evaluation purposes. Consequently, Offeror D's bid will be
+                       deemed to be $2,232,500 (i.e., $2 .35M less 5%).
+
+
+    11.      TRIAD PUEBLO BUSINESS ALLIANCE (Nov 2018)
+             Triad formed a business alliance with 3 economic development companies representing the
+             Ohkay Owingeh, San Ildefonso, and Acoma pueblos. To increase subcontracting opportunities,
+             Triad will provide an additional price evaluation discount of 5% to participating Pueblo companies
+)            when evaluating bids/offers submitted in response to a Triad solicitation.
+
+
+    12.      SUBCONTRACTOR'S REGIONAL AND COMMUNITY DEVELOPMENT PLAN (Nov 2018)
+             a.   Under the prime contract between Triad and DOE/NNSA, Triad is required to enhance
+                  economic development and economic diversification of the Northern New Mexico (NNM)
+                  region, which includes the counties of Taos, Santa Fe, Rio Arriba, Sandoval, Mora, San
+                  Miguel, and Los Alamos, and the eight regional Pueblos of Nambe, Picuris, Pojoaque, San
+                  Ildefonso, Ohkay Owingeh (formerly known as San Juan), Santa Clara, Taos, and Tesuque.
+                  To achieve this end, Triad is flowing down this requirement in major subcontracts.
+             b.   As part of your response to this Solicitation , state the total dollar amount or percentage of
+                  amounts invoiced to Triad that you will commit to spend on economic development and
+                  diversification of NNM during the term of the subcontract.
+             c.   If awarded a subcontract, you will be required to develop and submit a Subcontractor's
+                  Regional and Community Development Plan (SRCDP) that will detail how your financial
+                  commitment will be used to support economic development and diversification in NNM. The
+                  SRCDP will state your activities and goals for each year of the subcontract. See Table 1
+                  below for examples of activities that enhance economic development and diversification.
+                  Impacts that result as a natural course of performing the subcontract shall not be listed as
+                  SRCDP commitments. Some of those impacts are:
+                  •   Small business procurement requirements stated elsewhere in the subcontract.
+                  •   Employment creation resulting from subcontract performance (i.e., hiring NNM residents
+                      to perform subcontract work).
+                  •   Corporate relocation or establishment of a company office to NNM solely to administer
+                      Triad subcontracts.
+
+
+
+
+    RFP No. 511017                                                                                     Page 11 of 18
+    RFP ITO (Rev. 12.0, 11/1/18)                                                             Instructions to Offerers
+                                                  Dated 11/20/2018
+
+                                                                TABLE 1.
+                                     Regional and Community Development Plan Categories
+                  Activities will target populations in Northern New Mexico (NNM), defined as the counties of
+                  Taos, Santa Fe, Rio Arriba, Sandoval, Mora, San Miguel, and Los Alamos, and the eight
+                  regional Pueblos of Nambe, Picuris, Pojoaque, San Ildefonso, Ohkay Owingeh (formerly
+                  known as San Juan}, Santa Clara, Taos, and Tesuque.
+
+                                                                       Educational           Corporate
+                  Economic Development (ED)                            Enrichment            Citizenship
+
+                  Subcontracting with Northern New Mexico              Establishment or      Tangible
+                  small business concerns. A NNM small                 participation in      support of civic
+                  business concern is a small business that is         such programs         and charitable
+                  actively engaged in doing business in NNM; has       as:                   organizations
+                  an operative business location in NNM, and uses      • Academic            in NNM, such
+                  labor from NNM .                                       awards;             as the United
+                                                                       • Scholarships or     Way, Chambers
+                  Entrepreneurship development such as                   cooperative         of Commerce or
+                  protege/mentorship, new business creation,             agreements with     YMCA.
+                  relocation of small business to NNM which              area schools and
+                  employs local people, or provision of below­           colleges;
+                  market priced or free office space.                  • Training ;          Employees
+                                                                       • Student             volunteer time
+                  Direct venture capital investment in local start­      mentoring; and      in community
+                  up businesses.                                       • Apprenticeships.    service work.
+
+                  Grant Pool Contributions.
+)                                                                      Contributions to
+                  Pro Bono Technical Assistance for the                Regional
+                  region's ED initiatives (e.g. water, wastewater,     Educational
+                  transportation, alternative energy,                  Foundations.
+                  telecommunications, land use).
+
+                  Financial contributions to ED organizations,
+                  loan pools, and grants to ED initiatives.
+
+                  In-kind contributions of volunteer time and
+                  equipment to ED initiatives.
+
+                  Sponsorship of ED Public Events such as trade
+                  fairs, job fairs, and ED Forums and Roundtables.
+
+                  Workforce development where the purpose of
+                  specialized training programs is tied to immediate
+                  employer needs and job creation , such as
+                  construction/technical apprenticeships, special
+                  skills training or professional training.
+
+                  Establishment of corporate reaional office.
+
+
+             d.   If awarded a subcontract, you will begin developing a SRCDP immediately upon notice of
+                  award and shall deliver your proposed SRCDP to Triad's Subcontract Administrator for review
+                  and approval within 60 days after notice of award . Your approved SRCDP shall be
+
+
+
+
+    RFP No. 511017                                                                                 Page 12 of 18
+    RFP ITO (Rev. 12.0, 11/1/18)                                                               Instructions to Offerers
+                                                   Dated 11/20/2018
+
+                  incorporated into the subcontract by reference through a subcontract modification, and shall
+                  apply with the same force and effect as if incorporated in full text.
+             e.   During performance of the subcontract, you shall maintain records, including receipts, payroll
+                  information, and any other documents that demonstrate compliance with your SRCDP. You
+                  shall submit reports to Triad semi-annually documenting your compliance with its SRCDP
+                  and, if requested by Triad, you shall provide evidence to substantiate any statement contained
+                  in a report.
+             f.   You will work with :
+                  •    The LANL Community Program Office, which will guide you with SRCDP formatting,
+                       reporting, modification and evaluation requirements and procedures.
+                  •    The Regional Development Corporation (RDC) or the LANL Designated Community
+                       Development Organization, which will provide an orientation to economic development in
+                       Northern New Mexico and assist you in selecting viable projects;
+                  •    The Consortium of Major LANL Subcontractors, which will outline its strategy for pooling
+                       resources to address regional economic development and assist you in project selection ;
+                       and
+                  •    The LANL Community Program Office, which will administer approved plans and
+                       determine compliance with the plan's requirements.
+    13.      NOTICE TO UNSUCCESSFUL OFFEROR(S) (Nov 2018)
+             a.   Notice will be sent to unsuccessful offerors in accordance with the Triad Solicitation and
+                  Selection Process for Competitive Procurements, which may be found at
+                  http://www.lanl .gov/business/vendors/supplier-forms.php. However, for competitive
+                  subcontracts over $150,000, in which a small business concern received a small business
+                  preference, each unsuccessful small business concern will be notified by email of the name
+                  and address of the apparent successful offeror prior to award of the subcontract.
+}            b.   Unsuccessful Offerors may submit a written request for individual debriefings. These
+                  requests must be received by Triad 's Subcontract Administrator within five (5) working days of
+                  the date of offeror's receipt of Triad's notice of non-award. A debriefing provides an
+                  unsuccessful Offerer the basis for the selection decision and an evaluation of the strengths
+                  and weaknesses of their proposal correlated to the evaluation factors . A debriefing does not
+                  provide a point-by-point comparison of the Offerer's proposal with other proposals. If a timely
+                  debriefing is requested , the party requesting the debriefing will have ten ( 10) days from the
+                  completion of the debriefing to file a Protest under the Triad Procurement Protest Process.
+    14.      NOTICE CONCERNING NEW MEXICO GROSS RECEIPTS TAX (Nov 2018)
+             a.   New Mexico Gross Receipts Tax (NMGRT) is unique to New Mexico and, unlike a sales tax,
+                  is an excise tax imposed on the seller of certain goods and services in exchange for the
+                  privilege of doing business in New Mexico. Additional information on NMGRT may be found
+                  at http://www. tax. newmexico. gov/Businesses/gross-receipts. aspx.
+             b.   Triad issues various types of New Mexico Non-Taxable Transaction Certificates (NTTC) to its
+                  subcontractors, which entitle the certificate holder to take appropriate deductions from
+                  NMGRT on its Combined Reports Form (CRS-1) that is submitted to the New Mexico
+                  Taxation and Revenue Department. An NTTC issued by Triad to a subcontractor can only be
+                  used to support that subcontractor's deductions; it does not entitle a subcontractor's
+                  immediate and/or lower-tier subcontractors, including any individuals and entities that that are
+                  issued an IRS Form 1099, to any deductions or exemptions from NMGRT under New Mexico
+                  law. However, a subcontractor may be entitled to issue an NTTC to its immediate and lower
+                  tier subcontractors under certain conditions. Consequently, each Offeror is encouraged to
+                  consult with its tax advisor prior to submitting its Proposal if it has any questions regarding
+                  NMGRT.
+             c.   Since a subcontractor will be issued one or more NTTCs by Triad as appropriate, Triad will
+                  not pay NMGRT to a subcontractor for work performed by its own employees. However, Triad
+
+
+    RFP No. 511017                                                                                   Page 13 of 18
+    RFP ITO (Rev. 12.0, 11/1/18)                                                              Instructions to Offerers
+                                                  Dated 11/20/2018
+
+                  may pay a subcontractor for NMGRT paid to its lower-tier subcontractors, if such lower-tier
+                  subcontractors are not eligible for applicable deductions or exemptions from NMGRT under
+                  New Mexico law and such ineligibility was justified in a subcontractor's proposal.
+             d.   If awarded a subcontract, you shall complete and submit the New Mexico Non-Taxable
+                  Transaction Certificate (NM NTTC) Form as specified in the form . The information contained
+                  in the form will be used by Triad to issue appropriate NTTCs to the successful Offeror. A copy
+                  of this.form may be found at http://www.lanl.gov/business/vendors/supplier-forms.php.
+             e. This notice is not intended to provide tax advice. Triad's employees are not qualified or
+                permitted to give tax advice.
+    15.      ELECTRONIC FUNDS TRANSFER AUTHORIZATION FORM (Nov 2018)
+             Triad prefers to transmit payment for invoices using the federal Automated Clearing House
+             process. This process reduces the number of days it takes for a subcontractor to receive their
+             money. If awarded a subcontract, you must complete and return the Electronic Funds Transfer
+             Authorization Form directly to the Triad Treasury Department at the address shown on the form, if
+             you have not previously done so. This form may be found at
+             http://www.lanl.gov/business/vendors/supplier-forms.php.
+
+
+    16.      SECURITY DOCUMENTS AND/OR APPROVALS REQUIRED PRIOR TO COMMENCEMENT
+             OF WORK (Aug 2015)
+             Exhibit G, Security Requirements, specifies all security documents and/or approvals that may be
+             required prior to commencing work, in addition to security requirements applicable to subcontract
+             performance.
+    17.      STATEMENT OF WORK CONFIGURATION REVIEW
+)            A configuration/solution will be negotatied with the successful offeror(s) based on the responses
+             to the RFP Technical Requirements document issued with the RFP. The affirmation of agreed
+             upon configuration/solutions for the Crossroads system will be documented through a bilateral
+             modification to the Scope of Work and Technical Specifications for the build subcontract. Clauses
+             for this provision are included in the Sample build Subcontract, see Exhibit B SC-201 .
+    18.      SOFTWARE LICENSE AGREEMENT OR MAINTENANCE AGREEMENT (Nov 2018)
+             Any software license agreement or any maintenance agreement that you propose shall be
+             included with your Proposal. However, in order for the agreement to be made a part of any
+             resulting subcontract, it must be approved in writing by Triad and incorporated by reference in the
+             subcontract. In the event of a conflict or inconsistency between the terms and conditions
+             contained in your software license agreement/ maintenance agreement and the terms and
+             conditions of the resultant subcontract, the terms and conditions of the subcontract shall take
+             precedence.
+    19.      GREEN I SUSTAINABLE PRODUCTS (Oct 2014)
+             Whenever possible, you shall offer green/sustainable products and repair/spare parts, which meet
+             the (1) minimum content levels for sustainable products or (2) Environmental Program certification
+             or (3) product attributes, listed at the Sustainable Facilities Tool website found at
+             http://www.sftool.gov/greenprocurement. Minimum content levels, environmental program
+             certifications and product attributes, if any, are listed under the column titled "Procurement Info"
+             for each product.
+    20.      TRIAD PROCUREMENT PROTEST PROCESS (Nov 2018)
+             This Protest process provides Offerers with an opportunity to resolve concerns with a Triad
+             procurement prior to submitting a demand to arbitrate, pursuant to the Agreement to Arbitrate.
+)            Completion of this process is a prerequisite to fil ing a demand for arbitration pursuant to the
+             Agreement to Arbitrate.
+
+
+    RFP No. 511017                                                                                  Page 14 of 18
+    RFP ITO (Rev. 12.0, 11/1/18)                                                                  Instructions to Offerers
+                                                    Dated 11/20/2018
+
+             Definitions
+                  Agreement to Arbitrate means binding arbitration in accordance with the Agreement to
+                  Arbitrate executed by Offerer and submitted with its Proposal.
+                  Offeror is a legal entity submitting a proposal in response to a Triad solicitation.
+                  Protest is a written objection , submitted by an unsuccessful Offerer after receiving a notice of
+                  non-award . A Protest may be filed only by an Offerer that has submitted a proposal in
+                  response to the Triad solicitation that is the subject of the Protest.
+                  Protest Official is the official designated by LANL Laboratory Director to review and decide the
+                  Protest.
+             Note: A size challenge by an Offerer alleging that another Offerer does not meet the Small
+             Business Administration (SBA) size standards for the given NAICS code is NOT a Protest. Triad's
+             Subcontract Administrator shall refer the parties to the SBA, who shall make the determination ,
+             which shall be final and binding upon all parties.
+             Pre-Protest Resolution Efforts: Offerers who desire an explanation or interpretation of one or more
+             Solicitation documents, must submit questions in writing in accordance with the Examination Of
+             Solicitation Documents provision above. If an Offerer knew or through reasonable efforts should
+             have known of an issue concerning the Solicitation documents and fails to raise that issue, that
+             Offerer will be barred from raising that issue in a subsequent Protest.
+             Prior to submission of a Protest, Offerers shall raise any concerns about the solicitation process to
+             Triad 's Subcontract Administrator, who will use his/her best efforts to address concerns through
+             frank and informal communications.
+             Time for Filing a Protest: Upon notice of non-award , an Offerer, who believes that Triad's conduct
+             was inconsistent with the Solicitation and prejudiced the Protester, may file a Protest. The Protest
+             must be received by Triad 's Subcontract Administrator, who issued the notice of non-award , no
+             later than ten ( 10) business days after the date the email is sent providing notice of non-award or
+             no later than ten (10) business days after a debriefing. Protests that are filed prior to Triad issuing
+             a notice of non-award, or more than ten (10) business days after the notice of non-award is
+             transmitted, or more than ten (10) business days after a debriefing, will be dismissed as untimely.
+             Regardless of the filing of a Protest, Triad may award the subcontract.
+             Submittal of Protest: A Protest must be submitted to Triad's Subcontract Administrator in writing,
+             preferably via email. Triad's Subcontract Administrator will then forward the Protest to the Protest
+             Official, along with the Protest Record .
+             Awardee Intervention: Upon the request of the Awardee, at the Protest Official's sole discretion ,
+             the Protest Official may allow the Awardee to intervene as a party to the Protest proceeding
+             (Intervenor).
+             Confidentiality AgreemenUProtective Order: Parties to the Protest are required to cooperate and
+             comply with the terms of a Confidentiality AgreemenUProtective Order issued by the Protest
+             Official to allow the parties and their outside counsel appropriate access to solicitation-related
+             documentation that contain proprietary information .
+             Protest Content: A Protest must be signed and must contain the following:
+                  •   The name, mailing and email address and telephone number(s) of the Protester and his/her
+                      attorney, if any;
+                  •   The Solicitation number sufficient for identification;
+                  •   A detailed statement of the legal and factual grounds for the Protest, including a description
+                      of Triad's conduct that was inconsistent with the Solicitation and prejudiced the Protester;
+                  •   Copies of relevant documents; and
+                  •   A request for a ruling and statement as to the relief requested , subject to limits specified
+                      herein.
+)
+
+    RFP No. 511017                                                                                       Page 15 of 18
+RFP ITO (Rev. 12.0, 11/1/18)                                                                    Instructions to Offerors
+                                                Dated 11/20/2018
+
+         No Discovery: Neither the Protester nor Triad will have the right to conduct discovery in this
+         process.
+         Protest Record : The Protest Record shall be prepared by Triad's Subcontract Administrator and
+         submitted to the Protest Official within ten (10) business days of receipt of the Protest. The Protest
+         Record will not be made available to the Protester in order to protect the confidential, competitive
+         information related to other Offerors. The Protest Record prepared by the Subcontract
+         Administrator shall contain the following documents:
+              •    A complete copy of the Protest;
+              •    A complete copy of the protested Solicitation and subcontract;
+              •    A complete copy of the Source Selection Plan, when applicable;
+              •    All documentation of the evaluation and selection process used, including any memoranda
+                   or evaluation documentation generated by Triad;
+              •    A complete copy of the Procurement Summary, if it has been prepared;
+              •    A complete copy of the Protester's Proposal;
+              •    Any correspondence between Offeror(s) and Triad with respect to the challenged
+                   solicitation/subcontract;
+              •    A memorandum from Triad's Subcontract Administrator which responds in detail to the
+                   Protester's allegations;
+              •    A recommendation for corrective action, if any; and
+              •    Additional information and documentation considered relevant to the protested solicitation
+                   and/or subcontract.
+         Determination of Solicitation or Subcontract Suspension: Within ten (10) business days of
+         receiving the Protest Record, the Protest Official will determine in his/her sole discretion whether
+         to direct that the solicitation or subcontract be suspended. A decision to suspend the solicitation or
+         subcontract may only be made if doing so is in Triad's best interest. Further, any decision to
+         suspend the solicitation or subcontract may be reconsidered at any time while the Protest is
+         pending. If the solicitation or subcontract is suspended, Triad's Subcontract Administrator will
+         inform Offerors who might become eligible for award of the subcontract and request that they
+         keep their Proposals open pending resolution of the Protest, to avoid the possible need for re­
+         solicitation in the event the protest is sustained.
+         Protest Resolution :
+         A protest may be summarily dismissed by Triad's Subcontract Administrator if it has not been filed
+         by an Offeror or its counsel.
+
+         A protest may be summarily dismissed by the Protest Official if it:
+              •   Has not been filed in a timely manner;
+              •   Did not contain the required information ;
+              •   Fails to state grounds sufficient to justify relief; or
+              •   Is frivolous.
+         If a Protest is summarily dismissed, the Protest Official will issue a written decision to that effect
+         outlining his/her basis for the dismissal.
+         If a Protest is not summarily dismissed, the Protest Official, upon review of the Protest Record ,
+         will determine whether any additional evidence should be gathered.
+         If the Protest Official deems oral or written arguments necessary to disposition the protest, he/she
+         will establish deadlines for oral or written arguments.
+         Standard of Review: The Protest Official is not required to limit his/her inquiry to the specific
+         issues raised in the Protest. The Protest Official may uphold the Protest if he/she finds by a
+         preponderance of the evidence that the conduct of those individuals acting on behalf of Triad was
+         inconsistent with the Solicitation provisions and prejudiced the Protester. To find prejudice, the
+         Protest Official must conclude that Triad did not follow the solicitation provisions and that the
+         failure to do so had a significant adverse impact on the evaluation of the Protester's Proposal. The
+         Protest Official has broad discretion to take actions necessary to determine if Triad was
+
+
+
+RFP No. 511017                                                                                        Page 16 of 18
+RFP ITO (Rev. 12.0, 11/1/18)                                                                     Instructions to Offerers
+                                                 Dated 11/20/2018
+
+         inconsistent with the solicitation provisions and whether any inconsistencies resulted in prejudice
+         requiring that the Protest be upheld.
+         Protest Decision: The Protest Official or designee will notify the Protester in writing of his/her
+         decision and will specify the relief to be granted, if any. Triad and the Parties will not publicly
+         release the Protest Decision unless required by law. The Protest Official may at his/her discretion
+         allow Protester's or Intervenor's outside counsel to review the decision for proprietary information.
+         Notwithstanding the foregoing, the Protest Official, at his or her sole discretion, will determine
+         whether the Protest Decision contains proprietary information and whether it can be released by
+         outside counsel to the parties.
+         Relief: If the Protest Official concludes that the conduct of those individuals acting on
+         behalf of Triad was inconsistent with the Solicitation provisions and prejudiced the
+         Protester, as defined above, the Protest Official may direct that:
+             •    the solicitation be amended to correct the deficiency(ies) and revised proposals requested
+                  from all Offerers;
+             •    the solicitation be cancelled and written notification sent to all Offerers of such
+                  cancellation;
+             •    the deficiency be corrected and the evaluation process be conducted again, if necessary;
+             •    the subcontract be terminated and written termination notice sent to the subcontractor.
+         No other types of relief may be granted.
+21.      AGREEMENT TO ARBITRATE (Nov 2018)
+
+Note: An Offeror must sign and return the OFFEROR'S PROPOSAL LETTER, which contains the
+Agreement to Arbitrate shown below, in order to be considered for award of a subcontract.
+This Agreement to Arbitrate (Agreement) constitutes an express contract between Offerer and Triad,
+regardless of who is awarded the subcontract. As consideration for this agreement, Triad agrees to
+consider the offerer's proposal for an award in exchange for the offerer's agreement to arbitrate as stated
+herein . No arbitration may be initiated under this Agreement until an Offerer has complied with and
+completed Triad's Procurement Protest Process, which is set forth in this Solicitation. Any
+arbitration initiated prior to Offerer's completion of the Protest process will be dismissed for failure to
+exhaust administrative remedies. The scope of any arbitration initiated pursuant to this Agreement will be
+the issues raised in an Offerer's Protest and any new issues that were not and could not have been
+discovered prior to or during the Protest process.
+The Solicitation is not a promise to contract, either express or implied. Any procurement conducted by
+Triad in connection with this Solicitation will be conducted solely at Triad's discretion. Triad reserves the
+right to make any award, or no award, in connection with this Solicitation, in its sole discretion and in the
+best interests of Triad and the Government.
+By responding to this Solicitation, Offerer agrees that any controversy or claim arising out of or relating to
+this Solicitation, any evaluation or selection process in connection with this Solicitation, or any award
+decision based on this Solicitation shall be settled by an arbitration administered by the American
+Arbitration Association in accordance with its Commercial Arbitration Rules and the provisions of this
+Agreement. Judgment on the award rendered by the arbitrator may be entered in any court having
+jurisdiction thereof.
+(a)      Arbitrator
+         An arbitration initiated under this Agreement shall be decided by one arbitrator. The Offerer
+         initiating arbitration shall be provided with a list of at least five (5) potential arbitrators identified by
+         Triad from the National Roster of commercial arbitrators certified by the American Arbitration
+         Association. The Offerer shall select the arbitrator of its choice from that list, subject to the
+         availability of the arbitrator and absent any conflicts of interest between the selected arbitrator and
+         the Offerer.
+(b)      Choice of Law
+
+
+
+
+RFP No. 511017                                                                                         Page 17 of 18
+    RFP ITO (Rev. 12.0, 11/1/18)                                                                    Instructions to Offerers
+                                                       Dated 11/20/2018
+
+             An arbitration initiated under this Agreement shall be decided under and governed by the laws of
+             the State of New Mexico. The enforceability of this Arbitration Agreement will be determined
+             under the laws of the State of New Mexico.
+    (c)      Limitation of Remedies
+             (i)       In no event shall an award in an arbitration initiated under this Agreement exceed the
+                       actual, reasonable cost of the preparation of Offeror's proposal, plus actual and
+                       reasonable attorneys' fees and costs incurred in the arbitration .
+             (ii)      The arbitrator shall not under any circumstances award expectancy damages,
+                       consequential damages, "lost profits" damages, special damages, punitive damages, or
+                       any remedy or relief other than the remedy identified in subparagraph (i) above.
+             (iii)     Any award in an arbitration initiated under this Agreement shall be limited to the relief
+                       identified in subparagraph (i}, and shall not include any injunction, other equitable relief or
+                       direction to any party other than the direction to pay a monetary amount.
+    (d)      Arbitration Deadline
+             Any demand for arbitration initiated under this Agreement shall be brought no later than thirty (30)
+             business days from the Protest Official's final decision on an Offeror's Protest.
+    (e)      Limitations on Discovery in Arbitration
+             (i)       Within ten (10) business days from the appointment of an arbitrator, Triad shall file with
+                       the arbitrator and produce to the Offerer a file consisting of all documents and other
+                       tangible things relevant to the Offeror's claim and to the procurement action(s) which
+                       is/are the subject of the arbitration (the Arbitration File). The Arbitration File will include a
+                       complete copy of the Solicitation and proposed subcontract, documentation of the
+                       procurement and selection process, correspondence between the parties that is relevant
+                       to the arbitration , and all documents on which Triad relied in making the procurement
+                       decision(s) that are the subject of the arbitration . The Arbitration File may be
+)                      supplemented by either party upon approval by the arbitrator.
+             (ii)      Discovery in the arbitration will generally be governed by the New Mexico Rules of Civil
+                       Procedure for the District Courts, with the following limitations:
+                       (A)         Each party will be limited to taking no more than three (3) depositions, unless the
+                                   arbitrator finds good cause to permit additional depositions.
+                       (B)         Written discovery shall be limited to no more than twenty-five (25) requests for
+                                   production of documents, and shall not include interrogatories or requests for
+                                   admission, unless the arbitrator finds good cause to allow discovery beyond the
+                                   limitations of this paragraph.
+             (iii)    The arbitrator may further limit discovery and/or issue any necessary protective orders as
+                      provided in the New Mexico Rules of Civil Procedure for the District Courts.
+    (f)      Standard of Review
+             The following standard of review shall apply to the arbitration. The Arbitrator may only grant relief
+             if he or she finds substantial evidence that Triad 's conduct was inconsistent with the Solicitation
+             and prejudiced the Offerer. To demonstrate prejudice, the Offerer must show that there was a
+             substantial likelihood that it would have received the subcontract but for Triad 's conduct.
+    (g)      Costs of Arbitration
+             The cost of the arbitrator's fees, any American Arbitration Association administrative fees, and
+             costs of the arbitration shall be borne by the losing party.
+    (h)      Locale
+             The location of the arbitration shall be Los Alamos, New Mexico, or any other location mutually
+             agreed upon by the parties.
+
+
+
+
+    RFP No. 511017                                                                                        Page 18 of 18
+

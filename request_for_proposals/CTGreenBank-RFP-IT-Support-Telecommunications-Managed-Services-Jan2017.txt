@@ -1,0 +1,801 @@
+                                      REQUEST FOR PROPOSALS
+                                                  For
+                 Information Technology Systems & Telecommunications Managed Services
+
+
+I.     PURPOSE
+
+       The Connecticut Green Bank (“Green Bank”) seeks proposals from qualified contractors,
+consultants and industry associations (“Contractor”) to serve as the Green Bank’s Information
+Technology (Systems Managed Services) provider in both our Rocky Hill and Stamford offices.
+
+II.    GREEN BANK BACKGROUND
+
+       Green Bank was established by Connecticut’s General Assembly on July 1, 2011 through
+Public Act 11-80 as a quasi-public agency that supersedes the former Connecticut Clean Energy
+Fund (CCEF). Green Bank’s mission is to help ensure Connecticut’s energy security and
+community prosperity by realizing its environmental and economic opportunities through clean
+energy finance and investments. As the nation’s first state “Green Bank”, Green Bank leverages
+public and private funds to drive investment and scale-up clean energy deployment in
+Connecticut. For more information about Green Bank, please visit www.ctgreenbank.com.
+
+
+III.   SCOPE OF SERVICES
+
+       Green Bank is looking for contractor to provide information technology/engineering
+services (in-house and remotely maintaining, monitoring, supporting) including
+telecommunications services/support to include following:
+
+             •    Hardware/Software/OS Maintenance & Care
+             •    Desktop Care
+             •    Server Maintenance & Care
+             •    Firewall Monitoring & Remediation
+             •    Executive Advisory Services:
+                      o IT Strategy Development
+                      o IT Program Management
+                      o IT Governance
+                      o IT Risk Management
+             •    Miscellaneous IT Projects
+             •    Telecommunications Support
+
+       Applicants should submit proposals to Green Bank that include:
+
+       I.         Outline of statement of work for both IT and Telecommunications
+       II.        Contractor’s current pricing schedule
+
+
+
+                                                 1
+        III.      Contractor’s area of coverage for State of CT
+
+
+
+V.      REQUIREMENTS
+
+        1. PREFERRED QUALIFICATIONS
+Providers should have significant experience managing an outsourced IT platform for
+small organizations. Providers must have expertise in all Microsoft products including but
+not limited to MS Office and SharePoint. Further, providers must have proven track-
+records of managing cloud environments (experience with Amazon cloud services a plus).
+Providers must have an immediate response for technical support during regular business
+hours and must be available to come on-site within 24 hours.
+
+
+
+        2. PROPOSAL PROCESS
+
+Each bidder shall carefully examine the RFP and any and all amendments, exhibits, revisions, and
+other data and materials provided with respect to this RFP process. Bidders should familiarize
+themselves with all proposal requirements prior to submitting their proposal. Should the bidder note
+any discrepancies, require clarifications or wish to request interpretations of any kind, the bidder shall
+submit a written request to Eric Shrago, Director of Operations, by email to
+eric.shrago@ctgreenbank.com. Green Bank shall respond to such written requests in kind and may, if
+it so determines, disseminate such written responses to other prospective bidders.
+
+If Contractor is interested in submitting a proposal, the following requirements should be
+observed:
+           a. Interested    contractor   should   reach     out    to   Eric   Shrago    at
+               eirc.shrago@ctgreenbank.com to schedule a pre-response meeting.
+
+               b. Proposals shall be submitted electronically to Eric Shrago at the following email
+                  address: eric.shrago@ctgreenbank.com. The subject line should be identified as:
+                  “Proposal for CGB IT Services”.
+
+               c. Contractors may be required to interview with Green Bank staff if deemed
+                  necessary.
+
+        3. PROPOSAL FORMAT
+
+The following format should be followed in order to provide Green Bank with a working basis on
+which to compare one proposal with another. Each of the elements within this outline is expected
+to be addressed in any submitted proposal. However, additions may be made where necessary
+for purposes of clarification or amplification. Please limit proposals to no more than 5 pages.
+
+               a. EXECUTIVE SUMMARY
+
+                  1. General background of Contractor, including history of the company, number of
+                     employees, clients and retail projects evaluated, including a description of the
+                     projects and their size.
+
+
+                                                    2
+               2. Description of any litigation, pending judgments, etc., which could affect the
+                  proposer's ability to enter into an agreement with Green Bank. A description of the
+                  circumstances involved in any defaults by the proposer. If you have been
+                  subjected to any outside audits in the past three years, state by whom the audit
+                  was performed, for whom, the facility involved, and the results of the audit.
+               3. Listing of three (3) clients for reference use for whom Contractor has performed
+                  similar services as those contemplated by this RFP, Please include the name
+                  and telephone number(s) of the contact person at each reference.
+
+               Include in the proposal any other information you may deem relevant or helpful in
+               Green Bank's evaluation of Contractor or proposal.
+
+           b. TECHNICAL REQUIREMENTS
+
+               All proposals which comply with submittal requirements will:
+
+               1. Set forth Contractor’s areas of expertise from the description above.
+               2. Describe your overall approach, plans, and qualifications for accomplishing the
+                  specific services described above.
+
+           c. COST OF SERVICES (if seeking direct funding from Green Bank, not applicable
+              if seeking indirect support such as marketing support or financing offers)
+
+               1. Please provide your proposed costs for the completion of this project in its
+                  entirety. Cost estimates will be considered as “not to exceed” quotations,
+                  except to the extent that the assumed scope is changed by mutual agreement
+                  in writing.
+               2. If Contractor has discounted rates for governmental entities such as Green
+                  Bank, then please provide such rates.
+
+
+VI.    GENERAL TERMS AND CONDITIONS
+
+If Contractor elects to respond to this RFP, submission of your proposal assumes the acceptance of
+the following understandings:
+
+       1. Green Bank reserves the right to reject any or all of the proposals received in response to
+          the RFP, to waive irregularities or to cancel or modify the RFP in any way, and at any time
+          the Green Bank chooses, in its sole discretion, if Green Bank determines that it is in the
+          interest of Green Bank.
+
+       2. Green Bank further reserves the right to make awards under this RFP without discussion
+          of the proposals received. Proposals should be submitted on the most favorable terms
+          from a technical, qualifications, and price standpoint. Green Bank reserves the right not to
+          accept the lowest priced proposal.
+
+       3. Proposals must be signed by an authorized officer of the Contractor. Proposals must
+          also provide name, title, address and telephone number for individuals with authority
+
+
+
+                                                 3
+        to negotiate and contractually bind Contractor, and for those who may be contacted
+        for the purpose of clarifying or supporting the information provided in the proposal.
+
+     4. Green Bank will not be responsible for any expenses incurred by any proposer in
+        conjunction with the preparation or presentation of any proposal with respect to this
+        RFP.
+
+     5. Green Bank’s selection of a Contractor through this RFP is not an offer and Green Bank
+        reserves the right to continue negotiations with the selected Contractor until the parties
+        reach a mutual agreement.
+
+     6. Contractor will execute a Professional Service Agreement (PSA) as set forth in the
+        attached Exhibit A. If the Contractor does not agree with any of the specific terms set forth
+        in the PSA (if applicable), the Contractor must set forth such terms and rationale in your
+        response to this RFP.
+
+GREEN BANK IS SUBJECT TO THE REQUIREMENTS OUTLINED IN SECTIONS 16-245N OF THE
+CONNECTICUT GENERAL STATUTES. GREEN BANK SHALL HAVE NO LIABILITY OR
+OBLIGATION OF ANY SORT HEREUNDER, INCLUDING, WITHOUT LIMITATION, IF FOR ANY
+REASON OR NO REASON A BINDING AGREEMENT IS NOT ENTERED INTO WITH ANY
+PROPOSER. IN MAKING ITS SELECTION OF A SUCCESSFUL BIDDER, GREEN BANK MAY
+CONSIDER ANY AND ALL FACTORS AND CONSIDERATIONS WHICH GREEN BANK, IN ITS
+SOLE DISCRETION, DEEMS RELEVANT, THE RELATIVE IMPORTANCE OF WHICH SHALL BE
+IN THE SOLE DISCRETION OF GREEN BANK.
+
+
+
+
+                                                4
+                   STANDARD PROFESSIONAL SERVICES AGREEMENT
+
+        This Standard Professional Services Agreement (“Agreement”) is made on INSERT DATE
+(“Effective Date”), by and between the CONNECTICUT GREEN BANK (“Green Bank”), a quasi-
+public agency of the State of Connecticut, having its business address at 845 Brook Street, Rocky
+Hill, CT 06067, and [INSERT NAME] (“Consultant”), having its business address at [INSERT
+ADDRESS]. Green Bank and Consultant together are the Parties and each individually is a Party
+to this Agreement.
+
+       WHEREAS, INSERT SUMMARY LANGUAGE AS NECESSARY; and
+
+       WHEREAS, INSERT SUMMARY LANGUAGE AS NECESSARY;
+
+        NOW, THEREFORE, Green Bank and Consultant, intending to be legally bound, agree
+as follows:
+
+1.      Scope of Services. Consultant shall provide Green Bank with professional consulting
+services (“Work”) as detailed in Consultant’s proposal in Attachment A, which is incorporated into
+this Agreement. In the event of a conflict between the terms and conditions in this Agreement and
+the terms and conditions in the Proposal, this Agreement shall control.
+
+[INSTEAD OF AN ATTACHMENT, YOU MAY DROP-IN THE SCOPE OF SERVICES.]
+
+2.      Period of Performance. Green Bank agrees to retain Consultant, and Consultant agrees
+to perform the Work under this Agreement, beginning on the Effective Date and ending twelve
+(12) months from the Effective Date (“Period of Performance”), unless earlier terminated in
+accordance with Section 8 of this Agreement. The Parties can extend the Period of Performance
+only by a written amendment to this Agreement signed and dated by Green Bank and Consultant.
+
+3.     Payment. Green Bank agrees to pay Consultant for the Work performed within the Scope
+of Services of this Agreement, but in an amount not-to-exceed [INSERT AMOUNT] inclusive of
+hourly fees and any other expenses. The person(s), and their title and their hourly rate,
+performing the Work under this Agreement are as follows:
+
+       INSERT NAME(S) AND TITLE(S)                  INSERT HOURLY RATE
+
+THE NOT-TO-EXCEED AMOUNT OF THIS AGREEMENT CAN BE MODIFIED BY THE
+PARTIES ONLY BY A WRITTEN AMENDMENT SIGNED AND DATED BY GREEN BANK AND
+CONSULTANT PRIOR TO ANY WORK TO BE PERFORMED BY CONSULTANT WHICH
+WOULD RESULT IN PAYMENTS IN EXCESS OF THE NOT-TO-EXCEED AMOUNT OF THIS
+AGREEMENT.
+
+4.      Invoices. Consultant shall submit itemized monthly invoices with detailed accounting for
+hourly fees and expenses. All invoices shall be subject to Green Bank’s approval for conformity
+with the terms and conditions of this Agreement. For approved invoices, Green Bank will pay
+Consultant within thirty (30) days of receipt by Green Bank of an invoice. Consultant agrees to
+include the PSA #, which can be found at the top of this Agreement, on all invoices submitted to
+Green Bank in connection with Work performed under this Agreement. Invoices shall be
+submitted to:
+
+
+
+                                                5
+       Connecticut Green Bank
+       845 Brook Street
+       Rocky Hill, CT 06067
+       Attn: Accounts Payable Department
+
+UNDER NO CIRCUMSTANCES WILL GREEN BANK ACCEPT INVOICE(S) SUBMITTED BY
+CONSULTANT WHICH THE TOTAL AMOUNT OF THE INVOICE(S) EXCEEDS THE NOT-TO-
+EXCEED AMOUNT OF THIS AGREEMENT.
+
+5.     Subcontracting or Assignment. Consultant shall not subcontract, assign, or delegate
+any portions of the Work under this Agreement to any other person or entity not identified in
+Section 3, above, without prior written approval from Green Bank.
+
+6.     Independent Contractor. Consultant understands that it is acting as an independent
+contractor and shall not hold itself out as representing or acting in any manner on behalf of Green
+Bank except within the Scope of Work of this Agreement or any other active agreements between
+Green Bank and Consultant.
+
+7.     Disclosure of Information. Consultant agrees to disclose to Green Bank any information
+discovered or derived in the performance of the Work required under this Agreement. Consultant
+shall not disclose to others any such information, any information received or derived in
+performance of this Agreement, or any information relating to Green Bank without the prior written
+permission of Green Bank, unless such information is otherwise available in the public domain.
+
+8.      Termination. (a) This Agreement may be terminated by either Party giving ten (10)
+business days prior written notice to the other Party. In the event of such termination, Green Bank
+shall be liable only for payment in accordance with the payment provisions of the Agreement for
+the Work actually performed prior to the date of termination.
+
+(b) If this Agreement is not renewed at the end of this term, or is terminated for any reason, the
+Contractor must provide for a reasonable, mutually agreed period of time after the expiration or
+termination of this Agreement, all reasonable transition assistance requested by Green Bank, to
+allow for the expired or terminated portion of the services to continue without interruption or
+adverse effect, and to facilitate the orderly transfer of such services to Green Bank or its
+designees. Such transition assistance will be deemed by the Parties to be governed by the terms
+and conditions of this Agreement, except for those terms or conditions that do not reasonably
+apply to such transition assistance. Green Bank will pay the Contractor for any resources utilized
+in performing such transition assistance at the most current rates provided by this Agreement. If
+there are no established contract rates, then the rate shall be mutually agreed upon. If Green
+Bank terminates this Agreement for cause, then Green Bank will be entitled to offset the cost of
+paying the Contractor for the additional resources the Contractor utilized in providing transition
+assistance with any damages Green Bank may have otherwise accrued as a result of said
+termination.
+
+9.       Indemnification and Limitation of Liability. Consultant agrees, to the fullest extent
+permitted by law, to indemnify and hold harmless Green Bank, its officers, directors, and
+employees against all damages, liabilities, or costs, including reasonable attorneys’ fees and
+defense costs, to the extent caused by the Consultant’s negligent performance of professional
+services under this Agreement and that of its sub-consultants or anyone for whom the Consultant
+is legally liable.
+
+
+
+                                                6
+Neither Party shall be liable to the other Party for indirect, incidental, punitive, special, or
+consequential damages arising out of this Agreement, even if the Party has been informed of the
+possibility of such damages, including but not limited to, loss of profits, loss of revenues, failure
+to realize expected savings, loss of data, loss of business opportunity, or similar losses of any
+kind. However, this limitation shall not apply to damages of any kind related to criminal,
+intentional, reckless, or grossly negligent conduct or omissions on the part of either Party.
+
+10.     Quality of Service. Consultant shall perform the Work with care, skill, and diligence in
+accordance with the applicable professional standards currently recognized by his/her profession,
+and shall be responsible for the professional quality, technical accuracy, completeness, and
+coordination of all work product and/or Work furnished under this Agreement. If Consultant fails
+to meet applicable professional standards, Consultant shall, without additional compensation,
+correct or revise any errors or deficiencies in any work product and/or Work furnished under this
+Agreement.
+
+11.      Severability. In the event that any one or more of the provisions contained in this
+Agreement shall be held to be invalid, illegal, or unenforceable in any respect, then such invalidity,
+illegality, or unenforceability shall not affect any other provisions of this Agreement, and all other
+provisions shall remain in full force and effect. If any provision of this Agreement is held to be
+excessively broad, then that provision shall be reformed and construed by limiting and reducing
+it to be enforceable to the maximum extent permitted by law.
+
+12.     Entire Agreement. This Agreement constitutes the entire agreement of the Parties
+hereto, and supersedes any previous agreement or understanding. This Agreement may not be
+modified or extended except in writing executed by the Parties.
+
+13.      Governing Law. The validity, interpretation, and performance of this Agreement shall be
+governed by the laws of the State of Connecticut. All disputes which arise in connection with, or
+in relation to, this Agreement or any claimed breach thereof shall be resolved, if not sooner settled,
+by litigation only in Connecticut or the Federal Court otherwise having subject matter jurisdiction
+over the dispute and not elsewhere, subject only to the authority of the Court in question to order
+changes of venue. To this end, Consultant waives any rights it may have to insist that litigation
+related to this Agreement to which Consultant is a party be had in any venue other than the above
+court, and covenants not to sue Green Bank in court other than the above courts with respect to
+any dispute related to this Agreement.
+
+14.     State Contracting Obligations. Consultant understands and agrees that Green Bank
+will comply with Conn. Gen. Stat. Sections 4a-60 and 4a-60a. Consultant agrees to comply for
+the Period of Performance with the state contracting obligations in this Section 14. For purposes
+of this Section 14, Contractor and Consultant shall have the same meaning and Contract and
+Agreement shall have the same meaning.
+
+       Conn. Gen. Stat. § 4a-60(a):
+
+              “Every contract to which the state or any political subdivision of the state other
+       than a municipality is a party shall contain the following provisions:
+
+           (1) The contractor agrees and warrants that in the performance of the contract such
+       contractor will not discriminate or permit discrimination against any person or group of
+       persons on the grounds of race, color, religious creed, age, marital status, national
+       origin, ancestry, sex, mental retardation, mental disability or physical disability, including,
+
+
+                                                  7
+but not limited to, blindness, unless it is shown by such contractor that such disability
+prevents performance of the work involved, in any manner prohibited by the laws of the
+United States or of the state of Connecticut; and the contractor further agrees to take
+affirmative action to insure that applicants with job-related qualifications are employed
+and that employees are treated when employed without regard to their race, color,
+religious creed, age, marital status, national origin, ancestry, sex, mental retardation,
+mental disability or physical disability, including, but not limited to, blindness, unless it is
+shown by such contractor that such disability prevents performance of the work involved;
+
+    (2) The contractor agrees, in all solicitations or advertisements for employees placed
+by or on behalf of the contractor, to state that it is an "affirmative action-equal opportunity
+employer" in accordance with regulations adopted by the commission;
+
+    (3) The contractor agrees to provide each labor union or representative of workers
+with which such contractor has a collective bargaining agreement or other contract or
+understanding and each vendor with which such contractor has a contract or
+understanding, a notice to be provided by the commission advising the labor union or
+workers' representative of the contractor's commitments under this section, and to post
+copies of the notice in conspicuous places available to employees and applicants for
+employment;
+
+   (4) The contractor agrees to comply with each provision of this section and sections
+46a-68e and 46a-68f and with each regulation or relevant order issued by said
+commission pursuant to sections 46a-56, 46a-68e and 46a-68f; and
+
+    (5) The contractor agrees to provide the Commission on Human Rights and
+Opportunities with such information requested by the commission, and permit access to
+pertinent books, records and accounts, concerning the employment practices and
+procedures of the contractor as relate to the provisions of this section and section 46a-
+56.”
+
+Conn. Gen. Stat. § 4a-60a(a):
+
+       “Every contract to which the state or any political subdivision of the state other
+than a municipality is a party shall contain the following provisions:
+
+    (1) The contractor agrees and warrants that in the performance of the contract such
+contractor will not discriminate or permit discrimination against any person or group of
+persons on the grounds of sexual orientation, in any manner prohibited by the laws of
+the United States or of the state of Connecticut, and that employees are treated when
+employed without regard to their sexual orientation;
+
+    (2) The contractor agrees to provide each labor union or representative of workers
+with which such contractor has a collective bargaining agreement or other contract or
+understanding and each vendor with which such contractor has a contract or
+understanding, a notice to be provided by the Commission on Human Rights and
+Opportunities advising the labor union or workers' representative of the contractor's
+commitments under this section, and to post copies of the notice in conspicuous places
+available to employees and applicants for employment;
+
+    (3) The contractor agrees to comply with each provision of this section and with each
+
+
+                                           8
+       regulation or relevant order issued by said commission pursuant to section 46a-56; and
+
+           (4) The contractor agrees to provide the Commission on Human Rights and
+       Opportunities with such information requested by the commission, and permit access to
+       pertinent books, records and accounts, concerning the employment practices and
+       procedures of the contractor which relate to the provisions of this section and section
+       46a-56.”
+
+      Nondiscrimination Certification. Consultant represents and warrants that, prior to
+      entering into this Agreement, Consultant has provided Green Bank with documentation
+      evidencing Consultant’s support of the nondiscrimination agreements and warranties of
+      the statutory nondiscrimination sections, above. A form of the Nondiscrimination
+      Certification to be signed by the Consultant is attached.
+
+      Campaign Contribution Restrictions. For all state contracts, as defined in Conn. Gen.
+      Stat. § 9-612(g)(1)(C), having a value in a calendar year of $50,000 or more or a
+      combination or series of such agreements or contracts having a value of $100,000 or
+      more, the authorized signatory to this Agreement expressly acknowledges receipt of the
+      State Elections Enforcement Commission’s notice advising state contractors of state
+      campaign contribution and solicitation prohibitions, and will inform its principals of the
+      contents of the notice. See http://www.ct.gov/dpw/lib/dpw/Form11SEEC.pdf.
+
+       Occupational Safety and Health Act Compliance. Consultant certifies it (1) has not been
+       cited for three or more willful or serious violations of any occupational safety and health
+       act or of any standard, order or regulation promulgated pursuant to such act, during the
+       three-year period preceding the date of the Agreement, provided such violations were
+       cited in accordance with the provisions of any state occupational safety and health act or
+       the Occupational Safety and Health Act of 1970, and not abated within the time fixed by
+       the citation and such citation has not been set aside following appeal to the appropriate
+       agency or court having jurisdiction or (2) has not received one or more criminal
+       convictions related to the injury or death of any employee in the three-year period
+       preceding the date of the Agreement.
+
+       Consulting Agreements. Consultant hereby swears and attests as true to the best
+       knowledge and belief that no consulting agreement, as defined in Conn. Gen. Stat. § 4a-
+       81, has been entered into in connection with this Agreement. Contractor agrees to
+       amend this representation if and when any consulting agreement is entered into during
+       the term of this Agreement. See Affidavit Regarding Consulting Agreements, attached.
+
+15.   Limitation on Recourse. All liabilities and obligations of Green Bank under this
+Agreement are subject and limited to the funding available under Connecticut law.
+
+16.     Available Funding. Green Bank shall not be obligated to provide payment or any portion
+of the payment under this Agreement if there are insufficient funds for such purpose because of
+any legislative or regulatory action expressly curtailing, reducing, or eliminating Green Bank
+funding.
+
+17.   Freedom of Information Act. Green Bank is a “public agency” for purposes of the
+Connecticut Freedom of Information Act (“FOIA”). This Agreement and information received
+pursuant to this Agreement will be considered public records and will be subject to disclosure
+
+
+
+                                                9
+under the FOIA, except for information falling within one of the exemptions in Conn. Gen. Stat.
+Sections § 1-210(b) and § 16-245n(d).
+
+Because only the particular information falling within one of these exemptions can be withheld by
+Green Bank pursuant to an FOIA request, Consultant should specifically and in writing identify to
+Green Bank the information that Consultant claims to be exempt. Consultant should further
+provide a statement stating the basis for each claim of exemption. It will not be sufficient to state
+generally that the information is proprietary or confidential in nature and not, therefore, subject to
+release to third parties. A convincing explanation and rationale sufficient to justify each exemption
+consistent with General Statutes §1-210(b) and § 16-245n(d) must be provided.
+
+Consultant acknowledges that (1) Green Bank has no obligation to notify Consultant of any FOIA
+request it receives, (2) Green Bank may disclose materials claimed by Consultant to be exempt
+if in its judgment such materials do not appear to fall within a statutory exemption, (3) Green Bank
+may in its discretion notify Consultant of FOIA requests and/or of complaints made to the Freedom
+of Information Commission concerning items for which an exemption has been claimed, but Green
+Bank has no obligation to initiate, prosecute, or defend any legal proceeding, or to seek to secure
+any protective order or other relief to prevent disclosure of any information pursuant to an FOIA
+request, (4) Consultant will have the burden of establishing the availability of any FOIA exemption
+in any such legal proceeding, and (5) in no event shall Green Bank or any of its officers, directors,
+or employees have any liability for the disclosure of documents or information in Green Bank’s
+possession where Green Bank, or such officer, director, or employee, in good faith believes the
+disclosure to be required under the FOIA or other law.
+
+        IN WITNESS WHEREOF, the Parties have executed this Agreement as of the day and
+year first above written.
+
+
+CONNECTICUT GREEN BANK
+
+
+
+By: ___________________________________
+      Bryan T. Garcia, President and CEO
+
+
+
+
+CONSULTANT
+
+
+
+By: ___________________________________
+       INSERT NAME
+       INSERT TITLE
+
+
+
+
+                                                 10
+                  STATE OF CONNECTICUT
+                  CERTIFICATION OF STATE AGENCY OFFICIAL OR EMPLOYEE
+                  AUTHORIZED TO EXECUTE CONTRACT
+
+     Certification to accompany a State contract, having a value of $50,000 or more, pursuant to
+     Connecticut General Statutes §§ 4-250 and 4-252(b), and Governor Dannel P. Malloy’s
+     Executive Order 49.
+
+
+ INSTRUCTIONS:
+
+ Complete all sections of the form. Sign and date in the presence of a Commissioner of the Superior Court or
+ Notary Public. Submit to the awarding State agency at the time of contract execution.
+
+
+ CERTIFICATION:
+
+ I, the undersigned State agency official or State employee, certify that (1) I am authorized to execute the
+ attached contract on behalf of the State agency named below, and (2) the selection of the contractor named
+ below was not the result of collusion, the giving of a gift or the promise of a gift, compensation, fraud or
+ inappropriate influence from any person.
+
+ Sworn as true to the best of my knowledge and belief, subject to the penalties of false statement.
+
+ ___________________________________________
+ Contractor Name
+
+ Connecticut Green Bank
+ Awarding State Agency
+
+
+
+  State Agency Official or Employee Signature                                  Date
+
+
+
+
+  Printed Name                                                                 Title
+
+
+
+
+Sworn and subscribed before me on this              day of        , 20
+
+
+
+
+                                           Commissioner of the Superior Court
+                                           or Notary Public
+
+
+
+                                           My Commission Expires
+
+
+
+
+ V.062215                                             11
+                  STATE OF CONNECTICUT
+                  NONDISCRIMINATION CERTIFICATION — Affidavit
+                  By Entity
+                  For Contracts Valued at $50,000 or More
+
+Documentation in the form of an affidavit signed under penalty of false statement by a chief executive
+officer, president, chairperson, member, or other corporate officer duly authorized to adopt corporate,
+company, or partnership policy that certifies the contractor complies with the nondiscrimination
+agreements and warranties under Connecticut General Statutes §§ 4a-60(a)(1) and 4a-60a(a)(1), as
+amended
+
+
+INSTRUCTIONS:
+
+For use by an entity (corporation, limited liability company, or partnership) when entering into any
+contract type with the State of Connecticut valued at $50,000 or more for any year of the contract.
+Complete all sections of the form. Sign form in the presence of a Commissioner of Superior Court or
+Notary Public. Submit to the awarding State agency prior to contract execution.
+
+AFFIDAVIT:
+
+I, the undersigned, am over the age of eighteen (18) and understand and appreciate the obligations of
+
+an oath. I am _________________________ of ________________________________ , an entity
+                      Signatory’s Title           Name of Entity
+
+duly formed and existing under the laws of _____________________________________.
+                                                Name of State or Commonwealth
+
+I certify that I am authorized to execute and deliver this affidavit on behalf of
+
+________________________________ and that ________________________________
+             Name of Entity                     Name of Entity
+
+has a policy in place that complies with the nondiscrimination agreements and warranties of Connecticut
+
+General Statutes §§ 4a-60(a)(1)and 4a-60a(a)(1), as amended.
+
+
+___________________________________________
+Authorized Signatory
+
+
+___________________________________________
+Printed Name
+
+
+Sworn and subscribed to before me on this ______ day of ____________, 20____.
+
+
+
+___________________________________________                  ___________________________________
+Commissioner of the Superior Court/                          Commission Expiration Date
+Notary Public
+
+
+
+
+V.062215                                               12
+                   STATE OF CONNECTICUT
+                   GIFT AND CAMPAIGN CONTRIBUTION CERTIFICATION
+     Written or electronic certification to accompany a State contract with a value of $50,000 or
+     more, pursuant to C.G.S. §§ 4-250, 4-252(c) and 9-612(f)(2) and Governor Dannel P. Malloy’s
+     Executive Order 49.
+
+
+INSTRUCTIONS:
+
+Complete all sections of the form. Attach additional pages, if necessary, to provide full disclosure about any
+lawful campaign contributions made to campaigns of candidates for statewide public office or the General
+Assembly, as described herein. Sign and date the form, under oath, in the presence of a Commissioner of the
+Superior Court or Notary Public. Submit the completed form to the awarding State agency at the time of
+initial contract execution and if there is a change in the information contained in the most recently filed
+certification, such person shall submit an updated certification either (i) not later than thirty (30) days after
+the effective date of such change or (ii) upon the submittal of any new bid or proposal for a contract, whichever
+is earlier. Such person shall also submit an accurate, updated certification not later than fourteen days after
+the twelve-month anniversary of the most recently filed certification or updated certification.
+
+
+CHECK ONE:                Initial Certification              12 Month Anniversary Update (Multi-year contracts
+only.)
+                          Updated Certification because of change of information contained in the most
+                          recently filed certification or twelve-month anniversary update.
+
+GIFT CERTIFICATION:
+
+As used in this certification, the following terms have the meaning set forth below:
+
+1)   “Contract” means that contract between the State of Connecticut (and/or one or more of it agencies or
+     instrumentalities) and the Contractor, attached hereto, or as otherwise described by the awarding State
+     agency below;
+2)   If this is an Initial Certification, “Execution Date” means the date the Contract is fully executed by, and
+     becomes effective between, the parties; if this is a twelve-month anniversary update, “Execution Date”
+     means the date this certification is signed by the Contractor;
+3)   “Contractor” means the person, firm or corporation named as the contactor below;
+4)   “Applicable Public Official or State Employee” means any public official or state employee described in C.G.S.
+     §4-252(c)(1)(i) or (ii);
+5)   “Gift” has the same meaning given that term in C.G.S. § 4-250(1);
+6)   “Principals or Key Personnel” means and refers to those principals and key personnel of the Contractor,
+     and its or their agents, as described in C.G.S. §§ 4-250(5) and 4-252(c)(1)(B) and (C).
+
+I, the undersigned, am a Principal or Key Personnel of the person, firm or corporation authorized to execute
+this certification on behalf of the Contractor. I hereby certify that, no gifts were made by (A) such person,
+firm, corporation, (B) any principals and key personnel of the person firm or corporation who participate
+substantially in preparing bids, proposals or negotiating state contracts or (C) any agent of such, firm,
+corporation, or principals or key personnel who participates substantially in preparing bids, proposals or
+negotiating state contracts, to (i) any public official or state employee of the state agency or quasi-public
+agency soliciting bids or proposals for state contracts who participates substantially in the preparation of bid
+solicitations or request for proposals for state contracts or the negotiation or award of state contracts or (ii)
+any public official or state employee of any other state agency, who has supervisory or appointing authority
+over such state agency or quasi-public agency.
+
+I further certify that no Principals or Key Personnel know of any action by the Contractor to circumvent (or
+which would result in the circumvention of) the above certification regarding Gifts by providing for any other
+Principals, Key Personnel, officials, or employees of the Contractor, or its or their agents, to make a Gift to
+any Applicable Public Official or State Employee. I further certify that the Contractor made the bid or proposal
+for the Contract without fraud or collusion with any person.
+
+
+
+
+V.062215                                               13
+     CAMPAIGN CONTRIBUTION CERTIFICATION:
+
+     I further certify that, on or after January 1, 2011, neither the Contractor nor any of its principals, as defined
+     in C.G.S. § 9-612(f)(1), has made any campaign contributions to, or solicited any contributions on behalf
+     of, any exploratory committee, candidate committee, political committee, or party committee established by,
+     or supporting or authorized to support, any candidate for statewide public office, in violation of C.G.S. § 9-
+     612(f)(2)(A). I further certify that all lawful campaign contributions that have been made on or after
+     January 1, 2011 by the Contractor or any of its principals, as defined in C.G.S. § 9-612(f)(1), to, or solicited
+     on behalf of, any exploratory committee, candidate committee, political committee, or party committee
+     established by, or supporting or authorized to support any candidates for statewide public office or the General
+     Assembly, are listed below:
+
+
+
+     Lawful Campaign Contributions to Candidates for Statewide Public Office:
+
+
+Contribution
+Date             Name of Contributor               Recipient                     Value          Description
+
+
+
+
+     Lawful Campaign Contributions to Candidates for the General Assembly:
+
+Contribution
+Date              Name of Contributor              Recipient                     Value          Description
+
+
+
+
+     Sworn as true to the best of my knowledge and belief, subject to the penalties of false statement.
+
+
+
+
+Printed Contractor Name                                               Printed Name of Authorized Official
+
+
+Signature of Authorized Official
+
+
+
+
+                       Subscribed and acknowledged before me this                  day of         , 20
+
+
+                                                      Commissioner of the Superior Court (or Notary Public)
+
+
+
+                                                      My Commission Expires
+
+
+
+
+     V.062215                                              14
+                   STATE OF CONNECTICUT
+                   CONSULTING AGREEMENT AFFIDAVIT
+Affidavit to accompany a bid or proposal for the purchase of goods and services with a value of $50,000 or more in a calendar or
+fiscal year, pursuant to Connecticut General Statutes §§ 4a-81(a) and 4a-81(b). For sole source or no bid contracts the form is
+submitted at time of contract execution.
+
+INSTRUCTIONS:
+
+If the bidder or vendor has entered into a consulting agreement, as defined by Connecticut General Statutes § 4a-
+81(b)(1): Complete all sections of the form. If the bidder or contractor has entered into more than one such consulting
+agreement, use a separate form for each agreement. Sign and date the form in the presence of a Commissioner of the Superior
+Court or Notary Public. If the bidder or contractor has not entered into a consulting agreement, as defined by
+Connecticut General Statutes § 4a-81(b)(1): Complete only the shaded section of the form. Sign and date the form in
+the presence of a Commissioner of the Superior Court or Notary Public.
+
+Submit completed form to the awarding State agency with bid or proposal. For a sole source award, submit completed form
+to the awarding State agency at the time of contract execution.
+
+This affidavit must be amended if there is any change in the information contained in the most recently filed affidavit not later
+than (i) thirty days after the effective date of any such change or (ii) upon the submittal of any new bid or proposal, whichever
+is earlier.
+
+AFFIDAVIT:       [Number of Affidavits Sworn and Subscribed On This Day: _____]
+
+I, the undersigned, hereby swear that I am a principal or key personnel of the bidder or contractor awarded a contract, as
+described in Connecticut General Statutes § 4a-81(b), or that I am the individual awarded such a contract who is authorized
+to execute such contract. I further swear that I have not entered into any consulting agreement in connection with such
+contract, except for the agreement listed below:
+
+__________________________________________                    _______________________________________
+Consultant’s Name and Title                                   Name of Firm (if applicable)
+
+__________________                 ___________________                ___________________
+Start Date                         End Date                           Cost
+
+Description of Services Provided: ___________________________________________________________
+
+______________________________________________________________________________________
+
+
+Is the consultant a former State employee or former public official?               YES             NO
+
+If YES: ___________________________________                           __________________________
+               Name of Former State Agency                            Termination Date of Employment
+
+Sworn as true to the best of my knowledge and belief, subject to the penalties of false statement.
+
+___________________________                 ______________________________________               _____________
+Printed Name of Bidder or Contractor        Signature of Principal or Key Personnel              Date
+
+                                            _______________________________               ___________________
+                                            Printed Name (of above)                       Awarding State Agency
+
+
+Sworn and subscribed before me on this _______ day of ____________, 20___.
+
+                                            ___________________________________
+                                            Commissioner of the Superior Court
+                                            or Notary Public
+
+                                            _____________________________
+                                            My Commission Expires
+

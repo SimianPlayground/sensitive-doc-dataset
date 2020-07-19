@@ -1,0 +1,1610 @@
+Request for Proposals for Software and Implementation Services
+ for a Tax Billing, Utility Billing, Community Development, Asset
+Management, and Enterprise Resource Planning (ERP) Software
+                        Systems Environment
+
+
+
+
+                                      RFP No: 2019-01
+
+       Solicitation Due Date: November 01, 2019               Time: 4:00 p.m. (Eastern Time)
+
+All Proposals must be received by the County of Powhatan (County) by the date and time cited
+above. It shall be the Respondent’s sole risk to assure submission by the designated time.
+
+      VENDORS ARE STRONGLY ENCOURAGED TO READ THE ENTIRE SOLICITATION.
+
+Solicitation packages can be obtained by downloading from the County website:
+http://www.powhatanva.gov/149/Bid-Invitations-Proposal-Requests or eVA website:
+www.eva.virginia.gov. Should you experience problems downloading the solicitation, contact
+Charla Schubert, Director of Finance; cschubert@powhatanva.gov.
+
+All questions concerning the RFP must be submitted via email only, to the County’s consulting partner,
+Ryan Doil with BerryDunn (rdoil@berrydunn.com), as identified within this solicitation in Section 1.9.
+Communications with County staff may disqualify you from the evaluation process.
+                                                                                                                            County of Powhatan
+                                                                                                                           Request for Proposals
+                                                                                                                                 RFP #2019-01
+
+Section                                                                                                                                  Page
+
+Forms, Worksheets, and Other Attachments.......................................................................... iii
+1          RFP Introduction and Background ............................................................................. 4
+    1.1    Introduction..................................................................................................................... 4
+    1.2    About Powhatan ............................................................................................................. 4
+    1.3    Project Objectives .......................................................................................................... 5
+    1.4    Definitions....................................................................................................................... 6
+    1.5    RFP Schedule of Events ................................................................................................ 7
+    1.6    Prequalification of Vendors and Pre-RFP Demonstrations ............................................ 8
+    1.7    Minimum Qualifications .................................................................................................. 8
+    1.8    Questions and Inquiries.................................................................................................. 8
+    1.9    Non-Mandatory Pre-Proposal Vendor Teleconference .................................................. 8
+    1.10   Amendments and Addenda ............................................................................................ 9
+    1.11   Non-Warranty of RFP Information .................................................................................. 9
+2          Project Scope ............................................................................................................. 10
+    2.1    Functional Areas .......................................................................................................... 10
+    2.2    Alternate Proposals, Partnerships and Proposers of Subsets of Functionality ............ 12
+    2.3    County and Project Staffing.......................................................................................... 14
+    2.4    Deployment Model ....................................................................................................... 14
+    2.5    Number of Users .......................................................................................................... 15
+    2.6    Potential Phasing and Target Live Dates ..................................................................... 15
+    2.7    Current County Applications Environment ................................................................... 15
+    2.8    Planned and In-Progress County Initiatives/Projects ................................................... 17
+    2.9    Project Management Documentation ........................................................................... 17
+    2.10   Budget .......................................................................................................................... 17
+3          Proposal Evaluation and Award ............................................................................... 19
+    3.1    Evaluation Process....................................................................................................... 19
+    3.2    Clarification and Discussion of Proposals .................................................................... 20
+    3.3    Evaluation Criteria ........................................................................................................ 20
+    3.4    No Obligation, Right of Rejection, and Multiple Award................................................. 23
+    3.5    Negotiations and Contract Execution ........................................................................... 23
+    3.6    Ethics............................................................................................................................ 23
+    3.7    Offer Held Firm ............................................................................................................. 23
+4          Submittal Response Format...................................................................................... 24
+    4.1    General Instructions ..................................................................................................... 24
+    4.2    Technical Proposal Organization Guidelines ............................................................... 25
+    4.3    Content for Tabs 1 – 16................................................................................................ 26
+    4.4    Price Proposal .............................................................................................................. 27
+5          Terms and Conditions ............................................................................................... 28
+    5.1    Incurred Expenses ....................................................................................................... 28
+    5.2    Authorized Signatures .................................................................................................. 28
+    5.3    Rights to Submitted Material ........................................................................................ 28
+    5.4    Confidential Information ............................................................................................... 28
+    5.5    Waiver of Claims .......................................................................................................... 29
+
+
+                                                                                                                                       Page 2 of 33
+                                                                                                                           County of Powhatan
+                                                                                                                          Request for Proposals
+                                                                                                                                RFP #2019-01
+
+ 5.6     Contract Negotiation..................................................................................................... 29
+ 5.7     Failure to Negotiate ...................................................................................................... 29
+ 5.8     Contract Type ............................................................................................................... 29
+ 5.9     Contract Changes ........................................................................................................ 30
+ 5.10    Contract Approval......................................................................................................... 30
+ 5.11    Performance Review .................................................................................................... 30
+ 5.12    Statutory Information .................................................................................................... 30
+ 5.13    Non-Discrimination Clause ........................................................................................... 30
+ 5.14    Force Majeure .............................................................................................................. 31
+ 5.15    Policy Compliance ........................................................................................................ 31
+ 5.16    Compliance with Federal, State, County, and Local Laws ........................................... 31
+ 5.17    Patents and Copyrights ................................................................................................ 31
+ 5.18    Invalid, Illegal, or Unenforceable Provisions ................................................................ 31
+ 5.19    County Property ........................................................................................................... 32
+ 5.20    Rights of Use ................................................................................................................ 32
+ 5.21    Ownership of Data and Transition ................................................................................ 32
+ 5.22    Audit ............................................................................................................................. 32
+ 5.23    Personnel ..................................................................................................................... 32
+ 5.24    Software Upgrades....................................................................................................... 33
+ 5.25    Data Privacy and Security ............................................................................................ 33
+
+
+
+Forms, Worksheets, and Other Attachments
+
+Attachment A – Proposal Response Forms
+
+        (See MS Word document “County of Powhatan ERP RFP – Attachment A.docx”)
+
+Attachment B – Functional and Technical Requirements/Capabilities
+
+        (See MS Excel spreadsheet “County of Powhatan ERP RFP – Attachment B.xlsx”)
+
+Attachment C1 – Cost Worksheets
+
+        (See MS Excel spreadsheet “County of Powhatan ERP RFP – Attachment C1.xlsx”)
+
+Attachment C2 – Cost Narrative
+
+        (See MS Word document “County of Powhatan ERP RFP – Attachment C2.docx”)
+
+
+
+
+                                                                                                                                      Page 3 of 33
+                                                                                      County of Powhatan
+                                                                                     Request for Proposals
+                                                                                           RFP #2019-01
+
+
+
+1 RFP Introduction and Background
+
+1.1       Introduction
+This Request for Proposals (RFP) is intended to solicit Proposals from Respondents capable of
+satisfying the County of Powhatan and the Powhatan County Public Schools (County) needs for
+software and professional services to implement a new software systems environment to address the
+County’s needs related to:
+      •    Financial management
+      •    Human capital management
+      •    Tax billing and revenue collections
+      •    Utility billing
+      •    Asset management and work orders, and
+      •    Community Development
+Respondent’s responses will be evaluated and ranked based on the criteria described in this RFP. If a
+system is available that meets the County’s needs, the County may then enter into contract discussions
+with the selected Respondent(s).
+It is important to note that the County and Schools are separate legal entities; however, the goal will be
+to implement one financial management and human capital management solution to meet the needs of
+both entities. The County will expect Offerors to propose an implementation approach that considers
+this unique requirement, and explains any assumptions or experience in detail through the proposal
+response.
+In addition to soliciting written responses, this document provides information to assist Respondents in
+preparing their responses, and facilitates the subsequent evaluation and comparison process. In that
+regard, this RFP:
+      •    Provides information essential to soliciting meaningful recommendations and realistic
+           commitments from the Respondents
+      •    Specifies the desired format and content of Proposals in response to this RFP
+      •    Outlines the County’s evaluation and selection procedures
+      •    Establishes a schedule for the preparation and submission of Proposals in response to this RFP
+      •    Establishes a performance standard for the selected Respondent
+
+This RFP and the selected Proposal in response to this RFP will be incorporated into the contract
+resulting from this solicitation. For purposes of this RFP, the term “Vendor,” “Respondent,” and
+“Proposer” are considered to have the same meaning.
+
+1.2       About Powhatan
+Located in Virginia's Central Piedmont between the Appomattox and James Rivers, Powhatan is 20
+miles west of Richmond, the Commonwealth's capitol city, and is within an easy 2-hour drive from the
+Atlantic Ocean, Washington, D.C., Colonial Williamsburg, and the Blue Ridge Mountains. The county
+consists of 272 square miles (174,800 acres) and has a population of 28,046 (per the 2010 U.S.
+
+
+                                                                                             Page 4 of 33
+                                                                                       County of Powhatan
+                                                                                      Request for Proposals
+                                                                                            RFP #2019-01
+
+census), a 25% increase from the 2000 population of 22,370. Powhatan ranks as one of the fastest
+growing localities in Virginia.
+The governing body of the County is a five-member Board of Supervisors elected by district for four-
+year terms, set the policies for the County. The Board of Supervisors hires a County Administrator to
+act as Chief Administrative Officer. The County Treasurer, the Commissioner of the Revenue, the
+Commonwealth’s Attorney, the Clerk of the Circuit Court and the Sheriff are elected at-large by the
+voters. Powhatan County Public Schools (PCPS) is governed by a five member School Board who are
+elected by district for four-year terms. The School Board hires the Superintendent who is the Chief
+Administrative Officer of PCPS. As defined in the Code of the Commonwealth of Virginia, the Board of
+Supervisors must approve the budget and appropriate the funds of the PCPS and issue debt to finance
+school capital projects.
+
+
+
+
+The following table contains statistics related to the County. These statistics are estimates and are
+provided for planning purposes only. Additional information has been provided in Table 04: Functional
+Area Statistics.
+                                      Table 01: County Statistics
+                No.            County Area                          Statistic
+                 1    Operating Budget                   $85,956,064 (net of transfers)
+                 2    Population                                Approx. 28,000
+                 3    Total Staff                         County: 250 Schools: 700
+                 4    Number of County Departments                  Approx. 35
+                 5    Fiscal Year                              July 1 – June 30
+
+1.3   Project Objectives
+The County is planning to replace its current software systems environment with a new system or
+combination of software systems, and to adopt systems functionality to support core processes. In doing
+so, the County seeks to address several challenges in the current environment, and gain future
+efficiencies, including, but not limited to:
+
+                                                                                              Page 5 of 33
+                                                                                           County of Powhatan
+                                                                                          Request for Proposals
+                                                                                                RFP #2019-01
+
+      •    Challenges in Current Environment and Opportunities for Improvement/Objectives:
+
+              o   The reporting capabilities of the existing system are limited. The current system lacks
+                  key reporting capabilities, making it difficult to monitor metrics and forcing staff to track
+                  metrics outside the system.
+
+              o   The current systems do not adequately support all of the County’s functional needs. Staff
+                  are using manual paper and MS Excel processes to manage many of their departments.
+
+              o   Duplicate data entry is required for multiple core business functions. A lack of integration
+                  between modules within BAI and between BAI and external systems creates the need
+                  to duplicate entry of information. Currently, many departments monitor their budgets
+                  using MS Excel, duplicating the entry of purchasing details to maintain a current view
+                  into their available budget.
+
+              o   The budget preparation process is managed external to BAI. The process for developing
+                  department budgets and creating a budget for County and Board of Supervisors approval
+                  is performed through use of MS Excel, MS Word, and email. The budget is not loaded
+                  into BAI until after the final budget has been approved and after the year-end process is
+                  completed.
+
+              o   HR processes are primarily manual and paper-based. HR functions in the systems are
+                  limited, which requires most processes to be manual and paper-based. This also
+                  requires additional paper documentation to be maintained outside of the system.
+
+              o   The County is not tracking purchase order encumbrances in BAI. Some departments
+                  use purchase orders, but primarily for tracking purposes. A Countywide purchasing
+                  process is not used in BAI, which results in a lack of comprehensive encumbrance and
+                  budget tracking.
+
+In order to address these challenges and others, the County has initiated a project to adequately plan
+for, select, and implement a replacement or upgraded Software Systems environment. Section 2.0 –
+Project Scope, outlines the features and functionality desired in a future system(s), as well as the
+professional services necessary to implement that system(s).
+
+The primary objective is to procure, implement, and maintain a system or systems that mitigate the
+challenges listed above, allow for streamlined collection and processing of information, and to facilitate
+standardization and timely access to information by maximizing the use of the new software system(s)
+capabilities.
+
+1.4       Definitions
+In order to simplify the language throughout this RFP, the following definitions shall apply:
+
+ADDENDA – Written instruments issued by the County prior to the date for receipt of Proposals that
+modify or interpret the RFP documents by addition, deletions, clarification, or corrections.
+
+CONTRACT DOCUMENTS – The RFP, submitted Proposals, including any diagrams, Addenda, and a
+form of agreement between the County and the Contractor, including all change orders, insurance
+certificates, exhibits, amendments, and attachments.
+
+
+                                                                                                  Page 6 of 33
+                                                                                     County of Powhatan
+                                                                                    Request for Proposals
+                                                                                          RFP #2019-01
+
+CONTRACTOR – The Contractor(s)/consultant(s) that may be awarded a contract to provide software
+system(s) and professional services to implement the ERP System for the County.
+
+COUNTY – The County of Powhatan, a Virginia municipal corporation and political subdivision of the
+Commonwealth of Virginia.
+
+COUNTY EVALUATION COMMITTEE – The team of County staff that will participate in the review,
+evaluation, and scoring of proposals and subsequent evaluation processes, including demonstrations
+and reference checks.
+
+COUNTY IMPLEMENTATION TEAM – The team of County staff that will participate in the
+implementation of the selected system.
+
+COUNTY PROJECT MANAGER – The person designated by the County to be the County Project
+Manager assigned to act on behalf of the County during the term of the resulting Contract.
+
+DAYS – Means calendar days unless otherwise specified.
+
+ENTERPRISE RESOURCE PLANNING SYSTEM (ERP) – Means the financial management, asset
+management, utility billing, community development, work orders, tax billing and collection, and human
+resource information software system that is described in this RFP and in the Attachments hereto.
+
+PROJECT – The project to configure and implement the ERP System for the County as described in
+this RFP and in the Attachments hereto.
+
+PROJECT SCOPE – Scope of services to be provided by the Contractor(s).
+
+PROPOSAL – A complete and properly signed Proposal to provide goods, commodities, labor, or
+services for the sum stated and submitted in accordance with the RFP.
+
+PROPOSER – See “RESPONDENT.”
+
+RESOURCE PLAN – Resources needed to perform Project activities.
+
+RESPONDENT or PROPOSER or VENDOR – The person, Contractor, corporation, partnership, or
+other entity submitting a Proposal on items listed in the RFP documents, and thereby agreeing to meet
+the specified Contract terms and conditions if awarded the contract.
+
+SERVICES or WORK – All services to be performed by the Contractor to successfully complete the
+Project to the satisfaction of the County.
+
+SUBCONTRACTOR or SUBCONSULTANT – Any individual, corporation, company, or other entity that
+contracts to perform work or render services to a Contractor or to another subcontractor as part of this
+Contract with the County.
+
+VENDOR – See “RESPONDENT.”
+
+1.5   RFP Schedule of Events
+The following RFP Schedule of Events represents the best estimate of the schedule the County will
+follow, which is subject to change at the County’s discretion. Vendors are encouraged to hold the
+demonstration dates listed. If a component of the schedule is accelerated or delayed, it shall be
+
+                                                                                            Page 7 of 33
+                                                                                       County of Powhatan
+                                                                                      Request for Proposals
+                                                                                            RFP #2019-01
+
+anticipated that the remaining components may also be adjusted by a similar number of days via RFP
+Addendum prior to the submittal deadline.
+                                        Table 02: RFP Schedule of Events
+                           Event                                   Estimated Date
+           RFP Published                         October 2, 2019
+           Pre-Proposal Vendor Teleconference    October 9, 2019 at 1pm EST
+           Deadline for Questions From Vendors   October 16, 2019 at 4pm EST
+           Deadline for Proposal Submissions     November 1, 2019 at 4pm EST
+           Shortlist Vendors notified            Week of November 18, 2019
+           Vendor Demonstrations                 Week of January 6, 2019
+
+1.6       Prequalification of Vendors and Pre-RFP Demonstrations
+The County has not employed a prequalification process. No Vendors are either prequalified or
+precluded from responding to this RFP.
+
+1.7       Minimum Qualifications
+In order for Proposals to be evaluated and considered for award, Proposals must be deemed responsive
+to this RFP as determined in the discretion of the County Evaluation Committee. To be deemed
+responsive, the submitted Proposal documents shall conform in all material respects to the
+requirements stated in the RFP, and Proposers shall document and validate the capability to fully
+perform all requirements defined by the RFP. Factors to be considered in connection with a Proposer’s
+capability to fully perform all requirements of the RFP include, and may not be limited to: experience,
+integrity, reliability, capacity, and other factors required to provide the Services defined by the RFP.
+
+1.8       Questions and Inquiries
+It shall be the responsibility of the Respondents to inquire about any portion of the RFP that is not fully
+understood or that is susceptible to more than one interpretation prior to the question period closing.
+      •    All questions concerning the RFP must be submitted via email only, to the County’s consulting
+           partner, Ryan Doil (rdoil@berrydunn.com), and shall reference the page number, section
+           heading, and paragraph, if applicable.
+      •    Questions and answers will be issued in accordance with Section 1.10 – Amendments and
+           Addenda.
+      •    The County reserves the right to respond directly to vendors on minor questions and
+           clarifications without posting the question and answers in an addendum.
+      •    Only questions and answers publicly published through Addenda shall be binding.
+
+Respondents shall not contact other County staff with any questions or inquiries. Unauthorized contact
+with any personnel of the County may be cause for rejection of the Respondent’s response. The
+decision to reject a Proposal is solely that of the County.
+
+1.9       Non-Mandatory Pre-Proposal Vendor Teleconference
+A non-mandatory Pre-Proposal Vendor Teleconference will be held on October 9, 2019 at 1pm Eastern
+Time.
+                                                                                              Page 8 of 33
+                                                                                      County of Powhatan
+                                                                                     Request for Proposals
+                                                                                           RFP #2019-01
+
+Vendors that are interested in participating in the Pre-Proposal Vendor Teleconference shall contact
+the RFP Point of Contact (Ryan Doil – rdoil@berrydunn.com) in writing to request the teleconference
+information.
+
+The format of the Pre-Proposal Vendor Teleconference will be an overview presentation of the RFP, its
+contents, the RFP Schedule of Events, and additional topics. Following the presentation, Vendors will
+be able to ask questions related to the RFP or the overall process. The County will attempt to answer
+all questions at that time, but answers provided shall not be binding. Following the Pre-Proposal Vendor
+Teleconference, the County will post online the material questions asked and their respective answers
+in an addendum.
+
+1.10 Amendments and Addenda
+All clarifications, corrections or revisions to this RFP will be documented in an addendum, which will be
+publicly published to the www.eva.virginia.gov and County http://www.powhatanva.gov/149/Bid-
+Invitations-Proposal-Requests websites. Only questions and answers in an addendum shall be
+considered as part of the RFP. The County reserves the right to revise the RFP prior to the deadline for
+Proposal submissions. Revisions shall be documented in an addendum and publicly published.
+
+The County will attempt to publicly publish periodic addenda on a timely basis between the RFP
+publishing date and the close of the question period.
+
+1.11 Non-Warranty of RFP Information
+Due care and diligence has been exercised in the preparation of this RFP and all information herein is
+believed to be substantially correct. However, the responsibility for determining the full extent of the
+exposure to risk and verification of all information herein shall rest solely on those parties making
+Proposals. The County, its representatives, and its agents shall not be responsible for any error or
+omission in this RFP, nor shall they be responsible for the failure on the part of any Respondents or
+their representatives to verify the information herein and to determine the full extent of that exposure.
+
+
+
+
+                                                                                             Page 9 of 33
+                                                                                                       County of Powhatan
+                                                                                                      Request for Proposals
+                                                                                                            RFP #2019-01
+
+
+      2 Project Scope
+
+      2.1    Functional Areas
+      The following table contains the list of functional areas of the desired future systems environment.
+                                                   Table 03: Functional Areas
+       No.                       Functional Area                  No.                     Functional Area
+        1      General Ledger and Financial Reporting              12      Tax Billing
+        2      Budgeting                                           13      Personal Property Assessment
+        3      Purchasing, Bids, and Contract Management           14      Business Personal Property
+        4      Accounts Payable                                    15      Miscellaneous Tax
+        5      Accounts Receivable and Cash Receipts               16      Real Estate
+        6      Project Accounting and Grant Management             17      Income Tax
+        7      Fixed Assets and Inventory                          18      Licensing
+               Human Resources, Personnel & Benefit                19      Plan Development and Engineering
+        8
+               Administration                                      20      Permitting
+        9      Time and Attendance                                 21      Code Enforcement
+        10     Payroll                                             22      Inspections
+        11     Utility Billing                                     23      Work Orders and Facility Management
+
+      The List of Functional and Technical Requirements/Capabilities contained in Attachment B –
+      Functional and Technical Requirements/Capabilities contains the detailed functionality the County
+      requires within each functional area in a future systems environment, as well as general and technical
+      system requirements, and data conversion and interface scope.
+
+      The following table contains functional statistics of the County. These statistics are estimates and are
+      provided for planning purposes only.
+                                            Table 04: Functional Area Statistics
+No.                         Functional Area/Metric                               County Statistic              School Statistic
+      General Ledger and Financial Reporting
+              Number of Funds                                                            10                            -
+              Number of Accounts                                                  Approx.. 3,700                       -
+1
+              Chart of Accounts Structure
+             *It is anticipated that the chart of accounts will be
+             reviewed and contemplated with the selected vendor to              Fund –Dept - Object                    -
+             determine if the existing chart of accounts aligns with the
+             system.
+      Budgeting
+                                                                                $85,956,064 (net of                    -
+              Operating Budget
+2                                                                                   transfers)
+              Capital Budget                                                           $921,000                        -
+              Number of Budget Transfers processed (FY 2018)                             29                            -
+
+
+                                                                                                             Page 10 of 33
+                                                                                                  County of Powhatan
+                                                                                                 Request for Proposals
+                                                                                                       RFP #2019-01
+
+
+No.                        Functional Area/Metric                           County Statistic              School Statistic
+      Purchasing, Bid, and Contract Management
+                Number of Purchase Orders per Year                              Approx. 60                        -
+3               Number of bids, RFPs, RFIs, RFQs issued annually                 Avg. 5/yr                        -
+                Number of purchase cards in use                                      0                            0
+                Number of active contracts                                           5                            -
+      Accounts Payable
+                Number of Vendors                                             Active – 7,400               Active – 2,926
+ 4              Number of Invoices per Year                                       13,324                        8,000
+                Number of 1099’s issued per Year                                Approx. 50                        68
+                Number of Payments per Year (via check)                            4,980                        3,400
+      Accounts Receivable and Cash Receipts
+                Number of Invoices/Statements per Year                            72,900                         400
+5               Number of Cash Collection Points (including all tender
+                                                                                    11                            1
+                types)
+                Number of Cash Receipts per Year                                  86,250                         720
+      Project Accounting and Grant Management
+6               Number of Active Grants                                         Approx. 30                        -
+                Number of Active Projects                                       Approx. 60                        -
+      Fixed Asset and Inventory Management
+7
+                Approximate Value of Fixed Assets                                 $167M                           -
+      Human Resources, Personnel & Benefit Administration
+                Number of Full-Time Employees                                       180                          620
+                Number of Part-Time Employees                                       70                           145
+8               Total Number of Employees                                           250                          765
+                Number of Applicants per Job Advertisement                         10.5                           9
+                Number of Bargaining Units/Unions                                  None                         None
+                Number of Benefit Plans                                             13                            11
+      Time and Attendance
+                Number of employees using time clocks (current)                    None                           20
+                Number of time clocks currently used                               None                   1 – Via Computer
+9               Departments using time clocks (current)                            None                   School Personnel
+                                                                         Fire/Rescue Department
+                Departments to use scheduling functionality                   Sheriff’s Office                  None
+                                                                         Possibly Communications
+      Payroll
+                Number of W2’s per Year                                             298                          922
+10                                                                       All County and Schools employees are paid on a
+                Pay Frequency                                            12-month cycle once a month, on the last day of
+                                                                                          each month.
+                                                                                                        Page 11 of 33
+                                                                                              County of Powhatan
+                                                                                             Request for Proposals
+                                                                                                   RFP #2019-01
+
+
+No.                       Functional Area/Metric                          County Statistic            School Statistic
+              Number of Employees Paid per Cycle (average)                       260                          -
+      Utility Billing
+                                                                             Active - 223                    N/A
+              Number of Customer Accounts
+                                                                             Inactive - 73
+                                                                       Meters are currently read             N/A
+              Number of Meter Reading Cycles
+11                                                                    manually every two months
+                                                                        6 per year (every other              N/A
+              Number of Billing Cycles
+                                                                                month)
+              Number of Routes                                                    1                          N/A
+              Number of Meters in Service                                        256                         N/A
+      Tax Billing
+              Tax Relief Applications Received (FY 2018)                         549                         N/A
+12
+              Number of Income Taxes Filed (FY 2018)                            1,301                        N/A
+              Total Value of County Real Estate                            $3,438,294,650                    N/A
+      Personal Property
+13
+              Number of Personal Property Tax Bills per Year                    58,900                       N/A
+      Miscellaneous Tax
+14
+              Number of Miscellaneous Tax Bills per year               30,275 Real Estate Bills              N/A
+      Permitting
+15            Number of Permits Submitted (FY2018)                               922                         N/A
+              Number of Plans Reviewed (FY 2018)                                 581                         N/A
+      Code Enforcement
+16            Number of Code Compliance Complaints Investigated
+                                                                                  59                         N/A
+              (FY 2018)
+      Work Orders and Facility Management
+17            Number of work orders completed (FY 2018)                         3,813                       1,412
+              Number of buildings/facilities maintained                           14                          7
+
+      2.2    Alternate Proposals, Partnerships and Proposers of Subsets of Functionality
+      Alternate Proposals:
+
+              •     Respondents may submit alternate Proposals for evaluation. For example, if a Proposer
+                    offers one or more “branded” products that may meet the needs of the County they are
+                    encouraged to separately propose each software package for consideration.
+              •     Software companies that deliver their solution through one or more consulting firms (system
+                    integrators) are also allowed to submit more than one Proposal for consideration through
+                    differing consulting firms.
+
+              •     A separate Proposal package submitted in accordance with Section 4 is required in order
+                    for the County to accurately evaluate each Proposal independent of the other.
+
+
+                                                                                                    Page 12 of 33
+                                                                                         County of Powhatan
+                                                                                        Request for Proposals
+                                                                                              RFP #2019-01
+
+Partnerships:
+Respondents are encouraged to establish partnership relationships to fully provide all requirements
+defined by the RFP.
+       •   Respondents engaged in a partnership relationship shall submit a single proposal in
+           response to this RFP.
+       •   Partnership relationships shall be clearly defined by proposal responses. Such definition
+           shall identify the entity in the partnership relationship deemed to be the Prime Vendor. In the
+           event a proposal that presents a partnership is selected, it is expected that a single contract
+           be executed between the County and the Prime Vendor, and the Prime Vendor be
+           responsible for any contractual relationship with the proposed partner(s).
+       •   Each Vendor engaged in the partnership shall respond to any and all applicable portions of
+           this RFP that relate to the work that will be performed, or the capabilities provided. For
+           example, each Vendor shall provide references, and each Vendor shall respond to the
+           Company Background and History questions.
+
+Proposers of Subsets of Functionality:
+
+As part of this process the County will be allowing Respondents to submit point solutions (best of breed),
+and encourages Respondents to participate in this process in order to consider and evaluate a range
+of marketplace offerings.
+       •   The County recognizes that the scope of functionality in this RFP may be met through a
+           combination of systems that specialize on a modular or functional area basis. The County is
+           willing to consider best-of-breed solutions (“point” solutions), subject to certain conditions as
+           outlined in this section.
+       •   The County has a preference on software solutions that provide for the highest level of fit,
+           and facilitate the exchange of information between any disparate systems.
+       •   Proposers are also encouraged to propose on a subset of functionality if the proposed
+           software cannot provide functionality for all requested modules. Proposers may propose
+           solutions that address a subset of functionality, provided the software is able to address, at
+           a minimum, one of the following areas i-iii:
+              i.       Enterprise Resource Planning Systems (Tabs 2-12, and 24 of Attachment B)
+             ii.       Tax and Revenue Systems (Tabs 13-18 of Attachment B)
+             iii.      Community Development Systems (Tabs 19-23 of Attachment B)
+                    This does not preclude vendors from partnering, or addressing more than one of the
+                    above (i.-iiii.) areas but is rather intended to identify the minimum scope that must be
+                    presented in each proposal.
+                    Tab 6 (Accounts Receivable and Cash Receipts) may contain functionality that pertains
+                    to each area (i-iii above), and vendors proposing to a subset of functionality shall
+                    complete that tab as applicable to the proposed solution.
+                    Vendors responding on a subset of functionality must also respond to Tab 1 (General
+                    and Technical) and Tabs 25-26 (Interfaces and Data Conversion) of Attachment B.
+
+
+                                                                                               Page 13 of 33
+                                                                                      County of Powhatan
+                                                                                     Request for Proposals
+                                                                                           RFP #2019-01
+
+       •   The County will consider proposers of a subset of functionality on the relative merit of the
+           functionality proposed based on the evaluation criteria laid forth in this RFP, and reserves
+           the right to enter into negotiations for one or more proposers in order to achieve a “best–of-
+           breed” solution.
+       •   The County reserves the right to make one or more awards to competing Offerors for subsets
+           of functionality as a result of this RFP. In the event the County should make awards to one
+           or more competing Offerors, it shall be expected that additional discussion will take place
+           between the County and the Offerors to define requirements and an approach to building an
+           integration or interface between the selected systems. In such instance, the County expects
+           that the Offerors will work together as necessary to develop the necessary integration once
+           one has been identified.
+
+2.3   County and Project Staffing
+The County intends to have functional and technical resources available during Project implementation,
+though it is noted that the County does not anticipate dedicating staff full-time to the implementation in
+addition to managing their core job responsibilities. Additional resource planning will be performed
+based upon the selected Respondent(s).
+
+The County currently has 3.0 Full-Time Equivalents (FTE) in the Department of Information Technology,
+2.0 FTE in Human Resources, 4.0 FTE in the Finance Department, 5.1 FTE in the Building Department,
+6.0 FTE in the Planning & Zoning Department, 19 FTE in the Public Works Department, 7.7 FTE in the
+Treasurer’s Office, 7.5 FTE in the Commissioner of Revenue’s Office, and 6 FTE in Utilities. This
+information is shared on an informational basis only, and does not commit or warrant that the County
+can designate any certain levels of resources to the implementation process, but is rather provided for
+context in developing proposals.
+
+Respondents shall clearly indicate in the proposal responses the estimated level of County resource
+involvement in the implementation process, in order to allow the County to perform adequate planning.
+The County will utilize the response to Respondents’ Resource Hour Estimates in Tab 3 – Project
+Approach and Implementation Methodology, of Proposals as an input into the staffing plan the County
+develops, and requests that Respondents clearly articulate estimated staffing considerations in their
+responses.
+
+The selected vendor(s) will be required to include onsite activities (at County and/or School offices) as
+part of the system implementation activities, though the County is open to remote meetings for certain
+activities subject to prior review and approval.
+
+2.4   Deployment Model
+
+The County is open to considering various deployment models, and has structured the RFP to allow for
+the evaluation of the deployment model as but one factor in the overall procurement process. The
+County wishes to evaluate the greatest range of marketplace offerings feasible through this process.
+
+The County recognizes there are many factors contributing to a comparison of cost Proposals for these
+various deployment methods including needed infrastructure and/or hardware costs, the potential for
+reduced hardware and support costs in hosted/SaaS models, a particular Proposer’s approach to
+managing upgrades, and technical staffing needs. It is well understood among the County team that a
+
+
+                                                                                            Page 14 of 33
+                                                                                      County of Powhatan
+                                                                                     Request for Proposals
+                                                                                           RFP #2019-01
+
+“higher” cost from a SaaS vendor may be equalized by considering these other cost areas when
+comparing to an on premise deployment.
+
+The County Schools currently leverage a SaaS Solution for financial management, while the County
+and Schools also leverage on premise solutions in other areas.
+
+The County will consider, in no particular order, the following deployment models:
+           a. On Premise (locally hosted at the County, perpetual licenses)
+           b. Software as a Service (SaaS or subscription-based models)
+           c. Proposer hosted (hosted and managed by the Proposer, perpetual licenses)
+
+Cost sheets have been provided under Attachment C1 – Cost Worksheets for pricing each of the
+deployment models.
+
+This solicitation is not a bid process nor will it follow a lowest-priced responsive Proposal process, but
+will be based on most advantageous Proposal(s) utilizing the Evaluation Criteria listed in the RFP,
+including the review of life cycle costs (i.e. recurring costs, hardware, third-party licenses, etc.).
+
+In developing proposals, Proposer’s shall clearly define the proposed deployment model including the
+licensing model as well as any perceived benefits of the proposed model. In the event two or more
+products are proposed under the same proposal (e.g. through a partnership or offered by the same
+company) the Proposer shall clearly indicate in both the technical proposal (Attachment A, Tab 2) and
+cost proposal (Attachment C1) the deployment model for each proposed software product.
+
+The County does not have a preference as to a specific hosting location, but does have a preference
+toward the hosting being within the contiguous United States. Vendors are requested to specify the
+hosting location in proposal responses, specifically as part of Tab 9 to proposal responses (please see
+Attachment A for further instruction).
+
+2.5   Number of Users
+The anticipated number of future users of a new system or systems will be provided via addenda by the
+County, following RFP publication.
+
+2.6   Potential Phasing and Target Live Dates
+The County requests that offerors provide potential phase start and target go-live dates in proposal
+responses per Attachment A – Proposal Response Forms, Tab 5. These dates should be estimates
+based on anticipated resource requirements and dependencies between functional areas. These dates
+are subject to negotiation. The County recognizes that the start and go-live dates, as well as the phasing
+structure for the implementation may vary based on the selection of the configuration of solutions
+selected (e.g. one software solution versus multiple awards or partnerships).
+
+2.7   Current County Applications Environment
+The County of Powhatan’s current primary financial management system, BAI, runs on the IBM iSeries
+AS/400. Software and support is provided by BAI and the County leases the iSeries. There are currently
+no County customizations that were added to the current version of BAI. The current scope of
+functionality supported by the current system include those detailed in the table below.
+
+
+
+                                                                                            Page 15 of 33
+                                                                                            County of Powhatan
+                                                                                           Request for Proposals
+                                                                                                 RFP #2019-01
+
+                                 Table 06: Current County ERP System Modules
+       No.    Functional Areas                               No.   Functional Areas
+       1      Accounts Payable                                5    Human Resources
+       2      Building Inspection                             6    Mass Appraisal
+       3      Commission of Revenue                           7    Treasurer
+       4      General Ledger                                  8    Utilities Billing
+
+The Schools’ primary financial management system, RDA, runs on a Linux platform and is hosted by
+RDA. RDA provides the software and support for the system. There are no Schools’ requested module
+customizations added to the current version of RDA, though RDA has designed custom reports. The
+current RDA system is used to provide the following modules:
+                                 Table 07: Current School ERP System Modules
+       No.    Functional Areas                               No.   Functional Areas
+       1      Bank Reconciliation                             7    Payroll
+       2      Budget Prep                                     8    Personnel
+       3      Financial Management                            9    Position Tracking
+       4      Fixed Assets                                    10   Purchase Orders
+       5      FAST                                            11   Substitute Management
+       6      Leave Management                                12   Vendor Payments
+
+Additional core systems in use by the County and Schools include:
+
+                                    Table 08: Additional Software Applications
+ No.       Application                 Use/Summary
+  1        CAMRA                       Computer Assisted Mass Appraisal
+  2        CivicPlus                   Facility scheduling
+  3        Esri                        GIS
+  4        EverNote                    Note taking and task organization
+  5        FacilityDude                Work order and facility management
+  6        Justice Matters             Court case management
+  7        NeoGov                      Applicant tracking
+                                       Budgeting tool, Performance Measures Reporting, Stories and Open
+  8
+           OpenGov                     Town Hall
+  9        QuickBooks                  Accounting - Schools
+  10       SchoolDude                  Work order and facility management - Schools
+  11       ShelterPro                  Animal shelter management software
+  12       TeamWork                    Project/task management
+  13       Transfinder                 Transportation and routing - Schools
+
+                                                                                                  Page 16 of 33
+                                                                                       County of Powhatan
+                                                                                      Request for Proposals
+                                                                                            RFP #2019-01
+
+2.8       Planned and In-Progress County Initiatives/Projects
+The County currently has several in-progress or planned technology projects that may potentially impact
+system and technical standards, or resource availability during the implementation of a new ERP
+system.
+      1. Schools – Chrome Book Refresh: The Schools are currently refreshing all Chrome Books
+         for the middle school.
+      2. County – Fiber: The County is currently upgrading to fiber for all school locations.
+      3. County – Microsoft Exchange: The County is currently considering upgrading Microsoft
+         Exchange to Exchange online of Microsoft 365.
+      4. County – Broadband: The County is currently considering expanding broadband, which
+         would involve County IT resources.
+
+2.9       Project Management Documentation
+The following information establishes the expectation of the minimum level of project management
+documentation to be provided by Respondents as a part of, but not exclusively, the resulting
+implementation services offered. As part of the implementation scope, following signing of a contract,
+the selected Contractor(s) shall develop and provide the County with the following items:
+      •    Project Management Plan: a detailed Implementation Project Plan that, at a minimum, includes
+           the following:
+           o Objectives
+           o Deliverables and Milestones
+           o Project Schedule
+           o Resource Management Processes
+           o Scope Management Processes
+           o Schedule Management Processes
+           o Risk Management Processes
+           o Quality Management Approach
+           o Communication Management Approach
+           o Organizational Change Management Approach
+           o Status Reporting
+      •    Data Conversion Plan
+      •    Training Plan
+      •    System Interface Plan
+      •    Testing and Quality Assurance Plan
+      •    Pre- and Post-Implementation Support Plan
+      •    System Documentation
+      •    Risk Register
+
+Additional documentation about each Plan may be found in Section VIII of Tab 3, in Attachment A –
+Proposal Response Forms of this RFP.
+
+2.10 Budget
+The County is committed to fully funding the one-time and recurring annual costs for the acquisition of
+the software (whether a licensed model or a subscription model is selected as a result of this process).
+
+                                                                                             Page 17 of 33
+                                                                                        County of Powhatan
+                                                                                       Request for Proposals
+                                                                                             RFP #2019-01
+
+Budget planning for this initiative is ongoing, and a specific amount for the software and implementation
+services portion has not yet been determined. A final budget will be programmed based on the results
+of this RFP and final contract negotiations.
+
+The County is sensitive to the total costs, and has listed cost as one of the several evaluation criteria in
+the RFP; however, this is not an opportunity to identify the lowest priced solution. This RFP opportunity
+is being presented as a best value solicitation, and not a lowest priced bid, opportunity.
+
+
+
+
+                                                                                              Page 18 of 33
+                                                                                          County of Powhatan
+                                                                                         Request for Proposals
+                                                                                               RFP #2019-01
+
+
+3 Proposal Evaluation and Award
+
+3.1        Evaluation Process
+The following subsection outlines the intended proposal evaluation process the County has identified.
+The County reserves the right to deviate from this process at its own discretion, and to (i) negotiate any
+and all elements of the RFP, (ii) amend, modify, or withdraw the RFP, (iii) revise any requirements under
+the RFP, (iv) require supplemental statements of information from any Respondent, (v) extend the
+deadline for submission of Proposals, (vi) cancel, in whole or part, this RFP if the County deems it is in
+its best interest to do so, (vii) request additional information or clarification of information provided in
+any Proposal without changing the terms of the RFP, (viii) waive any portion of the selection process in
+order to accelerate the selection and negotiation with the top-ranked Respondent; and/or (ix) award the
+contract without written or oral discussions with any Respondents. The County may exercise the
+foregoing rights at any time without notice and without liability to any Respondent, or any other party,
+for expenses incurred in the preparation of responses hereto or otherwise.
+
+The County reserves the right to reject any or all Proposals or parts of Proposals, to accept part or all
+of Proposals on the basis of considerations other than lowest cost, and to create a Project of lesser or
+greater expense than described in this RFP or the respondent's reply, based on the component prices
+submitted. The County reserves the right to cancel this solicitation or to change its scope if it is
+considered to be in the best interest of the County.
+      a. Vendor Shortlist: The County Evaluation Committee will initially review and evaluate each
+            Proposal received to determine the Proposer’s ability to meet the requirements of the County.
+            The evaluation criteria described in Section 3.3 will be the basis for evaluation. The Evaluation
+            Committee will determine the Respondents best suited to meet the needs of the County based
+            on the scoring of the evaluation criteria. These Vendors will form the Vendor Shortlist.
+      b. Vendor Demonstrations: The County, at its sole discretion, reserves the right to have system
+            demonstrations with those Respondents on the Vendor Shortlist, or any other Respondent.
+            Demonstrations will be conducted at County offices. Demonstrations will involve a scripted
+            demonstration. The schedule, scripts, and demonstration requirements will be provided with the
+            invitation to participate in demonstrations.
+            A Pre-Demonstration Vendor Teleconference will take place for those Vendors that have been
+            shortlisted, and Respondents will have an opportunity to review the format of the demonstrations
+            and ask questions related to procedure and specific demonstration scenarios. Vendors that are
+            invited to participate in demonstrations are advised that the provided scripts must be strictly
+            adhered to while presenting. Optional modules or functionality shall not be presented if they fall
+            outside the scope of requested functionality or that functionality which has been proposed by
+            the Respondents. The proposed version of the software must be shown, and must not include
+            any software that is under development or in beta testing. Evaluation Committee members will
+            view the demonstrations, and additional County staff may also be in attendance to observe and
+            provide informal feedback. The County may elect, at its sole option, not to conduct discussions
+            or demonstrations with respondents.
+      c.    Reference Checks: The County may employ a process of contacting references provided
+            through Respondents’ proposals. This process may include teleconference meetings, web
+            conferences, and in-person meetings with references. The County reserves the right to conduct
+            reference checks at any point in the evaluation process.
+                                                                                                Page 19 of 33
+                                                                                             County of Powhatan
+                                                                                            Request for Proposals
+                                                                                                  RFP #2019-01
+
+      d. Best and Final Offer and Request for Clarification: A Best-and-Final-Offer process may be
+         initiated if it is determined to be in the best interest of the County. Such process may be initiated
+         following the identification of the Vendor Shortlist or at any other evaluation process step.
+         Additional processes of scope and cost clarification may be employed as part of the evaluation
+         process if it is deemed to be in the County’s best interest.
+
+3.2     Clarification and Discussion of Proposals
+The County may request clarifications and conduct discussions with any Respondent that submits a
+Proposal, including requesting additional information. The County reserves the right to select the
+Proposal or Proposals that it believes is the most responsive as determined by the County Evaluation
+Committee, which will best serve the County business and operational requirements, considering the
+evaluation criteria set forth below. Respondents shall be available for a system demonstration to County
+staff on dates specified in Table 02 or as otherwise requested by the County if selected for system
+demonstrations. Failure of a Respondent to respond to such a request for additional information,
+clarification, or system demonstrations may result in rejection of the Proposal. Clarifications may not
+result in a material or substantive change to the Proposal. The initial evaluation may be adjusted
+because of a clarification under this section. The County reserves the right to waive irregularities in the
+Proposal content or to request supplemental information from Respondents.
+
+3.3     Evaluation Criteria
+As described in the preceding Evaluation process sub-section, the County intends to follow a cumulative
+approach to scoring based on key evaluation activities (e.g. scoring is conducted in a progressive
+manner, following various steps in the process). The County hereby reserves the right to evaluate, at
+its sole discretion, the extent to which each Proposal received compares to the stated criteria. Vendor
+proposals shall be evaluated in accordance with the following criteria, subject to variation at the sole
+discretion of the County:
+
+         3.3.1 Short-List Identification: The County intends to utilize the criteria presented in Table
+         09 following the Evaluation Team’s review of Proposals. Each Proposal will be eligible to be
+         awarded up to 100 points at this stage.
+
+                                   Table 09: Short-List Identification Criteria
+                                                                                                        Max
+         Criteria                                       Description
+                                                                                                       Points
+                       This criterion considers but is not limited to the following:
+                           •   The vendor’s written responses to the Functional and Technical
+       Functionality           Requirements for proposed functional areas.                               35
+                           •   The ability for the proposed software to integrate with the County’s
+                               systems environment.
+                       This criterion considers but is not limited to the following:
+                           •   Alignment of the proposed software to the County’s preferred
+                               technical specifications.
+         Technical         •   The vendor’s written response to each Potential Interface.                15
+                           •   The ability of the vendor to support the Project Objectives, and
+                               County Leadership Goals and Objectives, in terms of technical
+                               criteria.
+                           •   The level of integration among proposed functional areas.
+
+                                                                                                      Page 20 of 33
+                                                                                      County of Powhatan
+                                                                                     Request for Proposals
+                                                                                           RFP #2019-01
+
+
+                                                                                                Max
+  Criteria                                       Description
+                                                                                               Points
+                This criterion considers but is not limited to the following:
+                    •   The described approach to implement an enterprise system to
+                        achieve the County’s goals and objectives.
+                    •   The alignment of the proposed implementation timeline to the
+                        County’s desired timeline.
+  Approach          •   The distribution of implementation tasks among County and                25
+                        vendor teams.
+                    •   The proposed resources hours among County and vendor teams.
+                    •   The vendor’s approach to key implementation tasks including but
+                        not limited to data conversion, testing, and training.
+                    •   The vendor’s planned ongoing support and maintenance services.
+                This criterion considers but is not limited to the following:
+                    •   The vendor’s experience delivering the services requested in the
+  Vendor                RFP.
+ Experience         •   The vendor’s experience with similar implementations for                 15
+                        comparable organizations.
+                    •   The vendor’s experience deploying comparable interfaces to the
+                        County’s related applications.
+                This criterion considers but is not limited to the following:
+                    •   The experience of named staff delivering the services requested in
+  Proposed              the RFP.
+    Staff           •   The experience of named staff with similar implementations for           10
+ Experience             comparable organizations.
+                    •   The qualifications of named staff to deliver the services requested
+                        in the RFP with a focus on business process optimization.
+
+
+  3.3.2 Finalists Identification: The County intends to utilize the criteria presented in Table 10
+  following the demonstrations by Short-List vendors. Each Proposal will be eligible to be awarded
+  up to 30 points at this stage.
+
+                             Table 10: Finalist Identification Criteria
+                                                                                                Max
+  Criteria                                       Description
+                                                                                               Points
+                This criterion considers new information learned through vendor
+                demonstrations including but not limited to:
+Functionality
+Demonstrated        •   The demonstrated user interface.                                         15
+                    •   The alignment of demonstrated functionality with preferred
+                        business processes.
+  Technical     This criterion considers new information learned through the Technical
+                                                                                                  5
+ Capabilities   Discussion as part of vendor demonstrations as well as other sessions.
+                This criterion considers new information learned through the
+ Approach
+                Implementation Approach Discussion as part of vendor demonstrations as            5
+ Discussion
+                well as other sessions.
+
+
+
+
+                                                                                              Page 21 of 33
+                                                                                       County of Powhatan
+                                                                                      Request for Proposals
+                                                                                            RFP #2019-01
+
+
+                                                                                                  Max
+ Criteria                                     Description
+                                                                                                 Points
+              This criterion considers new information learned through the Company
+Experience
+              Overview Discussion as part of vendor demonstrations as well as other                 5
+Discussion
+              sessions.
+
+
+ 3.3.3 Preferred Vendor Identification: The County intends to utilize the criteria presented in
+ Table 11 following the completion of reference checks and any site visit. Each Proposal will be
+ eligible to be awarded up to 30 points at this stage.
+
+                          Table 11: Preferred Vendor Identification Criteria
+                                                                                                  Max
+ Criteria                                     Description
+                                                                                                 Points
+Comparable    This criterion considers the relevance of references related to organization
+                                                                                                   10
+References    size, comparable scope, similar software version, and deployment model.
+              This criterion considers the feedback received from references related to
+              the vendor’s performance in the implementation including meeting project
+Reference
+              objectives and timelines, as well as the knowledge, skills, and experience           20
+Feedback
+              of implementation staff; capabilities of the software; and ongoing vendor
+              performance with support and maintenance.
+
+
+ 3.3.4 Cost Point Allocation: The County will evaluate cost proposals based upon this criteria.
+ Cost points will be applied at the timing determined by the Evaluation Team. Cost points may
+ be refined or replaced in the event of a subsequent Request for Clarification or Request for Best
+ and Final Offer (BAFO). Each Proposal will be eligible to be awarded up to 40 points for cost.
+
+                                     Table 12: Cost Point Criteria
+                                                                                                  Max
+ Criteria                                     Description
+                                                                                                 Points
+              This criterion considers, as applicable, the price of the software
+              license/subscription schedule, services, and terms of any offered ongoing
+              maintenance and support (including applicable service level agreements,
+              disaster recovery, etc.) proposed in response to the information solicited by
+              this RFP. Respondents will be evaluated on their pricing scheme, as well as
+              on their price in comparison to the other proposers.
+              In evaluating cost, the County will evaluate on a fully loaded ten year cost
+              of ownership. Fully loaded is defined to include (but is not limited to):
+              software purchase/subscription and implementation costs; ongoing support
+   Cost                                                                                            40
+              and service costs; hardware costs; hosting and associated hardware
+              support costs. The County reserves the right to add their own estimates of
+              the costs (including any anticipated savings) associated with the required
+              level of internal staffing (business users and IT staff) for implementation and
+              for ongoing support, hardware and overhead costs and savings, and may
+              rely on the Respondent’s resource estimates as a basis for their
+              calculations.
+              Vendors of point solutions will be compared against other proposals for the
+              respective functional area group.
+
+
+                                                                                                Page 22 of 33
+                                                                                       County of Powhatan
+                                                                                      Request for Proposals
+                                                                                            RFP #2019-01
+
+3.4   No Obligation, Right of Rejection, and Multiple Award
+The inquiry made through this RFP implies no obligation on the part of the County. This RFP does not
+constitute an offer or a contract with any Respondent or other party. The County reserves the right to
+reject any or all Proposals, in whole or in part, and to waive any informality in proposals received,
+deemed to be in the best interest of the County or to accept or reject all or any part of any Proposal.
+Proposals deemed to be received from debarred or suspended Vendors will be rejected. The County
+may reject any Proposal that is not responsive to all of the material and substantial terms, conditions,
+and performance requirements of this RFP. The County further reserves the right to award all, part, or
+none of the components/functional areas included in this RFP. In addition, the County reserves the right
+to make one or more awards to competing Respondents for subsets of functionality as a result of this
+RFP. The County also reserves the right to refrain from making an award if it determines it to be in its
+best interest. The County reserves the right abandon the Project and/or to re-advertise and solicit other
+Proposals.
+
+3.5   Negotiations and Contract Execution
+The County reserves the right to negotiate the final terms and conditions of any one or more contracts
+to be executed, including but not limited to the fees. In the event the County and a Respondent are
+unable to agree upon all contract provisions, the County reserves the right to cease negotiations, and
+to move on to select another Respondent, or to reject all Proposals.
+
+3.6   Ethics
+It is a breach of ethical standards for any person to offer, give, or agree to give any County employee
+or Council person - or by County Policy, for any County employee or Council person to solicit, demand,
+accept, or agree to accept from another person, entity, or agency - a gratuity or an offer of employment
+whenever a reasonable prudent person would conclude that such consideration was motivated by an
+individual, group, or corporate desire to obtain special, preferential, or more favorable treatment than is
+normally accorded the general public. The Respondents shall not assign any interest in any contract
+entered into with the County, and shall not transfer any interest in any contract with the County, without
+the prior written consent of the County, which consent may be withheld in the County’s sole discretion.
+Respondents shall not accept any private client or project that may place it in ethical conflict during its
+representation of the County.
+
+3.7   Offer Held Firm
+Proposals must remain open and valid for at least 180 days from the deadline specified for submission
+of Proposals. In the event award is not made within 180 days, the County will send a written request to
+all Bidders deemed susceptible for award, asking Respondents to hold their price firm for a longer
+specified period of time.
+
+
+
+
+                                                                                             Page 23 of 33
+                                                                                         County of Powhatan
+                                                                                        Request for Proposals
+                                                                                              RFP #2019-01
+
+
+4 Submittal Response Format
+
+4.1      General Instructions
+The following instructions must be followed by Respondents submitting Proposals. Offers that do not
+comply with all instructions contained herein may be disqualified:
+      1. Deadline: The deadline for Proposal submissions is established in Section 1.5. It will be the
+         sole responsibility of the Respondent to submit its Proposal to the County before the closing
+         deadline. Late Proposals will not be allowed.
+      2. Hard Copy Proposals: Respondents shall submit one (1) version of the Technical Proposal
+         and one (1) version of the Price Proposal in separate three-ring binders with tab separators or
+         otherwise under separate cover, clearly marked “Original.” Technical Proposals shall not include
+         extraneous marketing materials.
+      3. Fax and Email Proposals: Fax or email responses will not be accepted.
+      4. Electronic Media Files Proposals: Respondents shall submit, along with the hard copy
+         proposals, one (1) electronic version of the Technical Proposal and one (1) electronic version of
+         the Price Proposal on separate removable devices (e.g., thumb drive, CD). The following table
+         provides the required file formats and naming conventions for the electronic media files.
+                                  Table 13: Proposal Naming and File Formats
+                                           Recommended File Naming
+            Proposal Section                                                    Required File Format
+                                                 Convention
+ Technical Proposal (Inclusive of
+                                         “(Proposer Name)” Technical
+ Attachments A & B, and any                                                Searchable Adobe PDF
+                                         Proposal
+ Appendices)
+                                         “(Proposer Name) Proposal
+ Attachment A (Tabs 1 – 5, 7 – 16)                                         Searchable Adobe PDF
+                                         Response to Attachment A”
+                                         “(Proposer Name) Proposal
+ Attachment B (Tab 6)                                                      Microsoft Excel
+                                         Response to Attachment B”
+ Attachment C1 (Price Proposal           “(Proposer Name) Proposal
+                                                                           Microsoft Excel
+ under Separate Cover)                   Response to Attachment C1”
+ Attachment C2 (Price Proposal           “(Proposer Name) Proposal
+                                                                           Searchable Adobe PDF
+ under Separate Cover)                   Response to Attachment C2”
+ Any additional documentation            “(Proposer Name) Supplement A
+                                                                           Searchable Adobe PDF
+ provided shall be provided as:          – (Supplement Document Title).”
+
+      5. Delivery/Mailing Instructions: Sealed Proposals shall be clearly labeled on the outside
+         of the packaging with the RFP Title and RFP Number. The mailing address for Proposals
+         is contained in the following table.
+                                    Table 14: Proposal Mailing Addresses
+                                               Mailing Address
+                                            County of Powhatan
+                                           Department of Finance
+                                      3834 Old Buckingham Rd, Suite B
+                                            Powhatan, VA 23139
+
+
+                                                                                               Page 24 of 33
+                                                                                       County of Powhatan
+                                                                                      Request for Proposals
+                                                                                            RFP #2019-01
+
+      6. Amendment of Proposals: Respondents may amend Proposals prior to the deadline set for
+         receipt of Proposals. In the event an Addenda is issued and a Respondent has previously
+         submitted a Proposal in response to this RFP, the Respondent shall notify the RFP Point of
+         Contact via email of the need to submit an amendment, and clearly outline the reasons in writing.
+         No amendments will be accepted after the deadline unless they are in response to a request of
+         the County.
+
+      7. Except for trade secrets and confidential information that the Respondent identifies as
+         proprietary, all Proposals will be open for public inspection after the contract award.
+         Respondents are advised to carefully read the entire Solicitation Package.
+
+4.2      Technical Proposal Organization Guidelines
+Respondents are instructed to insert the completed Tab forms (Attachment A – Proposal Response
+Forms) in the corresponding Tab sections as a part of their response to the Technical Proposal. The
+County expects that Respondents will include additional proposal content beyond simply
+completing the forms and worksheets provided through this RFP.
+
+The following table contains the organization guidelines for Proposal responses.
+                           Table 15: Technical Proposal Organization Guidelines
+               Proposal Tab
+                                                   Technical Proposal Section
+                   No.
+                  Tab 1        Company Introduction
+                  Tab 2        Software Solution
+                  Tab 3        Project Approach and Implementation Methodology
+                  Tab 4        Key Proposed Personnel and Team Organization
+                  Tab 5        Project Schedule
+                  Tab 6        Functional and Technical Requirements Response
+                  Tab 7        System and Application Architecture
+                  Tab 8        Data Conversion Plan
+                  Tab 9        Software Hosting
+                  Tab 10       Testing and Quality Assurance Plan
+                  Tab 11       Training Plan
+                  Tab 12       Ownership of Deliverables
+                  Tab 13       References
+                  Tab 14       Response to Narrative Questions
+                  Tab 15       Sample Contracts, Warranty, and Escrow
+                  Tab 16       Exceptions to Project Scope and Contract Terms
+
+
+
+
+                                                                                             Page 25 of 33
+                                                                                               County of Powhatan
+                                                                                              Request for Proposals
+                                                                                                    RFP #2019-01
+
+   4.3      Content for Tabs 1 – 16
+   Attachment A – Proposal Response Forms is a Word document that provides detailed instructions
+   and requirements for the Proposer as it relates to the documents to be submitted as their RFP response
+   and Services required for the Project.
+
+   Proposers are instructed to organize Proposals in a tabbed format and to insert the completed Tab
+   forms (Attachment A – Proposal Response Forms) in the corresponding Tabs as a part of their
+   response to the Proposal. In addition to the information captured through the questions and tables in
+   Attachment A – Proposal Response Forms, Proposers are requested to provide complementary
+   narrative information, diagrams, and images to help substantiate and support their proposal response
+   to each Tab section.
+
+            a)     Tabs 1 – 5 and 7 – 16
+
+                   These tabs are to include the Proposers response as detailed in Attachment A –
+                   Proposal Response Forms, including any supplemental attachments or documents
+                   identified in Attachment A – Proposal Response Forms. Proposers are directed to
+                   Attachment A – Proposal Response Forms, which includes forms, tables, and
+                   questions that are be completed by the Proposer and inserted into each applicable tab
+                   of the RFP response (Tab 1 – 16).
+
+            b)     Tab 6
+
+                   This tab is to include Proposer’s response as detailed in Attachment B – Functional and
+                   Technical Requirements/Capabilities, which is an Excel document to be filled out by the
+                   Proposer. Proposers are required to use the following legend for completing Attachment
+                   B – Functional and Technical Requirements/Capabilities.
+
+                   When providing responses to the requirements in Attachment B – Functional and
+                   Technical Requirements/Capabilities, Proposer shall use the response indicators
+                   contained in the following table.
+
+                   Proposers are instructed to enter only one response indicator in response to each
+                   requirement. Responses to an individual requirement that contain more than one
+                   indicator (e.g., C/T) will be treated as a response of “N” feature/function not provided.
+
+                   If a Proposer is not proposing on certain functionality, a response of “No Bid” shall be
+                   provided for all applicable areas. A response of “No Bid’ should not be used as a
+                   replacement for an “N” response.
+
+                                  Table 16: Requirements Response Indicators
+
+Indicator                         Definition                                            Instruction
+
+            Standard: Feature/Function is included in the current
+                                                                      Respondents are encouraged, but not required,
+            software release and will be implemented by the
+                                                                      to provide additional information in the
+   S        planned phase go-live date as part of the proposal from
+                                                                      Comments column to further demonstrate the
+            Vendors in accordance with agreed-upon configuration
+                                                                      system’s ability to meet the requirement.
+            planning with the County.
+
+            Future: Feature/Function will be available in a future    If a response indicator of “F” is provided for a
+   F
+            software release available to the County by July 1,       requirement that will be met in a future software
+                                                                                                      Page 26 of 33
+                                                                                                 County of Powhatan
+                                                                                                Request for Proposals
+                                                                                                      RFP #2019-01
+
+
+Indicator                           Definition                                             Instruction
+             2020, at which point it will be implemented in             release, the Respondent shall indicate the
+             accordance with agreed-upon configuration planning         planned release version, as well as the time the
+             with the County.                                           release will be generally available.
+
+             Customization: Feature/Function is not included in
+             the current software release, and is not planned to be a   If a response indicator of “C” is provided for a
+             part of a future software release. However, this feature   requirement that will be met through a custom
+   C
+             could be provided with custom modifications. All           modification, the Respondent shall indicate the
+             related customization costs should be indicated in         cost of such a modification.
+             Attachment C – Cost Worksheet.
+
+             Third Party: Feature/Function is not included in the       If a response indicator of “T” is provided for a
+             current software release, and is not planned to be a       requirement that will be met by integration with a
+   T         part of a future software release. However, this feature   third-party system, the Respondent shall identify
+             could be provided with integration with a third-party      this third-party system and include a cost
+             system. This system should be specified.                   proposal to secure this system.
+
+   N         No: Feature/Function cannot be provided.                   N/A
+
+
+            c)      Proposal Supplements
+
+                    Any Proposer-submitted materials or documentation not specifically requested through
+                    this RFP may be included as Supplements to the Proposal in a separately marked
+                    “Supplements” tab of the proposal.
+
+   4.4      Price Proposal
+   The Respondent’s Price Proposal shall be submitted under separate cover, and consist of three
+   sections, as further described below:
+         1. The completed Cost Worksheets as contained in Attachment C1 – Cost Worksheets.
+            Respondents shall not modify the worksheets in any way.
+         2. The Respondent’s standard travel and expense policy.
+         3. A narrative description of the proposed costs in response to Attachment C2 – Cost Narrative.
+
+
+
+
+                                                                                                         Page 27 of 33
+                                                                                      County of Powhatan
+                                                                                     Request for Proposals
+                                                                                           RFP #2019-01
+
+
+5 Terms and Conditions
+
+CONTRACTUAL REQUIREMENTS & TERMS AND CONDITIONS
+The following terms and conditions apply to this RFP solicitation process, and will be incorporated into
+the resulting contract as applicable.
+
+5.1    Incurred Expenses
+There is no express or implied obligation for the County to reimburse Respondents for any costs or
+expenses incurred in preparing Proposals in response to this RFP, and the County will not reimburse
+Respondents for these costs or expenses, nor will the County pay any subsequent costs associated
+with the provision of any additional information or presentations, or to procure a contract for these
+Services. The County is not responsible for any cost(s) incurred by a Respondent in preparing and/or
+submitting a Proposal in response to this RFP. The County will also not be responsible for any costs
+associated with preparing and/or participating in any systems demonstrations requested of the
+Respondent’s products and Services.
+
+5.2    Authorized Signatures
+The proposal must be executed personally by the vendor or duly authorized partner of the partnership
+or duly authorized officer of the corporation. If executed by an agent, a power of attorney or other
+evidence of authority to act on behalf of the vendor shall accompany the proposal to become a valid
+offer.
+
+5.3    Rights to Submitted Material
+It shall be understood that all Proposals, responses, inquiries, or correspondence relating to or in
+reference to this RFP, and all reports, charts, and Proposals or referencing information submitted in
+response to this RFP, shall become the property of the County, and will not be returned. The County
+will use discretion with regard to disclosure of proprietary information contained in any response, but
+cannot guarantee information will not be made public. As a government entity, the County is subject to
+making records available for disclosure.
+
+5.4    Confidential Information
+Any written, printed, graphic, electronic, or magnetically recorded information furnished by the County
+for the Respondent’s use are the sole property of the County. This proprietary information includes, but
+is not limited to, customer requirements, customer lists, marketing information, and information
+concerning County employees, products, services, prices, operations, security measures, and
+subsidiaries.
+
+The Respondent and its employees shall keep this confidential information in the strictest confidence,
+and will not disclose it by any means to any person except with County approval, and then only to the
+extent necessary to perform the work under the contract. These confidentiality obligations also apply to
+the Respondent’s employees, agents, and subcontractors and Respondent shall be liable for a breach
+of the confidentiality obligations by any such party. On termination of the contract, the Respondent, its
+employees, agents, and subcontractors will promptly return any confidential information in its
+possession to the County.
+
+
+
+                                                                                            Page 28 of 33
+                                                                                        County of Powhatan
+                                                                                       Request for Proposals
+                                                                                             RFP #2019-01
+
+5.5      Waiver of Claims
+Each Offeror by submission of a response to this RFP waives any claims it has or may have against
+the County, and their respective employees, officers, members, directors and partners; The County’s
+Representative and its employees, officers, members, directors and partners; and the County, its
+employees, officers and elected officials, agents, representatives, that are connected with or arising out
+of this RFP, including, the administration of the RFP, the RFP evaluation, and the selection of qualified
+Respondents. Submission of proposal indicates Respondent’s acceptance of the evaluation technique.
+Without limiting the generality of the foregoing, each Respondent acknowledges that the basis of
+selection and that the evaluations shall be made public in accordance with applicable law and waives
+any claim it has or may have against the above-named persons, due to information contained in such
+evaluations.
+
+5.6      Contract Negotiation
+After final evaluation, the County may negotiate with the Respondent(s) of the highest-ranked Proposal.
+If any Respondent fails to negotiate in good faith, the County may terminate negotiations and negotiate
+with the Respondent of the next highest-ranked Proposal or terminate negotiations with any or all
+Respondents.
+
+If contract negotiations are commenced, they may be held at County office locations or via
+teleconference at a date and time to be determined. If contract negotiations are held, the Respondent
+will be responsible for all of Respondent’s costs including, without limitation, its travel and per diem
+expenses and its legal fees and costs.
+
+5.7      Failure to Negotiate
+If the selected Respondent:
+
+      1. Fails to provide the information required to begin negotiations in a timely manner
+      2. Fails to negotiate in good faith
+      3. Indicates it cannot perform the contract within the designated timeframes or within budgeted
+         funds available for the Project
+      4. If the Respondent and the County, after a good-faith effort, cannot come to terms; then
+The County may terminate negotiations with the Respondent initially selected and commence
+negotiations with the next highest-ranked Respondent. At any point in the negotiation process, the
+County may, at is sole discretion, terminate negotiations with any or all Respondents.
+
+5.8      Contract Type
+The contract resulting from this RFP shall be in form and content satisfactory to the County and shall
+include, without limitation, the terms and conditions provided for in this RFP and such other terms and
+conditions as the County deems necessary and appropriate. The resulting contract from this RFP shall
+be a not-to-exceed based contract, subject to the Payment Terms identified in Attachment C2 for the
+various cost types.
+
+The standard of performance for the contract resulting from this RFP shall be in accordance with the
+highest applicable standards in the financial information software industry. The initial contract price will
+be based on prices submitted by the Selected Respondent, subject to contract negotiations with the
+County, and shall remain firm for the initial term of the contract. Price adjustments may be negotiated
+at the request of either party in the extension periods with mutual agreement of the parties. A party
+
+                                                                                              Page 29 of 33
+                                                                                          County of Powhatan
+                                                                                         Request for Proposals
+                                                                                               RFP #2019-01
+
+proposing a price change in an extension period must notify the other party at least one-hundred eighty
+(180) days prior to the commencement of any extension period.
+
+5.9     Contract Changes
+Written requests for price changes resulting from a change of scope, as initiated or requested by the
+County, must be submitted in writing to the County via Change Order. Any increase will be based on
+the Contractor’s actual cost increase only, as shown in written documentation. All Change Order
+requests must be in writing, must not constitute increases in profit, and must contain data establishing
+or supporting the increase in cost. At the option of the County, (1) the request may be granted; (2) the
+Contract may be cancelled and solicitation may be re-advertised; or (3) continue with the Contract
+without change.
+
+The County will accept or reject all such written requests within ninety (90) days of the date of receipt
+of Contractor’s request for price increase or receipt of proper written documentation, whichever is later.
+
+If a price increase is approved, the County will issue an amendment or change order to the contract
+specifying the date the increase will be effective. All Services and related accessories are to be billed
+at prices in effect at the time the service was rendered or order was placed.
+
+If a price increase is rejected, the Contractor will be notified and, at the option of the County, the Contract
+may be (1) cancelled and the solicitation may be re-advertised; or (2) continued without change.
+
+All other Contract changes will be effective only on written agreement signed by both parties.
+
+5.10    Contract Approval
+The County’s obligation will commence only following the County Council’s approval of a Contract and
+the parties’ execution of the Contract. Upon written notice to the Contractor, the County may set a
+different starting date for the Contract. The County will not be responsible for any work done or expense
+incurred by the Contractor or any subcontractor, even such work was done or such expense was
+incurred in good faith, if it occurs prior to the Contract start date set by the County.
+
+5.11    Performance Review
+The Respondent may be required to meet with the County’s Project Manager not less than once per
+quarter to conduct a performance review of the Respondent. These meetings will be either in person at
+County offices, or via teleconference or web-conference with not less than two in-person meetings per
+year. This performance review will include a review of the pricing, delivery performance, customer
+service, and improving operational efficiencies.
+
+5.12    Statutory Information
+Any contract or agreement resulting from this RFP shall be construed in accordance with the laws of
+the Commonwealth of Virginia. Any litigation between the parties arising out of, or in connection with,
+the contract shall be initiated and prosecuted in federal or state court in Powhatan County, Virginia.
+
+5.13    Non-Discrimination Clause
+During the performance of the contract, the Contractor and all subcontractors will not discriminate
+against any employee or applicant for employment because of race, color, creed, religion, ancestry,
+national origin, sex, sexual orientation, disability, age, marital status, or status with regard to public
+assistance. The Contractor and all subcontractors will take affirmative action to ensure that all
+                                                                                                 Page 30 of 33
+                                                                                         County of Powhatan
+                                                                                        Request for Proposals
+                                                                                              RFP #2019-01
+
+employment practices are free of such discrimination. Such employment practices include, but are not
+limited to, the following: hiring, upgrading, demotion, transfer, recruitment or recruitment advertising,
+layoff, termination, rates of pay or other forms of compensation, and selection for training, including
+apprenticeship.
+
+5.14   Force Majeure
+Neither Party shall be in default by reason of any failure in performance of the resulting contract if such
+failure is proximately caused by causes beyond their reasonable control and without the fault or
+negligence of said Party including, without limitation, unforeseeable acts of nature; terrorism or other
+acts of public enemy; war and epidemics or quarantine restrictions (“force majeure”).
+
+If either Party is delayed at any time in the progress of the work governed by the contract by force
+majeure, the delayed Party shall notify the other Party in writing of such delay, as soon as is practical,
+of the commencement thereof and shall specify the cause(s) of such delay in the notice. The notice
+shall be hand-delivered or mailed certified-return receipt and shall make a specific reference to this
+provision. The delayed Party shall cause such delay to cease as soon as practicable and shall notify
+the other party in writing when it has done so. The time of completion shall be extended by contract
+modification for a period of time equal to the time that results or effects of such delay prevent the delayed
+Party from performing in accordance with this contract.
+
+5.15   Policy Compliance
+The Respondent shall, as a condition of being considered for award of the contract, require each of its
+agents, officers, and employees to abide by the County’s policies prohibiting sexual harassment,
+firearms, and smoking, as well as all other reasonable work rules, safety rules, or policies regulating the
+conduct of persons on County property at all times while performing duties pursuant to the contract.
+The Respondent agrees and understands that a violation of any of these policies or rules will constitute
+a breach of the contract and will be sufficient grounds for immediate termination of the contract by the
+County.
+
+5.16   Compliance with Federal, State, County, and Local Laws
+Proposals must comply with all federal, state, county and local laws. Any vehicles or equipment shall
+contain all standard safety, emission, and noise control requirements required for the types and sizes
+of equipment at the time of their manufacture. The contractor agrees, during the performance of work
+or service, to comply with all applicable codes and ordinance of the County of Powhatan or
+Commonwealth of Virginia as they may apply, as these laws may now read or as they may hereafter
+be changed or amended.
+
+5.17   Patents and Copyrights
+The successful vendor agrees to protect the County from claims involving infringements of patents
+and/or copyrights.
+
+5.18   Invalid, Illegal, or Unenforceable Provisions
+In case any one or more of the provisions contained in the Contract shall for any reason be held to be
+invalid, illegal, or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not
+affect any other provision thereof and this contract shall be considered as if such invalid, illegal, or
+unenforceable provision had never been contained herein.
+
+                                                                                               Page 31 of 33
+                                                                                        County of Powhatan
+                                                                                       Request for Proposals
+                                                                                             RFP #2019-01
+
+5.19   County Property
+The use of any and all County property by Contractor or its agents must be approved in advance by the
+County.
+
+5.20   Rights of Use
+The Contractor agrees that the County will own and have the right to use, reproduce and apply as it
+desires, any data, reports, analyses and materials which are collected or developed by the Contractor
+or anyone acting on behalf of the Contractor as a result of this contract.
+
+5.21   Ownership of Data and Transition
+Any and all County data stored on the Contractor’s servers or within the Contractors custody, is the sole
+property of the County. The Contractor, subcontractor(s), officers, agents and assigns shall not make
+use of, disclose, sell, copy or reproduce the County’s data in any manner, or provide to any entity or
+person outside of the County without the express written authorization of the County.
+
+In the event resulting Agreement is terminated for any reason, or upon expiration, and in addition to all
+other rights to property set forth, the Selected Respondent shall:
+
+   a. Incur no further financial obligations for materials, Services, or facilities under the Agreement
+      without prior written approval of the County;
+   b. Terminate all purchase orders or procurements and any subcontractors and cease all work,
+      except as the County may direct, for orderly completion and transition; and
+   c. Make available to the County, at no cost, all County data stored within the system, stored on the
+      Contractor’s servicers, or within the Contractor’s custody, within fifteen (15) days of termination
+      or County request.
+In the event resulting Agreement is terminated for any reason, or upon expiration, and in addition to all
+other rights to property set forth, the County shall:
+
+   d. Retain ownership of all data, work products, and documentation, created pursuant to the
+      resulting Agreement
+
+5.22   Audit
+Contractor will retain all records related to this contract for 5 years after final payment or until audited
+by the County, whichever comes first. The County may inspect these records upon reasonable notice
+to Contractor.
+
+5.23   Personnel
+All of Contractor’s personnel providing goods and services under the contract shall possess the
+necessary skills, experience, and knowledge, to perform their assigned duties. In the event assigned
+personnel are providing non-conforming or unsuitable services, the County shall notify Contractor and
+provide the opportunity to rectify the deficiency. If unable to cure the nonconforming services, Contractor
+shall remove from the project and replace the Contractor’s personnel that the County deems unsuitable
+for the project with a resource possessing the necessary skills, experience, and knowledge, to perform
+their assigned duties in a satisfactory manner.
+
+
+
+
+                                                                                              Page 32 of 33
+                                                                                     County of Powhatan
+                                                                                    Request for Proposals
+                                                                                          RFP #2019-01
+
+5.24   Software Upgrades
+The County shall be entitled to any and all upgraded versions of the software covered in the contract
+that becomes available from the Contractor. Such upgrades shall be provided at no cost to the County
+so long as a valid maintenance and support agreement, or if applicable software as a service licensing
+agreement, is in place.
+
+5.25   Data Privacy and Security
+Contractor shall comply with all relevant federal, state, and local laws and regulations on security and
+privacy. Contractor shall have and follow a disaster recovery plan. Contractor shall only store and
+process County data within the continental United States. If applicable to the Contract, the Contractor
+shall back up all County data daily to an offsite hardened facility.
+
+
+
+
+                                                                                           Page 33 of 33
+

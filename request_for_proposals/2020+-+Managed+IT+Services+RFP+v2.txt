@@ -1,0 +1,965 @@
+                    P.O. Box 850
+                 2748 Wagener Road
+             Aiken, South Carolina 29802
+
+
+
+
+Managed Information Technology (IT)
+                 Services
+
+              Request for Proposal
+                   #20-001
+
+
+
+
+             Proposal Due Date:
+               March 30, 2020
+                   4:00 P.M.
+
+
+
+
+          LSCOG IT #20-001      Page 1 of 20
+                  ACKNOWLEGEMENT OF CONDITIONS
+                                                  for RFP #20-001
+
+PROJECT:                            Managed Information Technology (IT) Services
+
+REQUIREMENTS:                       Attached
+
+SCOPE OF WORK:                      Lower Savannah Council of Governments Requests Proposals for
+                                    Managed IT Services
+
+QUESTION                            All questions must be received by:
+DEADLINE:                           March 13, 2020 at 4:00 PM
+                                    Questions must be submitted via email or mail and directed to:
+                                    Nora Sanders, Assistant Executive Director
+
+SUBMISSION:                         Email:             nsanders@lscog.org
+
+                                    Physical:          Lower Savannah Council of Governments
+                                                       2748 Wagener Road
+                                                       Aiken, SC 29801
+
+                                    Mailing:           Lower Savannah Council of Governments
+                                                       P.O. Box 850
+                                                       Aiken, SC 29802
+
+OUTSIDE OF ENVELOPE MUST BE MARKED:                                      RFP #20-001
+                                                                         Managed I.T. Services
+                                                                         Attn: Nora Sanders
+
+RFP SUBMISSION DEADLINE:                               March 30, 2020 by 4:00 P.M.
+
+
+                 THE INFORMATION BELOW MUST BE FULLY COMPLETED
+                       AND SIGNED FOR A PROPOSAL TO BE VALID
+
+By signing this Statement, I certify that we (firm) will comply with all requirements contained within the RFP.
+
+ AUTHORIZED SIGNATURE                                  PRINTED NAME                                        DATE
+
+
+ COMPANY FULL LEGAL NAME
+
+
+ MAILING ADDRESS
+
+ CITY                                STATE                   ZIP CODE                            PHONE
+
+ EMAIL
+
+
+                                       LSCOG IT #20-001               Page 2 of 20
+                               REQUEST FOR PROPOSALS
+                                                   for RFP #2019
+
+I. INVITATION
+Lower Savannah Council of Governments (hereafter identified as LSCOG) in South Carolina seeks proposals from
+vendors interested in providing managed Information Technology (IT) services for our agency. IT is a critical
+component for the organization, and is used daily by every employee, contractor, partner, and end users to provide
+services to our clients. The qualified service provider/vendor will utilize a managed service provider approach to
+LSCOG to significantly limit the footprint of on-site IT infrastructure, enhance IT effectiveness and quality of
+services, minimize its support cost, and maximize return on investment in IT. The outsourcing strategy has been
+designed to secure a broad and reliable range of services from a vendor prepared to take the defined responsibilities
+for the reliability, and integration of LSCOG information systems. The objective of the proposal is to identify one
+(1) vendor to whom we can delegate our IT operations as an expert Managed Service Provider (MSP) that specializes
+in handling these responsibilities through a Service Level Agreement (SLA). A key deliverable for this work is a high
+level, scalable IT infrastructure.
+
+To qualify for consideration, one (1) original plus three (3) copies of your proposal must be received in the office
+of LSCOG, 2748 Wagener, Road, Aiken, SC, 29801, by 4:00 PM on March 30, 2020. Late proposals will not be
+considered. Proposals shall be accepted in person, by U.S. Mail or by private courier service. NO Proposals
+shall be accepted via oral or email communication, telephone or fax transmission. It is the sole responsibility of the
+Vendor to see that the proposal is received before the submission deadline. The Vendor shall bear all risks associated
+with delays in the U.S. mail or delivery service.
+
+Proposals must include initial cost of assessment, installation/setup, both minimum and maximum length
+of contracts and procedures for termination of contract. Note-LSCOG maximum contract length for
+services is 36 months with option to review, approve (contract must not be auto renewal) and renew every 12
+months up to 60 months.
+
+Proposals received by 4:00pm on March 30, 2020, will be opened, and reviewed, as soon thereafter as possible, for
+responsiveness by LSCOG Staff, in the conference room of LSCOG at 2748 Wagener Road, Aiken, SC 29801.
+Only the names of Vendors will be disclosed at that time.
+
+A proposal review panel will subsequently review and evaluate the proposals according to the criteria outlined in
+Section IV. The winning proposal will be selected by the Proposal Review Committee and approved by the senior
+management of LSCOG.
+
+This solicitation does not commit LSCOG to award a contract, to pay any cost incurred in the preparation of a
+proposal, or to procure or contract for the articles of goods or services. LSCOG reserves the right to accept or
+reject any or all proposals received as a result of this request, to negotiate with all qualified Vendors, or to cancel in
+part or in its entirety this proposal, if it is in the best interest of LSCOG to do so.
+
+Questions: Any requests for clarification or additional information deemed necessary by any Vendor to present a
+proper proposal must be submitted in writing by 4:00 PM on March 13, 2020 as follows:
+
+                 Mail to: Attn: Nora Sanders, LSCOG, P.O. Box 850, Aiken, SC 29802
+                 OR email to: nsanders@lscog.org
+
+Written questions or requests for clarification must be received before the question deadline stated above. Any
+request received after the above stated deadline will not be considered. All written questions or requests received
+prior to the above deadline will be responded to in writing in the form of an addendum addressed and emailed to all
+known prospective vendors as well as posted on the LSCOG website, www.lscog.org.
+
+
+                                      LSCOG IT #20-001              Page 3 of 20
+Pre-Bid Meeting: A Pre-proposal meeting will be held on Wednesday, March 18, 2020 at 2:00pm, at Lower
+Savannah Council of Governments, 2748 Wagener Road, Aiken, SC 29801. This meeting is not mandatory, however
+it is recommended. If a representative from your company will be attending, email nsanders@lscog.org on or before
+5:00pm Tuesday March 17, 2020.
+
+Post Pre-Bid Meeting Questions and Clarifications: Following the pre-bid meeting, vendors attending the
+meeting may request in writing request for additional clarification questions by 4:00 PM on Friday, March
+20, 2020 as follows: Mail to: Attn: Nora Sanders, LSCOG, P.O. Box 850, Aiken, SC 29802
+                 OR email to: nsanders@lscog.org
+
+Written questions or requests for clarification must be received before the question deadline stated above. Any
+request received after the above stated deadline will not be considered. All written questions or requests received
+prior to the above deadline will be responded to in writing in the form of an addendum addressed and emailed to all
+known prospective vendors as well as posted on the website lscog.org.
+
+Restrictions Applicable to Offers: Violation of restrictions may result in disqualification of your offer, suspension,
+or debarment, and may constitute a violation of the South Carolina State Ethics Act. After issuance of the
+solicitation, you agree not to discuss this procurement activity in any way with the using governmental unit
+or its employees, agents or officials. Any communication regarding the submission, evaluation, or award must
+be solely addressed to the procurement coordinator, or designee. This restriction may be lifted by express written
+permission from the procurement coordinator.
+
+PART: RFP TIMELINE
+
+ Description                             Dates
+ Issuance of RFP                         Thursday, February 27, 2020
+ Questions due                           4:00 PM, Friday, March 13, 2020
+ Pre-Proposal meeting and question       2:00 PM, Wednesday, March 18, 2020
+ review.
+ Pre-Proposal Meeting attendees,         4:00 PM, Friday, March 20, 2020
+ submit      written    clarification
+ questions.
+ Final responses to questions on or      5:00 PM, Thursday, March 26, 2020
+ before.
+ Proposals due                           4:00 PM, Monday, March 30, 2020
+
+
+The proposal will be awarded on the basis of LSCOG’s total requirements, to one (1) vendor.
+
+PRE-PROPOSAL RESPONSIBILITY. It is the Proposer’s responsibility to carefully examine and study the
+Proposal Document, and other related data identified in the Proposing Documents. Proposers are responsible
+for being familiar with all federal, state and local laws and regulations that may affect cost, progress, and
+performance of work.
+
+AMENDMENTS TO SOLICITATION. This solicitation may be amended at any time prior to opening. All
+actual and prospective proposers should monitor the following web site for issuance of amendments: www.lscog.org.
+Proposers must indicate in some way through its proposal submission that they received the amendment. If the
+solicitation is amended, then all terms and conditions, which are not modified, remain unchanged. All amendments
+to and interpretations of the solicitation shall be in writing from the procurement official. The procurement official
+shall not be legally bound by any amendment or interpretation that is not in writing.
+
+
+
+                                     LSCOG IT #20-001             Page 4 of 20
+II. ORGANIZATION BACKGROUND
+Established in 1967, LSCOG is a state chartered agency, which provides a wide range of services to citizens, county
+governments, and municipalities within Aiken, Allendale, Bamberg, Barnwell, Calhoun, and Orangeburg counties.
+LSCOG operates under the guidance of a thirty-nine member Board of Directors comprised of elected officials and
+citizens-at-large from the six (6) county area and is one of ten such regional agencies in South Carolina.
+
+There are three major divisions within LSCOG:
+
+    1) Human Services:
+       a) Aging-The Area Agency on Aging (AAA) is responsible for planning, developing, coordinating, and
+          implementing aging services for the region. It is part of a larger, nationwide network created by the
+          Older Americans Act dedicated to improving lives. Services are provided in both community-based
+          programs and in long-term care facilities. Utilizes Department on Aging’s state database system
+          (AIMS).
+       b) Transit-Transit is responsible for coordinating transportation services for seniors, persons with
+          disabilities and people seeking transportation to work, using Route Match Software.
+       c) Medical Assistance Volunteers-There are two volunteer groups (approximately 20 volunteers) that assist
+          retired seniors maneuver benefits, prescription drugs, Medicaid and Medicare plans. This is done
+          through the use of customized Microsoft Access databases and heavy internet usage. Volunteers
+          share six computer systems.
+
+    2) Planning Community, Economic Development Services(PCED)
+       a) Economic and Community Development: The economic and community development department
+           administers housing programs, Community Development Block Grants, and Economic
+           Development Administration programs.
+       b) Planning & Transportation: The planning department consists of three main program areas: local
+           planning assistance, environmental planning (water and air quality), and transportation planning.
+       c) Geographic information services are also part of the planning division. GIS creates updates and
+           maintain maps and geographic data for the region. Maps are produced using licensed ESRI
+           software.
+
+    3) Workforce Development: The workforce development department provides staffing and administrative
+       support to the region’s workforce program. Part of its responsibility is to provide a skilled, productive
+       workforce for local employers. The program provides services to both job seekers and employers.
+
+    4) Administration- provides oversite to all programs.
+       a) Finance is responsible for daily processing of invoices, payroll and loan programs. Finance utilizes,
+          Grants Management Accounting Software (GMS), Blackbaud Accounting Software, and
+          QuickBooks.
+       b) Tourism- responsible for marketing the region through the creation flyers, brochures, website,
+          Facebook, Twitter, etc. Utilizes licensed Adobe Creative Cloud Suites (4 licenses).
+
+
+
+
+                                    LSCOG IT #20-001            Page 5 of 20
+III. GENERAL RFP INFORMATION
+Project Location
+          1) LSCOG Main Office
+              2748 Wagener Road
+              Aiken, SC 29801
+
+             General operating hours: Monday-Thursday 7:30am– 5:30 pm, Friday 8:00am-4:30pm
+
+
+Description of the Existing Technical Environment
+              LSCOG Main Office
+                a.   There are approximately 45 leased workstations/desktop computers (including keyboard,
+                     monitor, and mouse) for use by staff and volunteers. Fifteen (15) additional monitors for
+                     dual monitor setups.
+                b.   Staff and volunteers utilize Office 365 subscriptions.
+                c.   Environment is a third party hosted and managed cloud based virtual system.
+                d.   Currently utilize approximately 800 GBs of storage.
+                e.   Connects to the Internet via fiber service through Segra Communications. (30 kb-5 voice,
+                     25 data).
+                f.   Cradle point backup (Verizon).
+                g.   Wireless Access point (3) capabilities for guest and volunteers.
+                h.   The LAN is provided by a hosted firewall and router.
+                i.   The locations use a full function Voice over Internet Protocol (VoIP) Private Branch
+                     Exchange (PBX) on site with Interactive Voice Response (IVR) menus, voicemail,
+                     voicemail attachment sent via email and Session Initiation Protocol (SIP) trunk service
+                     hosted by Segra.
+                j.   There are no servers at the location.
+                k.   There are approximately 12 LSCOG owned laptop computers that require desktop
+                     management and helpdesk support. Each laptop computer is capable of being securely
+                     accessed remotely for routine maintenance, troubleshooting, and user assistance through
+                     a variety of different methods.
+                l.   All computers have Microsoft Office Suite products and have a variety of software used
+                     to aid customers including, but not limited to, Adobe Creative Cloud Suites, Adobe
+                     Reader/Flash, and Google Chrome.
+                m.   The location has five (5) multi-functional network printers (Xerox & Pollard) and eleven
+                     (11) desktop printers (HP).
+                n.   Secure Wi-Fi access is provided for employees, volunteers and the public.
+                o.   Daily and weekly data backup and archiving.
+                p.   Minimum 2 weeks data backup.
+                q.   13 mobile devices (IPhones) that access email (Verizon).
+                r.   24/7 helpdesk support.
+
+
+
+
+                               LSCOG IT #20-001            Page 6 of 20
+IV. ROLE OF CONTRACTOR/SCOPE OF WORK
+LSCOG requests the submittal of proposals from vendors interested in providing managed IT services for
+supporting the daily operations of LSCOG.
+
+Scope of Work
+Assessment
+    1. Compile/update inventory of all information technology related assets for the LSCOG Office located at
+       2748 Wagener Road, Aiken, SC 29801.
+    2. Assess system architecture and current processes and make recommendations for improved IT system
+       performance.
+Implementation
+    1) Provide necessary Workstations/Desktop equipment and configuration with the latest version of
+        Windows and Microsoft Suites. (Estimated 45-50).
+    2) Setup and Configuration with ongoing support and any configuration changes that need to be made over
+        the contract period.
+    3) Initial Setup, Implementation, and Training
+    4) Cloud Storage Back up for Disaster Recovery
+    5) Security Encryption, Monitoring and Management
+    6) Email archiving
+    7) Daily backup of key systems (finance, admin, etc.)
+    8) Weekly backup of non-key user file systems
+    9) Server Threat monitoring and analysis, threat detection, response and remediation. (24/7 Remote
+        Monitoring and Support, MS Patch, Anti-Virus License and Management, Monthly Report)
+    10) Maintain a high level of overall internet security.
+                 a. Internet security must meet all Federal, State, and local laws and regulations regarding
+                      confidential information, such as but not limited to, 20 CFR Part 603, 45 CFR Section
+                      205.50, 20 USC 1232g, 34 CFR 361.38, S.C. Code Ann. §§ 41-29-150 through 170 and IRS
+                      Publication 1075.
+    11) Desktop Management with (at minimum) Business Hour Help Desk (Business Hour Helpdesk, Microsoft
+        Patching, Endpoint Protection License and Management, Monthly Report)
+    12) Workstations Threat monitoring and analysis, Threat detection, response and remediation.
+    13) Firewall Service
+    14) Deployment plan for replacement PCs and laptops as needed, including installation of updates, application
+        software, and network and peripheral device configuration as needed in the future.
+    15) Day-to-day troubleshooting of hardware and software issues and network. This support should extend to
+        peripheral devices such as monitors, keyboards, mice, copiers, printers, etc.
+    16) 24/7 monitoring of key systems with automated failure notification.
+    17) Daily (7:30 am-5:30 pm) help desk coverage for key systems with 1-hour reply time and 24-hour target
+        response time (or better)
+    18) Daily (7:30 am-5:30 pm) help desk coverage for laptops and PCs with 1-hour reply time and 24-hour
+        target response time (or better).
+    19) Timely repair of failures or malfunctions on all systems, including malware infections, intrusion detection,
+        and other security breaches
+    20) Timely assistance with changes and reconfigurations on systems, including implementation of security best
+        practices.
+    21) Timely assistance interacting with external software or hardware vendors to install, configure,
+        troubleshoot, or repair systems.
+    22) Logging and reporting of requests for assistance, ideally including an online support ticket portal.
+    23) Comprehensive patch management for covered equipment, including OS patches and application patches
+        and installation of upgrades. Alert notifications to designated personnel in the event of failure.
+    24) Complete proactive monitoring of network equipment including bandwidth utilization, and other
+        performance indicators, with reporting when specified thresholds are reached.
+
+                                    LSCOG IT #20-001             Page 7 of 20
+    25) Ensure scheduled preventive maintenance for equipment is properly and promptly performed; maintain
+        the maintenance records on the equipment; Regular maintenance for servers, PCs, switches, and other
+        network equipment, including regular review of system logs to identify security and maintenance issues.
+    26) Develop operations, administrative, and quality assurance back-up plans and procedural documentation.
+    27) Setup new users and edit or remove existing users in environment.
+    28) On-site by support engineers as needed.
+    29) Assistance with developing specifications for new equipment and/or software or identifying appropriate
+        hardware or software solutions, including preparing quotes for purchase.
+    30) Record keeping and administration for maintenance and support contracts and license management for
+        server and network-related software, including timely notification of pending contract and/or license
+        renewals.
+    31) Development and maintenance of administrative documentation for systems and applications.
+    32) Input and advice on implementation of new capabilities and systems, including cloud-based options.
+    33) Input and advice on security best practices.
+    34) Input and advice on preparation of annual IT plans and budgets, including budgetary estimates for
+        specific recommendations and proposals.
+    35) Assistance maintaining continuous operations during a disaster recovery scenario.
+    36) Work with the LSCOG primary staff contact to
+                         a. Work on all services provided.
+                         b. Work on an annual technology budget for recurring expense items and new capital
+                             requirements.
+                         c. Make technology upgrade suggestions.
+                         d. Analyze the data collected and offer resolutions for issues and potential risks.
+
+This is an open and competitive process. If you wish to submit alternate solutions, please do so.
+
+Proposals must include initial cost of assessment, installation/setup, both minimum and maximum length
+of contracts and procedures for termination of contract. Note-LSCOG maximum contract length for
+services is 36 months with option to review, approve (contract must not be auto renewal) and renew every 12
+months up to 60 months.
+
+V. QUALIFICATIONS
+Vendors must have a demonstrated track record of furnishing satisfactory evidence of their ability to provide services
+in accordance with the terms and conditions of these specifications. LSCOG reserves the right to make the final
+determination as to the proposer’s ability to provide the products and/or services requested herein. Vendor must
+have:
+
+        1) Demonstrated financial stability & independence (this project would not constitute a large
+           percentage -- no more than 25% -- of a firm’s revenue stream).
+        2) Adequate business insurance policy coverage amounts.
+        3) Solid project references.
+        4) Adequate personnel/staffing.
+
+Additionally, qualified firms should also detail the following:
+
+        1)   Number of years your firm has been in business;
+        2)   Number of years in business of providing proposed services
+        3)   Sample contract for similar services;
+        4)   Contact information for at least three recent project references;
+        5)   List of personnel that would be assigned to this project along with each team member’s role.
+
+
+
+                                     LSCOG IT #20-001             Page 8 of 20
+The price you quote should be inclusive. Compensation for the services shall be a fixed fee with a contract maximum.
+If your price excludes certain fees or charges, you must provide a detailed list of excluded fees with a complete
+explanation of the nature of those fees. Provisions of this RFP and the contents of the successful responses are
+considered available for inclusion in final contractual obligations.
+
+Terms of Payment: Contracts resulting from this proposal shall be subject to completion of delivery. The purchaser
+will make payment within the guidelines of a payment schedule of the proposal and agreed upon by both parties.
+LSCOG reserves the right to retain ten percent (10%) of all reimbursements should issues arrive, until a final delivery
+of service/equipment, etc. has been satisfactorily completed, if such action is in the best interest of the organization.
+Completion and acceptance of the work will not release the Proposer from liability for any repair of faulty
+workmanship or materials found after payment has been made.
+
+VI. INSTRUCTIONS FOR PREPARING AND SUBMITTING PROPOSALS
+This section provides a summary of information to be included in fulfilling the requirements of this RFP. Proposals
+must be submitted in the format outlined in this section. Vendors must furnish all information required by the
+request. The requirements stated herein do not preclude the vendor from furnishing additional information as
+deemed appropriate. Substantial deviation from the minimum requirements stated herein may be cause for rejection
+from further consideration.
+
+General Instructions - All proposals must be assembled in the following order:
+   1) Cover Sheet
+   2) Project Narrative
+   3) Statement of Work
+   4) Budget
+   5) 2019 W9 Form
+   6) Four (4) required affidavits (sign and scan into final quote package)
+
+Applicants must use the forms provided here in completing their proposals.
+
+Project Narrative - The narrative will describe applicant's services and professional and organizational
+experience. When preparing your response, please list the number and name of the sections as they appear below.
+
+    1) Company Information
+           a. Full legal company name
+           b. Year business started
+           c. Location of company headquarters
+           d. Brief company history
+           e. Current number of staff employed
+           f. Key contact name, title, address (if different from above address), email address, and direct
+               telephone number.
+    2) Relevant Experience and Qualification
+           a. Describe your experience in providing these services in similar projects.
+    3) References
+           a. Submit the name of three (3) organizations that can serve as references that you are currently
+               providing services for—include names, addresses, e-mail addresses, and telephone numbers.
+               LSCOG reserves the right to contact other persons not specifically listed as references but who
+               may have direct knowledge of the vendor’s previous work. Please provide information referencing
+               the actual services provided, customer size (number of users), and the length of tenure providing
+               services to this client.
+    4) Give the names of the person(s) who will be authorized to make representations for your firm, their titles,
+       addresses, and telephone numbers.
+
+
+                                      LSCOG IT #20-001             Page 9 of 20
+    5) Nonperformance
+              (a) If your company has had a contract terminated for default during the past five years, all such
+                  incidents must be described. Termination for default is defined as notice or agreement to
+                  stop performance due to the vendor’s nonperformance or poor performance, or the issue
+                  was litigated, and such litigation determined the vendor to be in default. List complete name,
+                  address and telephone number of the other party and explain the resolution of the matter
+              (b) Explain whether or not your firm has been involved in any other litigation within the past
+                  five (5) years arising out of your performance.
+
+Statement of Work - Describe your approach to providing the services listed in the Scope of Work (Section IV)
+and your methodology for providing on-going support. Respondent shall describe hosting equipment specifications,
+hosting facilities security, internet connectivity/bandwidth rates, firewall capabilities, and power redundancy.
+
+Budget - Please provide a budget for the costs associated with all items. Specify if this is an
+hourly/weekly/monthly/quarterly rate. The proposal must contain a fee schedule that includes fixed rate business
+hours support and hourly rates for additional services. Describe how your services are priced, and any specific
+pricing you can provide. Define any additional charges (e.g. travel expenses).
+
+Invoices require itemization email hosting, anti-virus protection, and price/hr. of support, etc.
+
+FAILURE TO INCLUDE ALL REQUIRED SUBMISSION MATERIALS MAY RENDER THE PROPOSAL
+NON-RESPONSIVE, AS DETERMINED BY LSCOG.
+
+
+VII.EVALUATION CRITERIA
+Recommendations Process
+   1. Acceptance for Review - Only proposals received by the deadline shall be accepted and reviewed.
+      Proposals submitted that are substantially incomplete, or use unauthorized forms may be termed
+          a. "non-responsive” and will not be reviewed.
+   2. Contents Review - Proposals received by the deadline and accepted for review shall be submitted to and
+      reviewed by the proposal review panel.
+   3. The proposals shall be ranked and scored according to the criteria listed in this RFP.
+   4. The proposal review panel will review and analyze the responses and schedule times to review each vendor’s
+      proposal. Vendors invited to attend the interview shall bear their own expenses for attending. LSCOG will
+      not be responsible for any costs associated with proposal preparation or interviews. The panel will then
+      make a recommendation to Lower Savannah COG for award using the selection criteria set forth above.
+   5. Discussions may be conducted with vendors who submit proposals determined to be reasonably capable of
+      being selected for award for the purpose of clarification to assure full understanding of and responsiveness
+      to the solicitation requirements. While conducting discussions, there shall be no disclosure of any
+      information derived from proposals submitted by competing vendors.
+
+    6. Qualified firms should be prepared for a potential in-person interview. If your firm will be hiring sub-
+       contractors, please clearly state this in your proposal and identify the degree of work that any subcontractor
+       will be performing. Sub-contractors should also be available for interview.
+    7. LSCOG may make such investigations as it deems necessary to determine the ability of a vendor to deliver
+       the required materials and services, and the vendor will furnish all information for this purpose as LSCOG
+       may reasonably request.
+    8. LSCOG reserves the right to reject a proposal if the evidence submitted by or the investigation of such
+       vendor fails to satisfy that vendor is properly qualified to carry out the obligations of the contract and to
+       deliver the equipment or services described herein.
+
+
+                                    LSCOG IT #20-001             Page 10 of 20
+Evaluation Criteria
+Proposals will be evaluated on the following criteria.
+
+    1) Suitability of the Proposal (20 Points) – the proposed solution meets the needs and criteria set forth in the
+       RFP.
+    2) (20 Points) Expertise in recommending and communicating appropriate technical solutions as evidenced
+       by the proposal and references.
+    3) Vendor Experience (30 Points) – Candidates shall be rated primarily on whether or not it has a substantial
+       history of providing similar services. References shall weigh heavily in the scoring.
+    4) Value/Pricing Structure and Price Levels (20 Points) – Reasonable price commensurate with the value
+       offered by the vendor.
+    5) Depth and Breadth of Staff (5 Points) – The vendor has appropriate staff with the expertise to develop
+       and implement the project in the time frame needed.
+    6) Proposal Presentation (5 Points) – The information is presented in a clear, logical manner and is well
+       organized.
+
+VIII. METHOD OF AWARD
+LSCOG intends to select one (1) vendor to whom we can delegate our IT operations as an expert Managed
+Service Provider (MSP) that specializes in handling these responsibilities through a Service Level Agreement
+(SLA).
+
+IX. TERMINATION
+ In the event no funds or insufficient funds are made available for payments due under this contract, LSCOG shall
+immediately notify the Vendor of such occurrence, and this contract shall create no further obligation of LSCOG
+as to such current or succeeding fiscal year and shall be null and void, except as to the portions of payments herein
+agreed upon for funds which shall have been appropriated and budgeted. In such event, this contract shall terminate
+on the last day of the fiscal year for which appropriations were received without penalty or expense to LSCOG of
+any kind whatsoever. No right of action or damages shall accrue to the benefit of the Vendor as to that portion of
+this contract that may so terminate. LSCOG shall provide the successful Vendor with notice not less than thirty
+(30) days prior to the date of cancellation, if such time is available. Otherwise, prompt notice will suffice. In the
+event of occurrence of the circumstances described immediately above, the Vendor shall not prohibit or otherwise
+limit LSCOG the right to pursue and contract for alternate solutions and remedies as deemed necessary by LSCOG
+for the conduct of its affairs. All provisions stated herein shall apply to any amendment or the execution of any
+option to extend the contract.
+
+Exit Plan
+90 days prior to the expiration of the Contract Period and/or immediately upon the termination of this Contract for
+any reason, the contractor shall perform the following:
+
+The Proposer shall establish a written plan and timeline (with milestones), acceptable to LSCOG’ Management, for
+the accomplishment of the termination process and orderly transition of the services, as described in this RFP,
+from the contractor (“Exit Plan”). The Exit Plan shall include but not limited to:
+
+    1)   Software Development Folders
+    2)   Updated LSCOG’ IT Architecture
+    3)   Status of in-progress projects with all documentation
+    4)   Training Classes and Documentation
+    5)   Disaster Recovery Plan and Testing documentation
+    6)   Process of collecting employee badges, keys, etc.
+    7)   Location and description of all desktop images
+    8)   Contents of IT Documentation Library
+                                    LSCOG IT #20-001             Page 11 of 20
+    9) Process to inactivate all contractor staff network access
+    10) Administrative passwords of all servers
+    11) Diagram and documentation of all communication systems
+
+The Proposer shall deliver the Exit Plan to LSCOG 90 days prior to the expiration of the Contract Base Period or
+any of the option years of the Contract, and/or immediately upon the termination of the Contract, as directed by
+LSCOG.
+
+X. APPROVAL OF USE OF NAMES
+The vendor shall not have the right to include LSCOG names in its published list of customers without prior
+approval. With regards to media and/or news releases, only the name and duration of contract may be used and
+then only with prior approval. The vendor agrees not to publish or cite in any form any comments or quotes from
+LSCOG’ members, officials, or staff. The Vendor further agrees not to refer to award of this agreement in
+commercial advertising in such a manner as to state or imply that the services provided are endorsed or preferred
+by LSCOG.
+
+XI. NON-DISCLOSURE STIPULATION ON LSCOG CONFIDENTIAL AND PROPRIETARY DATA
+The vendor shall take all precautions necessary and appropriate to ensure the confidentiality of LSCOG record
+information. The vendor shall limit access to LSCOG’ records only to its authorized representatives. Except as
+authorized by LSCOG, the vendor shall not reproduce any LSCOG’ records. LSCOG shall have the right to review
+the vendor’s procedures for handling its records and may make such inspections, as it deems necessary to ensure
+that the vendor is safeguarding said record information adequately.
+
+XII. COMPLIANCE WITH CODES, ORDINANCES, INDUSTRY STANDARDS
+During the term of this contract, it shall be the Vendors responsibility to ensure compliance with all applicable
+provisions of laws, codes, ordinances, rules and regulations, tariffs, and industry standards. The Vendor will also be
+held professionally liable for the work of any utilized subcontractors and shall provide assurances that such personnel
+will devote sufficient time to properly carry out the designated scope of project work.
+
+XIII. ASSIGNMENT
+No contract or its provisions may be assigned, sublet, or transferred without the written consent of LSCOG.
+
+XIV. OTHER CONDITIONS
+   Debarment, Suspension, and Other Matters Related to Public Transactions
+
+    The prospective vendor certifies to the best of its knowledge and belief, that it and its principals:
+
+    1) Are not presently debarred, suspended, proposed for debarment, and declared ineligible or voluntarily
+       excluded from covered transactions by any Federal and/or State department or agency.
+
+    2) Have not within a three-year period preceding this proposal been convicted of or had a civil judgment
+       rendered against it for commission of fraud or a criminal offense in connection with obtaining, attempting
+       to obtain or performing a public (Federal, State, or local) transaction or contract; violation of Federal or
+       State antitrust statutes or commission of embezzlement, theft, forgery, bribery, falsification or destruction
+       of records, making false statements or receiving stolen property.
+
+
+
+
+                                    LSCOG IT #20-001              Page 12 of 20
+                                  STANDARD TERMS AND CONDITIONS
+
+
+SCOPE: THE FOLLOWING TERMS AND CONDITIONS WILL PREVAIL UNLESS OTHERWISE
+NOTIFIED BY LOWER SAVANNAH COUNCIL OF GOVERNMENTS WITHIN THIS REQUEST FOR
+PROPOSALS DOCUMENT. LSCOG RESERVES THE RIGHT TO REJECT ANY PROPOSAL, WHICH
+TAKES EXCEPTION TO THESE TERMS AND CONDITIONS.
+
+Definitions Used Herein:
+    a) “PROPOSAL REQUEST” -Solicitation of a Formal Sealed Request for Proposals
+    b) “VENDOR”- The person or company offering the service, equipment, etc.
+    c) “PROPOSAL” -Submission of Qualifications and Cost Proposal Offered by the Vendor
+    d) “PROPOSER”-The person or company submitting the proposal
+    e) “LSCOG”-Lower Savannah Council Of Governments
+
+Completing Proposal: All information must be legible. Any and all corrections and/or erasures must be initialed.
+Authorized vendor must sign the proposal and required information must be provided.
+
+Confidentiality of Proposal Information: each proposal must be in a sealed envelope and clearly marked to provide
+confidentiality of the proposal information prior to the opening. Supporting documents and/or descriptive literature
+may be submitted with the proposal or in a separate envelope marked literature for RFP (number). Do not indicate
+prices on literature.
+
+Submitting Confidential Information: Proposers must clearly mark as “confidential” each part of their proposal,
+which they consider to be proprietary information that could be exempt from disclosure under South Carolina’s
+current Freedom of Information Act. Lower Savannah Council of Governments reserves the right to determine
+whether this information should be exempt from disclosure and no legal action may be brought against the Council
+of Governments or its agents for its determination in this regard. Note: Marking your entire proposal
+confidential/proprietary is not in conformance with the S. C. Freedom of Information Act.
+
+Accuracy of Proposal: each proposal is made public record of LSCOG after award. Therefore, it is necessary that
+any and all information presented is accurate and/or will be that by which the vendor will complete the contract.
+
+Submission of Proposal: proposals are to be sealed and submitted to LSCOG via mail-P.O.Box 850, Aiken, SC
+29802 or hand carry to 2748 Wagener, Road, Aiken, SC, 29801, prior to the date and time indicated on the cover
+sheet.
+
+Addenda: all changes in connection with this proposal will be issued by LSCOG in the form of a written addendum.
+signed acknowledgment of receipt of each addendum must be submitted with the proposal.
+
+Late Proposals and Modifications or Withdrawals: proposals received after the deadline designated in this RFP will
+not be considered. Proposals may be withdrawn or modified prior to the deadline date and time indicated for
+submission on the cover sheet.
+
+Proposal Condition of Price: all cost proposals submitted shall remain effective for a minimum period of 60 days
+or until evaluation is complete and award is made. Thereafter, the contract price shall remain effective for the term
+of the contract.
+
+Insurance: the contractor shall procure, maintain, and provide proof of, insurance coverage for injuries to persons
+and/or property damage as may arise from or in conjunction with, the work performed on behalf of LSCOG by the
+contractor, his agents, representatives, employees or subcontractors at their own expense. Proof of coverage shall
+be submitted prior to entering into the contract and such coverage shall be maintained by the contractor for the
+duration of the contract period.
+                                    LSCOG IT #20-001            Page 13 of 20
+New Materials, Supplies, or Equipment: unless otherwise specified, all materials, supplies or equipment offered by
+a vendor will be new, unused, of recent manufacture, first class in every respect, and suitable for their intended
+purpose. All equipment will be assembled and full serviced, ready for operation when delivered.
+
+Warranty: Supplies or services furnished as a result of this proposal will be covered by the most favorable
+commercial warranties, expressed or implied, that the vendor and/or manufacturer gives to any customer. The
+rights and remedies provided herein are in addition to and do not limit any rights afforded to LSCOG by any other
+clause of this proposal. LSCOG reserves the right to request from vendors a separate manufacturer certification of
+all statements made in this proposal.
+
+Method of Award and Notification: Proposals will be analyzed and the award made, based on the evaluation criteria
+for this proposal, to the best-qualified vendor. LSCOG reserves the right to reject any or all proposals and any part
+of a proposal; to waive informalities, technical defects, and minor irregularities in proposals received. It is the policy
+of LSCOG that in the event two or more Proposals are tied after evaluation of proposals, awards shall be determined
+as follows:
+     1. Should there be a firm located within the LSCOG region (Aiken, Allendale, Bamberg, Barnwell, Calhoun,
+         Orangeburg Counties of South Carolina) tied with an out-of-region firm, the award shall be made to the
+         firm within the region.
+     2. Should there be a South Carolina firm tied with an out-of-state firm, the award will be made to the South
+         Carolina firm.
+     3. Tied proposals involving LSCOG area firms will be resolved by the flip of a coin by the review committee
+         chairperson or the executive director of LSCOG.
+     4. Tied proposals involving South Carolina firms not in the LSCOG region will be resolved by the flip of a
+         coin by the review committee chairperson or the executive director of LSCOG.
+
+Credit Terms: vendor will indicate all discounts for full and/or prompt payment. Discount will be considered as a
+cost factor in the determination of award, except discounts offered for payment within less than ten (10) calendar
+days. Discounts offered will be computed from date of receipt of correct invoice or receipt and acceptance of
+products, whichever is later.
+
+Seller's Invoice: invoice will be prepared and submitted in duplicate to address shown on the purchase order.
+Separate invoices are required for each purchase order. Invoice will contain the following general information, item
+number, description of supplies, or services, sizes, unit of measure, quantity, unit price, and extended price.
+
+Safety: all practices, materials, supplies, and equipment will comply with the federal occupational safety and health
+act, as well as any pertinent federal, state, and/or local safety or environmental codes. It is the responsibility of the
+vendor to provide material safety data sheets for product(s) requiring the same.
+
+Disclaimer of Liability: LSCOG and/or any of its agencies will not hold harmless or indemnify any vendor for any
+liability whatsoever.
+
+HOLD HARMLESS: THE CONTRACTOR AGREES TO PROTECT, DEFEND, INDEMNIFY AND HOLD
+LSCOG, ITS OFFICERS, EMPLOYEES AND AGENTS FREE AND HARMLESS FROM AND AGAINST
+ANY AND ALL LOSSES, PENALTIES, DAMAGES, SETTLEMENTS, COSTS CHARGES, PROFESSIONAL
+FEES OR OTHER EXPENSES OR LIABILITIES OF EVERY KIND AND CHARACTER ARISING OUT
+OF OR RELATING TO ANY AND ALL CLAIMS, LIENS, DEMANDS, OBLIGATIONS, ACTIONS,
+PROCEEDINGS OR CAUSE OF ACTION OF EVERY KIND AND CHARACTER IN CONNECTION
+WITH OR ARISING DIRECTLY OR INDIRECTLY OUT OF THIS AGREEMENT AND/OR THE
+PERFORMANCE HEREOF, WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, ANY
+AND ALL SUCH CLAIMS, ETC., RELATING TO PERSONAL INJURY, INFRINGEMENT OF ANY
+PATENT, TRADEMARK, COPYRIGHT, (OR APPLICATION FOR ANY THEREOF) OR OF ANY OTHER
+TANGIBLE OR INTANGIBLE PERSONAL OR PROPERTY RIGHT, OR ACTUAL OR ALLEGED
+
+                                     LSCOG IT #20-001              Page 14 of 20
+VIOLATION OF ANY APPLICABLE STATUTE, ORDINANCE, ADMINISTRATIVE ORDER, RULE OR
+REGULATION, OR DECREE OF ANY COURT WILL BE INCLUDED IN THE INDEMNITY
+HEREUNDER. THE CONTRACTOR FURTHER AGREES TO INVESTIGATE, HANDLE, RESPOND TO
+PROVIDE DEFENSE FOR AND DEFEND ANY SUCH CLAIMS, ETC. AT HIS/HER SOLE EXPENSE
+AND AGREES TO BEAR ALL OTHER COSTS AND EXPENSES RELATED THERETO, EVEN IF SUCH
+CLAIM IS GROUNDLESS, FALSE OR FRAUDULENT.
+
+LAW GOVERNING: ALL CONTRACTUAL AGREEMENTS WILL BE SUBJECT TO, GOVERNED BY,
+AND CONSTRUED ACCORDING TO THE LAWS OF THE STATE OF SOUTH CAROLINA.
+
+Anti-Discrimination Clause: No Vendor to this request will in any way, directly or indirectly, discriminates against
+any person because of age, race, color, handicap, sex, national origin, or religious creed.
+
+Lower Savannah Council of Governments is an Equal Opportunity Provider and Employer.
+
+
+
+
+                                   LSCOG IT #20-001             Page 15 of 20
+                                                    AFFIDAVIT I
+
+                                            AFFIDAVIT OF NON-COLLUSION
+
+
+
+
+   I,_______________________________________________________, holding the title and position of
+
+
+________________________________________________at the firm_______________________________
+ affirm that I am the authorized signatory on behalf of the company, board directors and owners in setting the price on the
+bid or proposal.
+
+
+    1.   I certify under penalities of perjury that this bid/proposal is genuine and not made in the interest or in behalf of
+         any person, company, client, joint venture, partnership or legal entity not herein named.
+    2.   No companies, clients or contractors have been solicited to propose a fake bid/proposal for comparative
+         purposes.
+    3.   No companies, clients or contractors have been solicited to refrain from bidding or to submit any form of
+         noncompetitive bidding.
+    4.   The price of the bid/proposal has not been disclosed to any client, company or contractor, and will not be
+         disclosed until or after the formal date on the proposal.
+
+
+
+
+Signature __________________________________________________________________
+
+
+
+
+Date_____________________________
+
+
+
+
+                                       LSCOG IT #20-001               Page 16 of 20
+                                                                AFFIDAVIT II
+
+  ALL ORGANIZATIONS MUST COMPLETE THE FOLLOWING AFFIDAVIT AS TO NON‐ DISCRIMINATION AND EQUAL
+  EMPLOYMENT OPPORTUNITIES.
+
+
+  The undersigned representatives do hereby certify that, the applicant or contractor does and will continue to comply with Title VI of the
+  Civil Right Acts of 1964 (42USCS2000d) and all other applicable federal, state and local statutes relative to non-discrimination.
+
+
+  The undersigned further recognizes that the Lower Savannah Council of Governments may not contract with any organization, which is not
+  compliance with these assurances. No person shall on the grounds of race, color, religion, sex (including pregnancy, childbirth, and related
+  medical conditions, sex stereotyping, transgender status, and gender identity), national origin (including limited English proficiency), age,
+  disability, political affiliation or belief, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination
+  under any program or activity funded in whole or in part with funds available from the federal government.
+
+
+Name of Organization _______________________________________________________________________________________
+
+
+
+
+Mailing Address ____________________________________________________________________________________________
+
+
+
+
+Physical Address_____________________________________________________________________________________________
+
+
+
+
+Name and Title of Authorized Signatory ___________________________________________________________________________
+
+
+
+
+Signature __________________________________________________________________ Date_____________________________
+
+
+
+
+                                                  LSCOG IT #20-001                 Page 17 of 20
+                                                      AFFIDAVIT III
+
+                                  CERTIFICATION REGARDING LOBBYING
+                                      CERTIFICATION FOR CONTRACTS, GRANTS, LOANS
+                                            AND COOPERATIVE AGGREEMENTS
+
+
+  The undersigned certifies, to the best of his or her knowledge and belief, that:
+
+          (1) No Federal appropriated funds have been paid or will be paid by or on behalf of the undersigned, to any person for
+          influencing or attempting to influence an officer or employee of an agency, a Member of Congress, an officer or
+          employee of Congress, or an employee of a Member of Congress in connection with the awarding of any Federal
+          contract, the making of any Federal grant, the making of any Federal Loan, the entering into of any cooperative
+          agreement, and the extension, continuation, renewal, amendment or modification of any Federal contract, grant, loan,
+          or cooperative agreement.
+
+          (2) If any funds other than Federal appropriated funds have been paid or will be paid to any person for influencing or
+          attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of
+          Congress, or an employee of a Member of Congress in connection with the Federal contract, grant, loan, or cooperative
+          agreement, the undersigned shall complete and submit Standard Form LLL. “Disclosure Form to Report Lobbying,” in
+          accordance with its instructions.
+
+          (3) The undersigned shall require that the language of this certification be included in the award documents for “sub-
+          awards at all tiers (including sub‐ contracts, sub-grants and contracts under grants, loans, and cooperative agreements)
+          and that all” sub‐ recipients shall certify and disclose accordingly.
+
+  This certification is a material representation of fact upon which reliance was placed when this transaction was made or entered
+  into. Submission of this certification is a prerequisite for making or entering into this transaction imposed by section 1352, title
+  31, U.S. Code. Any person who fails to file the required certification shall be subject to a civil penalty of not less than $10,000
+  and not more than $100,000 for each such failure.
+
+Name of Organization _______________________________________________________________________________________
+
+
+
+
+Mailing Address ____________________________________________________________________________________________
+
+
+
+
+Physical Address_____________________________________________________________________________________________
+
+
+
+
+Name and Title of Authorized Signatory ___________________________________________________________________________
+
+
+
+
+Signature __________________________________________________________________ Date_____________________________
+
+
+
+                                            LSCOG IT #20-001             Page 18 of 20
+                                          AFFIDAVIT IV
+
+                                      Certification Regarding
+                             Debarment, Suspension, Ineligibility and Voluntary
+                               Exclusion Lower Tier Covered Transactions
+
+
+  This certification is required by the regulations implementing Executive Order 12549, Debarment and
+  Suspension, 29 CFR Part 98, Section 98.510, Participants’ responsibilities. The regulations were published
+  as Part VII of the May 26, 1988 Federal Register (pages 19160‐ 19211).
+
+
+             (BEFORE COMPLETING CERTIFICATION, READ INSTRUCTIONS FOR
+             CERTIFICATION)
+
+
+          (1) The prospective recipient of Federal assistance funds certifies, by submission of this proposal,
+          that neither it nor its principals are presently debarred, suspended, proposed for debarment,
+          declared ineligible, or voluntarily excluded from participation in this transaction by any Federal
+          department or agency.
+
+          (2) Where the prospective recipient of Federal assistance funds is unable to certify to any of the
+          statements in this certification, such prospective participant shall attach an explanation to this
+          proposal.
+
+
+Name of Organization ___________________________________________________________________________
+
+
+
+
+Mailing Address ________________________________________________________________________________
+
+
+
+
+Physical Address________________________________________________________________________________
+
+
+
+
+Name and Title of Authorized Signatory _____________________________________________________________
+
+
+
+
+Signature ____________________________________________________ Date_____________________________
+
+
+
+
+                                               Page 19 of 20
+                                    INSTRUCTIONS FOR CERTIFICATION
+
+1. By signing and submitting this proposal, the prospective primary participant is providing the certification set out
+   below.
+
+2. . The inability of a person to provide the certification required below will not necessarily result in denial of
+    participation in this covered transaction. The prospective participant shall submit an explanation of why it cannot
+    provide the certification set out below. The certification or explanation will be considered in connection with the
+    department or agency's determination whether to enter into this transaction. However, failure of the prospective
+    primary participant to furnish a certification or an explanation shall disqualify such person from participation in this
+    transaction.
+
+3. The certification in this clause is a material representation of fact upon which reliance was placed when the
+   department or agency determined to enter into this transaction. If is later determined that the prospective primary
+   participant knowingly rendered an erroneous certification, in addition to other remedies available to the Federal
+   Government, the department or agency may terminate this transaction for cause or default.
+
+4. The prospective primary participant shall provide immediate written notice to the department or agency to which this
+   proposal is submitted if at any time the prospective primary participant learns that its certification was erroneous
+   when submitted or has become erroneous by reason of changed circumstances.
+
+5. The terms "covered transaction," "debarred," "suspended," "ineligible," "lower tier covered transaction,"
+   "participant," "person," "primary covered transaction," "principal," "proposal," and "voluntarily excluded," as used
+   in this clause, have the meanings set out in the Definitions and Coverage sections of the rules implementing Executive
+   Order 12549. You may contact the department or agency to which this proposal is submitted for assistance in
+   obtaining a copy of those regulations (13 CFR Part 145).
+
+6. The prospective primary participant agrees by submitting this proposal that, should the proposed covered
+   transaction be entered into, it shall not knowingly enter into any lower tier covered transaction with a person who is
+   debarred, suspended, declared ineligible, or voluntarily excluded from participation in this covered transaction, unless
+   authorized by the department or agency entering into this transaction.
+
+7. The prospective primary participant further agrees by submitting this proposal that it will include the clause titled
+   "Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion--Lower Tier Covered
+   Transactions," provided by the department or agency entering into this covered transaction, without modification,
+   in all lower tier covered transactions and in all solicitations for lower tier covered transactions.
+
+8. A participant in a covered transaction may rely upon a certification of a prospective participant in a lower tier covered
+   transaction that it is not debarred, suspended, ineligible, or voluntarily excluded from the covered transaction, unless
+   it knows that the certification is erroneous. A participant may decide the method and frequency by which it
+   determines the ineligibility of its principals. Each participant may, but is not required to, check the Nonprocurement
+   List.
+
+9. Nothing contained in the foregoing shall be construed to require establishment of a system of records in order to
+   render in good faith the certification required by this clause. The knowledge and information of a participant is not
+   required to exceed that which is normally possessed by a prudent person in the ordinary course of business dealings.
+
+10. Except for transactions authorized under paragraph 6 of these instructions, if a participant in a covered transaction
+    knowingly enters into a lower tier covered transaction with a person who is suspended, debarred, ineligible, or
+    voluntarily excluded from participation in this transaction, in addition to other remedies available to the Federal
+    Government, the department or agency may terminate this transaction for cause or default.
+
+
+
+
+                                                                                                          Page 20 of 20
+

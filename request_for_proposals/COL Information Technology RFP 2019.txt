@@ -1,0 +1,890 @@
+                                  NOTICE OF
+                        REQUEST FOR PROPOSALS (RFP) FOR
+
+               INFORMATION TECHNOLOGY MANAGED SERVICES
+
+                               CITY OF LOCKHART, TEXAS
+
+The City of Lockhart invites the submission of proposals from Respondents who can thoroughly
+document their ability to provide the expertise and management skills necessary to furnish,
+install, maintain, upgrade and repair an information technology system.
+
+If your company has demonstrated experience in information technology managed services and
+is interested in making its services available to the City of Lockhart, you are invited to respond to
+the Request for Proposals (RFP).
+
+                  Copies of this RFP are available from the City’s Internet site at
+                                   http://www.lockhart-tx.org/
+The RFP document may also be obtained from the City of Lockhart City Hall, 308 W. San Antonio
+St., Lockhart, Texas 78644, if you are unable to download the document from the city’s website.
+
+The City of Lockhart, Texas will receive proposals at the Lockhart City Hall, 308 W. San Antonio
+St., Lockhart, Texas 78644 until October 31, 2019 at 2:00 P.M.
+No proposals will be accepted after the stated deadline.
+
+Questions concerning the RFP should be submitted to the City of Lockhart, 308 W. San Antonio
+St., Lockhart, Texas 78209, Attn: Pam Larison phone 512-398-3461 ext. 229, plarison@lockhart-
+tx.org no later than 10:00 a.m. on October 31, 2019.
+                        TABLE OF CONTENTS
+                 NOTICE OF REQUEST FOR PROPOSALS
+
+
+
+I.     INTRODUCTION                                          4
+
+II.    BACKGROUND INFORMATION                                4
+
+III.   SERVICES REQUIRED                                     5
+       1.   Desktop Application Support
+       2.   Server Administration Services
+       3.   Network Administration Services
+       4.   Security
+       5.   Strategic Planning
+
+IV.    SUBMITTAL REQUIREMENTS                                6
+       1.  Letter of Transmittal
+       2.  General Vendor Information
+       3.  History of Experience
+       4.  Methodology
+       5.  References
+       6.  Staff Resources
+       7.  Support Services
+       8.  Additional Services
+       9.  Proposal Summary
+       10. Cost of Services
+       11. Draft Contract Language
+
+V.     EVALUATION CRITERIA AND PROCESS                       8
+
+VI.    DEADLINE FOR SUBMISSION OF PROPOSALS                  8
+
+VII.   RFP GENERAL INFORMATION                               8
+
+       •   SUBMITTAL COVER/SIGNATURE SHEET         Attachment A
+       •   REGULATORY COMPLIANCE AND CRIMINAL
+           HISTORY WARRANTY                        Attachment B
+       •   RESPONDENT’S QUESTIONNAIRE              Attachment C
+       •   LITIGATION DISCLOSURE                   Attachment D
+       •   INSURANCE REQUIREMENTS                  Attachment E
+       •   INDEMINIFICATION REQUIREMENTS           Attachment F
+       •   CONFLICT OF INTEREST QUESTIONNAIRE      Attachment G
+       •   VENDOR ACKNOWLEDGEMENT FORM             Attachment H
+       •   CONFIGURATION                           Attachment I
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                       2
+  I.          Introduction
+
+  The City of Lockhart is soliciting proposals from qualified professional vendors to provide
+  Information Technology managed services. The qualified vendor will enable the City to
+  continue to improve information technology (IT) effectiveness, enhance its quality of services,
+  minimize its support cost, and maximize return on investment in IT.
+
+
+   The qualified vendor would provide necessary technical services, which would enable the
+   City to:
+
+   • Protect and secure its technology facilities
+   • Ensure the efficient operation of its data processing networks and related computer
+     systems in its defined user community
+   • Enhance its quality of service for departments defined in the enclosed schedules
+   • Minimize the spending and maximize the ROI for investment in technology
+
+   The ideal vendor will resolve computer systems and network issues in accordance with
+   standard and acceptable maintenance and support benchmarks. The successful vendor will
+   be expected to organize HELP DESK service calls efficiently and to ensure that there is NO
+   significant computer downtime during normal working hours, generally 7:30AM to 5:30PM,
+   Monday through Friday, in addition to 24-hour operations for Public Safety. The vendor is
+   expected to report on status of technology issues and communicate effectively with City
+   departments.
+
+
+  II.         Background Information
+
+
+        The City of Lockhart does NOT have an IT Department and is currently using an outside
+        vendor service to provide Information Technology Managed Services.
+
+        There are 14 (includes host and vm’s) Microsoft Windows servers being utilized throughout
+        the City’s departmental infrastructure. These servers use a variety of software and are both
+        physical and virtual. They have various memory and hard drive sizing. The City e-mail is
+        hosted on a local Exchange 2010 Server. The system connects to the internet via Fiber 20
+        Mb provided by Spectrum. The City is using Veeam and Asigra backups, secure tide spam
+        filter. The City has 4 firewalls (1) ASA-5510, (1) 5505, (1) 5516x and PIX.
+
+        There are approximately 99 PC’s in the departmental areas to be covered under the
+        service and support agreement with the successful vendor. These PC’s are located
+        throughout multiple buildings within the City of Lockhart city limits. These PC’s are all Dell
+        products, and all have been replaced recently by a City-wide upgrade. Windows 10
+        Professional is the prevalent operating system used on the workstations. The City currently
+        has an Office 365 tenant with 79 Office 365 Business licenses. The City deploys Symantec
+        as its prevalent anti-virus software and uses various versions of Windows software.
+
+        Experience in Public Safety Systems and Criminal Justice Information Systems (CJIS)
+        Security Policy preferred. IT vendor will have to pass CJIS certification. This experience
+        can be noted in the response. Additionally, all IT vendors having access to the City of
+        Lockhart Public Safety Servers must submit to a fingerprint and criminal history check
+        conducted by the Texas Department of Public Safety.
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                              3
+  III.    Services Required
+
+     This section summarizes the services to be provided to the City of Lockhart in this RFP.
+     The City is looking for a maintenance and support program to be designed under two major
+     categories. These categories are PREVENTIVE MAINTENANCE and AS NEEDED
+     MAINTENANCE, to accommodate departmental computer system activities and user
+     equipment performance. The City expects the vendor proposal to define, in detail, the
+     approach to be used in the above categories. Distinction of time and material costs for
+     these efforts are important to billing the City and future budget considerations.
+
+          1. Desktop Applications Support – Perform basic support functions including
+             installing PCs, laptops, printers, peripherals, and office automation software;
+             diagnosing and correcting desktop application problems, configuring laptops and
+             desktops for standard applications and identifying and correcting end user
+             hardware problems, and performing advanced troubleshooting. Maintain an up-
+             to-date inventory of all City computer related hardware and make available to
+             City personnel upon request. Assist designated City personnel with software and
+             hardware purchases. Assist in development of software/hardware policies and
+             procedures. Implementation of HELP Desk procedures, maintenance of records
+             for all HELP Desk tickets for on-site visits, remote support and telephone support
+             is available.
+
+          2. Server Administration Services – Managing computer systems and networks
+             to include complex application, database, messaging, web and other servers and
+             associated hardware, software, communications, operating systems necessary
+             for the quality, security, performance, availability, recoverability, and reliability of
+             the system. Ensure scheduled preventive maintenance for equipment is properly
+             and promptly performed; maintain the maintenance records of the equipment;
+             develop operations, administrative, and quality assurance back-up plans and
+             procedural documentation.
+
+              Setup new users and edit or remove existing users on server(s). Server
+              performance and capacity management services with reporting when specified
+              thresholds are reached.       Configuration management, including changes,
+              upgrades, patches, etc. Support of specialized software of the City of Lockhart
+              as it relates to the server(s) and associated hardware. Management of user
+              logins and security. Coordinate repair and maintenance work with contracted
+              repair vendors and ensure repairs are conducted in a timely fashion.
+
+          3. Network Administration Services – Scope of activity includes all City network
+             equipment including switches, firewalls, routers, and other security devices.
+             Primary installation and maintenance of printers, scanners, faxes and network
+             devices. Primary maintenance including regular analysis, routine configuration
+             changes, and installation of patches and upgrades. Alert notifications to
+             designated City personnel in the event of failure. Complete proactive monitoring
+             of network equipment including bandwidth utilization, and other performance
+             indicators, with reporting when specified thresholds are reached. Network
+             performance and capacity management services, and network troubleshooting.
+             Maintain network documentation and procedures.
+
+          4. Security – Maintenance of virus detection programs of City servers, email and all
+             other City computers and laptops. Perform security audits as requested and
+             notify City personnel immediately of suspected breaches of security or instruction
+             detection. Configure City system to enable remote access in a secure
+             environment and provide remote access administration as requested by
+             designated City personnel. Configuration of the City systems to enable remote
+             access in a secure environment, with provisions for remote access
+             administration, as requested by the City Designee is required.
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                             4
+                Requirements for a data backup policy, with procedures in place to handle daily,
+                weekly, and monthly backup of the computer, data and information, email, and
+                the like; program to restore systems and data if servers and/or computers go
+                down, are required.
+
+            5. Strategic Planning – Engineering, planning, and design services for major
+               system enhancements, including installations and upgrades of new or existing
+               systems. Examples include major server upgrades, storage system upgrades,
+               redesign of backup systems, etc. Provide technical leadership for server
+               technology issues. Make recommendations for future purchasing and technology
+               needs. Install new PCs, servers, software and hardware and transfer data when
+               acquired. Strategic planning, design, and installation/upgrade of core network
+               systems. Examples include major network upgrades, provider changes, IP
+               schema redesign, installation of “core” network devices, etc.
+
+  IV.       Submittal Requirements
+
+        The following information shall be required in the RFP submittal:
+
+            1. Letter of Transmittal – The letter is not intended to be a summary of the
+               proposal itself. The letter of transmittal must contain the following statements
+               and information:
+
+                  a. Company name, address, and telephone number(s) of the firm submitting
+                     the proposal.
+                  b. Name, title, address, e-mail address, and telephone number of the person
+                     or persons to contact who are authorized to represent the firm and to
+                     whom correspondence should be directed.
+                  c. Federal and state taxpayer identification numbers of the firm.
+                  d. Briefly state your understanding of the services to be performed and make
+                     a positive commitment to provide the services as specified.
+                  e. The letter must be signed by a corporate officer or other individual who is
+                     legally authorized to bind the applicant to both its proposal and cost
+                     schedule.
+                  f. State which indicates “proposal and cost schedule shall be valid and
+                     binding for Ninety (90) days following proposal due date and will become
+                     part of the contract that is negotiated with the City.”
+
+            2. General Vendor Information – Please provide the following information:
+
+                  a. Length of time in business
+                  b. Length of time in business of providing proposed services
+                  c. Total number of clients
+                  d. Total number of public sector clients
+                  e. Number of full-time employees and area of involvement: Technical
+                     Support, Programming, Consulting, Sales Support, Administrative Support
+                  f. Location of office service the account
+                  g. Small, Minority-owned, and Woman-owned business, if applicable
+
+            3. History of Experience
+
+                Describe how your firm is positioned to provide the services listed above and
+                provide a history of experience of providing similar services.
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                        5
+        4. Methodology
+
+            Description of the approach the firm will use in providing the services requested.
+            Description of how the firm is positioned to provide the services requested, with a
+            history of experience on providing similar services.
+
+        5. References
+
+            Provide the name, title, address, and telephone number of three references for
+            clients whom you have provided similar services. Please provide information
+            referencing the actual services provided, number of users, and the length of
+            tenure providing services to this client.
+
+        6. Staff Resources
+
+            Identify key personnel who will provide the information technology services.
+            Summarize the experience and technological expertise of these staff.
+
+        7. Support Services – Please answer the following:
+
+              a. Help Desk Description
+              b. Support availability (days of the week and time, including how you will deal
+                 with after hours and weekend calls)
+              c. Structure of charges for support
+              d. Steps for resolving problem escalation
+              e. Final authority regarding conflicts
+              f. Response time and goal for resolving problems
+
+        8. Additional Services
+
+            Beyond the scope of this RFP, what services (related or otherwise) does your
+            organization provide that may be of interest to the City?
+
+        9. Proposal Summary
+
+            Summarize your proposal and your firm’s qualifications. Include other pertinent
+            information that helps the City determine your overall qualifications.
+
+        10. Cost of Services
+
+              a. The proposal must contain a fee schedule that includes either a fixed fee or
+                 hourly rates for proposed services.
+              b. Describe how your services are priced, and any specific pricing you are
+                 able to provide.
+              c. Define any additional charges (e.g. trip charges).
+              d. Do you have any state contracts that the City of Lockhart would be able to
+                 utilize?
+
+        11. Draft Contract Language
+
+              a.    The vendor shall submit a draft contract.
+
+  V.    Evaluation Criteria and Process
+
+
+        The Finance Department will review the vendors’ qualifications. From this review, an
+        evaluation and selection process will be completed using the following criteria as a
+        benchmark for making a recommendation. The City Council will award the contract to
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                       6
+         the vendor who provides a proposal that it determines provides the best value for the
+         City. The criteria are shown below and are listed in relative order of importance:
+
+         ➢   Experience
+         ➢   Understanding of services to be provided
+         ➢   Personnel expertise
+         ➢   Response Time
+         ➢   Pricing
+         ➢   Satisfaction of clients/end users
+
+  VI.    Deadline for Submissions of Proposals
+
+         One (1) original and three (3) sealed copies of the proposal must be received by the
+         City of Lockhart prior to 2:00 P.M. on October 31, 2019. All copies of the proposal
+         must be under sealed cover and plainly marked as “Information Technology
+         Managed Services Proposal”. Proposals shall be delivered or mailed to:
+
+             City of Lockhart
+             IT Managed Services Proposal
+             308 W. San Antonio St.
+             Lockhart, Texas 78644
+
+         Any questions regarding this proposal are to be submitted no later than 10:00 A.M.
+         on October 30, 2019, to:
+
+             Information Technology
+             City of Lockhart
+             308 W. San Antonio St.
+             Lockhart, Texas 78644
+             (512) 398-3461 ext. 229
+             plarison@lockhart-tx.org
+
+
+  VII.   General Information
+
+         1. The City of Lockhart reserves the right to reject any and all proposals for failure
+         to meet the requirements contained herein, to waive any technicalities, and to select
+         the proposal which, in the City’s sole judgment, best meets the requirements of the
+         project.
+
+         2. The RFP creates no obligation on the part of the City to award a contract or to
+            compensate the proposer for any costs incurred during proposal presentation,
+            response, submission, presentation, or oral interviews (if held). The City reserves
+            the right to award a contract based upon proposals received without further
+            discussion or negotiation. Proposers should not rely upon the opportunity
+            to alter their qualifications during discussions.
+
+         3. The City further reserves the right to make such investigation as it deems
+            necessary to determine the ability of proposers to furnish the required services,
+            and proposers shall furnish all such information for this purpose as the City may
+            request.
+
+         4. Proposers must specifically identify any portions of their submittals deemed to
+            contain confidential or proprietary information, or trade secrets. Those portions
+            must be readily separable from the balance of the proposal. Such designations
+            will not necessarily be conclusive, and proposers may be required to justify why
+            the City Council should not, upon written requests, disclose such materials.
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                       7
+                                        ATTACHMENT A
+                       SUBMITTAL COVER / SIGNATURE SHEET
+                                                                   Request For Proposal Title
+                                                                INFORMATION TECHNOLOGY
+ISSUE DATE:                              October 10, 2019
+                                                                    MANAGED SERVICES
+
+
+DATE OF CLOSING:                          October 31, 2019       DEPARTMENT:
+TIME OF CLOSING:                           (No later than)      FINANCE
+                                           2:00 p.m. CDT        DEPARTMENT
+
+
+                                 City of Lockhart
+SUBMIT TO:                       308 W. San Antonio
+                                 Lockhart, TX 78644
+
+
+
+READ AND SIGN BELOW. UNSIGNED COVER SHEETS WILL NOT BE ACCEPTED.
+Legal Name of Firm:
+Address:
+City:
+State:                                                                     Zip Code:
+Contact Person:
+Office Phone Number:      Alternate Phone Number:
+E-Mail Address:    Fax Number:
+
+
+
+
+Signature of Authorized Individual                           Name of Authorized Individual
+
+
+
+Date                                                          Title of Authorized Individual
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                    8
+                                    ATTACHMENT B
+
+Regulatory Compliance and Criminal History Warranty; Acknowledgement
+                                 of
+              Fiduciary Duty Owed by Contractor to City
+      (a)     Compliance. Histories, Warranty, Fiduciary Duty, Discretionary
+      Termination. The successful bidder [proponent] must demonstrate to the City’s
+      satisfaction that bidder [proponent] has clean environmental, criminal, and other
+      compliance histories with state, federal, and local agencies or authorities. By
+      submission of a bid or proposal in response to this solicitation, bidder [proponent]
+      Warrants to the City that he / she / it (in the case of a corporation or other legal entity),
+      including advisors, executive and supervisory employees, agents and
+      representatives, are in good stead with all regulatory authorities that may have
+      interests in or jurisdiction over the work activity or service bid [proposed] by the
+      Contractor. Regulatory interest or jurisdiction may go directly to the Contract activity in
+      question, to potential consequences of the activity, or indirectly to any regulated matter
+      that may reflect upon the Contractor’s competency and integrity. The City relies upon
+      Contractor’s Warranty and shall treat the Contractor as having a special fiduciary
+      duty to the City in this respect due to potential for environmental, third party, and
+      other regulatory liabilities which may attend this Contract, including but not limited to
+      regulatory criminal responsibility. Contractor acknowledges such fiduciary duty to the
+      City, promising a high standard of performance and best efforts to protect the public
+      interest against consequences of environmental mishap. Contractor warrants that no
+      matters pertaining to violations, notices of violation, or notices of regulatory concern
+      are now pending against Contractor or those persons (employees / affiliates) of concern
+      mentioned above; and that no civil or criminal litigation, and no manner of
+      enforcement activity, however preliminary, is pending against Contractor or those
+      persons, regardless of category or class of violation or potential violation. If any such
+      matters are pending, Contractor must reveal and explain those matters in writing at
+      the time his / her / its bid [proposal] is tendered to the City. If any such matters have
+      been resolved, during the last five (5) years, Contractor must similarly reveal and
+      explain same to the City with the bid [proposal] submission. The City retains the
+      right to determine, according to its discretion, whether or not a pending, unresolved,
+      or resolved enforcement issue or criminal matter concerning Contractor, its
+      operations, or employees / agents / representatives may impact the responsible
+      status of Contractor, i.e., render the Contractor unqualified, or detract from
+      Contractor’s competency standing. In reliance on Contractor’s Warranty, the City
+      reserves to itself the right to terminate the Contract, without further obligation upon
+      the City and without further recourse or remedy for the Contractor except that the City
+      shall duly pay Contractor for work or services performed to date of termination,
+      should the City determine, following award of the Contract that Contractor failed to
+      reveal and explain to the City's satisfaction any such matters having regulatory or
+      criminal import or implications.
+
+      (b)     Criminal Histories. Pending and Resolved; Termination. Contractor must
+      disclose and explain in writing any pending criminal matters associated with his / her
+      / its business operation. This disclosure goes to Contractor’s person, and to all
+      persons working for Contractor in a supervisory, advisory, executive, agency, or in
+      any representative capacity or manner associated with Contractor’s business
+      enterprise, which person(s) have any criminal enforcement action pending against him
+      or her, regardless of class or category of alleged violation which may be pending,
+      however preliminary, including investigation. And concerning resolved criminal
+      matters,
+      Contractor must make similar written disclosures and explanations for the same
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                           9
+      category of persons, which disclosures and explanations concern any criminal
+      enforcement action that may have been resolved against such persons during the
+      last five (5) years. Failure to make such disclosures and explanations, with the
+      submission of the bidder’s [proponent’s] response to the City’s solicitation, shall be
+      grounds for the City’s termination of the Contract, should such information come to
+      the City’s attention after award of the contract; in which case, Contractor shall be
+      without recourse and remedy, except for the City’s payment to Contractor for services or
+      work performed up to date of termination.
+       (c)    Voidable Contract. Contractor’s failure to abide by disclosure and
+       explanation requirements, in (a) and (b), above, shall render the Contract
+       voidable at the City’s discretion, with no compensation due Contractor, if
+       concealed or undisclosed violations, or undisclosed or concealed investigations
+       leading to formal criminal charges, are of such portent, in the City’s judgment, as to
+       place the City in a position of regulatory or third party liability exposure, or shall
+       pose or result in a threat to the public health, safety, or welfare. Any sums paid
+       Contractor, in the event of a voided contract, shall be recoverable by the City, in
+       addition to and cumulative of any other legal or equitable remedies the City may
+       have. Contractor understands the City shall enjoy the termination and voidable
+       contract remedies set forth in paragraph (b) and this paragraph (c) due to the
+       fiduciary duty owing from Contractor to City and due to the City’s reliance on the
+       Contractor’s Warranty of Regulatory Compliance and clean Criminal History.
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                      10
+                                           ATTACHMENT C
+
+                            RESPONDENT’S QUESTIONNAIRE
+   a. Respondent Information: Provide the following information regarding the Respondent.
+      (NOTE: Co-Respondents are two or more entities proposing as a team or joint venture with each
+      signing the contract, if awarded. Sub-contractors are not Co-Respondents and should not be identified
+      here. If this proposal includes Co-Respondents, provide the required information in this Item #1 for each
+      Co-Respondent by copying and inserting an additional block(s) before Item #1.2. If Joint Venture or
+      Partnership, attach Joint Venture or Partnership Agreement.)
+
+  Respondent Name: _____________________________________________________________
+                               (NOTE: Give exact legal name as it will appear on the contract, if awarded.)
+
+  Principal Address: _____________________________________________________________________
+
+  City: ______________________________________ State: _________________Zip Code: ________________
+
+  Telephone No. : _______________________________ Fax No: ______________________________
+
+  Social Security Number or Federal Employer Identification Number: __________________________
+
+  Texas Comptroller’s Taxpayer Number, if applicable: ______________________________________
+    (NOTE: This 11-digit number is sometimes referred to as the Comptroller’s TIN or TID.)
+
+   Business Structure: Check the box that indicates the business structure of the
+   Respondent.
+
+       Individual or Sole Proprietorship If checked, list Assumed Name, if any:
+       Partnership
+       Corporation If checked, check one:  For-Profit               Nonprofit
+                           Also, check one:  Domestic               Foreign
+      Other: If checked, list business structure:             _______________________________________
+
+   b. Contact Information: List the one person who the City may contact concerning your
+   proposal or setting dates for meetings.
+
+   Name: ________________________________________________________________________
+
+   Address:
+
+
+
+
+   City: _____________________________________ State: _________________Zip Code: __________
+
+   Telephone No. : ______________________________ Fax No: ________________________
+
+
+   Email:
+
+   c. Does Respondent anticipate any mergers, transfer of organization ownership,
+   reorganization, or departure of key personnel within the next twelve (12)
+   months?
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                                       11
+4. Is Respondent authorized and/or licensed to do business
+     in Texas?
+   Yes        No          If “Yes”, list
+   authorizations/licenses.
+
+5. Where is the Respondent’s corporate headquarters located? ______________________
+
+
+6. Local Operation: Does the Respondent have an office located in Caldwell County, Texas?
+   Yes            No              If “Yes”, respond to a and b below:
+
+         a. How long has the Respondent conducted business from its Caldwell County
+         office?            Years              Months
+
+         b. _ State the number of full-time employees at the Caldwell County office.
+
+7. Debarment/Suspension Information: Has the Respondent or any of its principals been
+    debarred or suspended from contracting with any public entity?
+   Yes            No       If “Yes”, identify the public entity and the name and current phone number of a
+                             representative of the public entity familiar with the debarment or
+                             suspension and state the reason for or circumstances surrounding
+                             the debarment or suspension, including but not limited to the
+                             period of time for such debarment or suspension.
+
+
+
+
+  8. Bankruptcy Information: Has the Respondent ever been declared bankrupt or filed
+  for protection from creditors under state or federal proceedings?
+
+   Yes            No       If “Yes”, state the date, court, jurisdiction, cause number, amount of liabilities
+                             and amount of assets.
+
+   List here, any other names under which Respondent has operated within the last 10 years.
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                                 12
+                                       ATTACHMENT D
+                                LITIGATION DISCLOSURE
+Respond to each of the questions below by checking the appropriate box. Failure to fully and
+truthfully disclose the information required by this Litigation Disclosure form may result in the
+disqualification of your proposal from consideration or termination of the contract, once
+awarded.
+
+
+Have you or any member of your Firm or Team to be assigned to this engagement ever been
+indicted or convicted of a felony or misdemeanor greater than a Class C in the last five (5)
+years?
+
+Yes       No   
+Have you or any member of your Firm or Team to be assigned to this engagement been
+terminated (for cause or otherwise) from any work being performed for the City of Lockhart or
+any other Federal, State or Local Government, or Private Entity?
+
+Yes       No   
+Have you or any member of your Firm or Team to be assigned to this engagement been involved in
+any claim or litigation with the City of Lockhart or any other Federal, State or Local Government, or
+Private Entity during the last ten (10) years?
+
+Yes       No   
+If you have answered “Yes” to any of the above questions, please indicate the name(s)
+of the person(s), the nature, and the status and/or outcome of the information, indictment,
+conviction, termination, claim or litigation, as applicable. Any such information should
+be provided on a separate page, attached to this form and submitted with your
+proposal.
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                             13
+                                         ATTACHMENT E
+
+                             INSURANCE REQUIREMENTS
+Contractors performing work or services on City property or pub lic right-of-way for the City
+of Lockhart shall provide the City a certificate of insurance evidencing the coverages and
+coverage provisions identified herein. Contractors shall provide the City evidence that
+all subcontractors performing work or services have the same types and amounts of
+coverages as required herein or that the subcontractors are included under the contractor’s
+policy. The City, at its own discretion, may require a certified copy of the policy.
+
+All insurance companies and coverages must be authorized by the Texas
+Department of Insurance to transact business in the State of Texas and must be
+acceptable to the City of Lockhart.
+
+Listed below are the types and amounts of insurance required. The City reserves the right to
+amend or require additional types and amounts of coverages or provisions depending on the
+nature of the work.
+         Type of Insurance                   Amount of Insurance                    Provisions
+1. Workers’ Compensation               Statutory                           City to be provided a waiver
+2. Employer’s Liability                $100,000 each accident              of subrogation.
+3. Commercial General Liability to         $1,000,000 each occurrence,         City to be listed as additional
+   include coverage for the following:     $1,000,000 general aggregate;       insured and provided 30-day
+   a. Premises/Operations                                                      notice of cancellation or
+   b. Products/Completed Operations                       Or                   material change in coverage.
+   c. Independent Contractors
+   d. Personal Injury                      $1,000,000 combined single limits   City prefers that insurer be
+   e. Contractual Liability                                                    rated B+VI or higher by A.M.
+   f. Personal/Advertising Injury                                              Best or A or higher by
+   g. Medical Expenses                                                         Standard & Poors.
+   h. Fire Legal Liability
+
+
+
+4. Business Automobile Liability           Combined Single Limit for Bodily
+     a. Owned/leased vehicles              Injury and Property Damage of
+     b. Non-owned vehicles                 $1,000,000 per occurrence.
+     c. Hir ed v ehic les
+
+5. Crime/Employee Dishonesty               $250,000
+   (including monies and securities)
+
+6. Indemnification Bond*                   $250,000
+*If applicable.
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                             14
+                                     ATTACHMENT F
+
+                        INDEMNIFICATION REQUIREMENTS
+
+If selected to provide the services described in this RFP, Respondent shall be required
+to comply with the indemnification requirements set forth below:
+          RESPONDENT covenants and agrees to FULLY INDEMNIFY and HOLD
+HARMLESS, the CITY and the elected officials, employees, officers, directors, volunteers
+and representatives of the CITY, individually or collectively, from and against any and all
+costs, claims, liens, damages, losses, expenses, fees, fines, penalties, proceedings, actions,
+demands, causes of action, liability and suits of any kind and nature, including but not limited
+to, personal or bodily injury, death and property damage, made upon the CITY directly or
+indirectly arising out of, resulting from or related to RESPONDENT’s activities under this
+CONTRACT, including any acts or omissions of RESPONDENT, any agent, officer,
+director, representative, employee, consultant or subcontractor of RESPONDENT, and
+their respective officers, agents, employees, directors and representatives while in the
+exercise of performance of the rights or duties under this CONTRACT, all without however,
+waiving any governmental immunity available to the CITY under Texas Law and without
+waiving any defenses of the parties under Texas Law. IT IS FURTHER COVENANTED
+AND AGREED THAT SUCH INDEMNITY SHALL APPLY EVEN WHERE SUCH COSTS,
+CLAIMS, LIENS, DAMAGES, LOSSES, EXPENSES, FEES, FINES, PENALTIES,
+ACTIONS, DEMANDS, CAUSES OF ACTION, LIABILITY AND/OR SUITS ARISE IN ANY
+PART FROM THE NEGLIGENCE OF CITY, THE ELECTED OFFICIALS, EMPLOYEES,
+OFFICERS, DIRECTORS, VOLUNTEERS AND REPRESENTATIVES OF CITY, UNDER
+THIS CONTRACT. HOWEVER THE SCOPE OF INDEMNITY IMPOSED ON RESPONDENT
+BY THIS AGREEMENT DOES NOT EXTEND TO ACTIONS TAKEN BY RESPONDENT OR
+ITS AGENTS IN DIRECT RESPONSE AND IN COMPLIANCE WITH ORDERS AND
+DIRECTIONS GIVEN TO RESPONDENT AND IT AGENTS BY THE CHIEF OF POLICE OR
+HIS REPRESENTATIVE OR SENIOR FIREFIGHTERS IN CONTROL OF AN ACCIDENT
+SCENE.
+
+          It is the EXPRESS INTENT of the parties to this CONTRACT, that the INDEMNITY
+provided for in this section, is an INDEMNITY extended by RESPONDENT to INDEMNIFY,
+PROTECT and HOLD HARMLESS, the CITY from the consequences of the CITY'S OWN
+NEGLIGENCE, provided however, that the INDEMNITY provided for in this section SHALL
+APPLY only when the NEGLIGENT ACT of the City is a CONTRIBUTORY CAUSE of the
+resultant injury, death, or damage, and shall have no application when the negligent act of
+the City is the sole cause of the resultant injury, death, or damage. RESPONDENT further
+AGREES TO DEFEND, AT ITS OWN EXPENSE and ON BEHALF OF THE CITY AND IN
+THE NAME OF THE CITY, any claim or litigation brought against the CITY and its elected
+officials, employees, officers, directors, volunteers and representatives, in connection with
+any such injury, death, or damage for which this INDEMNITY shall apply, as set forth above.
+          However, given the industrial character, history, and intended use of the site, subject
+of this RFP, the foregoing contributory cause provision shall not relieve the RESPONDENT
+of the obligation to fully indemnify, defend, and hold harmless the CITY and all those persons
+recited above, according to the foregoing paragraphs, when the claim, demand, criminal or
+civil action, regulatory enforcement action, demand or direction for remediation is brought by
+an environmental regulatory agency or division, local, state, or federal, in which case THE
+SELECTED RESPONDENT SHALL INDEMNIFY, DEFEND, AND HOLD HARMLESS THE
+CITY, ITS ELECTED OFFICIALS, EMPLOYEES, OFFICERS, DIRECTORS                                 AND
+REPRESENTATIVES, FOR THE CITY’S ALLEGED OR PROVEN NEGLIGENCE EVEN
+WHEN THE CITY’S SOLE NEGLIGENCE MAY BE ALLEGED OR PROVEN.
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                         15
+        The provisions of this INDEMNIFICATION are solely for the benefit of the parties
+hereto and not intended to create or grant any rights, contractual or otherwise, to any other
+person or entity.
+
+        RESPONDENT shall advise the CITY in writing within 24 hours of any claim or
+demand against the CITY or RESPONDENT known to RESPONDENT related to or arising
+out of RESPONDENT’s activities under this contract and shall see to the investigation and
+defense of such claim or demand at RESPONDENT’s cost. The CITY shall have the right, at
+its option and at its own expense, to participate in such defense without relieving
+RESPONDENT of any of its obligations under this paragraph.
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                     16
+                                           ATTACHMENT G
+
+ CONFLICT OF INTEREST QUESTIONNAIRE                                                                         FORM          CIQ
+ For vendor or other person doing business with local governmental entity
+                                                                                                           OFFICE USE ONLY
+ This questionnaire is being filed in accordance with chapter 176 of the Local                           Date Received
+ Government Code by a person doing business with the governmental entity.
+
+ By law this questionnaire must be filed with the records administrator of the local
+ government not later than the 7th business day after the date the person becomes
+ aware of facts that require the statement to be filed. See Section176.006, Local
+ Government Code.
+
+ A person commits an offense if the person violates Section 176.006, Local
+ Government Code. An offense under this section is a Class C misdemeanor.
+ 1) Name of person doing business with local governmental entity.
+
+
+
+        2)         Check this box if you are filing an update to a previously filed questionnaire.
+
+         (The law requires that you file an updated completed questionnaire with the appropriate filing authority not later
+         than September 1 of the year for which an activity described in Section 176.006(a), Local Government Code, is
+         pending and not later than the 7th business day after the date the originally filed q uestionnaire becomes
+         incomplete or inaccurate.)
+
+
+      3)       Describe each affiliation or business relationship with an employee or contractor of the
+      local governmental entity who makes recommendations to a local government officer of the
+      local governmental entity with respect to expenditure of money.
+
+
+
+
+      4)        Describe each affiliation or business relationship with a person who is a local government
+      officer and who appoints or employs a local government officer of the local governmental entity that is
+      the subject of this questionnaire.
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                                                   17
+CONFLICT OF INTEREST QUESTIONNAIRE                                                           FORM        CIQ
+For vendor or other person doing business with local governmental entity                           Page 2
+
+5) Name of local government officer with whom filer has affiliation or business relationship.
+(Complete this section only if the answer to A, B, or C is YES.)
+
+This section, item 5 including subparts A, B, C & D, must be completed for each officer with
+whom the filer has affiliation or business relationship. Attach additional pages to this Form
+CIQ as necessary.
+
+     A. Is the local government officer name in this section receiving or likely to receive taxable income
+     from the filer of the questionnaire?
+         Yes         No
+     B. Is the filer of the questionnaire receiving or likely to receive taxable income from or at the
+     direction of the local government officer named in this section AND the taxable income is not from
+     the local governmental entity?
+           Yes           No
+
+     C. Is the filer of this questionnaire affiliated with a corporation or other business entity that the
+     local government officer serves as an officer or director, or holds an ownership of 10 percent
+     or more?
+           Yes           No
+
+
+     D. Describe each affiliation or business relationship.
+
+
+
+
+6) Describe any other affiliation or business relationship that might cause a conflict of interest.
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                                  18
+Signature of person doing business with the governmental entity                                        Date
+
+                                           ATTACHMENT H
+                          VENDOR ACKNOWLEDGEMENT FORM
+
+ THIS FORM MUST BE THE LAST PAGE OF YOUR ORIGINAL PROPOSALS AND COPIES!
+
+
+ The undersigned hereby certifies that he/she understands the specifications, has read the
+ document in its entirety and that the prices contained in this proposal have been carefully
+ reviewed and are submitted as correct and final. Vendor further certifies and agrees to
+ furnish any or all products/services upon which prices are extended at the price offered,
+ and upon conditions contained in the specifications of the proposal.
+
+ The following information must be filled out in its entirety for your proposal to be considered.
+
+
+ Company Name:
+
+ Address of Principal Place of Business:
+
+
+
+ Phone/Fax of Principal Place of Business:
+
+
+
+ Address, Phone and
+ Fax of Majority Owner
+ Principal Place of
+ Business:
+
+
+
+
+ E-mail Address of Representative: _______________________________________________
+
+
+
+ Authorized Representative:
+                                                Signature                                       Date
+
+
+
+                                 Printed Name
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP                                                                   19
+                          ATTACHMENT I
+                        City Hall Server Rack
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP     20
+                        Police Dept Server Rack
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP       21
+                         Library Network Rack
+
+
+
+
+INFORMATION TECHNOLOGY MANAGED SERVICES RFP     22
+

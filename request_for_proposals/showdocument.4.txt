@@ -1,0 +1,315 @@
+                                CITY OF RICHLAND HILLS, TEXAS
+
+
+
+                      REQUEST FOR PROPOSAL
+             INFORMATION TECHNOLOGY SUPPORT SERVICES
+Proposals will be received by the City of Richland Hills for Information Technology Support
+Services. Interested vendors should submit one original and 6 copies of their proposal
+response documentation in an envelope marked as follows:
+
+ IT SUPPORT SERVICES BID: DO NOT OPEN UNTIL SEPTEMBER 3RD AT 10:00 A.M.
+
+Please submit bids to:
+
+                         Eric Strong, City Manager
+                         City of Richland Hills
+                         3200 Diana Drive
+                         Richland Hills, Texas 76118
+
+
+Formal proposals must be received by Wednesday, September 3rd at 10:00 a.m., at
+which time bids will be publically opened and read aloud.
+
+Vendors are required to provide as much detail as possible in this proposal, regarding
+scope of services, approach to protecting and securing the technology used by City users,
+and their capability and experience. The City will utilize evaluation and selection criteria to
+determine an acceptable vendor. The City reserves the right to reject any or all proposals or
+to accept any proposal considered most advantageous, regardless of price.
+
+Copies of the Request for Proposal are available electronically at www.richlandhills.com.
+Proposals will be public information after bids are opened. Please direct all inquiries to
+Charles Fletcher at 817-616-3796 or cfletcher@richlandhills.com. Inquiries will be posted
+to the City of Richland Hills website (inquirers will not be identified, only the questions), with
+the associated answer. All vendors assume the sole responsibility for monitoring the
+website for questions and answers. The city bears no responsibility for vendors not
+receiving current information due to neglecting to check the current status of the proposal
+on the city website. Any changes or clarifications to the Request for Proposal will be
+posted exclusively on the city website.
+
+
+                                                                  2014 Richland Hills RFP IT Services
+                       REQUEST FOR PROPOSAL
+              INFORMATION TECHNOLOGY SUPPORT SERVICES
+
+1. INTRODUCTION
+The City of Richland Hills is requesting proposals from qualified, professional technology vendors for
+Information Technology Support Services. The qualified vendor would provide necessary technical
+services, which would enable the City to:
+
+       Protect and secure its technology facilities
+       Ensure the efficient operation of its data processing networks and related computer systems in its
+        defined user community
+       Enhance its quality of service for departments defined in the enclosed schedules
+       Minimize the spending and maximize the ROI for investment in technology
+
+The ideal vendor will resolve computer systems and network issues in accordance with standard and
+acceptable maintenance and support benchmarks. The successful vendor will be expected to organize
+HELP DESK service calls efficiently and to ensure that there is NO significant computer downtime during
+normal working hours, generally 7:30AM to 5:30PM, Monday through Friday, in addition to 24 hour
+operations for Public Safety. The vendor is expected to report on status of technology issues and
+communicate effectively with City departments.
+
+2. BACKGROUND INFORMATION
+The City of Richland Hills does NOT have an IT Department and is currently using an outside vendor
+service to provide maintenance and support on an as needed basis for employees.
+
+There are 12 Microsoft Windows servers being utilized throughout the City’s departmental
+infra-structure. These servers use a variety of software, and are both physical and virtual. They
+have various memory and hard drive sizing. Other detailed information about the specifications is
+available for review, as necessary.
+
+There are approximately 80 PC’s in the departmental areas to be covered under the service and support
+agreement with the successful vendor. These PC’s are located throughout nine different buildings, eight
+of which are on a centralized campus. The addresses and locations are available upon request. These
+PC’s vary by manufacturer, aging, specifications, software, and service pack versions. Windows 7
+Professional is the prevalent operating system used on the workstations. The City deploys VIPRE as its
+prevalent anti-virus software and uses various versions of Windows software.
+
+The detail describing the inventory more specifically is available to all bidding parties per request.
+
+Experience in Public Safety Systems and Criminal Justice Information Systems (CJIS) Security Policy
+preferred. This experience can be noted in the response. Additionally, all IT vendors having access to
+the City of Richland Hills Public Safety Servers must submit to a fingerprint and criminal history check
+conducted by the Department of Public Safety in Austin.
+
+3. SERVICES REQUIRED
+
+This section summarizes the services to be provided to the City of Richland Hills in this RFP. The City is
+looking for a maintenance and support program to be designed under two major categories. These
+categories are PREVENTIVE MAINTENANCE and AS NEEDED MAINTENANCE, to accommodate
+departmental computer system activities and user equipment performance. The City expects the vendor
+proposal to define, in detail, the approach to be used in the above categories. Distinction of time and
+
+                                                                          2014 Richland Hills RFP IT Services
+material costs for these efforts are important to billing the City and future budget considerations.
+
+
+
+
+    A. Initial Assessment
+    Review of the inventory, update network diagram, assessment of the system architecture and
+    equipment for efficiency, life expectancy, capacity, speed, and current processes, and make
+    recommendations for improving routine support criteria and eliminating emergency maintenance
+                                                                                       st
+    situations. A report of this initial assessment shall be submitted by November 1 , 2014 and each
+          st
+
+    July 1 as long as the contract is in force. This is to allow for necessary budget planning for the
+    upcoming year.
+
+    B. Desktop Application Support
+    Performance of basic support functions, including the installation of PC’s, laptops, mobile devices,
+    printers, peripherals, and office software; diagnosis and correction of desktop application problems,
+    configuring of PC’s, laptops and mobile devices for standard applications; identification and correction
+    of user hardware problems, with advanced troubleshooting as needed; maintenance of an updated
+    inventory of all related computer related hardware, to make available to City personnel upon request;
+    and implementation of HELP Desk procedures under policy constraints of the successful vendor.
+
+    C. Server and Workstation Administrative Services
+    Management of networks and computer systems, including complex applications, databases,
+    messaging, servers and associated hardware, software, communications, and operating systems,
+    necessary for performance, security, reliability, and recoverability of the systems.
+
+    Scheduling of preventive maintenance for equipment in the areas of coverage is properly and
+    promptly performed; maintenance of records for all HELP Desk tickets for on-site visits, remote
+    support and telephone support is available; development of operations and quality assurance for
+    backup plans and procedures are being followed.
+
+    Configuration management, including changes, upgrades, patches, etc. is maintained;
+    management of user login’s and password security is documented; and support of software
+    products relating to servers and workstations; timely response to repair and maintenance work for
+    the user.
+
+    D. Network Administration Services
+    Maintenance and support of network equipment, including switches, firewalls, routers,
+    and other security devices is included. Installation and maintenance of printers, scanners, network
+    devices et al; analysis, routine configuration changes, and installation of patches and upgrades; minor
+    cabling if needed; alert notifications in case of failure of equipment. Proactive monitoring of network
+    equipment, including performance indicators to report on threshold limitations; network performance
+    and capacity management services; continuous troubleshooting are required.
+
+    Maintenance of network documentation for daily, weekly, and monthly services is required.
+
+    E. Email, Security and Backup Efforts
+    Maintenance of City email accounts using the City domain, adding, changing, and/or deleting City
+    employee accounts as requested; maintenance of virus detection programs on the City servers and
+    user computers and laptops; performance of periodic security audits, including notification of
+    suspected breaches of security to the City designated person are required.
+
+    Configuration of the City systems to enable remote access in a secure environment, with provisions
+    for remote access administration, as requested by the City Designee is required.
+
+
+
+                                                                          2014 Richland Hills RFP IT Services
+    Requirements for a data backup policy, with procedures in place to handle daily, weekly, and
+    monthly backup of the computer, data and information, email, and the like; program to restore
+    systems and data if servers and/or computers go down, are required.
+
+    F. Planning
+    Engineering, planning, and design services for major system enhancements and/or upgrades to
+    existing systems; recommendations for future purchasing and technology needs, when requested
+    or necessary.
+
+    Installation of new equipment, software, and transfer existing data when acquired, will be needed.
+
+    G. Not Included
+    The contract to be awarded does not obligate the City to purchase computer equipment, hardware
+    devices, cabling, licenses, software et al from the successful vendor.
+
+
+4. SUBMISSION REQUIREMENTS
+The City is requesting that the proposal submitted address the subjects outlined in Section 3 herein with
+specificity. The City is looking for content, organized effort, and solution-oriented procedures. The
+goal is a secure, smooth operating, efficient process, and effective information technology system.
+
+Due to the nature of this proposal, it is requested that each proposal be brief and to the point and consist
+of no more than ten pages. Each proposal shall provide the following information:
+
+Letter of Transmittal:
+    The letter of transmittal must contain the following statements and information:
+         Company name, address, telephone number(s), and website.
+         Name, title, email address, and telephone number of the person(s) to contact and who are
+             authorized to represent the firm and to whom correspondence should be directed.
+         Federal and State taxpayer identification numbers of the firm.
+         A brief statement of your understanding of the services to be performed and make a positive
+             commitment to provide services as specified.
+         The letter must be signed by a corporate officer or person authorized to bind the vendor to
+             the proposal and cost schedule.
+         A statement indicating that the proposal and cost schedule will be valid and binding for ninety
+             (90) days following the proposal due date, and will become part of the contract negotiated
+             with the City.
+
+Profile:
+            1. Provide a short profile of the firm including at a minimum:
+                a) Length of time in business.
+                b) Length of time in providing proposed services.
+                c) Number of clients.
+                d) Number of clients in the public sector.
+                e) Number of full-time employees and area of involvement: Technical Support,
+                Programming, Consulting, Sales Support, Administrative Support
+                f) Location of office to service the account.
+                g) Small, Minority-owned, and Woman-owned business, if applicable.
+Proposal:
+
+    1. Description of the approach the firm will use in providing the services requested. Description of
+       how the firm is positioned to provide the services requested, with a history of experience on
+       providing similar services.
+    2. Name, title, address, and telephone number of three references for clients, whom similar services
+
+                                                                         2014 Richland Hills RFP IT Services
+         have been provided, including information referencing the actual services performed, number of
+         users, and length of tenure. References of other Public Sector clients would be beneficial.
+    3.   Naming of staff resources, with identification of principals and key personnel,
+             a. who are available to provide the services (The city prefers one primary point of contact or
+                   project manager);
+             b. experience and expertise of staff;
+             c. local availability of staff is an important consideration
+             d. role and responsibilities that each staff member will have.
+    4.   Support services questions to be addressed:
+             a. Help Desk Description
+             b. Support availability (days of week and time, including how you will deal with after hours
+                   and weekend calls)
+             c. Toll free number
+             d. Structure of charges for support
+             e. Steps for resolving problem escalation
+             f. Final authority regarding conflicts
+             g. Response time and goal for resolving problems
+    5.   Explanation of any contract termination for default or other incident in the past five years.
+         Termination for default is defined as notice to stop services for non-performance or poor
+         performance, and issue was either litigated or not litigated. If default occurred, list name, address,
+         and telephone number of the party. If NO such termination occurred for default, declare it. The
+         City will evaluate the facts, and may, at its sole discretion, reject the vendor’s proposal.
+    6.   Scope of services beyond the RFP that the firm provides which may be of interest to the City.
+    7.   Proposal summary, including why the firm is pursuing the work and how it is uniquely qualified to
+         perform the services.
+
+Draft Contract Language
+The vendor shall submit a draft contract.
+
+Reports
+The vendor shall submit service reports on a monthly basis, summarizing service and IT policy issues.
+The Vendor must be available to meet with the City Manager or designated staff member to review
+periodically scheduled reports and discuss issues.
+
+Cost of Services
+
+The City is requesting that the vendor submit a FIXED FEE service contract for ongoing maintenance
+items along with an hourly rate for troubleshooting, desktop maintenance and other projects for a twelve
+month period, with an option to renew for four successive twelve month periods. Each twelve month
+period must be shown separately. Payment schedule should also be included (ie monthly, bi-weekly,
+etc).
+
+As a bid alternate, vendor should also submit a FIXED FEE service contract for an all-inclusive service
+and maintenance, with the understanding that major projects will be negotiated on an as needed basis.
+
+Vendors may also submit other alternative packages that they feel would meet the needs of the City as
+an included alternate bid.
+
+    Vendors must list, specifically, any services which would not be covered in the proposal price. The
+    vendor shall indicate the impact, if any, of changes in the City’s IT infrastructure (number of servers
+    and PC’s) on the fixed fee. Identify the following for those services not under the fixed fee:
+                a) A fee schedule containing the vendor hourly rates
+                b) A description of how services will be billed
+                c) A description of additional charges, as in out-of-pocket expenses for travel,
+                     subsistence, etc.
+
+
+                                                                           2014 Richland Hills RFP IT Services
+5. Evaluation Criteria
+A selection committee, appointed by the City Manager, will review the vendors’ qualifications. From this
+review, an evaluation and selection process will be completed using the following criteria as a benchmark
+for making a recommendation. The City Council will award the contract to the vendor who provides a
+proposal that it determines provides the best value for the City. The criteria are shown below and are
+listed in relative order of importance:
+
+                   A. Approach and Methodology
+                   B. Project Staffing and Experience
+                   C. Pricing
+                   D. Satisfaction of Clients/End Users
+
+ A rating system will be used to evaluate the proposals based on the above criteria. The award of the
+ contract will be made to a firm, whose proposal receives a favorable evaluation and recommendation of
+ the selection committee, with final approval by the City Council. The City reserves the right to accept
+ whichever proposal is felt to be in the best interest of and provide the best value to the City of Richland
+ Hills as well as to reject any and all bids for any or no reason.
+
+6. Miscellaneous
+The City Council reserves the right to reject any or all proposals for failure to meet the requirements
+contained herein, to waive any technicalities, and to select the proposal which, in the Councils sole
+judgment, best meets the requirements of the program.
+
+The RFP creates no obligation on the part of the City to award a contract or to compensate the
+Bidder for any costs incurred during proposal presentation, response, submission, presentation, or
+oral interviews. The City reserves the right to award a contract based on proposals received without
+further discussion or negotiation. Vendors should not rely upon the opportunity to alter their
+qualifications during any discussions.
+
+The City further reserves the right to make such investigation as it deems necessary, to determine
+the capability of the vendors to furnish required services, and vendors shall furnish all such
+information for this purpose as the City may request.
+
+Vendors must specifically identify any portions of their submittals, deemed to contain confidential and
+proprietary information, or trade secrets. However, the vendor should also understand that
+information submitted may be subject to Texas Open Records Act Laws and may be disclosed if
+requested.
+
+All requests from the vendor for additional information must be made in writing (includes email), and this
+information provided will be made available to all vendors at the discretion of the City.
+
+
+
+
+                                                                         2014 Richland Hills RFP IT Services
+

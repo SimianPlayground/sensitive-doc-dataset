@@ -1,0 +1,592 @@
+United Planning Organization
+
+
+
+
+                          REQUEST FOR PROPOSAL
+
+                               RFP#2019-08
+
+             TECHNOLOGY ASSESSMENT SERVICES
+                                          Request for Proposal (RFP) Cover Page
+
+
+  Solicitation Issue Date: Tuesday, August 6, 2019
+
+  Solicitation Closing Date: Friday, September 6, 2019                    Solicitation Closing Time: 2:00 PM ( EST)
+
+  Issued By: United Planning Organization (UPO)
+
+  Address: 301, Rhode Island Ave, NW, Washington, DC 20001
+
+  Telephone Number: 202-238-4600
+
+  UPO is a non-profit agency in the District of Columbia founded in 1962 and is exempt from any state or federal tax.
+
+  Unless otherwise stated, the unit price shall be the net price. Separate unit and total prices must be shown, if applicable.
+
+  Unless otherwise stated, all quoted prices shall be Free On Board (FOB) headquarter address inside delivery.
+
+  Responses must be received on or before Friday, September 6, 2019, by 2:00 PM (EST.) in the Procurement Office, United
+  Planning Organization, 301 Rhode Island Avenue, NW, Washington, DC 20001 .
+  Electronic responses: Please submit one (1) copy each of the Technical and Price Proposals separately to
+  procurement@upo.org referencing “Technology Assessment Services” in the subject line.
+  For questions/information, please email Rizwanul Haque, Procurement Officer, at rhaque@upo.org referencing “Technology
+  Assessment Services” in the subject line. Your email will be answered within three (3) business days and will be posted on
+  UPO website. Questions/information must be emailed latest by COB on Friday, August 23, 2019.
+
+  United Planning Organization reserves the right to waive informalities or irregularities, to reject any or all proposals received,
+  to accept the proposal deemed best for the organization, and/or request new proposals if necessary.
+
+  Any objection to the above conditions must be clearly indicated in the proposals.
+
+  In compliance with this RFP and to all the conditions imposed herein, the undersigned offers and agrees to furnish the
+  services in accordance with the attached signed proposal or as mutually agreed upon by subsequent negotiation.
+
+  VENDOR IDENTIFICATION
+
+  Company Name:
+
+  Address:
+
+  Telephone:
+
+  Email:
+
+  Federal ID:
+
+         Print Name                         Title                 Authorized Signature                           Date
+
+
+
+
+RFP#2019-08 Technology Assessment Services                                                                            Page 2 of 17
+Table of Contents
+
+I.     PURPOSE .................................................................................................................................................................. 4
+
+II.    CONTRACT PERIOD AND RENEWALS .............................................................................................................. 4
+
+III. UNITED PLANNING ORGANIZATION (UPO) BACKGROUND ....................................................................... 4
+
+IV. SCOPE OF WORK .................................................................................................................................................... 4
+
+       A. Introduction ........................................................................................................................................................... 4
+       B. Assessment ............................................................................................................................................................ 5
+       C. Deliverables............................................................................................................................................................ 5
+
+V.     Information Technology Environment ...................................................................................................................... 5
+
+       A. Telephone Infrastructure ....................................................................................................................................... 6
+       B. Network Infrastructure .......................................................................................................................................... 6
+       C. Hardware................................................................................................................................................................ 6
+       D. Software ................................................................................................................................................................. 6
+
+VI. PROPOSAL REQUIREMENTS ............................................................................................................................... 7
+
+       A. General Requirements ......................................................................................................................................... 7
+       B. Special Requirements .......................................................................................................................................... 7
+       C. Proposal Response Format .................................................................................................................................. 8
+
+VII. EVALUATION CRITERIA ..................................................................................................................................... 9
+
+VIII. GENERAL TERMS AND CONDITIONS .............................................................................................................. 9
+
+
+APPENDICES ................................................................................................................................................................. 13
+
+Appendix - A:           Vendor Identification Form
+Appendix - B:           OTIS Organization Chart
+Appendix - C:           UPO Network Diagram
+
+
+
+
+RFP#2019-08 Technology Assessment Services                                                                                                                     Page 3 of 17
+  I.   PURPOSE
+
+       The purpose of this solicitation (RFP), is to invite proposals from qualified vendors to submit a
+       proposal to conduct a high level analysis and assessment of the United Planning Organization’s
+       (UPO) current state of technology infrastructure. The selected vendor will identify opportunities for
+       improvement and propose recommendations and a long term technology road map. The main
+       deliverable will be the completion of a Technology Assessment Report that shall include
+       recommendations for the effective implementation and integration of current agency technology
+       strategies and recommended technologies.
+
+
+ II.   CONTRACT PERIOD AND RENEWALS
+
+       The term of any contract resulting from this RFP will be six (6) months from the date of the fully
+       executed contract which is expected sometime in October 2019.
+
+
+III.   UNITED PLANNING ORGANIZATION (UPO) BACKGROUND
+
+       UPO is a 501(c) (3) private non-profit corporation and the designated Community Action Agency for
+       the District of Columbia DC), providing leadership, support and advocacy to empower low-income
+       residents of Washington, DC to become self-sufficient and self-determined. UPO is a major Head Start
+       grantee in the Nation's Capital spanning over a period of 50 years.
+
+       UPO serves as Washington, DC’s non-government human service organization that promotes self-
+       sufficiency and brings innovative ideas to the problem of poverty throughout the city. UPO operates a
+       wide array of special activities and offers many supportive and instructional services including:
+
+         Head Start, Early Head Start, and other childcare programs that make measurable differences in
+          the education of our youngest
+         Comprehensive youth services with scholarships for DC residents
+         Homeless transportation services
+         Training programs designed to prepare participants for skilled employment
+         Weatherization services to make homes more energy efficient
+         Substance abuse treatment programs that assist individuals in overcoming their addictions
+         Tax preparation and e-filing community based tax preparation services
+         Housing Counseling services that help alleviate predatory lending, and
+         Job placement and career development services
+
+
+IV.    SCOPE OF WORK
+
+       A.   Introduction
+
+       The vendor will assess the current state of UPO’s Information Technology resources, processes, tactical
+       plan, network, integration and Information System. Based on the assessment, the vendor will provide a
+
+
+
+ RFP#2019-08 Technology Assessment Services                                                       Page 4 of 17
+     recommended road map that will enable the Office of Technology and Information System to be more
+     effective and efficient in the delivery of UPO’s technology needs.
+     The selected vendor will meet with UPO’s executive team to understand UPO’s mission, vision, goals
+     and newly approved strategic plan. The selected vendor will work with the Office of Technology and
+     Information System, key stakeholders and divisions to understand their needs.
+
+     B.        Assessment
+
+     The assessment will evaluate current Information Technology processes and service delivery for all of
+     UPO’s divisions and perform a risk analysis. The vendor will benchmark UPO Information Technology
+     and Information System against similar size non-profit organization in relation to industry best
+     practices. The vendor will propose emerging technology that fits UPO needs based on a five year
+     strategic plan. The emerging technology will focus on improving processes, service delivery,
+     optimization and reducing risk. The assessment should provide quantitative information to make a
+     decision regarding the current operation and potential solution for future changes.
+     The final technology assessment report should focus on the current state of the benchmarking analysis
+     and the emerging technology analysis. These areas should cover the following but not limited to:
+          1. Information Technology Risk Assessment – Based on industries standards, identify potential
+             network and system vulnerabilities.
+          2. Information System – Review existing enterprise Information System offerings and identify
+             opportunities for an emerging alternative to the current system that will improve operation and
+             service delivery.
+          3. Information Technology Infrastructure – Review existing network and security infrastructure to
+             identify areas for improvement and potential migration to cloud solution.
+          4. Personnel – Review and evaluate the current IT office organizational structure, staffing level,
+             positions and provide a recommendation for current and future growth.
+          5. Cost Analysis – Given the assessment detailed, assess the current IT budget as it relates to the
+             current operation and service delivery and projects the cost, personnel, and timeframe to
+             implement the recommendation of the assessment.
+
+     C.        Deliverables
+
+     The project deliverables will consist of the following:
+          1.    A project management plan within15 days of the executed contract.
+          2.    Provide all source documentation used to guide the technology assessment.
+          3.    Technology Assessment report addressing the Scope of Work.
+          4.    Presentation of the final report to the Executive team and Office of Technology and Information
+                System.
+
+
+V.   Information Technology Environment
+
+     The Office of Technology and Information System has an Information Technology team comprised of
+     six personnel which is outlined in Appendix A. The team provides technical, upgrade and support
+     maintenance for the entire organization’s information technology infrastructure. UPO has a mixture of
+     on-premise and cloud solutions. UPO has twenty-one office locations throughout the city of
+     Washington DC. The Office of Technology and Information System is located at the HQ office. There
+     are five service-centers and fifteen daycare center locations.
+
+
+
+RFP#2019-08 Technology Assessment Services                                                        Page 5 of 17
+     A. Telephone Infrastructure
+     UPO has a VoIP phone system to provide telecommunications service for the organization. The VoIP
+     system is configured for redundancy with a separate phone system at two UPO location. Each VoIP
+     phone system has a separate 10MB access from ISP at each location with a 10MB private link between
+     the two VoIP phone systems.
+
+     B. Network Infrastructure
+     UPO network infrastructure design is a star topology for both physical and logical network as depicted
+     in Appendix C. The WAN network is a star topology with 13 of the remote locations connect to the
+     central headquarter office via VPN or Point-To-Point connection. Each LAN is segmented using
+     VLAN to separate the data and voice traffic.
+
+     C. Hardware
+     UPO hardware standardization policy was put in place to minimize IT costs within the organization by
+     using similar hardware vendor across all computers, laptops, printers, and servers. The Office of
+     Technology and Information system also maintain a few different models from the hardware vendor.
+     For the past couple of years,
+
+     The organization’s hardware encompasses:
+         71 physical and virtual servers
+         484 laptops and desktops
+         97 printer and MFP devices
+         20 switches
+         11 firewall appliances and management server
+         234 VoIP phones
+         31 Wireless AP
+         Nimble SAN
+
+     D. Software
+     UPO utilizes a number of standard and specialized software to support all of the programs and
+     administrative offices. Microsoft Windows OS and Office, Adobe Acrobat Reader, Endpoint Security
+     are the standard software application for all computers and servers. Apart from the list of standard and
+     specialized software, UPO utilizes a number of SaaS solution that is program or administrative office
+     specific.
+
+     List of software currently in use:
+          ADP – Payroll and time tracking solution
+          CASA – Custom client data tracking system.
+          Carbonite Evault Backup – backup solution.
+          GFI Mail Essential and Archiver – Spam filter and email archive solution.
+          K2 – online form and process automation solution.
+          Lansweeper – IT asset management solution.
+          Microsoft Exchange – Email solution.
+          Microsoft Dynamic SL – Accounting system
+          Microsoft Hyper-V – Virtual environment solution.
+          Microsoft Lync – Instant Messaging and meeting tool.
+
+            Microsoft SharePoint – Intranet and document repository.
+
+RFP#2019-08 Technology Assessment Services                                                       Page 6 of 17
+            Microsoft SQL – Database server
+            Microsoft System Center Configuration Manager – Computer and software management
+             solution
+            Microsoft System Center Service Manager – Service ticketing solution.
+            Microsoft VDI – Remote access solution
+            Prophix – Program and finance reporting tool
+            SolarWinds – Network monitoring tool
+
+
+VI. PROPOSAL REQUIREMENTS
+
+     A. General Requirements
+
+          1. In order to be considered for selection, bidders must submit a complete response to this RFP in a
+             sealed envelope or package. One (1) original and three (3) copies of each proposal must be
+             submitted to UPO. Email submission to procurement@upo.org is acceptable and is the
+             highly desirable method of submission. No other distribution of the proposals shall be made
+             by the bidder.
+
+             NOTE: A bidder may submit no more than one (1) proposal in response to this RFP.
+
+          2. Proposals shall be signed by an authorized representative of the bidder. All information
+             requested should be submitted. Failure to submit all information requested may result in the
+             organization requiring prompt submission of missing information and/or giving a lowered
+             evaluation of the proposal. Proposals which are substantially incomplete or lack key
+             information may be rejected by UPO.
+
+          3. Proposals should be prepared simply, as thorough and detailed as possible providing a
+             straightforward, concise description of capabilities to satisfy the requirements of the RFP so that
+             UPO may properly evaluate bidder's capabilities to provide the required service. Emphasis
+             should be placed on completeness and clarity of content.
+
+          4. All responses are to be submitted on standard 8.5” X 11” paper in 12 point font minimum type.
+             Proposals should not be double-sided. Bidders shall respond to the items in the order they are
+             shown in the RFP. The responses should describe the most favorable terms and shall remain
+             firm for 120 days from the bid opening date. Prices should be submitted exclusive of all federal,
+             state, and local taxes.
+
+          5. Each copy of the proposal should be contained in a single volume where practical. All
+             documentation submitted with the proposal should be contained in that single volume.
+
+          6. Ownership of all data, materials and documentation originated and prepared for this RFP by any
+             bidder shall belong exclusively to UPO.
+
+     B. Special Requirements
+
+          1. All pages of the proposal should be numbered and the following are typical services and/or
+             items that a successful bidder will be required to provide to UPO, if awarded the contract, and
+             should be addressed in the bidder’s proposal in the following order:
+
+
+
+
+RFP#2019-08 Technology Assessment Services                                                        Page 7 of 17
+             a. Completed and signed RFP cover page.
+             b. Completed and signed Vendor Identification Form (included as Appendix A to the RFP).
+             c. Copy of current business license.
+             d. Copy of current certificate of insurance with coverage of the minimum required in this RFP.
+             e. List of at least three comparable work/client references to include organization name, brief
+                description of the project, and contact person’s name, telephone number, and email address;
+                preferably including a community based non-profit organization.
+             f. A written proposal - narrative statement to include at a minimum: (1) experience in providing
+                the goods and/or services described herein, (2) a description that the bidder understands UPO’s
+                requirements and how the work will be performed, (3) a detailed proposal that meets the RFP
+                requirement, and
+             g. Quoted cost of services i.e. Pricing Proposal (to be submitted separately).
+
+          2. Proposals that are not organized in this manner risk elimination from consideration, if the
+             evaluators are unable to find where the RFP requirements are specifically addressed.
+
+     C. Proposal Response Format
+
+          1. Executive Summary
+
+              This section is intended to provide the proponent with an opportunity to provide an
+              “executive” level overview of their proposal, emphasizing any unique aspects or strengths of
+              the proposal. The Executive Summary should include a brief description of the proposed
+              methodology for the technology assessment; including its capabilities as they would meet
+              UPO’s requirements, as well as a sample project schedule for a similar assessment in terms of
+              scope and size.
+
+          2. Company Background
+
+              Please provide a brief company history including all of the following points:
+               Identify the primary point of contact for this proposal and the subsequent project. Please
+                  include name, email, phone number, and any applicable credential information.
+               Identify all company office locations and total number of employees.
+               A summary of a listing of agencies in which your firm has provided similar IT Assessment
+                  services.
+               Identify the names of principal staff and key personnel who will provide the service. Please
+                  submit resumes or qualifications for each key staff person, summarizing their experience and
+                  expertise. Describe each person’s role and responsibility with the project.
+           3. Scope of Service
+                 Provide a detailed description of the approach and methodology to be used to accomplish the
+                  Scope of Work of this RFP.
+                 Outline the processes to complete each of task in the IV. Scope of Work - section B of the
+                  RFP.
+                 Provide an explanation of the approach to acquire the data necessary to complete the Scope
+                  of Work.
+
+
+
+
+RFP#2019-08 Technology Assessment Services                                                        Page 8 of 17
+          4. Project Management
+                 The selected vendor (Contractor) shall be invited for a kickoff meeting, no later than 15 days
+                  following the award of the contract.
+                 The Contractor shall provide the project schedule with detailed timeline and a complete
+                  description of the key activities required for the installation of the proposed system.
+                 The Contractor shall provide written updates on the project on a weekly basis.
+
+
+VII. EVALUATION CRITERIA
+
+       1. All proposals will be reviewed to determine if they adhere to the format and instructions of the
+          RFP, meet the criteria indicated below and conform to the objectives and requirements of the
+          RFP. An evaluation team will evaluate the merit of proposals received in accordance with criteria
+          outlined in this RFP. Incompleteness, significant inconsistencies or inaccuracies found within a
+          response may result in a reduction of the evaluation rating.
+
+       2. UPO reserves the right to: (a) waive variances or reject any or all proposals, and (b) request
+          clarifications from any or all proposers. Further, UPO reserves the right to reject any or all
+          proposals and to waive informalities and minor irregularities and to accept any portion of a
+          proposal or all items proposed if deemed to be in the best interest of UPO.
+
+       3. Proposals shall be rejected if they: (a) are received after closing date and time, (b) are not properly
+          sealed, (c) contain alterations not initialed by an authorized official, (d) are not meeting
+          specifications, and (e) are not meeting the general terms and conditions.
+
+       4. If an award is made as a result of this RFP, it shall be awarded to the highest-ranked proposal
+          which is considered most advantageous to UPO with respect to technical and price factors
+          combined together.
+
+       5. Proposals will be evaluated on the basis of following criteria:
+           a. Adherence to RFP: The bidder adheres to the instructions in this RFP on preparing and
+              submitting the proposal.
+           b. Qualifications and Experience: The bidder's past experience and performance on comparable
+              engagements.
+           c. Reasonableness of Cost: A total dollar amount for the service requested and the detailed
+              breakdown provided with the proposal, if applicable.
+
+
+VIII. GENERAL TERMS AND CONDITIONS
+
+       1. Additions and/or Deletions of Service: UPO reserves the right to add and/or delete goods or
+          services to any contract entered into with the contractor. Should a service requirement be deleted,
+          payment to the contractor shall be reduced proportionally to the amount of service reduced in
+          accordance with the bid price. Should additional services be required from the contract, prices for
+          such additions will be negotiated between the contractor and UPO.
+       2. Termination of Contract: The contract may be terminated by either party at any time upon sixty
+          (60) days written notice from the terminating party. Cancellation of the contract by either party
+          shall in no way relieve the contractor of its responsibility to complete any and all work in progress
+          at the time of the notice and for which payment has been received by the contractor.
+
+
+RFP#2019-08 Technology Assessment Services                                                         Page 9 of 17
+       3. Licenses: By submitting a proposal, proposer certifies that it has procured, and shall maintain in
+          full force, all permits and licenses required to conduct its business lawfully and that it shall
+          remain informed of and in compliance with all federal and local laws, ordinances and regulations
+          that affect in any manner contractor’s fulfillment of the contract.
+       4. Anti-Kickback Provision: This contract is subject to the provisions of the Anti-Kickback
+          Enforcement Act of 1986. By agreeing to this binding agreement, the transacting parties (1)
+          certify that they have not paid kickbacks directly or indirectly to any employee of UPO for the
+          purpose of obtaining this or any other agreement, purchase order or contract from UPO and (2)
+          agree to cooperate fully with any Federal Agency investigating a possible violation of the Act.
+       5. Non-Collusion/Fraud: By submitting a proposal, proposer warrants and certifies that neither the
+          proposer nor its employees or associates has contacted any unauthorized UPO employee, officer
+          or elected official regarding the contents of this solicitation or the solicitation process. Proposer
+          further warrants and certifies that neither proposer nor its employees or associates has directly or
+          indirectly entered into any agreement, participated in any collusion, or otherwise taken any action
+          in restraint of free competitive bidding in response to this solicitation. If at any time it shall be
+          found that proposer or its employees or associates has, in the presenting of its proposal, colluded
+          with any other party or parties for the purpose of preventing or restricting free competitive
+          bidding, its proposal shall be immediately rejected. Any contract awarded prior to the UPO’s
+          discovery of proposer’s collusion shall be terminated and proposer shall be liable for all of its
+          damages sustained by the UPO as a result of proposer’s collusion.
+       6. Equal Opportunity: The proposer agrees not to discriminate against any employee or applicant for
+          employment on account of any services, or activities made possible by or resulting from this RFP
+          on the grounds of actual or perceived sex, race, color, religion, national origin, age, marital status,
+          disability, personal appearance, sexual orientation, gender identity or expression, familial status,
+          family responsibilities, matriculation, political affiliation, genetic information, source of income,
+          place of residence or business, veteran status or any other characteristic protected under federal or
+          District law. Any violation of this provision shall be considered a violation of a material provision
+          of this agreement and shall be grounds for cancellation, termination or suspension in whole or in
+          part of the agreement by UPO which may result in ineligibility for further UPO contracts. The
+          proposer shall at all times in the proposal and contract process comply with all applicable UPO,
+          DC, and federal anti-discrimination laws, rules, regulations and requirements thereof.
+       7. Right to Audit: UPO shall have the right to audit all invoices submitted by the contractor. The
+          organization shall have the right to audit all relevant data upon which the contractor’s fees are
+          based.
+       8. Informal Communications: From the date of receipt of this RFP by each contractor until a binding
+          contractual agreement exists with the selected contractor and all other proposers have been
+          notified, or when UPO rejects all proposals, informal communications regarding this procurement
+          shall cease. There shall be no requests from proposers to any Office or Department at UPO with
+          the exception of contact for information, comments, etc., and they shall be emailed.
+       9. Formal Communications: From the date of receipt of this RFP by each proposer, until a binding
+          contractual agreement exists with the selected contractor, and all other proposers have been
+          notified, or when UPO rejects all proposals, all communications between UPO and the proposers
+          will be formal emails.
+       10. Costs Incurred: Any costs incurred by proposers in preparing or submitting a proposal or
+           subsequent oral presentation/demonstration shall be the proposer's sole responsibility.
+       11. Small/Minority Firms: Pursuant to Federal Acquisition Regulations and UPO’s procurement
+           policy, UPO may offer contracting opportunities to small and minority firms, women’s business
+           enterprises and labor surplus area firms to the extent possible.
+
+
+RFP#2019-08 Technology Assessment Services                                                        Page 10 of 17
+       12. Federal, State and Local Taxes: UPO is exempt from State and federal taxes. Such taxes shall not
+           be included in quoted prices, but if any taxes are known by the contractor to apply, they shall be
+           shown separately. If not so shown, they shall be considered an expense of the proposer and
+           deemed a part of the quoted prices.
+       13. Payments Terms: Preferred invoice payment terms will be 2% 10, net 30 days from date of
+           invoice. In the event there is a discrepancy between the order and the invoice, payment terms shall
+           be effective starting on the date the discrepancy is resolved. Monies due or to become due to the
+           contractor under the contract may be retained by UPO as necessary to satisfy any outstanding
+           claim which UPO may have against the contractor. At any time or times before final payment and
+           three year thereafter, UPO may have the contractor’s invoices or vouchers and statement of cost
+           audited.
+       14. Indemnification: Contractor shall indemnify, protect, defend and hold harmless UPO, its
+           directors, officers, employees, and representatives from and against any and all claims arising
+           from or connected with: (1) any alleged or actual breach by bidder or (2) any act or omission by
+           contractor and only to the extent such claim arises by negligence or intentional misconduct or as
+           may be allowed under applicable law. Monies due or to become due to the contractor under the
+           contract may be retained by UPO as necessary to satisfy any outstanding claim which UPO may
+           have against the contractor.
+       15. Insurance: Contractor shall, at all times, at its own expense, obtain and carry comprehensive
+           liability insurance including errors and omissions coverage, property damage insurance and
+           workers’ compensation insurance in adequate amounts. Contractor shall keep such insurance in
+           force for the duration and term of this agreement. All certificates of insurance or evidence of
+           insurance must contain a thirty (30) day written notice of any cancellation, change, or termination
+           of coverage. The insurance required shall be obtained from insurance company (ies) licensed to
+           do business in the District of Columbia and shall be kept in force for 90 days after the last
+           payment under the contract.
+           o Workers’ Compensation Insurance providing statutory limits for the District of Columbia.
+           o Business Automobile Liability Insurance with a minimum of $1,000,000 per occurrence.
+           o Commercial General Liability Insurance coverage with a minimum of $1,000,000 per
+             occurrence/$2,000,000 aggregate limit.
+           The contractor shall provide immediate notice in the event there is any change of insurance or that
+           it has reached the insurance limits due to claims made.
+       16. RFP Addendum: In the event that it becomes necessary to revise this RFP, in whole or in part, an
+           addendum will be provided on the UPO website http://www.upo.org/work-with-us/#rfp .
+       17. Completed Proposals: A proposer may submit no more than one (1) proposal in response to this
+           RFP. The proposal shall be completed and signed by an individual who is authorized to bind the
+           firm submitting the proposal.
+       18. Withdrawal of Proposals: At any time prior to the hour and date set for submitting proposals, a
+           bidder may withdraw the proposal. This will not preclude the submission of another proposal
+           prior to the hour and date set for submitting the proposal. After the scheduled time and date for
+           submitting proposals, no proposer will be permitted to withdraw the proposal unless the award is
+           delayed for a period exceeding 60 days.
+       19. Receipt and Opening of Proposals: Proposers are responsible to assure their proposal is delivered
+           to UPO by the scheduled date and time. Only those proposals which are received in a timely
+           fashion as set forth in this RFP will receive consideration. Proposals received after the date and
+           hour designated are automatically disqualified and will not be considered; late proposals will be
+           dated, marked as received late, and placed unopened in the file. Proposers must pay particular
+
+
+
+RFP#2019-08 Technology Assessment Services                                                      Page 11 of 17
+           attention to insure the proposal is properly addressed. UPO is not responsible if the proposal does
+           not reach the destination specified by the appointed date and time.
+       20. Contract Award Notification: When the evaluation process of the proposals is completed; the
+           selected bidder will be formally notified by mail or email. Other notifications will not be honored
+           and should not be considered as a valid offer of award.
+       21. Certifications: Any agreement resulting from this RFP shall be subject to but not limited to the
+           following certifications:
+
+           a. Certification that it nor its principals are not debarred, suspended, proposed debarment,
+              declared ineligible, or voluntarily excluded by any federal department or agency from
+              participation in this transaction by any Federal department or agency in accordance with 45
+              CFR Part 76.
+           b. Certification Regarding Lobbying under Title 31, US Code, Section 1352.
+       22. By submitting a proposal, the proposer represents that:
+                  The proposer has read and understands the RFP and submits the response in accordance
+                   therewith.
+                  The proposer possesses the capabilities, equipment, and personnel necessary to provide an
+                   efficient and successful service.
+                  The proposer has all the required licenses and insurance.
+
+       23. No claim will be allowed for additional compensation or time for completion based on a lack of
+           knowledge or lack of understanding of any part of the RFP.
+
+
+
+
+RFP#2019-08 Technology Assessment Services                                                      Page 12 of 17
+                                APPENDICES
+
+
+
+
+RFP#2019-08 Technology Assessment Services   Page 13 of 17
+                                             Appendix - A
+                                    Vendor Identification Form
+
+
+
+
+RFP#2019-08 Technology Assessment Services                       Page 14 of 17
+                                             Appendix - B
+                                      OTIS Organization Chart
+
+
+
+
+                                             OTIS Org Chart.pdf
+
+
+
+
+RFP#2019-08 Technology Assessment Services                        Page 15 of 17
+                                             Appendix - C
+                                       UPO Network Diagram
+
+
+
+
+                                               UPO Network
+                                               Diagram.pdf
+
+
+
+
+RFP#2019-08 Technology Assessment Services                   Page 16 of 17
+                                             Appendix – D
+                                             Pricing Proposal
+
+
+                          (Please attach your Price Proposal under
+                     Appendix D and email this proposal separately)
+
+
+
+
+RFP#2019-08 Technology Assessment Services                            Page 17 of 17
+

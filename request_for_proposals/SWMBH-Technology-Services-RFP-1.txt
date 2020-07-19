@@ -1,0 +1,673 @@
+ Southwest Michigan Behavioral Health
+
+
+  Technology Services RFP
+         VoIP Services
+         Data Center Services
+         Desktop and Network Management Services
+         Cellular Services
+
+
+
+
+Vendors may respond to one or more of the listed technology Service Lines
+
+
+
+
+   Submitted on March 7, 2018
+Table of Contents
+SECTION 1: GENERAL INFORMATION ........................................................................................................... 2
+   1.1       Purpose of RFP .............................................................................................................................. 2
+   1.2       Overview of Southwest Michigan Behavioral Health ................................................................... 2
+SECTION 2: SCOPE OF SERVICES REQUESTED ............................................................................................... 4
+   2.1       Voice over Internet Protocol (VoIP) .............................................................................................. 4
+   2.2       Data Center Services ..................................................................................................................... 7
+   2.3       Helpdesk and Network Management Services ............................................................................. 8
+   2.4       Cellular Phone Services ................................................................................................................. 9
+   2.5       Ancillary Services ........................................................................................................................ 10
+SECTION 3: RFP Package Response ............................................................................................................. 11
+   3.1       Response Timeline ...................................................................................................................... 11
+   3.2       Contact Point for Communications ............................................................................................. 11
+   3.3       Vendor Response Package Components .................................................................................... 11
+SECTION 4: Vendor Overview Information ................................................................................................. 13
+   4.1       General Information ................................................................................................................... 13
+   4.2       Proposal Review .......................................................................................................................... 13
+   4.3       General Terms & Conditions ....................................................................................................... 14
+
+
+
+
+                                                                                                                                           1|Page
+SECTION 1: GENERAL INFORMATION
+
+1.1 Purpose of RFP
+   Southwest Michigan Behavioral Health (hereinafter referred to as the “SWMBH”) is seeking
+   proposals for Technology Services – VoIP Phone Services, Data Center Services, Helpdesk & Network
+   Management Services, Cellular Phone Services, and some Ancillary Technology Services (primarily
+   audio/video conferencing) – hereinafter referred to as “Service Lines”, or just “SLs”.
+
+   Vendors may respond to one or more of the SLs.
+
+1.2 Overview of Southwest Michigan Behavioral Health
+   SWMBH is a Regional Entity (approximately 55 staff) created pursuant to MCL 330.1204b of the
+   Michigan Mental Health Code, 1974 PA 258. A Regional Entity is an independent public
+   governmental entity, and is separate from the counties, authorities, or organizations that establish
+   it. The SWMBH operates under the authority of its own Board of Directors (the “SWMBH Board”).
+
+   The SWMBH was created on June 28, 2013 with the filing of its Bylaws with Michigan’s Office of the
+   Great Seal. These Bylaws were approved by the following participant Community Mental Health
+   Services Programs, which are organized and operated as community mental health authorities
+   under Michigan’s Mental Health Code (MCL 330.1001 et seq.)
+
+              Barry County Community Mental Health Authority;
+              Berrien Mental Health Authority d/b/a Riverwood Center;
+              Branch County Community Mental Health Authority, d/b/a Pines Behavioral Health
+               Services;
+              Calhoun County Community Mental Health Authority; d/b/a Summit Pointe;
+              Cass County Community Mental Health Authority d/b/a Woodlands Behavioral
+               Healthcare Network;
+              Kalamazoo County Community Mental Health Authority; d/b/a/ Kalamazoo Community
+               Mental Health and Substance Abuse Services;
+              Community Mental Health and Substance Abuse Services of Saint Joseph County ; and
+              Van Buren Community Mental Health Authority;
+
+   The SWMBH designated service area encompasses the following Michigan counties: Barry, Berrien,
+   Branch, Calhoun, Cass, Kalamazoo, St. Joseph, and Van Buren. These counties are hereinafter known
+   as the “Service Area” of the SWMBH.
+
+   The SWMBH was formed for the purpose of (i) carrying out the provisions of the Mental Health
+   Code in its MDHHS designated service area as they relate to: serving as a prepaid inpatient health
+   plan, as defined in 42 CFR 438.2 (“PIHP”); (ii) managing the Medicaid Specialty Support and Services
+   Concurrent with the 1915(b)/(c) Waiver Programs (“Medicaid”); (iii) managing the Healthy Michigan
+   behavioral health program; (iv) managing the Michigan Medicaid Autism Benefit for Applied
+   Behavior Analysis 1915 (i) waiver for its designated service area; (v) ensuring a comprehensive
+
+
+
+                                                                                             2|Page
+array of services and supports as provided in the PIHP’s Medicaid and Healthy Michigan contracts
+with MDHHS; and (vi) exercising the powers and authority set forth by the SWMBH Board.
+
+Furthermore, on February 1, 2014 SWMBH took on the Substance Abuse Coordinating Agency (CA)
+required functions for its service area, pursuant to Public Act 501 of 2012 – Public Health Code,
+effective January 1, 2013; and Public Act 500 of 2012 – Mental Health Code, effective December 12,
+2013. Moreover, (viii) on January 1, 2015 SWMBH is a contractual participant in the MDHHS
+demonstration project for its service area, serving persons with behavioral health needs who have
+both Medicare and Medicaid coverage (the Medicare/Medicaid Dual Eligible demonstration
+program, or “Michigan Health Link”).
+
+In effect, SWMBH is the benefits manager for the various populations mentioned above with a
+$250M annual budget.
+
+It is within the scope of its authority to act as a Regional Entity, and its mandated contractual
+responsibilities that the SWMBH is conducting this Request for Proposal (RFP) for the selection of
+Technology Services.
+
+SWMBH is currently located at:
+
+    5250 Lover’s Ln., Suite 200
+    Portage, MI 49002
+
+
+                              SWMBH is the PIHP and Benefits Manager in Region 4
+
+
+
+
+      Southwest Michigan
+      Behavioral Health (8)
+      County Service Area
+
+
+                       Map depicting SWMBH’s service area and partners
+
+
+
+
+                                                                                          3|Page
+SECTION 2: SCOPE OF SERVICES REQUESTED
+SWMBH is seeking solutions to the following technology Service Lines (SLs). They are VoIP Phone
+Services, Data Center Services, Helpdesk & Network Management Services, Cellular Phone Services, and
+Ancillary Technology Services. Each of the SLs are described in more detail below and
+vendors/respondents are allowed to respond to one or more of the SLs.
+
+If the respondent to this RFP is collaborating with other vendors, SWMBH expects just one point of
+contact to be the sole authority and responsible party for installation and support. If the
+vendor/respondent utilizes any subcontractors for any part of the system architecture, design, planning,
+installation or support it should be understood that the successful respondent will be the sole
+responsible party for all activities.
+
+While this RFP is utilizing the concept of SLs, it is primarily meant to support competitive pricing and to
+understand what services and products vendors can uniquely bring to the table for comparison. If your
+response supports many (or all) of the services requested in this RFP, please ensure your response is
+organized by the described SLs. This will help the evaluators conduct a comparative analysis and review.
+If your able to offer a better pricing option by bundling SLs, please include that information as well.
+
+SWMBH expects/requires high collaboration between SL vendors, specifically and especially if multiple
+vendors are selected. For example, if one respondent is selected just for Data Center Services, SWMBH
+will require that vendor to work easily with the other vendor(s) that were selected for the remaining SLs.
+
+For each of the SLs listed below, please allow for a 1 – 3 year detailed pricing proposal, with an option of
+an additional 2 years in 1-year increments.
+
+
+2.1 Voice over Internet Protocol (VoIP)
+    It is the intent of this SL that:
+
+            The responder provide a complete, end to end solution. The vendor shall provide all design,
+             planning, system architecture, installation, network analysis, training and post installation
+             support for the project.
+            The responder provide a comprehensive training plan for all employees. It is expected that
+             SWMBH’s staff will require technical training at various levels and that line staff will require
+             training on the new systems. SWMBH staff will work with the vendor to develop a training
+             plan that achieves these objectives.
+             The responder plans and conducts the installation of the project with minimal impact to
+             daily operations and staff. Staff will work closely with the vendor to create a working
+             project plan that will achieve these goals.
+
+    Respondent will include all phone system hardware (either for lease or purchase) such as desk
+    phones, network switches, etc. along with the cost of an internet connection (this is to keep voice
+    and data communications separate). For leased equipment, respondent to include a cost benefit
+    analysis for 2 – 3 year lease options. SWMBH retains right to purchase equipment from another
+    source should it be most cost effective.
+    Vendor is also responsible for porting over current list of DIDs.
+
+                                                                                                 4|Page
+When responding to this SL, please include/address the following components. For quoting
+purposes, SWMBH requires between 50 – 60 desktop phones and 6 conference phones.
+
+       IP‐based Voice capabilities (see feature set listed below)
+       Reliability
+       Voice Quality
+       Experience and References
+       System Administration
+       Support/Service Capabilities
+       Scalability
+       System longevity
+       Simplicity of Installation
+       Call Accounting System (Call dialing reports for inbound, outbound, internal calls and usage
+        reports – please see accompanying Call Monitoring Plan and Call Center Reports and Needs)
+       Training and Usage
+
+The list below is a partial list of features that have been requested. It is provided as a baseline and as
+a starting point for the expected operations of the system. SWMBH expects the successful vendor
+will have had experience with corporations and other businesses of SWMBH’s size and scope and
+will be able to provide consulting advice, input and insight into what other organizations are using
+and to provide suggestions that will enhance the usability and functionality of the system. Please
+identify which features are standard and which are added cost.
+
+Unified Communication *                              Voice Mail forward to Email
+Call Forward Busy / No Answer / All Calls            Night/ After Hours Service
+Call Redirect                                        Soft phone features
+Call Hold / Release                                  Consistent and excellent voice quality
+Call Park / Pickup                                   Make/ Drop Conference
+Call Transfer                                        Add On Conference
+Calling Line ID Name and Number                      Conference bridging for internal and external
+Multiple Calls per Line Appearance                   Automatic alternate routing
+Call Waiting Caller ID Name and Number               Call forward capability to external numbers
+Shared Extension on Multiple Phones                  Music/Message on Hold
+Speaker Phone Capable                                Voice Mail Light Indicator
+Auto / Speed Dial                                    Remote Handsets / Headsets
+Programmable Buttons                                 Integration with leading smart phones & tablets
+Paging & Group Paging                                Call Recording / Monitoring
+Direct Inward Dial (DID)                             Automatic Call Distribution (ACD) Groups
+Fax/eFax Management/Fax to email/Fax Server          Custom Call Routing (CCR)
+Remote Maintenance / Administration                  Find Me/Follow Me
+Voice Mail                                           Phone Trees
+* For Unified Communication – we are currently using Exchange with Outlook 2013 but plan on
+  transitioning to Office 365 by September, 2018
+
+
+
+
+                                                                                              5|Page
+System Design Requirements:
+
+SWMBH currently uses the last 4‐digits of staff DID phone number for internal extension dialing. For
+ease of transition, SWMBH would like to keep the current list of DIDs (groups of phone numbers). As
+noted earlier, Vendor will be responsible for porting over current list of DIDs.
+
+Project Management:
+
+Vendor is expected to provide an experienced project manager (PM) who will be the main point of
+contact for the installation and for the duration of the project. This PM will provide a detailed
+project plan with milestones and be assigned to SWMBH throughout the life of the project. SWMBH
+reserves the right to request a change in project management based on performance.
+
+Maintenance and Support:
+
+Respondent shall provide SWMBH with a complete listing of available service and support plans.
+These shall include the range of offered services and all levels of support, plus an escalation plan.
+Please include:
+
+       Ongoing Maintenance cost.
+       Forecast any increase for 2‐3 years for hardware, software maintenance, licensing needs,
+        etc.
+       Respondent to provide detail of local support, hours or limits of coverage for service and
+        repairs.
+       Respondent to provide their maintenance plan options and service response times (please
+        provide a sample SLA). Also include what ramifications are present if SLA is not adhered to.
+       Provide software upgrade plans inclusive in Maintenance.
+
+Transition Plan:
+
+SWMBH expects the installation of the new system to have little or no impact to on‐ going
+operations. Vendor is expected to have experience in this area and to provide SWMBH with a plan
+to accomplish this as follows:
+
+       Respondent to create a design to move the units off the old system to the new system with
+        minimal disruption to staff and to create a preplanned schedule for notification purposes.
+       Respondent to provide how (and validate procedure) the parallel process will migrate old to
+        new. Possibly perform transition outside normal business hours if requested to do so.
+       All documentation, installation, reports and materials must be provided to SWMBH prior to
+        commencement of installation.
+       Vendor will be expected to professionally interface, if needed, with current vendor for
+        transition.
+       Vendor will be expected to port over all existing phone numbers – block of Direct Inward
+        Dialing (DID) numbers. On contract termination, include written confirmation that all DIDs
+        will be relinquished back to SWMBH.
+       Conduct a post-activation review to ensure all requirements have been met
+
+SWMBH, as a Healthcare entity, will require a signed Business Associate Agreement (BAA).
+
+
+                                                                                             6|Page
+2.2 Data Center Services
+   Because SWMBH doesn’t own any data center hardware, we are seeking a vendor to provide the
+   virtual environment based on current computing needs:
+
+   List of current servers:
+
+    LIST OF CURRENT SERVERS                            MINIMUM SPECIFICATIONS
+    File Server                                        Approximate Disk Space: 230 Gb
+    SharePoint Server (Company Portal)                 Application Server
+    SharePoint Server                                  Database backend. SQL Server 2014, 300 Gb
+    Tableau Server (BI Reporting)                      CPU-8 cores, RAM-32Gb, Disk-200Gb
+    Data Warehouse Server                              SQL 2012 Enterprise, Disk space approximately
+                                                       2Tb, 64 Gb RAM and 16 cores CPU
+    Data Warehouse Server                              SQL 2016 Enterprise. Currently underutilized
+                                                       but intent is to migrate 2012 to 2016
+    Web/Application Server                             Various applications
+    Web/Application Server                             Various applications
+    Dynamics Server (Finance System)                   Application Server
+
+
+   In addition to virtual technical environment, please include any security components (firewall, etc.)
+   as well as point-to-point (P2P) and internet connection costs as part of data center services. Please
+   itemize the data communications costs (P2P and internet connections) separately from the other
+   data center services.
+
+   As part of the vendor response, please include as much of the following to help us understand your
+   service offerings and organizational stability:
+
+          Physical location (city, state) of current data center(s)
+          Projected growth of organization
+          Configuration and specifications of Data Center
+          Data/Telecommunications:
+           o Is the facility carrier neutral?
+           o What carriers are used at this facility?
+           o Is it possible to connect to carriers that are not in the facility?
+          Security systems in place
+          Environmental and security monitoring
+          Method(s) used to notify customers of system outages and service errors
+          Response times for service requests (please provide a sample SLA)
+          System performance reports
+           o Please provide example of what customers receive
+          Contract Terms:
+           o Please provide a sample agreement for review
+           o Include impacts occurring at the conclusion of agreement
+          HIPAA and Security:
+           o SWMBH, as a Healthcare entity, will require a signed Business Associate Agreement
+               (BAA)
+
+
+                                                                                              7|Page
+          o   Is the Data Center HIPAA compliant (please provide certificates and any additional
+              information)?
+          o Do you conduct regular Penetration (PEN) Tests?
+          o Are you SOC 2 Compliant (please provide certificates and any additional information)?
+          o Do you have a Disaster Recovery / Business Continuity Plan (please include
+              information)?
+         General pricing for CPU, RAM and Disk Space, along with any levels of service. For example,
+          can we request higher IOPs for some applications (data warehousing, etc.) versus other
+          applications that have less of a need for high performing disk I/O.
+         Any other details you would like to provide
+         Backup plan and restoration procedures
+
+
+2.3 Helpdesk and Network Management Services
+  For this SL, SWMBH would like respondent to separate equipment costs from service costs.
+  Presently, SWMBH does not own any desktop (laptops, monitors, keyboards, mice, etc.) or network
+  management (switches, firewalls, etc.) hardware. Respondent to include cost benefit analysis
+  between 2 – 3 year lease options. SWMBH retains right to purchase equipment from another source
+  should it be most cost effective.
+
+  SWMBH’s headquarters occupies two floors in one location:
+
+      Southwest Michigan Behavioral Health
+      5250 Lover’s Lane, Suite 200
+      Portage, MI 49002
+
+  Helpdesk Services would entail the following:
+
+         Desktop management
+          o Installation of workstations and software applications.
+          o Diagnosis and repair of workstations
+          o Move, Add, and Change workstations
+          o Maintenance/Support/Troubleshooting of end user hardware and software issues
+          o Provide inventory and lifecycle management of Hardware Units. End-of-life notification,
+              replacement, and asset decommissioning/disposal etc.
+         Server management (unless specified as provided by Data Center Services)
+          o Schedule and perform preventive maintenance as required
+          o Maintain backups of all data, test backups, and restore data as required
+         Network Administration
+          o Network cabling support. This may include installation, diagnosis, repair, and
+              replacement. The selected vendor must have experience and tools necessary to install,
+              test, certify, and support twisted pair, fiber, and coax cable.
+          o Provide management and support of network switches and firewall(s)
+          o Provide wireless access and management throughout occupied spaces within building
+          o Monitor system operations and identify operational problems as they occur
+          o Make necessary modifications to router, firewall and wireless access point
+              configurations to support operating needs.
+         Software Support (excluding vendor-hosted services). Some examples include:
+
+                                                                                           8|Page
+           o   Microsoft back office applications (Exchange/2013 but plan on transitioning to Office
+               365 by September)
+           o Tableau
+           o MS Dynamics
+           o Adobe Acrobat
+           o MS SQL Server and associated applications
+          End-user Support
+           o Onsite support, minimally once/week or on an as-needed basis. Telephone support
+               between 7am – 8pm weekdays.
+           o Please provide a sample SLA that includes escalation of service requests
+          Ticket Management and utilization reports on all systems (servers, network, etc.)
+           o Please provide a sample of reports typically provided to a customer
+          Security Management and Monitoring
+           o Monitor workstations, servers, and email for viruses/malware using software solutions
+               that detect and disable threats. Ensure that virus/malware protection is properly
+               deployed and updates are implemented.
+           o Provide 24x7 remote monitoring with alerts to help in the discovery and diagnosis of
+               potential network problems
+           o Share process for on-boarding and off-boarding employees and login accounts to ensure
+               access controls are maintained.
+
+   SWMBH would like to have vendor create and disable user accounts within AD. However, SWMBH
+   would also like to retain the ability to make alterations to AD accounts. Please consider this when
+   detailing pricing model.
+
+   SWMBH, as a Healthcare entity, will require a signed Business Associate Agreement (BAA).
+
+
+2.4 Cellular Phone Services
+   SWMBH is requesting proposals to provide a selection of Cellular Telephone (voice, text and data)
+   services. When preparing your proposal, please include the following:
+
+       •   Reasonable amount of pooled minutes (voice, text and data) as customary for business use.
+           SWMBH presently has approximately 35 Apple smartphones. Please include a reasonable
+           amount of data traffic to effectively use email, Internet, and other network services without
+           spending extra on additional megabytes/gigabytes.
+       •   Voicemail
+       •   1 – 3 year contractual agreement with option to extend two years in one-year increments
+       •   Ability to retain the existing cellular phone numbers
+       •   Hot Spot data services
+       •   Activation, system access, and 911 fees.
+       •   Notification that a user is approaching their limit for monthly usage (voice, text and data), or
+           that they will be charged extra
+       •   Provide a published coverage map for the services
+       •   A suitable warranty period on the phone or device
+       •   Repair services
+
+                                                                                               9|Page
+      •   Rapid provisioning – access to mobile devices that we can use to replace damage phones
+          temporarily and without additional charges
+      •   The ability to trade in for a new mobile device
+      •   Provide a list of which devices would be free of cost with a contract (or at a reduced cost),
+          and which ones would be available at additional costs.
+      •   On monthly statements, please include separately billable components for monthly access,
+          number of minutes of local air time, number of megabytes/gigabytes used, local calling, long
+          distance calling, and roaming (Include a sample statement).
+      •   Provide maintenance plan options and service response times (please provide a sample
+          SLA). Also include what ramifications are present if SLA is not adhered to.
+      •   Include any other offers that will be advantageous for the users of the plan
+      •   Caller ID display (Optional)
+      •   Three-way conference calling (Optional)
+      •   Call waiting (Optional)
+      •   Call forwarding (Optional)
+      •   Text validation / auditing (Optional)
+
+   SWMBH, as a Healthcare entity, will require a signed Business Associate Agreement (BAA).
+
+
+2.5 Ancillary Services
+   SWMBH requires audio/visual conferencing equipment. This may include wall-mouted displays
+   and/or ceiling-mounted projectors. The building currently occupied contains six (6) conference
+   rooms – two are boardroom size conference rooms that can accommodate approximately 15-20
+   people, the other four (4) are smaller conference rooms and can sit approximately 6 – 10 people.
+
+   SWMBH is open to either purchase or lease of audio/visual equipment but is most interested in
+   wireless and easy-to-use solutions. For leased equipment, respondent to include cost benefit
+   analysis between 2 – 3 year lease options. SWMBH retains right to purchase equipment from
+   another source should it be most cost effective.
+
+
+
+
+                                                                                          10 | P a g e
+SECTION 3: RFP Package Response
+
+3.1 Response Timeline
+                               Activity                                    Timeline
+     Issuance of RFP                                                    March 7, 2018
+     Pre-Proposal Site Walkthrough – by appointment                 March 20 – March 21
+     Last day for vendor questions (via email)                         March 23, 2018
+     Posted answers to vendor’s questions: (via SWMBH.org)         Week of March 26, 2018
+     Proposals due to SWMBH                                             April 6, 2018
+     Review of proposals and top vendor finalists notified              April 20, 2018
+     Vendor presentations                                             April 30 – May 11
+     Vendor notification                                                 End of May
+
+
+   Posted answers to vendor’s questions will be available on the SWMBH website:
+   http://www.swmbh.org. Click on the News and Events, then RFPs.
+
+   Submission Deadline: April 6, 2018 at 5:00 PM EST
+
+
+3.2 Contact Point for Communications
+   Questions regarding this RFP must be received in writing no later than March 23, 2018, at 5:00 PM
+   EST. Send requests for a pre-proposal site review at your earliest convenience by/before March 16,
+   2018, at 5:00 PM EST.
+
+   Please email all questions and requests to:
+
+       Contact Name: Randy Paruch
+       Contact Title: IT Project Manager
+       Email:         swmbh.rfp@gmail.com
+
+  No phone calls will be accepted or returned regarding the RFP. Should you have problems
+  submitting emails to Randy Paruch, please call 1-800-676-0423 for assistance.
+
+
+3.3 Vendor Response Package Components
+   The vendor must incorporate the following three sections in their submitted proposal:
+
+   Section One:    Vendor Overview Information
+
+                   The information contained in this section is detailed in Section 4: Vendor Overview
+                   Information of this RFP.
+
+   Section Two:   Vendor Solutions Summary
+
+
+                                                                                            11 | P a g e
+               The information contained in this section should provide full details around how
+               vendor system will meet SWMBH’s requirements detailed in Section 2: Scope of
+               Services Requested. Be sure to specify which SL(s) are being included.
+
+Section Three: Sample contracts and agreements (as specified in each SL within Section 2).
+
+               Please include a sample standard service agreement or contract. If it exists, an
+               example of any ancillary agreements.
+
+ All proposal documents must be converted to Portable Document Format (PDF-preferred
+ option), Microsoft Word or Microsoft Excel as appropriate, and submitted electronically via
+ email no later than April 6, 2018.
+ Maximum size of email with attachments is 20 megabytes. Please divide attachments
+ between multiple emails if larger than 20 MB.
+ This RFP, as well as all submitted documents, specifications and correspondence submitted
+ to SWMBH in response to this RFP, become the property of SWMBH and are subject to FOIA
+ release. The proprietary materials submitted will not be shared between competing vendors
+ responding to this RFP at any time for any reason.
+
+
+
+
+                                                                                        12 | P a g e
+SECTION 4: Vendor Overview Information
+
+4.1 General Information
+   This section of the vendor response is designed to provide an overview of each vendor. Vendor
+   responses should contain the following information.
+
+   Please note that a multi-vendor response is supported and encouraged as it shows strong
+   collaboration between organizations providing different SLs. However, we ask that multi-vendor
+   submissions specify who the lead/primary contact will be. Additionally, it is an RFP requirement to
+   disclose all partnering relationships, including sub-contractors.
+
+          Company Name, Address and Contact Information
+           Name, Address, Telephone, cell, fax, email
+           Legal name of organization, owner, tax ID, Local contact information, Billing/Payment
+           contact and address, and Person Authorized to sign contract
+           Articles of Incorporation
+           Copy of w-9
+           Insurance
+          Company Profile and Description
+          Company History and Key Qualifications
+          Customer Profile
+          Customer References – please provide at least 3 (preferable from Michigan)
+          Pricing Methodology
+
+
+4.2 Proposal Review
+   SWMBH reserves the right to request additional information or clarification from vendors, to allow
+   correction of errors or omissions, and to waive irregularities and/or formalities when so doing may
+   serve the best long-term interests of the organizations involved.
+
+   SWMBH reserves the right to reject any or all RFP submissions and to proceed in any other manner
+   selected by SWMBH. SWMBH also reserves the right to discontinue the RFP process at any time and
+   for any reason. The right to amend this Request for Proposal, giving equal information and
+   cooperation to all vendors, is also reserved.
+
+   SWMBH reserves the right to award the vendor that it believes, in its sole discretion; best meets the
+   needs of the organization.
+
+   SWMBH will request the most recent financial report, audit and management letter, and articles of
+   incorporation from the vendor chosen.
+
+   Responses to Requests for Proposal are subject to the terms of the Freedom of Information Act, and
+   will be retained by SWMBH. A vendor’s response to this RFP may become part of the final contract.
+
+   Proposal Retention
+
+
+
+                                                                                           13 | P a g e
+   SWMBH will retain all proposals submitted and all proposals become the property of SWMBH upon
+   submission.
+
+   Acceptance of Proposal Content
+
+   RFP responses of selected vendor may become contractual obligations. Failure to accept these
+   obligations may result in cancellation of the selection, and the Vendor may be required to
+   reimburse SWMBH for damages incurred.
+
+   Non Collusion
+
+   The vendor certifies that this proposal has not been made or prepared in collusion with any other
+   competing vendor and the prices, terms or conditions thereof have not been communicated by or
+   on behalf of the vendor to any other competing firm and will not be so communicated prior to the
+   official receipt of this proposal. This certification may be treated for all purposes as if it were a
+   sworn statement made under oath, subject to the penalties for perjury. Moreover, it is made
+   subject to the provisions of 18 U.S. C. Section 1001, relating to the making of false statements.
+
+
+4.3 General Terms & Conditions
+   Insurance Policies
+
+   Selected vendor(s) must carry and provide the insurance policies described below (where
+   applicable):
+
+          General Liability Insurance with a minimum limit of $1,000,000.00
+          Workers’ Compensation with minimum limits of $1,000,000.00
+          Errors and Omissions / Professional Liability with a minimum limit of $3,000,000.00
+          Crime including the third party endorsement with a minimum limit of $1,000,000.00
+          Cyber Liability Insurance
+
+   Nondiscrimination
+
+   Neither SWMBH nor Selected Vendor shall, in the performance of this RFP, engage in any unlawful
+   discrimination against any person because of race, color, religion, national origin, sex, handicap or
+   age.
+
+   Award
+
+   SWMBH reserves the right to accept, reject, and waive irregularities in any and all bids and to select
+   the firm which, in the sole opinion of SWMBH best meets the organization’s needs. SWMBH also
+   reserves the right to negotiate with potential Vendors so that its best interests are served.
+
+   Confidentiality and Ownership of Materials
+
+   Ownership of all data, material and documentation originated and prepared for SWMBH pursuant to
+   this RFP shall belong exclusively to SWMBH.
+
+   SWMBH and Selected Vendor(s) shall treat the other’s “Confidential Information” as proprietary to
+   the extent under Michigan law. Both SWMBH and Selected Vendor(s) shall (i) exercise due care to
+
+                                                                                             14 | P a g e
+keep in confidence and not disclose confidential information to any individual other than its own
+employees who have a need to know in order to perform the obligations of SWMBH and Selected
+Vendor(s), as applicable, under this RFP; (ii) not duplicate or publish any Confidential Information;
+and (iii) use Confidential information only for the purposes authorized herein.
+
+Conflict of Interest
+
+VENDORS must disclose any instances where the firm or any individuals working on the RFP has a
+possible conflict of interest (financial or otherwise) and if so, the nature of the conflict. SWMBH
+reserves the right to cancel the award if any interest disclosed from any source could either give the
+appearance of a conflict or cause speculation as to the objectivity of the VENDOR’s proposal.
+SWMBH’S determination regarding any questions of conflict of interest is final.
+
+Vendor’s Certification
+
+By signature on the proposal, a Vendor certifies that it complies with:
+
+    a) The laws of the State of Michigan;
+    b) All applicable local, state, and federal laws, code, and regulations:
+    c) The applicable portion of Federal Civil Rights Act of 1964;
+    d) The Equal Employment Opportunity Act and the regulations issued by the federal
+       government;
+    e) The American with Disabilities Act of 1990 and the regulations issued by the federal
+       government;
+    f) All terms, conditions, and requirements set forth in the RFP;
+    g) A condition that the proposal submitted was independently arrived at, without collusion;
+    h) A condition that the offer will remain open and valid for the period indicated in this
+       solicitation; and
+    i) A condition that the firm and any individuals working on the contract do not have a possible
+       conflict of interest.
+
+If any vendor fails to comply with the provisions stated in this paragraph, SWMBH reserves the right
+to reject the proposal, terminate the contract, or consider the contractor in default.
+
+Transition Plan
+
+Selected vendor(s) will be responsible for developing and documenting a transition plan, to
+transition into the position within 60 days of contract signing.
+
+
+
+
+                                                                                           15 | P a g e
+

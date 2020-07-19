@@ -1,0 +1,443 @@
+Competition and Contracting
+         Methods                    Presented by:
+                      Tony Brown (703) 805-3185
+                     John Krieger (703) 805-5046
+                    John Pritchard (703) 805-3800
+                            Agenda
+    • Identify When Competition is Required
+    • Methods of Contracting
+       ― FAR Part 8 – Required Sources Of Supplies And Services
+       ― FAR Part 12 – Acquisition Of Commercial Items
+       ― FAR Part 13 – Simplified Acquisition Procedures
+       ― FAR Part 14 – Sealed Bidding
+       ― FAR Part 15 – Contracting By Negotiation
+       ― FAR Part 16 – Types Of Contracts
+       ― FAR Part 17 – Special Contracting methods
+       ― FAR Part 35 -- Research And Development Contracting
+    • Methods Other Than Contracting
+
+2
+                   FAR and Beyond
+                         Unfunded
+                          CRADA
+FAR and
+                          DoDGARs
+Non-FAR
+
+                             Funded
+    Contract      Other            Cooperative        Grant
+               Transaction         Agreement
+               Technology Investment Agreements
+
+
+                   Prize Competitions
+      Government     Flow of Benefit              Recipient
+3
+    FAR Part 6 – Competition
+         Requirements
+
+
+
+4
+                       Types of Competition
+    •   Full and Open Competition
+         – FAR Part 6.101(b): “Contracting Officers shall provide for full and open competition
+           through use of the competitive procedure(s) contained in this subpart that are best
+           suited to the circumstances of the contract and consistent with the need to fulfill the
+           Government’s requirements efficiently.
+
+    •   Full and Open After Exclusion of Sources (FAR 6.2)
+         – Allows for limiting competition when:
+              • Establishing or maintaining alternative sources
+              • Set Asides
+                  – Small Business concerns
+                  – Section 8(a) competition
+                  – HUBZone small business concerns
+                  – Service-disabled veteran-owned small business concerns
+                  – Economically disadvantaged women-owned small business (EDWOSB)
+                     concerns or women-owned small business (WOSB) concerns eligible under
+                     the WOSB Program
+                  – Local firms during a major disaster or emergency.
+
+    •   Other Than Full and& Open Competition (FAR 6.3)
+5        – Seven statutory exceptions for “Full and Open competition”
+                          Socio-Economic Programs
+SDVOSB Firm:
+•Veteran, defined in                                                           EDWOSB Firm:
+38 U.S.C. 101(2)                                                               •Small business
+•Disability that is                                                            •At least 51 % owned
+service-connected,                                                             by one or more women
+defined in 38 U.S.C.           SDVOSB                        EDWOSB            who are economically
+101(16).                        Firms                         Firms            disadvantaged IAW
+                                                                               with 13 CFR part 127.
+Small Business:
+•Independently                                                                 8(a) Contractor:
+owned and operated                            8(a)’s                           •SDB
+•Not dominant in its                                                           •Approved for
+field                                                                          participation in 8(a)
+•Meets size                                                                    program
+standards in Part              HUB Zone                                        by SBA
+19.102                           Firms
+                                              SDB’s
+                                                                               Small Disadvantaged
+                                                                                Business:
+HUB Zone Firm:                                                                 •Small business
+•SBC in                               Small Businesses                         •At least 51% owned &
+historically under-                                                            managed by person or
+utilized business zone                                                         persons who are
+•35% Employees                                                                 socially & economically
+reside in zone                                                                 disadvantaged
+                             All Other Contractors
+                          P.L. 111-240 “Small Business Jobs Act of 2010” created
+                           Socioeconomic Program Parity among 8(a) Program,
+                         HUBZone Program, and SDVOSB Procurement Program.
+    Different Procedures for Contracting Goods and Services
+               FAR Parts 8, 12, 13, 14, 15, 17 and 35
+
+                                                   GSA
+                                                 Schedule
+                                                                                    Quote &
+                                                                        RFQ                           Award
+                   Government                                                      Evaluation
+                    Inventory?
+
+
+                                                                  Blanket Purchase Agreement or Purchase Card?
+
+
+                                                       Sealed Bidding
+    Customer          Procurement          Market                                    Bid &
+                                                                         IFB                          Award
+Purchase Request       $xx, Rqmt          Research                                 Evaluation
+
+
+
+
+                             Use Indefinite
+                                Delivery                                           Proposal &
+                                                                        RFP                           Award
+                               Contract?                                           Evaluation
+
+
+
+             Economy Act
+              Applicable?                                                            Proposal,
+                                                       Broad Agency       BAA      Scientific Eval,    Award
+                                                       Announcement                 Negotiation
+
+7
+              FAR Business Alternatives Flowchart
+                                                FAR Parts 8, 12, 13, 14, and 15
+
+    Agency                                                            Market                       N       Price      N     Sole
+                                                  Federal                               ≤ SAT?
+  Inventory or                                                       Research                              Only?           Source?
+  Excess from
+                          Y       Proceed
+                                                  Supply      Y
+                                                Schedules?
+     other                                         [Non-
+   agencies?                                     Mandatory]                                    Y                  Y        Y         N
+           N                                           N             Proceed      Y     ≤ MPT?
+                                                                       With
+Purchase Request
+     ___________                                                  Micropurchase
+ Requirement &
+    Dollars                                     Commercial    Y                                N
+                                                 Sources?
+
+
+
+                                                                    Issue              Issue             Issue              Issue
+                                                       N             RFQ                IFB               RFP                RFP
+    FPI or                Y       Proceed
+  AbilityOne?                                    Redefine
+                                                Requirement
+                       Note: FPI is a higher         &             Evaluate           Evaluate         Negotiate           Evaluate
+                        priority than Ability    Start Over         Quotes              Bids           Contract           Proposals
+           N                    One.
+
+
+
+   Wholesale                                                                           Award            Award              Award
+                                                                  Issue Order
+  Government              Y                                                           Contract         Contract           Contract
+                                  Proceed
+    Supply
+   Sources?
+
+                   N
+FAR Part 8 – Required Sources
+   Of Supplies And Services
+
+
+
+9
+             GSA Federal Supply Schedule
+                                 FAR Part 8
+
+• GSA has set up giant ID/IQ vehicles
+       – Place task (services) or delivery (supplies) orders against basic
+         contract
+• Competition, synopsis and set aside requirements are
+  met; No purchase limits
+• Order directly from schedule or write own BPA’s with one
+  supplier or teams
+• Easy for user - timely, tailored, large and small orders,
+  and monthly payment
+   – http://www.fss.gsa.gov
+   – http://www.gsaadvantage.gov
+10   Must meet Section 803 requirements (DFARS 208.204-70)
+     FAR Part 12 – Acquisition Of
+         Commercial Items
+
+
+
+11
+             Commercial Items
+• Clear Preference for Commercial
+  Items
+• Certain Laws Modified/Not
+  Applicable
+  –   CAS Compliance
+  –   Truthful Cost or Pricing Data
+  –   Commercial Data Rights
+  –   Modified Termination Clauses
+• Contract Type
+  – FFP, FP(EPA), or T&M
+     FAR Part 13 – Simplified
+      Acquisition Procedures
+
+
+13
+         Simplified Acquisition Procedures
+                            FAR Part 13
+
+     • Simplified Acquisition Threshold - $150K
+         – Up to $6.5M if a Commercial Acquisition
+     •   15 Laws Do Not Apply
+     •   Electronic Preferred Means
+     •   Micro Purchases < $3000
+     •   Procurements >$3000 and <$150K Reserved for
+         Small Business
+
+14
+     FAR Part 14 – Sealed Bidding
+                FAR Part 14
+
+
+
+
+                 And
+
+
+     FAR Part 15 – Contracting By
+              Negotiation
+                FAR Part 15
+15
+       Features of Contracting Methodologies
+       Defense
+     Procurement     Methods of                                  Solicitation   Contractor     Nature of         Award        Contract
+                                         Conditions for Use
+      Procedures     Contracting                                    Type        Response        Review          Decision       Type
+
+
+                                     • Sufficient Time
+                                     • Competition Exists                                    Responsive &                       FFP
+                      Sealed Bid                                     IFB           Bid                         Low Price
+                                     • Award on Price                                        Responsible                      FP(EPA)
+                                     • No Discussions
+                                     • Sufficient Time                          Technical    Acceptable or
+                                     • Competition Exists           RFTP
+                                                                                Proposal     Unacceptable                       FFP
+                      Two-Step       • Award on Price
+                                                                                                                              FP(EPA)
+                      Sealed Bid     • No Discussions
+                                     • May Have Discussions in                               Responsive &
+     Competitive                                                     IFB           Bid                         Low Price
+                                     Step One Only                                           Responsible
+
+                      Competitive                                                            All Factors,
+                                        One of the Above                                                       Integrated
+                       Proposal                                     RFP         Proposal      “Trade-off”                        All
+                                     Conditions Does Not Exist                                                Assessment
+                     (Negotiation)                                                           Eval. Criteria
+                      Competitive
+                       Proposal         One of the Above                                     Acceptable or
+                                                                    RFP         Proposal                       Low Price         All
+                     (Negotiation)   Conditions Does Not Exist                               Unacceptable
+                        LPTA
+                                                                                              Fair and
+       Non-          Sole Source     • Only One Source
+                                                                    RFP         Proposal     Reasonable          None            All
+     Competitive      Proposal       • Approved J&A
+                                                                                                Price
+                                     • Research                                                               Requirement
+                      Agreement                                                                                                FP/Cost
+        “Other                       • Prototype Projects        Commercial                  Viability and    Satisfaction
+                       Non-FAR                                                  Proposal                                      Milestone
+     Transactions”                   • Directly Relevant to      RFP or BAA                  Affordability        and
+                       Contract                                                                                               Payments
+16                                   Planned Weapon System                                                    Affordability
+                               Agreements
+
+• Basic Agreements and Basic Ordering Agreements Are Not
+  Contracts
+     – Written instrument of understanding
+     – Used when there are likely substantial future contracts (orders)
+• Basic Agreement
+     – Contains contract clauses applying to future contracts between the parties
+       during its term.
+     – Contemplates separate future contracts.
+• Basic Ordering Agreement
+     – Terms and conditions applying to future contracts (orders)
+     – A description, as specific as practicable, of supplies or services to be
+       provided
+     – Method for pricing, issuing, and delivering future orders
+17
+      Blanket Purchase Agreements (BPA’s)
+
+     • Establishes “charge accounts” with qualified sources
+       of supply to fill recurring requirements
+        – Covers a variety of items under a broad class of supply
+     • Can’t avoid competition or small business set-aside
+       programs
+     • Orders can only go up to the Simplified Acquisition
+       Threshold
+        – Exceptions are BPA’s established under GSA Federal Supply
+          Schedule
+
+
+18
+     FAR Part 17 – Special
+      Contracting Methods
+
+
+
+19
+                  Interagency Acquisitions
+
+     • Economy Act, 31 U.S.C. § 1535
+        – Applies absent other authority (e.g., Government Employees Training
+          Act).
+     • Federal Supply Schedule (FSS)
+        – Federal Property and Administrative Services Act of 1949
+        – 41 U.S.C. § 259 (b)(3)
+     • Government Wide Acquisition Contracts (GWAC)
+        – Executive agent designated by OMB pursuant to the Clinger-Cohen Act,
+          40 U.S.C. § 1412(e)
+        – Delegation GSA under authority of the Brooks Act, 40 U.S.C. § 759.
+        – Economy Act does not apply
+     • Multi-Agency Contract
+        – Includes contracts for IT established pursuant to the Clinger-Cohen Act,
+          40 U.S.C. § 1424(a)(2).
+        – Economy Act does apply
+
+20
+     FAR Part 35 -- Research And
+       Development Contracting
+
+
+
+21
+        Broad Agency Announcement (BAA)
+           (Basic and Applied Research)
+     • The BAA shall describe —
+        – Agency’s research interest;
+        – Criteria for selecting proposals, their relative importance, and
+          the method of evaluation;
+        – Acceptance period; and
+        – Instructions for the preparation and submission of proposals.
+     • Must be publicized at least annually through Government wide
+       point of entry (GPE).
+     • Uses Peer or Scientific Review with written evaluation reports on
+       individual proposals
+     • Proposals need not be evaluated against each other.
+     • The primary basis for selecting proposals for acceptance shall be
+       technical, importance to agency programs, and fund availability.
+       Cost realism/reasonableness shall be considered to the extent
+       appropriate.
+22
+Methods Other Than Contracting
+
+
+
+
+23
+                     Don’t Want To Use The FAR?
+                                    Purpose                        Authority        Regulation
+            Acquisition   Acquire supplies and services          10 U.S.C. § 2301    FAR
+              Contract
+
+                 Grant    Transfer money, property, or           31 U.S.C. § 6304    DoDGARs
+                          services to accomplish a public
+VEHICLES
+
+
+
+
+                          purpose of support or stimulation
+                          with limited government involvement
+
+           Cooperative    Similar to a Grant, but has more
+            Agreement     government involvement
+                                                                 31 U.S.C. § 6305    DoDGARs
+
+
+            Cooperative   Transfer of technology available at
+            Research &                                           15 U.S.C. § 3701    No
+                          federal labs to commercial, state
+           Development    and local government or universities
+            Agreements
+             (CRADA)      through cooperative and mutually
+                          beneficial R&D
+                                                                 10 U.S.C. § 2371    DoDGARs [Portions]
+           “Other         Conduct research and develop
+   24
+     Transactions”        prototypes directly relevant
+                          to weapons and weapon systems
+       Features of Contracting Methodologies
+       Defense
+     Procurement     Methods of                                  Solicitation   Contractor     Nature of         Award        Contract
+                                         Conditions for Use
+      Procedures     Contracting                                    Type        Response        Review          Decision       Type
+
+
+                                     • Sufficient Time
+                                     • Competition Exists                                    Responsive &                       FFP
+                      Sealed Bid                                     IFB           Bid                         Low Price
+                                     • Award on Price                                        Responsible                      FP(EPA)
+                                     • No Discussions
+                                     • Sufficient Time                          Technical    Acceptable or
+                                     • Competition Exists           RFTP
+                                                                                Proposal     Unacceptable                       FFP
+                      Two-Step       • Award on Price
+                                                                                                                              FP(EPA)
+                      Sealed Bid     • No Discussions
+                                     • May Have Discussions in                               Responsive &
+     Competitive                                                     IFB           Bid                         Low Price
+                                     Step One Only                                           Responsible
+
+                      Competitive                                                            All Factors,
+                                        One of the Above                                                       Integrated
+                       Proposal                                     RFP         Proposal      “Trade-off”                        All
+                                     Conditions Does Not Exist                                                Assessment
+                     (Negotiation)                                                           Eval. Criteria
+                      Competitive
+                       Proposal         One of the Above                                     Acceptable or
+                                                                    RFP         Proposal                       Low Price         All
+                     (Negotiation)   Conditions Does Not Exist                               Unacceptable
+                        LPTA
+                                                                                              Fair and
+       Non-          Sole Source     • Only One Source
+                                                                    RFP         Proposal     Reasonable          None            All
+     Competitive      Proposal       • Approved J&A
+                                                                                                Price
+                                     • Research                                                               Requirement
+                      Agreement                                                                                                FP/Cost
+        “Other                       • Prototype Projects        Commercial                  Viability and    Satisfaction
+                       Non-FAR                                                  Proposal                                      Milestone
+     Transactions”                   • Directly Relevant to      RFP or BAA                  Affordability        and
+                       Contract                                                                                               Payments
+25                                   Planned Weapon System                                                    Affordability
+

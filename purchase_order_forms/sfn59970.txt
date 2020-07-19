@@ -1,0 +1,92 @@
+               REQUEST FOR A PURCHASE ORDER
+               OFFICE OF MANAGEMENT AND BUDGET                                                   Please follow the Instructions on Page 2
+               CENTRAL SERVICES DIVISION - VENDOR REGISTRY
+               SFN 59970 (9-2012)
+
+Business Unit Number      Date Purchase Order is Needed         Agency Division, if applicable
+
+Name of Employee Who Will Approve the Purchase Order            PeopleSoft User ID                   Approver's Email Address
+
+Agency Contact Who Will Work with Vendor                        Vendor Name *
+
+
+Address for Purchase Order                                      City                                            State      ZIP Code
+
+
+* If this vendor is new to the PeopleSoft database, an IRS Form W-9 will need to be collected by the requesting agency before the
+vendor can be set up.
+
+Types of Items Purchasing
+      Goods              Services
+
+Item 1 Description                                                                                   Quantity              Price Per Item
+
+For Goods: Item Should Be Shipped To                                           For Services: Division Location Where Service is Being Provided
+
+Special Instructions or Details of the Item/Service Requested
+
+
+
+
+Accounting Information for the Purchase Order
+
+ Percent                 Operational             Department
+  if split    Account       Unit        Fund         ID                Class         Location               Project               Activity
+
+
+
+
+Item 2 Description                                                                                   Quantity              Price Per Item
+
+For Goods: Item Should Be Shipped To                                           For Services: Division Location Where Service is Being Provided
+
+Special Instructions or Details of the Item/Service Requested
+
+
+
+
+Accounting Information for the Purchase Order
+
+ Percent                 Operational             Department
+  if split    Account       Unit        Fund         ID                Class         Location               Project               Activity
+
+
+
+
+Further Comments to Vendor
+SFN 59970 (9-2012)
+Page 2 of 2
+
+
+                                                        INSTRUCTIONS
+
+ 1. If the agency already has a buyer set up, OMB will use that person's name and settings. Otherwise, a Vendor Registry
+    staff member will set themselves up as a buyer for this situation.
+
+ 2. If no one from the agency currently has the security to approve Purchase Orders, the following roles need to be requested
+    from SFN 54418 at http://www.nd.gov/eforms/Doc/sfn54418.pdf. Vendor Registry can submit the form, but someone from
+    the requesting agency will have to approve and sign the form.
+     a.   NDS_ALL_PO_APPVR
+     b.   NDS_WF_ALL_PO_APPRV_1000
+     c.   NDS_WF_ALL_PO_APPRV_2500
+     d.   NDS_WF_ALL_PO_APPRV_5000
+     e.   NDS_WF_ALL_PO_APPRV_UNLIMITED
+
+ 3. If more than two items are being purchased, please include a description, quantity, price, and special instructions for each
+    on an attached sheet. This attachment can be a Word document, Excel spreadsheet, or price quote. It is important to
+    include the complete accounting chartfield information for each item, if different.
+
+ 4. Save the completed pdf form to your agency's network drive. Then attach it to a Non-Vendor work request at
+    https://secure.apps.nd.gov/omb/vr/vwrs/login.htm
+
+ 5. Vendor Registry will enter the Purchase Order and enter it into PeopleSoft workflow. The designated approver should see
+    it appear on their worklist for final approval. When this has been done successfully, let Vendor Registry know so they can
+    “dispatch” the Purchase Order. This process converts the purchase order into a pdf format that can then be printed or
+    emailed to the vendor, along with any supporting documents.
+
+ 6. When the time comes to pay the bill for the items on this purchase order, the agency must contact Vendor Registry again
+    to learn how to enter a Purchase Order voucher. A p-card or regular voucher can be used, but Vendor Registry needs to
+    be informed of this so they can close the Purcahse Order after payment.
+
+Vendor Registry can be reached at (701)328-2773. Their fax number is (701)328-0108.
+

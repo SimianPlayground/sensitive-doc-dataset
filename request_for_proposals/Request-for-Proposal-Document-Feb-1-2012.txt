@@ -1,0 +1,450 @@
+Request for Proposal Document
+
+Web Redesign &
+Online Content Management System
+Proposal Conditions
+1.1. Executive Summary
+1.1.1. Values, Vision, and Goals
+The Windsor-Essex Regional Chamber of Commerce website serves two main purposes:
+        To provide effective and efficient online communications and to deliver timely
+        information for both members and non-members
+        To allow members to use technology to register for events, buy memberships, meeting
+        centre bookings, and so on
+When individuals visit the Windsor-Essex Regional Chamber of Commerce website, we want
+them to find a current, professional, and informative site that can be navigated easily in a fresh
+new format reflective of our new direction and a design in the spirit of our Business Briefs
+publication.
+
+1.1.2. Windsor-Essex Regional Chamber of Commerce of Commerce Overview
+Established in 1876, the Windsor-Essex Regional Chamber of Commerce (hereafter referred to
+as “Chamber”) is a not-for-profit membership organization with the following mission: “Leading
+the business community to create regional economic prosperity.” Through strong volunteer
+leadership and a dedicated staff, the Chamber advances the interests of business in Windsor-
+Essex through its advocacy efforts at the municipal, provincial, and federal levels of
+government.
+
+The Windsor-Essex Regional Chamber of Commerce is a member of the Canadian Chamber of
+Commerce and the Ontario Chamber of Commerce and is recognized throughout the
+community as a business leader.
+
+1.1.3 Major Stakeholders and Their Goals
+There are two major stakeholders in the Chamber. The first is the Chamber membership.
+Members are interested in receiving accurate information about the Chamber and its activities
+and care about having their businesses accurately represented on the website. The members
+require a website that will allow them to find timely information about events, issues, and the
+Windsor-Essex business community. The second stakeholder is the Chamber board of directors.
+The board is responsible for the long-term sustainability of the Chamber. Its goals need to be
+effectively and efficiently communicated by the website. The board also sees the website as a
+promotional tool that will enable the Chamber to meet its long-term goals. Ultimately, the
+board of directors wants accurate and timely information placed on the website.
+
+1.2. Scope and Intent of the Project
+The Chamber is seeking a site redesign and development of an online content management
+system. The redesign of the site will provide for the professional image of the Chamber to be
+communicated visually through a clean and fresh design.
+
+
+
+
+                                                                                                 2
+The purpose of the content management system is to manage the online content of the
+Chamber website, with the idea that Chamber staff will be able to easily enter data so that it
+displays on appropriate pages and in a pre-formatted way.
+
+The Chamber is seeking submissions and proposals (hereafter called “Proposals” or
+“Submissions”) outlining how your company would create a high-quality, professional website
+able to manage extensive information. The scope of the Request for Proposal document is to
+solicit proposals offering web design to come up with a straightforward solution to manage
+online content including such items as events, media releases, news, photos, and published
+policy issues, all the while fully integrating the site into different means of social networking.
+
+1.3. Target Audience
+1. Primary: Current members seeking event information and registration, committee plans and
+issues, published policy papers, meeting dates, and business news.
+2. Secondary: Prospective members seeking general information about the Chamber, upcoming
+event details, membership benefits, event registration, and members directory.
+3. Tertiary: General public seeking information about the Windsor-Essex business community.
+The general public views the Chamber site as a reliable and trustworthy source of business
+information for the Windsor-Essex region.
+
+1.4. Organization Contact Details
+Please provide email contact information to the Windsor-Essex Regional Chamber of Commerce
+at adsales@windsorchamber.org immediately upon receipt of this RFP document to facilitate
+forwarding of any additional information or amendments. Except as otherwise authorized in
+this document, no other Chamber persons may be contacted with respect to this RFP. Contact
+with other such individuals may void the proponent’s response to this RFP.
+
+1.5. Enhanced Agreement Relationships
+Notwithstanding the specific details requested in this RFP, the Chamber is interested in
+receiving proposals which highlight opportunities for an enhanced agreement relationship. The
+recommended enhanced agreement period is a minimum of one year, renewable on an annual
+basis to the mutual agreement of both parties. The Chamber reserves the right to cancel this
+agreement for nonperformance or contract non-compliance with 90 days written notice.
+
+1.6. Indemnification
+Proponents who submit responses may, at the option of the Chamber, be required to make
+individual presentations to representatives of the Chamber. Should a proponent be selected
+directly from the RFP proposal, the successful vendor shall indemnify the Chamber for all
+damages suffered by it as a result of the negligent actions or wrongful acts of the successful
+supplier, its employees, and agents.
+The successful vendor shall indemnify and hold harmless the Chamber, Board of Directors,
+employees, members, and agents from all claims, demands, losses, costs, damages, actions,
+suits, or proceedings initiated by third parties arising from the negligence of the vendor, its
+employees, and agents.
+
+
+                                                                                                     3
+1.7. Succession of business
+This agreement in its entirety is transferable for the duration of the agreement period to a
+corporation or institution created by the merger, acquisition, or sale of business on the
+vendor’s side, upon review and approval of the Chamber’s board of directors.
+
+2. Proposal Submission
+2.1. Information for Proponents
+2.1.1. Delivery and quantity of submissions
+Proponents are required to submit five (5) paper copies and one (1) electronic copy (on a CD or
+USB drive) of the proposals, in a sealed envelope or package identified as PROPOSAL
+SUBMISSION to:
+
+Windsor-Essex Regional Chamber of Commerce of Commerce
+2575 Ouellette Place
+Windsor, ON
+N8X 1L9
+Attention: Lindsey Rivait
+
+Closing Date and Time:
+All submissions must be submitted by 4:30 p.m. EST Tuesday, February 21, 2012.
+
+2.1.2. Late Submissions
+Quotations received by Chamber later than the specified closing time may be rejected at the
+sole discretion of the Chamber.
+
+2.1.3. Questions or Inquiries
+a) Questions concerning this RFP are to be directed by email to the Communications
+Coordinator at adsales@windsorchamber.org.
+Enquiries must not be directed to other Chamber employees. No clarification requests will be
+accepted by telephone. Responses to clarification requests will be provided to all proponents in
+writing. Questions pertaining to this RFP must be received no later than 72 hours, excluding
+weekends and holidays, prior to closing.
+b) Any and all significant changes to the terms, conditions, or specifications required before the
+RFP closing date will be identified by the Chamber in the form of an Addendum.
+c) If Addenda are issued, their receipt must be acknowledged by the proponent in their
+submission.
+d) The Chamber will assume no responsibility for oral instructions or suggestions.
+
+2.1.4. Proponent minimum submission requirements
+        A completed Acknowledgement Form
+        A completed Proponent Information Form
+
+
+
+
+                                                                                                 4
+       A summary of the proponent’s experience in providing web design services describing in
+       general terms how your services will meet the needs of the Chamber
+       Examples of how your company has implemented social media networking on its own
+       and on clients’ websites
+       Examples of mobile sites designed by your company
+       Examples of how you’ve successfully implemented Web Accessibility
+       Explanation of what distinguishes your company, solutions, and services?
+       Any additional partnership benefits your company can provide
+       A list of references, including phone, email, and standard mail contact information
+       regarding the above experience
+       A brief description of the proponent organization including history, activities, and/or
+       similar information about any resources the proponent would bring to bear on this RFP
+       Information that support the financial viability and stability of the proponent’s
+       organization, such as financial statements, etc.
+
+2.1.5. Period of Acceptance
+The proponent’s proposals and all of its conditions are to be valid and remain in effect for three
+months following date of closing.
+
+2.2. Planned Schedule of Events
+Release of RFP: Wednesday, February 1, 2012.
+Deadline for proposals submissions: Tuesday, February 21, 2012.
+Selection process completed and organization contacted: Wednesday, March 7, 2012.
+Website is completed and is live with working content management system: Monday, May 14,
+2012 (deadline is flexible within reason, please contact adsales@windsorchamber.org).
+
+2.3. Terms and Conditions Relating to this RFP
+2.3.1. Supplier Qualification
+All factors being considered, Chamber members in good standing will be given preference for
+the purchase of goods and services. In good standing is generally defined as an organization or
+individual who has been a paid up member of the Chamber for a minimum of 90 days. Where
+no member exists for the required purchase of goods or services, or where no financial
+agreement can be reached between the two parties, the Chamber will next select an
+organization or individual from within the Windsor-Essex business community. Where no such
+organization or individual exists within Windsor-Essex, the Chamber will secure the business
+from outside the area. On all cases purchases must be in the best interests of the Chamber.
+
+2.3.2. Opening of the Proposals
+The Chamber reserves the right to open proposals privately and to reject any or all proposals
+received. Any proposal need not necessarily be accepted.
+
+2.3.3. Disqualification
+
+
+
+
+                                                                                                  5
+Proposals that do not adhere to the RFP terms and conditions, schedule, instructions, or
+requirement details as provided herein, including any addenda distributed, shall be disqualified.
+
+2.3.4. Withdrawal
+The Chamber reserves the right to withdraw, at its discretion, this RFP at any time and shall not
+be liable for any expense, cost, loss, or damage incurred or suffered by any proponent as a
+result of such withdrawal.
+
+2.3.5. Rejection of Proposals
+The Chamber reserves the right, without prejudice, to reject or accept any, or any part of, or all
+proposals and also reserves the right to award a contract to a proponent other than the
+proponent submitting the lowest total acquisition cost.
+
+2.3.6. Confidentiality
+The Chamber will consider all proposals confidential with respect to content and detail.
+
+2.3.7. Clarification on Intent
+The Chamber reserves the right and in its sole discretion to request from one or more
+proponents to provide additional information, clarification, greater detail, and/or address
+specific matters not adequately covered in the original submission after the RFP closing date,
+without being obliged to offer the same opportunity to all proponents.
+
+2.3.8. Mathematical Errors
+Should there be any error in extensions, addition, or computation, the Chamber shall be
+entitled to correct such errors based on the unit prices shown and the corrected total shall be
+considered as representing the intention of the proponent and shall be used as the basis for
+comparison of proponent’s documents and submissions.
+
+2.3.9. Alternative Proposals
+In addition to responding to the precise requirements of this RFP, proponents may submit
+separate and individual proposals for alternative solutions that the prospective supplier
+considers feasible for consideration. Any alternative solution must include the same level of
+detail as the information requested in response to the original requirements. The evaluation
+committee reserves the right, in its sole discretion, to determine the feasibility and
+acceptability of any alternative solution proposed.
+
+2.3.10. Acceptance of Terms and Conditions
+The proponent must acquaint themselves with the terms and conditions and clearly identify, by
+clause, any exceptions. Failure to do so will be deemed that all terms and conditions have been
+accepted by your organized. Submitting your organization’s standard terms and conditions will
+not be acceptable to fulfill this requirement. These terms and conditions will apply to all
+purchases arising from this RFP. Any terms or conditions which cannot be fulfilled should be
+clearly stated in the proposal.
+
+
+
+                                                                                                  6
+2.4. Other information
+Detail on your own letterhead and submit with our response any other information you feel the
+Chamber should know when considering an agreement with your firm. The Chamber may
+require additional information to determine if there is financial stability, quality control,
+qualified professional staff, and business organization in the Chamber’s opinion, to conduct
+proper business with the Chamber. All quotations submitted to the Chamber become the
+property of the Chamber.
+
+2.5. Evaluation of Submissions and Proposals
+Value – The Chamber will be evaluating the submissions received on the following list of criteria
+as they pertain directly to the requirements outlined in this RFP:
+        Lump sum fee (not to exceed) for provided services
+        Hourly rate for additional services (if requested)
+        Anticipated schedule with milestones
+        Specifications – includes but not limited to the requirements as outlined in section 1.1
+        Enhanced Agreements – includes but not limited to the financial and non-financial value
+        support given in this proposal, for the benefit of the Chamber, and ultimately its
+        members
+        Service, Support, and Reference – includes but not limited to the warranties, availability
+        of service personnel, and expertise
+        Design – based on look of first page design sample including elements listed in Appendix
+        B: Technical Clarification
+
+2.6. Selection Process
+All valid proposals will be reviewed and evaluated to determine which proponent best meets
+the requirements of the Chamber. Consideration may also be given to any additional
+information and comments if they should increase the benefits to the Chamber. All proposals
+will be reviewed and evaluated in complete confidence and considered to be open for
+negotiation unless otherwise stated by the proponent.
+
+2.7. Acceptance of Proposals
+The Chamber will not be liable for any costs incurred by the proponents in the preparation or
+submission of their Proposals. All materials submitted by the proponent(s) in response to this
+RFP will become the property of the Chamber and will not be returned. The Chamber reserves
+the right to either select a vendor or vendors whose proposals offers the best value to the
+Chamber directly from this RFP process, however, the Chamber is not under any obligation to
+award a contract and reserves the right to terminate the request for information process at any
+time and to withdraw from discussions with any or all of the prospective vendors who have
+responded. This RFP and any or all proponent proposals and responses will form an integral
+part of any agreements entered into as a result of this RFP process. The Chamber may, at its
+sole discretion, terminate negotiation with the selected proponent and negotiate with another
+proponent of its choice with no liability to the previously selected proponent.
+
+
+
+
+                                                                                                 7
+Section 3.0
+APPENDIX A
+Proponent Information Form
+This form must be completed, signed, and returned with the proposal.
+Closing Date: Tuesday, February 21, 2012.
+
+Submit to:
+
+Windsor-Essex Regional Chamber of Commerce of Commerce
+2575 Ouellette Place
+Windsor, ON
+N8X 1L9
+ATTN: Lindsey Rivait
+
+Name of Organization
+Street Address
+City/Province/Postal Code
+Contact Person
+Position
+Telephone
+Fax
+Email
+Signature of Authorized Person
+Name (print or type)
+Position
+Date
+
+APPENDIX B
+Technical Clarification
+The Chamber requires the design and coding for a website and the design and coding of a
+simple online content management system. Once a proposal has been awarded, the Chamber
+will supply a detailed site map and all text copy for web pages. Once the project is completed,
+future site maintenance and content management system entry will be done at the Chamber
+location. The Chamber may require additional work/technical support on your end, however (to
+be paid an agreed-upon hourly rate where required).
+
+Principles of the Website
+    1. Simplicity: The Chamber requires a sleek and modern design, but one that puts content
+       first, making information easy to find. The professional image of Chamber should be
+       communicated visually through clean and fresh design, reminiscent of our updated
+       Business Briefs publication. The Chamber also requires a liquid design of page that
+       expands and shrinks to suit users’ monitor size or preferred window size.
+
+
+                                                                                               8
+   2. Mobile Devices: With more and more people using their phone to go online, it is
+      imperative that the Chamber have a functioning and visually pleasing mobile version of
+      its website.
+   3. Accessibility: The Chamber’s site needs to be available to the visually impaired, those
+      with motor disabilities, hearing impairments, seizures, and cognitive and intellectual
+      disabilities.
+   4. Functionality: Ability for Chamber to create or update registration forms for events,
+      products, nomination forms for the business achievement awards, etc.
+   5. Ability to maintain and update content management system at the Chamber offices.
+   6. Ability to maintain, update, add, and post pages and photos online at the Chamber
+      offices.
+
+Suggested Website Elements (provide sample page)
+
+Home Page
+      Navigation items (to include drop down boxes): Home, About the Chamber,
+      Membership Services, Gold Circle Membership, Events, Directory, Resource Centre,
+      Policy/Advocacy, Volunteers, News, Advertising/Marketing Opportunities, ATHENA
+      Program, and Contact Us
+      Integrating social media (Twitter, Facebook, YouTube, and LinkedIn, with more to be
+      added as we go along) and weather app
+      We are looking for a way of making all of this information more attractive and less
+      cluttered
+      Increased advertising space. Currently we have a small space for ads only on the main
+      page that can suit 2-3 small static images. We’d like rotating ads, static ads, and space to
+      accommodate differently sized ads. Ideally, we’d also like ads to appear on other pages,
+      not just the main page
+      Sign up box for the Chamber’s bi-weekly electronic newsletter
+      Search function
+      An online membership registration form with the ability to calculate fees, and the ability
+      to collect credit card information and send to Chamber securely without processing
+      payments online
+
+Site Elements
+        Font size and type, at your discretion
+        A link from all front page feature items to correct place on site
+        Chamber address and phone number on each page
+
+Content Management System Elements
+The purpose of the content management system is to manage the online content of the
+Chamber website, with the idea that Chamber staff will be able to enter data so that it displays
+on appropriate pages and in a pre-formatted way. The Chamber requires one Admin account
+that will be able to take care of everything on the site, as well as individual accounts for each
+
+
+
+                                                                                                9
+employee where they will be able to edit only sections on the site that pertain to their job
+function. The Chamber requires eight individual accounts (plus one Admin account to make
+nine) with the option of adding more accounts should the Chamber hire additional staff.
+
+       ABOUT THE CHAMBER: Subcategories with drop down boxes will include Annual Report,
+       Board of Directors (with room for photo of each Board member and corresponding 200-
+       word bio), Committees, Departments and Staff, Privacy Policy, and Location and Map
+       MEMBERSHIP SERVICES: Subcategories with drop down boxes will include Membership
+       Benefits, Membership Application, Joining the Chamber, International Business Builder,
+       Member Testimonials, and Chamber Site of the Month
+       GOLD CIRCLE MEMBERSHIP: Details of this will be forthcoming
+       EVENTS: Subcategories with drop down boxes will include: a separate page for each
+       major event (After Business, Business Excellence Awards, Chair's Ball, Golf Tournament,
+       Holiday Party, and Luncheons) with options to add more events. For Business Excellence
+       Awards - design as a "website within a website" to feature a photo gallery of finalists,
+       finalists’ information, event sponsors, and information about the history of the event.
+       Other subcategories under events include: Calendar and Registration, Event
+       Committees, Networking, Sponsorship, and Photo Gallery. The Photo Gallery must have
+       the ability to upload large batches of photos easily at one time and offer a field for
+       photo captions.
+       DIRECTORY: This will be a searchable database of Chamber members, which is done
+       through Membee
+       RESOURCE CENTRE: Subcategories with drop down boxes will include Member
+       Resources, and Links
+       POLICY/ADVOCACY: Subcategories with drop down boxes will include Advocacy, Policy
+       Committee, Policy Development, Policy Positions, and Reports and Surveys
+       VOLUNTEERS: Subcategories with drop down boxes will include Volunteer Committees,
+       and Volunteer Application
+       NEWS: Subcategories with drop down boxes will include Media Releases, Chamber in
+       the News, Business Briefs, Electronic Newsletter, and Photos. The Photos here are a
+       separate gallery from the Events Photo Gallery
+       ADVERTISING/MARKETING OPPORTUNITIES: This will include our advertising rate card
+       and information about our publications (Business Briefs, Electronic Newsletter, and
+       Website)
+       ATHENA PROGRAM: Subcategories with drop down boxes will include ATHENA Award,
+       and ATHENA Scholarship
+       CONTACT US: Simple page listing name, job title, email, and phone extension
+
+The proposed website will have to be integrated seamlessly with the existing Chamber
+Membership Management System (IRM Systems which includes our membership online
+directory and events related calendar).
+
+Appendix C
+
+                                                                                               10
+Acknowledgement Form
+To be read and completed by the proponent.
+
+I/We the undersigned, do hereby:
+a) Acknowledge receipt of and accept all general and specific terms and conditions of the RFP
+document.
+b) Submit the enclosed proposals and submissions in accordance with the terms, conditions,
+and requirements as set out in the RFP document.
+c) Agree to supply any and all supplementary information pertaining to our submission
+separately at the request of the Chamber.
+d) Declare that the matters stated in the proposal(s) are in all respects true.
+
+Name of Organization
+Street Address
+City/Province/Postal Code
+Contact Person
+Position
+Telephone
+Fax
+Email
+Signature of Authorized Person
+Name (print or type)
+Position
+Date
+
+
+
+
+                                                                                                11
+

@@ -1,0 +1,2518 @@
+                 MANAGING THE RISKS
+
+
+
+
+A Guide for Improving RFP and Procurement Practises
+
+In Justice Technology Acquisitions
+
+
+
+
+                   Draft Copy For Review Only
+                                                     Table of Contents
+
+Overview. How This Handbook Can Help Your Agency ......................................................... 1
+Chapter by Chapter: What You Will Find in This Handbook......................................................... 1
+Chapter 1. Introduction............................................................................................................... 3
+Benefits and Risks in Information Technology Acquisition........................................................... 3
+Available Acquisition Strategies..................................................................................................... 4
+       Sole Source.......................................................................................................................... 5
+       Request for Information ...................................................................................................... 5
+       Request for Quotation ......................................................................................................... 6
+       Request for Proposal ........................................................................................................... 6
+       Other Options ...................................................................................................................... 7
+Bulletproof Your Process ................................................................................................................ 7
+Chapter 2. The RFP Process ....................................................................................................... 9
+A Process? A Document? What Is an RFP? ................................................................................... 9
+Why Use an RFP? ........................................................................................................................... 9
+When Is an RFP Used? ................................................................................................................. 10
+Design Your RFP Process ............................................................................................................. 11
+       Recognize Potential Problem Areas.................................................................................. 12
+       Provide Sufficient Time to Do a Good Job ....................................................................... 14
+       Mile Markers on the RFP Road: A Process Outline ........................................................ 15
+              Assemble Your Technology Team and Assign Duties ......................................... 16
+              Plan the Project...................................................................................................... 16
+              Research Procurement Strategies .......................................................................... 17
+              Write the RFP........................................................................................................ 17
+              Review and Release the RFP ................................................................................ 18
+              Hold a Vendor Meeting......................................................................................... 19
+              Accept the Proposals ............................................................................................. 20
+              Evaluate the Proposals .......................................................................................... 20
+              Select a Vendor and Finalize the Contract ............................................................ 22
+       Selected Timelines from Sample RFP Processes.............................................................. 22
+Chapter 3. The RFP Document.................................................................................................. 27
+How Much Information Goes Into the RFP Document? .............................................................. 27
+Basic Structure of an RFP ............................................................................................................. 29
+       Purpose/Ground Rules....................................................................................................... 29
+       System Requirements........................................................................................................ 29
+       Evaluation Criteria ............................................................................................................ 29
+       Proposal Format ................................................................................................................ 31
+What Kinds of Information Should Go into the RFP Document? ................................................ 32
+Sample Tables of Contents............................................................................................................ 32
+       Example — Law Enforcement Support Agency............................................................... 33
+       Example — Little Rock Police Department: Police Information Systems
+               Expansion.............................................................. Error! Bookmark not defined.
+RFP Template ............................................................................................................................... 37
+
+
+
+                                                    Draft Copy For Review Only
+Chapter 4. Using and Choosing Consultants........................................................................... 51
+When Should You Use a Consultant? ........................................................................................... 52
+A Good Consultant Brings Value to the Process .......................................................................... 52
+What Consultants Can and Cannot Help You Accomplish........................................................... 53
+Choosing Consultants: Guidelines and Suggested Process........................................................... 53
+       Before You Begin: Do Your Homework .......................................................................... 53
+               The Problem .......................................................................................................... 54
+               Your Consulting Needs ......................................................................................... 54
+       Finding Good Consultants................................................................................................. 55
+Qualifications Requirements ......................................................................................................... 55
+Know the Ties That Bind You ...................................................................................................... 55
+Do You Need to Issue an RFP to Hire a Consultant? ................................................................... 56
+Check References.......................................................................................................................... 56
+Chapter 5. Summary.................................................................................................................. 57
+
+
+
+
+                                                                     ii
+                                   Acknowledgements
+
+        This handbook was prepared as part of the “Technology Acquisition Project”
+administered by the Institute for Law and Justice in partnership with the Center for Digital
+Government and funded by the National Institute of Justice (NIJ), U.S. Department of Justice.
+The NIJ project monitor is Phyllis McDonald. The handbook was prepared by Raymond
+Dussault, Center for Digital Government. Other reviewers and contributors included Steve
+Pendleton, Information Analytics, Inc.; and Tom McEwen, Randall Guynes, and Julie Wartell,
+Institute for Law and Justice. The handbook should be considered a draft pending NIJ review.
+
+      Several sections of this handbook are based on and contain text from The Request For
+Proposal Handbook, Second Edition, 1999. The material has been included with permission of
+Michael Asner Consulting, the copyright holder.
+
+        “An RFP Template” in Chapter 3 originally appeared in The RFP Report, May 1998, and
+is included with permission of Michael Asner Consulting, the copyright holder.
+
+
+
+
+This project was supported by Grant No. 98-LB-VX-K0
+
+
+
+
+                                                iii
+11 awarded to the Institute for Law and Justice by the National Institute of Justice, Office of Justice
+Programs, U.S. Department of Justice. Points of view in this document are those of the author and do not
+necessarily represent the official position or policies of the U.S. Department of Justice.
+
+                             Overview
+               How This Handbook Can Help Your Agency
+
+The Request for Proposal (RFP) process is highly effective when used to acquire complex
+information technology systems and services. It differs from a bid or request for quotation in that
+the RFP describes the problem that the buyer is trying to solve. RFPs are used regularly for
+projects that involve complex technology systems, installation, training, and other services.
+They are almost always used when the desired solution is not available as an off-the-shelf
+product, especially when the basis for selection will be made on more than just cost. In many
+public agencies, especially in those jurisdictions governed by state and local procurement laws,
+the RFP process must be used for large technology system purchases.
+
+When used correctly, an RFP sets the stage for a successful technology project. The RFP should
+clearly communicate to vendors the buyer's present and future technology needs; their installed
+technology base; financial, political, and other limitations; and the buyer's expectations for the
+performance of the vendor and the proposed solution. This handbook is intended to help law
+enforcement purchasers understand how to use an RFP to communicate effectively with vendors
+and begin the process of developing shared expectations for the project. It provides instructions
+on how to use the RFP process to reduce risk, how to draft the RFP document, how to prevent
+vendor complaints and protests, and when and how to choose consultants. It also provides
+numerous examples from RFPs previously used by justice agencies to procure information
+technology systems.
+
+
+Chapter by Chapter: What You Will Find in This Handbook
+For ease of use, this handbook is broken down into several sections. If you are looking for
+specific information related to a certain portion of the procurement process, you should find the
+following information helpful in guiding your research.
+
+Chapter 1: Introduction provides an overview of the procurement process, including the
+specific challenges that face law enforcement and the various avenues available for purchasing
+new technologies. It also includes some tips on managing a successful procurement process.
+
+Chapter 2: The RFP Process deals with a number of common questions: What is an RFP?
+When is it used? It then provides an overview of the RFP process. It leads you through each
+step in the process from start (someone has an idea for a new application) through to the end
+(debriefing the vendors). It pays particular attention to the evaluation process and illustrates
+commonly used approaches.
+
+Chapter 3: The RFP Document contains Tables of Contents from representative RFPs. It
+explains the purpose and content of each section of these RFPs. The examples used are
+relatively simple in order to illustrate various features.
+
+
+
+                                      Draft Copy For Review Only
+Chapter 4: Using and Choosing Consultants helps the reader understand the value of a
+consultant; what a consultant can and cannot accomplish; and how to find, evaluate, hire, and
+manage consultants.
+
+Chapter 5: Summary provides tips on working with vendors, learning from other agencies’
+experiences, and conducting a critique of your own procurement process.
+
+There is no single book that can ensure that your acquisition of a new system will be risk free.
+However, the material in this handbook should make your voyage less confusing and more
+effective. The “best practices” and examples can be used to reduce your risks and make a better
+decision. For either the first-time buyer or the experienced technology professional, this
+handbook is a good place to start when building a successful RFP process and document.
+
+
+
+
+Draft Copy For Review Only                      2
+                                         Chapter 1
+                                       Introduction
+The pressure is on.
+
+Within the span of a decade, law enforcement agencies have seen an explosion of new computer-
+based applications and technologies designed to improve their ability to do everything from
+tracking caseloads to mapping crime. Just as these new technologies are bringing law
+enforcement new tools, they are presenting new challenges as well. In the procurement of
+government technology systems, vendors have always had the edge. Through necessity, law
+enforcement procurements are often led by line officers who have little experience with the
+process and even less experience with the technologies they are acquiring. The results,
+understandably, are mixed.
+
+In 1998, the Department of Justice (DOJ), through the National Institute of Justice (NIJ),
+commissioned the Technology Acquisition Project (TAP). The TAP team examined the process
+by which law enforcement agencies acquire information technology (IT) systems, and developed
+case studies which highlighted the common practices that led to both failures and successes. Our
+review focused on the decisionmaking, procurement, implementation, and impact phases of the
+acquisition process. The project did not attempt to research how support, maintenance, and the
+employment of the technologies contribute to success or failure.
+
+We hope that the project’s products, including best practice guidelines, case studies of successful
+acquisitions, and this handbook, will become indispensable tools for all levels of law
+enforcement. New technology should result in new tools for law enforcement agencies, not bog
+them down in endless cycles of negotiation and implementation, or break limited budgets. This
+handbook should serve as a guide for preparing the complex Request for Proposal (RFP)
+document often necessary in the high-tech procurement process. The final TAP report will
+provide a broader understanding of what is working for agencies of all sizes when embracing the
+tools offered in a new millennium.
+
+
+Benefits and Risks in Information Technology Acquisition
+High-tech crime fighters are no longer the future vision; they are the present. Law enforcement
+is an information-driven profession, yet as recently as just a few years ago agencies that had
+crime mapping and analysis capabilities or integrated computer aided dispatch (CAD) and
+records management systems (RMS) were considered cutting edge. Today, the agencies without
+are considered behind. These systems are extremely complex, providing a greater range of tools
+than have ever been available before. CAD systems can track numerous law enforcement
+activities in real time and may include mapping and analysis tools as well as connections to
+NCIC and other important databases. RMS is available with numerous modules, like incident,
+traffic accident and criminal report writing, pawn shop records, evidence tracking and case
+management. Yet, despite this complexity, IT systems are within the reach of virtually every
+police department in the country today.
+
+
+
+Draft Copy For Review Only                       3
+Information technology and integrated justice systems improve the management of paperwork
+and data, creating efficiencies through paperwork reduction, elimination of data input
+redundancy, and seamless interfaces. Electronic databases mean quicker access to information
+and the ability to link with other agencies to promote information sharing.
+
+Still, there are risks that follow the many benefits of embracing new technologies. As mentioned
+before, many law enforcement agencies have no staff experienced in the process of acquiring
+new technologies. It is rare in fact—except in the largest jurisdictions—that there is even a single
+individual dedicated to the task on a continuous basis. In many cases, police departments rely on
+assistance from their local city or county IT department. If they decide to manage the process
+themselves, agencies will typically assign a civilian manager, a line officer, or a police manager
+to the task. In almost every case, internal staffers turned project managers must use caution. IT
+professionals will know how the new technology fits in with existing systems, and they may
+have a clear understanding of the process of implementing new IT systems. Yet they often lack
+an appreciation for the business processes and practices of a police agency. Police personnel will
+have a better appreciation for their needs but will not normally have experience acquiring and
+implementing IT systems. Police staff members are often expected to maintain their usual
+duties. The competition between police duties and project management can leave the technology
+project wanting. Despite these dangers, you can take steps to minimize the risks associated with
+the high-tech procurement process and create a successful procurement record for your agency.
+
+While it is impossible to totally eliminate the risks of a particular project, you can help mitigate
+some of the risks by doing your homework before committing to a course of action. Educate
+yourself about what others have done, both successfully and unsuccessfully. If your agency has
+implemented IT systems before, talk to the individuals who led those acquisitions. Talk to
+neighboring jurisdictions to ascertain how they’ve acquired and implemented new technologies.
+Examine their different approaches and the amount and types of information they gathered for
+their decisions. There is no reason to reinvent the wheelyou can and should learn from the
+experiences of others. This handbook is a good place to start looking for those experiences, but
+it should not be your only source. Network at conferences and training sessions; ask potential
+vendors for lists of their law enforcement customers, including contact names and numbers; and
+seek out the project leaders for agencies profiled in magazine articles.
+
+
+Available Acquisition Strategies
+Although this handbook’s purpose is to provide guidelines for creating an RFP document, in
+truth, there are many different options available to agencies. The exact route you take to
+purchase new information technology depends on your organization’s policies, your funding
+vehicle, the urgency of your needs, the nature of your existing systems, and the amount of risk
+you are willing to take on as an organization.
+
+The RFP document is the most commonly used procurement method, generally has the highest
+correlation to project success, and is the least risky. But RFPs are not the solution for every
+agency or every procurement. A well-crafted RFP takes time to develop and time must be
+allowed for vendors to respond. For the agency that requires an information technology solution
+quickly, an RFP process may be too time consuming, and responding to an RFP is a time
+
+
+Draft Copy For Review Only                        4
+consuming and expensive process for vendors as well. An RFP is inherently designed to
+stimulate competition. In rare cases, only one vendor will be able to meet an agency’s IT needs.
+In these cases, developing an RFP and responding to it may be misplaced effort for both the
+agency and the vendor. For these and other reasons, agencies should understand that there are
+alternatives to the RFP. The main options are described below.
+
+
+Sole Source
+Sole Source is an award of a contract to a vendor without formal competition. Some agencies
+will sole source when they feel their project is too small to garner the attention of most vendors.
+In such cases, the project team usually spends considerable time prior to the award researching
+potential solutions. The data necessary to make the vendor selection is gathered through the
+team’s own research, using information obtained from other law enforcement agencies,
+magazine articles, research papers, and site visits to manufacturers or agencies where similar
+systems have been installed. Another reason to sole source is when only one product will fit an
+agency’s needs. This might be the case if you have or are developing close information sharing
+ties with a neighboring department and want to obtain a similar system. It also might be an
+option if you have already seen exactly what you want in place at another agency and want to
+move quickly through the acquisition process. With the right project team in place—a dedicated
+group with few distractions and the willingness to develop and adhere to a written acquisition
+plan—this process can be the right fit; however, it should not be undertaken lightly. A sole
+source is sometimes misused as a way to avoid the hard work of preparing a formal statement of
+needs, performance standards, and IT planning. Agencies should avoid using the sole source in
+this manner. Without these necessary steps, the potential risks of the procurement process are
+magnified.
+
+
+Request for Information
+A Request for Information (RFI), unlike the sole source approach described above, is a formal
+written process used by some agencies to begin or include in the acquisition process. The RFI is
+most often used as a means of gathering information from vendors prior to the formal acquisition
+process. By issuing an RFI, the purchaser can develop cost estimates for the desired system and
+notify the vendor community that they will be seeking a new system.1 The RFI also serves to
+qualify potential vendors. RFIs commonly ask for vendor references, project experience, and
+proof of financial stability as a means of pre-judging vendors. Some agencies will, in fact, use
+the RFI to manage the number of potential bidders by sending the RFP only to vendors who
+responded to the RFI. The RFI can also be used as a compromise between sole sourcing and an
+RFP. The RFI is used to generally describe the agency's needs and requirements. RFI proposals
+are then followed up with product demonstrations and site visits. Greater detail about project
+deliverables may then be added during the contract negotiations. Although this process often
+moves more quickly than an RFP, it tends to lack the detailed assessment of needs and
+articulation of requirements. As such, it is not recommended for more complex procurements.
+
+
+
+1
+    Agencies will find that they get a better response from vendors if they notify them in advance of their project
+    and allow the vendors an opportunity to get to know the agency’s needs.
+
+Draft Copy For Review Only                                5
+The RFI may also be used as a precursor to the RFP to qualify one vendor. In this case, the RFI
+includes all of the detail associated with an RFP. After the proposals have been evaluated and a
+vendor selected, a highly specific RFP will be issued to formally engage the vendor. The
+advantage of this method is that the procuring agency can modify the requirements of the RFP to
+its advantage to reflect new information that was gathered during the RFI process. The RFI/RFP
+combination method can also shorten the contract negotiation process by allowing the agency
+and the vendor to develop a shared understanding of the scope of work, contract terms, and other
+issues prior to the release of the RFP.
+
+While it can be useful, the RFI, especially when issued for smaller projects, may garner a limited
+response from vendors, thereby undercutting its usefulness. If the RFI is to be used as part of the
+acquisition process, the importance of responding to the RFI should be clearly communicated to
+vendors. As with sole source and other less formal methods of procurement, the use of an RFI
+alone is not recommended. Without a detailed explanation of needs and performance
+requirements, the opportunity for misunderstandings and corner-cutting increases significantly.
+
+
+Request for Quotation
+A Request for Quotation (RFQ) is a sourcing technique in which all of the requirements are
+specific and mandatory and, therefore, the contract can be awarded on the basis of least cost. The
+RFQ includes the detailed requirements and performance statements of an RFP but allows little
+innovation or flexibility for the vendor. Because it describes a specific product, the RFQ could
+be used in place of the RFP in the previously described RFI/RFP combination method.
+Generally, however, the RFQ can be used for acquiring personal computers, or when several
+distributors carry the same product, but it is not appropriate for more complex acquisitions.2
+
+
+Request for Proposal
+A Request for Proposal is an acquisition technique in which the selection is based on a number
+of judgmental factors, such as how well a proposed system meets an agency’s needs. An RFP is
+seldom used to select a product when price is the primary selection criteria. It is used when an
+organization is looking for a solution to a problem or a vendor to satisfy stated requirements. It
+is the most appropriate of acquisition processes for quickly evolving complex IT systems
+because it allows the agency to describe what they are trying to accomplish, and it asks the
+vendor to describe how it can meet those needs.
+
+The RFP is generally the least risky procurement method for several reasons. By spending the
+time to define technological and operational needs, the solution is more likely to meet a majority
+of the agency's needs; and by developing a formal statement of goals and requirements, there is
+less opportunity for misunderstandings and corner-cutting. In addition, the RFP serves to define
+the criteria for success. As such, the success criteria can be effective in focusing the project. The
+specifications set forth in the RFP will follow the project through to its finish in one way or
+another. Because this process is thorough, inherently creates useful written documentation, and
+
+2
+    In some cases, the RFQ can be used as a follow-up to an RFI. Through the RFI, the agency has selected the
+    vendor with the best solution for their needs. The RFQ is then used to acquire the product by describing in
+    detail, often using brand names, the exact items that are required.
+
+Draft Copy For Review Only                               6
+is relatively low risk when managed properly, it is by far the main avenue chosen when
+procuring major law enforcement technologies.
+
+
+Other Options
+Strategic Partnering is a competitive process for selecting a private sector partner to jointly
+develop a solution and share the investment, risks, and rewards based on a common purpose.3
+For agencies that need a solution that is not commercially available, or for vendors who want to
+either enter the law enforcement market or develop a new product, strategic partnering is a
+frequent choice. Since the strategic partnering approach usually implies that an actual product
+does not exist, this is an inherently risky approach. Numerous problems can occur. Delivery
+schedules can slip by months and sometimes years. Key development personnel can leave.
+What looks good on paper doesn’t always work in practice. While strategic partnering can allow
+an agency with little or no money to get a sophisticated information system, it can, in worst case
+scenarios, also result in years of wasted effort.
+
+Pre-negotiated Contracts are becoming increasingly popular avenues for procurement. Under
+this option, agencies look to vendors that have already been approved by their respective city,
+county, or state governments. Essentially a form of sole source procurement, this method relies
+on a previous competition to maintain the fairness of the process.
+
+
+Bulletproof Your Process
+No matter which route your agency chooses, there are some basic strategies that can help to
+bulletproof your procurement process:
+
+     • Develop or update a strategic IT acquisition plan for your agency before making any
+       major purchase.
+     • Start with a solid description of your existing IT and operations environment.
+     • Create a clearly articulated vision, including why this project exists and what is to be
+       done.
+     • Specify your goals for the project and the tangible accomplishments that will describe
+       success.
+     • Identify a specific, preferably experienced, project leader.
+     • Provide the procurement manager with highly visible management support.
+     • Involve end users in the planning and design of the system’s requirements portion of the
+       process.
+     • Ensure that the vendor has installed a system of similar size and scope in another agency.
+     • Demand and research references. Travel to a reference site if possible.
+     • Create a realistic, written budget and timeline and stick to them.
+     • Do not start any work until you have a signed contract.
+     • Ensure that the contract ties payment to deliverables.
+
+
+3
+    A very successful example of this process can be found in the TAP case study report involving the development
+    of the State of California’s CAL GANG investigative software in partnership with Orion Scientific Systems.
+
+Draft Copy For Review Only                              7
+Draft Copy For Review Only   8
+                                             Chapter 2
+                                          The RFP Process
+
+A Process? A Document? What Is an RFP?
+An RFP is a document that represents a process.
+
+It is a formal invitation from an agency to a vendor to submit a proposal to address a problem or
+need identified by the agency. The RFP describes the agency's IT and operational goals, existing
+systems, functional requirements, timeline, and other important information in a written
+document. The RFP serves to communicate the same information at the same time to multiple
+vendors, thus ensuring a fairer and more efficient process. The RFP helps potential vendors to
+get to know the purchaser and begins the process of developing a relationship between the two
+entities. The RFP is the foundation of the entire procurement and implementation process. An
+RFP also becomes a process through which the procuring agency is gathering the information
+necessary to judge a vendor’s ability to perform based on the vendor’s experience, qualifications
+and solution.
+
+Understanding both the process and construction of the RFP is important to those who regularly
+procure technology. This chapter discusses the RFP process and what steps you should consider
+in designing your own. Chapter 3 focuses on the development of the RFP document itself.
+
+
+Why Use an RFP?
+The RFP is the starting point for acquiring the most appropriate IT solution for your needs and
+developing a working relationship with the vendor. The RFP provides the vendor with a detailed
+description of every issue that they need to know in order to design a system to meet your needs.
+The RFP also tells vendors how their responses will be judged. The better the RFP describes the
+agency's goals and needs and the existing IT infrastructure, the more likely the proposed
+solutions will meet those needs. Properly used, the RFP also forces the agency to decide how
+they will use IT to support their operations and make choices about what technology to acquire.
+The RFP prompts your agency to systematically define the acquisition process and the basis on
+which the proposals will be assessed. The importance of clarifying your evaluation process is,
+on its own, quite significant. Complaints from unsuccessful vendors will be reduced and
+proposals will be more focused on meeting your objectives if your evaluation process is clearly
+articulated.4 The RFP itself provides a standardized framework for vendor proposals. It
+highlights the business, technical, and legal issues that you expect to cover in the final contract.
+
+Many agencies, especially at the state level, have developed detailed written guidelines for their
+respective RFP processes. These examples are often applicable to local agencies as well.
+Following is the State of Oregon’s written statement of purpose for the RFP.
+
+
+
+4
+    Naturally, this is a good reason to develop evaluation objectives that have some relationship to what is really
+    important to you.
+
+Draft Copy For Review Only                                9
+      About Requests for Proposals5
+
+      Oregon State Government competitively procures the hardware, software, and
+      personal services it needs by following public contracting rules--often using requests
+      for proposals. The RFP process is built on the assumption that an agency can
+      describe its purpose, plans, problems, goals, and requirements in sufficient detail to
+      give vendors an understanding of what the agency wishes to accomplish. The process
+      assumes that vendors, in turn, will be able to propose viable solutions for meeting the
+      agency’s needs. This arrangement encourages competition, leads to lower prices, and
+      permits the agency to act as an intelligent consumer by considering an array of
+      possible solutions before selecting one.
+
+
+
+When Is an RFP Used?
+In theory, an RFP can be used whenever there is a need for obtaining specific goods and services
+as a solution to a stated problem. The RFP process, however, can be expensive in terms of both
+hard costs and staffing and therefore may be counter-productive in procurements under $10,000
+in value.
+
+The following decision points are intended as a guide for the reader in determining when an RFP
+is appropriate. In many cases, local laws and regulations may determine exactly when an RFP or
+competitive bid process is required.
+
+An RFP is recommended when:
+     • Estimated system or project cost exceeds $10,000.
+     • There are numerous vendors who can provide competitive products and services.
+     • The requested system is technologically complex, including a mix of hardware, software,
+       and services.
+     • The requested system includes custom interfaces, functionality, or other products that are
+       not available as off-the-shelf products.
+     • The project includes substantial tailoring of the software to meet your needs.
+     • The purchase involves multiple agencies or jurisdictions.
+     • The system is a replacement and not an upgrade or add-on to an existing system.
+
+Sometimes the cost of preparing an RFP document can be small, especially if a similar one has
+previously been used by the organization. However, the cost of preparing the document is only
+one of many costs. Often, the costs of the RFP process far exceed the costs of the document.
+Costs incurred in the process include those for defining the requirements or the problem, typing
+documents and having them reviewed, formally issuing the RFP, answering vendors' questions,
+defining evaluation procedures and criteria, evaluating proposals, and preparing report memos.
+
+
+5
+    Most of the state-level examples excerpted in this handbook can be found through their respective state web
+    sites.
+
+Draft Copy For Review Only                              10
+Generally, the cost of the procurement should be related logically to the cost of the ultimate
+product. However, even in relatively low-cost procurements, like those under $10,000, you
+should still follow the best practices guidelines outlined in this handbook.
+
+
+Design Your RFP Process
+While writing and releasing an RFP can be a challenging undertaking, careful attention to the
+steps in the RFP process can simplify the task. Every RFP process should include at least the
+following seven steps:
+
+           1) Develop a detailed list of your user requirements.
+           2) Write your RFP.
+           3) Release your RFP.
+           4) Hold a vendor’s meeting.
+           5) Accept the proposals.
+           6) Evaluate the proposals.
+           7) Select a vendor and finalize your contract.
+Within this framework, there is ample room for customization, allowing you to build a process
+that reflects your agency’s needs and regulations.
+
+In some cases, department guidelines or local regulations may affect this process. All local
+regulations should be reviewed before embarking on the development of a new RFP. Where do
+you begin? One way to start is by looking at your current procurement practices. Do you have
+established guidelines for handling RFPs? How does your practice comply with all the laws,
+regulations, and policies pertaining to procurement in your agency? Do you have a written
+evaluation protocol? Do you think your current process needs overhauling?
+
+You’ll probably discover that there are many ways to go. No matter what your particular
+situation, you should always think through your choices in advance, noting potential problem
+areas and allowing your team sufficient time to recognize potential problems and do a good job
+of managing the process. If you can incorporate these factors into your process, then the risks of
+failure will decrease dramatically. The procurement will be consistent with your organization’s
+policies and public policy; and there will be less chance that objections will be raised by
+disgruntled vendors. The goal of the process is to select a responsible vendor offering a low-risk
+solution. When this occurs, there is a good chance that the vendor will perform as expected, an
+acceptable solution will be implemented on time and within budget, and the project will be a
+success. The key to reaching this result lies in
+
+    • Recognizing potential problem areas.
+    • Providing sufficient time to do a good job.
+
+The next sections take a closer look at each of these two important factors.
+
+
+
+
+Draft Copy For Review Only                      11
+Recognize Potential Problem Areas
+Many organizations collect and distribute information to help improve the quality of the process.
+This information is often in the form of a table or checklist. Here is a page from the State of
+Washington’s Information Technology Policy Manual identifying factors they have seen lead to
+problems in the RFP process.
+
+
+
+
+Draft Copy For Review Only                     12
+                                 Potential Solicitation Problem Areas
+             Cause                                Effect                         Potential Risk
+No RF(X) coordinator named.          Unorganized solicitation effort.    Complaints and protests.
+                                     Confusion within agency and         Solicitation may become invalid.
+                                     from vendors. No accountability.
+
+Unclear statement of need.           Proposers don’t respond             Protested solicitation, possibly
+                                     effectively or completely to        requiring reissue of documents.
+                                     RF(X).
+
+Unclear proposal requirements.       Vendor confusion. Some              Complaints and protests.
+                                     proposals incomplete.               Solicitation may become invalid.
+                                                                         Wrong item acquired. Agency
+                                                                         loses responses from potentially
+                                                                         good sources.
+
+Document not organized               Proposers can’t find requirements   Complaints and protests.
+effectively.                         and details. Proposals incomplete   Solicitation may become invalid.
+                                     or late.                            Agency loses response from
+                                                                         potentially good sources.
+
+Timeline too short or not properly   Some proposers miss deadlines.      Complaints and protests.
+defined.                             Not enough time for proper
+                                     demonstrations or proposal
+                                     preparation. Agency loses
+                                     responses from potentially good
+                                     sources.
+
+Ineffective pre-planning for         Confusion among agency staff        Complaints and protests. Legal
+evaluation.                          and vendors. Difficulty in          action. Violation of law or
+                                     documenting process. Difficulty     policies.
+                                     in selecting winner.
+
+Incomplete statement of              Uncertainty from proposers and      Protested solicitation, possibly
+evaluation criteria.                 evaluation team. Unfair             requiring reissue of documents.
+                                     evaluation.                         Legal action.
+
+Incomplete, misapplied, or           Inappropriate or illegal            Protested solicitation, possibly
+missing OMWBE (minority or           application of OMWBE credit.        requiring reissue of documents.
+women owned business                                                     Legal action.
+enterprise) discussion.
+
+Solicitation not advertised          Agency loses responses from         Complaints and protests. Legal
+effectively.                         potentially good sources.           action.
+                                     Possible non-competitive
+                                     solicitation.
+
+Ineffective pre-bid debriefing       Confusion from vendors over         Complaints and protests. Legal
+conferences.                         solicitation need or purpose.       action. Violation of law or
+                                     Agency loses responses from         policies.
+                                     potentially good sources.
+
+Appendix C: Solicitation Resources Including Model RF(X)                                  April 10, 1997
+
+
+Draft Copy For Review Only                               13
+Provide Sufficient Time to Do a Good Job
+Most people involved in the RFP process for the first time underestimate both how long it will
+take to prepare the RFP and how long it will take vendors to provide a good response. There are
+numerous activity, review, and approval steps involved in preparing and disseminating the
+typical RFP, and you should always provide your team with more time than you think you need.6
+
+Often the type of technology you are buying will affect the details of your timeline. For
+example, if you are attempting to procure a multi-agency (police, fire, and EMS) or multi-
+jurisdictional CAD system, expect your RFP to be complex and time consuming, and the vendor
+responses to be equally complex and detailed. On the other hand, if you are purchasing a few
+dozen mobile data computers, your RFP should be simple and succinct.
+
+The entire process—from identification of a need to the signing of the contract—can vary in time
+from four weeks to 18 months.
+
+Equally important in the acquisition process is allowing ample time for vendors to respond to
+your RFP.7 The appropriate time frame varies according to the degree of complexity of the
+project and the detail included in the RFP. For a simple procurement, 14-30 days may be
+sufficient; however, for complex projects you should plan on giving vendors from 30 to 45 days
+following the vendors conference. While this may seem like an excessive allotment, remember
+how much time you have spent writing the RFP. Allotting ample time for responses also
+encourages vendors to develop proposals that are relevant and comprehensive. The less time
+provided for a response, the more likely that the proposals will be filled with irrelevant and
+vague marketing language. Worse yet, some vendors with good solutions may pass on your
+project entirely if the response time is too short.8 It is important to consider the vendor’s position
+in that vendors will incur thousands of dollars in costs to respond to an RFP. The cost to respond
+to some complex proposals can easily soar above $50,000. They want to do a good job of
+showing they can meet your needs; and if they feel they cannot do that within a restricted time
+frame, you may find yourself with few choices come selection time.
+
+It is sometimes tricky to balance your organizational needs with a realistic timetable. Your chief
+may want the new technology "yesterday" or your current system may have failed. If the chief
+or others are applying pressure, you must be ready to defend the schedule to both your own
+management and potential vendors. Keep in mind that if the timetable is too long, your
+organization suffers by not having the new technology available. If it is too short, you may
+receive a smaller than expected number of responses, and the vendors will be hampered in their
+efforts to properly evaluate your needs. In some cases, an unreasonable time frame for responses
+can result in vendor complaints that further slow the RFP process.
+
+6
+    We recommend talking to other agencies and vendors to get estimates on how long it will take to develop your
+    RFP. If you decide to hire a consultant, they will also be able to tell you how long the effort is likely to last.
+7
+    Since time for proposal development varies according to market conditions and many other circumstances, we
+    recommend that agencies describe their project to several vendors and ask them to indicate how long they will
+    need to develop a quality proposal.
+8
+    Vendors typically receive more RFPs than they can respond to. Normally, they review each RFP and evaluate
+    their chances of winning. One important factor in this evaluation is the response time. If it is really short, most
+    vendors start to think the RFP is "wired." Otherwise, they simply make a decision about whether they can
+    produce a quality proposal in the time allotted.
+
+Draft Copy For Review Only                                14
+Do not underestimate the amount of elapsed time a project will take; and definitely do not
+underestimate the amount of your time the detailed, day-to-day management of this process will
+take. From rounding up your technology committee and getting their input, to questions
+submitted by vendors after the RFP has been released, the process of acquiring a new system is
+demanding. Detailed research into these issues can eliminate later headaches by allowing you to
+properly plan the process.
+
+                                                Tips on Timing
+
+        From RFP release to vendors conference:                                 3 weeks
+        Vendors (bidders) conference duration:                                  2 to 4 hours
+        Written answers to questions raised:                                    2 weeks
+        From vendors conference to deadline for proposals:                      30 to 45 days
+        Solution demonstrations:                                                2 days in duration*
+        *
+            Agencies should not spend months and thousands of dollars on research and then make their final
+            decision on a four-hour demo. Take your time to make the best decision.
+
+
+
+                                              PLAN CAREFULLY.
+
+                                 BUDGET MORE TIME THAN YOU NEED.
+
+
+
+Mile Markers on the RFP Road: A Process Outline
+With the above caveats in mind, consider each of the major milestones in a typical RFP process:
+    •   Assemble your technology team and assign duties.
+    •   Plan the project.
+    •   Research procurement methods.
+    •   Write the RFP.
+    •   Release the RFP.
+    •   Hold a vendors meeting.
+    •   Accept the proposals.
+    •   Evaluate the proposals.
+    •   Select the vendor and finalize the contract.
+
+Timing for completing each of these steps varies radically. In some situations, the entire RFP
+process can be executed in as little as four weeks. Some take as much as 18 months. In the
+remainder of this section, each major task in a typical RFP process is discussed, and some of the
+potential sources of delay are identified.
+
+
+
+
+Draft Copy For Review Only                               15
+        Assemble Your Technology Team and Assign Duties
+The acquisition of IT systems rarely involves a single individual. It should be a team effort.
+From a practical perspective, agencies should not invest their technological future in one person.
+Staff members can be hired away or can become disabled through injury or illness. Placing one
+person in charge of a project can also lead to a lack of organizational ownership. One person can
+never represent the needs of an entire agency adequately.
+
+Of course, every project has to have a leader, but complex IT projects should seek to involve
+those members of the department who can effectively contribute to the process. Supervisors
+from special units such as communications and records, field officers, records clerks, and others
+can contribute to the development of requirements and the evaluation of proposed systems.
+Initially, the agency should decide who will be involved in the project and what their
+responsibilities will be. If you have already been assigned to lead the project, think about who
+can represent different functions within the department and attempt to get their participation
+approved.
+
+        Plan the Project
+The first step in any project is to establish a goal.
+
+In the early stages of an acquisition project, you should attempt to develop consensus among the
+opinion leaders and decision makers about the specific goals for the IT project. How will it
+support your organization? What needs do you currently have that the organization is attempting
+to satisfy? Should it allow you to do new things or merely improve the way you do routine
+activities? How do the chief, sheriff, and other stakeholders define success? If your agency has a
+strategic plan, review what it says about the use of technology.
+
+Once the goal or goals are established, you can begin to ask the questions that will define the
+scope of the project. The first of these questions is perhaps the most important: How much can
+you afford to spend?
+
+As part of your project planning, you should also conduct a technical analysis. The technical
+analysis should include a profile of your agency's existing IT systems. Often a new system will
+replace an older system or will be required to interact with other systems. If you intend to move
+data from your old system to the new, the RFP must include a description of the old system's
+data structure, the number of records, and so on. If the new system will interact with other
+systems, the goal for the interface must be described.
+
+The technical analysis should also establish your agency’s level of technological sophistication.
+Are you able or do you want to manage a mainframe-based system? Do you have experience
+with Windows or Unix or other operating systems? Do you have a local area network in place
+that the vendors can use? The answers to these questions will not only help in planning the
+project, but will later find their way into the body of the RFP.
+
+The end result of the planning process should be a written project schedule. The project schedule
+may be modified later in the procurement process, but an initial plan should be set forth in
+writing at this time. Most agencies have deadlines in mind for their IT project from the start.
+Identifying these deadlines and placing them in the framework of the RFP process will help you
+
+Draft Copy For Review Only                         16
+to understand how much time is available for each part of the process. If the proposed deadlines
+do not allow enough time, this is the best point at which to seek changes in the deadlines from
+your command staff.
+
+        Research Procurement Strategies
+Now that you have assembled your team and completed your planning, this is the time to
+research procurement strategies. By contacting other agencies and talking to vendors, you can
+get valuable advice from others who have traveled this path before you. Your research should
+focus on agencies that recently procured similar technologies. Ask the project manager from
+these agencies what procurement approach they used, and find out what the positive and negative
+aspects of that approach were. Other available procurement options are reviewed earlier in this
+handbook, but for the purposes of this section we are assuming that you will choose the RFP to
+procure your technology.
+
+Once you have decided to use the RFP process, begin your research by reviewing RFPs from
+other agencies and past RFPs from your own organization. In reviewing your past RFPs, be
+careful not to repeat the mistakes of the past; in reviewing RFPs from other agencies, focus on
+those RFPs that were used to acquire similar technology for a similar-size jurisdiction whenever
+possible. One source for these RFPs is the Internet: both the International Association of Chiefs
+of Police (IACP) and SEARCH web sites maintain extensive databases of previous information
+technology RFPs from law enforcement agencies across the country.9
+
+        Write the RFP
+Writing the RFP begins with the production of a clear, unified, cohesive statement of
+requirements. Certainly the most difficult part of any RFP, it is the foundation upon which the
+rest of the process will be built. Your requirements should spring directly from your goals for
+the new information technology and be based on your user requirements. Collectively, your
+requirements should ensure that the system will meet the IT goals that you identified in the
+planning stage.
+
+Just how specific should your requirements be? Requirements should describe the goal and
+allow the vendors to describe a solution that meets that goal.
+
+When RFPs try to dictate specific technology unnecessarily, this is often referred to as a process-
+oriented approach. For example, a process-oriented requirement might read as follows: “A CAD
+user shall be able to access the records management system by holding down the Alt button and
+pressing the ‘1’ key at the same time.” A goal-oriented requirement for the same function might
+read, “A CAD user shall be able to access the records management application by using a simple
+keystroke sequence.” In both, the goal is to allow CAD users to access the RMS quickly and
+easily. In the first statement, the purchaser is imposing their idea of how the function should be
+accomplished on the vendor. In the second, the purchaser is describing the goal and allowing the
+vendors to describe their solution.
+
+
+
+9
+    The IACP site is at http://www.iacptechnology.org/ and the SEARCH site is at
+    http://www.it.search.org/default.asp.
+
+Draft Copy For Review Only                             17
+With a goal-oriented requirement, vendors are allowed to describe how they would meet the
+requirement, and you determine which vendor’s solution you like best.
+
+In truth, most RFPs will contain both goal and process-oriented requirements. Goal-oriented
+requirements should be used to describe the majority of desired features and functions. Process-
+oriented requirements should be used when the exact execution of the function is required. For
+example, if you want to recreate an important function that your present system provides, a
+process-oriented requirement might be appropriate. If you have created interfaces between the
+systems you are replacing and other systems, you might want to use a process-oriented
+requirement so that the interfaces do not have to be reconstructed. If your city or county has
+elected to support one technology, say Microsoft Windows NT for desktop workstations or
+Oracle for its database management application, then a process-oriented requirement may be
+appropriate. Still, process-oriented requirements can limit competition among vendors and drive
+up project costs, so in most cases you should be goal oriented when describing your
+requirements.
+
+Whether you choose goal or process-oriented requirements, often the best way to establish your
+requirements is through user interviews. It is not enough to ask only the chief and senior
+managers what they want the new system to do. Especially if you are a non-sworn project
+manager with no field experience, you should also interview the front-line users—from patrol
+officers and sergeants to call takers and dispatchers—about their concerns and hopes for the new
+information technology. Their insights will help you work with vendors to design a system for
+the entire department.
+
+At a minimum, the requirements section of your RFP should contain the following information:
+    •   A narrative describing the process that the system will support
+    •   A description of existing IT systems
+    •   Copies of forms and reports currently used to capture and report information
+    •   A statement of transaction volumes for the present and future systems
+    •   A description of the problems to be solved by the new system or identified enhancements
+    •   A statement of expected benefits and priorities
+    •   A description of any existing or anticipated interfaces to other information and
+        communications systems.
+
+Once the statement of requirements has been completed, it must be combined with administrative
+rules, terms and conditions, and other administrative information to produce a cohesive,
+comprehensive RFP document.
+
+        Review and Release the RFP
+When the RFP has been completed, the full acquisition team, the chief officer of the issuing
+agency, and probably your purchasing and legal departments, should review it. Since the agency
+and your local government are committing to purchase a costly system by releasing an RFP, it is
+wise to make sure that all the required approvals have been garnered.
+
+Upon approval, the RFP can be announced and released. In many jurisdictions, "release" is
+accomplished by sending notices to appropriate vendors registered with the organization, by
+
+Draft Copy For Review Only                     18
+placing advertisements in newspapers, through email, by facsimile, or by announcing the
+procurement opportunity on an electronic bulletin board.10 The important thing at this stage of
+the process is that you get copies of your RFP into the hands of as many qualified vendors as
+possible. A wide distribution of the RFP will usually result in the greatest number of responses,
+allowing you to pick and choose among a number of vendors and to demand the most favorable
+terms for the final contract.
+
+         Hold a Vendors Meeting
+Since the RFP essentially seeks a solution to a problem, it is good practice to schedule a vendors
+meeting, where the vendors can ask questions about the agency’s expectations and requirements.
+This is sometimes referred to as the clarification process, as it allows the vendors to clarify all
+the issues necessary to respond to the RFP.
+
+The RFP timetable should clearly note when and where the vendors meeting will be held, and
+who should attend. Vendors meetings may or may not be mandatory for the vendors; in most
+cases, it is best to allow the meeting to be optional unless vendors need to actually inspect the
+site where they will be installing the new system. The vendors meeting should be scheduled two
+to four weeks after release of the RFP. Its purpose is to ensure that the vendors have a sound
+understanding of the requirements detailed in the RFP, and to clarify any complex issues
+involved. It is also an opportunity to introduce the project team and agency staff to prospective
+vendors.
+
+Sometimes the vendors may point out discrepancies in the RFP that can only be corrected
+through changes to the RFP. Do not be afraid to make changes to or clarify the RFP. The project
+manager or procurement officer should chair the meeting, and detailed minutes or a recording of
+the meeting should be kept by the agency for future reference. From these minutes, the project
+team can produce written responses to the questions raised at the meeting and distribute these to
+all vendors.11
+
+The length of the meeting will vary greatly depending on the number of attendees and the
+complexity of the proposed project; however, the agency should set a specific time frame for
+when the meeting will begin and end and stick to that schedule. A detailed agenda distributed at
+the beginning of the meeting can help to keep everyone on track and make the meeting more
+useful. It is helpful for the project team if you request that the vendors supply the bulk of their
+questions in advance so that you have time to research them.
+
+
+
+
+10
+     Many cities, counties, states, and government agencies use the World Wide Web to announce procurement
+     opportunities. Some organizations simply have a bulletin boarda place where they post the announcement
+     with instructions on how to obtain a bid set. Others make the bid set available either on their web pages or as
+     downloadable files. In addition to the public sector web sites, there are for-profit sites that provide bid
+     information to vendors. For example, BidEngine <http://www.bidengine.com> is a bulletin board with entries
+     from hundreds of state and local government bodies. The National Institute of Governmental Purchasing
+     <http://www.nigp.org> has an index page with links to state procurement sites.
+11
+     It is a standard procurement procedure not to allow vendors to consider verbal answers as official responses.
+     Written response to questions are thus required to alter or clarify the original requirements.
+
+Draft Copy For Review Only                                19
+       Accept the Proposals
+
+Your RFP will have identified the closing date for proposal submission.
+
+Some purchasers intentionally keep the time short. Their argument is that they are testing the
+vendor's ability to manage a project—the development of a proposal. While this approach may
+seem justified, the truth is that the time to qualify the vendor is in reviewing the proposal and
+conducting interviews. Establishing too short a timeline will only injure your process.
+
+In setting your release date, you should have considered key factors such as the complexity of
+the task, the timing of holidays, and the location of vendors when deciding on the amount of time
+provided to prepare a proposal. In any case, the final date for acceptance should be specific as to
+time, place, and form of receipt. Most agencies time stamp proposals, denying any that come in
+after the specified time.
+
+In many cases, however, vendor representatives will ask for an extension of this date at the pre-
+bid meeting. How should you respond? If you have done your homework and gotten estimates
+of reasonable proposal response periods from the vendors in advance of the RFP release, the
+onus to justify an extension will be on the vendors.
+
+Do your homework ahead of time, establish reasonable deadlines, and stick to them.
+
+       Evaluate the Proposals
+
+The evaluation process is an internal matter but should be no less structured than the RFP itself.
+Hopefully you have developed your evaluation criteria and included them in your RFP. They
+should include both objective issues—like cost of the vendor’s product and ability to install it in
+a timely manner—and subjective issues—like the ability to get along with the vendors
+representatives. If so, the evaluation of the written proposals is a matter of weighing each
+vendor's response based on the published evaluation criteria.
+
+To ensure that you get a range of opinions and experience, you should assign your project team
+or a specially appointed evaluation committee to review the proposals. The evaluation committee
+members will, in the ideal, be experts on the type of system or the use of the system being
+acquired. They may include representatives from other agencies in order to counter any internal
+bias.
+
+In order to complete the evaluation, you will want to find a way to gather the evaluations in a
+consistent form. One way to do so is to create a score sheet. Regardless of your method for
+assigning points, the scoring instrument should force evaluators to consider the same
+information. You should also prepare a schedule for the evaluations and a written explanation of
+the evaluation process. Prior to conducting the evaluations, ensure you meet with your team so
+everyone understands the agreed upon criteria and timeline.
+
+As with writing requirements, there is considerable contention about how to construct the ideal
+evaluation scale. Some experts prefer to award points for the vendor's compliance with each
+requirement. Others prefer to award points based on the vendor’s response to a group of
+requirements or specific sections of the RFP. While awarding points for each requirement is
+
+Draft Copy For Review Only                      20
+more precise and less subjective, evaluators can sometimes get lost in the minutia. Awarding
+points based on the response to groups of requirements or sections allows for evaluators to
+legitimately elevate one vendor's approach over another’s without regard to each specific answer.
+
+The evaluation process should focus at a minimum on the following:
+
+      • Quality of the vendor and their proposal based on discussions and reference checks
+      • Quality of the applications programs and how closely they satisfy the organization's
+        requirements and needs
+      • A comparison of costs based on products and services offered
+      • Quality of support offered by the vendor, including future system updates and warranties
+        where applicable.
+
+Completing the proposal evaluations is a major step. Based on the results of this step, many
+agencies will eliminate non-responsive vendors and informally rank the vendors.12 Based on the
+ranking of vendors, the team should proceed with the evaluation by checking the top candidates'
+references.
+
+In addition to evaluating the written responses, it is important to also allow the vendors to go
+through an oral interview or presentation process. The purpose of this step is to allow you to ask
+questions of the vendors that will help clarify their proposals and to allow you to see the
+proposed systems. Oral presentations will also allow you to evaluate the vendor by seeing how
+they respond under pressure, if their system can do what they have claimed it can do, and
+whether the vendor's staff will mesh with your organization. The purpose of these presentations
+is not to allow the vendors to "sell" your team or agency. Take control of the presentation. First
+develop a single agenda for all candidates. Next, allow the vendors some time to demonstrate
+their products, but make each vendor demonstrate the same things. For example, if you are
+buying a CAD system, make each vendor show you how they initiate a call, change a unit status,
+and clear a call. By doing this with all the candidates, you will have a much better appreciation
+for the differences between the systems.
+
+To help vendors understand your process, your intention to require presentations or oral
+interviews should be noted in your RFP. Once the reference checks and presentations have been
+completed, you may decide to select a vendor and move to contract negotiations. In some cases,
+you might also find it helpful to include a visit to the vendor's headquarters or to reference sites
+in your evaluation. If you decide to do this, contact the reference site in advance and make sure
+that they are willing and able to cooperate. If they are not using the product that is being
+proposed for you, the information they supply will be less relevant. If they are the vendor's
+"home" or "favorite" site, they may be unwilling to give you an unbiased opinion. It is important
+to not allow vendors to pay for this travel or related expenses to avoid any shade of impropriety
+or pressure.
+
+
+12
+     Reserve the right in your RFP to rank order vendors based on the evaluation of the proposals. By doing this, you
+     can focus your remaining evaluation efforts on the top two to four candidates. However, pay careful attention to
+     local procurement regulations. Official rankings, elimination of vendors, or focusing on top candidates at this
+     point may be grounds for a vendor protest. Your procurement regulations may require you to subject all
+     vendors to the same evaluation process before making a selection.
+
+Draft Copy For Review Only                               21
+A successful site visit is your responsibility. You should travel with a plan, including questions
+and the individuals you want to talk with. In deciding who to talk with, do not limit yourself to
+command staff and the project manager. Call takers, dispatchers, trainers, IT staff, and active
+field officers using the new technology should be among those you speak with. The people who
+have the most relevant information may be unavailable when you intend to visit, so check it out
+first.
+
+       Select a Vendor and Finalize the Contract
+
+After evaluating the proposals, the committee should rank their choices and enter into contract
+negotiation with the top rated vendor. Ranking is a wise step in case a vendor backs out or you
+are unable to reach an agreement during contract negotiations. When negotiations have been
+finalized and the contract signed, it is good to meet with unsuccessful vendors and explain why
+their proposal fell short of the chosen vendor. Besides being common courtesy for a vendor who
+has invested heavily to obtain your business, explanations may also abort any thoughts of a
+protest.
+
+In some organizations, it is customary to insist that vendors sign the agency’s standard contract.
+A contract can be imposed either as a condition in the RFP, by including the contract in the RFP,
+or during contract negotiations. While this approach can lead to a quick conclusion, since the
+vendor either accepts the standard contract or is considered non-compliant and eliminated from
+further consideration, it is often inappropriate for IT purchases. In most instances, your
+jurisdiction's standard contract will lack specific terms that are vital to a solid IT contract. In
+general, we suggest that you use your standard contract as a framework for the final agreement
+and involve your jurisdiction’s legal counsel if available.
+
+In many cases, the purchaser and the vendor will have very different ideas of what they want to
+see in a contract. The purchaser will want to tie down the vendor to very specific deadlines and
+harsh penalties if the vendor fails to perform. The vendor wants to protect themselves from
+liability and implied warranties. It is important to remember that the contract is a negotiated
+agreement that seeks to protect the best interests of all parties. In most RFPs, there will also be
+differences between the RFP requirements and the system proposed by the selected firm. In
+most cases, these differences will have to be officially recognized and worked out during the
+contract process.
+
+Unless your attorney or other authorized decision maker is in the negotiations with you,
+remember that the negotiated agreement will probably have to be approved before it can be
+signed. This can add significant time to the project start date, so it is best to plan for these issues
+in advance.
+
+
+Selected Timelines from Sample RFP Processes
+This section contains four timetables from actual RFPs. These timelines should be used to give
+you ideas on how to structure your own schedule, though there are no hard-and-fast rules. Time
+frames will vary by project, depending on need, budget, and complexity. When reviewing these
+sample schedules, as well as other RFP products in this handbook or from other sources, make
+sure you view them critically. Make note of choices that were made and decide whether or not
+
+Draft Copy For Review Only                        22
+they support a successful project. For example, in the Law Enforcement Information
+Management System schedule below, the agencies involved developed a detailed schedule that
+has significant events occurring over the holiday season. For such a complex project, it might be
+better to have kept the holiday season in mind by scheduling the process earlier or later.
+
+
+                                        Washington State
+                                Acquisition Process Requirements
+                    ACQUISITION SCHEDULE FOR CASE MANAGEMENT
+                                 Times are Pacific Standard Time
+
+   #           Event                                     Date                   (Time)
+   1. Release RFP to Bidders                          10/16/98 Fri.
+   2. Pre-proposal Conference                         10/23/98 Fri.          (9:00 a.m.)
+   3. Letter of Intent to Propose Due
+      (FAX is Acceptable)                             10/26/98 Mon.          (4:00 p.m.)
+   4. Issue Written Responses to Pre-proposal
+      Conference Questions                            10/27/98 Tues.
+   5. Deadline for Comments
+      Regarding Specifications                        10/29/98 Thurs.
+   6. Finalize RFP                                    11/2/98 Mon.
+   7. RFP Responses Due
+      (FAX IS NOT ACCEPTABLE)                         11/16/98 Mon
+   8. Begin RFP Evaluations                           11/17/98 Tues.
+   9. Scoring of Written Responses Complete           11/20/98 Fri.
+  10. Announce Finalists                              11/23/98 Mon.
+  11. Distribute tests                                11/23/98 Mon.
+  12. Presentations and Demonstrations
+      by Finalists                                    12/7-11/98 Mon. - Fri.
+  13. Final Scoring                                   12/14/98 Mon.
+  14. Final Authorization                             12/15/98 Tues.
+  15. Announce Successful Bidder                      12/16/98 Wed.
+  16. Wait on Protests                                12/30/98 Wed.
+  17. Negotiate Contract                              1/11/99 Mon.
+  18. Earliest Pilot                                  3/1/99
+  19. Begin Rollout                                   7/1/99
+
+
+   The agency reserves the right to adjust the schedule as it sees the necessity.
+
+
+
+
+Draft Copy For Review Only                       23
+                                            Alaska
+
+              Development of an Information System Migration Plan
+                                     Schedule of Events
+
+
+The schedule below represents the State's best estimate. If a component of this schedule is
+delayed, such as the opening date, the remainder of the schedule will likely be shifted an
+equivalent number of days.
+
+
+
+RFP Issue Date                                                                July 13, 1998
+
+Deadline to Notify of Need for Assistance to Offerors with Disability    September 4, 1998
+
+Deadline for Receipt of Protest of Solicitation                          September 4, 1998
+
+Deadline for Receipt of Proposals - Proposals Opened                     September 8, 1998
+
+Notice of Intent to Award Issued                                        September 22, 1998
+
+Contract Negotiations Begin                                             September 22, 1998
+
+Deadline for Receipt of Protest to the Award                               October 2, 1998
+
+State Issues Contract and Contract Period Begins                           October 8, 1998
+
+Contract Period Ends                                                          June 30, 1998
+
+
+
+
+Draft Copy For Review Only                        24
+                 Law Enforcement Information Management System
+
+ An Integration Partnership Between the City of Tacoma, City of Puyallup, and Pierce County
+
+                                          Significant Dates
+
+All of the following dates are in reference to Pacific Standard Time.
+
+     RFP Issue Date                                                     November 26, 1997
+
+     Pre-Proposal Conference Question Deadline                          December 12, 1997
+
+     Pre-Proposal Conference Date                                       December 17, 1997
+
+     Proposal Due Date                                                    January 27, 1998
+
+     Public Proposal Opening Date                                         January 27, 1998
+
+     Notification of Finalists                                           February 18, 1998
+
+     Schedule Site Visits for Finalists                             February 23-27, 1998
+
+     Confidential Presentations by Finalists                              March 3-4, 1998
+
+     Finalists Evaluation                                                   March 5, 1998
+
+     Site Evaluations                                                    March 9-13, 1998
+
+     Evaluation Completion Date                                            March 16, 1998
+
+     Recommendation to Executive Board Date                                March 19, 1998
+
+     Issue Intent to Award Date                                            March 20, 1998
+
+     Contract Signed Date                                                   April 15, 1998
+
+
+
+
+Draft Copy For Review Only                       25
+                                   Little Rock, Arkansas
+
+                             Police Information Systems Expansion
+                                       Schedule of Events
+
+           Event                                                                Date
+
+      Release RFP                                                         October 1, 1997
+
+      Vendor's Conference                                                October 15, 1997
+
+      Proposals opened                                  November 14, 1997 at 2:00 p.m.
+                                                      CST in the Office of the Purchasing
+                                                        Agent, City Hall, Little Rock, AR
+
+
+      Referral to Board of Directors                         On or about December 2, 1997
+
+      Contract award                                        On or about December 17, 1997
+
+
+
+
+Draft Copy For Review Only                    26
+                                             Chapter 3
+                                         The RFP Document
+Refining your RFP process may have gotten your agency on the road to a successful acquisition,
+but the real work lies ahead. It’s time to tackle the RFP document itself.
+
+By the time you have finished streamlining the RFP document, a whole list of additional
+considerations will surface that have implications for your process. It is important to maintain
+this “duality” of thought while you are working on both. The result will be an RFP procurement
+system which fairly represents your agency’s requirements and satisfies regulatory, legal and
+policy constraints; a document which gives vendors the information they need to develop good
+proposals; and a method for evaluating those proposals and making good decisions.
+
+The following information and examples provide guidelines for building your RFP. In addition,
+it is important to note other sources of RFP information we have mentioned earlier. Turn to the
+IACP, SEARCH, and agencies of similar size and jurisdiction as your own for copies of RFPs
+concerned with similar projects. In addition, many vendors provide RFP outlines to assist clients
+in structuring their RFPs. These are excellent and useful tools as long as you are aware of their
+strengths and limitations. Vendor-provided RFP documents will typically be structured to favor
+their products abilities, so you should only use these as an outline from which to customize your
+personal RFP. In fact, all of these should be viewed primarily as outlines on which to build your
+own RFP.
+
+In every case remember this:
+
+      • Know what you want and what you need.
+      • Be solution oriented, not technologically limiting.
+
+How Much Information Goes Into the RFP Document?
+The answer is simple: everything.
+
+Think about your ideal end goal. You want to get great proposals that answer all your questions,
+thereby making it easy to evaluate and determine the optimum choice. You don’t want to waste
+a lot of time dealing with vendors’ requests for additional information. You also don’t want to
+have to deal with vendor protests. You are required to run a fair process, to treat all vendors in a
+fair and equal manner, to fully represent the situation, and to fully disclose information.
+Therefore, in order to be effective, your RFP document should be as comprehensive as
+possible.13 This takes much time and effort prior to issuing the RFP, but it pays dividends:
+proposals are better; protests are fewer; the evaluation is simpler; and the results are easily
+defended.
+
+
+
+13
+     If you have an inordinately large amount of information to disclose, consider a project library. This is a room in
+     which you put all the documentation that you want to make available to vendors (e.g., all of the previous studies,
+     systems designs, user manuals, etc.). You then permit vendors, on some fair and equal basis, access to this room
+     to review documents and make copies.
+
+Draft Copy For Review Only                                27
+In many organizations, the person responsible for the project is also responsible for creating the
+RFP. Often, this person has little experience with previous RFPs. Remember to address the
+following issues within the body of the RFP:
+
+    •   Incorporate all special legal requirements (special licenses, certifications, etc.).
+    •   Determine minimum standards that will be acceptable (pass/fail, must/may).
+    •   Determine any special terms and conditions.
+    •   Establish budgetary constraints.
+
+Some organizations, as a quality control measure, insist that the RFP package be reviewed by
+management prior to its release. This is an important step and can identify deficiencies not
+apparent to the project manager. Catching problems here could save more than enough time to
+justify the extra step of review.
+
+There are several critical questions that are best answered within the body of the RFP:
+
+    • How are we going to deal with contract issues? Will the RFP contain a draft contract or
+      important contract terms? Will the contract terms be mandatory? Have we identified our
+      specific issues; for example, do we require a bid bond or a performance bond?
+    • For an RFP involving software development or acquisition, have we identified the
+      process for acceptance testing and correction? Who will do it? Will we provide a separate
+      test facility?
+    • How will we structure the evaluation process? Will it work or will it simply prove that all
+      the vendors can do a reasonable job? How will we differentiate among the various
+      vendors? Will we require demonstrations or trial usage of software?
+
+Finally, explain within the RFP how the proposals will be evaluated, including the percentage
+weight that will be given to each section. This should include the importance of cost and time in
+the evaluation process. RFPs can only be evaluated on the stated criteria, so include everything
+you want to measure. The evaluation criteria must be stated in terms that can be evaluated –
+avoid words that are subjective, arbitrary, or general.
+
+Massachusetts has recently undertaken some important procurement reforms and has created a
+single procurement documentThe Request for Response (RFR). Here is what they say about
+the document. It obviously applies to RFPs.
+
+
+
+ The RFR (Request for Response) is the place to include all information concerning a
+ procurement. “It’s in there,” should be the answer to questions raised about a procurement.
+ An RFR that is complete and detailed will not be successfully challenged by a bidder who
+ claims to have been uninformed.
+
+
+
+
+Draft Copy For Review Only                        28
+Basic Structure of an RFP
+RFPs take many different forms. Each form reflects a different organization, culture, set of
+priorities, skills, and requirements. After reviewing a variety of RFPs, you will see that many of
+them have four sections in common: ground rules, system requirements, evaluation criteria, and
+format of the proposal. The basic structure of a simple RFP could be reflected as follows:
+
+
+                                    Table of Contents
+                                 I Purpose/Ground Rules
+
+                                 II System Requirements
+
+                               III Evaluation Criteria
+
+                               IV Proposal Format
+
+
+
+Purpose/Ground Rules
+This first section typically identifies the goal for the project and the purpose of the RFP. It also
+contains administrative details such as the name of the person to contact for further information,
+the number of copies required, and a timetable of relevant dates for the project. It may also
+address a wide variety of other issues and contain statements such as these: a corporate officer
+must sign the proposal; the issuer is not liable for costs; the proposal will be incorporated in any
+resultant contract.
+
+
+System Requirements
+This section deals with the specific functional requirements for the product and experiential
+requirements for the vendor. In this section you should define the users' needs or problems, state
+the performance expected from the new system, and indicate how the new system should interact
+with other systems. You may also identify any known shortcomings of existing systems that you
+wish to correct. Include a table of key transaction volumes both now, at peak use, and for
+several years in the future. The requirements should define the milestones and articulate the
+expected completion dates for each. If you are asking the vendor to supply installation, training,
+data conversion or other services, your requirements should define these, as well as any specific
+warranty period you require.
+
+
+Evaluation Criteria
+This section identifies how the decision is to be madehow the best or most appropriate vendor
+and product will be selected. Many factors can influence the selection: cost, goodness of fit,
+support services available, and contractual conditions. At a minimum, this section should
+
+Draft Copy For Review Only                       29
+identify each of the factors that will be used. Some organizations provide only vague
+descriptions of the evaluation criteria; others go much further and identify not only each factor
+but also its weight and the selection process itself.
+
+Typically, responses to your RFP will be ranked according to a score. The evaluation committee
+should award points to each proposal based on pre-determined and announced criteria. In
+deciding how many points will be awarded for each criterion, it is imperative that each item is
+ranked based on its relative importance. An item having to do with the color of the screen is not
+as important as whether the new RMS interfaces with existing systems. Also avoid making the
+total points your final determinant on who you select. In an RFP where 1,000 total points are
+possible, for example, having one vendor score 10 points higher than another is hardly
+significant. One way of handling this is to allot a block of points to things other than the
+technical specifications of the project, like narrative response, oral interview, and
+demonstrations. While we encourage flexibility, some items will be functional absolutes and
+should be identified in the RFP as such. This will often help you to narrow the field of choices
+rather quickly. Examples of functional absolutes include requiring Windows NT or specific
+support products such as a records management or warrants module.
+
+The following is an example section of a typical CAD RFP. For evaluations, the ability of the
+vendor to meet these requirements would be allotted possible points.
+
+
+2. COMPUTER AIDED DISPATCH
+
+General Requirements
+1. Free form text and comment fields shall be of an unlimited length. __________
+
+2. The City will give preference to solutions that provide controls for scrolling all free form text
+   and comment fields. __________
+
+3. At a minimum all telephone number fields shall allow for the entry of 10 digits. __________
+
+4. It is desirable that all telephone number fields allow for the entry of 12 digits so that the
+   country code may be recorded when necessary. __________
+
+5. In any case where the proposed application presents multiple “pages” of information or the
+   information cannot be displayed within the available space there shall be a clear indication
+   to the user that information remains to be displayed. __________
+
+6. The proposed application shall allow the user to either page or scroll forward or backward
+   through the material by using the keyboard or a pointing device. __________
+
+7. When a search results in the retrieval of multiple records, the CAD application should allow
+   the system administrator to determine the sort method by display type. For example, if an
+   address has multiple records of previous calls for service they might be displayed by date
+   beginning with the most recent event. __________
+
+
+
+Draft Copy For Review Only                       30
+Proposal Format
+The final section of this simple RFP describes the required structure of the proposals. It is
+important that the vendor proposals be structured similarly so that they can be easily compared.
+Imposing a form on all vendors saves the evaluators many hours during the evaluation. While
+there is no single accepted form for proposals, there are some commonly used formats. One
+form that is often used requires vendors to complete a functional checklist. Simple checklists
+may require the vendor to respond with a “Yes” or “No” to indicate if they can supply the
+requested feature. More complex checklists may require vendors to indicate not only whether
+they can supply the requested feature, but also whether they already have it or if they must
+develop it. Another proposal form requires the vendors to supply a narrative description when
+answering the requirements of an RFP. Some RFPs combine both forms. Neither is superior,
+but both have different advantages. The checklist is very specific, making it difficult for a
+vendor to stretch the truth about their products. The narrative, on the other hand, allows the
+vendor not only to answer the requirement but also to describe the advantages of their approach.
+
+A commonly used proposal format is presented below.
+    •   Letter of Transmittal
+    •   Executive Summary
+    •   Our Understanding of the Requirements
+    •   Proposed Equipment, Software and Services
+    •   Costs
+    •   Physical Requirements
+    •   Training
+    •   Conversion Plan
+    •   Reliability and Backup
+    •   Project Plan and Timetable
+    •   Standard Agreements
+
+It is important to realize that the above is a bare bones model of a proposal format. Only you can
+decide what other information you want to “flesh out” this skeleton. This is specifically the
+format you expect all vendors to adhere to in providing their proposed solution. The advantage
+of a required structure like this is that it allows your agency to compare apples to apples, and it
+ensures that all the information you need is in the same place in each competing proposal.
+
+As you sift through all of the various sources of information and examples to build your RFP,
+continue to ask yourself the following questions: What kinds of information does our process
+require? What kinds of information would assist a vendor in preparing a compliant, easy to
+evaluate proposal?
+
+
+
+
+Draft Copy For Review Only                      31
+What Kinds of Information Should Go Into the RFP Document?
+An RFP should contain that information necessary for a vendor to submit a comprehensive and
+responsive proposal.14 As mentioned previously, this should include functional requirements,
+performance expectations, functional and technical descriptions of interfaces, expected timelines
+and so forth. The request must also provide a description of the factors that will be considered by
+the evaluators, including the relative importance of price and other evaluation criteria.
+
+In some cases, especially with state or large agencies, the required contents of an RFP are clearly
+specified by law, policy, agency guidelines, or past practice. These sources usually require a set
+of minimum contents; they may not, however, be sufficient in providing all of the information
+needed to create an effective RFP document.
+
+At the very least, the RFP will contain:
+      •   A contact name and number for the agency’s project leader.
+      •   The date, time, and place for delivery of proposals.
+      •   The budget for the project, if available.
+      •   A specific description of the services or products to be provided and the terms under
+          which they will be provided.
+      •   Any requirements related to professional or business licenses.
+      •   A description of the evaluation factors that will be used in evaluating proposals and their
+          relative weight in the evaluation process.
+      •   A specific description of the expected proposal format for responses.
+      •   A schedule of events related to the RFP process.
+
+Sample Tables of Contents
+There are indeed many sources for good ideas that can improve your RFP. The Table of
+Contents of another organization's RFP can be used as a checklist against yours. It may help you
+to identify some areas or issues you have not considered.
+
+The next few pages contain the tables of contents from two different RFPs. These tables offer
+insights into how organizations structure their RFPs and identify some of the critical issues.
+Tables of Contents can be used as checklists for items and topics.
+
+
+
+
+14
+     Often you may have documents which are useful to the interested vendor but which are too lengthy to include in
+     the RFP. These documents should be referenced in the RFP and made available through a library or perhaps
+     over the Internet.
+
+Draft Copy For Review Only                              32
+Example — Law Enforcement Support Agency15
+The following is a table of contents of a 180-page RFP for an integrated law enforcement
+incident and case reporting management system.
+
+A. GENERAL INSTRUCTIONS TO VENDORS
+A.1      SUMMARY DESCRIPTION OF PROJECT
+A.2      LEADS 2000 PLAN STAGES
+A.3      PARTNERING RELATIONSHIP
+A.4      PROPOSAL ALTERNATIVES
+A.5      ORGANIZATION OF RFP
+A.6      CONTRACT
+A.7      SUBMITTAL OF PROPOSALS
+A.8      PROPOSAL MODIFICATION OR WITHDRAWAL
+A.9      REJECTION OF PROPOSAL
+A.10     AFFIRMATIVE ACTION
+A.11     NON-COLLUSION AFFIDAVIT
+A.12     LITIGATION
+A.13     CITY OF TACOMA TAX & LICENSE
+A.14     COMPLIANCE WITH REGS
+A.15     APPLICABLE TAXES
+A.16     EXTENSION OF CONTRACT
+A.17     VENDOR RESPONSIBILITY - PROPOSAL COSTS
+A.18     PROPOSALS - PUBLIC INFORMATION
+A.19     OBLIGATION
+A.20     PRIME VENDOR RESPONSIBILITY
+A.21     SIGNIFICANT DATES
+A.22     PRE-PROPOSAL CONFERENCE
+A.23     WRITTEN NOTIFICATION OF INTENT TO BID
+A.24     PROPOSAL BOND
+A.25     CONTRACT PERFORMANCE BOND
+A.26     RFP ADDENDUM
+A.27     PROPOSAL EFFECTIVITY
+A.28     EXCEPTIONS TO RFP PROVISIONS
+A.29     CONTACT PERSONS
+A.30     ON-SITE VISIT
+A.31     PROCUREMENT LIBRARY
+A.32     ELECTRONIC MAIL ADDRESS
+
+A.34     LEGAL HOLIDAYS OF THE CITY OF TACOMA
+
+B. SUMMARY OF CURRENT ENVIRONMENT
+B.1      LAW ENFORCEMENT SUPPORT AGENCY (LESA)
+         B.1.2 Communications Division
+         B.1.3 Records Division
+         B.1.4 Information Technology (IT) Div.
+         B.1.5 Description of Major Record Systems
+         B.1.6 Paging System
+
+15
+     An integration partnership between the City of Tacoma, City of Puyallup, and Pierce County, Washington.
+
+Draft Copy For Review Only                              33
+      B.1.7 Fibre Optic Networks
+      B.1.8 Computer Room
+      B.1.9 Other Equipment
+B.2   PIERCE COUNTY SHERIFF’S DEPARTMENT
+B.3   TACOMA POLICE DEPARTMENT
+B.4   PUYALLUP POLICE DEPARTMENT
+B.5   GENERAL STATISTICS
+
+C. SELECTION PROCESS
+C.1   RESPONSE EVALUATION
+      C.1.1 Evaluation - Phase I
+      C.1.2 Evaluation - Phase II
+      C.1.3 Evaluation - Phase III
+      C.1.4 Evaluation - Notes
+C.2   BENCH MARKING
+
+D. PROPOSAL FORMAT
+D.1   SECTION #1 - ADMINISTRATIVE
+      D.1.1.1 Letter of Transmittal
+      D.1.1.2 Proposal Bond
+      D.1.1.3 Personnel Inventory Form
+      D.1.1.4 Non Collusion Affidavit
+      D.1.1.5 Statement of Effectivity
+      D.1.1.6 Table of Contents
+      D.1.1.7 Table of Illustrations
+      D.1.1.8 Subsection 1 - Introduction and Summary
+      D.1.2 Subsection 2-Qualifications and References
+      D.1.2.2 Project Office
+      D.1.3 Subsection 3- Project Organization
+      D.1.4 Subsection 4 - Contract
+D.2   SECTION #2 - OPERATIONAL
+D.2.5 Subsection 5 - System Description
+      D.2.5.1 General Information Management System Requirements
+      D.2.5.2   Records Management Functions
+      D.2.5.3 Field Reporting and Laptop Functions
+      D.2.5.4 Case Management Functions
+      D.2.5.5 Criminal History Management Functions
+      D.2.5.6 Property and Evidence Management Functions
+      D.2.5.7 Crime Analysis Functions
+      D.2.5.8   Document Imaging
+      D.2.5.9   Business Activity and Resource Utilization
+      D.2.5.10 Tracking and Registration
+      D.2.5.11 Court Order Management
+      D.2.5.12 Future Technologies
+      D.2.5.13 Other Systems
+D.2.6 Subsection 6 - Training
+      D.2.6.1   General
+      D.2.6.2   Pilot Training
+      D.2.6.3   Management Training
+      D.2.6.4   End User Train the Trainer
+
+Draft Copy For Review Only                34
+         D.2.6.5    Systems Administration
+         D.2.6.6    Help Desk
+         D.2.6.7    Systems Development Staff
+         D.2.6.8    End Users
+         D.2.6.9    User-Maintainable Components (Table Maintenance)
+         D.2.6.10   Ad hoc Analysis and Reporting
+D.3      SECTION #3 - TECHNICAL
+D.3.7    Subsection 7 - System Infrastructure
+D.3.8    Subsection 8 - System Performance
+D.3.9    Subsection 9 - System Interfaces
+D.3.10   Subsection 10 – System Security
+D.3.11   Subsection 11 – Specific System Components
+D.3.12   Subsection 12 – Data Conversion
+D.3.14   Subsection 14 – System Acceptance & Testing
+D.3.15   Subsection 15 – Warranty & Maintenance
+D.3.16   Subsection 16 – System Expansion & Options
+D.4    SECTION #4 – SYSTEM PRICING
+D.4.14 Subsection 17 – System pricing
+D.5    SECTION #5 – MISCELLANEOUS
+D.5.19 Subsection 19 – Referenced Attachments
+D.5.20 Subsection 20 – Miscellaneous Attachments
+
+E. CONTRACT
+E.1  RESPONSIVE PROPOSALS
+E.2  NEGOTIATIONS
+E.3  CONTRACT AWARD
+E.4  SAMPLE CONTRACT TERMS AND CONDITIONS
+
+
+
+
+Draft Copy For Review Only                   35
+Example  Little Rock Police Department: Police Information Systems
+         Expansion
+The following is a table of contents for an RFP to acquire workstations, mobile computer
+terminals, an automated vehicle locator system, and a wireless mobile data system.
+
+     1.   Introduction
+          1.1    Scope of RFP
+          1.2    Definitions
+          1.3    General System Description
+
+     2.   RFP Element A: Detective “Workstations”
+          2.1   Detective Laptop Computer (Minimum Specifications)
+          2.2   Docking Stations
+          2.3   Printers
+          2.4   Delivery and Installation
+          2.5   Training, Service, Warranty and Extended Maintenance
+
+3.        RFP Element B: Vehicular “Workstations” or MCTs
+          3.1   Vehicular “Workstations” or MCT (Minimum Specifications)
+          3.2   Delivery and Installation
+          3.3   Training, Service, Warranty and Extended Maintenance
+
+     4.   RFP Element C: Automated Vehicle Locator System
+          4.2   Mobile GPS Receiver/Antenna
+          4.3   Mobile Radio and Base Station Equipment
+          4.4   Communications (Dispatch) Centre AVL and Mapping Equipment
+          4.5   AVL Functionality Related to CAD
+          4.6   FCC Mandated Initiatives
+          4.7   Installation, Maintenance, Documentation &Training (AVL Only)
+
+     5.   RFP Element D: Wireless Mobile Data System
+          5.1   CDPD Option
+          5.2   RDLAP Option
+
+     6.   Submission of Responses and Administrative Information
+          6.1   Submission of Responses
+          6.2   Format of Responses
+          6.3   Departmental Contact
+          6.4   Contract Information
+          6.5   Selection Criteria
+          6.6   Multiple Proposals
+          6.7   Payment Schedule
+          6.8   Vendors’ Conference
+          6.9   Questions about this RFP
+          6.10 Schedule of Events
+          6.11 Delivery, Installation, and Implementation
+          6.12 Proprietary Information
+          6.13 Oral and/or Written Presentations and Demonstrations
+          6.14 Performance Acceptance Period
+
+Draft Copy For Review Only                     36
+         6.15     Warranty
+         6.16     Vendor References and Information
+         6.17     Non-Discrimination
+         6.18     Publicity
+         6.19     Attachments
+
+
+RFP Template 16
+Organizations that issue RFPs frequently should produce some form of RFP template that can be
+used as the basis for creating each subsequent RFP. The intention is to reduce the work in
+preparing a new one and, at the same time, to capture the lessons learned in using the old one.
+Typically, following an RFP process, shortcomings and deficiencies in the RFP are identified
+and the "template" or sample is revised accordingly.
+
+While such templates may provide a starting point for the inexperienced author, we recommend
+using caution when following such templates. Samples may have serious deficiencies or may be
+so far removed from technology that they are irrelevant. Some samples also lack instructions for
+their use. Without notes, instructions, text, or commentary, it is difficult to know which parts of
+a sample RFP are mandatory and which are optional. It is also difficult to recognize the
+implications or importance of each specific feature or requirement.
+
+The RFP template developed by the State has three groups of important features: (1) the structure
+and use of the document; (2) the instructions provided to the Procurement Officer; and (3) the
+terms included in the RFP itself. Each of these groups is discussed in the remainder of this
+section.
+
+1. Structure and Use of the RFP Shell
+
+The RFP Shell is noteworthy for several reasons:
+
+      • The document is easy-to-read, and easy-to-follow.
+      • The document identifies the laws and regulations governing the content of each section.
+      • The document clearly identifies those sections in which the procurement officer has some
+        discretion as well as those sections that must be included without alteration.
+      • The document is available to all government Departments and Agencies in both printed
+        and electronic form.17 This makes it easy to modify with a minimum of effort.
+      • The document comes complete with attachments.
+
+2. Instructions to the Procurement Officer
+The document presents clear instructions to the procurement officer on how to use the template.
+While we recognize that the vast majority of law enforcement agencies do not have the luxury of
+assigning a single individual as the “procurement officer,” development of an RFP template will
+
+16
+     This model RFP comes from the State of Alaska and can be downloaded via their web site at
+     http://www.state.ak.us/local/akpages/ADMIN/dgs/docs/rfp.doc The text in this section appeared originally in
+     The RFP Report, May 1998, published by Michael Asner Consulting and is included with permission.
+17
+     The 57-page RFP template can be downloaded from
+     http://www.state.ak.us/local/akpages/ADMIN/dgs/docs/rfp.doc
+
+Draft Copy For Review Only                              37
+prove valuable to any leader of an IT acquisition project. These instructions are designed to
+assist the person leading a procurement in utilizing the RFP template. Each section of the model
+RFP identifies the options available, and the applicable section of the Procurement Code or
+Regulations to which it applies.
+
+
+                             Instructions to Procurement Officers
+
+ • Instructions to Procurement Officers are shaded and begin with "Procurement Officer
+   Notes." Delete these instructions in the final draft of the RFP.
+
+ • Procurement Officer word choices in a section are in caps, bold print and italics. For
+   example: WILL / WILL NOT. You should make the choice, then enter the word in regular
+   style print, e.g., will not.
+
+ • The location of unique names and numbers are identified like this: NAME or NUMBER.
+   You should provide the correct name or number and enter that information in regular style
+   print, e.g., 78492.
+
+ • This RFP shell attempts to walk the user through a logically arranged series of subjects that
+   should be considered when drafting an RFP. Where permitted, Procurement Officers should
+   exercise discretion to include or delete those items best suited to their specific RFP.
+
+ • Delete this instruction page in the final draft.
+
+
+
+3. Items in the RFP Itself
+Many of the detailed features of the actual RFP are also noteworthy. Here are some highlights.
+The following items, while not unique, do improve the process and quality of the document.
+They deal with issues, concerns, and potential problems that are not always addressed in RFP
+documents in other jurisdictions:
+
+    •   It is the vendor's responsibility to ensure that the RFP is not defective.
+    •   Subcontractors must be fully identified.
+    •   Acceptable types of contracts are identified and discussed.
+    •   Performance bonds may be required.
+    •   The Procurement Officer is directed to describe the work to be done in detail"Write it
+        as if you were trying to explain it to a twelve year old child".
+
+The questions used to establish the scores are defined and published in the RFP. In the remainder
+of this section, some of these key features are described.
+
+
+
+
+Draft Copy For Review Only                       38
+Required Review
+It is the vendor's responsibility to ensure that the RFP is not defective and does not inadvertently
+restrict competition. Protests must be made prior to the due date to permit time for revisions to be
+issued.
+
+
+   PROCUREMENT OFFICER NOTE: THIS SECTION SHOULD NOT BE ALTERED OR
+   DELETED.
+
+   Offerors should carefully review this solicitation for defects and questionable or
+   objectionable matter. Comments concerning defects and objectionable material must be made
+   in writing and received by the Procurement Officer at least ten days before the proposal
+   opening. This will allow issuance of any necessary amendments. It will also help prevent the
+   opening of a defective solicitation and exposure of offeror's proposals upon which award
+   could not be made. Protests based on any omission or error, or on the content of the
+   solicitation, will be disallowed if these faults have not been brought to the attention of the
+   contracting officer, in writing, at least ten days before the time set for opening.
+
+
+
+
+Draft Copy For Review Only                      39
+Subcontractors
+Subcontractors must be completely identified and the scope of their contribution to this work
+stated in full.
+
+
+PROCUREMENT OFFICER NOTE: REVISE AS REQUIRED.
+
+Subcontractors will not be allowed.
+
+OR
+
+Subcontractors may be used to perform work under this contract. If an offeror intends to use
+subcontractors, the offeror must identify in their proposal the names of the subcontractors and
+the portions of the work the subcontractors will perform.
+
+If a proposal with subcontractors is selected, the offeror must provide the following information
+concerning each prospective subcontractor within five working days from the date of the State’s
+request:
+
+   [a] complete name of the subcontractor,
+   [b] complete address of the subcontractor,
+   [c] type of work the subcontractor will be performing,
+   [d] percentage of work the subcontractor will be providing,
+   [e] evidence, as set out in the relevant section of this RFP, that the subcontractor holds a
+       valid Alaska business license,
+   [f] a written statement, signed by each proposed subcontractor, that clearly verifies that the
+       subcontractor is committed to render the services required by the contract.
+
+A offeror’s failure to provide this information within the time set, may cause the State to
+consider their proposal non-responsive and reject the proposal.
+
+The substitution of one subcontractor for another may be made only at the discretion of the
+project director and with prior written approval from the project director.
+
+
+
+
+Draft Copy For Review Only                      40
+Prior Experience
+If certain levels of experience are required, they must be measurable and reasonable.
+
+
+PROCUREMENT OFFICER NOTE: ALTER, REVISE, OR DELETE AS REQUIRED
+
+No specific minimums have been set for this RFP.
+
+OR
+
+In order for their offers to be considered responsive, offerors must meet these minimum prior
+experience requirements.
+
+PROCUREMENT OFFICER NOTE:
+
+   •   STATE THE MINIMUM ACCEPTABLE AMOUNT OF TIME
+
+   •   REMEMBER THERE MUST BE SOME WAY FOR THIRD-PARTY INDEPENDENT
+       VERIFICATION OF THE EXPERIENCE YOU ASK FOR
+
+   •   BE CAREFUL ABOUT WHAT YOU ASK FOR AS YOU MAY SET
+       REQUIREMENTS SO HIGH THAT YOU DISQUALIFY GOOD POTENTIAL
+       CONTRACTORS
+
+   •   SPECIFICATIONS SUCH AS PRIOR EXPERIENCE MAY NOT BE UNDULY
+       RESTRICTIVE PER AS 36.30.060(C). MAKE SURE THAT YOU HAVE A
+       REASONABLE BASIS FOR THIS AND ALL OTHER SPECIFICATIONS.
+
+PROCUREMENT OFFICER NOTE: THIS SENTENCE SHOULD NOT BE ALTERED,
+BUT MAY BE DELETED IF NOT REQUIRED.
+
+An offeror’s failure to meet these minimum prior experience requirements will cause their
+proposal to be considered non-responsive and their proposal will be rejected.
+
+
+
+
+Draft Copy For Review Only                     41
+Contract Type
+The Model RFP serves as a tutorial document for Procurement Officers. It identifies the
+permissible types of contracts.
+
+
+
+                                        SECTION THREE
+
+                           STANDARD CONTRACT INFORMATION
+
+Contract Type
+
+PROCUREMENT OFFICER NOTE:
+
+   •   IDENTIFY APPROPRIATE TYPE OF CONTRACT.
+   •   THERE ARE SEVERAL DIFFERENT TYPES OF CONTRACTS WHICH MAY
+       BE SUITABLE FOR YOUR PROJECT.
+   •   REVIEW THE CONTRACT TYPES LISTED BELOW TO DETERMINE WHICH
+       WOULD BE THE MOST APPROPRIATE.
+   •   THE TYPE OF CONTRACT USED IS LIKELY TO HAVE AN IMPACT ON
+       COSTS TO THE STATE. THE PROCUREMENT OFFICER SHOULD SELECT
+       THE TYPE OF CONTRACT THAT WILL BEST SERVE THE STATE'S NEEDS
+       AT THE MOST REASONABLE COST.
+
+THE FOLLOWING INFORMATION IS FOR PREPARER'S INFORMATION
+ONLY AND SHOULD NOT BE PRINTED IN THE FINAL CONTRACT
+
+Fixed Price Contracts
+
+Firm Fixed Price
+
+The most common and easiest contract to administer is a firm fixed price contract. A fixed price
+contract is one which obligates the contractor to performance at a specified price.
+
+Fixed Price With Adjustment
+
+These contracts allow for price adjustments on the occurrence of specified changes in the cost or
+price factors set out in the contract. These types of contracts are most useful when the
+contractor's future prices are so uncertain as to make a firm proposal impossible, or if covering
+all probable risk, so high as to make the offer unattractive and possibly unfair to the State.
+
+Fixed Price Incentive
+
+A target price, ceiling price and a profit formula are used in this type of contract. When the
+contractor performs below the costs stipulated in the target price, the contractor and the State
+share in the savings. If costs exceed those estimated, the contractor's profit margin declines and
+
+Draft Copy For Review Only                      42
+the price ceiling is adhered to. In these types of contracts, performance can be quantified in terms
+of costs and services and/or deliverables.
+
+Cost Reimbursement Contracts
+
+Cost Plus Fixed Fee
+
+Under these contracts, contractors are paid for all allowable costs plus a predetermined fixed fee.
+These contracts have been found to be beneficial for research and development work.
+
+Cost Plus Incentive Fee
+
+Under this type of contract, a tentative fee based on estimated costs and a target price is
+established. If actual costs fall below estimated costs, the contractor and State share in the
+savings. The contractor can lose all or part of their fee, but they must be paid for all costs.
+
+Cost Plus A Percentage Of Cost
+
+These contracts are prohibited by statute. Under this type of contract the contractor receives
+payment for costs of performance plus a specified percentage of such actual costs as a fee. These
+contracts provide no incentive for efficient and economical contractor performance and must not
+be used.
+
+Other Types Of Contracts
+
+Time And Materials Contracts
+
+In addition to a fixed labor rate, these contracts include separate costs for materials used under
+the contract.
+
+PROCUREMENT OFFICER NOTE:
+
+DELETE THE PREVIOUS CONTRACT INFORMATION AND INCLUDE THE
+FOLLOWING SENTENCE WITH THE APPROPRIATE INFORMATION IN THE RFP.
+
+This contract is a ENTER NAME OF TYPE contract.
+
+
+
+
+Draft Copy For Review Only                        43
+Performance Bonds
+It is within the authority of the Procurement Officer to require various types of performance
+bonds to ensure compliance with the RFP.
+
+
+                      Bid Bond - Performance Bond - Surety Deposit
+
+  PROCUREMENT OFFICER NOTE:
+
+  MAY BE DELETED. BID BONDS, PERFORMANCE BONDS AND SURETY DEPOSITS ARE NOT
+  ROUTINELY REQUIRED. MAKE SURE YOU REALLY NEED ONE BEFORE YOU SPECIFY IT.
+  PROCUREMENT OFFICER NOTE: DO NOT ALTER OR REVISE. CHOOSE APPROPRIATE
+  TYPE(S) OF BONDS & ENTER APPROPRIATE INFORMATION.
+
+  Bid Bond
+  Offerors must obtain a bid bond and submit it with their proposal. The amount of the bid bond
+  for this contract is DOLLARS. If an offeror is selected to receive the contract and fails to
+  negotiate, or fails to deliver a fully executed contract after negotiation, the bid bond will be
+  immediately forfeited to the State. The time limit for negotiation or delivery of a contract is
+  fourteen days from the date the offeror receives notice from the Procurement Officer.
+  Proposals submitted without a bid bond will be rejected.
+
+  Performance Bond
+  Offerors must obtain a letter of commitment for a performance bond from a bonding company
+  and submit it with their proposal. The amount of the performance bond must be equal to the
+  entire dollar value of an offeror’s offer for the full term of the contract. If the contractor fails
+  to satisfactorily perform the contract the bonding company which provided the performance
+  bond will be required to obtain timely performance of the contract. The actual performance
+  bond must be obtained from the bonding company and provided to the State within thirty days
+  of the date of award of the contract. An offeror’s failure to provide the performance bond
+  within the required time will cause the State to reject the proposal.
+
+  Surety Deposit
+  In lieu of a performance bond, an irrevocable letter of credit or cash may be substituted. The
+  amount of the surety deposit must be LIST DOLLAR AMOUNT OR PERCENTAGE OF
+  PROPOSAL PRICE. Substitution of a surety deposit must be approved by the Commissioner
+  of the Department of NAME prior to its submittal. An offeror’s failure to provide the surety
+  deposit within the required time will cause the State to reject the proposal.
+
+
+
+  PROCUREMENT OFFICER NOTE: THE AMOUNT OF SURETY DEPOSIT SHOULD BE
+  WHAT IT WOULD COST TO PAY THE PREMIUM COST OF A REPLACEMENT
+  CONTRACT.
+
+
+
+
+Draft Copy For Review Only                       44
+Draft Copy For Review Only   45
+Scope of Work
+Under the State of Alaska template, the Purchasing Officer is instructed to be as specific and as
+comprehensive as possible. While we believe that it is more important to explain your needs and
+goals and allow the vendor to explain specifically how they can assist you in reaching those
+goals, the detailed outline of how to build a scope of work makes this RFP template valuable to
+its users.
+
+
+                                          Scope of Work
+
+  PROCUREMENT OFFICER NOTE: ENTER APPROPRIATE INFORMATION - ALTER,
+  REVISE, OR DELETE AS REQUIRED.
+
+  •    INFORMATION YOU PROVIDE IN THIS SECTION TELLS THE OFFERORS WHAT
+       YOU WANT DONE
+  •    BE AS SPECIFIC AND COMPREHENSIVE AS YOU POSSIBLY CAN
+  •    LET THE OFFERORS KNOW EXACTLY WHAT YOU WANT
+  •    DON'T PRESUME THAT THEY WILL "GET IT" IF YOU DON'T SAY IT
+  •    WRITE IT AS IF YOU WERE TRYING TO EXPLAIN IT TO A TWELVE YEAR-OLD
+       CHILD
+
+
+  The Department of NAME, Division of NAME is soliciting proposals for WHAT KIND of
+  services.
+  The department wants assistance to DO WHAT .
+  The consultant will DO WHAT .
+  The types of staff in State agencies that the contractor must interview are WHO .
+  Other helpful informational material that can be provided to the consultant includes WHAT .
+  The goal of this project is to WHAT .
+
+
+
+
+Draft Copy For Review Only                     46
+Deliverables
+In the template the Procurement Officer is instructed to “list every deliverable you can think of'.”
+It also advises that the procurement officer view this deliverable list in such a way as to be
+“satisfied that the job will be finished when you get everything listed.”
+
+
+                                            Deliverables
+
+   ENTER APPROPRIATE INFORMATION. ALTER, REVISE, OR DELETE AS REQUIRED.
+   LIST EVERY DELIVERABLE YOU CAN THINK OF, EVEN THE ONES THAT DO NOT
+   SEEM PARTICULARLY IMPORTANT RIGHT NOW. DO NOT ASSUME THAT THE
+   CONTRACTOR WILL GIVE YOU MORE THAN YOU ASK FOR. YOU SHOULD BE ABLE
+   TO LOOK THROUGH THIS LIST AND BE SATISFIED THAT THE JOB WILL BE
+   FINISHED WHEN YOU GET EVERYTHING LISTED HERE.
+
+   The contractor will be required to provide the following deliverables:
+
+                                      [a] WHAT
+
+                                      [b] WHAT
+
+                                      [c] WHAT
+
+                                      [x] WHAT
+
+                                      [y] WHAT
+
+                                      [z] WHAT
+
+
+
+
+Draft Copy For Review Only                       47
+Work Schedule
+The Procurement Officer is instructed to list “every event and milestone you can think of” as
+well.
+
+
+   PROCUREMENT OFFICER NOTE: ENTER APPROPRIATE INFORMATION. ALTER,
+   REVISE, OR DELETE AS REQUIRED.
+
+   The contract term and work schedule set out herein represent the State's best estimate of the
+   schedule that will be followed. If a component of this schedule, such as the opening date, is
+   delayed, the rest of the schedule will likely be shifted by the same number of days. The
+   length of the contract will be from the date of award, approximately DATE, for
+   approximately NUMBER calendar days until completion, approximately DATE. The
+   approximate contract schedule is as follows:
+
+   PROCUREMENT OFFICER NOTE: ENTER APPROPRIATE INFORMATION. ALTER,
+   REVISE, OR DELETE AS REQUIRED. LIST EVERY ITEM, EVENT, MILESTONE YOU
+   CAN THINK OF, BEGINNING TO END. BE AS SPECIFIC AND COMPREHENSIVE AS
+   YOU POSSIBLY CAN. ALLOW ONE OR TWO REVIEWS OF EACH DRAFT OR
+   REDRAFT. CREATE MULTIPLE OPPORTUNITIES FOR INTERACTION WITH THE
+   CONTRACTOR. DON'T JUST SEND THE CONTRACTOR AWAY WITH SOME WORK TO
+   DO AND LET THEM BRING BACK SOMETHING THAT MAY OR MAY NOT SUIT YOU.
+   INTERACT WITH THE CONTRACTOR TO KEEP THE PROJECT ON TRACK.
+
+   SAMPLE WORK SCHEDULE:
+   [a] Issue RFP DATE.
+   [b] Pre-proposal Meeting DATE.
+   [c] Proposal Evaluation Committee complete evaluation by DATE.
+   [d] State award contract DATE.
+   [e] First contractor work period DATE to DATE.
+   [f] Contractor must submit first draft DATE.
+   [g] First draft review by State DATE to DATE.
+   [h] Draft back to contractor for revision as required DATE to DATE.
+   [i] Other.
+   [j] Other.
+   [k] Other.
+   [l] Contractor submits final report DATE.
+
+
+
+
+Draft Copy For Review Only                     48
+Proposal Format
+Finally, the State of Alaska RFP template sets forth a standardized proposal format, detailing
+every possible section like Introduction and Understanding of the Project. This standardized
+proposal format is expected throughout the state, making it easy to compare and contrast
+proposals. If a law enforcement agency creates a standardized format, especially set forth in a
+template of this sort, it would make comparing and contrasting proposals immensely less
+challenging. This advantage would be apparent not just in a single competition but even within
+the agency when you are comparing a current proposal to a past RFP process for learning
+purposes.
+
+
+   Proposal Format and Content
+
+   PROCUREMENT OFFICER NOTE: THE INFORMATION YOU PROVIDE IN THIS
+   SECTION SHOULD HELP OFFERORS UNDERSTAND HOW YOU WANT THEIR
+   PROPOSALS STRUCTURED AND IDENTIFY ITEMS YOU WANT EMPHASIZED.
+
+   PROCUREMENT OFFICER NOTE: ALTER, REVISE, OR DELETE AS REQUIRED.
+
+   The State discourages overly lengthy and costly proposals, however, in order for the State to
+   evaluate proposals fairly and completely, offerors should follow the format set out herein and
+   provide all of the information requested.
+
+
+
+
+Draft Copy For Review Only                     49
+Evaluation Format
+The State also standardized the evaluation processthe criteria, number of points or weights,
+and the evaluation questions. Five standard criteria are used: Understanding of the Project (5%),
+Methodology Used for the Project (15%), Management Plan for the Project (15%), Experience
+and Qualifications (15%), and Contract Cost (40%). The State also provides 10 bonus
+percentages to those businesses based wholly within the state. Listed below is the explanation for
+one of the criterion: Management Plan for the Project.
+
+
+  Management Plan for the Project—15%
+
+  PROCUREMENT OFFICER NOTE: ALTER, REVISE, OR DELETE AS REQUIRED.
+
+  Proposals will be evaluated against the questions set out below.
+  [a] How well does the management plan support all of the project requirements and logically
+      lead to the deliverables required in the RFP?
+  [b] How well is accountability completely and clearly defined?
+  [c] Is the organization of the project team clear?
+  [d] How well does the management plan illustrate the lines of authority and communication?
+  [e] To what extent does the offeror already have the hardware, equipment, and licenses
+      necessary to perform the contract?
+  [f] Does it appear that the offeror can meet the schedule set out in the RFP?
+  [g] Has the contractor offered alternate deliverables and gone beyond the minimum tasks
+      necessary to meet the objectives of the RFP?
+  [h] Is the proposal practical, feasible, and within budget?
+  [i] How well have any potential problems been identified?
+  [j] Is the proposal submitted responsive to all material requirements in the RFP?
+
+
+
+Evaluation Form
+The form used by the Evaluators to record the scores contains the criteria and the evaluation
+questions. On the next page is the section of the form dealing with Management Plan for the
+Project.
+
+
+
+
+Draft Copy For Review Only                      50
+PROCUREMENT OFFICER NOTE: ALTER, REVISE, OR DELETE AS REQUIRED.
+Management Plan for the Project—15%
+Maximum Point Value for this Section -- 15 Points
+100 Points x 15% = 15 Points
+Proposals will be evaluated against the questions set out below.
+   [a] How well does the management plan support all of the project requirements and logically
+       lead to the deliverables required in the RFP?
+   ___________________________________________________________________________
+   ___________________________________________________________________________
+   [b] How well is accountability defined?
+   ___________________________________________________________________________
+   ___________________________________________________________________________
+   [c] How clear is the organization of the project team?
+   ___________________________________________________________________________
+       ________________________________________________________________________
+   ___
+   [d] How well does the management plan illustrate the lines of authority and
+       communication?
+   ___________________________________________________________________________
+   ___________________________________________________________________________
+
+   [e] To what extent does the offer already have the hardware, equipment, and licenses
+       necessary to perform the contract?
+    __________________________________________________________________________
+   ___________________________________________________________________________
+   [f] Does it appear that offeror can meet the schedule set out in the RFP?
+   ___________________________________________________________________________
+   ___________________________________________________________________________
+   [g] To what extent has the contractor offered alternate deliverables and gone beyond the
+       minimum tasks necessary to meet the objectives of the RFP?
+   ___________________________________________________________________________
+   ___________________________________________________________________________
+   [h] Is the proposal practical, feasible, and within budget?
+    __________________________________________________________________________
+   ___________________________________________________________________________
+   [I] To what extent have any potential problems been identified?
+   __________________________________________________________________________
+   __________________________________________________________________________
+
+
+Draft Copy For Review Only                     51
+EVALUATOR'S POINT TOTAL FOR 7.03 _________________
+
+
+                                      Chapter 4
+                           Using and Choosing Consultants
+
+When Should You Use a Consultant?
+Imagine that you’re a small county police departmet who has recently acquired a new chief from
+the big city on a mission to automate. She wants her department linked in and connected, and
+she wants to upgrade the existing crime analysis and mapping database so that it can be accessed
+using a secure web-based extranet to officers in the field via laptops. She also wants a
+computerized mug shot system to tie into your existing AFIS to create a Criminal Profile Index
+database that can be linked to laptops in the field. Based on her conversations with a chief who
+implemented a similar system, she’s discovered that her “automated policing system” (APS) is a
+very expensive proposition. Using a borrowed proposal plan, she has done the ground work and
+obtained an initial grant of $300,000 for APS. She has also pursued several other grants in an
+attempt to bring in an additional $250,000. Even though the final funds have not been secured,
+you have been instructed to start the procurement process to obtain the desired IT system from
+the best company at the best price. You are not sure that you have the knowledge to determine
+which is the best product supported by the best company let alone how much leverage you have
+in negotiating a competitive price. The last time the department made such a large purchase was
+when your predecessor, a computer wizard, was in the job, and that was ten years ago. Over
+time, everyone in purchasing finds themselves in similar situations. The decision to procure a
+particular piece of technology has a political momentum of its own and is rolling your way, but
+you don’t have enough knowledge, staff, or experience to make a fully informed decision. Now
+may be a good time to consider bringing in a consultant.
+
+
+A Good Consultant Brings Value to the Process
+For a relatively small amount of money18, a good consultant can make your job easier as well as
+offset some of the risk of a high visibility project. The role of the consultant is not to do your job
+for you but to add value to the process of procuring new IT system. Some of the value they can
+add includes:
+
+      • The Value of Expertise. Ideally, consultants are seasoned professionals who have “been
+        there, done that” when it comes to the IT procurement process. Their experience should
+        have given them the knowledge to manage the procurement process and guide you to a
+        solid purchasing decision. From market and product knowledge to negotiation skills,
+        each consultant has his or her own strengths.
+
+      • The Value of Research. A good consultant can supply additional information and
+        ensure that you have completed your research thoroughly, filling in the information gaps.
+
+18
+     Depending on their scope of work and experience, figure that you will pay a consultant an amount equivalent to
+     5-10% of the cost of the final system.
+
+Draft Copy For Review Only                               52
+    • Time You Don’t Have. One of the greatest benefits you are buying from a consultant is
+      time. Unlike your regular staff, who are already working to capacity, consultants have the
+      time and the prior knowledge to do much of the hard work to get you through the
+      procurement.
+
+    • The Value of an Objective Viewpoint. A consultant does not have a vested interest in
+      your agency’s politics. His or her involvement can ensure that the decisions are focused
+      on the important procurement issues. Consultants often carry the same message as
+      internal people but with greater force, since they are perceived as experts and because
+      they do not have any vested interests at stake.
+
+What Consultants Can and Cannot Help You Accomplish
+Consultants can assist with a wide variety of tasks related to IT acquisition. In many cases, they
+require a lot of help from internal staff. They can:
+
+    • Assist you with the identification and development of IT goals
+    • Analyze your current system and IT infrastructure
+    • Assist you in preparing a needs assessment
+    • Identify and explain alternative solutions and schedules
+    • Assist with equipment and/or software selection and purchase (on smaller acquisitions)
+    • Prepare the RFI and/or the RFP (on larger acquisitions)
+    • Assist with vendor proposal evaluation
+    • Assist with contract negotiations
+    • Develop and implement system acceptance testing
+    • Act as your project manager
+    • Provide education and training
+    • Monitor vendor compliance
+Despite all of the ways that your project can benefit from using consultants, they cannot and
+should not make your decisions for you. They can explain the potential consequences of certain
+decisions and make their experience available to you in other ways but ultimately a consultant is
+an advisor only. It is your job to take the information and skills the consultant provides and use
+them to help you make the best decision for your agency.
+
+
+Choosing Consultants: Guidelines and Suggested Process
+
+Before You Begin: Do Your Homework
+More often than not, politics and internal pressures put us under the gun of highly compressed
+timelines. This is particularly true of high budget, high profile, high visibility projects. If you
+
+
+Draft Copy For Review Only                       53
+have decided to manage the risk factors associated with this sort of acquisition by engaging
+outside expert advice, make sure you don’t put yourself under the same kinds of pressure. Take
+the time to think about the project and clarify your understanding of its goals and objectives.
+The more time you spend “getting clear” on the problem and how you are going to approach
+resolving it, the better you’ll be able to communicate it to consultants. Here are a few
+suggestions that will help you start the process.
+
+       The Problem
+
+    • Begin by describing the problem that you are trying to resolve or value that you are trying
+      to create with the purchase or development of a new system. If you are seeking to
+      enhance an existing system, describe the new features or capabilities that you desire.
+    • Broadly define the scope of the project, including whom the system will serve, the
+      services you expect from the system provider, and so on.
+    • Broadly outline the technical solution that you envision will resolve this problem.
+    • Present a tentative schedule for the entire project, including consulting and systems
+      development and deployment.
+    • Discuss the organizational, structural, or political constraints that affect the project. Do
+      you know what they are? How can you find out?
+    • Does the project have an existing mandate or existing goals and objectives? Was the
+      project a result of a committee action? Do you have all the background information?
+    • What procurement policies, statutes, or regulations affect the project and how you
+      proceed?
+
+       Your Consulting Needs
+    • Describe the scope of the consultant’s duties including deliverables, and required time on
+      site.
+    • Describe what written materials may be available to the consultants including previous
+      RFPs, strategic plans, documentation on existing systems, and so on.
+    • Describe the kinds of outside agency support that exists to provide technical advice or
+      assistance on the project.
+    • Describe your own role and available resources for the project.
+    • Describe your success factors so that the consultant can design a process which will
+      satisfy those goals.
+    • Detail the overall budget for the project and whether any allowance has been made for
+      outside consultant assistance.
+    • Articulate the minimum experience criteria, required skills, and other information you
+      will use to evaluate the proposals.
+
+
+
+Draft Copy For Review Only                      54
+Finding Good Consultants
+With the growth of technology use and adoption in recent years and the increase in law
+enforcement IT purchases, a sizeable industry of consultants has emerged. Despite this, finding a
+consultant that has the right mixture of expertise and experience can sometimes be difficult.
+While there are many consultants who understand information technology and the acquisition
+process, not all have experience with or understand the unique attributes of a law enforcement
+agency. Whenever possible, find a consultant who has personal experience with law enforcement
+projects similar to yours. But how do we find such a person?
+
+First, talk to the agencies in your area that have recently acquired new IT systems. Some will
+likely have employed a consultant to assist them. Ask the agencies for recommendations. As
+with RFP preparations, ask them what they liked or disliked about the consultant. Get a picture
+of what services the consultant was asked to provide. Ask the agency how long it took to
+complete the consulting portion of the project.
+
+Next check with law enforcement and other municipal associations. The International
+Association of Chiefs of Police (IACP), SEARCH, Inc., the National Sheriffs’ Association, the
+Association of Public Safety Communications Officials (APCO), the National Emergency
+Numbers Association (NENA), the International City Managers Association (IACP), the
+National League of Cities, and other organizations often have listings for consultants. At the very
+least, the largest consulting firms will be listed in the member magazines for these organizations.
+
+Review RFPs. If you find an RFP that is similar to your project and seems like it is well written,
+call the issuing agency and see if they used a consultant.
+
+
+Qualifications Requirements
+As noted above, there are many consultants who will claim they have the right skills and
+experience to advise you on a law enforcement system. To make sure the consultant you choose
+will have the best skills and be the best fit for your organization and project, we suggest the
+following qualifications as potential discriminators:
+
+    • Has the consultant had experience with other law enforcement or public safety agencies?
+    • Have they consulted on an IT project similar to yours?
+    • Does the consultant’s personality and philosophy seem to fit with yours?
+    • Are they open to alternative solutions and methods for reaching your goals?
+    • Does the consultant’s work and references show an ability to problem solve, good written
+      and interpersonal communication, and good team building skills?
+    • Is the consultant open to your participation and input?
+
+Know the Ties That Bind You
+You should familiarize yourself with any statutes, laws, or regulations that apply to your
+agency’s procurement of professional services and information technology. During the research
+
+Draft Copy For Review Only                      55
+for this handbook, we read a number of case studies that described the acquisition of hundreds of
+thousands of dollars in information technology from a sole source, a practice that is prohibited in
+some jurisdictions. It is important that your procurement practice ensures open and fair
+competition. Buyers from other government organizations can and have been sued by vendors
+claiming, justifiably, unfair competitive practices.
+
+
+Do You Need to Issue an RFP to Hire a Consultant?
+If the anticipated dollar amount for the consulting services you require exceeds your agency’s
+basic threshold, you may need to issue an RFP. If your agency has done this before, make sure
+to review past RFPs for sample language on deliverables and qualifications. There are some
+useful sample RFPs on www.it.search.org. For a good overview check out “A Guide to
+Developing a Consulting Services RFP” at
+http://www.compassconsulting.com/html/article8.html.
+
+          Important Note: If you are engaging a consultant on minor parts of the project (say
+          a needs assessment) which are below dollar thresholds and don’t require an RFP,
+          make sure that your agency’s policy does not prevent you from considering a
+          proposal from that same consultant if a later stage project requires the issuance of
+          an RFP.
+
+Don’t need an RFP? Follow the steps anyway! Regardless of whether or not you are required
+to issue an RFP, make sure you follow the same steps incorporated in an RFP. This will reduce
+the risks and ensure that you have managed the project with due diligence.
+
+
+Check References
+In any procurement process, whether you are looking for a vendor to provide hardware and
+software solutions, or a consultant, always check the references provided.
+
+Here is a list of some items to ask the reference agencies for a consultant:
+    • Did the consultant meet the work and project deadlines?
+    • How responsive and available was the consultant?
+    • Did any problems arise? Were they satisfactorily resolved?
+    • Was the consultant easy to work with? Knowledgable? Good at anticipating and resolving
+       unexpected problems?
+    • Were they pleased with the quality of the consultant’s work and experience?
+    • Did they feel that the consultant was instrumental in completing the project successfully?
+    • Were there any billing disputes?
+    • Would they use the consultant again?
+
+
+
+
+Draft Copy For Review Only                        56
+Draft Copy For Review Only   57
+                                          Chapter 5
+                                          Summary
+The RFP process is a complex learning experience.
+
+One of the many challenges unique to law enforcement acquisitions is the fact that most
+procurements are led by sworn officers with little or no experience in procurement. This has
+both advantages and disadvantages. On the one hand, it should mean that technologies meet the
+demands of fieldwork because a field officer had a direct hand in developing the solution. Who
+better to explain to a mobile technologies vendor the tight fit of a patrol car than a former patrol
+officer? Numerous other IT questions are best answered through experience.
+
+On the other hand, sworn officers shifted into procurement should be cautious of getting too
+caught up in the details of dictating the IT solution to the vendor. It is best to analyze your
+situation—including existing technologies, type and size of jurisdiction, and a vision of what you
+wish the new system to do—and largely allow competing vendors to show you how they can
+reach your goals. Be cautious but open to new ideas.
+
+Another challenge involves the timing of IT projects. Since large IT procurements like CAD
+systems are often required only once in a five to 10 year period, little knowledge is carried over
+naturally from one acquisition to the next. For this reason, it is especially important for law
+enforcement agencies to “debrief” on their acquisition process, putting notes and lessons in
+writing for future reference. These notes should be made easy to find for future IT acquisition
+leaders and be stored with copies of previous RFPs, proposals, and contracts.
+
+Being a tightly knit community seems to have eliminated one challenge for law enforcement:
+vendor protests. Common in other government agencies, especially at the state and federal level,
+it is rare that a vendor will protest an RFP award in local law enforcement. In fact, in over 18
+months of research we were unable to come up with a single incident of this occurring. The
+primary reason, again, is the closely-knit nature of the profession—vendors feel that it is better to
+move on to the next RFP rather than get a reputation for fomenting conflict. However, it is still
+important for the procurement officer to run as fair a process as possible. There will always be a
+winner and a loser, but the ground rules should be the same for all bidders.
+
+ Also, when you are conducting your preliminary research, take note of agencies—especially
+those of similar size to your own—that have procured the same types of information technology
+as you are seeking. Interview the individuals who managed the procurement to find out what
+went right and wrong, and request a copy of their RFP. Just as you can learn from your own
+experience, a little work can help you learn in advance from the experience of others.
+
+In fact, one of the most important things a procurement person can do is to learn from the
+experience of each acquisition. This means a little bit more than just paying attention to the
+things that went wrong. A few times during and definitely at the end of your procurement
+process, you should assemble all your team members—who that includes will depend on your
+agency—and conduct a formal critique of the procurement process. Talk about both general and
+specific points at which the acquisition bogged down or got significantly off track; incidents of
+communication problems among the team or with the vendor(s); and whether it seems you met
+
+Draft Copy For Review Only                       58
+your goals. This should be a positive experience and from it you should be able to develop
+solutions that will make the next procurement go smoother.
+
+Since one or more team members may have moved on by the time another procurement is
+initiated, reduce those challenges and solutions to writing, in a memo or report, and place them
+in a binder (possibly with copies of your RFP), you will be able to use the information to
+bulletproof the next acquisition. Knowledge hard gained should not be lost.
+
+
+
+
+Draft Copy For Review Only                      59
+

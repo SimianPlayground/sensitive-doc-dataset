@@ -1,0 +1,1184 @@
+Request for Proposal
+      Project Atlas
+        9/24/2018
+
+
+
+
+           Spokane Neighborhood Action Partners
+                   3102 W. Fort George Wright Dr
+                             Spokane, WA 99224
+                                          Table of Contents
+INTRODUCTION .................................................................................................. 3
+1. SCHEDULE OF EVENTS .............................................................................. 4
+2. TERMS & CONDITIONS ............................................................................... 4
+  2.1 Payment Terms ....................................................................................... 4
+  2.2 Ownership of Deliverables ....................................................................... 4
+  2.3 Non-Disclosure of Confidential Information.............................................. 4
+3. GENERAL INFORMATION............................................................................ 4
+  3.1 Definitions ................................................................................................ 4
+  3.2 Purpose of this Request .......................................................................... 5
+  3.3 Company Background ............................................................................. 5
+  3.4 General Information About Project Atlas .................................................. 6
+  3.5 Contract Term .......................................................................................... 6
+  3.6 Presentations and Demonstrations .......................................................... 6
+  3.7 Pre-Proposal Q&A Process ..................................................................... 6
+4. TECHNICAL SPECIFICATIONS.................................................................... 7
+  4.1 Resources to Be Provided by SNAP ........................................................ 7
+  4.2 Resources to Be Provided by the Vendor ................................................ 7
+  4.3 Deliverable Overview and Specification ................................................... 7
+    4.3.1 Overall Systems Requirements ............................................................ 8
+      4.3.2 Accounting .......................................................................................... 10
+      4.3.3 Ride to Care........................................................................................ 10
+      4.3.4 Energy ................................................................................................ 10
+      4.3.5 Communications ................................................................................. 11
+      4.3.6 Financial Stability ................................................................................ 11
+      4.3.7 Homeless ............................................................................................ 11
+      4.3.8 Housing............................................................................................... 12
+      4.3.9 Internal Resource Team ..................................................................... 12
+      4.3.10 Management Information Systems ................................................... 13
+  4.4 Project Management .............................................................................. 13
+  4.5 Warranty / Support ................................................................................. 13
+5. HIGH-LEVEL PROJECT REQUIREMENTS ................................................ 14
+  5.1 Standards and Conventions................................................................... 14
+  5.2 Project Management .............................................................................. 14
+  5.3 Engagement Governance ...................................................................... 14
+  5.4 Technical & Data Conversion Requirements ......................................... 15
+  5.5 Testing ................................................................................................... 15
+6. VENDOR INFORMATION ........................................................................... 15
+  6.1 Organization .......................................................................................... 15
+  6.2 Relevant Experience in Similar Projects ................................................ 16
+  6.3 Project Management .............................................................................. 16
+  6.4 Technical Experience ............................................................................ 17
+
+                                                                                                   Page 2 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+  6.5 References ............................................................................................ 17
+7. VENDOR PROPOSAL ................................................................................. 17
+  7.1 Project Approach ................................................................................... 17
+  7.2 Staffing Proposal ................................................................................... 18
+  7.3 Project Timing Proposal ......................................................................... 18
+  7.4 Project Cost Proposal ............................................................................ 18
+  7.5 Proposal Assumptions ........................................................................... 18
+  7.6 Proposal Risks and Mitigations .............................................................. 19
+  7.7 SNAP Time and Support........................................................................ 19
+8. METHOD OF EVALUATIONS AND AWARD .............................................. 19
+  8.1 Evaluation Criteria ................................................................................. 19
+  8.2 Discussions and Best and Final Offers .................................................. 20
+Appendix A ......................................................................................................... 22
+  The following is a list of attachments ............................................................... 22
+  The following are the screenshot images as noted above: .............................. 22
+Appendix B Timesheet Allocation Worksheet ..................................................... 23
+  Activity Based Time ......................................................................................... 23
+    Example ....................................................................................................... 23
+   General Time................................................................................................... 24
+   Allocation Example .......................................................................................... 24
+
+                                          INTRODUCTION
+This RFP document is an invitation to submit proposals for a project to replace
+an existing legacy software system, while providing much needed enhancements
+to the overall business processes. This project will be established as Project
+Atlas and the start date is slated for January 3, 2019. Timeline to implementation
+and cut over will be a determining factor in our evaluations.
+.
+
+The intent is to obtain proposals and vendors’ background information for the
+selection of one or more software and service provider to participate in this
+project. Through this process, SNAP seeks to develop operational relationships
+with software partners that can meet the current project objectives and provide
+support in the years to come.
+
+All questions and inquiries regarding this request for proposal should be directed
+to:
+
+Kathy Talley
+MIS Coordinator
+SNAP
+Phone: 509.456.SNAP ext. 5238
+Email: talley@snapwa.org
+
+Marc Rowe
+
+                                                                                                    Page 3 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+Project Atlas Project Manager
+Rowe Programming, LLC
+Phone: 603.418.4724
+Email: marc@roweprogramming.com
+
+1. SCHEDULE OF EVENTS
+Request for proposal released – 9/24/2018
+Notification of intent to bid – 10/1/2018
+Deadline for questions – 10/5/2018
+Q&A webinar session – 10/10/2018
+Follow up to questions – 10/15/2018
+Deadline for proposals – 10/19/2018
+Finalists notified – 11/9/2018
+Finalist Demonstrations – 11/12/2018 – 11/16/2018
+Notification about the selected candidate – 12/3/2018
+
+2. TERMS & CONDITIONS
+2.1   Payment Terms
+Fixed price with milestone payments.
+
+2.2 Ownership of Deliverables
+All custom software developed for the purpose of the project will be the sole
+ownership of SNAP.
+
+2.3 Non-Disclosure of Confidential Information
+Release of sensitive information, including but not limited to data, personally
+identifiable information, database structures, current screenshots of the existing
+system, is conditioned upon the execution of a Non-Disclosure Agreement
+between SNAP and Vendor governing the information provided by SNAP to
+specify the work upon which the bid is based, and the proposal which SNAP shall
+receive from Vendor.
+
+3. GENERAL INFORMATION
+3.1   Definitions
+
+Customization: Software code needs to be written to add business rules, fields,
+formulas, forms or user data entry screens that does not currently exist in the
+system. This excludes utilization of Customizable Fields.
+
+
+
+
+                                                                     Page 4 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+3.2   Purpose of this Request
+The purpose of this RFP is to request proposals from software development -
+System Integrator service providers to meet certain requirements and project
+goals predefined by SNAP. The intent is to obtain proposals (bids) and vendors’
+background information for the selection of one or more service providers to
+enter a contracting phase to define the final pricing and specify the scope of
+work.
+
+3.3   Company Background
+   Spokane Neighborhood Action Partners (https://www.snapwa.org/) is a
+   human services organization serving Spokane for over 51 years whose
+   mission is “Increasing the human potential of our community by providing
+   opportunities for people in need.” SNAP serves Spokane County to alleviate
+   the conditions of poverty towards stabilization of individuals and families and
+   equip those who desire with a strategy and tools to exit poverty. Because
+   client needs are often complex, SNAP offers a full spectrum of programs.
+   There are three core areas of service; including Housing Services (home
+   weatherization, essential home repair, single family rehabilitation loans, and
+   the long term care Ombudsman program), Community Action (homeless
+   services, energy assistance, medical low acuity alternative destination rides
+   to urgent care when referred by a paramedic), and Financial Stability ( home
+   ownership education and counseling, foreclosure prevention, small business
+   lending/technical assistance/business plan development, financial services
+   education) to name a few. All these services are provided to clients in a non-
+   threatening environment where everyone is treated with the utmost dignity
+   and respect. We are committed to quality and compassion and know how
+   important it is to provide clients with needed resources in a seamless fashion.
+   We employ several strategies including income, infrastructure and asset
+   building, housing, education, social determinants of health, civic engagement
+   and community involvement.
+
+   What sets SNAP apart from other social service agencies state-wide and
+   nationally, is that our programs don't operate in silos---they are connected by
+   a one-of-a-kind enterprise data system. This system allows SNAP programs
+   to operate and track data independently yet work together to identify and
+   respond to client and community needs quickly and effectively across our
+   different physical locations and between programs. This core operating
+   platform enables clients to access our full range of services through one
+   portal. The existing database is a legacy system developed in house over 30
+   years ago and the platform (FoxPro) is no longer supported by Microsoft and
+   must be replaced. It is a robust system that has provided the agency with an
+   unduplicated client count and the flexibility to be responsive to changing local
+   need. As SNAP has grown and added more programs for more support, the
+   existing system has met with challenges which have forced many work
+   arounds, such as duplicate entry in external systems, limited ability to
+
+                                                                      Page 5 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+   integrate with newer, more modern third-party systems, limited ability to view
+   and report on historical data and an ever expanding excel spreadsheet
+   library.
+
+3.4    General Information About Project Atlas
+   We are seeking a product that will not only replace the system we have but
+   enhance our user experience and allow us to grow and expand as new areas
+   arise where we can provide our services through new programs. The new
+   system will need to accommodate our 150+ user base as well as provide a
+   pathway to share our data with partners through API interactions or other
+   easily used mechanisms. Most, if not all, programs will contain Personally
+   Identifiable Information, therefore data storage and exchange will need to
+   conform to security standards for PII, such as the California Consumer
+   Protection Act(CCPA). Along with this, we do have programs which store
+   medical record data. Any new system we evaluate will have to comply with
+   HIPAA standards for those specific programs, if not across the entire system.
+
+3.5    Contract Term
+The term of the contract that will be awarded at the end of this request process
+will commence upon SNAP’s execution of the contract and will extend no longer
+than the duration of the project required to complete the designated deliverables,
+or a termination date which will be specified in the contract itself. Upon the
+acceptance of the final deliverable, the contract will be deemed satisfied. SNAP
+makes no commitment to follow-on work following this process. Subsequent
+contract grants will be at SNAP’s discretion and based upon the quality of the
+work performed on this project.
+
+3.6    Presentations and Demonstrations
+Demonstrations will be presented to the SNAP team by selected vendors as part
+of the final selection process. These may be done in person or remotely via
+screen sharing. These presentations are intended for the selected vendors to
+demonstrate how their product will meet the specific needs of Project Atlas and it
+is the expectation of the SNAP team that the vendors chosen to present will
+highlight specific areas of their applications which meet the needs discussed in
+this RFP. The expectation is that there will be technical staff attending the vendor
+presentations to assist with functional questions.
+
+3.7    Pre-Proposal Q&A Process
+During the course of the vendor review of the RFP Requirements, questions will
+arise which need to be addressed. These questions must be emailed to the
+points of contact, Marc Rowe and Kathy Talley, directly. Each question and its
+subsequent answer will be added to a Question Answer Matrix and made
+available to all participants in the RFP process. All questions of this nature are
+due by the Deadline for Questions as outlined above.
+
+                                                                       Page 6 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+Additionally, there will be a webinar held for Questions and Answers on the Q&A
+Webinar date listed above. This will be an open forum for all that wish to attend
+and ask questions of the team about the project. The questions submitted in the
+Question Answer Matrix will not be covered during this session, however any
+questions answered during this session will be added to the Question Answer
+Matrix and distributed to all participants in the RFP process.
+
+Follow up questions that arise as a result of the Q&A Webinar are due by the
+Follow Up Question deadline above and will also be added to the Question
+Answer Matrix and distributed to all participants in the RFP process.
+
+4. TECHNICAL SPECIFICATIONS
+4.1    Resources to Be Provided by SNAP
+   •   Hardware to support testing
+   •   Third party software systems currently in use which require integration,
+       including licensing
+
+
+
+4.2    Resources to Be Provided by the Vendor
+   •   End to End Testing Environment, to persist over the lifetime of the
+       software usage at SNAP which allows for testing of all aspects of the
+       software implementation, including third party software integrations.
+   •   Training Environment
+   •   Training Program and documentation to support a “Train the Trainer”
+       methodology
+   •   Software manuals and user guides that outline how to use system
+       features, including any custom features.
+   •   Software licenses needed to support Vendor Product Testing and Training
+       Environments, including but not limited to: Database Server Licenses,
+       Third Party Software Licenses not currently in use
+
+
+4.3    Deliverable Overview and Specification
+All technical deliverables will be expected to conform to a standard format to be
+agreed upon during final contract negotiations. This standard format will outline:
+    •      How the product is delivered
+    •      How documentation will be provided
+    •      How testing was conducted
+    •      How User Acceptance testing can be conducted.
+    •      Defect report process flow
+    •      Defect resolution plan
+
+
+                                                                      Page 7 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+4.3.1 Overall Systems Requirements
+The following requirements are needed throughout the system for every program.
+   • Purchase Order Management
+   • Budget Management
+   • Grant Management
+   • Contract Management
+   • Integrated Inventory Management
+          o Needs to be flexible enough to be managed independently per
+             program
+   • Client Intake, Specific to the Program (see below)
+          o Geo Location of Addresses
+                 ▪ GPS nets setting specific metropolitan areas
+                 ▪ Layering Districts
+          o Custom Income Calculations
+                 ▪ see Image 1
+          o Custom Percentage Poverty Calculations
+                 ▪ see Image 1
+          o Ability to add lifetime limits per person, per program for benefits
+   • Upload Media (video, pictures, etc.) associated with Entities
+          o Client
+          o Vendor
+          o Staff
+          o Project
+          o Others…
+   • Report Dashboard
+   • Mail Merge
+          o Letter generation
+          o Mailing Label Generation
+          o Customizable mail merge documents
+          o Customizable Fillable Forms
+   • Timesheet
+          o Salary Employee
+          o Hourly Employee
+          o Volunteer
+          o Timesheets need to tie back to an activity and are funded by
+             multiple grants per activity
+          o General time allocation: ability to allocate non-worked paid hours
+             distribution based on actual worked hours
+                 ▪ See Timesheet Allocation Worksheet
+          o Ability to have total labor costs in projects
+                 ▪ Labor cost breakdown by type
+                        • Weatherization
+
+                                                                  Page 8 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+                        •   Health / Safety
+                        •   Repair
+                        •   Etc
+   •   CRM
+   •   Custom User Form Creation / Data Entry Management
+          o Similar to a Google Form for collecting data
+   •   Survey Creation and Management
+   •   Scheduling and Calendar
+          o Local and Web based
+          o Reminder Call System
+                  ▪ Phone / Text
+   •   Customizable Data Entry Fields
+          o Unlimited in number
+          o Must be able to perform calculations to populate other fields
+              (including custom)
+          o Must be able to report on these fields
+   •   Customizable Calculation Fields
+          o Unlimited in number
+          o Must be able to populate other fields
+          o Must be able to report on these fields
+   •   Customizable Reporting
+   •   Specific Report Generation
+          o For reports more complex than can be built in the Customizable
+              Reporting Solution
+          o Each program will need up to 15 reports created by the installation
+              team during the transition process for use upon go-live
+   •   Data Integration with Third-Party Systems
+          o Each program will have specific needs for use of Application
+              Programming Interfaces between the new system and the third-
+              party systems.
+          o The new system should allow for both data export and import using
+              these Application Programming Interfaces
+   •   Data Security
+          o HIPAA Compliance – There are certain programs which store data
+              which needs to be HIPAA compliant. As such, the new system will
+              have to be compliant with the HIPAA standard for at *minimum*
+              those programs
+          o Personally Identifiable Information – All client data stored within the
+              system contains Personally Identifiable information, in most cases
+              the Social Security Number is stored.
+
+
+
+                                                                      Page 9 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+4.3.2 Accounting
+The accounting team works with the Blackbaud Financial Edge package to
+manage the day-to-day accounting needs. This system has worked well in the
+past, but they are open to investigating new solutions if that is in the best interest
+of the overall software suite, however if possible it would be preferred for there to
+be integration between the new Community Action system and Financial Edge.
+
+   •   AR
+   •   AP
+   •   Payroll
+   •   Integrated Banking
+   •   State and Federal Tax Reporting
+   •   Data Integration with Third Party systems such as Financial Edge
+
+4.3.3 Ride to Care
+
+   •   Partner Management
+          o Such as a local Clinic
+   •   HIPAA Compliance
+
+
+4.3.4 Energy
+The Energy Program at SNAP is there to assist members of the community with
+their heating costs throughout the winter as well as home electricity needs. This
+is a program that relies heavily on specific state and federal regulations and
+funding sources, so it must be managed and reconfigured on a yearly basis as
+the regulations and funding sources change.
+
+   •   State of Washington Heating Assistance Management
+           o Must maintain multiple data for multiple years
+           o Must be able to reset each client for a new year without losing data
+               history
+           o Custom data calculation formulas
+           o See Energy Calculation attachments
+   •   Client Intake and Management
+   •   Emergency Management
+           o For items needing immediate attention such as a Shut Off
+   •   Data Integration with Third Party systems, such as Avista and the State of
+       Washington Department of Commerce
+           o Possibility of HIPAA compliance needs on data export from the
+               system to partners
+   •   Volunteer Management
+   •   Vendor Intake and Management
+                                                                       Page 10 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+4.3.5 Communications
+The Communications team at SNAP is responsible for getting the word out about
+the services offered and helping the community understand how SNAP can help
+them. Along with this, they assist in managing the many donors and community
+outreach programs.
+
+   •   Event Management
+   •   Donor Management
+   •   Geo Location of Addresses
+          o GPS nets setting specific metropolitan areas
+          o Layering Districts
+   •   Inventory Management
+   •   Task Management
+   •   Volunteer Management
+   •   Data Integration with Third Party systems such as Financial Edge.
+
+4.3.6 Financial Stability
+The Financial Stability program assists the community in a range of ways from
+providing down payment assistance for purchasing a home or providing
+counseling on home purchases, to issuing loans to small businesses, helping
+businesses write business plans and providing education opportunities.
+
+   •   Loan Client Intake and Management
+   •   Home Repair Client Intake and Management
+   •   Mortgage Assistance Client Intake and Management
+   •   Home Purchase Financial Counseling
+   •   Business Intake and Management
+   •   Business Plan Document Storage and Management
+   •   Geo Location of Addresses
+          o GPS nets setting specific metropolitan areas
+          o Layering Districts
+   •   Vendor Intake and Management
+   •   Educational Course Management
+          o Creation
+          o Registration
+          o Local and Web based
+   •   Volunteer Management
+   •   Data Integration with Third Party systems such as Loan Management
+       system
+
+4.3.7 Homeless
+The Homeless Assistance Program provides help for things such as finding
+temporary homes for clients, rental assistance, homelessness prevention, home
+
+                                                                  Page 11 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+inspection services for homes where rental assistance is provided, and other
+services provided by Spokane County.
+   • Rapid Rehousing Client Intake and Management
+   • Rental Assistance Client Intake and Management
+   • Homelessness Prevention Client Intake
+   • Housing Search Assistance Management
+   • Housing Inspection Management
+   • Volunteer Management
+   • Data Integration with Third Party systems such as current HMIS system
+   • HIPAA Compliance
+
+4.3.8 Housing
+The Housing Program helps homeowners with needs such as minor home repair,
+energy audit, single family rehab projects and weatherization.
+
+   •   Energy Audit Client Intake and Management
+   •   Weatherization Client Intake and Management
+   •   Minor Home Repair Intake
+   •   Minor Home Repair Project Management
+   •   Landlord Intake and Management
+   •   Weatherization Project Management
+   •   Energy Audit Project Management
+          o Customizable calculations
+   •   Ability to add lifetime limits to the building for benefits
+   •   Job Costing
+          o Ability to break job to different cost centers
+                   ▪ Labor
+                           • Multiple Configurable hourly rates per project
+                   ▪ Materials
+                   ▪ Other
+          o Ability to assign funding sources to those cost centers
+   •   Vendor Bid Management
+   •   Weatherization Fund Management
+   •   Inventory Management
+   •   Workflow Management
+   •   Volunteer Management
+   •   Data Integration with Third Party systems such as current loan system
+   •   HIPAA Compliance
+
+4.3.9 Internal Resource Team
+The Internal Resource Team manages things like conference room calendars,
+board and committee meetings, day to day office duties, routing incoming clients
+to the proper program and compiling and managing the high-level reports to the
+                                                                   Page 12 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+board. Along with referral to internal resources, the team often needs to refer to
+outside resources such as 211.
+
+   •   System Wide User Access for Information Lookup and Routing
+   •   Access to staff calendars
+   •   Referral Management
+          o Capture referrals to external resources
+   •   Record and Manage “Reason for Call”
+          o Record Time spent per call
+   •   Vendor Management
+   •   Vendor License Management
+   •   Volunteer Management
+   •   Data Integration with Third Party systems such as Financial Edge.
+
+4.3.10 Management Information Systems
+The Management Information Systems team is there to support the day to day
+use of technology for SNAP. This team needs to be able to manage and support
+the new system.
+
+   •   System Wide Administrative Access
+   •   Integration with Ticket Management System
+
+
+
+4.4    Project Management
+Both SNAP and the Vendor will be responsible for project management. The
+Vendor will assign a project manager to work with SNAP’s project manager to
+ensure the project runs smoothly on both sides and to coordinate meetings
+between the teams as necessary.
+
+4.5    Warranty / Support
+All customized software code written to meet the project needs will be warrantied
+for 6 months after Production Go Live. During this period, defects discovered in
+the customized code will be addressed and fixed through the development life
+cycle. The Warranty is considered part of the scope and limitations of the project
+and will not be billed separately.
+
+Support will be available to SNAP during working hours to be determined during
+contract negotiations but must include at a minimum 7AM-6PM Monday through
+Friday PST.
+
+
+
+
+                                                                     Page 13 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+5. HIGH-LEVEL PROJECT REQUIREMENTS
+5.1   Standards and Conventions
+All software code written will comply with industry standards for code quality,
+documentation and quality assurance testing based on the software
+programming language used for implementation and to be agreed upon during
+contract negotiations.
+
+5.2   Project Management
+The project will be managed by the Project Management Team at SNAP with the
+following requirements:
+    • There will be 15-30-minute Project Management Status Check in meetings
+       on the following days:
+           o Monday – Plan for the week
+           o Tuesday – Roadblock Check in
+           o Wednesday – Check in on current weekly goals / roadblocks
+           o Thursday – Roadblock Check in
+           o Friday – Summarize week achievements / roadblocks
+    • Weekly Reports on Progress and Roadblocks required
+    • Monthly Reports on Progress and Roadblocks required Format to be
+       determined, however must include Scope, Schedule and Budget color
+       coded to Red, Yellow and Green for status
+    • Change Request Management Meetings for formal review and approval of
+       anything outside the initial scope of the project as needed
+    • Should roadblocks or other needs arise, meetings to address the given
+       situation will be set up
+    • Demonstrations will be given upon completion of software customizations
+
+5.3   Engagement Governance
+
+5.3.1 The Vendor must present a formal report on progress and
+      accomplishments every week and month
+5.3.2 The monthly progress report shall include, at a minimum, the following
+      information:
+      • Project schedule fidelity
+      • Project progress
+      • Major accomplishments of the past week/month
+      • Summary of risks and mitigation activities
+      • Summary of issues and impacts
+
+5.3.3 Discovery of any risk documented/undocumented in the project plan shall
+      be escalated to the above-mentioned SNAP contact within one (1) day.
+
+
+
+                                                                   Page 14 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+5.4    Technical & Data Conversion Requirements
+The respondent must demonstrate experience and capabilities with the
+technologies in use in the SNAP ecosystem. The following section describes
+these technologies as well as the development and project management
+environment.
+The Vendor is expected to provide the Software Development Life Cycle utilized
+for all customizations, this should outline the testing and deployment procedures
+of custom software needed to be completed to meet the needs of the project.
+
+5.5    Testing
+
+Quality Assurance testing is the responsibility of the Vendor. New software will
+only be deployed to SNAP after it has passed the Vendor’s internal QA testing at
+which point SNAP team will perform User Acceptance Testing as the final stage
+of testing before the customization is certified for production use.
+
+SNAP Team will have access to the defect tracking system used during the QA
+lifecycle and will give final approval before any customization or defect resolution
+is migrated to the User Acceptance Testing environment.
+
+Vendor to provide production deployment and post-production emergency
+support when any change is deployed to the production environment.
+
+
+6. VENDOR INFORMATION
+This section specifies the requirements that submitting companies must address
+to participate in the vendor’s competition and receive work associated with this
+request for proposal. Provide a complete and accurate response to each
+requirement. If necessary, supporting documents can be attached as an
+appendix.
+
+
+6.1    Organization
+6.1.1 Provide an overview of your company, including date of incorporation,
+      operating locations, number of employees, area(s) of specialty and
+      number of successful projects with Non-Profit / Community Action
+      Program customers.
+6.1.2 Are you a woman or minority owned business? Please indicate in your
+      response if you are.
+
+6.1.3 Provide information about the specification of the project organizations
+      with which you have experience (e.g., onshore, offshore, onshore PM,
+      offshore dedicated development team, etc.).
+
+
+                                                                      Page 15 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+6.1.4 Describe how you screen and hire staff. What level of skill and
+      certifications, if any, must they have? How do you evaluate their
+      experience and performance? What was your staff turnover rate
+      throughout the preceding three (3) years for each year? Do you require
+      background checks on all employees? How often is a background check
+      updated on existing employees? Do you employ any overseas resources?
+
+6.1.5 Describe the Software Development Life Cycle used for customizations,
+      defects and system upgrades as would pertain to SNAP customizations
+
+6.1.6 Describe Software Release cycle used for new features to the overall
+      system. Do you release new features Quarterly, Bi-Annually, Annually?
+      How often is the overall system updated for security patches?
+
+6.1.7 Describe server patching policy. If this is a cloud-based solution, how
+      much planned down time is there per year, what hours or days is known
+      down time typically planned
+
+
+6.2   Relevant Experience in Similar Projects
+6.2.1 Have you ever worked on projects for Non-Profit Community Action
+      Programs with similar functionality? Please provide a brief description of
+      the project, project scope, size of the team, duration of the project and
+      project management model.
+
+6.2.2 What was the service and what was your role in the creation/deployment
+      of the solution?
+
+6.2.3 Describe the success of this experience and whether or how lessons
+      learned were implemented.
+
+6.3   Project Management
+6.3.1 Describe your experience levels and PMP Certifications with project
+      management. How do you ordinarily scope, estimate, assign resources
+      and measure progress?
+
+6.3.2 Do you use internal staff for project management or do you use third party
+      system integration teams?
+
+
+6.3.3 Which software development lifecycle model would you choose for this
+      project and why?
+
+
+
+
+                                                                    Page 16 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+6.4    Technical Experience
+
+6.4.1 Describe your experience with Visual Fox Pro, any past data conversion
+      experience with this technology, are any team members certified.
+
+6.4.2 Describe your testing methodology and QA approach. Which testing tools
+      and instruments do you use? Which methodologies do you use? What
+      standard documentation do you produce during the development process?
+
+
+6.4.3 Provide the Software Programming Language used to develop the
+      proposed system (Example: C++, Java, C#)
+
+6.4.4 Provide the Database Technology the proposed system requires
+      (Example Oracle, SQL Server)
+
+
+6.4.5 Provide the target deployment platform operating system
+
+
+6.5    References
+
+6.5.1 Provide a minimum of three references within the past two years to whom
+      products or services similar in scope to the requirements of this RFP have
+      been provided, in the following form: the name of the person who may be
+      contacted, position, email address and phone number as well as the main
+      location physical address.
+
+
+7. VENDOR PROPOSAL
+All vendors shall develop a proposal response to this RFP which addresses the
+full scope of work identified in the request. The following sections outline the
+mandatory elements of the proposal. In their proposal, bidders may include
+additional elements which are not specifically called out in this request, if they
+believe that such data is necessary for SNAP to properly understand and
+evaluate the offering.
+
+7.1    Project Approach
+Describe the approach you are taking towards this project. How do you propose
+to initiate, maintain and close out the project? Include specific references to the
+project methodology and the desired relationship between SNAP and your
+company.
+
+
+
+                                                                      Page 17 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+7.2    Staffing Proposal
+Describe the skill sets, numbers and locations of the individuals you propose to
+staff this project. Briefly provide an overview of the contributions you would
+expect each unique skill set to provide to the project.
+
+7.3    Project Timing Proposal
+Based on the approach and staffing outlined above, provide a project timeline
+that commences with a contract award date of 12/3/2018 This timeline should
+identify all major project milestones and indicate the dates associated with the
+project deliverables in Section 5.5 Overview of Deliverables.
+
+Describe your estimating methodology and the methods you employed to
+determine the effort associated with this project. Provide sample data from your
+estimating process to illustrate this methodology.
+
+Provide the total number of hours associated with the following tasks/resources:
+   • Total Project Hours
+   • Project Management
+   • Software Engineering/Development needed for Customizations
+   • Testing & QA
+   • Software Warranty
+   • Infrastructure Management
+
+7.4    Project Cost Proposal
+Provide a cost proposal which includes the total cost to be charged as well as the
+cost broken down by the following categories:
+
+   •   Initial Software Cost by Module
+   •   Customization
+            o Itemized per customization
+            o Group customizations which are required together
+   •   Installation and Configuration
+   •   Post Project Support
+   •   Training
+   •   Any Recurring Costs
+
+Provide a schedule of hourly rates for the various roles and skill levels to be
+assigned to this project.
+
+7.5    Proposal Assumptions
+List any assumptions you have made regarding how you will execute the project
+or regarding the activities of SNAP in executing this project, or any other
+assumptions you may have made.
+
+
+                                                                      Page 18 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+7.6    Proposal Risks and Mitigations
+List any risks you have identified associated with this project. Indicate your best
+assessment of the likelihood and impact (High, Medium, Low). Identify the
+proposed response to those risks:
+    • Accept the risk
+    • Mitigate the risk with appropriate mitigation details
+
+7.7    SNAP Time and Support
+Provide any requirements for SNAP time and resources that will be required to
+support the project effort. Be clear about the skill sets and types of interaction
+required from SNAP.
+
+8. METHOD OF EVALUATIONS AND AWARD
+All proposals received will be logged and accepted into the process. Only those
+answering all items in the Vendor Proposal (7.x) and Evaluation Criteria (8.1) will
+be considered for evaluation. All non-conforming proposals will be indicated as
+“Disqualified”.
+
+8.1    Evaluation Criteria
+
+An evaluation team composed of SNAP employees and other stakeholders will
+review the proposals. The following criteria will be used to evaluate the proposals
+for the purpose of ranking them in a relative position based on how fully each
+proposal meets the requirements of this RFP.
+
+Items to be included on the will include:
+
+   •   Overall Initial Cost
+   •   Yearly Costs
+   •   Time to Implement
+   •   Customer Service References
+   •   Ability to expand system to meet future needs
+   •   Training offering / ease of implementation
+   •   Woman or Minority Owned Business
+
+Along with the above, the items from section 4.3 of this RFP will be scored using
+a point system:
+
+The point system will work as follows (0-5):
+
+   0. The proposed system cannot meet the requirement and no customization
+      or third-party integration is available to meet the criteria.
+   1. The proposed system cannot meet the requirement, and no customization
+      can be added to meet the requirement, however an additional software
+                                                                      Page 19 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+        purchase is available to integrate with the proposed system to meet the
+        requirement.
+   2.   The proposed system cannot meet the requirement; however, a major
+        software development effort, customization or module can be added to the
+        proposed system and / or an additional software purchase is available to
+        integrate with the proposed system to meet the requirement.
+   3.   The proposed system does not currently meet the requirement (50%-80%
+        functionality available), however existing modules can be utilized and
+        customized to meet the requirement, no additional software purchase or
+        major software development effort required
+   4.   The proposed system somewhat meets the requirement (80% functionality
+        available), the existing module or component can be customized slightly to
+        meet the requirement.
+   5.   The proposed system fully meets the requirement with no customization
+        necessary.
+
+For example:
+   0. The system does not allow for purchase orders and cannot integrate with
+      any purchase order modules available for SNAP to purchase.
+   1. The system does not allow for purchase orders, but for purchase order
+      processing it recommends and can integrate with Purchase Order System
+      A if SNAP were to purchase that separate software
+   2. The system does not allow for purchase orders, but we have a software
+      team available to build the Purchase Order Module to meet the
+      requirement specifications SNAP has outlined and integrate with the
+      system.
+   3. The proposed system has a purchase order module; however, it is
+      designed for a different type of industry or organizational unit, our software
+      team can expand on our existing purchase order module to meet the
+      requirement of SNAP
+   4. The proposed system has a purchase order module for your industry and
+      or organizational unit, however the specifics of how the team at SNAP
+      needs to process purchase orders will need our software team to make
+      updates to meet the business requirement fully.
+   5. The proposed system has a purchase order module that works exactly as
+      needed in the requirement, however there are some fields missing that we
+      can easily add with our existing Custom Field process that does not
+      require any software development customization to be made.
+
+8.2     Discussions and Best and Final Offers
+SNAP may, at its sole option, either accept a vendor’s initial proposal by award of
+a contract or enter into discussions with vendors whose proposals are deemed
+reasonably susceptible of being considered for an award. After discussions are
+concluded, vendors may be allowed to submit a “Best and Final Offer” for
+consideration.
+
+                                                                     Page 20 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+                            Appendices
+
+             and Supporting Materials
+
+
+
+
+                                                                Page 21 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+Appendix A
+
+The following is a list of attachments:
+
+   1.   WeatherizationManual.pdf
+   2.   FINAL 2018 1.2.2 (A) Actual and Surrogate Heat Costs.pdf
+   3.   FINAL 2018 1.2.2 (B) Back-up Heat Costs.pdf
+   4.   FINAL 2018 1.2.2 (C) Roomer Boarder Heat Costs.pdf
+
+
+
+
+The following are the screenshot images as noted above:
+
+Image 1
+This screen shot depicts the household breakdown, including poverty level to be
+calculated and the various types and relationships of people living in the
+household:
+
+
+
+
+                                                                   Page 22 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+Appendix B Timesheet Allocation Worksheet
+The system will calculate the time allocations monthly. These allocations will
+ensure that the entered time is properly distributed to the funding sources the
+employee has interacted with over the previous month.
+
+These timesheets will use the following as a guide for allocation.
+
+   1. Employee launches timesheet module
+   2. Employee selects an Activity for the time, OR selects Vacation, Sick,
+      General or other non-allocated time entry type.
+   3. Employee records time against that activity
+
+
+
+Activity Based Time
+Activities are configured prior to use in the timesheet system. Each program will
+enter a select list of activities and these activities can be assigned to one or more
+funding sources. If the activity is assigned to multiple funding sources, a
+percentage will be assigned to the funding source/activity relationship. This
+percentage will be used when calculating the allocations.
+
+Example:
+
+Activities
+
+Energy - Activity 1
+ Funding Account        Funding Percent
+ 900-000-401-6000       40
+ 900-000-402-6000       40
+ 900-000-403-6000       20
+
+Energy – Activity 2
+ Funding Account        Funding Percent
+ 900-000-404-6000       50
+ 900-000-405-6000       25
+ 900-000-406-6000       25
+
+Homeless – Activity 1
+ Funding Account        Funding Percent
+ 900-000-501-6000       50
+ 900-000-502-6000       25
+ 900-000-503-6000       25
+
+
+
+                                                                      Page 23 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+General Time
+Time that is not specifically billed to an activity associated with a program, this is
+paid time that is non-work, meetings etc. Including but not limited to: Meetings,
+Vacation Time, Sick Time, Rest Period, Other work not directly associated with a
+program activity.
+
+In order to split the General Hours across the proper accounts, at least 25% of
+the time recorded *must* have billable funding sources. If, in a given month, that
+percentage is *less* than 25%, the previous month’s allocation percentages for
+General Time will be used.
+
+The allocation split is determined by the Total Percentage of Overall Hours
+
+
+Allocation Example
+Month 1
+Employee works 120 activity hours for the month with 20 vacation and 20 in
+meetings or other general time
+
+ Program / Funding            Activity                     Hours
+ Source
+ Energy                       Activity 1                   40
+ Energy                       Activity 2                   40
+ Homeless                     Activity 1                   40
+ General                                                   20
+ Vacation                                                  20
+
+Sample Funding Account Allocation for Month 1:
+  • Energy – Activity 1
+          o 900-000-401-6000
+                ▪ 40% of 40 Hours = 16 Hours
+                ▪ Total Percentage of Overall Hours
+                       • 16/120 = 0.13(repeating) or 13 1/3%
+                       • General Hours Allocation to this fund 13 1/3% of 40
+                ▪ Total Hours Allocated:
+                       • 16 + ((16/120) * 40) = 21 1/3
+          o 900-000-402-6000
+                ▪ Total Percentage of Overall Hours
+                       • 16/120 = 0.13(repeating) or 13 1/3%
+                       • General Hours Allocation to this fund 13 1/3% of 40
+                ▪ Total Hours Allocated:
+                       • 16 + ((16/120) * 40) = 21 1/3
+          o 900-000-403-6000
+                ▪ 20% of 40 Hours = 8 hours
+                ▪ Total Percentage of Overall Hours
+                                                                 Page 24 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+                        • 8/120 = 0.06(repeating) or 6 2/3 %
+                        • General Hours Allocated to this fund 6 2/3 % of 40
+                ▪ Total Hours Allocated:
+                        • 8 + ((8/120) * 40) = 10 2/3
+   •   Energy – Activity 2
+         o 900-000-404-6000
+                ▪ 50% of 40 Hours = 20 Hours
+                ▪ Total Percentage of Overall Hours
+                        • 20/120 = 0.166(repeating) or 16 2/3%
+                        • General Hours Allocation to this fund 16 2/3%of 40
+                ▪ Total Hours Allocated:
+                        • 20 + ((20/120) * 40) = 26 2/3
+         o 900-000-405-6000
+                ▪ 25% of 40 Hours = 10 Hours
+                ▪ Total Percentage of Overall Hours
+                        • 10/120 = 0.083(repeating) or 8 1/3%
+                        • General Hours Allocation to this fund 8 1/3%of 40
+                ▪ Total Hours Allocated:
+                        • 10 + ((10/120) * 40) = 13 1/3
+         o 900-000-406-6000
+                ▪ 25% of 40 Hours = 10 Hours
+                ▪ Total Percentage of Overall Hours
+                        • 10/120 = 0.083(repeating) or 8 1/3%
+                        • General Hours Allocation to this fund 8 1/3%of 40
+                ▪ Total Hours Allocated:
+                        • 10 + ((10/120) * 40) = 13 1/3
+   •   Homeless – Activity 1
+         o 900-000-501-6000
+                ▪ 50% of 40 Hours = 20 Hours
+                ▪ Total Percentage of Overall Hours
+                        • 20/120 = 0.166(repeating) or 16 2/3%
+                        • General Hours Allocation to this fund 16 2/3%of 40
+                ▪ Total Hours Allocated:
+                        • 20 + ((20/120) * 40) = 26 2/3
+         o 900-000-502-6000
+                ▪ 25% of 40 Hours = 10 Hours
+                ▪ Total Percentage of Overall Hours
+                        • 10/120 = 0.083(repeating) or 8 1/3%
+                        • General Hours Allocation to this fund 8 1/3%of 40
+                ▪ Total Hours Allocated:
+                        • 10 + ((10/120) * 40) = 13 1/3
+         o 900-000-503-6000
+                ▪ 25% of 40 Hours = 10 Hours
+                ▪ Total Percentage of Overall Hours
+                        • 10/120 = 0.083(repeating) or 8 1/3%
+                                                                 Page 25 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+                        • General Hours Allocation to this fund 8 1/3%of 40
+                 ▪   Total Hours Allocated:
+                        • 10 + ((10/120) * 40) = 13 1/3
+
+Total Summary of Total Hours Allocated: 160
+
+
+Month 2
+Employee works 30 activity hours for the month with 120 vacation and 10 in
+meetings or other general time
+
+ Program / Funding           Activity                   Hours
+ Source
+ Energy                      Activity 1                 30
+ General                                                10
+ Vacation                                               120
+
+There is not enough time in activities to use this month’s percentages, therefore
+last months percentages will be used.
+
+   •   Energy – Activity 1
+         o 900-000-401-6000
+                ▪ 40% of 30 Hours = 12 Hours
+                ▪ Total Percentage of Overall Hours
+                        • Last Months Allocation 13 1/3%
+                        • General Hours Allocation to this fund 13 1/3% of 130
+                ▪ Total Hours Allocated:
+                        • 12 + ((16/120) * 130) = 29 1/3
+         o 900-000-402-6000
+                ▪ 40% of 30 Hours = 12 Hours
+                ▪ Total Percentage of Overall Hours
+                        • Last Months Allocation 13 1/3%
+                        • General Hours Allocation to this fund 13 1/3% of 130
+                ▪ Total Hours Allocated:
+                        • 12 + ((16/120) * 130) = 29 1/3
+         o 900-000-403-6000
+                ▪ 20% of 30 Hours = 6 hours
+                ▪ Total Percentage of Overall Hours
+                        • Last Months Allocation 6 2/3 %
+                        • General Hours Allocated to this fund 6 2/3 % of 130
+                ▪ Total Hours Allocated:
+                        • 6 + ((8/120) * 130) = 14 2/3
+   •   Energy – Activity 2
+         o 900-000-404-6000
+                ▪ No Hours Logged
+                                                                    Page 26 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+                 ▪ Total Percentage of Overall Hours
+                       • Last Months Allocation 16 2/3%
+                       • General Hours Allocation to this fund 16 2/3%of 130
+               ▪ Total Hours Allocated:
+                       • ((20/120) * 130) = 21 2/3
+         o 900-000-405-6000
+               ▪ No Hours Logged
+               ▪ Total Percentage of Overall Hours
+                       • Last Months Allocation 8 1/3%
+                       • General Hours Allocation to this fund 8 1/3%of 130
+               ▪ Total Hours Allocated:
+                       • ((10/120) * 130) = 10 5/6
+         o 900-000-406-6000
+               ▪ No Hours Logged
+               ▪ Total Percentage of Overall Hours
+                       • Last Months Allocation 8 1/3%
+                       • General Hours Allocation to this fund 8 1/3%of 130
+               ▪ Total Hours Allocated:
+                       • ((10/120) * 130) = 10 5/6
+   •   Homeless – Activity 1
+         o 900-000-501-6000
+               ▪ No Hours Logged
+               ▪ Total Percentage of Overall Hours
+                       • Last Months Allocation 16 2/3%
+                       • General Hours Allocation to this fund 16 2/3%of 130
+               ▪ Total Hours Allocated:
+                       • ((20/120) * 130) = 21 2/3
+         o 900-000-502-6000
+               ▪ No Hours Logged
+               ▪ Total Percentage of Overall Hours
+                       • Last Months Allocation 8 1/3%
+                       • General Hours Allocation to this fund 8 1/3%of 130
+               ▪ Total Hours Allocated:
+                       • ((10/120) * 130) = 10 5/6
+         o 900-000-503-6000
+               ▪ No Hours Logged
+               ▪ Total Percentage of Overall Hours
+                       • Last Months Allocation 8 1/3%
+                       • General Hours Allocation to this fund 8 1/3%of 130
+               ▪ Total Hours Allocated:
+                       • ((10/120) * 130) = 10 5/6
+
+Total Summary of Total Hours Allocated: 160
+
+
+                                                                Page 27 of 27
+SNAP Project Atlas RFP 2018
+Confidential – May not be distributed without prior approval.
+

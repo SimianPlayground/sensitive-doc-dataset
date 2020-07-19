@@ -1,0 +1,677 @@
+                          Lesson 3: Entering a Change Order
+
+
+
+
+Lesson 3 Objectives
+To enter a change order for a purchase order according to
+USNH policies and procedures.
+
+ A     Choosing to Change a Purchase Order
+
+
+
+ B     1 -Opening a Change Order Document
+       2 -Entering Changes to Document Information
+       3 -Entering Changes to Requestor/Delivery information
+       4 -Entering Changes to Vendor Information
+       5 -Selecting Commodity Items to Change [FPQCHAP]
+       6 -Entering Changes to Commodity/Accounting Information
+       7 -Balancing/Completion and Submitting the Document
+       8 -Reviewing Document History and Status
+
+
+ C     Completing the Process
+
+
+
+
+                                                            42
+                                                                                Lesson 3: Entering a Change Order
+
+
+
+
+ Life Cycle of a Change Order
+
+   A         Task A:                                                    B     Task B:
+             Choosing to Change a Purchase Order                              Enter the Change Order
+                          • Confirm the requisition has                       Information
+                            been converted to a purchase                      • Complete the document.
+                            order.
+                          • Confirm which changes to the
+                            purchase order need to occur.
+
+
+
+
+                                                C    Task C:
+                                                     Completing the Process
+                                                     • Complete the Change Order Form
+                                                     • Contact your Campus Purchasing Office if
+                                                        a copy of the purchase order needs to be
+                                                        sent to the vendor.
+
+
+
+
+                        Campus Purchasing Office
+                        • Will approve all changes to the purchase order
+                        • Will mail a copy of the purchase order to the vendor as
+                          requested.
+
+
+
+
+BFM4100401                                                                                                  43
+Module 4: Requisition/Purchase Orders
+
+
+
+
+              A change order is a document entered to change the information contained in an open purchase
+              order that has been posted and not fully liquidated by vendor invoices.
+
+              What are some reasons for entering a Change Order?
+                  •   Goods/services need to be adjusted (add/delete/clarify)
+                  •   Accounting information is inaccurate
+                  •   Vendor address needs to be changed
+                  •   The dollar amount is inaccurate (requires decrease or increase)
+
+              NOTE: To close the remaining balance on a PO, contact Purchasing. Do not enter a
+              change order to perform this function.
+
+                  The following fields cannot be modified:
+                            Vendor ID – only vendor address type or sequence number can be changed
+
+
+
+              When would a business unit enter a Change Order?
+              Whenever the business unit becomes aware of a change needed, they should enter, and
+              complete a change order. Final document approval will be applied by the campus purchasing
+              office.
+
+              Contact your Campus Purchasing Office if a copy of the purchase order needs to be sent to the
+              vendor.
+
+
+              What forms contain information about a Change Order?
+                  •   Purchase Order Validation Form [FPIPOHD]
+                  •   Purchase/Blanket/Change Order Query Form [FPIPURR]
+                  •   Detail Encumbrance Activity Form [FGIENCD]
+
+
+              Policies and Procedures
+              As with any transaction, there are policies and procedures to follow for purchasing goods and
+              services. You can find the specific details about when to use this process, what supporting
+              documentation is required, etc. on-line in the USNH Financial and Administrative Procedures
+              Manual at http://www.finadmin.unh.edu/pol_proc/chapter06/toc_06.html.
+
+              This lesson will concentrate on the tasks and steps required to successfully enter a Change Order
+              document according to USNH policies and procedures.
+
+
+
+
+44                                                                                                   BFM4100401
+                              Lesson 3: Entering a Change Order
+
+
+
+
+Change Order Form [FPACHAR]
+
+
+
+
+Notes
+
+
+
+
+BFM4100401                                                45
+Module 4: Requisition/Purchase Orders
+
+
+
+
+Task A: Choosing to Change a Purchase Order
+
+                 What you do….                                Comments/Prompts
+
+         A       1. Determine if you should enter a           Prior to entering a change order, determine if
+                    Change Order.                             the purchase order is still open.
+
+                 2. Assemble the appropriate                  Review FGIENCD to determine PO balance
+                    information and supporting                and existing FOAPAL liquidations and
+                    documentation.                            balances prior to entering a change order to
+                                                              adjust the dollar amount or change FOAPAL
+                                                              information.
+                 3. Obtain any pre-approvals as
+                    required for specific items/services,
+                    etc.
+
+
+
+
+Task B-1: Opening a Change Order Document
+
+                 What you do….                                Comments/Prompts
+
+             B    1. Log in to Banner.
+
+                  2. Type FPACHAR (Change Order               The Change Order Form [FPACHAR] will be
+                     Form) in the Direct Access box and       displayed.
+                     press ENTER.
+                  3. In the Purchase Order field, enter the   Enter purchase order number
+                     purchase order number.                   or
+                                                              Click on the     and complete a query for the
+                                                              purchase order number. Double-click on the
+                                                              appropriate code to enter in the form.
+                  4. In the Change Seq # field, enter NXT.     When using NXT, the system automatically
+                                                               assigns the next sequence number.
+                  5. Perform a “Next” block to proceed         [TASK B-2]
+                     to Change Order: Document
+                     Information.
+
+
+
+
+46                                                                                                   BFM4100401
+                                     Lesson 3: Entering a Change Order
+
+
+
+
+Change Order: Document Information
+
+
+
+
+Notes
+
+
+
+
+BFM4100401                                                       47
+Module 4: Requisition/Purchase Orders
+
+
+
+
+Task B-2: Entering Changes to Document Information
+
+             What you do….                                   Comments/Prompts
+              1. Make changes as necessary. If no changes,   The following fields cannot be changed:
+                 proceed to Step 4.                           • Vendor ID – only vendor address type
+                                                                  or sequence number can be changed
+                                                             All other fields, including document or item text,
+                                                             can be changed.
+              2. TAB past Change Accounting Only.            Do not check this box. This box must be left
+                                                             blank.
+              3. The Buyer Code may need to be               The following error message will appear when
+                 changed if the change order exceeds the     you attempt to complete the document,
+                 buyer’s dollar limit. Use “U2” if the       “Purchase Order net amount is greater than buyer’s
+                 PO cannot be processed with the             LVPO limit”. Buyer codes are limited by dollar
+                 existing buyer code.                        value. A change order to increase the PO could
+                                                             exceed the current buyer code dollar limit and
+                                                             thus need to be changed. “U2” is unlimited.
+              4. Perform a “Next” block to proceed to        [TASK B-3]
+                 Change Order: Requestor/Delivery
+                 information.
+
+
+
+     *Specify the purpose of the change order using DOCUMENT or ITEM TEXT.*
+     Always use the appropriate text option to specify the purpose of the change
+     order and if a revised PO should be sent to the vendor. Indicate if the text
+     should be printed or not by checking or unchecking the print box.
+       Use Document Text for zero dollar changes (ie. vendor address change or
+       wrong FOAPAL).
+       Use Item Text for an increase or decrease of the PO amount.
+
+
+
+
+48                                                                                                   BFM4100401
+                                            Lesson 3: Entering a Change Order
+
+
+
+
+         Change Order: Requestor/Delivery
+
+
+
+
+Notes
+
+
+
+
+BFM4100401                                                              49
+Module 4: Requisition/Purchase Orders
+
+
+
+
+Task B-3: Entering Changes to Requestor/Delivery information
+
+            What you do….                                   Comments/Prompts
+             1. Make changes as necessary. If no changes,   Remember,
+                proceed to Step 2.                          the following fields cannot be changed:
+                                                              • Vendor ID – only vendor address type or
+                                                                 sequence number can be changed
+
+                                                            All other fields, including document or item
+                                                            text, can be changed.
+             2. Perform a “Next” block to proceed to        [TASK B-4]
+                Change Order: Vendor information.
+
+
+
+
+50                                                                                                BFM4100401
+                       Lesson 3: Entering a Change Order
+
+
+
+
+Change Order: Vendor
+
+
+
+
+Notes
+
+
+
+
+BFM4100401                                         51
+Module 4: Requisition/Purchase Orders
+
+
+
+
+Task B-4: Entering Changes to Vendor information
+
+              What you do….                                    Comments/Prompts
+              1. Make changes as necessary. If no changes,     Remember,
+                 proceed to Step 2.                            the following fields cannot be changed:
+                                                                 • Vendor ID – only vendor address type
+                                                                     or sequence number can be changed
+                                                               All other fields, including document or item
+                                                               text, can be changed.
+              2a. If no commodity or accounting changes are    This step allows you to bypass the
+                   necessary;                                  Commodity/Accounting Information form,
+                        From the Options menu, select          when no changes are necessary in that form.
+                        Balancing/Completion.
+                        Select the “Add” check box next to
+                        each commodity
+                        Save your changes, click on the FILE
+                        drop down list and choose SAVE.
+                        Click on the EXIT icon (Open Door).
+                        Complete the document.
+
+                                                               [TASK B-5]
+              2b. Perform a “Next” block to proceed to
+                  Purchase Order Item Selection form
+                  [FPQCHAP].
+
+
+
+
+52                                                                                                BFM4100401
+                                               Lesson 3: Entering a Change Order
+
+
+
+
+Purchase Order Item Selection Form [FPQCHAP]
+
+
+
+
+Notes
+
+
+
+
+BFM4100401                                                                 53
+Module 4: Requisition/Purchase Orders
+
+
+
+
+Task B-5: Selecting Commodity Items to Change [FPQCHAP]
+
+             What you do….                                    Comments/Prompts
+               1a. If you ONLY need to add a new              Example: PO was issued for a new workstation
+                   commodity item, proceed to step 3          but a chair was also supposed to be ordered at
+                   below.                                     the same time. Change order is needed to add
+                                                              the chair.
+               1b. If you need to increase or decrease the    Example: The 4th commodity item should be
+                   amount of the PO, perform a “Next”         changed from $1500 to $1000.
+                   block to proceed to Purchase Order
+                   Commodity Information and check            Item text will not be copied to the change
+                   the Add box next to the item(s) to be      order if the “Change All” box is checked.
+                   changed. Proceed to step 2 below.
+               1c. For all other changes, check the Add       The account code is currently 711000 but
+                   box next to ALL the item(s).               should be 719000; vendor address is incorrect.
+                   Proceed to step 2 below.                   Item text will not be copied to the change
+                                                              order if the “Change All” box is checked.
+               2.   To save your changes, click on the FILE   The message Transaction complete: 1 records applied
+                    drop down list and choose SAVE.           and saved will appear in the Hint Line after you
+                                                              save.
+               3.   Click on the EXIT icon (Open Door) to     [TASK B-6]
+                    proceed to the Change Order:
+                    Commodity/Accounting form.
+
+
+
+Note: Changes are not made to the commodity items on the form FPQCHAP (PO
+Item Selection Form). Rather, proceed as stated above. If commodity items are
+selected, the items will be removed from FPQCHAP and added to the change order
+form FPACHAR on the commodity/accounting section. Make changes as necessary.
+
+
+
+
+54                                                                                                      BFM4100401
+                                                 Lesson 3: Entering a Change Order
+
+
+
+
+Change Order: Commodity/Accounting information
+
+
+
+
+Notes
+
+
+
+
+BFM4100401                                                                   55
+Module 4: Requisition/Purchase Orders
+
+
+
+
+Task B-6: Entering Changes to Commodity/Accounting Information
+
+             What you do….                                   Comments/Prompts
+              1. To add a new commodity item:                NOTE: Amount is not automatically
+                 a. Enter the new information for the item   distributed to the FOAPAL.
+                    to be added.
+                 b. Perform “Next” block to move to the      *Remember to use Item or document text for the
+                    FOAPAL information area.                 purpose of the change order.
+                 c. Manually apply the amount of the new
+                    item to the appropriate FOAPAL line.
+
+
+              2. To increase/decrease the PO amount:         NOTE: Refer to FGIENCD for the PO
+                 a. If the PO has multiple FOAPAL lines,     balance and each FOAPAL balance. You
+                    1) uncheck the “distribute” box in the   cannot reduce the PO or a FOAPAL line
+                    commodity, then proceed to step 2b or    below the liquidated amount.
+                    2) perform “Next” block and manually
+                    apply the amount of the change to the    Multiple FOAPAL lines:
+                    appropriate FOAPAL line(s) first         Both options listed in 2a may trigger a
+                    (proceed to step 4, 5 or 6). Then        “commodity in suspense’ error. If so, exit
+                    perform “Previous” block and proceed     FPACHAR. Go back into the change
+                    back to step 2b.                         order form and from the Document
+                 b. Change the quantity if applicable or     Information screen, choose “Balance and
+                    enter the new amount (not the change     Completion” from the Options Menu.
+                    amount. Ex. Current commodity
+                    amount is $1000 and it needs to be:      NOTE: The amount of the change will
+                           $1500.00, enter $1500.00          automatically be distributed to all
+                           $500.00, enter $500.00            FOAPAL lines one of the options in 2a is
+                 c. Perform “Next” block to move to the      performed.
+                    FOAPAL information area.
+                                                             *Remember to use Item or document text for the
+                                                             purpose of the change order.
+
+              3. To add an additional FOAPAL line:           *Remember to use Item or document text for the
+                 a. Perform “Next” block to move to the      purpose of the change order.
+                    FOAPAL information area.
+                 b. Use “Insert” record
+                 c. Enter new FOAPAL information and
+                    amount
+
+              4. To change the $ amount of an existing       NOTE: Refer to FGIENCD for the
+                  FOAPAL line(s):                            liquidated amount. You cannot reduce the
+                 a. Perform “Next” block to move to the      FOAPAL below the amount liquidated for
+                    FOAPAL information area.                 that FOAPAL. Enter $0.00 on the change
+                 b. Enter the new $ amount on the existing   order only if invoices have not been paid
+                    FOAPAL line(s)                           against the FOAPAL; otherwise enter the
+                                                             liquidated amount.
+
+
+56                                                                                                 BFM4100401
+                                                                    Lesson 3: Entering a Change Order
+
+
+
+
+Task B-6: Entering Changes to Commodity/Accounting Information continued…
+
+             What you do….                                  Comments/Prompts
+              5. To replace an existing FOAPAL line         NOTE: Refer to FGIENCD for the
+                  when it is incorrect or is no longer      liquidated amount. You cannot reduce the
+                  needed on the PO:                         FOAPAL below the amount liquidated for
+                 a. Enter the amount equal to or greater    that FOAPAL. Enter $0.00 on the change
+                     than the liquidated amount for the     order only if invoices have not been paid
+                     FOAPAL line to be replaced (See        against the FOAPAL; otherwise enter the
+                     Note).                                 liquidated amount.
+                 b. Use “Insert” record to add a new
+                     FOAPAL line and amount if necessary.   *Future change orders: Refer to step 2 to
+                                                            manually adjust the FOAPAL amounts.
+
+                                                            *Do not use “Record Remove” to
+                                                            remove the incorrect FOAPAL line.
+
+                                                            *Remember to use Item or document text for the
+                                                            purpose of the change order.
+
+
+              6. Perform a “Next” block to proceed to       [TASK B-7]
+                 Balancing/Completion.
+
+
+
+
+BFM4100401                                                                                                   57
+Module 4: Requisition/Purchase Orders
+
+
+
+
+                                   This page is intentionally left blank
+
+
+
+
+58                                                                         BFM4100401
+                                    Lesson 3: Entering a Change Order
+
+
+
+
+             Balancing/Completion
+
+
+
+
+Notes
+
+
+
+
+BFM4100401                                                      59
+Module 4: Requisition/Purchase Orders
+
+
+
+
+Task B-7 Reviewing Balancing/Completion and Submitting the Document
+
+             What you do….                                       Comments/Prompts
+             1. Review all information for accuracy.
+
+
+             2. Verify that the Approved, Discount, Additional   Fields cannot be edited from this form.
+                and Tax status fields display “BALANCED”.
+                                                                 If corrections are required, choose the
+                                                                 appropriate form from the OPTIONS drop
+                                                                 down list. (e.g. Commodity/Accounting)
+             3. If your document:
+                 is complete,
+                     choose COMPLETE.
+
+                 still needs additional information,             You can return to the in process change
+                      choose IN PROCESS.                         order by accessing the Change Order Form
+                                                                 (FPACHAR), entering the Purchase Order
+                 You will return to the Change Order Form.       number, Change Seq # and choosing
+                                                                 “Next” block.
+
+
+
+
+60                                                                                                  BFM4100401
+                                           Lesson 3: Entering a Change Order
+
+
+
+
+Purchase Order Validation Form [FPIPOHD]
+
+
+
+
+Notes
+
+
+
+
+BFM4100401                                                             61
+Module 4: Requisition/Purchase Orders
+
+
+
+
+Task B-8: Reviewing Document History and Status
+
+             What you do...                                  Comments/Prompts
+             1. Type FPIPOHD (Purchase Order                 The Purchase Order Validation Form
+                Validation Form) in the Direct Access box    [FPIPOHD] provides the history of
+                and press ENTER.                             change orders against a purchase order.
+
+                                                             If Change Seq:
+                                                                has a 0 entered
+                                                                the original purchase order information
+                                                                is displayed.
+
+                                                                has a sequence number entered
+                                                                the corresponding change order
+                                                                information is displayed.
+
+                                                                is blank
+                                                                most recent cumulative information
+                                                                (change orders included) is displayed.
+
+
+             2. To view details about the document,
+                from the OPTIONS drop down list choose
+
+                 VIEW COMMODITIES   [FOICOMM]
+
+                 or
+
+                 QUERY PURCHASE ORDER   [FPIPURR] and
+                 use “Next” block to view the blocks of
+                 data.
+
+                 Exit the form to return to FPIPOHD.
+
+
+
+
+TASK C: Completing the Process
+
+                What you do….                                  Comments/Prompts
+
+                 1. There are no additional administrative     Contact your Campus Purchasing Office if a
+         C          tasks to be completed.                     copy of the purchase order needs to be sent
+                                                               to the vendor.
+
+
+
+
+62                                                                                                 BFM4100401
+                                                                        Lesson 3: Entering a Change Order
+
+
+
+
+Lesson Summary
+
+               Task A      In this lesson you learned what you should consider prior to entering a change
+                           order.
+
+               Task B      Next you learned about what data can be changed and how to enter the change
+                           order document into the system as well as how to view the history of change
+                           orders against a purchase order.
+
+               Task C      Finally, you learned that there are no additional administrative tasks you need to
+                           complete after entering the change order document.
+
+
+
+
+Practice Exercise
+               A purchase order has been previously entered for Fosters Clambake. The PO # is
+               _______________________. You need to add the FOAPAL line 9U0000 YCFA10 060 to
+               this order and split the total cost of the order between the existing FOAPAL and the new
+               FOAPAL.
+
+               Please enter a Change Order document to reflect this information.
+
+
+
+
+BFM4100401                                                                                                 63
+Module 4: Requisition/Purchase Orders
+
+
+
+
+                                  TROUBLESHOOTING TIPS
+Document in suspense error
+
+      1.   Tab through each commodity item and re-enter the dollar amounts
+      2.   Next block to access FOAPAL information
+      3.   Tab through each FOAPAL line and re-enter the dollar amounts
+      4.   Complete the change order
+
+That didn’t work – still have errors . . .
+
+      1. Exit the change order form
+      2. Access the change order form again and enter the PO number and the sequence number assigned by
+         Banner (1, 2, etc).
+      3. Next block through each section of the form
+      4. Repeat steps above in the commodity/accounting section
+      5. Complete the change order
+
+ Okay, you’re ready to pull your hair out . . .
+
+      1. Access the document information section
+      2. Choose “Remove” from the Record Menu twice to
+         remove the change order
+      3. Start over by creating a new change order
+
+
+
+
+ 64                                                                                                BFM4100401
+

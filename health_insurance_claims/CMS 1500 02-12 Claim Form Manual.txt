@@ -1,0 +1,2311 @@
+        National Uniform Claim Committee
+
+
+
+
+              1500 Health Insurance Claim Form
+                Reference Instruction Manual
+                    for Form Version 02/12
+
+
+                      June 2013
+                     Version 1.1 06/13
+
+
+
+
+Version 1.1
+06/13
+Disclaimer and Notices
+© 2013 American Medical Association
+
+This document is published in cooperation with the National Uniform Claim Committee (NUCC) by the American
+Medical Association (AMA). Permission is granted to any individual to copy and distribute this material as long as
+the copyright statement is included, the contents are not changed, and the copies are not sold or licensed.
+Applicable FARS/DFARS restrictions apply.
+
+The 1500 Health Insurance Claim Form (1500 Claim Form) is in the public domain.
+
+The NUCC has developed this general instructions document for completing the 1500 Claim Form. This document is
+intended to be a guide for completing the 1500 Claim Form and not definitive instructions for this purpose. Any
+user of this document should refer to the most current federal, state, or other payer instructions for specific
+requirements applicable to using the 1500 Claim Form.
+
+The NUCC Reference Instruction Manual must remain intact. Any payer-specific instructions for completion of the
+1500 Claim Form need to be maintained in a separate document.
+
+The information provided here is for reference use only and does not constitute the rendering of legal, financial, or
+other professional advice or recommendations by the AMA or the NUCC. You should consult with an appropriate
+professional if you need legal or other advice. The listing of an organization or the provision of a link to a web site
+does not imply any endorsement by the AMA or the NUCC or by any of its members for the products, services,
+and/or Internet sites listed.
+
+This document is provided “as is” without representation or warranty of any kind either expressed or implied. The
+AMA and the NUCC and its members shall not be responsible for any use or non use of this document.
+
+
+
+
+Version 1.1
+02/13                                                                                                                     2
+TABLE OF CONTENTS
+
+                                                                   Page
+
+Background Information                                             4
+
+Scope of Instructions                                              4
+
+Sample 1500 Claim Form                                             5
+
+Overall Instructions                                               6
+
+Field Specific Instructions                                        7
+        Carrier Block                                              7
+        Items 1-13: Patient and Insured Information                9
+        Items 14-33: Provider or Supplier Information              23
+
+Reference                                                          56
+
+Appendix A: Provider Definitions                                   57
+
+Appendix B: Abbreviations                                          58
+
+Appendix C: Guidelines for Modifying the 1500 (02/12) Claim Form   60
+
+Appendix D: Maintenance of the 1500 Reference Instruction Manual   61
+
+
+
+
+Version 1.1
+02/13                                                                     3
+1500 CLAIM FORM INSTRUCTIONS: BACKGROUND INFORMATION
+The 1500 Health Insurance Claim Form (1500 Claim Form) answers the needs of many health care
+payers. It is the basic paper claim form prescribed by many payers for claims submitted by physicians
+and suppliers, and in some cases, for ambulance services.
+
+In the 1960s, there were a number of different claim forms and coding systems required by third-party
+payers to communicate information regarding procedures and services to agencies concerned with
+insurance claims. There was, however, no standardized form for physicians and other health care
+providers to report health care services. Therefore, the American Medical Association (AMA) embraced
+an assignment in the 1980s to work with the Centers for Medicare & Medicaid Services (CMS; formerly
+known as HCFA), and many other payer organizations through a group called the Uniform Claim Form
+Task Force to standardize and promote the use of a universal health claim form. As a result of this joint
+effort, the 1500 Claim Form is accepted nationwide by most insurance entities as the standard claim
+form/attending physician statement for submission of medical claims.
+
+The Uniform Claim Form Task Force was replaced by the National Uniform Claim Committee (NUCC) in
+the mid 1990s. The NUCC’s goal was to develop the NUCC Data Set (NUCC-DS), a standardized data set
+for use in an electronic environment, but applicable to and consistent with evolving paper claim form
+standards. The NUCC continues to be responsible for the maintenance of the 1500 Claim Form. Although
+many providers now submit electronic claims, many of their software/hardware systems depend on the
+existing 1500 Claim Form in its current image.
+
+SCOPE OF INSTRUCTIONS
+This NUCC Reference Instruction Manual provides specific instructions on how to complete the 1500
+Claim Form. Instructions and information provided align with the Accredited Standards Committee X12
+(ASC X12) Health Care Claim: Professional (837), 005010X222 Technical Report Type 3 (5010) and
+005010X222A1 Technical Report Type 3 (5010A1). 5010 and 5010A1 are collectively referred to as
+“5010A1” in this manual.
+
+The 1500 Claim Form instructions were initially approved by the NUCC in November 2005. The NUCC
+continues to research the type of data that are typically reported, as well as the required data elements
+that may apply to public and private payers. Therefore, the instructions have and will continue to evolve.
+Updated versions of this instruction manual are released each July. The ultimate goal of the NUCC is to
+develop standardized national instructions. The end result may require additional changes to the 1500
+Claim Form in the future.
+
+The instructions in this manual are not specific to any applicable public or private payer. Refer to specific
+instructions issued by your payer, clearinghouse, and/or vendor for further clarification of reporting
+requirements.
+
+The 1500 Claim Form may also be used to report patient encounter data to federal, state, and/or other
+public health agencies. Refer to instructions issued by these agencies for further clarification of reporting
+requirements.
+
+
+
+
+Version 1.1
+02/13                                                                                                       4
+Version 1.1
+02/13         5
+OVERALL INSTRUCTIONS
+Each Item Number includes the title, instructions, description, field specifications, and example. The
+examples provided in the instructions are demonstrating how to enter the data in the field. They are not
+providing instruction on how to bill for certain services.
+
+PUNCTUATION
+
+The use of punctuation is noted in the instructions section of each Item Number.
+
+MULTIPLE PAGE CLAIMS
+
+When reporting line item services on multiple page claims, only the diagnosis code(s) reported on the
+first page may be used and must be repeated on subsequent pages. If more than 12 diagnoses are
+required to report the line services, the claim must be split and the services related to the additional
+diagnoses must be billed as a separate claim.
+
+
+NOTE: Form images throughout this manual may not be to scale.
+
+
+
+
+Version 1.1
+02/13                                                                                                      6
+FIELD SPECIFIC INSTRUCTIONS
+CARRIER BLOCK
+The carrier block is located in the upper center and right margin of the form. In order to distinguish this
+version of the form from previous versions, the Quick Response (QR) code symbol and the date
+approved by the NUCC have been added to the top, left-hand margin.
+
+
+
+
+INSTRUCTIONS: Enter in the white, open carrier area the name and address of the payer to whom this
+claim is being sent. Enter the name and address information in the following format:
+
+1st Line – Name
+2nd Line – First line of address
+3rd Line – Second line of address, if necessary
+4th Line – City, State (2 characters) and ZIP Code
+
+Line            Descriptor                           Type            Bytes         Columns
+4               Payer Name                           A/N             41            38-78
+5               Payer Address 1                      A/N             41            38-78
+6               Payer Address 2                      A/N             41            38-78
+7               Payer City State and ZIP             A/N             41            38-78
+
+For an address with three lines, enter it in the following format:
+
+1st Line – Name
+2nd Line – Line of address
+3rd Line – Leave blank
+4th Line – City, State (2 characters) and ZIP Code
+
+Line            Descriptor                           Type            Bytes         Columns
+4               Payer Name                           A/N             41            38-78
+5               Payer Address                        A/N             41            38-78
+6               Leave blank
+7               Payer City State and ZIP             A/N             41            38-78
+
+Do not use punctuation (i.e., commas, periods) or other symbols in the address (e.g., 123 N Main Street
+101 instead of 123 N. Main Street, #101). When entering a 9-digit ZIP code, include the hyphen.
+
+When printing page numbers on multiple page claims (generally done by clearinghouses when
+converting 5010A1 to the 1500 Claim Form), print the page numbers in the Carrier Block on Line 8
+beginning at column 32. Page numbers are to be printed as:
+
+         Page XX of YY
+
+DESCRIPTION: The payer is the carrier, health plan, third-party administrator, or other payer that will
+handle the claim. This information directs the claim to the appropriate payer.
+
+
+Version 1.1
+02/13                                                                                                         7
+EXAMPLES:
+
+Four line address:
+
+
+
+
+Three line address:
+
+
+
+
+Version 1.1
+02/13                 8
+ITEMS 1–13: PATIENT AND INSURED INFORMATION
+Note: If the patient can be identified by a unique Member Identification Number, the patient is
+considered to be the “insured”. The patient is reported as the insured in the insured data fields and not
+in the patient fields.
+
+ITEM NUMBER 1
+
+
+
+
+TITLE: Medicare, Medicaid, TRICARE, CHAMPVA, Group Health Plan, FECA, Black Lung, Other
+
+INSTRUCTIONS: Indicate the type of health insurance coverage applicable to this claim by placing an X in
+the appropriate box. Only one box can be marked.
+
+DESCRIPTION: “Medicare, Medicaid, TRICARE, CHAMPVA, Group Health Plan, FECA, Black Lung, Other”
+means the insurance type to which the claim is being submitted. “Other” indicates health insurance
+including HMOs, commercial insurance, automobile accident, liability, or workers’ compensation. This
+information directs the claim to the correct program and may establish primary liability.
+
+FIELD SPECIFICATIONS: This field allows for entry of 1 character in any box within the field.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 1a
+
+
+
+
+TITLE: Insured’s ID Number
+
+INSTRUCTIONS: Enter the insured’s ID number as shown on insured’s ID card for the payer to which the
+claim is being submitted. If the patient has a unique Member Identification Number assigned by the
+payer, then enter that number in this field.
+
+FOR WORKERS COMPENSATION CLAIMS: Enter Employee ID.
+
+FOR OTHER PROPERTY AND CASUALTY CLAIMS: Enter the Federal Tax ID or SSN of the insured person or
+entity.
+
+DESCRIPTION: The “Insured’s ID Number” is the identification number of the insured. This information
+identifies the insured to the payer.
+
+FIELD SPECIFICATION: This field allows for entry of 29 characters.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                       9
+ITEM NUMBER 2
+
+
+
+
+TITLE: Patient’s Name
+
+INSTRUCTIONS: Enter the patient’s full last name, first name, and middle initial. If the patient uses a last
+name suffix (e.g., Jr, Sr), enter it after the last name and before the first name. Titles (e.g., Sister, Capt,
+Dr) and professional suffixes (e.g., PhD, MD, Esq) should not be included with the name.
+
+Use commas to separate the last name, first name, and middle initial. A hyphen can be used for
+hyphenated names. Do not use periods within the name.
+
+If the patient’s name is the same as the insured’s name (i.e., the patient is the insured), then it is not
+necessary to report the patient’s name.
+
+DESCRIPTION: The “Patient’s Name” is the name of the person who received the treatment or supplies.
+
+FIELD SPECIFICATION: This field allows for the entry of 28 characters.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 3
+
+
+
+
+TITLE: Patient’s Birth Date, Sex
+
+INSTRUCTIONS: Enter the patient’s 8-digit birth date (MM | DD | YYYY). Enter an X in the correct box to
+indicate sex (gender) of the patient. Only one box can be marked. If sex is unknown, leave blank.
+
+DESCRIPTION: The “Patient’s Birth Date, Sex” is information that will identify the patient and it
+distinguishes persons with similar names.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 2 characters under MM, 2
+characters under DD, 4 characters under YY, and 1 character in either box.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                        10
+ITEM NUMBER 4
+
+
+
+
+TITLE: Insured’s Name
+
+INSTRUCTIONS: Enter the insured’s full last name, first name, and middle initial. If the insured uses a last
+name suffix (e.g., Jr, Sr), enter it after the last name and before the first name. Titles (e.g., Sister, Capt,
+Dr) and professional suffixes (e.g., PhD, MD, Esq) should not be included with the name.
+
+Use commas to separate the last name, first name, and middle initial. A hyphen can be used for
+hyphenated names. Do not use periods within the name.
+
+FOR WORKERS COMPENSATION CLAIMS: Enter the name of the Employer.
+
+FOR OTHER PROPERTY & CASUALTY CLAIMS: Enter the name of the insured person or entity.
+
+DESCRIPTION: The “Insured’s Name” identifies the person who holds the policy, which would be the
+employee for employer-provided health insurance.
+
+FIELD SPECIFICATION: This field allows for the entry of 29 characters.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                        11
+ITEM NUMBER 5
+
+
+
+
+TITLE: Patient’s Address (multiple fields)
+
+INSTRUCTIONS: Enter the patient’s address. The first line is for the street address; the second line, the
+city and state; the third line, the ZIP code.
+
+Do not use punctuation (i.e., commas, periods) or other symbols in the address (e.g., 123 N Main Street
+101 instead of 123 N. Main Street, #101). When entering a 9-digit ZIP code, include the hyphen.
+
+If reporting a foreign address, contact payer for specific reporting instructions.
+
+If the patient’s address is the same as the insured’s address, then it is not necessary to report the
+patient’s address.
+
+“Patient’s Telephone” does not exist in 5010A1. The NUCC recommends that the phone number not be
+reported. Phone extensions are not supported.
+
+FOR WORKERS’ COMPENSATION AND OTHER PROPERTY AND CASUALTY CLAIMS: If required by a payer
+to report a telephone number, do not use a hyphen or space as a separator within the telephone
+number.
+
+DESCRIPTION: The “Patient’s Address” is the patient’s permanent residence. A temporary address or
+school address should not be used.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 28 characters for street address, 24
+characters for city, 3 characters for state, 12 characters for ZIP code, 3 characters for area code, and 10
+characters for phone number.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                       12
+ITEM NUMBER 6
+
+
+
+
+TITLE: Patient Relationship to Insured
+
+INSTRUCTIONS: Enter an X in the correct box to indicate the patient’s relationship to insured when Item
+Number 4 is completed. Only one box can be marked.
+
+If the patient is a dependent, but has a unique Member Identification Number and the payer requires
+the identification number be reported on the claim, then report “Self”, since the patient is reported as
+the insured.
+
+DESCRIPTION: The “Patient Relationship to Insured” indicates how the patient is related to the insured.
+“Self” would indicate that the insured is the patient. “Spouse” would indicate that the patient is the
+husband or wife or qualified partner, as defined by the insured’s plan. “Child” would indicate that the
+patient is the minor dependent, as defined by the insured’s plan. “Other” would indicate that the patient
+is other than the self, spouse, or child, which may include employee, ward, or dependent, as defined by
+the insured’s plan.
+
+FIELD SPECIFICATION: This field allows for entry of 1 character in any box within the field.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                      13
+ITEM NUMBER 7
+
+
+
+
+TITLE: Insured’s Address (multiple fields)
+
+INSTRUCTIONS: Enter the insured’s address. If Item Number 4 is completed, then this field should be
+completed. The first line is for the street address; the second line, the city and state; the third line, the
+ZIP code.
+
+Do not use punctuation (i.e., commas, periods) or other symbols in the address (e.g., 123 N Main Street
+101 instead of 123 N. Main Street, #101). When entering a 9-digit ZIP code, include the hyphen.
+
+If reporting a foreign address, contact payer for specific reporting instructions.
+
+“Insured’s Telephone” does not exist in 5010A1. The NUCC recommends that the phone number not be
+reported. Phone extensions are not supported.
+
+FOR WORKERS COMPENSATION CLAIMS: Enter the address of the Employer.
+
+FOR OTHER PROPERTY AND CASUALTY CLAIMS: Enter the address of the insured noted in Item Number
+4.
+
+FOR WORKERS’ COMPENSATION AND OTHER PROPERTY AND CASUALTY CLAIMS: If required by a payer
+to report a telephone number, do not use a hyphen or space as a separator within the telephone
+number.
+
+DESCRIPTION: The “Insured’s Address” is the insured’s permanent residence, which may be different
+from the patient’s address in Item Number 5.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 29 characters for street address, 23
+characters for city, 4 characters for state, 12 characters for ZIP code, 3 characters for area code, and 10
+characters for phone number.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                           14
+ITEM NUMBER 8
+
+
+
+
+TITLE: Reserved for NUCC Use
+
+INSTRUCTIONS: This field was previously used to report “Patient Status.” “Patient Status” does not exist
+in 5010A1, so this field has been eliminated.
+
+This field is reserved for NUCC use. The NUCC will provide instructions for any use of this field.
+
+DESCRIPTION: This field is reserved for NUCC use.
+
+FIELD SPECIFICATION: None
+
+EXAMPLE: None
+
+
+ITEM NUMBER 9
+
+
+
+
+TITLE: Other Insured’s Name
+
+Instructions: If Item Number 11d is marked, complete fields 9, 9a, and 9d, otherwise leave blank. When
+additional group health coverage exists, enter other insured’s full last name, first name, and middle
+initial of the enrollee in another health plan if it is different from that shown in Item Number 2. If the
+insured uses a last name suffix (e.g., Jr, Sr), enter it after the last name and before the first name. Titles
+(e.g., Sister, Capt, Dr) and professional suffixes (e.g., PhD, MD, Esq) should not be included with the
+name.
+
+Use commas to separate the last name, first name, and middle initial. A hyphen can be used for
+hyphenated names. Do not use periods within the name.
+
+DESCRIPTION: The “Other Insured’s Name” indicates that there is a holder of another policy that may
+cover the patient.
+
+FIELD SPECIFICATION: This field allows for the entry of 28 characters.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                        15
+ITEM NUMBER 9a
+
+
+
+
+TITLE: Other Insured’s Policy or Group Number
+
+INSTRUCTIONS: Enter the policy or group number of the other insured.
+
+Do not use a hyphen or space as a separator within the policy or group number.
+
+DESCRIPTION: The “Other Insured’s Policy or Group Number” identifies the policy or group number for
+coverage of the insured as indicated in Item Number 9.
+
+FIELD SPECIFICATION: This field allows for the entry of 28 characters.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 9b
+
+
+
+
+TITLE: Reserved for NUCC Use
+
+INSTRUCTIONS: This field was previously used to report “Other Insured’s Date of Birth, Sex.” “Other
+Insured’s Date of Birth, Sex” does not exist in 5010A1, so this field has been eliminated.
+
+This field is reserved for NUCC use. The NUCC will provide instructions for any use of this field.
+
+DESCRIPTION: This field is reserved for NUCC use.
+
+FIELD SPECIFICATION: None
+
+EXAMPLE: None
+
+
+
+
+Version 1.1
+02/13                                                                                                 16
+ITEM NUMBER 9c
+
+
+
+
+TITLE: Reserved for NUCC Use
+
+INSTRUCTIONS: This field was previously used to report “Employer’s Name or School Name.”
+“Employer’s Name or School Name” does not exist in 5010A1, so this field has been eliminated.
+
+This field is reserved for NUCC use. The NUCC will provide instructions for any use of this field.
+
+DESCRIPTION: This field is reserved for NUCC use.
+
+FIELD SPECIFICATION: None
+
+EXAMPLE: None
+
+
+ITEM NUMBER 9d
+
+
+
+
+TITLE: Insurance Plan Name or Program Name
+
+INSTRUCTIONS: Enter the other insured’s insurance plan or program name.
+
+DESCRIPTION: The “Insurance Plan Name or Program Name” identifies the name of the plan or program
+of the other insured as indicated in Item Number 9.
+
+FIELD SPECIFICATION: This field allows for the entry of 28 characters.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                17
+ITEM NUMBERS 10a–10c
+
+
+
+
+TITLE: Is Patient’s Condition Related To:
+
+INSTRUCTIONS: When appropriate, enter an X in the correct box to indicate whether one or more of the
+services described in Item Number 24 are for a condition or injury that occurred on the job or as a result
+of an automobile or other accident. Only one box on each line can be marked.
+
+The state postal code where the accident occurred must be reported if “YES” is marked in 10b for “Auto
+Accident.” Any item marked “YES” indicates there may be other applicable insurance coverage that
+would be primary, such as automobile liability insurance. Primary insurance information must then be
+shown in Item Number 11.
+
+DESCRIPTION: This information indicates whether the patient’s illness or injury is related to
+employment, auto accident, or other accident. “Employment (current or previous)” would indicate that
+the condition is related to the patient’s job or workplace. “Auto accident” would indicate that the
+condition is the result of an automobile accident. “Other accident” would indicate that the condition is
+the result of any other type of accident.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 1 character in either box per each
+line and 2 characters in the Place/State field.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                       18
+ITEM NUMBER 10d
+
+
+
+
+TITLE: Claim Codes (Designated by NUCC)
+
+INSTRUCTIONS: When applicable, use to report appropriate claim codes. Applicable claim codes are
+designated by the NUCC. Please refer to the most current instructions from the public or private payer
+regarding the need to report claim codes.
+
+When required by payers to provide the sub-set of Condition Codes approved by the NUCC, enter the
+Condition Code in this field. The Condition Codes approved for use on the 1500 Claim Form are available
+at www.nucc.org under Code Sets.
+
+When reporting more than one code, enter three blank spaces and then the next code.
+
+FOR WORKERS COMPENSATION CLAIMS: Condition Codes are required when submitting a bill that is a
+duplicate or an appeal. (Original Reference Number must be entered in Box 22 for these conditions).
+Note: Do not use Condition Codes when submitting a revised or corrected bill.
+
+DESCRIPTION: The “Claim Codes” identify additional information about the patient’s condition or the
+claim.
+
+FIELD SPECIFICATION: This field allows for the entry of 19 characters.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 11
+
+
+
+
+TITLE: Insured’s Policy, Group, or FECA Number
+
+INSTRUCTIONS: Enter the insured’s policy or group number as it appears on the insured’s health care
+identification card. If Item Number 4 is completed, then this field should be completed.
+
+Do not use a hyphen or space as a separator within the policy or group number.
+
+DESCRIPTION: The “Insured’s Policy, Group, or FECA Number” is the alphanumeric identifier for the
+health, auto, or other insurance plan coverage. The FECA number is the 9-digit alphanumeric identifier
+assigned to a patient claiming work-related condition(s) under the Federal Employees Compensation Act
+5 USC 8101.
+
+FIELD SPECIFICATION: This field allows for the entry of 29 characters.
+
+EXAMPLE:
+
+
+
+Version 1.1
+02/13                                                                                                    19
+ITEM NUMBER 11a
+
+
+
+
+TITLE: Insured’s Date of Birth, Sex
+
+INSTRUCTIONS: Enter the 8-digit date of birth (MM│DD│YYYY) of the insured and an X to indicate the sex
+(gender) of the insured. Only one box can be marked. If gender is unknown, leave blank.
+
+DESCRIPTION: The “Insured’s Date of Birth, Sex” is the birth date and gender of the insured as indicated
+in Item Number 1a.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 2 characters under MM, 2
+characters under DD, 4 characters under YY, and 1 character in either box.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 11b
+
+
+
+
+TITLE: Other Claim ID (Designated by NUCC)
+
+INSTRUCTIONS: Enter the “Other Claim ID.” Applicable claim identifiers are designated by the NUCC.
+
+The following qualifier and accompanying identifier has been designated for use:
+
+         Y4      Property Casualty Claim Number
+
+Enter the qualifier to the left of the vertical, dotted line. Enter the identifier number to the right of the
+vertical, dotted line.
+
+FOR WORKERS’ COMPENSATION OR PROPERTY & CASUALTY: Required if known. Enter the claim
+number assigned by the payer.
+
+DESCRIPTION: The “Other Claim ID” is another identifier applicable to the claim.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 2 characters to the left of the
+vertical, dotted line and 28 characters to the right of the dotted line.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                           20
+ITEM NUMBER 11c
+
+
+
+
+TITLE: Insurance Plan Name or Program Name
+
+INSTRUCTIONS: Enter the name of the insurance plan or program of the insured. Some payers require an
+identification number of the primary insurer rather than the name in this field.
+
+DESCRIPTION: The “Insurance Plan Name or Program Name” is the name of the plan or program of the
+insured as indicated in Item Number 1a.
+
+FIELD SPECIFICATION: This field allows for the entry of 29 characters.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 11d
+
+
+
+
+TITLE: Is there another Health Benefit Plan?
+
+INSTRUCTIONS: When appropriate, enter an X in the correct box. If marked “YES”, complete 9, 9a, and
+9d. Only one box can be marked.
+
+DESCRIPTION: “Is there another health benefit plan” indicates that the patient has insurance coverage
+other than the plan indicated in Item Number 1.
+
+FIELD SPECIFICATION: This field allows for the entry of 1 character in either box.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                   21
+ITEM NUMBER 12
+
+
+
+
+TITLE: Patient’s or Authorized Person’s Signature
+
+INSTRUCTIONS: Enter “Signature on File,” “SOF,” or legal signature. When legal signature, enter date
+signed in 6-digit (MM|DD|YY) or 8-digit format (MM|DD|YYYY) format. If there is no signature on file,
+leave blank or enter “No Signature on File.”
+
+DESCRIPTION: The “Patient’s or Authorized Person’s Signature” indicates there is an authorization on file
+for the release of any medical or other information necessary to process and/or adjudicate the claim.
+
+FIELD SPECIFICATION: Use the space available to enter signature/information and date.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 13
+
+
+
+
+TITLE: Insured’s or Authorized Person’s Signature
+
+INSTRUCTIONS: Enter “Signature on File,” “SOF,” or legal signature. If there is no signature on file, leave
+blank or enter “No Signature on File.”
+
+DESCRIPTION: The “Insured’s or Authorized Person’s Signature” indicates that there is a signature on file
+authorizing payment of medical benefits.
+
+FIELD SPECIFICATION: Use the space available to enter signature/information.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                     22
+ITEMS 14–33: PHYSICIAN OR SUPPLIER INFORMATION
+ITEM NUMBER 14
+
+
+
+
+TITLE: Date of Current Illness, Injury, or Pregnancy (LMP)
+
+INSTRUCTIONS: Enter the 6-digit (MM│DD│YY) or 8-digit (MM│DD│YYYY) date of the first date of the
+present illness, injury, or pregnancy. For pregnancy, use the date of the last menstrual period (LMP) as
+the first date.
+
+Enter the applicable qualifier to identify which date is being reported.
+
+         431     Onset of Current Symptoms or Illness
+         484     Last Menstrual Period
+
+Enter the qualifier to the right of the vertical, dotted line.
+
+DESCRIPTION: The “Date of Current Illness, Injury, or Pregnancy” identifies the first date of onset of
+illness, the actual date of injury, or the LMP for pregnancy.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 2 characters under MM, 2
+characters under DD, 4 characters under YY, and 3 characters to the right of the vertical, dotted line.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                      23
+ITEM NUMBER 15
+
+
+
+
+TITLE: Other Date
+
+INSTRUCTIONS: Enter another date related to the patient’s condition or treatment. Enter the date in the
+6-digit (MM│DD│YY) or 8-digit (MM│DD│YYYY) format.
+
+Enter the applicable qualifier to identify which date is being reported.
+
+         454    Initial Treatment
+         304    Latest Visit or Consultation
+         453    Acute Manifestation of a Chronic Condition
+         439    Accident
+         455    Last X-ray
+         471    Prescription
+         090    Report Start (Assumed Care Date)
+         091    Report End (Relinquished Care Date)
+         444    First Visit or Consultation
+
+Enter the qualifier between the left-hand set of vertical, dotted lines.
+
+DESCRIPTION: The “Other Date” identifies additional date information about the patient’s condition or
+treatment.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 3 characters between the vertical,
+dotted lines, 2 characters under MM, 2 characters under DD, and 4 characters under YY.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                   24
+ITEM NUMBER 16
+
+
+
+
+TITLE: Dates Patient Unable to Work in Current Occupation
+
+INSTRUCTIONS: If the patient is employed and is unable to work in current occupation, a 6-digit
+(MM│DD│YY) or 8-digit (MM│DD│YYYY) date must be shown for the “from–to” dates that the patient is
+unable to work. An entry in this field may indicate employment-related insurance coverage.
+
+DESCRIPTION: “Dates Patient Unable to Work in Current Occupation” is the time span the patient is or
+was unable to work.
+
+FIELD SPECIFICATION: This field allows for the entry of the following in each of the date fields: 2
+characters under MM, 2 characters under DD, and 4 characters under YY.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                  25
+ITEM NUMBER 17
+
+
+
+
+TITLE: Name of Referring Provider or Other Source
+
+INSTRUCTIONS: Enter the name (First Name, Middle Initial, Last Name) followed by the credentials of
+the professional who referred or ordered the service(s) or supply(ies) on the claim.
+
+If multiple providers are involved, enter one provider using the following priority order:
+
+         1. Referring Provider
+         2. Ordering Provider
+         3. Supervising Provider
+
+Do not use periods or commas. A hyphen can be used for hyphenated names.
+
+Enter the applicable qualifier to identify which provider is being reported.
+
+         DN      Referring Provider
+         DK      Ordering Provider
+         DQ      Supervising Provider
+
+Enter the qualifier to the left of the vertical, dotted line.
+
+DESCRIPTION: The name entered is the referring provider, ordering provider, or supervising provider
+who referred, ordered, or supervised the service(s) or supply(ies) on the claim. The qualifier indicates
+the role of the provider being reported.
+
+FIELD SPECIFICATION: This field allows for the entry of 2 characters to the left of the vertical, dotted line
+and 24 characters to the right of the dotted line.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                      26
+ITEM NUMBER 17a AND 17b (Split Field)
+
+
+
+
+TITLE 17a: Other ID#
+
+INSTRUCTIONS 17a: The Other ID number of the referring, ordering, or supervising provider is reported
+in 17a in the shaded area. The qualifier indicating what the number represents is reported in the
+qualifier field to the immediate right of 17a.
+
+The NUCC defines the following qualifiers used in 5010A1:
+
+         0B     State License Number
+         1G     Provider UPIN Number
+         G2     Provider Commercial Number
+         LU     Location Number (This qualifier is used for Supervising Provider only.)
+
+DESCRIPTION: The non-NPI ID number of the referring, ordering, or supervising provider is the unique
+identifier of the professional or provider designated taxonomy code.
+
+FIELD SPECIFICATION: This field allows for the entry of 2 characters in the qualifier field and 17
+characters in the Other ID# field.
+
+TITLE 17b: NPI #
+
+INSTRUCTIONS 17b: Enter the NPI number of the referring, ordering, or supervising provider in Item
+Number 17b.
+
+DESCRIPTION: The NPI number refers to the HIPAA National Provider Identifier number.
+
+FIELD SPECIFICATION: This field allows for the entry of a 10-digit NPI number.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                  27
+ITEM NUMBER 18
+
+
+
+
+TITLE: Hospitalization Dates Related to Current Services
+
+INSTRUCTIONS: Enter the inpatient 6-digit (MM│DD│YY) or 8-digit (MM│DD│YYYY) hospital admission
+date followed by the discharge date (if discharge has occurred). If not discharged, leave discharge date
+blank. This date is when a medical service is furnished as a result of, or subsequent to, a related
+hospitalization.
+
+DESCRIPTION: The “Hospitalization Dates Related to Current Services” would refer to an inpatient stay
+and indicates the admission and discharge dates associated with the service(s) on the claim.
+
+FIELD SPECIFICATION: This field allows for the entry of the following in each of the date fields: 2
+characters under MM, 2 characters under DD, and 4 characters under YY.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                      28
+ITEM NUMBER 19
+
+
+
+
+TITLE: Additional Claim Information (Designated by NUCC)
+
+INSTRUCTIONS: Please refer to the most current instructions from the public or private payer regarding
+the use of this field. Some payers ask for certain identifiers in this field. If identifiers are reported in this
+field, enter the appropriate qualifiers describing the identifier. Do not enter a space, hyphen, or other
+separator between the qualifier code and the number.
+
+The NUCC defines the following qualifiers used in 5010A1:
+
+         0B      State License Number
+         1G      Provider UPIN Number
+         G2      Provider Commercial Number
+         LU      Location Number (This qualifier is used for Supervising Provider only.)
+         N5      Provider Plan Network Identification Number
+         SY      Social Security Number (The social security number may not be used for Medicare.)
+         X5      State Industrial Accident Provider Number
+         ZZ      Provider Taxonomy (The qualifier in the 5010A1 for Provider Taxonomy is PXC, but ZZ
+                 will remain the qualifier for the 1500 Claim Form.)
+
+The above list contains both provider identifiers, as well as the provider taxonomy code. The provider
+identifiers are assigned to the provider either by a specific payer or by a third party in order to uniquely
+identify the provider. The taxonomy code is designated by the provider in order to identify his/her
+provider type, classification, and/or area of specialization. Both, provider identifiers and provider
+taxonomy may be used in this field.
+
+When reporting a second item of data, enter three blank spaces and then the next qualifier and
+number/code/information.
+
+FOR WORKERS’ COMPENSATION: Required based on Jurisdictional Workers’ Compensation Guidelines.
+
+When reporting Supplemental Claim Information, use the qualifier PWK for data, followed by the
+appropriate Report Type Code, the appropriate Transmission Type Code, then the Attachment Control
+Number. Do not enter spaces between qualifiers and data. The NUCC defines the following qualifiers
+used in 5010A1:
+
+REPORT TYPE CODES
+
+         03      Report Justifying Treatment Beyond Utilization
+         04      Drugs Administered
+         05      Treatment Diagnosis
+         06      Initial Assessment
+         07      Functional Goals
+         08      Plan of Treatment
+         09      Progress Report
+         10      Continued Treatment
+         11      Chemical Analysis
+         13      Certified Test Report
+         15      Justification for Admission
+         21      Recovery Plan
+Version 1.1
+02/13                                                                                                           29
+         A3   Allergies/Sensitivities Document
+         A4   Autopsy Report
+         AM   Ambulance Certification
+         AS   Admission Summary
+         B2   Prescription
+         B3   Physician Order
+         B4   Referral Form
+         BR   Benchmark Testing Results
+         BS   Baseline
+         BT   Blanket Test Results
+         CB   Chiropractic Justification
+         CK   Consent Form(s)
+         CT   Certification
+         D2   Drug Profile Document
+         DA   Dental Models
+         DB   Durable Medical Equipment Prescription
+         DG   Diagnostic Report
+         DJ   Discharge Monitoring Report
+         DS   Discharge Summary
+         EB   Explanation of Benefits (Coordination of Benefits or Medicare Secondary Payor)
+         HC   Health Certificate
+         HR   Health Clinic Records
+         I5   Immunization Record
+         IR   State School Immunization Records
+         LA   Laboratory Results
+         M1   Medical Record Attachment
+         MT   Models
+         NN   Nursing Notes
+         OB   Operative Note
+         OC   Oxygen Content Averaging Report
+         OD   Orders and Treatments Document
+         OE   Objective Physical Examination (including vital signs) Document
+         OX   Oxygen Therapy Certification
+         OZ   Support Data for Claim
+         P4   Pathology Report
+         P5   Patient Medical History Document
+         PE   Parenteral or Enteral Certification
+         PN   Physical Therapy Notes
+         PO   Prosthetics or Orthotic Certification
+         PQ   Paramedical Results
+         PY   Physician’s Report
+         PZ   Physical Therapy Certification
+         RB   Radiology Films
+         RR   Radiology Reports
+         RT   Report of Tests and Analysis Report
+         RX   Renewable Oxygen Content Averaging Report
+         SG   Symptoms Document
+         V5   Death Notification
+         XP   Photographs
+
+TRANSMISSION TYPE CODES
+
+         AA   Available on Request at Provider Site
+         BM   By Mail
+Version 1.1
+02/13                                                                                          30
+Example: PWK03AA12363545465
+
+DESCRIPTION: “Additional Claim Information” identifies additional information about the patient’s
+condition or the claim.
+
+FIELD SPECIFICATION: This field allows for the entry of 71 characters.
+
+EXAMPLE: None
+
+
+ITEM NUMBER 20
+
+
+
+
+TITLE: Outside Lab? $Charges
+
+INSTRUCTIONS: Complete this field when billing for purchased services by entering an X in “YES.” A
+“YES” mark indicates that the reported service was provided by an entity other than the billing provider
+(for example, services subject to Medicare’s anti-markup rule). A “NO” mark or blank indicates that no
+purchased services are included on the claim.
+
+If “Yes” is annotated, enter the purchase price under “$Charges” and complete Item Number 32. Each
+purchased service must be reported on a separate claim form as only one charge can be entered.
+
+When entering the charge amount, enter the amount in the field to the left of the vertical line. Enter
+number right justified to the left of the vertical line. Enter 00 for cents if the amount is a whole number.
+Do not use dollar signs, commas, or a decimal point when reporting amounts. Negative dollar amounts
+are not allowed. Leave the right-hand field blank.
+
+DESCRIPTION: “Outside lab? $Charges” indicates that services have been rendered by an independent
+provider as indicated in Item Number 32 and the related costs.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 1 character in either box in the
+Outside Lab area and 8 characters to the left of the vertical line and 2 characters to the right of the
+vertical line in the $Charges area.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                      31
+ITEM NUMBER 21
+
+
+
+
+TITLE: Diagnosis or Nature of Illness or Injury
+
+INSTRUCTIONS: Enter the applicable ICD indicator to identify which version of ICD codes is being
+reported.
+
+         9       ICD-9-CM
+         0       ICD-10-CM
+
+Enter the indicator between the vertical, dotted lines in the upper right-hand portion of the field.
+
+Enter the codes to identify the patient’s diagnosis and/or condition. List no more than 12 ICD-9-CM or
+ICD-10-CM diagnosis codes. Relate lines A - L to the lines of service in 24E by the letter of the line. Use
+the highest level of specificity. Do not provide narrative description in this field.
+
+DESCRIPTION: The “ICD Indicator” identifies the version of the ICD code set being reported. The
+“Diagnosis or Nature of Illness or Injury” is the sign, symptom, complaint, or condition of the patient
+relating to the service(s) on the claim.
+
+FIELD SPECIFICATION: This field allows for the entry a 1 character indicator and 12 diagnosis codes at a
+maximum of 7 characters in length.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                         32
+ITEM NUMBER 22
+
+
+
+
+TITLE: Resubmission and/or Original Reference Number
+
+INSTRUCTIONS: List the original reference number for resubmitted claims. Please refer to the most
+current instructions from the public or private payer regarding the use of this field (e.g., code).
+
+When resubmitting a claim, enter the appropriate bill frequency code left justified in the left-hand side
+of the field.
+
+         7      Replacement of prior claim
+         8      Void/cancel of prior claim
+
+This Item Number is not intended for use for original claim submissions.
+
+DESCRIPTION: “Resubmission” means the code and original reference number assigned by the
+destination payer or receiver to indicate a previously submitted claim or encounter.
+
+FIELD SPECIFICATION: This field allows for the entry of 11 characters in the Code area and 18 characters
+in the Original Ref. No. area.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 23
+
+
+
+
+TITLE: Prior Authorization Number
+
+INSTRUCTIONS: Enter any of the following: prior authorization number, referral number, mammography
+pre-certification number, or Clinical Laboratory Improvement Amendments (CLIA) number, as assigned
+by the payer for the current service.
+
+Do not enter hyphens or spaces within the number.
+
+DESCRIPTION: The “Prior Authorization Number” is the payer assigned number authorizing the
+service(s).
+
+FIELD SPECIFICATION: This field allows for the entry of 29 characters.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                       33
+SECTION 24
+
+
+
+
+INSTRUCTIONS: Supplemental information can only be entered with a corresponding, completed service
+line. The six service lines in section 24 have been divided horizontally to accommodate submission of
+both the NPI and another/proprietary identifier and to accommodate the submission of supplemental
+information to support the billed service. The top area of the six service lines is shaded and is the
+location for reporting supplemental information. It is not intended to allow the billing of 12 lines of
+service.
+
+The supplemental information is to be placed in the shaded section of 24A through 24G as defined in
+each Item Number. Providers must verify requirements for this supplemental information with the
+payer.
+
+See page 45 for further instructions and examples of how to enter supplemental information.
+
+FIELD SPECIFICATIONS: The shaded area of lines 1 through 6 allow for the entry of 39 characters from
+the beginning of 24A to the end of 24G.
+
+
+
+
+Version 1.1
+02/13                                                                                                  34
+ITEM NUMBER 24A
+
+
+
+
+TITLE: Date(s) of Service [lines 1–6]
+
+INSTRUCTIONS: Enter date(s) of service, both the “From” and “To” dates. If there is only one date of
+service, enter that date under “From.” Leave “To” blank or re-enter “From” date. If grouping services, the
+place of service, procedure code, charges, and individual provider for each line must be identical for that
+service line. Grouping is allowed only for services on consecutive days. The number of days must
+correspond to the number of units in 24G.
+
+When required by payers to provide additional narrative description of an unspecified code, NDC,
+contract rate, or tooth numbers and areas of the oral cavity enter the applicable qualifier and
+number/code/information starting with the first space in the shaded line of this field. Do not enter a
+space, hyphen, or other separator between the qualifier and the number/code/ information. The
+information may extend to 24G. Further instructions on entering supplemental information with
+qualifiers, including examples, are on page 45.
+
+DESCRIPTION: “Date(s) of Service” indicates the actual month, day, and year the service(s) was provided.
+Grouping services refers to a charge for a series of identical services without listing each date of service.
+
+FIELD SPECIFICATION: This field allows for the entry of the following in each of the unshaded date fields:
+2 characters under MM, 2 characters under DD, and 2 characters under YY.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                      35
+ITEM NUMBER 24B
+
+
+
+
+TITLE: Place of Service [lines 1–6]
+
+INSTRUCTIONS: In 24B, enter the appropriate two-digit code from the Place of Service Code list for each
+item used or service performed. The Place of Service Codes are available at:
+www.cms.gov/physicianfeesched/downloads/Website_POS_database.pdf.
+
+DESCRIPTION: The “Place of Service” Code identifies the location where the service was rendered.
+
+FIELD SPECIFICATION: This field allows for the entry of 2 characters in the unshaded area.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                 36
+ITEM NUMBER 24C
+
+
+
+
+TITLE: EMG [lines 1–6]
+
+INSTRUCTIONS: Check with payer to determine if this information (emergency indicator) is necessary. If
+required, enter Y for “YES” or leave blank if “NO” in the bottom, unshaded area of the field. The
+definition of emergency would be either defined by federal or state regulations or programs, payer
+contracts, or as defined in 5010A1.
+
+DESCRIPTION: “EMG” identifies if the service was an emergency.
+
+FIELD SPECIFICATION: This field allows for the entry of 2 characters in the unshaded area.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                37
+ITEM NUMBER 24D
+
+
+
+
+TITLE: Procedures, Services, or Supplies [lines 1–6]
+
+INSTRUCTIONS: Enter the CPT or HCPCS code(s) and modifier(s) (if applicable) from the appropriate code
+set in effect on the date of service. This field accommodates the entry of up to four two-digit modifiers.
+The specific procedure code(s) must be shown without a narrative description.
+
+DESCRIPTION: “Procedures, Services or Supplies” identify the medical services and procedures provided
+to the patient.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 6 characters in the unshaded area
+of the CPT/HCPCS field and four sets of 2 characters in the Modifier area.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                   38
+ITEM NUMBER 24E
+
+
+
+
+TITLE: Diagnosis Pointer [lines 1–6]
+
+INSTRUCTIONS: In 24E, enter the diagnosis code reference letter (pointer) as shown in Item Number 21
+to relate the date of service and the procedures performed to the primary diagnosis. When multiple
+services are performed, the primary reference letter for each service should be listed first, other
+applicable services should follow. The reference letter(s) should be A – L or multiple letters as applicable.
+ICD-9-CM (or ICD-10-CM, once mandated) diagnosis codes must be entered in Item Number 21 only. Do
+not enter them in 24E.
+
+Enter letters left justified in the field. Do not use commas between the letters.
+
+DESCRIPTION: The “Diagnosis Pointer” is the line letter from Item Number 21 that relates to the reason
+the service(s) was performed.
+
+FIELD SPECIFICATION: This field allows for the entry of 4 characters in the unshaded area.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                      39
+ITEM NUMBER 24F
+
+
+
+
+TITLE: $Charges [lines 1–6]
+
+INSTRUCTIONS: Enter the charge for each listed service.
+
+Enter the number right justified in the dollar area of the field. Do not use commas when reporting dollar
+amounts. Negative dollar amounts are not allowed. Dollar signs should not be entered. Enter 00 in the
+cents area if the amount is a whole number.
+
+DESCRIPTION: “$Charges” is the total billed amount for each service line.
+
+FIELD SPECIFICATION: This field allows for the entry of 6 characters to the left of the vertical line and 2
+characters to the right of the vertical line in the unshaded area.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                         40
+ITEM NUMBER 24G
+
+
+
+
+TITLE: Days or Units [lines 1–6]
+
+INSTRUCTIONS: Enter the number of days or units. This field is most commonly used for multiple visits,
+units of supplies, anesthesia units or minutes, or oxygen volume. If only one service is performed, the
+numeral 1 must be entered.
+
+Enter numbers left justified in the field. No leading zeros are required. If reporting a fraction of a unit,
+use the decimal point.
+
+Anesthesia services must be reported as minutes. Units may only be reported for anesthesia services
+when the code description includes a time period (such as “daily management”).
+
+DESCRIPTION: “Days or Units” is the number of days corresponding to the dates entered in 24A or units
+as defined in CPT or HCPCS coding manual(s).
+
+FIELD SPECIFICATION: This field allows for the entry of 3 characters in the unshaded area.
+
+EXAMPLES:
+
+
+
+
+Version 1.1
+02/13                                                                                                          41
+ITEM NUMBER 24H
+
+
+
+
+TITLE: EPSDT/Family Plan [lines 1–6]
+
+INSTRUCTIONS: For Early & Periodic Screening, Diagnosis, and Treatment related services, enter the
+response in the shaded portion of the field as follows:
+
+If there is no requirement (e.g., state requirement) to report a reason code for EPDST, enter Y for “YES”
+or N for “NO” only.
+
+If there is a requirement to report a reason code for EPDST, enter the appropriate reason code as noted
+below. (A Y or N response is not entered with the code.) The two character code is right justified in the
+shaded area of the field.
+
+The following codes for EPSDT are used in 5010A1:
+
+         AV     Available – Not Used (Patient refused referral.)
+         S2     Under Treatment (Patient is currently under treatment for referred diagnostic or
+                corrective health problem.)
+         ST     New Service Requested (Referral to another provider for diagnostic or corrective
+                treatment/scheduled for another appointment with screening provider for diagnostic or
+                corrective treatment for at least one health problem identified during an initial or
+                periodic screening service, not including dental referrals.)
+         NU     Not Used (Used when no EPSDT patient referral was given.)
+
+If the service is Family Planning, enter Y (“YES”) or N (“NO”) in the bottom, unshaded area of the field.
+
+DESCRIPTION: The “EPSDT/Family Plan” identifies certain services that may be covered under some state
+plans.
+
+FIELD SPECIFICATION: This field allows for the entry of 1 character in the unshaded area.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                       42
+ITEM NUMBER 24I
+
+
+
+
+TITLE: ID Qualifier [lines 1–6]
+
+INSTRUCTIONS: Enter in the shaded area of 24I the qualifier identifying if the number is a non-NPI. The
+Other ID# of the rendering provider should be reported in 24J in the shaded area.
+
+The NUCC defines the following qualifiers used in 5010A1:
+
+         0B      State License Number
+         1G      Provider UPIN Number
+         G2      Provider Commercial Number
+         LU      Location Number
+         ZZ      Provider Taxonomy (The qualifier in the 5010A1 for Provider Taxonomy is PXC, but ZZ
+                 will remain the qualifier for the 1500 Claim Form.)
+
+The above list contains both provider identifiers, as well as the provider taxonomy code. The provider
+identifiers are assigned to the provider either by a specific payer or by a third party in order to uniquely
+identify the provider. The taxonomy code is designated by the provider in order to identify his/her
+provider type, classification, and/or area of specialization. Both, provider identifiers and provider
+taxonomy may be used in this field.
+
+The Rendering Provider is the person or company (laboratory or other facility) who rendered or
+supervised the care. In the case where a substitute provider (locum tenens) was used, enter that
+provider’s information here. Report the Identification Number in Items 24I and 24J only when different
+from data recorded in items 33a and 33b.
+
+DESCRIPTION: If the provider does not have an NPI number, enter the appropriate qualifier and
+identifying number in the shaded area. There will always be providers who do not have an NPI and will
+need to report non-NPI identifiers on their claim forms. The qualifiers will indicate the non-NPI number
+being reported.
+
+FIELD SPECIFICATION: This field allows for the entry of a 2 character qualifier in the shaded area.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                      43
+ITEM NUMBER 24J
+
+
+
+
+TITLE: Rendering Provider ID # [lines 1–6]
+
+INSTRUCTIONS: The individual rendering the service should be reported in 24J. Enter the non-NPI ID
+number in the shaded area of the field. Enter the NPI number in the unshaded area of the field.
+
+The Rendering Provider is the person or company (laboratory or other facility) who rendered or
+supervised the care. In the case where a substitute provider (locum tenens) was used, enter that
+provider’s information here. Report the Identification Number in Items 24I and 24J only when different
+from data recorded in items 33a and 33b.
+
+Enter numbers left justified in the field.
+
+DESCRIPTION: The individual performing/rendering the service should be reported in 24J and the
+qualifier indicating if the number is a non-NPI is reported in 24I. The non-NPI ID number of the rendering
+provider refers to the payer assigned unique identifier of the professional.
+
+FIELD SPECIFICATION: This field allows for the entry of 11 characters in the shaded area and entry of a
+10-digit NPI number of the unshaded area.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                     44
+INSTRUCTIONS AND EXAMPLES OF SUPPLEMENTAL INFORMATION IN ITEM
+NUMBER 24
+The following are types of supplemental information that can be entered in the shaded areas of Item
+Number 24:
+
+• Narrative description of unspecified codes
+• National Drug Codes (NDC) for drugs
+• Contract rate
+• Tooth numbers and areas of the oral cavity
+
+The following qualifiers are to be used when reporting these services.
+
+ZZ       Narrative description of unspecified code
+N4       National Drug Codes (NDC)
+CTR      Contract rate
+JP       Universal/National Tooth Designation System
+JO       ANSI/ADA/ISO Specification No. 3950-1984 Dentistry Designation System for Tooth and Areas of
+         the Oral Cavity
+
+If required to report other supplemental information not listed above, follow payer instructions for the
+use of a qualifier for the information being reported. When reporting a service that does not have a
+qualifier, enter two blank spaces before entering the information
+
+To enter supplemental information, begin at 24A by entering the qualifier and then the information. Do
+not enter a space between the qualifier and the number/code/information. Do not enter hyphens or
+spaces within the number/code.
+
+More than one supplemental item can be reported in the shaded lines of Item Number 24. Enter the first
+qualifier and number/code/information at 24A. After the first item, enter three blank spaces and then
+the next qualifier and number/code/information.
+
+When reporting dollar amounts in the shaded area, always enter dollar amount, a decimal point, and
+cents. Use 00 for the cents if the amount is a whole number. Do not use commas. Do not enter dollar
+signs.
+Examples:       1000.00
+                123.45
+
+Additional Information for Reporting NDC
+When entering supplemental information for NDC, add in the following order: qualifier, NDC code, one
+space, unit/basis of measurement qualifier, quantity. The number of digits for the quantity is limited to
+eight digits before the decimal and three digits after the decimal. If entering a whole number, do not use
+a decimal. Do not use commas.
+Examples:        1234.56
+                 2
+                 99999999.999
+
+When a dollar amount is being reported, enter the following after the quantity: one space, dollar
+amount. Do not enter a dollar sign.
+
+The following qualifiers are to be used when reporting NDC unit/basis of measurement:
+
+         F2     International Unit               ME      Milligram               UN       Unit
+         GR     Gram                             ML      Milliliter
+Version 1.1
+02/13                                                                                                      45
+When reporting compound drugs, a statement of ingredients may be required to be attached to the
+claim.
+
+The following qualifiers are to be used when regulations mandate the use of the Universal Product
+Number (UPN) for reporting medical and surgical supplies:
+
+EN EAN/UCC - 13
+EO EAN/UCC - 8
+HI HIBC (Health Care Industry Bar Code)
+
+Supplier Labeling Standard Primary Data Message
+UK GTIM 14 - digit data structure
+UP UCC - 12
+
+Additional Information for Reporting Tooth Numbers and Areas of the Oral Cavity
+When reporting tooth numbers, add in the following order: qualifier, tooth number, e.g., JP16. When
+reporting an area of the oral cavity, enter in the following order: qualifier, area of oral cavity code, e.g.,
+JO10.
+
+When reporting multiple tooth numbers for one procedure, add in the following order: qualifier, tooth
+number, blank space, tooth number, blank space, tooth number, etc., e.g., JP1 16 17 32.
+
+When reporting multiple tooth numbers for one procedure, the number of units reported in 24G is the
+number of teeth involved in the procedure.
+
+When reporting multiple areas of the oral cavity for one procedure, add in the following order: qualifier,
+oral cavity code, blank space, oral cavity code, etc., e.g., JO10 20.
+
+When reporting multiple areas of the oral cavity for one procedure, the number of units reported in 24G
+is the number of areas of the oral cavity involved in the procedure.
+
+The following are the codes for tooth numbers, reported with the JP qualifier:
+
+         1 – 32    Permanent dentition
+         51 – 82   Permanent supernumerary dentition
+         A–T       Primary dentition
+         AS – TS   Primary supernumerary dentition
+
+The following are the codes for areas of the oral cavity, reported with the JO qualifier:
+
+         00        Entire oral cavity
+         01        Maxillary arch
+         02        Mandibular arch
+         10        Upper right quadrant
+         20        Upper left quadrant
+         30        Lower left quadrant
+         40        Lower right quadrant
+
+For further information on these codes, refer to the Current Dental Terminology (CDT) Manual available
+from the American Dental Association.
+
+
+
+Version 1.1
+02/13                                                                                                            46
+EXAMPLES
+
+Please note: The following examples are of how to enter different types of supplemental information in
+24. These examples demonstrate how the data are to be entered into the fields and are not meant to
+provide direction on how to code for certain services.
+
+UNSPECIFIED CODE:
+
+
+
+
+NDC CODE:
+
+
+
+
+TOOTH NUMBER:
+
+
+
+
+MULTIPLE TOOTH NUMBERS:
+
+
+
+
+AREA OF ORAL CAVITY:
+
+
+
+
+MULTIPLE AREAS OF ORAL CAVITY:
+
+
+
+
+Version 1.1
+02/13                                                                                                47
+ITEM NUMBER 25
+
+
+
+
+TITLE: Federal Tax ID Number
+
+INSTRUCTIONS: Enter the “Federal Tax ID Number” (employer ID number or SSN) of the Billing Provider
+identified in Item Number 33. This is the tax ID number intended to be used for 1099 reporting purposes.
+Enter an X in the appropriate box to indicate which number is being reported. Only one box can be
+marked.
+
+Do not enter hyphens with numbers. Enter numbers left justified in the field.
+
+DESCRIPTION: The “Federal Tax ID Number” is the unique identifier assigned by a federal or state
+agency.
+
+FIELD SPECIFICATION: This field allows for the entry of 15 characters for the “Federal Tax ID Number”
+and 1 character in either box.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 26
+
+
+
+
+TITLE: Patient’s Account No.
+
+INSTRUCTIONS: Enter the patient’s account number assigned by the provider of service’s or supplier’s
+accounting system.
+
+Do not enter hyphens with numbers. Enter numbers left justified in the field.
+
+DESCRIPTION: The “Patient’s Account No.” is the identifier assigned by the provider.
+
+FIELD SPECIFICATION: This field allows for the entry of 14 characters.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                   48
+ITEM NUMBER 27
+
+
+
+
+TITLE: Accept Assignment?
+
+INSTRUCTIONS: Enter an X in the correct box. Only one box can be marked.
+
+Report “Accept Assignment?” for all payers.
+
+DESCRIPTION: The accept assignment indicates that the provider agrees to accept assignment under the
+terms of the payer’s program.
+
+FIELD SPECIFICATION: This field allows for the entry of 1 character in either box.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 28
+
+
+
+
+TITLE: Total Charge
+
+INSTRUCTIONS: Enter total charges for the services (i.e., total of all charges in 24F).
+
+Enter the number right justified in the dollar area of the field. Do not use commas when reporting dollar
+amounts. Negative dollar amounts are not allowed. Dollar signs should not be entered. Enter 00 in the
+cents area if the amount is a whole number.
+
+DESCRIPTION: The “Total Charge” is the total billed amount for all services entered in 24F (lines 1–6).
+
+FIELD SPECIFICATION: This field allows for the entry of 7 characters to the left of the vertical line and 2
+characters to the right of the vertical line.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                         49
+ITEM NUMBER 29
+
+
+
+
+TITLE: Amount Paid
+
+INSTRUCTIONS: Enter total amount the patient and/or other payers paid on the covered services only.
+
+Enter the number right justified in the dollar area of the field. Do not use commas when reporting dollar
+amounts. Negative dollar amounts are not allowed. Dollar signs should not be entered. Enter 00 in the
+cents area if the amount is a whole number.
+
+DESCRIPTION: The “Amount Paid” is the payment received from the patient or other payers.
+
+FIELD SPECIFICATION: This field allows for the entry of 6 characters to the left of the vertical line and 2
+characters to the right of the vertical line.
+
+EXAMPLE:
+
+
+
+
+ITEM NUMBER 30
+
+
+
+
+TITLE: Reserved for NUCC Use
+
+INSTRUCTIONS: This field was previously used to report “Balance Due.” “Balance Due” does not exist in
+5010A1, so this field has been eliminated.
+
+This field is reserved for NUCC use. The NUCC will provide instructions for any use of this field.
+
+DESCRIPTION: This field is reserved for NUCC use.
+
+FIELD SPECIFICATION: None
+
+EXAMPLE: None
+
+
+
+
+Version 1.1
+02/13                                                                                                         50
+ITEM NUMBER 31
+
+
+
+
+TITLE: Signature of Physician or Supplier Including Degrees or Credentials
+
+INSTRUCTIONS: “Signature of Physician or Supplier Including Degrees or Credential” does not exist in
+5010A1.
+
+Enter the legal signature of the practitioner or supplier, signature of the practitioner or supplier
+representative, “Signature on File,” or “SOF.” Enter either the 6-digit date (MM|DD|YY), 8-digit date
+(MM|DD|YYYY), or alphanumeric date (e.g., January 1, 2003) the form was signed.
+
+DESCRIPTION: The “Signature of the Physician or Supplier Including Degrees or Credentials” refers to the
+authorized or accountable person and the degree, credentials, or title.
+
+FIELD SPECIFICATION: Use the space available to enter signature and date.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                   51
+ITEM NUMBER 32, 32A, AND 32B
+
+
+
+
+TITLE 32: Service Facility Location Information
+
+INSTRUCTIONS: Enter the name, address, city, state, and ZIP code of the location where the services
+were rendered. Providers of service (namely physicians) must identify the supplier’s name, address, ZIP
+code, and NPI number when billing for purchased diagnostic tests. When more than one supplier is used,
+a separate 1500 Claim Form should be used to bill for each supplier.
+
+If the “Service Facility Location” is a component or subpart of the Billing Provider and they have their
+own NPI that is reported on the claim, then the subpart is reported as the Billing Provider and “Service
+Facility Location” is not used. When reporting an NPI in the “Service Facility Location,” the entity must be
+an external organization to the Billing Provider.
+
+Enter the name and address information in the following format:
+
+         1st Line – Name
+         2nd Line – Address
+         3rd Line – City, State and ZIP Code
+
+Do not use punctuation (i.e., commas, periods) or other symbols in the address (e.g., 123 N Main Street
+101 instead of 123 N. Main Street, #101). Enter a space between town name and state code; do not
+include a comma. Report a 9-digit ZIP code, including the hyphen.
+
+If reporting a foreign address, contact payer for specific reporting instructions.
+
+DESCRIPTION: The name and address of facility where services were rendered identifies the site where
+service(s) were provided.
+
+FIELD SPECIFICATION: This field allows for the entry of three lines of 26 characters each in the Service
+Facility Location Information area.
+
+
+TITLE 32A: NPI#
+
+INSTRUCTIONS: Enter the NPI number of the service facility location in 32a.
+
+Only report a Service Facility Location NPI when the NPI is different from the Billing Provider NPI.
+
+DESCRIPTION: The NPI number refers to the HIPAA National Provider Identifier number.
+
+FIELD SPECIFICATION: This field allows for the entry of 10 characters.
+
+
+
+
+Version 1.1
+02/13                                                                                                      52
+TITLE 32B: Other ID#
+
+INSTRUCTIONS: Enter the 2-digit qualifier identifying the non-NPI number followed by the ID number.
+Do not enter a space, hyphen, or other separator between the qualifier and number.
+
+The NUCC defines the following qualifiers used in 5010A1:
+
+         0B     State License Number
+         G2     Provider Commercial Number
+         LU     Location Number
+
+DESCRIPTION: The non-NPI ID number of the service facility is the payer assigned unique identifier of the
+facility.
+
+FIELD SPECIFICATION: This field allows for the entry of 14 characters in 32b.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                  53
+ITEM NUMBER 33, 33A, AND 33B
+
+
+
+
+TITLE 33: Billing Provider Info & Ph #
+
+INSTRUCTIONS: Enter the provider’s or supplier’s billing name, address, ZIP code, and phone number.
+The phone number is to be entered in the area to the right of the field title. Enter the name and address
+information in the following format:
+
+         1st Line – Name
+         2nd Line – Address
+         3rd Line – City, State and ZIP Code
+
+Item 33 identifies the provider that is requesting to be paid for the services rendered and should always
+be completed.
+
+Do not use punctuation (i.e., commas, periods) or other symbols in the address (e.g., 123 N Main Street
+101 instead of 123 N. Main Street, #101). Enter a space between town name and state code; do not
+include a comma. Report a 9-digit ZIP code, including the hyphen. Do not use a hyphen or space as a
+separator within the telephone number.
+
+If reporting a foreign address, contact payer for specific reporting instructions.
+
+5010A1 requires the “Billing Provider Address” be a street address or physical location. The NUCC
+recommends that the same requirements be applied here.
+
+DESCRIPTION: The billing provider’s or supplier’s billing name, address, ZIP code, and phone number is
+the billing office location and telephone number of the provider or supplier.
+
+FIELD SPECIFICATION: This field allows for the entry of the following: 3 characters for area code, 9
+characters for phone number, and 87 characters in the Billing Provider Info area.
+
+
+TITLE 33A: NPI#
+
+INSTRUCTIONS: Enter the NPI number of the billing provider in 33a.
+
+DESCRIPTION: The NPI number refers to the HIPAA National Provider Identifier number.
+
+FIELD SPECIFICATION: This field allows for the entry of 10 characters.
+
+
+
+
+Version 1.1
+02/13                                                                                                    54
+TITLE 33B: Other ID#
+
+INSTRUCTIONS: Enter the 2-digit qualifier identifying the non-NPI number followed by the ID number.
+Do not enter a space, hyphen, or other separator between the qualifier and number.
+
+The NUCC defines the following qualifiers used in 5010A1:
+
+         0B     State License Number
+         G2     Provider Commercial Number
+         ZZ     Provider Taxonomy (The qualifier in the 5010A1 for Provider Taxonomy is PXC, but ZZ
+                will remain the qualifier for the 1500 Claim Form.)
+
+The above list contains both provider identifiers, as well as the provider taxonomy code. The provider
+identifiers are assigned to the provider either by a specific payer or by a third party in order to uniquely
+identify the provider. The taxonomy code is designated by the provider in order to identify his/her
+provider type, classification, and/or area of specialization. Both, provider identifiers and provider
+taxonomy may be used in this field.
+
+DESCRIPTION: The non-NPI ID number of the billing provider refers to the payer assigned unique
+identifier of the professional.
+
+FIELD SPECIFICATION: This field allows for the entry of 17 characters in 33b.
+
+EXAMPLE:
+
+
+
+
+Version 1.1
+02/13                                                                                                      55
+REFERENCES
+Accredited Standards Committee X12, Insurance Subcommittee, ASC X12N. Health Care Claim:
+Professional (837), 005010X222. Washington Publishing Company, May 2006. <http:www.wpc-
+edi.com>.
+
+Accredited Standards Committee X12, Insurance Subcommittee, ASC X12N. Type 1 Errata to Health Care
+Claim: Professional (837), 005010X222A1. Washington Publishing Company, June 2010. <http:www.wpc-
+edi.com>.
+
+
+
+
+Version 1.1
+02/13                                                                                           56
+APPENDIX A: PROVIDER DEFINITIONS
+The following definitions apply to the provider terms used on the 1500 Claim Form.
+
+REFERRING PROVIDER
+The Referring Provider is the individual who directed the patient for care to the provider rendering the
+services being reported.
+
+Examples include, but are not limited to, primary care provider referring to a specialist; orthodontist
+referring to an oral and maxillofacial surgeon; physician referring to a physical therapist; provider
+referring to a home health agency.
+
+ORDERING PROVIDER
+The Ordering Provider is the individual who requested the services or items being reported on this
+service line.
+
+Examples include, but are not limited to, provider ordering diagnostic tests and medical equipment or
+supplies.
+
+RENDERING PROVIDER
+5010 837P
+The Rendering Provider is the person or company (laboratory or other facility) who rendered the care. In
+the case where a substitute provider (locum tenens) was used, enter that provider's information here.
+
+Future Versions of 837P
+The Rendering Provider is the individual who provided the care. In the case where a substitute provider
+(locum tenens) was used, that individual is considered the Rendering Provider.
+
+The Rendering Provider does not include individuals performing services in support roles, such as lab
+technicians or radiology technicians.
+
+SUPERVISING PROVIDER
+The Supervising Provider is the individual who provided oversight of the Rendering Provider and the care
+being reported.
+
+An example includes, but is not limited to, supervision of a resident physician.
+
+PURCHASED SERVICE PROVIDER
+A Purchased Service Provider is an individual or entity that performs a service on a contractual or
+reassignment basis for a separate provider who is billing for the service.
+
+Examples of services include, but are not limited to: (a) processing a laboratory specimen; (b) grinding
+eyeglass lenses to the specifications of the Rendering Provider; or (c) performing diagnostic testing
+services (excluding clinical laboratory testing) subject to Medicare’s anti-markup rule. In the case where
+a substitute provider (a locum tenens physician) is used, that individual is not considered a Purchased
+Service Provider.
+
+
+
+
+Version 1.1
+02/13                                                                                                      57
+         APPENDIX B: ABBREVIATIONS
+
+         AMA – American Medical Association
+
+         BLK Lung – Black Lung
+
+         CHAMPVA – Civilian Health and Medical Program of the Department of Veterans Affairs
+
+         CLIA – Clinical Laboratory Improvement Amendments
+
+         CMS – Centers for Medicare & Medicaid Services, formerly HCFA
+
+         COB – Coordination of Benefits
+
+         CPT® – Current Procedural Terminology, 4th Edition
+
+         DD – Day, indicates entry of two digits for the day
+
+         DME – Durable Medical Equipment
+
+         EIN – Employer Identification Number
+
+         EMG – Emergency
+
+         EPSDT – Early & Periodic Screening, Diagnosis, and Treatment
+
+         F – Female
+
+         FECA – Federal Employees’ Compensation Act
+
+         GTIN – Global Trade Item Number
+
+         HCFA – Health Care Financing Administration, currently CMS
+
+         HCPCS – HCFA Common Procedural Coding System
+
+         HIBCC – Health Industry Business Communications Council
+
+         HIPAA – Health Insurance Portability and Accountability Act of 1996
+
+         HMO – Health Maintenance Organization
+
+         ICD-9-CM – Internal Classification of Disease, Revision 9, Clinical Modification
+
+         ICD-10-CM - Internal Classification of Disease, Revision 10, Clinical Modification
+
+         I.D. or ID – Identification
+
+         I.D. # or ID# – Identification Number
+
+         INFO – Information
+
+Version 1.1
+02/13                                                                                          58
+         LMP – Last Menstrual Period
+
+         M – Male
+
+         MM – Month, indicates entry of two digits for the month
+
+         NDC – National Drug Codes
+
+         No. – Number
+
+         NUCC – National Uniform Claim Committee
+
+         NUCC-DS – National Uniform Claim Committee Data Set
+
+         NPI – National Provider Identifier
+
+         OMB – Office of Management and Budget
+
+         OZ – Product number Health Care Uniform Code Council
+
+         PH # – Phone Number
+
+         QUAL. – Qualifier
+
+         REF. – Reference
+
+         SOF – Signature on File
+
+         SSN – Social Security Number
+
+         UPC – Universal Product Code
+
+         UPIN – Unique Physician Identification Number
+
+         USIN – Unique Supplier Identification Number
+
+         VP – Vendor Product Number
+
+         YY – Year, indicates entry of two digits for the year
+
+         YYYY – Year, indicates entry of four digits for the year (YYYY)
+
+
+
+
+Version 1.1
+02/13                                                                      59
+APPENDIX C: GUIDELINES FOR MODIFYING THE 1500 (02/12) CLAIM FORM
+The following are the National Uniform Claim Committee’s (NUCC) recommended guidelines for making
+modifications to the 1500 (02/12) Claim Form.
+
+PRINTER-SPECIFIC/SUPPLIER-SPECIFIC INFORMATION
+Any printer-specific/supplier-specific information (e.g., logo, reorder number, phone number) that is
+preprinted on the form must be placed in a manner in which it will not interfere with the data content of
+the form. Data content includes the carrier information at the top of the page and any other pre-printed
+text in the margins. (See the instructions for the location of the carrier information within the carrier
+block of the form.)
+
+TRACKING INFORMATION ADDED BY CLEARINGHOUSES, PAYERS, OR OTHER PROCESSORS
+Any tracking information (e.g., time stamp, tracking number) that is added by clearinghouses, payers, or
+other claims processors must be placed in a manner in which it will not interfere with the data content of
+the form. Data content includes the carrier information at the top of the page. (See the instructions for
+the location of the carrier information within the carrier block of the form.)
+
+BARCODES
+Any barcodes added to the form, either pre-printed or during processing, must be placed in a manner in
+which it will not interfere with the data content of the form. Data content includes the carrier
+information at the top of the page. (See the instructions for the location of the carrier information within
+the carrier block of the form.)
+
+ADDITIONAL DATA ELEMENTS
+The NUCC strongly discourages required or optional reporting of any data elements in addition to the
+data content fields on the form.
+
+
+
+
+Version 1.1
+02/13                                                                                                     60
+APPENDIX D: MAINTENANCE OF THE 1500 REFERENCE INSTRUCTION MANUAL
+VERSION RELEASES
+Updated versions of the 1500 Claim Form Reference Instruction Manual will be released yearly on July 1.
+
+Any changes, clarifications, or errata will be listed on the NUCC website, at www.nucc.org under the
+1500 Claim Form tab, with the issue and effective date of the change.
+
+MAINTENANCE PROCESS
+   1. Requests for clarifications or changes to the 1500 Instruction Manual should be submitted by
+      completing the 1500 Claim Form Instructions Change Request Form (see Attachment 1 to
+      Appendix D). The request/form can then be emailed to the NUCC at: info@nucc.org.
+
+    2. The Data/1500 Subcommittee will review the requests for changes or clarifications to the 1500
+       Instruction Manual. The subcommittee’s review may include any of the following:
+            • coordinating the request with requirements outlined in the ASC X12 Health Care Claim:
+                Professional (837) Technical Report Type 3 adopted under HIPAA,
+            • gaining a wider understanding of the industry’s need related to the request,
+            • gathering additional data, when necessary, on the overall impact of the request, and/or
+            • balancing the needs of the requester versus the industry
+
+    3. The Data/1500 Subcommittee will develop a recommended response and, when appropriate,
+       any corresponding changes to the Instruction Manual.
+
+    4. The NUCC will review the request and recommendation made by the Data/1500 Subcommittee.
+
+    5. The NUCC will make the final decision in response to the request.
+
+    6. The requester will be notified of the NUCC’s final decision.
+
+    7. Final decisions may be appealed by the requester resubmitting the request along with additional
+       supporting information.
+
+    8. If changes and/or clarifications are made to the instructions as a result of the final decision, they
+       will be included on the NUCC’s website under the 1500 Claim Form tab with the listing of
+       changes, clarifications, and/or errata.
+
+    9. All changes, clarifications, and edits from the previous release will be incorporated into the
+       Instruction Manual for the yearly release on July 1.
+
+
+
+
+Version 1.1
+02/13                                                                                                     61
+    ATTACHMENT 1 TO APPENDIX D – 1500 CLAIM FORM INSTRUCTIONS
+    CHANGE REQUEST FORM
+
+
+
+
+Version 1.1
+02/13                                                           62
+Version 1.1
+02/13         63
+

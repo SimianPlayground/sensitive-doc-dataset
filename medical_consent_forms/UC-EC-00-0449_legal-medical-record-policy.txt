@@ -1,0 +1,823 @@
+Legal Medical Record Standards                                                       Policy No. 9420
+
+
+
+LEGAL MEDICAL RECORD STANDARDS
+
+PURPOSE
+To establish guidelines for the contents, maintenance, and confidentiality of patient Medical
+Records that meet the requirements set forth in federal and State laws and regulations, and to
+define the portion of an individual’s healthcare information, whether in paper or electronic
+format, that comprises the medical record.    Patient medical information is contained within
+multiple electronic records systems in combination with financial and other types of data. This
+policy defines requirements for those components of information that comprise a patient’s
+complete “Legal Medical Record.”
+
+DEFINITIONS
+Medical Record: The collection of information concerning a patient and his or her health care
+that is created and maintained in the regular course of UC__ business in accordance with UC__
+policies, made by a person who has knowledge of the acts, events, opinions or diagnoses relating
+to the patient, and made at or around the time indicated in the documentation.
+   ¾ The medical record may include records maintained in an electronic medical / record
+     system, e.g., an electronic system framework that integrates data from multiple sources,
+     captures data at the point of care, and supports caregiver decision making.
+   ¾ The medical record excludes health records that are not official business records of UC,
+     such as personal health records managed by the patient.
+Each Medical Record shall contain sufficient, accurate information to identify the patient, support
+the diagnosis, justify the treatment, document the course and results, and promote continuity of
+care among health care providers. The information may be from any source and in any format,
+including, but not limited to print medium, audio/visual recording, and/or electronic display.
+ The Medical Record may also be known as the “Legal Medical Record” or “LMR” in that it
+serves as the documentation of the healthcare services provided to a patient by a UC__ hospital,
+clinic, physician or provider and can be certified by the UC__ Record Custodian(s) as such. .
+The Legal Medical Record is a subset of the Designated Record Set and is the record that will be
+released for legal proceedings or in response to a request to release patient medical records. The
+Legal Medical Record can be certified as such in a court of law.
+Designated Record Set (“DRS”): A group of records that include protected health information
+(PHI) and that is maintained, collected, used or disseminated by, or for, a covered entity (e.g. the
+UC Medical Center) for each individual that receives care from a covered individual or
+institution. The DRS includes:
+    1. The medical records and billing records about individuals maintained by or for a covered
+         health care provider (can be in a business associate’s records);
+    2. The enrollment, payment, claims adjudication, and case or medical management record
+         systems maintained by or for a health plan; or
+    3. The information used, in part or in whole, to make decisions about individuals.
+
+Any research activities that create PHI should be maintained as a part of the DRS and are
+
+Policy Dated 05/01/2008                       1 of 19                                          UC__
+                                                        Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                       Policy No. 9420
+
+accessible to research participants unless there is a HIPAA Privacy Rule permitted exception.
+
+Protected Health Information (“PHI”): PHI is individually identifiable health information that
+is transmitted or maintained in any medium, including oral statements.
+
+Authentication: The process that ensures that users are who they say they are. The aim is to
+prevent unauthorized people from accessing data or using another person's identity to sign
+documents.
+Signature: A signature identifies the author or the responsible party who takes ownership of and
+attests to the information contained in a record entry or document.
+Clinic Record / Shadow File: A folder containing COPIES ONLY of information from the
+medical record used primarily by clinicians in their office or clinic setting. These COPIES of the
+relevant documents from the original medical record are NOT part of the legal medical record.
+Macros: Macros allow a provider to record and replay a series of typed characters or other
+keystrokes (e.g., hot keys, one or more keys at the same time, or one-word commands) in a
+manner that makes it possible for a physician or a provider to quickly document an entire medical
+note while avoiding the cost of transcription and/or the time of repetitive documentation.
+
+
+
+POLICY / PROCEDURES
+
+I.     Maintenance of the Medical Record
+
+       A.      A Medical Record shall be maintained for every individual who is evaluated or
+               treated as an inpatient, outpatient, or emergency patient of a UC__ hospital, clinic,
+               or physician’s office.
+
+       B.      Currently, the Medical Record is considered a hybrid record, consisting of both
+               electronic and paper documentation. Documentation that comprises the Medical
+               Record may physically exist in separate and multiple locations in both paper-based
+               and electronic formats. (See Appendix A).
+
+       C.      The medical record contents can be maintained in either paper (hardcopy) or
+               electronic formats, including digital images, and can include patient identifiable
+               source information, such as photographs, films, digital images, and fetal monitor
+               strips and/or a written or dictated summary or interpretation of findings.
+
+       D.      The current electronic components of the Medical Record consist of patient
+               information from multiple Electronic Health Record source systems. The intent of
+               UC__ is to integrate all electronic documents into a permanent electronic
+               repository.
+
+       E.      Original Medical Record documentation must be sent to the designated Medical
+               Records department or area. Whenever possible, the paper chart shall contain
+               original reports. Shadow files maintained by some clinics or care sites contain
+
+Policy Dated 05/01/2008                       2 of 19                                          UC__
+                                                        Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                      Policy No. 9420
+
+               copies of selected material, the originals of which are filed in the patient’s
+               permanent Medical Record.
+
+II.    Confidentiality
+       The Medical Record is confidential and is protected from unauthorized disclosure by law.
+       The circumstances under which UC__ may use and disclose confidential medical record
+       information is set forth in the Notice of Privacy Practices (see: Privacy Policy and
+       Procedure No. _____, “Notice of Privacy Practices”) and in other UC__ Privacy Policies
+       and Procedures.
+
+
+III.   Content
+
+       A.      Medical Record content shall meet all State and federal legal, regulatory and
+               accreditation requirements including but not limited to Title 22 California Code of
+               Regulations, sections 70749, 70527 and 71549, and the Medicare Conditions of
+               Participation 42 CFR Section 482.24. Appendix A contains a listing of required
+               Medical Record documentation content, and current electronic or paper format
+               status.
+
+       B.      Additionally, all hospital records and hospital-based clinic records must comply
+               with the applicable hospital’s Medical Staff Rules and Regulations requirements
+               for content and timely completion.
+
+       C.      All documentation and entries in the Medical Record, both paper and electronic,
+               must be identified with the patient’s full name and a unique UC__ Medical Record
+               number. Each page of a double-sided or multi-page forms must be marked with
+               both the patient’s full name and the unique Medical Record number, since single
+               pages may be photocopied, faxed or imaged and separated from the whole.
+
+       D.      All Medical Record entries should be made as soon as possible after the care is
+               provided, or an event or observation is made. An entry should never be made in
+               the Medical Record in advance of the service provided to the patient. Pre-dating or
+               backdating an entry is prohibited.
+
+IV.    Medical Record vs. Designated Record Set
+       A. Under the HIPAA Privacy Rule, an individual has the right to access and/or amend his
+          or her protected health (medical record) information that is contained in a “designated
+          record set.” The term “designated record set” is defined within the Privacy Rule to
+          include medical and billing records, and any other records used by the provider to
+          make decisions about an individual. In accordance with the HIPAA Privacy Rule,
+          UC__ has defined a “designated record set” to mean the group of records maintained
+          for each individual who receives healthcare services delivered by a healthcare
+          provider, which is comprised of the following elements:
+
+
+
+Policy Dated 05/01/2008                      3 of 19                                          UC__
+                                                       Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                     Policy No. 9420
+
+       1. The Medical Record whether in paper or electronic format, to include patient
+          identifiable source information such as photographs, films, digital images, and fetal
+          monitor strips when a written or dictated summary or interpretation of finding has not
+          been prepared;
+
+       2. Billing records including claim information; and
+
+       3. All physician or other provider notes, written or dictated, in which medical decision-
+          making is documented, and which are not otherwise included in the Legal Medical
+          Record (e.g., outside records, email when applicable for treatment).
+
+
+
+       B. The Medical Record generally excludes records from non-UC providers (i.e., health
+          information that was not documented during the normal course of business at a UC__
+          facility or by a UC__ provider). However, if information from another provider or
+          healthcare facility, or personal health record, is used in providing patient care or
+          making medical decisions, it may be considered part of the UC__ Designated Record
+          Set, and may be subject to disclosure on specific request or under subpoena.
+          Disclosures from medical records in response to subpoenas will be made in
+          accordance with applicable Campus policies.
+
+
+V.     Who May Document Entries in the Medical Record: Multidisciplinary Notes
+       Only the following types of UC__ employees and/or employees of UC__-contracted
+       clinical and social services providers may document entries in the Multidisciplinary Notes
+       section of the Medical Record:
+               1. Child Life Specialists
+               2. Clinical Social Workers
+               3. Dentists
+               4. Dietitians/Diet Technicians
+               5. Emergency Trauma Technicians
+               6. Fellows
+               7. Home Health Coordinators
+               8. Clinical Care Partners
+               9. Hyperbaric Technicians/Observers
+               10. Interns
+               11. Interpreters (Employees of UC__)
+               12. Lactation Specialists
+               13. Licensed Vocational Nurses
+               14. Medical Assistants
+               15. Medical Ethicists
+               16. Nurse Practitioners
+               17. Nurses employed by physicians (exceptions)
+               18. Occupational Therapists
+               19. Osteopathic Students
+               20. Pastoral Care Providers
+
+Policy Dated 05/01/2008                     4 of 19                                          UC__
+                                                      Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                         Policy No. 9420
+
+               21. Pharmacists
+               22. Physical Therapists
+               23. Physician Assistants
+               24. Physicians including MD’s and DO’s
+               25. Podiatrists
+               26. Psychologists
+               27. Registered Nurses
+               28. Mental Health Practitioners
+               29. Licensed Psychiatric Technicians
+               30. Midwives
+               31. Residents
+               32. Respiratory Therapists
+               33. School Teachers
+               34. Speech Pathologists
+               35. Students, e.g., MD, RN, Occupational Therapy, etc. (Notations in the record
+                   must be co-signed by a supervising clinician)
+               36. Students, e.g., MD, RN
+               37. Others as designated by Medical Center Policies and /or Medical Staff Bylaws
+
+VI.    Completion, Timeliness and Authentication of Medical Records
+       A.      All inpatient Medical Records must be completed within 14 days from the date of
+               discharge (California Code of Regulations, Title 22, section 70751). Additional
+               requirements may also be included in the applicable UC__ hospital Medical Staff
+               By-Laws and/or Rules and Regulations.
+       B.      All operative and procedure reports must be completed immediately after surgery.
+       C.      All Medical Record entries are to be dated, the time entered, and signed.
+       D.      Certain electronic methods of authenticating the Medical Record, including
+               methods such as passwords, access codes, or key cards may be allowed provided
+               certain requirements are met. The methodology for authenticating the document
+               electronically must comply with UC__ electronic signature standards (See Section
+               XII below: Authentication of Entries). The entries may be authenticated by a
+               signature stamp or computer key, in lieu of a medical staff member’s signature,
+               only when that medical staff member has placed a signed statement with the
+               Medical Center to the effect that the member is the only person who: 1) has
+               possession of the stamp or key (or sequence of keys); and 2) will use the stamp or
+               key (or sequence of keys).
+       E.      Fax signatures are acceptable.
+
+
+VII.   Routine Requests for Medical Records for Purposes of Treatment, Payment
+       and Healthcare Operations (“TPO”)
+       The Health Information Management Services staff will process routine requests for
+       Medical Records. All charts physically removed from the Medical Record storage areas
+       will be logged, e.g., using a computerized tracking system
+
+
+Policy Dated 05/01/2008                         5 of 19                                          UC__
+                                                          Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                       Policy No. 9420
+
+
+       Only authorized UC__ workforce members may access Medical Records in accordance
+       with Privacy Policy and Procedure No. ____, “Employee Access to Protected Health
+       Information (“PHI”).” UC__ Workforce members (as defined in Policy No. ____) who
+       access Medical Records for payment or healthcare operations are responsible to access
+       only the amount of information in medical records which is necessary to complete job
+       responsibilities.
+
+       A.      Access to Medical Records for Treatment Purposes.
+               Healthcare providers who are directly involved in the care of the patient may
+               access the full Medical Record in accordance with Policy No. ____.
+       B.      Payment Purposes.
+               Authorized and designated UC__ workforce members may access the patient’s
+               medical record for purposes of obtaining payment for services, including the
+               following uses:
+               1.     Coding and abstracting;
+               2.     Billing including claims preparation, claims adjudication and substantiation
+                      of services;
+               3.     Utilization Review; and
+
+               4.     Third Party Payor Reviews (including Quality Improvement Organization
+                      reviews).
+
+       C.      Healthcare Operations.
+               Patient medical records may be accessed for routine healthcare operation purposes,
+               including, but not limited to:
+              1.      Peer Review Committee activities;
+              2.      Quality Management reviews including outcome and safety reviews;
+              3.      Documentation reviews; and
+              4.      Teaching.
+
+       D.      Requests for Electronic Components of the Medical Record.
+               Personnel who access the electronic Medical Record are required to have a unique
+               User ID and password, and access to information is limited according to the
+               minimum necessary rule and managed by role, as approved by designated
+               management personnel.
+
+VIII. Ownership, Responsibility and Security of Medical Records
+
+       A.      All Medical Records of UC__ patients, regardless of whether they are created at,
+               or received by, UC__, and patient lists and billing information, are the property of
+               UC__ and The Regents of the University of California. The information contained
+
+Policy Dated 05/01/2008                       6 of 19                                          UC__
+                                                        Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                         Policy No. 9420
+
+               within the Medical Record must be accessible to the patient and thus made
+               available to the patient and/or his or her legal representative upon appropriate
+               request and authorization by the patient or his or her legal representative.
+       B.      Responsibility for the Medical Record. The UC__ Director of Medical Information
+               (Health Information Services) is designated as the person responsible for assuring
+               that there is a complete and accurate medical record for every patient. The medical
+               staff and other health care professionals are responsible for the documentation in
+               the medical record within required and appropriate time frames to support patient
+               care.
+       C.      Original records may not be removed from UC__ facilities and/or offices
+               except by court order, subpoena, or as otherwise required by law.               If an
+               employed physician or provider separates from or is terminated by the University
+               for any reason, he or she may not remove any original Medical Records, patient
+               lists, and/or billing information from UC__ facilities and/or offices. For continuity
+               of care purposes, and in accordance with applicable laws and regulations, patients
+               may request a copy of their records be forwarded to another provider upon written
+               request to UC__.
+       D.      Medical records shall be maintained in a safe and secure area. Safeguards to
+               prevent loss, destruction and tampering will be maintained as appropriate. Records
+               will be released from Health Information Management Services only in accordance
+               with the provisions of this policy and other UC__ Privacy Policies and Procedures.
+       E.      Special care must be exercised with Medical Records protected by the State and
+               federal laws covering mental health records, alcohol and substance abuse records,
+               reporting forms for suspected elder/dependent adult abuse, child abuse reporting,
+               and HIV-antibody testing and AIDS research. (Refer to Policy No. _____.
+               “Authorization for Use/Disclosure of PHI”.)
+       F.      Chronology is essential and close attention shall be given to assure that documents
+               are filed properly, and that information is entered in the correct encounter record
+               for the correct patient, including appropriate scanning and indexing of imaged
+               documents.
+IX.     Retention and Destruction of Medical Records
+
+        All Medical Records are retained for at least as long as required by State and federal law
+        and regulations, and UC__ policies and procedures (see: “Records Retention” and No.
+        ____, “Records Storage and Destruction”). The electronic version of the record must be
+        maintained per the legal retention requirements as specified in Policy No. _____ (UC
+        Campus) “Record Retention” or consult with Campus Legal Counsel.
+        A.      In the event that an original Medical Record cannot be located, a temporary
+                medical record folder will be created as follows:
+                1.        All identified original documentation held for filing in the original record
+                          will be included in the temporary folder;
+
+
+
+
+Policy Dated 05/01/2008                         7 of 19                                          UC__
+                                                          Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                      Policy No. 9420
+
+               2.     A notation will be made in the record by the Medical Records Department
+                      Supervisor or Manager that the record is a temporary chart being used
+                      until the original can be located;
+               3.     As needed, online documents will be printed and filed into the temporary
+                      folder;
+               4.     The temporary folder will be tracked in the computerized chart tracking
+                      system by means of a special volume number to distinguish it from the
+                      original and to indicate that it is a temporary chart;
+               5.     Upon location of the original record, all material from both the original
+                      and temporary folder will be incorporated into the original folder, and the
+                      temporary folder will be removed from the computerized tracking system.
+
+
+X.     Maintenance and Legibility of Record
+       All Medical Records, regardless of form or format, must be maintained in their entirety,
+       and no document or entry may be deleted from the record, except in accordance with the
+       destruction policy (refer to section IX).
+       Handwritten entries should be made with permanent black or blue ink, with medium
+       point pens. This is to ensure the quality of electronic scanning, photocopying and faxing
+       of the document. All entries in the medical record must be legible to individuals other
+       than the author.
+
+
+XI.    Corrections and Amendments to Records
+       When an error is made in a medical record entry, the original entry must not be
+       obliterated, and the inaccurate information should still be accessible.
+       The correction must indicate the reason for the correction, and the correction entry must
+       be dated and signed by the person making the revision. Examples of reasons for incorrect
+       entries may include “wrong patient,” etc. The contents of Medical Records must not
+       otherwise be edited, altered, or removed. Patients may request a medical record
+       amendment and/or a medical record addendum. (Refer to UC__ policy for handling
+       patient requests for record amendment and record addendums.)
+       A.     Documents created in a paper format:
+               1.     Do not place labels over the entries for correction of information.
+               2.     If information in a paper record must be corrected or revised, draw a line
+                      through the incorrect entry and annotate the record with the date and the
+                      reason for the revision noted, and signature of the person making the
+                      revision.
+               3.     If the document was originally created in a paper format, and then scanned
+                      electronically, the electronic version must be corrected by printing the
+                      documentation, correcting as above in (2), and rescanning the document.
+
+
+
+Policy Dated 05/01/2008                      8 of 19                                          UC__
+                                                       Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                       Policy No. 9420
+
+       B.      Documents that are created electronically must be corrected by one of the
+               following mechanisms:
+               1. Adding an addendum to the electronic document indicating the corrected
+                  information, the identity of the individual who created the addendum, the date
+                  created, and the electronic signature of the individual making the addendum.
+               2. Preliminary versions of transcribed documents may be edited by the author
+                  prior to signing. A transcription analyst may also make changes when a non-
+                  clinical error is discovered prior to signing (i.e., wrong work type, wrong date,
+                  wrong attending assigned). If the preliminary document is visible to providers
+                  other than the author, then this document needs to be part of the legal health
+                  record.
+               3. Once a transcribed document is final, it can only be corrected in the form of
+                  an addendum affixed to the final copy as indicated above. Examples of
+                  documentation errors that are corrected by addendum include: wrong date,
+                  location, duplicate documents, incomplete documents, or other errors. The
+                  amended version must be reviewed and signed by the provider.
+               4. Sometimes it may be necessary to re-create a document (e.g., wrong work
+                  type) or to move a document, for example, if it was originally posted
+                  incorrectly or indexed to the incorrect patient record.
+       C.    When a pertinent entry was missed or not written in a timely manner, the author
+              must meet the following requirements:
+
+               1.     Identify the new entry as a “late entry”
+               2.     Enter the current date and time – do not attempt to give the appearance
+                      that the entry was made on a previous date or an earlier time. The entry
+                      must be signed.
+               3.     Identify or refer to the date and circumstance for which the late entry or
+                      addendum is written.
+               4.     When making a late entry, document as soon as possible. There is no time
+                      limit for writing a late entry; however, the longer the time lapse, the less
+                      reliable the entry becomes.
+       D.      An addendum is another type of late entry that is used to provide additional
+               information in conjunction with a previous entry.
+               1.     Document the date and time on which the addendum was made.
+               2.     Write “addendum” and state the reason for creating the addendum,
+                      referring back to the original entry.
+               3.     When writing an addendum, complete it as soon as possible after the
+                      original note.
+       E.      Errors in Scanning Documents
+               If a document is scanned with wrong encounter date or to the wrong patient, the
+               following must be done:
+
+Policy Dated 05/01/2008                       9 of 19                                          UC__
+                                                        Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                       Policy No. 9420
+
+               1.     Reprint the scanned document.
+               2.     Rescan the document to the correct date or patient, and void the
+                      incorrectly scanned document in the permanent document repository.
+       F.      Electronic Documentation – Direct Online Data Entry
+               Note: The following are guidelines for making corrections to direct entry of
+               clinical documentation, and mechanisms may vary from one system to another.
+               1.     In general, correcting an error in an electronic/computerized medical
+                      record should follow the same basic principles as corrections to the paper
+                      record.
+               2.     The system must have the ability to track corrections or changes to any
+                      documentation once it has been entered or authenticated.
+               3.     When correcting or making a change to a signed entry, the original entry
+                      must be viewable, the current date and time entered, and the person
+                      making the change identified.
+       G.      Copy and Paste Guidelines
+               The “copy and paste” functionality available for records maintained electronically
+               eliminates duplication of effort and saves time, but must be used carefully to
+               ensure accurate documentation and must be kept to a minimum.
+               1.     Copying from another clinician’s entry: If a clinician copies all or part of
+                      an entry made by another clinician, the clinician making the entry is
+                      responsible for assuring the accuracy of the copied information.
+               2.     Copying test results/data: If a clinician copies and pastes test results into
+                      an encounter note, the clinical-provider is responsible for ensuring the
+                      copied data is relevant and accurate.
+               3.     Copying for re-use of data: A clinician may copy and past entries made in
+                      a patient’s record during a previous encounter into a current record as long
+                      as care is taken to ensure that the information actually applies to the
+                      current visit, that applicable changes are made to variable data, and that
+                      any new information is recorded.
+
+
+XII.   Authentication of Entries
+       A.      Electronic signatures must meet standards for:
+               1.     Data integrity to protect data from accidental or unauthorized change (for
+                      example “locking” of the entry so that once signed no further untracked
+                      changes can be made to the entry);
+               2.     Authentication to validate the correctness of the information and confirm
+                      the identity of the signer (for example requiring signer to authenticate with
+                      password or other mechanism);
+               3.     Non-repudiation to prevent the signer from denying that he or she signed
+                      the document (for example, public/private key architecture).
+
+Policy Dated 05/01/2008                      10 of 19                                          UC__
+                                                        Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                        Policy No. 9420
+
+               At a minimum, the electronic signature must include the full name and either the
+               credentials of the author or a unique identifier, and the date and time signed.*
+        B.     Electronic signatures must be affixed only by that individual whose name is being
+               affixed to the document and no other individual.
+        C.     Countersignatures or dual signatures must meet the same requirements, and are
+               used as required by State law and Medical Staff Rules and Regulations.
+        D.     Initials may be used to authenticate entries on flow sheets or medication records,
+               and the document must include a key to identify the individuals whose initials
+               appear on the document.
+        E.     Rubber stamp signatures: Refer to Section VI (D).
+        F.     Documents with multiple sections or completed by multiple individuals should
+               include a signature area on the document for all applicable staff to sign and date.
+               Staffs who have completed sections of a form should either indicate the sections
+               they completed at the signature line or initial the sections they completed.
+        G.     No individual shall share electronic signature keys with any other individual.
+        H.     Macros & Checklists. Pre-printed forms, checklists, patient questionnaires, and
+               word-processing macros can be used to supplement written or dictated notes.
+               When using an electronic medical record, it is acceptable for the teaching
+               physician to use a macro as the required personal documentation, if the teaching
+               physician adds it personally in a secured (password protected) system. In addition
+               to the teaching physician’s macro, either the resident or the teaching physician
+               must provide customized, patient specific information that is sufficient to support
+               a medical necessity determination. The note in the record must sufficiently
+               describe the specific services furnished to the specific patient on the specific date.
+               It is insufficient documentation if both the resident and the teaching physician use
+               macros which do not contain patient specific information. Medical record macros
+               and checklists may be used to supplement provider written or dictated notes.
+
+
+XIII.   Designation of Secondary Patient Information
+        The following three categories of data contain secondary patient information and must be
+        afforded the same level of confidentiality as the LMR, but are not considered part of the
+        legal medical record.
+        A.     Patient-identifiable source data are data from which interpretations, summaries,
+               notes, etc. are derived. They often are maintained at the department level in a
+               separate location or database, and are retrievable only upon request. Examples:
+               1.     Photographs for identification purposes
+               2.     Audio recordings of dictation notes or patient phone calls.
+               3.     Video recordings of an office visit, if taken for other than patient care
+                      purposes
+* Acknowledge that there may be older systems that do not have this capability. Future plans for
+all system to meet this minimum requirement.
+
+Policy Dated 05/01/2008                       11 of 19                                          UC__
+                                                         Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                        Policy No. 9420
+
+               4.     Video recordings/pictures of a procedure, if taken for other than patient
+                      care purposes
+
+
+               5.     Video recordings of a telemedicine consultation
+               6.     Communication tools (i.e., Kardex, patient lists, work lists, administrative
+                      in-baskets messaging, sign out reports, FYI, drafts of notes, or summary
+                      reports prepared by clinicians, etc.)
+               7.     Protocols/clinical pathways, best practice alerts, and other knowledge
+                      sources.
+               8.     A Patient’s personal health record provided by the patient to his or her
+                      care provider.
+               9.     Alerts, reminders, pop-ups and similar tools used as aides in the clinical
+                      decision making process. The tools themselves are not considered part of
+                      the legal medical record. However, the associated documentation of
+                      subsequent actions taken by the provider, including the condition acted
+                      upon and the associated notes detailing the exam, are considered as
+                      component of the legal medical record. Similarly, any annotations, notes
+                      and results created by the provider as a result of the alert, reminder or pop-
+                      up are also considered part of the legal medical record.
+               Some source data are not maintained once the data has been converted to text.
+               Certain communication tools are part of workflow and are not maintained after
+               patient's discharge.
+       B.      Administrative Data is patient-identifiable data used for administrative,
+               regulatory, healthcare operations and payment purposes. Examples include but are
+               not limited to:
+               1.     Authorization forms for release of information
+               2.     Correspondence concerning requests for records.
+               3.     Birth and death certificates.
+               4.     Event history/audit trails.
+               5.     Patient-identifiable abstracts in coding system.
+               6.     Patient identifiable data reviewed for quality assurance or utilization
+                      management.
+               7.     Administrative reports.
+       C.      Derived Data consists of information aggregated or summarized from patient
+               records so that there are no means to identify patients. Examples:
+               1.     Accreditation reports
+               2.     Best practice guidelines created from aggregate patient data.
+               3.     ORYX reports, public health records and statistical reports.
+
+
+Policy Dated 05/01/2008                       12 of 19                                          UC__
+                                                         Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                         Policy No. 9420
+
+        D.    Draft Documents / Work in Progress. Electronic processes and workflow
+
+
+management require methods to manage work in progress. These work-in-progress documents
+often are available in the system as “draft documents, viewable to a limited number of users.
+They generally are not viewable to clinicians until the document is sent for final signature. Draft
+documents are not considered an official medical record document until it has been signed by an
+authorized signer.
+
+
+XIV. ENFORCEMENT, CORRECTIVE & DISCIPLINARY ACTIONS
+   Compliance with the above policy is monitored by UC__ Department of ________.
+   Violations of any of the above policy will be reported to the appropriate supervising authority
+   for potential disciplinary action, up to and including termination and/or restriction of
+   privileges in accordance with UC__ Medical Staff ByLaws, and Human Resource /
+   Personnel Policies.
+
+
+RELATED POLICIES
+   -   Each UC may insert a list of related policies and forms or include the list as a separate
+       Appendix,
+   -   Authorization for Release of Information; and Access to the medical record
+   -   Patient Requests for Record Amendment and Record Addendums
+   -   Auditing of access to medical records
+   -   “Notice of Privacy Practices”; and in other UC__ Privacy Policies and Procedures.
+   -   “Authorization for Use/Disclosure of PHI”
+   -   Employee Access to Protected Health Information (“PHI”)
+   -   “Records Retention”
+   -   “Records Storage and Destruction
+   -   Verbal / Telephone Orders
+
+
+APPROVAL
+
+
+
+REVISION HISTORY
+
+
+
+REFERENCES
+
+
+Policy Dated 05/01/2008                        13 of 19                                          UC__
+                                                          Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                    Policy No. 9420
+
+Health Insurance Portability and Accountability Act (HIPAA) Privacy & Security Rule, 45 CFR
+160-164
+California Medical Information Act, California Civil Code Section 56 et seq.
+Medicare Conditions of Participation, 42 CFR Section 482.24
+Title 22 California Code of Regulations, Sections 70749, 70527, and 71549
+Business Records Exception, Federal Evidence 803(6)
+California Code of Regulations, Title 22, Section 70751
+California Healthcare Association Manual – Authentication sections
+
+
+
+
+Policy Dated 05/01/2008                   14 of 19                                          UC__
+                                                     Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                       Policy No. 9420
+
+
+
+
+                                             Appendix A
+                          Documentation Contents of the Medical Record
+
+
+The medical record shall include, at a minimum, the following items (if applicable):
+
+A.     Identification information, which include but are not limited to the following:
+
+       1)      Name.
+       2)      Address on admission.
+       3)      Identification number (if applicable).
+                        1. Medicare.
+                        2. Medi-Cal.
+                        3. Hospital Number
+                        4. Social Security Number.
+       4)      Age.
+       5)      Sex.
+       6)      Marital status.
+       7)      Legal status.
+       8)      Mother’s Maiden name
+                        (i)    Patient’s Mother’s maiden name
+                        (ii)   Place of Birth
+       9)      Legal Authorization for admission (if applicable).
+       10)     School Grade, if applicable
+       11)     Religious Preference.
+       12)     Date and time of admission (or arrival for outpatients).
+       13)     Date of time discharge (departure for outpatients).
+       14)     Name, address and telephone number of person or agency responsible for patient.
+       15)     Name of patient's admitting/attending physician.
+       16)     Initial diagnostic impression.
+       17)     Discharge or final diagnosis and disposition.
+       18)     Allergy records.
+       19)     Advance Directives (if applicable).
+       20)     Medical History including, as appropriate: immunization record, screening tests,
+               allergy record, nutritional evaluation, psychiatric, surgical and past medical
+               history, social and family history, and for pediatric patients a neonatal history.
+       21)     Physical examination.
+       22)     Consultation reports.
+       23)     Orders including those for medication, treatment, prescriptions, diet orders, lab,
+               radiology and other ancillary services.
+       24)     Progress notes including current or working diagnosis (excluding psychotherapy
+               notes).
+       25)     Nurses' notes, which shall include, but not be limited to, the following:
+               i.       Nursing assessment including nutritional, psychosocial and functional
+                        assessments.
+
+Policy Dated 05/01/2008                      15 of 19                                          UC__
+                                                        Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                           Policy No. 9420
+
+               ii.     Concise and accurate record of nursing care administered.
+               iii.    Record of pertinent observations including psychosocial and physical
+                       manifestations and relevant nursing interpretation of such observations.
+               iv.     Name, dosage and time of administration of medications and treatment.
+                       Route of administration and site of injection shall be recorded if other than
+                       by oral administration.
+               v.      Record of type of restraint and time of application and removal.
+               vi.     Record of seclusion and time of application and removal. (NPH)
+
+       25)     Graphic and vital sign sheet.
+       26)     Results of all laboratory tests performed.
+       27)     Results of all X-ray examinations performed.
+       28)     Consent forms for care, treatment and research, when applicable.
+       29)     Problem List (outpatient records only).
+       30)     Emergency Department record.
+       31)     Anesthesia record including preoperative diagnosis, if anesthesia has been
+               administered.
+       32)     Operative and procedures report including preoperative and postoperative
+               diagnosis, description of findings, technique used, and tissue removed or altered,
+               if surgery was performed.
+       33)     Pathology report, if tissue or body fluid was removed.
+       34)     Written record of preoperative and postoperative instructions.
+       35)     Labor record, if applicable.
+       36)     Delivery record, if applicable.
+       37)     Physical, Occupational and/or respiratory therapy assessments and treatment
+               records, when applicable.
+       38)     Patient/Family Education Plan (NPH Only)
+       39)     Clinical Data set from other providers.
+       40)     Master Data Sets (as applicable to record type) including but not limited to :
+               MDS (Skilled Nursing), OASIS (Home Health), IRF and PAI (Rehabilitation).
+       41)     Patient Photographs when used for identification or treatment.
+       42)     Master Treatment Plan and Reassessment (NPH only).
+       43)     Discharge Instructions
+       44)     A discharge summary which shall briefly recapitulate the significant findings and
+               events of the patient's hospitalization, final diagnoses, his/her condition on
+               discharge and the recommendations and arrangements for future care. If
+               applicable it shall include diet and self-care instructions.
+       45)     Copies of letters to patients.
+
+
+Policy Dated 05/01/2008                          16 of 19                                          UC__
+                                                            Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                        Policy No. 9420
+
+       46)     Email communications between the patients and the provider regarding the care
+               and treatment of the patient.
+       47)     Telephone Encounters. Documentation is required for telephone encounters with
+               patients and/or their caregivers, or other care providers that:
+                      1.      Provide new or renewal of prescription for medications
+                      2.      Alter the current plan of care, including treatments and
+                              medications
+                      3.      Identify a new system or problem and provide a plan of care
+                      4.      Provide home care advice for symptom/problem management
+                      5.      Provide authorization for care
+                      6.      Provides or reinforces patient education
+               Documentation should include the date and time of call, name of caller and
+               relationship to patient (if different from patient), date and time of the response (or
+               attempts to return call), the response given, and the signature and professional title
+               of provider or clinic staff handling the call.
+       48)     Primary Language
+
+
+
+
+Policy Dated 05/01/2008                       17 of 19                                          UC__
+                                                         Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                    Policy No. 9420
+
+
+                                           Appendix B
+                                 Medical Records Forms Standards
+
+
+
+                                           Appendix C
+                                     Abbreviations & Symbols
+
+
+
+
+Policy Dated 05/01/2008                   18 of 19                                          UC__
+                                                     Corporate Compliance Policies and Procedures
+Legal Medical Record Standards                                                      Policy No. 9420
+
+                                            Table of Contents
+Section #                        Section Heading                            Page(s)       Related
+                                                                                          Policies
+            Purpose
+            Definitions
+    I       Maintenance of the Medical Record
+    II      Confidentiality
+   III      Content
+   IV       Medical Record vs. Designated Record Set
+    V       Who May Document in the Multidisciplinary Notes
+   VI       Completion, Timeliness and Authentication of Medical
+            Records
+   VII      Routine Requests for Medical Records – For Purposes
+            of Treatment, Payment & Health Care Operations
+  VIII      Ownership, Responsibility and Security of Medical
+            Records
+   IV       Retention and Destruction of Medical Records
+    X       Permanency and Legibility of Record
+   XI       Corrections and Amendments to Records
+   XII      Authentication of Entries
+  XIII      Designation of Secondary Patient Information
+  XIV       Enforcement, Corrective & Disciplinary Actions
+            Approval
+            Revision History
+            References
+Appendix Documentation Contents of the Medical Record
+   A
+Appendix Medical Records Forms Standards
+   B
+Appendix Medical Record: Acceptable Abbreviations & Symbols
+    C
+Appendix Related Policies <optional place to list the related
+   D     policies & forms>
+
+
+
+
+Policy Dated 05/01/2008                     19 of 19                                          UC__
+                                                       Corporate Compliance Policies and Procedures
+

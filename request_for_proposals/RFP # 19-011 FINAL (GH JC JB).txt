@@ -1,0 +1,894 @@
+                       REQUEST FOR PROPOSALS
+                                   RFP # 19-011
+       HOUSING AUTHORITY MANAGEMENT SOFTWARE
+
+
+
+
+      HOUSING AUTHORITY OF THE CITY OF SANTA ANA
+             Community Development Agency
+                  20 Civic Center Plaza
+                  Santa Ana, CA 92701
+
+                                    Judson Brown
+                               Housing Division Manager
+                                 (714) 667-2241 Office
+                                  (714) 667-2225 Fax
+                                jbrown@santa-ana.org
+
+
+
+
+                                      KEY RFP DATES
+
+Issue Date:                           Friday,            February 1, 2019
+Deadline to Submit Questions:         Friday,            February 15, 2019   at 5:00 P.M.
+Response Posted on City Website:      Friday,            February 22, 2019   at 5:00 P.M.
+Proposal Due Date:                    Thursday,          February 28, 2019   at 3:00 P.M.
+
+
+
+                         Housing Authority of the City of Santa Ana
+                   Request for Proposals for Housing Management Software
+                                            Page 1
+                                      NOTICE INVITING PROPOSALS
+
+NOTICE IS HEREBY GIVEN that proposals will be received from qualified firms to provide Housing Authority
+Management Software for the Housing Authority of the City of Santa Ana (CA093). Responses to this
+Request for Proposals (RFP) will be accepted until Thursday, February 28, 2019 at 3:00 P.M. If further
+information is required, please contact Judson Brown, Housing Division Manager, at (714) 667-2241 or
+jbrown@santa-ana.org.
+
+MAILED, DELIVERED BY HAND or COURIERED proposals will be accepted as follows:
+
+Housing Authority of the City of Santa Ana
+Community Development Agency (6th Floor)
+Attention: Judson Brown, Housing Division Manager
+20 Civic Center Plaza, M-26
+Santa Ana, CA 92701
+
+It is the responsibility of the proposer to see that any proposals submitted shall have sufficient time to be
+received by the Housing Authority of the City of Santa Ana prior to the proposal due date and time. Questions
+regarding this Request for Proposals shall be made in writing via e-mail to Judson Brown at Jbrown@santa-
+ana.org.
+
+
+The receiving time at the Front Desk of the City of Santa Ana, Community Development Agency, 6th
+Floor, 20 Civic Center Plaza, Santa Ana CA 92701 will be the governing time for the receipt of
+proposals. Late Proposals will NOT be considered and will be returned to the proposer unopened.
+
+TELEGRAPHIC, ELECTRONIC AND FACSIMILE PROPOSALS WILL NOT BE ACCEPTED
+
+ONLY SEALED RFP RESPONSES ARE ACCEPTABLE
+
+DO NOT E-MAIL RFP RESPONSES
+
+DO NOT FAX RFP RESPONSES
+
+
+
+
+                                  Housing Authority of the City of Santa Ana
+                            Request for Proposals for Housing Management Software
+                                                     Page 2
+                   HOUSING AUTHORITY OF THE CITY OF SANTA ANA
+    REQUEST FOR PROPOSALS (RFP) FOR HOUSING AUTHORITY MANAGEMENT SOFTWARE
+
+                                                                                 PAGE
+   I. INTRODUCTION                                                                 4
+   II. PERIOD OF CONTRACT                                                         4
+  III. SCOPE OF WORK / SERVICES                                                   4
+  IV. GENERAL INFORMATION                                                         5
+  V. CONTRACTOR RESPONSIBILITIES                                                  5
+  VI. INSURANCE REQUIREMENTS AND CITY BUSINESS LICENSE                            5
+ VII. RULES FOR PROPOSALS                                                         6
+ VIII. E-MAIL COMMUNICATIONS AND INTERPRETATIONS /                                6
+        CLARIFICATIONS
+  IX. ADDENDA                                                                     6
+  X. SUBMITTAL INFORMATION AND DEADLINE                                           7
+  XI. MINIMUM QUALIFICATIONS                                                      7
+ XII. SUBMITTAL REQUIREMENTS                                                      7
+ XIII. CONTRACTOR SELECTION – PROPOSALS AND EVALUATION                            8
+ XIV.   PUBLIC RECORDS                                                            9
+ XV.    FILING A PROTEST                                                          9
+EXHIBIT A   SCOPE OF SERVICES                                                     11
+EXHIBIT B   PROPOSERS STATEMENT AND FEE SCHEDULE                                  14
+EXHIBIT C   ADDITIONAL INSURED ENDORSEMENT FOR COMMERCIAL                         15
+            GENERAL LIABILITY AND BUSINESS AUTOMOBILE POLICIES
+EXHIBIT D   REFERENCES AND RELEVANT WORK HISTORY                                  16
+EXHIBIT E   PROPOSAL AND CONTRACT AGREEMENT – PROPOSERS                           18
+            STATEMENT
+EXHIBIT F   PROPOSAL AND CONTRACT AGREEMENT – CERTIFICATION                       19
+            OF NONDISCRIMINATION BY CONTRACTOR
+EXHIBIT G   NON-COLLUSION AFFIDAVIT                                               21
+
+
+
+                               Housing Authority of the City of Santa Ana
+                         Request for Proposals for Housing Management Software
+                                                  Page 3
+                        HOUSING AUTHORITY OF THE CITY OF SANTA ANA
+         REQUEST FOR PROPOSALS (RFP) FOR HOUSING AUTHORITY MANAGEMENT SOFTWARE
+
+ I.    INTRODUCTION
+
+       The Housing Authority of the City of Santa Ana (CA093) is issuing this Request for Proposals (RFP) for
+       Housing Authority Management Software from professional public housing authority housing software
+       providers to provide housing management software services. The scope of work may include any and all
+       work efforts related to the housing software per EXHIBIT A – SCOPE OF SERVICES.
+
+ II.   PERIOD OF CONTRACT
+
+       Unless earlier terminated as allowed for in the Agreement, agreement term shall be for a period of three (3)
+       years. The agreement term is anticipated to commence after City Council / Housing Authority award of this
+       agreement and upon receipt and approval of all required insurance documents.
+
+III.   SCOPE OF WORK / SERVICES
+
+       The scope of work may include any and all work efforts related to the Housing Management Software per
+       EXHIBIT A – SCOPE OF SERVICES
+
+       The Contractor shall be capable of providing experienced, knowledgeable and professional staff. The
+       Contractor shall be responsive and maintain excellent working relationships with city residents, businesses,
+       government officials and City staff. The Contractor shall provide adequate staffing levels at all times and
+       adhere to established schedules. The Contractor shall be knowledgeable of and comply with federal, state
+       and local regulations, including but not limited to:
+
+                 The Contractor must be thoroughly familiar with the application areas specified and have an
+                  installed base of customers currently using the proposed products.
+                 The Contractor shall have the staff, technical and financial resources to reliably install and
+                  support the proposed system.
+                 The Contractor shall thoroughly document its experience in the Housing Choice Voucher
+                  Program and financial software, as well as, the qualifications of staff who will be assigned to this
+                  project and its financial resources.
+
+
+
+
+                                      Housing Authority of the City of Santa Ana
+                                Request for Proposals for Housing Management Software
+                                                         Page 4
+IV.   GENERAL INFORMATION
+
+        A. The term of the contract will begin after the contract is awarded by the City Council / Housing
+           Authority.
+        B. When determined appropriate, the Housing Authority will provide information in its possession
+           relevant to preparation of required information in the RFP. The Housing Authority will provide only the
+           staff assistance and documentation specifically referred to herein.
+        C. The Contractor shall be responsible for retaining data, records and documentation for the preparation
+           of the required information. These materials shall be made available to the Housing Authority as
+           requested by the Housing Authority.
+        D. This RFP does not commit the Housing Authority to pay costs incurred in preparation of a response
+           to this RFP. All costs incurred in the preparation of the proposal, the submission of additional
+           information and/or any aspect of a proposal prior to the award of a written contract will be borne by
+           the respondent. The Housing Authority reserves the right to accept or reject the combined or separate
+           components of a proposal in part of in its entirety or to waive any informality or technical defect in a
+           proposal.
+        E. All data, documents and other products used, developed or produced during response preparation of
+           the RFP will become property of the Housing Authority. All responses to the RFP shall become
+           property of the Housing Authority. Proposer information identified as proprietary information shall be
+           maintained confidential, to the extent allowed under the California Public Records Act.
+        F. The Housing Authority reserves the right to reject, replace and approve any and all subcontractors.
+           All subcontractor(s) shall be identified in the response to the RFP and the Housing Authority reserves
+           the right to reject any subcontractor(s). Subcontractor(s) shall be responsibility of the prime Contractor
+           and the Housing Authority shall assume no liability of such subcontractor(s).
+
+V.    CONTRACTOR RESPONSIBILITIES
+
+        The selected Contractor will assume responsibilities for all services in its proposal. The selected
+        Contractor shall identify a sole point of contact for contractual matters, including payment of any and all
+        charges resulting from the Agreement.
+
+VI.   INSURANCE REQUIREMENTS AND CITY BUSINESS LICENSE
+
+        CGL (Commercial General Liability) – CGL insurance is required when the Contractor will be
+        performing services on City property or receiving City grant funds. A $1,000,000.00 per occurrence with
+        $2,000,000.00 in the aggregate policy is required. The certificate of insurance must provide 30 day notice
+        of cancellation or material reduction in policy limits. Additionally, the City of Santa Ana, the Housing
+        Authority of the City of Santa Ana, its officers, agents, volunteers and employees shall be named as an
+        additional insured via an additional insured endorsement. The additional insured endorsement, attached
+        as Exhibit C, shall provide that the Contractor’s insurance is primary to any insurance or self-insurance
+        carried by the City as well as a separation of insured’s clause.
+
+
+
+
+                                    Housing Authority of the City of Santa Ana
+                              Request for Proposals for Housing Management Software
+                                                       Page 5
+          Automobile - Automobile insurance is required when the Contractor will be driving from one City site
+          to another City site in a non-City vehicle. A $1,000,000.00 per occurrence policy for owned, hired and
+          non-owned automobiles is required.
+
+          Worker’s Compensation – In accordance with the provisions of Section 3300 of the California Labor
+          Code, any Contractor with employees must maintain employer’s liability insurance with limits not less
+          than $1,000,000.00 per accident. Worker’s Compensation is not required for sole proprietors or a
+          partnership with no employees. However, these Consultants must complete a “Worker’s Compensation
+          Declaration.” This form may be obtained from City staff.
+
+          Professional Liability – Professional liability insurance is required for state licensed professionals, such
+          as, engineers, architects, CPAs, attorneys and medical professionals. A $1,000,000.00 policy is required.
+
+          City Business License - The selected proposer shall be required to obtain a City of Santa Ana Business
+          license within thirty (30) days of selection and must provide a copy to the City project manager or
+          designee prior to commencing any work in Santa Ana.
+
+VII.    RULES FOR PROPOSALS
+
+          The signer of the RFP must declare in writing that the only person, persons, company or parties interested
+          in the proposal as principals are named therein; that the proposal is made without collusion with any other
+          person, persons, company or parties submitting a proposal; that it is in all respects fair and in good faith
+          without collusion or fraud; and, that the signer of the proposal has full authority to bind the proposer
+          (EXHIBIT H).
+
+VIII.   E-MAIL COMMUNICATIONS AND INTERPRETATIONS / CLARIFICATIONS
+
+          To facilitate the RFP process, proposers are required to monitor and respond to e-mail requests within
+          48 hours. The Housing Authority will make no oral interpretations to any proposer as to the meaning of
+          requirements identified herein including the Scope of Services. Every request for such an interpretation
+          must be made in writing via e-mail to Judson Brown, Housing Division Manager, no later than Friday,
+          February 22nd, 2019 at 5:00 p.m. Significant interpretations or clarification will be made by an
+          addendum to this RFP, which will be posted to the website. Addenda may become part of the
+          agreement documents.
+
+ IX.    ADDENDA
+
+          If clarification or interpretation of this RFP is considered necessary by the Housing Authority, a written
+          addendum shall be issued and the information will be posted on the City’s website at http://www.santa-
+          ana.org/bids-rfps/. It is the responsibility of each proposer to periodically check the City’s website to
+          ensure that they have received and reviewed any and all addenda to this RFP.
+
+
+
+
+                                      Housing Authority of the City of Santa Ana
+                                Request for Proposals for Housing Management Software
+                                                         Page 6
+ X.      SUBMITTAL INFORMATION AND DEADLINE
+
+             Proposals are due to the Housing Authority of the City of Santa Ana, at the date, time and location set
+             forth on the Notice Inviting Proposals. Faxed and E-mailed proposals will not be accepted.
+
+XI.      MINIMUM QUALIFICATIONS
+
+             The following are the minimum qualifications to be considered as an eligible candidate to submit
+             proposals for the requested services described in this RFP. The Contractor must have previous
+             experience in performing services similar to those requested in the Scope of Work. Contractor is
+             encouraged to submit relevant and concise information regarding their experience and qualifications to
+             perform the requested services.
+
+
+XII.     SUBMITTAL REQUIREMENTS
+
+             The RFP is intended to assess and evaluate each firm’s capabilities as they apply to the proposed
+             services. Each firm must address each of the following items in its response to the RFP:
+
+      1) Statement of Qualifications – In order to maintain uniformity, the Statement of Qualifications must be limited
+         to a MAXIMUM OF 25 PAGES (excluding front and back covers). The page limitation includes all
+         appendices, attachments and supplemental information. The following information is required:
+         1. Cover Letter: A letter signed by a principal or authorized representative who can make legally binding
+            commitments for the entity.
+         2. Organizational Background: A brief description of the contractor’s firm, including the year the firm was
+            established, type of organization (partnership, corporation, etc.), and a statement of the firm’s
+            qualifications for performing the subject services.
+         3. Scope of Services: Include a detailed description of the components of housing management software
+            proposed and the services to be provided to meet the requirements of Exhibit A. Identify any resources
+            expected to be provided by the Housing Authority, including their roles and responsibilities. Provide a
+            detailed project plan that includes activities, deliverables and a responsibility matrix. List the technical
+            requirements for the system.
+         4. Firm or Personnel Experience: A profile of the firm’s experience, personnel and history relating to the
+            scope of work identified in Exhibit A – Scope of Services. Include a description of the company profile,
+            including range of the firm’s capabilities and service. In addition, provide the names of all personnel who
+            will be assigned to this project, their education and previous experience.
+         5. Relevant Experience: List of housing management software services, which your firm or personnel have
+            completed within the last five (5) years. Information should include project description, year completed,
+            client name, along with a person to contact and their telephone number.
+         6. Sub consultants: Identification is required of any contemplated sub consultants to be used, with the
+            identification of personnel to be assigned, their qualifications, education, and representative experience.
+         7. References: The Contractor shall submit a list of at least three references comprised of a listing of work
+            similar to that identified in the RFP.
+         8. Fee Schedule: The fee schedule shall include the hourly rates for each personnel category to be used
+            on the project and/or fee for each type of service. Personnel hourly rates shall reflect all costs for office
+
+
+
+                                          Housing Authority of the City of Santa Ana
+                                    Request for Proposals for Housing Management Software
+                                                             Page 7
+           overhead, including phones, cellular phones, vehicles, mileage and other direct and indirect costs. This
+           fee schedule shall reflect all anticipated fee increases such as (but not limited to): Software purchases or
+           subscription costs, hardware costs, ongoing support costs, professional services costs for project
+           management, implementation, interfaces, data migration, training, etc. In addition, any optional services.
+
+    2) EXHIBIT B – PROPOSERS STATEMENT AND PROPOSAL ITEM PRICING
+
+    3) EXHIBIT C – ADDITIONAL INSURED ENDORSEMENT FOR COMMERCIAL GENERAL LIABILITY POLICY
+       (NOT REQUIRED UNTIL AFTER CONTRACTOR SELECTION)
+
+    4) EXHIBIT D – REFERENCES AND RELEVANT WORK HISTORY (PAST 10 YEARS)
+
+    5) EXHIBIT E – PROPOSAL CONTRACT AND AGREEMENT – PROPOSERS STATEMENT
+
+    6) EXHIBIT F – PROPOSAL CONTRACT AND AGREEMENT – CERTIFICATION OF NONDISCRIMINATION
+       BY CONTRACTOR
+
+    7) EXHIBIT G – NON-COLLUSION AFFIDAVIT
+
+
+    Submittal of Proposal:
+
+       Six (6) copies of the response to the RFP shall be signed by a company official with the power to bind the
+        company.
+       One (1) copy of the submittal on a USB Flash Drive or equivalent.
+       Structure your proposal to include the Scope of Service response, Implementation Schedule, Fees / Contract
+        Price and Exhibits.
+
+    The proposal must be completely responsive to the RFP.
+
+    The Housing Authority reserves the right to reject any or all proposals submitted and no representation is made
+    hereby that any contract will be awarded pursuant to this RFP or otherwise.
+
+
+
+XIII.   CONTRACTOR SELECTION – SCORING AND EVALUATION
+
+    The criteria for evaluating the proposals submitted will take the following evaluation criteria into consideration:
+
+                                               EVALUATION CRITERIA
+                                        Qualifications & Company Experience
+                                  Organizational background and overall experience
+                                                    (Max. 10 Points)
+                                 Qualifications and experience relevant to the scope of
+                                   services described in Exhibit A (Max. 15 Points)
+
+
+
+                                        Housing Authority of the City of Santa Ana
+                                  Request for Proposals for Housing Management Software
+                                                           Page 8
+                                    Experience working with Housing Authorities
+                                                (Max. 10 Points)
+                                           SUB TOTAL (Max. 35 Points)
+                                        Overall Quality and Depth of Proposal
+                                        Quality and organization of proposal
+                                                  (Max. 15 Points)
+                                             Completeness of proposal
+                                                  (Max. 15 Points)
+                                           SUB TOTAL (Max. 30 Points)
+                                                    Fee Schedule
+                                               Overall fee schedule
+                                                  (Max. 5 Points)
+                                   Fee schedule related to the services requested
+                                                 (Max. 10 Points)
+                                   Fee schedules and timeline for implementation
+                                                 (Max. 20 Points)
+                                          SUB TOTAL (Max. 35 Points)
+
+
+                                         GRAND TOTAL (Max. 100 Points)
+
+          The proposals will be reviewed by a Review Panel of Housing Authority staff members. The Panel will
+          evaluate Proposals based on their response to the RFP. A final score will be calculated for each submitted
+          proposal and used to rank the proposal. The highest scoring proposers will be informed after the scoring
+          and evaluation is complete. The Panel will recommend award of the contract to the proposer who will
+          provide the best quality service to the Housing Authority. The Housing Authority reserves the right to
+          negotiate pricing and for additional interviews. The Housing Authority will notify the successful firm(s) by
+          email of invitation for a final oral interview, demonstrations, and/or award.
+
+XIV.   PUBLIC RECORDS
+
+       Proposals will become public record after award of agreement. Interested offerors may submit an e-mail
+       request to receive results of the evaluation. Proposer information identified as proprietary information shall
+       be maintained confidential, to the extent allowed under the California Public Records Act. Submit your
+       request to Judson Brown, Housing Division Manager, at jbrown@santa-ana.org.
+
+XV.    FILING A PROTEST
+
+       Bidders may file a “protest” with the Housing Authority. In order for a contractor’s protest to be
+       considered valid, the protest must:
+
+          1. Be filed in writing within five (5) business days of either the RFP posted date or before 5:00
+             p.m. of the 5th business day following the posting of RFP results/Notice of Intent to Award
+             Contract on the City’s website;
+
+
+
+                                       Housing Authority of the City of Santa Ana
+                                 Request for Proposals for Housing Management Software
+                                                          Page 9
+   2.   Clearly identify the specific irregularity or accusation;
+   3.   Clearly identify the specific City staff determination or recommendation being protested;
+   4.   Specify, in detail, the grounds of the protest and the facts supporting the protest; and
+   5.   Include all relevant, supporting documentation with the protest at time of filing.
+
+If the protest does not comply with each of these requirements, it will be rejected as invalid. If the protest
+is valid, the City’s Housing Division Manager, or other designated City staff member, shall review the
+basis of the protest and all relevant information. The Housing Division Manager will provide a written
+decision to the protestor within fourteen (14) calendar days from receipt of protest. The decision from
+the Housing Division Manager, or her/her designee, is final and no further appeals will be considered.
+
+
+
+
+                               Housing Authority of the City of Santa Ana
+                         Request for Proposals for Housing Management Software
+                                                 Page 10
+                                                 EXHIBIT A
+
+                     HOUSING AUTHORITY OF THE CITY OF SANTA ANA
+      REQUEST FOR PROPOSALS (RFP) FOR HOUSING AUTHORITY MANAGEMENT SOFTWARE
+
+                                           SCOPE OF SERVICES
+
+I.    INTRODUCTION
+
+      The Housing Authority of the City of Santa Ana (“SAHA”) has issued this Request for Proposals (RFP)
+      to solicit proposals from qualified providers for a Housing Management Software system including
+      ongoing maintenance and support, implementation design and planning, and software implementation.
+      The software should include housing authority-specific modules fully capable of supporting SAHA’s
+      programs. The software must clearly demonstrate the ability to conform to all requirements of the
+      Housing Choice Voucher Program, Project-Based Voucher Program, Family Self-Sufficiency Program,
+      and to all requirements of the U.S. Department of Housing and Urban Development (HUD), and to
+      Generally Accepted Accounting Principles (GAAP) services.
+
+
+II.   Scope of Work
+
+      The Santa Ana Housing Authority is a mid-sized Public Housing Authority located in Santa Ana,
+      California and is operated under the U.S. Department of Housing and Urban Development, and has
+      approximately 15 full time employees and manages 2,699 Housing Choice Vouchers (Section 8. We
+      also have a Project-Based Voucher Program, Family Self Sufficiency Program, and we administer
+      Mainstream Vouchers and Veterans Affairs Supportive Housing vouchers. The Authority’s funding is
+      fully dependent on the U.S. Department of Housing and Urban Development (HUD). HUD’s funding is
+      dependent on annual appropriations from Congress.
+
+      The Authority currently utilizes multiple servers on a city-wide network. Workstations are running
+      Windows 7. The current software used by the Authority is Yardi Software.
+
+      There are approximately 15 users on the system presently. The firm will include in their bid all
+      necessary materials, equipment and labor to provide a fully integrated, management system, with a
+      multi-user environment.
+
+
+
+
+                                  Housing Authority of the City of Santa Ana
+                            Request for Proposals for Housing Management Software
+                                                    Page 11
+It is the Santa Ana Housing Authority’s objective to administer all Authority services into the system.
+The system needs to support the needs of all Programs and provide data to support all forms of
+administration of the Housing Choice Voucher Program.
+
+
+
+1. Housing Management Software System – The contractor will provide a complete system with
+ongoing maintenance and support services that meets the requirements established by this RFP. The
+software selected will manage the following functions of SAHA. SAHA-specific module descriptions we
+are interested in:
+
+
+
+            Waiting List                                  HQS Inspections/HQS Mobile
+            Housing Choice Voucher Program                UPCS Inspections/UPCS Mobile
+            Rent Reasonableness                           Online Applications
+            Report Generation                             Applicant Portal
+
+            Letter and Packet Generation                  Landlord Portal
+            HCV Program Grant Management                  Participant Portal
+            PIC File Generation                           Document Imaging
+
+            Scanning and Paperless Capabilities           Accounts Receivable
+            Bank Reconciliation                           Accounts Payable
+
+            Project Based Vouchers for HCV               
+
+
+
+
+2. Implementation Planning and Design Services – The contractor will provide a team of implementation
+experts who will work with SAHA to determine in detail how the housing management software system will be
+used at SAHA to meet the project goals and system requirements. The planning and design phase will determine
+which modules are used and how each specific module will be used to optimize workflow and process
+improvements. The phase will also review the order and sequence of implementation for each module, what
+efforts including staffing and training will be necessary to implement each module, how connections to other
+systems will be designed, what data will be stored in the system, what historical data will be imported, etc. The
+bidder will be required to submit a fixed fee proposal for the Implementation Design and Planning Phase. The
+proposal should spell out assumptions and expected estimate of effort.
+
+
+
+                              Housing Authority of the City of Santa Ana
+                        Request for Proposals for Housing Management Software
+                                                Page 12
+3. Implementation Services – The contractor will provide implementation and related services necessary to
+install the new software, data conversion and testing, train staff, etc. SAHA has an expectation that all end-users
+will be trained by the contractor, and will not implement a “train-the-trainer” approach.
+
+
+                                      Housing-Related Applications
+
+
+            Housing Choice Voucher Program
+            Waiting List, including Project-Based Voucher Site-Based Waiting Lists
+            Family Self Sufficiency
+            Special Purpose Vouchers (VASH, Mainstream)
+            HUD Reporting through PIC and VMS
+            HQS Inspections/HQS Handheld
+            UPCS Inspections/UPCS Handheld
+            Utility Allowance and Payment Standards
+            Tenant Accounts Receivable Billing
+            Letter Generation
+            Scanning and Paperless File Capabilities
+
+
+                                          Financial Applications
+
+
+            Accounts Payable
+            Accounts Receivable
+            Budgeting and Financial Forecasting
+            Financial Reports
+            HUD PHAS Reporting including Financial Data Schedule (FDS)
+            Bank Reconciliation
+
+
+
+
+                              Housing Authority of the City of Santa Ana
+                        Request for Proposals for Housing Management Software
+                                                Page 13
+                                     TO BE INCLUDED IN PROPOSAL
+
+                                                 EXHIBIT B
+
+                     HOUSING AUTHORITY OF THE CITY OF SANTA ANA
+      REQUEST FOR PROPOSALS (RFP) FOR HOUSING AUTHORITY MANAGEMENT SOFTWARE
+
+
+                    PROPOSERS STATEMENT AND QUALIFICATION FEE SCHEDULE
+
+
+
+Certification – I certify that I have read, understand and agree to the terms and conditions of this Request
+for Proposals. I have examined the Scope of Services (Exhibit A) and I am familiar with the scope of work
+requirements. I am familiar with all of the existing conditions and limitations that may impact work
+requests. I understand and agree that I am responsible for reporting any errors, omissions or
+discrepancies to the Housing Authority for clarification prior to the submission of my proposal.
+
+
+
+FEE SCHEDULE
+
+Please provide a list of professional software services and forms that the firm has provided and can provide to
+the Housing Authority, along with a proposed fee schedule.
+
+
+
+
+ LEGAL NAME OF COMPANY                                                   PHONE AND FAX NUMBER
+
+ BUSINESS ADDRESS
+
+ PRINTED NAME OF AUTHORIZED AGENT                                        TITLE
+
+ SIGNATURE OF AUTHORIZED AGENT                            DATE           E-MAIL ADDRESS
+
+ FEDERAL ID NO. (IF APPLICABLE)                           CONTRACTOR LICENSE NO. (IF APPLICABLE)
+
+
+
+
+                                   Housing Authority of the City of Santa Ana
+                             Request for Proposals for Housing Management Software
+                                                     Page 14
+                                                   EXHIBIT C
+
+                       ADDITIONAL INSURED ENDORSEMENT FOR COMMERCIAL
+                      GENERAL LIABILITY AND BUSINESS AUTOMOBILE POLICIES
+
+
+
+                      Insurance Company ____________________________________
+
+This endorsement modifies such insurance as is afforded by the provisions of Policy # ___________________
+relating to the following:
+   1. The City of Santa Ana, 20 Civic Center Plaza M-26, Santa Ana, California 92701; its officers, employees,
+      agents, volunteers and representatives are named as additional insureds ("additional insureds") with
+      regard to liability and defense of suits arising from the operations and uses performed by or on behalf of
+      the named insured.
+
+
+   2. With respect to claims arising out of the operations and uses performed by or on behalf of the named
+      insured, such insurance as is afforded by this policy is primary and is not additional to or contributing with
+      any other insurance carried by or for the benefit of the additional insureds.
+
+
+   3. This insurance applies separately to each insured against whom claim is made or suit is brought except
+      with respect to the company's limits of liability. The inclusion of any person or organization as an insured
+      shall not affect any right which such person or organization would have as a claimant if not so included.
+
+
+   4. With respect to the additional insureds, this insurance shall not be cancelled, or materially reduced in
+      coverage or limits except after thirty (30) days written notice has been given to the City of Santa Ana, 20
+      Civic Center Plaza M-26, Santa Ana, California 92701.
+
+
+(Completion of the following, including countersignature, is required to make this endorsement effective.)
+
+  Effective                                                , this endorsement form as part of
+
+  Policy #
+
+  Issued to
+                                                  Name Insured
+
+
+                                    Countersigned by:
+                                                                 Authorized Representative
+
+
+
+
+                                   Housing Authority of the City of Santa Ana
+                             Request for Proposals for Housing Management Software
+                                                     Page 15
+                                       TO BE INCLUDED IN PROPOSAL
+
+                                                   EXHIBIT D
+
+                     HOUSING AUTHORITY OF THE CITY OF SANTA ANA
+      REQUEST FOR PROPOSALS (RFP) FOR HOUSING AUTHORITY MANAGEMENT SOFTWARE
+
+List and describe fully the contracts performed by your firm which demonstrate your ability to provide the services
+included in the scope of services. Attach additional pages if required for additional references. The Housing
+Authority reserves the right to contact each of the references listed for additional information regarding your
+firm’s qualifications.
+
+
+ Reference No. 1
+
+ Customer Name:                                                 Contract Individual:
+
+ Address:                                                       Phone Number:
+
+                                                                Facsimile Number:
+
+ Contract Amount:                                               Year:
+
+ Description of PHA Software services provided:
+
+
+
+
+ Reference No. 2
+
+ Customer Name:                                                 Contract Individual:
+
+ Address:                                                       Phone Number:
+
+                                                                Facsimile Number:
+
+ Contract Amount:                                               Year:
+
+
+
+
+                                    Housing Authority of the City of Santa Ana
+                              Request for Proposals for Housing Management Software
+                                                      Page 16
+Description of PHA Software services provided:
+
+
+
+
+Reference No. 3
+
+Customer Name:                                            Contract Individual:
+
+Address:                                                  Phone Number:
+
+                                                          Facsimile Number:
+
+Contract Amount:                                          Year:
+
+Description of PHA Software services provided:
+
+
+
+
+                               Housing Authority of the City of Santa Ana
+                         Request for Proposals for Housing Management Software
+                                                 Page 17
+                                        TO BE INCLUDED IN PROPOSAL
+
+                                                     EXHIBIT E
+
+                     HOUSING AUTHORITY OF THE CITY OF SANTA ANA
+      REQUEST FOR PROPOSALS (RFP) FOR HOUSING AUTHORITY MANAGEMENT SOFTWARE
+
+                                     PROPOSAL & CONTRACT AGREEMENT
+
+PROPOSER’S STATEMENT
+
+Proposer understands and agrees that this written RFP (or any part thereof specifically designated and accepted by
+the Housing Authority of the City of Santa Ana (hereinafter “the Authority”) shall constitute the entire agreement
+between proposer and the Authority only after it has been accepted by the Authority, endorsed by the Recording
+Secretary with his/her signature and official seal noting here on the action of approval of the Council / Housing
+Authority, signed by the Executive Director or his/her duly authorized agent, and signed by the Authority General
+Counsel, denoting his/her approval of the form of this document, and its execution, and when it or an exact copy of
+it has been either delivered to proposer or deposited with the United States Postal Service properly addressed to
+the proposer with the correct postage affixed thereto.
+
+Proposer further agrees that upon delivery (as defined above) of the accepted agreement he/she will furnish the
+Authority all required bonds and certificates of liability insurance within ten (10) days (excluding Saturdays, Sundays
+and the Authority’s legal holidays), or the funds, check, draft, or proposer’s bond substituted in lieu thereof
+accompanying this proposal shall become the property of the Authority and shall be considered as payment of
+damages due to the delay and other causes suffered by the Authority because of the failure to enter into an
+Agreement and/or furnish the necessary bonds and because it is distinctly agreed that the proof of damages actually
+suffered by the Authority is difficult to ascertain; otherwise said funds, check drafts, or proposer’s bond substituted
+in lieu thereof shall be returned to the undersigned.
+
+Proposer understands that a proposal is required for the entire work, that the estimated quantities set forth in the
+RFP schedule are solely for the purpose of comparing proposals, and that final compensation under the contract
+will be based upon the actual quantities of work satisfactorily completed.
+
+All terms contained in the Specifications, the Certification of Non-Discrimination by Owners, and the Workers’
+Compensation Insurance Certificate are to be incorporated by reference into this Agreement and are made
+specifically as part of this RFP.
+
+
+ FIRM
+
+
+ SIGNED AND PRINTED NAME
+
+
+ TITLE                                                                                            DATE
+
+
+
+
+                                     Housing Authority of the City of Santa Ana
+                               Request for Proposals for Housing Management Software
+                                                       Page 18
+                                        TO BE INCLUDED IN PROPOSAL
+
+                                                     EXHIBIT F
+
+                     HOUSING AUTHORITY OF THE CITY OF SANTA ANA
+      REQUEST FOR PROPOSALS (RFP) FOR HOUSING AUTHORITY MANAGEMENT SOFTWARE
+
+                                   PROPOSAL AND CONTRACT AGREEMENT
+
+                        CERTIFICATION OF NONDISCRIMINATION BY CONTRACTOR
+
+The undersigned Contractor or corporate officer, during the performance of this contract, certifies as follows:
+
+   1. The Contractor shall not discriminate against any employee or applicant for employment because of race,
+      color, religion, sex, national origin or any other protected class. The Contractor shall take affirmative action
+      to ensure that applicants are employed, and that employees are treated during employment without, regard
+      to their race, color, religion, sex, national origin or any other protected class. Such action shall include, but
+      not be limited to, the following: employment, upgrading, demotion, or transfer; recruitment or recruitment
+      advertising; layoff or termination; rates of pay or other forms of compensation; and selection for training,
+      including apprenticeship. The Contractor agrees to post in conspicuous places, available to employees and
+      applicants for employment, notices to be provided setting forth the provisions of this nondiscrimination
+      clause.
+
+   2. The Contractor shall, in all solicitations or advertisements for employees placed by or on behalf of the
+      Contractor, state that all qualified applicants will receive consideration for employment without regard to race,
+      color, religion, sex, national origin or any other protected class.
+
+   3. The Contractor shall send to each labor union or representative of workers with which he has a collective
+      bargaining agreement or other contract or understanding, a notice to be provided advising the said labor
+      union or workers’ representatives of the Contractor’s commitments under this section, and shall post copies
+      of the notice in conspicuous places available to employees and applicants for employment.
+
+   4. The Contractor shall comply with all provisions of Executive Order 11246 of September 24, 1965, and of the
+      rules, regulations, and relevant orders of the Secretary of Labor.
+
+   5. The Contractor shall furnish all information and reports required by Executive Order 11246 of September
+      24, 1965, and by rules, regulations, and orders of the Secretary of Labor, or pursuant thereto, and will permit
+      access to his/her books, records, and accounts by the administering agency and the Secretary of Labor for
+      purposes of investigation, to ascertain compliance with such rules, regulations, and orders.
+
+   6. In the event of the Contractor’s non-compliance with the nondiscrimination clauses of this contract or with
+      any of the said rules, regulations, or orders, the contract may be canceled, terminated, or suspended in
+      whole or in part and the Contractor may be declared ineligible for further Government contracts or federally
+      assisted construction/services contracts in accordance with procedures authorized in Execution Order
+      11246 of September 24, 1965, and such other sanctions may be imposed and remedies invoked as provided
+      in Executive Order 11246 of September 24, 1965, or by rule, regulations, or order of the Secretary of Labor,
+      or as otherwise provided by law.
+
+
+                                    Housing Authority of the City of Santa Ana
+                              Request for Proposals for Housing Management Software
+                                                      Page 19
+   7. The Contractor shall include the portion of the sentence immediately preceding paragraph (1) and the
+      provisions of paragraphs (1) through (7) in every subcontract or purchase order unless exempted by rules,
+      regulations, or orders of the Secretary of Labor issued pursuant to Section 204 of Executive Order 11246 of
+      September 24, 1965, so that such provisions will be binding upon each subcontract or purchase order as
+      the administering agency may direct as means of enforcing such provisions, including sanctions for
+      noncompliance; provided, however, that in the event the Contractor becomes involved in, or is threatened
+      with, litigation with a subcontractor or vendor as a result of such direction by the administering agency, the
+
+   8. Contractor may request that the United States enter into such litigation to protect the interests of the United
+      States.
+
+   9. Pursuant to California Labor Code Section 1735, as added by Chapter 643 Stats. 1039, and as amended,
+
+
+No discrimination shall be made in the employment of persons because of race, religious creed, color national origin,
+ancestry, physical handicaps, mental condition, marital status, sex of such persons, or any other protected class,
+except as provided in Section 1420, and any Contractor violating this Section is subject to all the penalties imposed
+for a violation of the Chapter.
+
+
+
+ FIRM
+
+
+ SIGNED AND PRINTED NAME
+
+
+ TITLE                                                                                          DATE
+
+
+
+
+                                    Housing Authority of the City of Santa Ana
+                              Request for Proposals for Housing Management Software
+                                                      Page 20
+                                       TO BE INCLUDED IN PROPOSAL
+
+                                                    EXHIBIT G
+
+                     HOUSING AUTHORITY OF THE CITY OF SANTA ANA
+      REQUEST FOR PROPOSALS (RFP) FOR HOUSING AUTHORITY MANAGEMENT SOFTWARE
+
+                                 PROPOSAL AND CONTRACT AGREEMENT
+
+                                         NON-COLLUSION AFFIDAVIT
+
+                                  (Title 23 United States Code Section 112 and
+
+                                       Public Contract Code Section 7106)
+
+To the HOUSING AUTHORITY OF THE CITY OF SANTA ANA,
+
+In accordance with Title 23 United States Code Section 112 and Public Contract Code 7106 the PROPOSER
+declares that the bid is not made in the interest of, or on behalf of, any undisclosed person, partnership, company,
+association, organization, or corporation; that the bid is genuine and not collusive or sham; that the PROPOSER
+has not directly or indirectly induced or solicited any other PROPOSER to put in a false or sham bid, and has
+not directly or indirectly colluded, conspired, connived or agreed with any PROPOSER or anyone else to put in
+a sham bid, or that anyone shall refrain from bidding; that the PROPOSER has not in any manner, directly or
+indirectly, sought by agreement, communication, or conference with anyone to fix the bid price of the
+PROPOSER or any PROPOSER, or to fix any overhead, profit, or cost element of the bid price, or of that of any
+other PROPOSER, or to secure any advantage against the public body awarding the contract of anyone
+interested in the proposed contract; that all statements contained in the bid are true; and, further, that the
+PROPOSER has not, directly or indirectly, submitted his or her bid price or any breakdown thereof, or the
+contents thereof, or divulged information or data relative thereto, or paid, and will not pay, any fee to any
+corporation, partnership, company association, organization, bid depository, or to any member or agent thereof
+to effectuate a collusive or sham bid.
+
+       Note: The above Non-collusion Affidavit is part of the Proposal. Signing this Proposal on the signature
+       portion thereof shall also constitute signature of this Non-collusion Affidavit. PROPOSERS are cautioned
+       that making a false certification may subject the certifier to criminal prosecution.
+
+ State of California
+ County of
+
+ Subscribed and sworn to (or affirmed) before me on this                    day of               , 20 _____,    by
+                                        , proved to me on the basis of satisfactory evidence to be the person(s)
+ who appeared before me.
+
+
+
+
+             Notary Public Signature                              Notary Public Seal
+
+
+
+                                    Housing Authority of the City of Santa Ana
+                              Request for Proposals for Housing Management Software
+                                                      Page 21
+

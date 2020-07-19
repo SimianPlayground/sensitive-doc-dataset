@@ -1,0 +1,1239 @@
+                                                     REQUEST FOR PROPOSALS
+
+Newport News Public Schools                                                                                                     RFP ITEM NO.
+ISSUING OFFICE:                                                DATE: 03/10/2020
+                                                                                                                                015-0-2020/AZ
+
+PURCHASING DEPARTMENT                                          Attention of Offeror is Directed To Section
+12465 WARWICK BOULEVARD                                                                                                   PROCUREMENT OFFICER
+NEWPORT NEWS, VA 23606-3041
+                                                               2.2-4367 to 2.2-4377 Code of Virginia
+                                                               (Ethics In Public Contracting)                              Abdul Matin Zakir
+TELEPHONE: (757) 591-4525
+FAX: (757) 591-4634
+
+SEALED PROPOSALS will be received in the Issuing Office above until Closing Date and Closing Time as                           CLOSING DATE
+specified in this solicitation including any addenda issued by this office. Newport News Public Schools is not                   03/27/2020
+responsible for late delivery by U.S. Postal mail or other couriers.
+All inquiries for information regarding this Request for Proposal are to be directed to the Issuing Office as defined
+herein.                                                                                                                        CLOSING TIME
+                                                                                                                                  2:00 PM
+COMMODITY: Software for Workstations                                              NIGP CODE: 208
+PLEASE FILL IN OFFEROR’S NAME & ADDRESS                                                                                 PREPROPOSAL CONFERENCE
+IN THE SPACES PROVIDED BELOW:                                         THIS IS NOT AN ORDER                               Mandatory or Non-Mandatory
+                                                                                                                                     N/A
+__________________________________________
+__________________________________
+__________________________________
+
+
+             THE SCHOOL BOARD OF THE CITY OF NEWPORT NEWS, HEREAFTER REFERRED TO AS
+             NEWPORT NEWS PUBLIC SCHOOLS (NNPS), RESERVES THE RIGHT TO ACCEPT OR REJECT ANY
+             AND ALL PROPOSALS IN WHOLE OR IN PART AND WAIVE ANY INFORMALITIES IN THE
+             COMPETITVE NEGOTIATIONS PROCESS. FURTHER, NNPS RESERVES THE RIGHT TO ENTER INTO
+             ANY CONTRACT DEEMED TO BE IN ITS BEST INTEREST. THE ENTIRE CONTENTS OF THE
+             REQUEST FOR PROPOSALS, ANY ADDENDA, OFFEROR'S PROPOSAL AND NEGOTIATED
+             CHANGES SHALL BE INCORPORATED BY REFERENCE INTO ANY RESULTING CONTRACT.
+
+                NNPS DOES NOT DISCRIMINATE AGAINST FAITH-BASED ORGANIZATIONS.
+
+                                                    DESCRIPTION OF GOODS/SERVICES
+
+         E-forms solution; a software that can handle multiple type of forms, allow for e-signature,
+                                         and is tablet/iPad friendly.
+                      ACKNOWLEDGE RECEIPT OF ADDENDUM: #1____ #2____ #3____ #4____ (Please Initial)
+           __________________________________________________________________________________________________________
+
+   IN COMPLIANCE WITH THIS SOLICITATION AND TO ALL THE CONDITIONS IMPOSED HEREIN, THE UNDERSIGNED AGREES TO PERFORM ANY
+   CONTRACT AWARDED AS A RESULT OF THIS SOLICITATION. THE FOLLOWING SECTION SHALL BE SIGNED BY AN AGENT AUTHORIZED TO
+   BIND THE COMPANY. FAILURE TO EXECUTE THIS PORTION MAY RESULT IN PROPOSAL REJECTION.
+
+
+
+   Authorized Agent:                 _______________________________________________                               ______________________
+                                                                     Signature                                            Type or Print Name
+
+   ___________________               ________________________                   ____________________               ______________________
+          Email Address                       Telephone Number                           Fax Number                       Company FEI/FIN#
+
+
+   ENCLOSURES
+   RFP # 015-0-2020/AZ                                                                                                          Page 1 of 24
+            ANTI-COLLUSION/NONDISCRIMINATION/DRUG-FREE WORKPLACE REQUIREMENTS
+
+ANTI-COLLUSION CLAUSE:
+
+IN THE PREPARATION AND SUBMISSION OF THIS PROPOSAL, SAID OFFEROR DID NOT EITHER DIRECTLY OR INDIRECTLY ENTER INTO ANY
+COMBINATION OR ARRANGEMENT WITH ANY PERSON, FIRM OR CORPORATION, OR ENTER INTO ANY AGREEMENT, PARTICIPATE IN ANY
+COLLUSION, OR OTHERWISE TAKE ANY ACTION IN VIOLATION OF THE SHERMAN ACT (15 U.S.C. SECTION 1), SECTIONS 59.1-9.1 THROUGH
+59.1-9.17 OR SECTIONS 59.1-68.6 THROUGH 59.1-68.8 OF THE CODE OF VIRGINIA.
+
+THE UNDERSIGNED OFFEROR HEREBY CERTIFIES THAT THIS AGREEMENT, OR ANY CLAIMS RESULTING THEREFROM, IS NOT THE RESULT
+OF, OR AFFECTED BY, ANY ACT OF COLLUSION WITH, OR ANY ACT OF, ANOTHER PERSON OR PERSONS, FIRM OR CORPORATION ENGAGED
+IN THE SAME LINE OF BUSINESS OR COMMERCE; AND, THAT NO PERSON ACTING FOR, OR EMPLOYED BY, NNPS HAS AN INTEREST IN, OR IS
+CONCERNED WITH, THIS PROPOSAL; AND, THAT NO PERSON OR PERSONS, FIRM OR CORPORATION OTHER THAN THE UNDERSIGNED,
+HAVE, OR ARE, INTERESTED IN THIS PROPOSAL.
+
+DRUG-FREE WORKPLACE:
+
+DURING THE PERFORMANCE OF THIS CONTRACT, THE SUCCESSFUL OFFEROR AGREES TO (I) PROVIDE A DRUG-FREE WORKPLACE FOR THE
+SUCCESSFUL OFFEROR'S EMPLOYEES; (II) POST IN CONSPICUOUS PLACES, AVAILABLE TO EMPLOYEES AND APPLICANTS FOR
+EMPLOYMENT, A STATEMENT NOTIFYING EMPLOYEES THAT THE UNLAWFUL MANUFACTURE, SALE, DISTRIBUTION, DISPENSATION,
+POSSESSION, OR USE OF A CONTROLLED SUBSTANCE OR MARIJUANA IS PROHIBITED IN THE SUCCESSFUL OFFEROR'S WORKPLACE AND
+SPECIFYING THE ACTIONS THAT WILL BE TAKEN AGAINST EMPLOYEES FOR VIOLATIONS OF SUCH PROHIBITION; (III) STATE IN ALL
+SOLICITATIONS OR ADVERTISEMENTS FOR EMPLOYEES PLACED BY OR ON BEHALF OF THE SUCCESSFUL OFFEROR THAT THE SUCCESSFUL
+OFFEROR MAINTAINS A DRUG-FREE WORKPLACE; AND (IV) INCLUDE THE PROVISIONS OF THE FOREGOING CLAUSES IN EVERY
+SUBCONTRACT OR PURCHASE ORDER OF OVER $10,000, SO THAT THE PROVISIONS WILL BE BINDING UPON EACH SUSUCCESSFUL OFFEROR
+OR VENDOR.
+
+FOR THE PURPOSE OF THIS SECTION, "DRUG-FREE WORKPLACE" MEANS A SITE FOR THE PERFORMANCE OR WORK DONE IN CONNECTION
+WITH A SPECIFIC CONTRACT AWARDED TO A SUCCESSFUL OFFEROR IN ACCORDANCE WITH FEDERAL LAW, THE EMPLOYEES OF WHOM
+ARE PROHIBITED FROM ENGAGING IN THE UNLAWFUL MANUFACTURE, SALE, DISTRIBUTION, DISPENSATION, POSSESSION OR USE OF ANY
+CONTROLLED SUBSTANCE OR MARIJUANA DURING THE PERFORMANCE OF THE CONTRACT.
+
+EMPLOYMENT DISCRIMINATION BY THE SUCESSFUL OFFEROR SHALL BE PROHIBITED:
+
+1.       DURING THE PERFORMANCE OF THIS CONTRACT, THE SUCCESSFUL OFFEROR AGREES AS FOLLOWS:
+
+     a      THE OFFEROR, SHALL NOT DISCRIMINATE AGAINST ANY EMPLOYEE OR APPLICANT FOR EMPLOYMENT
+            BECAUSE OF RACE, RELIGION, COLOR, SEX, NATIONAL ORIGIN, AGE, DISABILITY, OR ANY OTHER BASIS
+            PROHIBITED BY STATE LAW RELATING TO DISCRIMINATION IN EMPLOYMENT, EXCEPT WHERE THERE IS A
+            BONA FIDE OCCUPATIONAL QUALIFICATION REASONABLY NECESSARY TO THE NORMAL OPERATION OF THE
+            SUCCESSFUL OFFEROR. THE SUCCESSFUL OFFEROR AGREES TO POST IN CONSPICUOUS PLACES, AVAILABLE
+            TO EMPLOYEES AND APPLICANTS FOR EMPLOYMENT, NOTICES SETTING FORTH THE PROVISIONS OF THIS
+            NONDISCRIMINATION CLAUSE.
+
+     b.    THE SUCCESSFUL OFFEROR, IN ALL SOLICITATIONS OR ADVERTISEMENTS FOR EMPLOYEES PLACED BY OR ON
+           BEHALF OF THE SUCCESSFUL OFFEROR, SHALL STATE THAT SUCH SUCCESSFUL OFFEROR IS AN EQUAL
+           OPPORTUNITY EMPLOYER.
+
+     c.    NOTICES, ADVERTISEMENTS, AND SOLICITATIONS PLACED IN ACCORDANCE WITH FEDERAL LAW, RULE OR
+           REGULATION SHALL BE DEEMED SUFFICIENT FOR THE PURPOSE OF MEETING THE REQUIREMENTS OF THIS
+           SECTION.
+
+2.   THE SUCCESSFUL OFFEROR WILL INCLUDE THE PROVISIONS OF THE FOREGOING PARAGRAPHS A, B, AND C IN
+     EVERY SUBCONTRACT OR PURCHASE ORDER OF OVER $10,000, SO THAT THE PROVISIONS WILL BE BINDING UPON
+     EACH SUBCONTRACTOR OR VENDOR.
+
+
+     Name and Address of OFFEROR:                     Date:              _____   Authorized Signature__________________________
+
+                                                      Printed Name:___________________________Title:____________________________
+
+                                                      Phone Number:__________________________ Fax Number:_____________________
+
+                                                      Email Address:__________________________________________________________
+
+     Federal Tax Identification Number/Social Security Number: ________________________________
+
+Is Offeror a "minority" business?  Yes  No      If yes, please indicate the "minority" classification below:
+ African American         Hispanic American    American Indian  Eskimo  Asian American  Aleut  Other; Please Explain:
+Is Offeror Woman Owned?  Yes  No
+Is Offeror a Small Business?  Yes  No
+Is Offeror a Faith-Based Organization?  Yes  No
+
+
+
+
+RFP # 015-0-2020/AZ                                                                                                      Page 2 of 24
+I. PURPOSE ...................................................................................................................................................................... 5
+II. BACKGROUND ............................................................................................................................................................ 5
+III.     STATEMENT OF NEEDS ......................................................................................................................................... 5
+IV.      SPECIAL INSTRUCTIONS TO THE OFFEROR ..................................................................................................... 6
+     A. Definitions: ............................................................................................................................................................... 6
+     B. Contact with NNPS Staff, Representatives, and/or Agents: ............................................................................... 6
+     C. Offerors of Record: ................................................................................................................................................. 6
+     D. Preproposal Conference: N/A ................................................................................................................................ 6
+     E. Questions: ................................................................................................................................................................ 6
+     F. Changes or Modifications: ..................................................................................................................................... 6
+     G. RFP Closing: ............................................................................................................................................................ 6
+     H. Proposal Submittal Requirements: ....................................................................................................................... 7
+     I. Evaluation of Proposals: ........................................................................................................................................ 8
+     J. Presentation/Demonstration: ................................................................................................................................. 8
+     K. Preparation of Proposals: ...................................................................................................................................... 9
+     L. Cost of Responding: ............................................................................................................................................... 9
+V.       GENERAL TERMS AND CONDITIONS ................................................................................................................ 10
+     M.Contract Document: .............................................................................................................................................. 10
+     N. Proposal Binding for One-Hundred Twenty (120) Days: ................................................................................... 10
+     O. Proprietary Information/Non-Disclosure: ........................................................................................................... 10
+     P. Contract Modification(s): ...................................................................................................................................... 10
+     Q. Offeror Obligation: ................................................................................................................................................ 10
+     R. Conditions of Work: .............................................................................................................................................. 10
+     S. Prime Contractor: .................................................................................................................................................. 11
+     T. Subcontractors: ..................................................................................................................................................... 11
+     U. Non-Assignment: .................................................................................................................................................. 11
+     V. Anti-trust: ............................................................................................................................................................... 11
+     W.      Anti-collusion/Nondiscrimination Requirements Form: ............................................................................ 11
+     X. Hold Harmless/Indemnification: .......................................................................................................................... 11
+     Y. Notices: .................................................................................................................................................................. 11
+     Z. Non-Performance: ................................................................................................................................................. 12
+     AA.     Termination Without Cause: ......................................................................................................................... 12
+     BB.     Termination with Cause/Breach: .................................................................................................................. 12
+     CC.     Breach of Contract:........................................................................................................................................ 13
+     DD.     Applicable Law: .............................................................................................................................................. 13
+     EE.     Compliance with All Laws: ............................................................................................................................ 13
+     FF.     Venue: ............................................................................................................................................................. 13
+     GG. Severability: .................................................................................................................................................... 13
+     HH. Non-Appropriation of Funds: ........................................................................................................................ 13
+     II. Tax Exemption: ...................................................................................................................................................... 14
+     JJ.     Vendor’s Invoices: ......................................................................................................................................... 14
+     KK. Contractual Disputes: .................................................................................................................................... 14
+     LL.     Warranty/Guarantee:...................................................................................................................................... 14
+     MM.       Payment Terms:.......................................................................................................................................... 14
+     NN.     Prompt Payment: ........................................................................................................................................... 15
+     OO. Payment by Electronic Funds Transfer (EFT) ............................................................................................. 15
+     PP.     Audits: ............................................................................................................................................................. 17
+     QQ. Notice of Award:............................................................................................................................................. 18
+     RR.     Award: ............................................................................................................................................................. 18
+     SS.     Disposition of Proposals: ............................................................................................................................. 18
+     TT.     Non-Exclusivity .............................................................................................................................................. 18
+     UU.     Exclusivity: ..................................................................................................................................................... 18
+VI.      SPECIAL TERMS AND CONDITIONS .................................................................................................................. 18
+     VV.     Contract Term: ............................................................................................................................................... 18
+     WW.       Contract Extension: ................................................................................................................................... 18
+     XX.     Time is of the Essence: ................................................................................................................................. 18
+
+
+RFP #015-0-2020/AZ                                                                                                                                       Page 3 of 24
+   YY.  Insurance: ....................................................................................................................................................... 19
+   ZZ.  Unauthorized Disclosure of Information: .................................................................................................... 19
+   AAA.   Using Entities/Regional /Cooperative Contracts .................................................................................... 19
+   BBB.   CERTIFICATION REGARDING DEBARMENT .......................................................................................... 20
+   CCC.   Date Security Clauses ................................................................................................................................ 20
+   DDD.   Copyright/Patent Indemnity: ..................................................................................................................... 22
+
+
+
+
+RFP # 015-0-2020/AZ                                                                                                                              Page 4 of 24
+   I. PURPOSE
+   The purpose of this RFP is to solicit Sealed Proposals from qualified Offerors to provide electronic forms solution.
+   A software that can handle multiple types of forms, allow for electronic signature, and is tablet/iPad friendly.
+
+    II. BACKGROUND
+   Newport News Public Schools (NNPS) is located within the co-terminus boundaries of the City of Newport News,
+   Virginia. NNPS educates 28,650 students in 4 early childhood centers, 24 elementary schools, 7 middle schools, 1
+   middle high combination school, and 5 high schools. There are also programs available for at-risk students in
+   addition to special education programs. The school division has approximately 4,600 employees of which 2,125 are
+   teachers. A listing of NNPS and their locations may be accessed via NNPS’s official web site at
+   http://sbo.nn.k12.va.us/schools.
+
+   NNPS is currently using paper forms; manually entering data and information, and scanning the forms into the ECM
+   (Electronic Content Management) system. However, NNPS is planning to move toward a paperless system that
+   would enable NNPS and its customers to create and share digital forms with mobile, remote, and local teams. Key
+   features should include data capture, remote access, auto-save, e-signatures, and form widgets.
+
+   Proposals should match or offer similar benefits with any deviations clearly noted.
+
+   The selected provider may not solicit NNPS employees on behalf of any other product or service offered by the
+   Provider or its affiliates.
+
+
+   III. STATEMENT OF NEEDS
+     A. Statement of work
+     This e-forms software solution should enable users to create digital forms and capture information in various
+     formats such as audio notes, table data, digital signatures, calculations and pictures through windows computers
+     and mobile devices such as, tablets and iPad including iOS and Android compatibility. The solution should also
+     offer to work offline and share the saved data with teams when connected to the network. Additionally, the
+     software solution should also offer mobile applications for Android and iOS devices.
+
+    B.   Minimum requirements
+   o The proposed e-forms software solution must be able to integrate with our current systems such as;
+       - Electronic Content Management (ECM) system (no version info available, provider sends out periodic
+         updates)
+       - MUNIS (Version; 2018.1.20)
+       - Hire Enterprise, and Human Resource Information System (HRIS) (no version info available, provider sends
+         out periodic updates).
+   o Forms must be tablet and iPad friendly.
+   o Forms must be iOS and Android compatible.
+   o System must offer mobile applications.
+   o System must offer auto-save and work-offline features.
+   o Forms must be easily accessible for both internal and external users.
+   o Forms must allow for electronic signature.
+   o Software must be able to create custom forms and work with prefab forms (I-9, tax forms, and etc.).
+
+
+
+
+RFP #015-0-2020/AZ                                                                                    Page 5 of 24
+    IV. SPECIAL INSTRUCTIONS TO THE OFFEROR
+     A. Definitions:
+        Issuing Office:
+           Wherever used in this Request for Proposal, Issuing Office will be:
+
+          Abdul Matin Zakir
+          Procurement Specialist
+          Newport News Public Schools, Department of Purchasing
+          12465 Warwick Boulevard, Newport News, VA 23606-3041
+          Phone: (757) 591-4533 ext. 10754
+          Fax: (757) 591-4593
+          Email: abdul.zakir@nn.k12.va.us
+
+       NNPS Contract Administrator:
+         Wherever used in this Request for Proposal and for purposes of any notices under this contract, the NNPS
+         Contract Administrator will be:
+
+          Leslie Rodgers
+          Employment Supervisor
+          Newport News Public Schools, Department of Human Resources
+          12507 Warwick Blvd, Newport News, VA 23606-3041
+          Phone: (757) 881-5061 ext. 11104
+          Email: leslie.rogers@nn.k12.va.us
+
+     B. Contact with NNPS Staff, Representatives, and/or Agents:
+       Direct contact with NNPS staff, representatives, and/or agents other than Purchasing Department staff on the
+       subject of this RFP or any subject related to this RFP is expressly prohibited except with the prior knowledge
+       and permission of the Purchasing Agent.
+
+     C. Offerors of Record:
+       Offerors receiving a copy of this RFP from a source other than the Issuing Office via
+       http://www.eva.virginia.gov/ must contact the Issuing Office and provide Offeror’s name, address, contact
+       person, telephone and fax numbers, and the RFP Item Number. Offeror will be added to the contact list and will
+       receive notification of any addenda to the RFP.
+
+     D. Preproposal Conference: N/A
+
+     E. Questions:
+       Offerors must submit questions regarding this RFP in writing to the Issuing Office at abdul.zakir@nn.k12.va.us
+       no later than 10:00 AM Daylight Savings Time, March/ 17/ 2020. Necessary replies will be issued to all
+       Offerors of record as addenda that shall become part of the contract documents. Oral instructions do not form a
+       part of the Proposal documents. Offeror is responsible for checking the http://www.eva.virginia.gov/ web site or
+       contacting the Issuing Office within 48 hours prior to Proposal closing to secure any addenda issued for this
+       RFP.
+
+     F. Changes or Modifications:
+       Changes or modifications to this Request for Proposals made prior to the date and time of closing will be
+       addressed by addenda from the Issuing Office. Offerors are to acknowledge receipt of addenda in the space
+       provided on the cover page of this Request for Proposal. Oral communications are not a part of the Proposal
+       documents. This RFP and any addenda shall be incorporated, by reference, into any resulting contract.
+
+     G. RFP Closing:
+
+
+RFP #015-0-2020/AZ                                                                                   Page 6 of 24
+       Offeror shall ensure its proposal is sealed and time stamped by the Issuing Office no later than the Closing Date
+       and Time shown on the cover page of this Proposal. Proposals received after the specified date and time will
+       not be considered and will be returned to the Offeror unopened upon the offeror’s request.
+
+     H. Proposal Submittal Requirements:
+       1. Each Proposal submission shall be submitted to the Issuing Office and shall include the following
+          documents:
+          a. The cover page of this Request for Proposal, which will contain:
+             1) Original signature of an agent authorized to bind the company;
+             2) Requested contact information;
+             3) Company FEI/TIN number; and,
+             4) Acknowledgment of any addenda on page one (1);
+          b. Completed and signed anti-collision/nondiscrimination clauses on page 2;
+
+       2. Offerors are encouraged to submit their Proposals on recycled paper and to use double-sided copying.
+
+       3. Proposals must be submitted utilizing the following requirements:
+          a. Offerors shall submit proposals in an envelope or package, and label the envelope or package with the
+             Request for Proposal's item number and the name and address of the Offeror. Proposals received by
+             telephone, telegraph, facsimile, or any other means of electronic transfer shall not be accepted.
+
+       4. Proposals are to be organized in the following tabs:
+          Tab 1 – Executive Summary
+          The executive summary should summarize background on the firm and its specific accomplishments
+          specific to requesting solution. Offeror should provide examples of past e-forms implementations. Provide a
+          brief description of the project and its location.
+          Tab II – References (Attachment A)
+          Include the School System Name, Point of Contact Name, Phone, Email, Address, Number of Students,
+          Date of Contract Signing and Date of Initial Implementation Contract Completion, and description of
+          services provided for each of the references listed.
+          Tab III - Technical Proposal
+          Responses should be presented using the order and numbering scheme provided below.
+          Part 1- Product / System Features and Performance
+          Part 2- Project Approach and Implementation Schedule
+          Part 3- Training Approach, if applicable
+          Part 4- Configuration & Licensing Requirements
+          Part 5- Maintenance and Technical Support
+          Tab IV – Price Proposal (Attachment B)
+          The Price Proposal should include:
+          • Product Costs – Including Non-Recurring Services, materials and equipment for the implementation of the
+          e-forms solution, Recurring costs such as licensing of the Offeror’s system and any other licensing required
+          to be contracted by NNPS.
+          • Maintenance Pricing
+          • Warranty Pricing
+          • Contracted and consulting services and expense costs
+
+       5. Submit the original and one (1) electronic copy (CD or USB drive) of the proposal.
+             1) The CD must be a:
+                 a) "standard" compact disk (CD) [using 780 nm wavelength laser diode light]; or a digital video
+                      disk or "digital versatile disc" (DVD) [using 650 nm wavelength laser diode light - Note: 'Blue-
+                      ray™ disks are not acceptable]. The media shall be capable of being read in a standard personal
+
+
+
+RFP #015-0-2020/AZ                                                                                    Page 7 of 24
+                       computer (PC) CD or DVD-drive. The media shall use a "standard" CD-file system format
+                       [ISO 9660], be virus-free, and may contain PC-files in any of the following formats:
+                    b) Adobe(c) Personal-Document-Files (pdf), version 9.0, or greater
+                    c) Microsoft(c) Word 'document' files (doc), version 12, or greater (Word 2007)
+                    d) Microsoft(c) Excel 'spreadsheet' files (xls), version 12, or greater (Excel 2007)
+                    e) Microsoft (c) PowerPoint 'presentation' files (ppt) , version 12, or greater (PowerPoint 2007)
+                    f) American Standard Code for Information Interchange (ASCII) text (txt) (e.g. Microsoft(c)
+                       Notepad, any version).
+               g) Tagged Information Format (tif or TIFF) files
+
+     I.     Evaluation of Proposals:
+          1. After the proposal opening, NNPS will select for further consideration two or more Offerors deemed to be
+             fully qualified and best suited among those submitting proposals based on Offerors’ responses to the
+             information requested in this RFP.
+          2. The following criteria will be used in the evaluation process:
+             a. Overall proposal rating:
+                 Exceptional: The submission exceeds expectations, excellent probability of success, provides the lowest
+                 prices and costs, and in achieving all objectives. Very innovative
+                 Good: Very good probability of success. Achieves all objectives in reasonable fashion with reasonably
+                 good prices and costs.
+                 Acceptable: Has reasonable probability of success. Some objectives may not be met.
+                 Poor: Falls short of expectations and has a low probability of success.
+                 Unacceptable: Submission fails to meet requirements and the approach has no probability of success.
+
+              b. Each proposal will be evaluated on the following criteria:
+
+              o Experience and qualifications of the company, including the number of years of experience providing e-
+          forms solution services, conformity with the proposal specifications, safety and ease of using the e-forms
+          solution, and offers innovation. (maximum 30 points)
+              o Quality and availability of Customer Support (e.g. toll-free number, hours available, and a secure
+          website to view/submit claims). (maximum 15 points)
+              o Quality of claims administration (e.g. time lines of payments; ease of filing, accuracy, availability of
+          customer service, claims dispute resolution process). (maximum 15 points)
+              o Prices and Costs to NNPS (maximum 40 points)
+              Exceptions/Alternatives will also be considered.
+
+          3. Based on the initial evaluation, NNPS may request the selected Offerors to make oral presentations.
+             Thereafter, NNPS will conduct negotiations with each of the selected short-listed Offerors. Individuals
+             representing the Offeror during negotiations shall have the authority to negotiate and contractually bind the
+             company to a contract.
+          4. After negotiations are completed, NNPS will select the Offeror who, in NNPS’s opinion, has made the best
+             proposal and shall award the contract to that Offeror (referred to in this RFP as the Successful Offeror).
+             Should NNPS determine in writing and in its sole discretion that only one Offeror is fully qualified, or that
+             one Offeror is clearly more highly qualified than the others under consideration, a contract may be
+             negotiated and awarded to that Offeror.
+          5. NNPS is not required to furnish a statement of the reason(s) why a proposal was not deemed to be the most
+             advantageous.
+
+     J.     Presentation/Demonstration:
+
+
+
+RFP #015-0-2020/AZ                                                                                     Page 8 of 24
+       If in NNPS’s opinion, vendor presentations or demonstrations of the Offeror’s proposed system’s features and
+       capabilities are warranted, NNPS will notify the appropriate vendors. Such presentation or demonstration will
+       be at an NNPS site at a date and time mutually agreed to between NNPS and Offeror and will be at the Offeror’s
+       expense.
+
+     K. Preparation of Proposals:
+       In presenting their proposals, Offerors are encouraged to be thorough in addressing the Statement of Needs, the
+       Preparation of Proposal Guidelines, and the Proposal Submittal Requirements as outlined in this RFP.
+
+       To facilitate the NNPS’s evaluation of Offeror’s proposal, Offeror is to number all pages of its proposal and
+       provide tabs listing the evaluation criteria indicated above.
+
+       Offerors should be completely responsive to this RFP, be able to conform to the terms and conditions provided,
+       herein, and provide responses to the evaluation criteria outlined, below. Offeror should not incorporate its
+       standard contract document into its proposal, by reference or in full text, without listing each exception it
+       represents to the terms and conditions of this RFP, as described in the Exceptions/Alternatives section of this
+       paragraph.
+
+       Offerors are encouraged to provide thorough and detailed information regarding the product and services being
+       offered, based on the details provided, below.
+
+       Give a brief description of your organization to include:
+          a. Location of your Company’s headquarters.
+          b. List other types of business conducted by your Company,
+          c. List your Company’s primary sales office in and around Newport News Public Schools, location, and
+               the names of service representatives. Provide the background of the Account Representative that will be
+               assigned to Newport News Public Schools.
+          d. Indicate whether there is any pending litigation against your organization or any of its subsidiaries or
+               affiliates. If so, please furnish all particulars.
+          e. Briefly describe your Business Contingency Plan for a major disruption in processing at your current
+               location.
+          f. Does your Company currently offer performance guarantees or would your Company consider offering?
+          g. Do you own the product that your offering based on this RFP or would you be contracting with a third
+               party provider? Please state so.
+          h. Please clearly state if this product needs to be maintained on a continuous basis. If so, please include the
+               prices and costs as advised in prior sections of this RFP.
+
+
+       Exceptions/Alternatives
+          ° Exceptions - Detail any exceptions taken to the Specifications and Terms and Conditions sections of this
+               RFP. For each exception, specify the RFP page number, section number, and the exception taken.
+               Offeror should not incorporate by reference its entire, standard contract document.
+          ° Alternatives - Offerors may present alternative methods to the “Statement of Needs” outlined in the
+               RFP. However, unsolicited optional and/or alternative offers should first present a response to NNPS’s
+               objectives detailed in the “Statement of Needs” section of the solicitation. Offerors must address all
+               evaluation criteria, with respect to any alternate solutions proposed.
+          ° Exceptions and/or alternatives will be subject to negotiations.
+
+     L. Cost of Responding:
+       This solicitation does not commit NNPS to pay any costs incurred by the Offeror or any other party in the
+       preparation and/or submission of proposals or in making necessary studies or designs for the preparation thereof,
+       nor is NNPS obligated to procure or contract for such services.
+
+
+RFP #015-0-2020/AZ                                                                                    Page 9 of 24
+    V. GENERAL TERMS AND CONDITIONS
+     M. Contract Document:
+       This RFP, its addenda, Successful Offeror’s proposal, any additional information requested, and negotiated
+       changes and will constitute the final contract hereafter referred to as this “contract”. These documents will be
+       incorporated by reference into the NNPS purchase order awarding this contract. This contract shall be governed
+       by the contract documents in the following order of precedence:
+       This RFP document;
+       Any negotiated changes to the foregoing documents; and
+       Offeror’s proposal
+
+     N. Proposal Binding for One-Hundred Twenty (120) Days:
+       Offeror agrees that its Proposal shall be binding and may not be withdrawn for a period of one-hundred and
+   twenty (120) calendar days after the scheduled closing date of this Request for Proposals.
+
+     O. Proprietary Information/Non-Disclosure:
+       Offeror is advised that the Virginia Public Procurement Act (Section 2.2-4342, Code of Virginia, 1950 as
+       amended) shall govern public inspection of all records submitted by Offeror. Specifically, if Offeror seeks to
+       protect any proprietary data or materials, pursuant to Section 2.2-4342, Offeror shall:
+       1. Invoke the protections of this section prior to or upon submission of the data or other materials,
+       2. Provide a statement that identifies the data or other materials to be protected and that states the reasons why
+           protection is necessary.
+       3. Submit trade secrets or other proprietary information under separate cover in a sealed envelope clearly
+           marked “PROPRIETARY”.
+       4. Information submitted that does not meet the above requirements will be considered public information in
+           accordance with State statutes.
+       5. NNPS reserves the right to submit such information to the NNPS attorney for concurrence of the Offeror’s
+           claim that it is in fact proprietary.
+       6. References to the proprietary information may be made within the body of the Proposal; however, all
+           information contained within the body of the Proposal shall be public information in accordance with State
+           statutes.
+       7. Trade secrets or proprietary information submitted by an Offeror in conjunction with this RFP is not subject
+           to public disclosure under the Virginia Freedom of Information Act (VFOIA).
+       8. Information submitted that does not meet the above requirements will be considered public information in
+           accordance with the VFOIA.
+       9. An all-inclusive statement that the entire Proposal is proprietary is unacceptable. A statement that Offeror’s
+           costs and/or Proposal pricing are to be protected is unacceptable. Offeror will be requested to remove any
+           such statement(s) in order to be eligible for further consideration.
+
+     P. Contract Modification(s):
+       After award, any and all modifications to this contract shall be mutually agreed to by both parties, in writing,
+       and authorized by the NNPS Purchasing Agent or his designee via issuance of a change order (purchase order).
+
+     Q. Offeror Obligation:
+       Offeror shall carefully examine the contents of this Request for Proposals and any subsequent addenda. Failure
+       to do so shall not relieve the Successful Offeror of its obligation to fulfill the requirements of any contract
+       awarded as a result of this RFP.
+
+     R. Conditions of Work:
+       Offeror shall inform itself fully of the conditions relating to services required herein. Failure to do so will not
+       relieve a Successful Offeror of the obligation to furnish all goods and/or services necessary to carry out the
+       provisions of this contract.
+
+
+
+RFP #015-0-2020/AZ                                                                                       Page 10 of 24
+     S. Prime Contractor:
+       If in its performance of this contract, Successful Offeror supplies goods or services by or through another party
+       or subcontractor, Successful Offeror agrees that:
+       1. Successful Offeror shall act as the prime contractor for the goods and services to be provided under contract
+            and shall be the sole point of contact with regard to all obligations under this contract.
+       2. Successful Offeror represents and warrants that Successful Offeror has made third parties or subcontractors
+            aware of the proposed use and disposition of the other party’s products or services, and that such other party
+            has agreed in writing that it has no objection and that NNPS is not liable to such third parties or
+            subcontractors for any work performed under this contract.
+       3. The use of subcontractors and the work they perform must receive the prior written approval of NNPS.
+            NNPS will designate a Contract Administrator to approve such work.
+       4. Successful Offeror shall be solely responsible for all work performed and materials provided by
+            subcontractors.
+       5. Successful Offeror shall be responsible for the liability of subcontractors for the types and limits required of
+            the Successful Offeror under this contract.
+
+     T. Subcontractors:
+       Contractor's use of subcontractors and the work they are to perform must receive written approval from the
+       Contract Administrator at least ten (10) calendar days prior to the work being performed. Contractor shall be
+       solely responsible for all work performed and materials provided by subcontractors. Contractor shall be
+       responsible for the liability of subcontractors for the types and limits required of the Contractor.
+
+     U. Non-Assignment:
+       Successful Offeror shall not assign its rights and duties under this Agreement without the prior written consent
+       of the NNPS Contract Administrator.
+
+     V. Anti-trust:
+       Any perceived anti-trust violation will be reported to the State Attorney General for possible enforcement of
+       anti-trust laws.
+
+     W. Anti-collusion/Nondiscrimination Requirements Form:
+      The attached “Anti-collusion/Nondiscrimination Requirements” form, on page 2 of this RFP, shall be executed
+      by Offeror and is to be submitted with Offeror’s Proposal. The requirements set forth on said form shall be
+      considered to be binding terms and conditions in any contract resulting from this RFP. A contract will not be
+      awarded to an Offeror who has not signed the anti-collusion/nondiscrimination statement.
+
+     X. Hold Harmless/Indemnification:
+       It is understood and agreed that Successful Offeror hereby assumes the entire responsibility and liability for any
+       and all material damages to persons or property caused by or resulting from or arising out of any act or omission
+       on the part of Successful Offeror, its subcontractors, agents or employees under or in connection with this
+       Contract or the performance or failure to perform any work required by this Contract. Successful Offeror agrees
+       to indemnify and hold harmless NNPS and its agents, volunteers, servants, employees and officials from and
+       against any and all claims, losses, or expenses, including reasonable attorney's fees and litigation expenses
+       suffered by any indemnified party or entity as the result of claims or suits due to, arising out of or in connection
+       with (a) any and all such damages, real or alleged, (b) the violation of any law applicable to this Contract, and
+       (c) the performance of the work by Successful Offeror or those for whom Successful Offeror is legally liable.
+       Upon written demand by NNPS, Successful Offeror shall assume and defend at Successful Offeror's sole
+       expense any and all such suits or defense of claims made against NNPS, its agents, volunteers, servants,
+       employees or officials.
+
+     Y. Notices:
+
+
+
+RFP #015-0-2020/AZ                                                                                      Page 11 of 24
+       All notices, requests, demands, and elections under this contract, other than routine operational communications,
+       shall be in writing and shall be deemed to have been duly given on the date when hand-delivered, or on the date
+       of the confirmed facsimile transmission, or on the date received when delivered by courier that has a reliable
+       system for tracking delivery, or six (6) NNPS business days after the date of mailing when mailed by United
+       States mail, registered or certified mail, return receipt requested, postage prepaid. All notices shall be addressed
+       to the following individuals:
+       To NNPS: NNPS Contract Administrator as designated in this RFP.
+       To Successful Offeror: Successful Offeror’s Contract Administrator as defined in Successful Offeror’s
+       Proposal.
+       Either party may from time to time change the individual(s) to receive notices and/or its address for notification
+       purposes by giving the other party written notice as provided above.
+
+     Z. Non-Performance:
+       1. Delivery Delays: NNPS reserves the right to procure goods and/or services to be provided under this
+          contract from other sources in the event Successful Offeror fails to deliver such goods and/or service
+          deliverables in accordance with delivery dates and time frames set forth in this contract.
+       2. Unacceptable Deliveries (Rejections): Upon notification by NNPS that goods and/or service deliverables
+          provided by the Successful Offeror under this contract are damaged and/or not of the quality specified by
+          NNPS, such goods and/or service deliverables will be rejected. Successful Offeror shall replace such
+          rejected goods and/or service deliverables immediately or within a reasonable time as determined by NNPS.
+       3. Successful Offeror shall remove all rejected materials, equipment or supplies from the premises of NNPS
+          within ten (10) days of notification. Rejected goods and/or service deliverables not removed from NNPS’
+          premises within ten (10) days will be regarded as abandoned, shall become the property of NNPS, and
+          NNPS shall have the right to dispose of such items.
+       4. NNPS reserves the right to authorize immediate purchase from other sources against rejections.
+       5. Liability: Successful Offeror shall be liable to NNPS for all costs incurred by NNPS as a result of
+          Successful Offeror's failure to perform in accordance with the contract. Successful Offeror's liability shall
+          include, but not be limited to:
+          a. Damages and other delay costs, to include costs to procure goods/services from alternate suppliers.
+          b. Increased costs of performance, such as extended overhead and increased performance costs resulting
+              from performance delays caused by Successful Offeror and/or rejections of Successful Offeror’s goods
+              and/or service deliverables.
+          c. Warranty and rework costs, liability to third party, excess costs, attorney’s fees and related costs
+              incurred by NNPS due to non-responsive performance of Successful Offeror.
+
+     AA. Termination Without Cause:
+      NNPS may at any time, and for any reason, terminate this Contract by written notice to Successful Offeror
+      specifying the termination date, which shall be not less than thirty (30) days from the date such notice is mailed.
+      Notice shall be given to Successful Offeror by certified mail/return receipt requested, addressed to the
+      Successful Offeror’s Contract Administrator. In the event of such termination, Successful Offeror shall be paid
+      such amount as shall compensate Successful Offeror for the work satisfactorily completed, and accepted by
+      NNPS, at the time of termination. If the event NNPS terminates this Contract, Successful Offeror shall
+      withdraw its personnel and equipment, cease performance of any further work under this Contract, and turn over
+      to NNPS any work completed or in process for which payment has been made.
+
+     BB. Termination with Cause/Breach:
+      In the event that Successful Offeror shall for any reason or through any cause be in default of the terms of this
+      Contract, NNPS may give Successful Offeror written notice of such default by certified mail/return receipt
+      requested, addressed to the Successful Offeror’s Contract Administrator. Unless otherwise provided, Successful
+      Offeror shall have ten (10) days from the date such notice is mailed in which to cure the default. Upon failure of
+      the Successful Offeror to cure the default, NNPS may immediately cancel and terminate this Contract as of the
+      mailing date of the default notice. Upon termination, Successful Offeror shall withdraw its personnel and
+
+
+RFP #015-0-2020/AZ                                                                                     Page 12 of 24
+       equipment, cease performance of any further work under the Contract, and turn over to NNPS any work in
+       process for which payment has been made. In the event of violations of law, safety or health standards and
+       regulations, this Contract may be immediately cancelled and terminated by NNPS and provisions herein with
+       respect to opportunity to cure default shall not be applicable.
+
+     CC. Breach of Contract:
+      Successful Offeror shall be deemed in breach of this contract if the Successful Offeror:
+      Fails to comply with any terms of this contract;
+      Fails to cure such noncompliance within ten (10) calendar days from the date of the NNPS written notice or
+      such other time frame, greater than ten (10) calendar days, specified by the NNPS Contract Administrator in the
+      notice.
+      Fails to submit a written response to NNPS’s notification of noncompliance within ten (10) calendar days after
+      the date of the NNPS notice.
+      All notices under this contract shall be submitted, either by fax or certified mail, return-receipt requested, to the
+      respective contract administrator. Successful Offeror shall not be in breach of this contract as long as its default
+      was due to causes beyond the reasonable control of and occurred without any fault or negligence on the part of
+      both the Successful Offeror and its subcontractors. Such causes may include, but are not restricted to, acts of
+      God or of the public enemy, acts of NNPS in its sovereign capacity, fires, floods, epidemics, strikes, freight
+      embargoes, and unusually severe catastrophic weather such as hurricanes.
+
+     DD. Applicable Law:
+      This Contract shall be deemed to be a Virginia contract and shall be governed as to all matters whether of
+      validity, interpretations, obligations, performance or otherwise exclusively by the laws of the Commonwealth of
+      Virginia, and all questions arising with respect thereto shall be determined in accordance with such laws.
+      Regardless of where actually delivered and accepted, this Contract shall be deemed to have been delivered and
+      accepted by the parties in the Commonwealth of Virginia.
+
+     EE. Compliance with All Laws:
+      Successful Offeror shall comply with all federal, state and local statutes, ordinances, and regulations now in
+      effect or hereafter adopted, in the performance of this contract. Successful Offeror represents that it possesses
+      all necessary licenses and permits required to conduct its business and/or will acquire any additional licenses
+      and permits necessary for performance of this contract prior to the initiation of work. If the Successful Offeror
+      is a corporation, Successful Offeror further expressly represents that it is a corporation of good standing in the
+      Commonwealth of Virginia and will remain in good standing throughout the term of the contract and any
+      extensions. All City of Newport News business license, personal property, real estate and other applicable tax
+      requirements shall be met by Successful Offeror.
+
+     FF. Venue:
+       Venue shall be in the Circuit Court of the City of Newport News, Virginia, and the United States District Court
+       for the Eastern District of Virginia, Norfolk Division, compliant with applicable laws and regulations, as
+       deemed appropriate by NNPS.
+
+     GG. Severability:
+      If any provision of this contract is found by any court of competent jurisdiction to be invalid or unenforceable,
+      the invalidity of such provision shall not affect the other provisions of this contract, and all other provisions of
+      this contract shall remain in full force and effect.
+
+     HH. Non-Appropriation of Funds:
+      It is understood and agreed between the parties herein that NNPS shall be bound hereunder only to the extent
+      that the funds shall have been appropriated. In the event no funds or insufficient funds are appropriated, NNPS
+      shall immediately notify the Successful Offeror of such occurrence and this Contract shall terminate on the last
+      day funds are available without penalty or expense to NNPS of any kind whatsoever.
+
+
+RFP #015-0-2020/AZ                                                                                       Page 13 of 24
+     II. Tax Exemption:
+        NNPS is exempt from federal excise tax and from all State and local taxes. Successful Offeror shall not include
+        such taxes in any invoices under this agreement. Upon request, NNPS will furnish the Successful Offeror with
+        tax exemption certificates or the NNPS tax exempt number.
+
+     JJ. Vendor’s Invoices:
+       Successful Offeror shall submit to NNPS all invoices promptly upon completion of the requirements for
+       installation, delivery, and acceptance of the Products and Services required under this contract. Invoices shall
+       not include any costs other than those identified in the executed NNPS purchase order awarding this contract or
+       any subsequent change orders issued by the NNPS Purchasing Division. All shipping costs are the Successful
+       Offeror’s responsibility, except to the extent such charges are identified in the executed NNPS purchase order or
+       change orders. Successful Offeror’s invoices shall provide at a minimum:
+            Type and description of the Product or Service installed, delivered and accepted;
+            Serial numbers, if any;
+            Quantity delivered;
+            Charge for each item;
+            Extended total (unit costs x quantity);
+            This RFP number and the NNPS Purchase Order Number.
+
+     KK. Contractual Disputes:
+      Any dispute concerning a question of fact as a result of a contract with NNPS which is not disposed of by
+      agreement shall be decided by the NNPS Purchasing Agent, who shall reduce his decision to writing and mail or
+      otherwise forward a copy thereof to the contractor within thirty (30) days. The decision of the NNPS
+      Purchasing Agent shall be final and conclusive unless the contractor appeals within six (6) months of the date of
+      the final written decision by instituting legal action as provided in the Code of Virginia. A contractor may not
+      institute legal action, prior to receipt of the public body's decision on the claim, unless the public body fails to
+      render such decision within the time specified. Contractual claims, whether for money or other relief, shall be
+      submitted in writing no later than sixty days after final payment; however, written notice of the contractor's
+      intention to file such claim shall have been given at the time of the occurrence or beginning of the work upon
+      which the claim is based. Nothing herein shall preclude a contract from requiring submission of an invoice for
+      final payment within a certain time after completion and acceptance of the work or acceptance of the goods.
+      Pendency of claims shall not delay payment of amounts agreed due in the final payment.
+
+     LL. Warranty/Guarantee:
+      Successful Offeror guarantees against defective or faulty material or workmanship for at least one (1) year or for
+      the manufacturer’s standard warranty period, whichever is greater, from date of acceptance by NNPS. To
+      furnish adequate protection from damage for all work and to repair damages of any kind for which Successful
+      Offeror or Successful Offeror’s workmen are responsible, to the building or equipment, to Successful Offeror’s
+      own work, or to the work of others. Any merchandise or service provided under the contract which is or
+      becomes defective during the warranty period shall be replaced by the Successful Offeror free of charge with the
+      specific understanding that all replacements shall carry the same guarantee as the original equipment or service
+      (one year or manufacturer’s standard warranty period, whichever is greater, from the date of acceptance of the
+      replacement). Successful Offeror shall make any such replacement immediately upon receiving notice from
+      NNPS.
+
+     MM. Payment Terms:
+      To be eligible for payment, all labor, equipment and materials covered under Successful Offeror’s invoice must
+      be completed and accepted by NNPS. NNPS agrees to make payments under this contract within thirty (30)
+      days after receipt of a correct invoice for such payment. Where payment is made by mail, the date of postmark
+      shall be deemed to be the date of payment. Any amounts due NNPS under the terms of this or any other
+      agreement may be applied against Successful Offeror’s invoices with documentation for the basis of the
+
+
+RFP #015-0-2020/AZ                                                                                     Page 14 of 24
+       adjustment attached. In no event shall any interest penalty or late fee accrue when payment is delayed because
+       of disagreement between NNPS and Successful Offeror regarding the quantity, quality, time of delivery, or other
+       noncompliance with the contract requirements for any Product or Service or the accuracy or correctness of any
+       invoice. Payment terms offering a "prompt payment discount" of 20 days or greater will be considered in the
+       evaluation of Proposals. All other payment terms shall be net thirty (30) calendar days or greater. Payment
+       terms not specified by Offeror shall be Net 45 days.
+
+       Special Educational or Promotional Discounts
+       Successful Offeror shall extend any special educational or promotional sale prices or discounts immediately to
+       NNPS during the term of the contract. Such notice shall also advise the duration of the specific sale or discount
+       price.
+
+     NN. Prompt Payment:
+      NNPS will promptly pay for completed, delivered goods or services accepted under this Contract by the
+      payment date established. The required payment date will be either: (i) the date on which payment is due under
+      the terms of this Contract for the provision of the goods or services; or (ii) if a date is not established by this
+      Contract, not more than forty-five (45) days after goods or services are received or not more than forty-five (45)
+      days after the invoice is rendered, whichever is later.
+
+       Within twenty (20) days after the receipt of the invoice or goods or services, NNPS shall notify the supplier of
+       any defect or impropriety that would prevent payment by the payment date. Should NNPS fail to pay the
+       Contractor by the pay date, finance charges may be assessed by the Contractor. Unless otherwise provided
+       under the terms of this Contract, interest will accrue at the rate of one percent (1%) per month. This will not
+       apply to late payment provisions in any public utility tariffs or public utility negotiated Contracts. Contractor
+       shall include in each of its subcontracts a provision requiring each subcontractor to include or otherwise be
+       subject to the same payment and interest requirements with respect to each lower-tier subcontractor.
+
+       In cases where payment to Contractor is made by mail, the date of postmark shall be deemed to be the date
+       payment is made for purposes of this Contract.
+
+       Individual Contractors shall provide to NNPS their social security numbers and proprietorships, partnerships,
+       and corporations to provide their federal employer identification numbers.
+
+       Within seven (7) days after Contractor receives payment from NNPS, Contractor shall take one or more of the
+       following actions:
+
+       1. Pay all subcontractors for the proportionate share of the total payment received from NNPS attributable to
+          the work performed by the subcontractors under this Contract;
+       2. Notify NNPS and all affected subcontractors, in writing, of Contractor’s intention to withhold all or a part of
+          each affected subcontractor’s payment including the reason for nonpayment.
+       3. Pay interest to the subcontractor on all amounts owed by the Contractor that remain unpaid after (7) seven
+          days following receipt by the Contractor of payment from NNPS for work performed by the subcontractor
+          under that Contract, except for amounts withheld, as allowed in #2 above.
+
+       A Contractor's obligation to pay an interest charge to a subcontractor pursuant to the payment clause in this
+       section shall not be construed to be an obligation of NNPS. A Contract modification will not be made for the
+       purpose of providing reimbursement by NNPS for interest charges owed by Contractor. A cost reimbursement
+       claim to NNPS shall not include any amounts for reimbursement of interest charges owed by Contractor.
+
+     OO.     Payment by Electronic Funds Transfer (EFT)
+
+
+
+RFP #015-0-2020/AZ                                                                                     Page 15 of 24
+   (a) Method of payment.
+
+      (1) All payments by Newport News Public Schools (NNPS) under this contract shall be made by electronic funds
+    transfer (EFT) except as provided in paragraph (a)(2) of this clause. As used in this clause, the term “EFT” refers to
+    the funds transfer and may also include the payment information transfer.
+      (2) In the event NNPS is unable to release one or more payments by EFT, the Contractor agrees to either—
+         (i) Accept payment by check or some other mutually agreeable method of payment; or
+         (ii) Request NNPS to extend payment due dates until such time NNPS makes payment by EFT (but see
+         paragraph (d) of this clause).
+  (b) Mandatory submission of Contractor's EFT information.
+      (1) The Contractor is required to provide NNPS with the information required to make payment by EFT (see
+      paragraph (j) of this clause). The Contractor shall provide this information directly to the NNPS Accounting
+      Department (hereafter referred to as “Accounting”) no later than 15 days prior to submission of the first request
+      for payment. In the event that the EFT information changes, the Contractor shall be responsible for providing the
+      updated information to the Accounting.
+      (2) If the Contractor provides EFT information applicable to multiple contracts, the Contractor shall specifically
+      state the applicability of this EFT information in terms acceptable to Accounting.
+  (c) Mechanisms for EFT payment. NNPS may make payment by EFT through the Automated Clearing House (ACH)
+  network, subject to the rules of the National Automated Clearing House Association
+  (d) Suspension of payment.
+      (1) The NNPS is not required to make any payment under this contract until after receipt, by Accounting, of the
+      correct EFT payment information from the Contractor. Until receipt of the correct EFT information, any invoice or
+      contract financing request shall be deemed not to be a proper invoice for the purpose of prompt payment under this
+      contract.
+      (2) If the EFT information changes after submission of correct EFT information, NNPS shall begin using the
+      changed EFT information no later than 30 days after its receipt by Accounting to the extent payment is made by
+      EFT. However, the Contractor may request that no further payments be made until the updated EFT information is
+      implemented by Accounting. If such suspension would result in a late payment under the prompt payment terms of
+      this contract, the Contractor’s request for suspension shall extend the due date for payment by the number of days
+      of the suspension.
+  (e) Liability for uncompleted or erroneous transfers.
+      (1) If an uncompleted or erroneous transfer occurs because NNPS used the Contractor’s EFT information
+      incorrectly, NNPS remains responsible for—
+         (i) Making a correct payment;
+         (ii) Paying any prompt payment penalty due; and
+         (iii) Recovering any erroneously directed funds.
+      (2) If an uncompleted or erroneous transfer occurs because the Contractor’s EFT information was incorrect, or was
+      revised within 30 days of NNPS’ release of the EFT payment transaction, and—
+         (i) If the funds are no longer under the control of Accounting, NNPS is deemed to have made payment and the
+         Contractor is responsible for recovery of any erroneously directed funds; or
+         (ii) If the funds remain under the control of Accounting, NNPS shall not make payment and the provisions of
+         paragraph (d) shall apply.
+  (f) EFT and prompt payment. A payment shall be deemed to have been made in a timely manner in accordance with
+  the prompt payment terms of this contract if, in the EFT payment transaction instruction released to the Federal
+
+
+RFP #015-0-2020/AZ                                                                                     Page 16 of 24
+  Reserve System, the date specified for settlement of the payment is on or before the prompt payment due date,
+  provided the specified payment date is a valid date under the rules of the Federal Reserve System.
+  (g) EFT and assignment of claims. If the Contractor assigns the proceeds of this contract as provided for in the
+  assignment of claims terms of this contract, the Contractor shall require as a condition of any such assignment, that
+  the assignee shall provide the EFT information required by paragraph (j) of this clause to Accounting, and shall be
+  paid by EFT in accordance with the terms of this clause. In all respects, the requirements of this clause shall apply to
+  the assignee as if it were the Contractor. EFT information that shows the ultimate recipient of the transfer to be other
+  than the Contractor, in the absence of a proper assignment of claims acceptable to NNPS, is incorrect EFT
+  information within the meaning of paragraph (d) of this clause.
+  (h) Liability for change of EFT information by financial agent. NNPS is not liable for errors resulting from changes to
+  EFT information provided by the Contractor’s financial agent.
+  (i) Payment information. Accounting shall forward to the Contractor available payment information that is suitable
+  for transmission as of the date of release of the EFT instruction to the Federal Reserve System. NNPS may request the
+  Contractor to designate a desired format and method(s) for delivery of payment information from a list of formats and
+  methods Accounting is capable of executing. However, NNPS does not guarantee that any particular format or
+  method of delivery is available and retains the latitude to use the format and delivery method most convenient to
+  NNPS. If NNPS makes payment by check in accordance with paragraph (a) of this clause, NNPS shall mail the
+  payment information to the remittance address in the contract.
+  (j) EFT information. The Contractor shall provide the following information to Accounting. The Contractor may
+  supply this data for this or multiple contracts (see paragraph (b) of this clause). The Contractor shall designate a
+  single financial agent per contract capable of receiving and processing the EFT information using the EFT methods
+  described in paragraph (c) of this clause.
+      (1) The contract number (or other procurement identification number).
+      (2) The Contractor’s name and remittance address, as stated in the contract(s).
+      (3) The signature (manual or electronic, as appropriate), title, and telephone number of the Contractor official
+    authorized to provide this information.
+      (4) The name, address, and 9-digit Routing Transit Number of the Contractor’s financial agent.
+      (5) The Contractor’s account number and the type of account (checking, saving, or lockbox).
+      (6) If applicable, the Fedwire Transfer System telegraphic abbreviation of the Contractor’s financial agent.
+      (7) If applicable, the Contractor shall also provide the name, address, telegraphic abbreviation, and 9-digit Routing
+      Transit Number of the correspondent financial institution receiving the wire transfer payment if the Contractor’s
+      financial agent is not directly on-line to the Fedwire Transfer System; and, therefore, not the receiver of the wire
+      transfer payment.
+
+  NNPS Accounting Department Designated Contact:
+  Accounting Department
+  NNPS Administration Building
+  12465 Warwick Blvd.
+  Newport News, Virginia 23606
+  Tel: (757)591- 4513
+  Steve Kanehl, Accounting Supervisor
+  Steven.Kanehl@nn.k12.va.us
+
+     PP. Audits:
+
+
+RFP #015-0-2020/AZ                                                                                     Page 17 of 24
+       NNPS shall have the right to audit all books and records (in whatever form they may be kept, whether written,
+       electronic or other) relating or pertaining to this Contract (including any and all documents and other materials,
+       in whatever form they may be kept, which support or underlie those books and records), kept by or under the
+       control of Successful Offeror, including, but not limited to those kept by Successful Offeror, its employees,
+       agents, assigns, successors and subcontractors. Successful Offeror shall maintain such books and records,
+       together with such supporting or underlying documents and materials, for the duration of this Contract and for at
+       least three years following the completion of this Contract, including any and all renewals thereof. The books
+       and records, together with the supporting or underlying documents and materials shall be made available, upon
+       request, to NNPS, through its employees, agents, representatives, contractors or other designees, during normal
+       business hours at Successful Offeror’s office or place of business in Newport News, Virginia. In the event that
+       no such location is available, then the books and records, together with the supporting or underlying documents
+       and records, shall be made available for audit at a time and location in Newport News, Virginia, which is
+       convenient for NNPS. This paragraph shall not be construed to limit, revoke, or abridge any other rights,
+       powers, or obligations relating to audit which NNPS may have by state, city, or federal statute, ordinance,
+       regulation, or agreement, whether those rights, powers, or obligations are express or implied.
+
+     QQ. Notice of Award:
+      Any contract resulting from this RFP will be publicly posted for inspection in the NNPS Purchasing
+      Department, 12465 Warwick Boulevard, Newport News, Virginia.
+
+     RR. Award:
+      NNPS intends to award a contract to a fully qualified Offeror submitting the best proposal based on the criteria
+      set forth herein and as determined by NNPS in its sole discretion. At NNPS’ sole discretion, NNPS may reject
+      any or all proposals in whole or in part if such action is determined to be in NNPS’ best interest. NNPS reserves
+      the right to enter into any contract deemed to be in its best interest, including the award of this contract to more
+      than one contractor.
+
+     SS. Disposition of Proposals:
+       All materials submitted in response to this RFP will become the property of the NNPS. One (1) copy of each
+       proposal will be retained for official files, will become a matter of public record after award of the contract, and
+       will be open to public inspection subject to the Proprietary Information/Disclosure section of this RFP.
+
+     TT. Non-Exclusivity: N/A
+
+     UU. Exclusivity:
+      Any contract resulting from this RFP shall be exclusive with the following exceptions:
+           NNPS reserves the right to procure goods/services under this contract from a third party in the event of
+              the following:
+           Contractor is unable to provide required services within the required delivery time.
+           Contract is unable to provide the required services requested.
+           NNPS volume demands exceed original intent of the contract.
+
+    VI. SPECIAL TERMS AND CONDITIONS
+     VV. Contract Term:
+        This contract term shall be for one (1) year, commencing on the date of award.
+
+     WW. Contract Extension:
+      If required, this contract may be extended upon mutual agreement of both parties for four (4) additional, one-
+      year periods, upon the same prices, terms, and conditions set forth in the negotiated contract resulting from this
+      RFP.
+
+     XX. Time is of the Essence:
+
+
+RFP #015-0-2020/AZ                                                                                      Page 18 of 24
+       Time is of the essence in this Contract. Successful Offeror expressly acknowledges that in the performance of
+       its obligations, NNPS is relying on timely performance and will schedule operations and incur obligations to
+       third parties in reliance upon timely performance by Successful Offeror and may sustain substantial losses by
+       reason of untimely performance.
+
+     YY. Insurance:
+      1. Contractor shall submit to the NNPS Contract Administrator certificates of insurance, prior to beginning
+      work under the Contract and no later than ten (10) days after award of the Contract.
+      2. All policies of insurance required herein shall be written by insurance companies licensed to conduct the
+      business of insurance in Virginia, and acceptable to Owner, and shall carry the provision that the insurance will
+      not be cancelled or materially modified without thirty days (30) prior written notice to the Owner or to the
+      extent permitted by Virginia law.
+      3. The certificates of insurance shall list NNPS, 12465 Warwick Boulevard, Newport News, Virginia, 23606-
+      0130, as the additional insured for the specified project as outlined in this IFB. Copies of actual endorsements
+      to the policy shall be required to confirm any special request, such as, additional insured status. A COI shall not
+      be issued or delivered that gives the impression there are coverage terms the referenced policy does not
+      specifically provide.
+
+       IT IS THE RESPONSIBILITY OF THE CONTRACTOR TO IMMEDIATELY NOTIFY THE OWNER
+       SHOULD ANY POLICY BE CANCELLED. FAILURE TO NOTIFY THE OWNER SHALL CONSTITUTE
+       A MATERIAL BREACH OF THE CONTRACT.
+
+
+           Forms                   Limits
+           Workers' Compensation       Statutory
+           Automobile Liability        $1,000,000 Combined Single Limit
+           Commercial General Liability,        $1,000,000 Combined Single Limit
+           including Contractual Liability and
+           Products and Completed Operations Coverage
+           Umbrella/Excess Liability        $5,000,000
+
+       The establishment of minimum limits of insurance by NNPS does not reduce or limit the liability or
+       responsibilities of the Successful Offeror.
+
+     ZZ. Unauthorized Disclosure of Information:
+      Successful Offeror shall assume the entire responsibility and liability for any and all damages caused by or
+      resulting from or arising out of the negligent or willful unauthorized disclosure of confidential information on
+      the part of the Successful Offeror, its subcontractors, agents or employees under or in connection with this
+      contract. The Successful Offeror shall save harmless and indemnify NNPS and its agents, volunteers, servants,
+      employees and officers from and against any and all claims, losses or expenses, including but not limited to
+      attorney’s fees, which either or both of them may suffer, pay or incur as the result of claims or suits due to,
+      arising out of or in connection with, any and all such unauthorized disclosures, real or alleged. The Successful
+      Offeror shall, upon written demand by NNPS, assume and defend, at the Successful Offeror’s sole expense, any
+      and all such suits or defense of claims alleging unauthorized disclosures of confidential information.
+
+      Any negligent or willful unauthorized disclosure of confidential information on the part of the Successful
+      Offeror, its subcontractors, agents or employees under or in connection with this contract shall constitute a
+      breach of the terms of this contract. NNPS may proceed by appropriate court action, including seeking
+      injunctive relief, to prevent continuing unauthorized disclosures, and Successful Offeror shall save harmless and
+      indemnify NNPS for court costs, litigation expenses and attorney’s fees that it may pay or incur as the result of
+      seeking to prevent or stop any and all unauthorized disclosures of confidential information.
+     AAA. Using Entities/Regional /Cooperative Contracts
+
+
+RFP #015-0-2020/AZ                                                                                     Page 19 of 24
+         This solicitation was issued in accordance with Code of Virginia §2.2-4304 on behalf of the members of the
+         Southeastern Virginia Governmental Purchasing Cooperative (SVGPC), as well as other public bodies,
+         governmental jurisdictions and school divisions. In the event these entities opt to participate under any contract
+         awarded as a result of this solicitation, each will enter into a separate contract directly with the Successful
+         Offeror or Offerors, incorporating all terms and conditions set forth in this contract, including incorporated best
+         and final offers. Each entity will be responsible for the contract administration of its contract directly with the
+         Contractor. NNPS assumes no authority, liability or obligation, on behalf of any other public or non-public
+         entity that may use any contract resulting from this solicitation. All purchases and payment transactions will be
+         made directly between the Contractor and the requesting entity. Any exceptions to this requirement must be
+         specifically noted in the solicitation response.
+
+      BBB. CERTIFICATION REGARDING DEBARMENT
+
+     This is to certify that this person/firm/corporation is not now debarred by the Federal Government or by the
+     Commonwealth of Virginia or by any other state, or by any town, city, or county, from submitting Bids on contracts
+     for construction covered by this solicitation, nor are they an agent of any person or entity that is now so debarred.
+
+                              ___________________________
+                              Name of Official
+
+                             ______________________
+                             Title
+
+                             _______________________
+                             Firm or Corporation
+
+                             _______________________
+                             Date
+
+
+      CCC. Date Security Clauses (AS REQUIRED)
+       1. Network Security. Vendor agrees at all times to maintain network security that at a minimum includes:
+       network firewall provisioning, intrusion detection, and regular (three or more annually) third party vulnerability
+       assessments. Likewise, Vendor agrees to maintain network security that conforms to generally recognized
+       industry standards (see “11. Industry Standards”) and best practices that Vendor then applies to its own network.
+
+         2. Application Security. Vendor agrees at all times to provide, maintain and support its Software and
+         subsequent updates, upgrades, and bug fixes such that the Software is, and remains secure from those
+         vulnerabilities as described in:
+             a) The Open Web Application Security Project’s (OWASP) “Top Ten Project” -see http://www.owasp.org;
+or
+              b) The CWE/SANS Top 25 Programming Errors -see http://cwe.mitre.org/top25/ or
+              http://www.sans.org/top25-programming-errors/; or
+              c) Other generally recognized and comparable industry practices or standards.
+         3. Data Security. Vendor agrees to preserve the confidentiality, integrity and accessibility of NNPS data with
+         administrative, technical and physical measures that conform to generally recognized industry standards (see
+         “11. Industry Standards”) and best practices that Vendor then applies to its own processing environment.
+         Maintenance of a secure processing environment includes but is not limited to the timely application of patches,
+         fixes and updates to operating systems and applications as provided by vendor or open source support.
+         4. Data Storage. Vendor agrees that any and all NNPS data will be stored, processed, and maintained solely on
+         designated target servers and that no NNPS data at any time will be processed on or transferred to any portable
+         or laptop computing device or any portable storage medium, unless that device or storage medium is in use as
+
+
+
+RFP #015-0-2020/AZ                                                                                       Page 20 of 24
+       part of the Vendor's designated backup and recovery processes and encrypted in accordance with “6. Data
+       Encryption”.
+       5. Data Transmission. Vendor agrees that any and all electronic transmission or exchange of system and
+       application data with NNPS and/or any other parties expressly designated by NNPS shall take place via secure
+       means (using HTTPS or SFTP or equivalent) and solely in accordance with “7. Data Re-Use”.
+       6. Data Encryption. Vendor agrees to store all NNPS backup data as part of its designated backup and recovery
+       processes in encrypted form, using a commercially supported encryption solution. Vendor further agrees that
+       any and all NNPS data defined as personally identifiable information under current legislation or regulations
+       stored on any portable or laptop computing device or any portable storage medium be likewise encrypted.
+       Encryption solutions will be deployed with no less than a 128-bit key for symmetric encryption and a 1024 (or
+       larger) bit key length for asymmetric encryption.
+
+       7. Data Re-Use. Vendor agrees that any and all data exchanged shall be used expressly and solely for the
+       purposes enumerated in the Current Agreement and this Addendum. Data shall not be distributed, repurposed or
+       shared across other applications, environments, or business units of Vendor. Vendor further agrees that no
+       NNPS data of any kind shall be transmitted, exchanged or otherwise passed to other vendors or interested parties
+       except on a case-by-case basis as specifically agreed to in writing by Newport News Public Schools.
+       8. End of Agreement Data Handling. Vendor agrees that upon termination of this Agreement it shall erase,
+       destroy, and render unrecoverable all NNPS data and certify in writing that these actions have been completed
+       within 30 days of the termination of this Agreement or within 7 days of the request of an agent of NNPS,
+       whichever shall come first. At a minimum, a “Clear” media sanitization is to be performed according to the
+       standards enumerated by the National Institute of Standards, Guidelines for Media Sanitization, SP800-88,
+       Appendix A -see http://csrc.nist.gov/.
+       9. Security Breach Notification. Vendor agrees to comply with all applicable laws that require the notification
+       of individuals in the event of unauthorized release of personally identifiable information or other event requiring
+       notification. In the event of a breach of any of Vendor’s security obligations, or other event requiring
+       notification under applicable law, Vendor agrees to:
+            a. Notify NNPS by telephone and e-mail of such an event within 24 hours of discovery, and;
+            b. Assume responsibility for informing all such individuals in accordance with applicable law, and;
+            c. Indemnify, hold harmless and defend NNPS and its trustees, officers, and employees from and against
+       any claims, damages, or other harm related to such Notification Event.
+       10. Right to Audit. Newport News Public Schools or an appointed audit firm (Auditors) has the right to audit
+       the Vendor and the Vendor’s sub-vendors or affiliates that provide a service for the processing, transport or
+       storage of Newport News Public Schools’ data. Newport News Public Schools will announce their intent to
+       audit the Vendor by providing at a minimum two weeks (10 business days) notice to the Vendor. This notice
+       will go to the Vendor that this contract is executed with. A scope document along with a request for
+       deliverables will be provided at the time of notification of an audit. If the documentation requested cannot be
+       removed from the Vendor’s premises, the Vendor will allow the Auditors access to their site. Where necessary,
+       the Vendor will provide a personal site guide for the Auditors while on site. The Vendor will provide a private
+       accommodation on site for data analysis and meetings; the accommodation will allow for a reasonable
+       workspace, with appropriate lighting, electrical, a printer and Internet connectivity. The Vendor will make
+       necessary employees or contractors available for interviews in person or on the phone during the time frame of
+       the audit. In lieu of NNPS or its appointed audit firm performing their own audit, if the Vendor has an external
+       audit firm that performs a certified SSAE16 SOC Type II review, NNPS has the right to review the controls
+       tested as
+       well as the results, and has the right to request additional controls to be added to the certified
+       SSAE16 SOC Type II review for testing the controls that have an impact on NNPS data. Audits will be at
+       Newport News Public Schools’ sole expense, except where the audit reveals material
+       noncompliance with contract specifications, in which case the cost will be borne by the vendor.
+
+       11. Industry Standards. Generally recognized industry standards include but are not limited to the current
+       standards and benchmarks set forth and maintained by the:
+
+
+RFP #015-0-2020/AZ                                                                                    Page 21 of 24
+       Center for Internet Security -see http://www.cisecurity.org
+       Payment Card Industry/Data Security Standards (PCI/DSS) -see http://www.pcisecuritystandards.org/
+       National Institute for Standards and Technology -see http://csrc.nist.gov
+       Federal Information Security Management Act (FISMA) -see http://csrc.nist.gov
+       ISO/IEC 27000-series -see http://www.iso27001security.com/
+       Organization for the Advancement of Structured Information Standards (OASIS) -see
+       http://www.oasis-open.org/
+
+       12. Vendor agrees to provide SSAE 16 (SOC 1) Standard Type II reports to NNPS Contract Administrator
+       annually which document verification of controls tested. Annual date determined to be thirty (30) days prior to
+       the established contract renewal date.
+
+     DDD. Copyright/Patent Indemnity:
+      Successful Offeror shall pay all royalty and license fees relating to the items covered by this contract. In the
+      event any third party shall claim that the manufacture, use and sales of the goods supplied under this contract
+      constitute an infringement of any copyright, trademark, or patent, the Successful Offeror shall indemnify NNPS
+      and hold NNPS harmless from any cost, expense, damage or loss incurred in any manner by NNPS on account
+      of any such alleged or actual infringement.
+
+
+
+
+RFP #015-0-2020/AZ                                                                                  Page 22 of 24
+                                           Attachment A: References
+Years in Business: Indicate the length of time you have been in business providing this type of service:
+_________ years.
+
+References: Indicate below a listing of three (3) references for which you currently provide this type of
+service. Include the date service was furnished, name of client, address and phone/fax number.
+
+
+Client Name:
+
+Date of Service:
+
+Address:
+
+Phone:
+
+Fax:
+
+
+
+Client Name:
+
+Date of Service:
+
+Address:
+
+Phone:
+
+Fax:
+
+
+
+Client Name:
+
+Date of Service:
+
+Address:
+
+Phone:
+
+Fax
+
+
+
+
+RFP #015-0-2020/AZ                                                                             Page 23 of 24
+                                      Attachment B: Price Proposal Cover Sheet
+
+      PRODUCT NAME / PRICING DESCRIPTION: _________________________________
+
+      The following Pricing is submitted for the Offeror’s Product:
+
+Price description              Recurring                      Non-recurring                5- Year Extended Cost
+Product Costs
+   - Licensing Price
+   - Other Licensing
+       Price
+Maintenance Cost
+
+Warranty Price
+Additional Costs (Attach
+Description)
+                 TOTAL
+
+Optional Pricing               Recurring
+Post-implementation
+consultation and on-site
+support pricing
+(Note # hours and period
+of pricing basis)
+
+    The following Pricing is estimated for costs external to the Offeror’s proposal required for implementation of this
+          price proposal.
+    OTHER COSTS:
+Vendor Name         Vendor Model/          Quantity                Price                Extended Price
+                    Part Number            Recommended
+Hardware:
+
+
+
+
+Software
+Products/ Licenses
+
+
+Other Products or
+Peripherals
+
+
+
+      Multiple Options shall be noted on separate Pricing Sheets, if applicable.
+
+
+
+
+RFP #015-0-2020/AZ                                                                                   Page 24 of 24
+

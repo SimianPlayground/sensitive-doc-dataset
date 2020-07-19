@@ -1,0 +1,412 @@
+                   SAMPLE LANGUAGE for
+          Information Technology Request for Proposal
+The County of XXX is requesting proposals from Service Providers regarding an (insert
+description of solution) Solution for XXX County.
+
+The requirements for submitting proposals are stated in the attached Request for Proposal (the
+RFP). Please review them carefully.
+
+Responses are due in the County of XXX, (insert address) no later than (insert date and time).
+One (1) hard copy original and two (2) copies of your response should be submitted in a sealed
+opaque envelope or box plainly marked as follows:
+       Request for Proposal
+       (insert description) Solution
+       Name of Company Submitting Response
+
+RFP questions should be directed in writing to (contact person), per the enclosed instructions in
+Section 2.2.
+1. INTRODUCTION
+
+1.1. Background and Intent
+The County of XXX (the County) is requesting proposals for an (insert description of technology
+solution) Solution for XXX County. (Here is a sample description: The County is seeking a
+commercially available, off the shelf solution that is able to support document imaging and
+workflow in any business market through simple configuration of the systems, with no custom
+coding.)
+
+The purpose of this document is to provide general and specific information for use by Vendor(s)
+in submitting a proposal to supply XXX County Government with information technology goods
+and services as listed above in accordance with N.C.G.S. 143-129.8. We will select a qualified
+Vendor(s) with whom we will develop a mutually beneficial contractual relationship. Our decision
+to award will be based on our determination of the proposal that offers the best overall benefit to
+XXX County, taking into account pricing, maintenance and support, and any value-added services
+and other factors specified herein. We reserve the right to reject any or all proposals.
+
+You are being asked to submit a proposal in a sealed envelope in accordance with the attached
+specifications and within the terms and conditions herein set forth.
+
+
+1.2. Accuracy of RFP and Related Documents
+The County assumes no responsibility for conclusions or interpretations derived from technical
+and background information presented in the RFP, or otherwise distributed or made available
+during the procurement process. In addition, the County will not be bound by or be responsible
+for any explanation, interpretation or conclusions of this RFP or any documents provided by the
+County other than those given in writing by the County through the issuance of addenda. In no
+event may a Service Provider rely on any oral statement by the County or its agents, advisors or
+consultants.
+
+1.3. County Rights and Options
+The County, at its sole discretion, reserves the following rights:
+     To supplement, amend, substitute or otherwise modify the RFP at any time;
+     To cancel this RFP with or without the substitution of another RFP;
+     To reject any or all proposals produced in response to this RFP;
+     To take any action affecting this RFP, this RFP process, or the Services or facilities
+       subject to the RFP that would be in the best interests of the county;
+     To issue additional requests for information, and/or;
+     To require one or more Service Providers to supplement, clarify or provide additional
+       information in order for the County to evaluate the responses submitted.
+
+1.4. Expense of Submittal Preparation
+The County accepts no liability for the cost and expenses incurred by the Service Providers in
+response to this RFP, including preparing requests for clarification. Each Service Provider that
+prepares a Response shall do so at its own expense and with the express understanding that they
+cannot make any claims whatsoever for reimbursement from the County for the costs and
+expenses associated with the Response.
+
+1.5. Trade Secrets/Confidentiality
+Upon receipt at the County, your Response is considered a public record, except for material
+which qualifies as “Trade Secret” information under NC G.S. 66-152(3). Your Response will be
+reviewed by County staff and members of the general public who submit public records request.
+
+THE RESPONDER IS REQUIRED TO IDENTIFY ALL CONTENT DESIGNATED AS A
+TRADE SECRET AS DEFINED PURSUANT TO N.C.G.S. 66-152(3) AND WHICH
+MEETS THE CRITERIA FOR CONFIDENTIALITY PURSUANT TO N.C.G.S. 132-1.2(1).
+ALL NOTED TRADE SECRETS MUST FOLLOW PROCEDURES NOTED BELOW
+AND REQUIRE ATTACHED DOCUMENTATION SPECIFYING HOW THE CONTENT
+QUALIFIES AS A TRADE SECRET UNDER NORTH CAROLINA LAW. IF AN ENTIRE
+RESPONSE IS MARKED CONFIDENTIAL OR TRADE SECRET, IT WILL BE
+DISQUALIFIED FROM CONSIDERATION.
+
+To properly designate material as a “trade secret” under these circumstances, each Service
+Provider must take the following precautions: (a) any trade secrets submitted by a Service
+Provider should be submitted separately in a sealed envelope marked “Trade Secret –
+Confidential and Proprietary Information – Do Not Disclose Except for the Purpose of
+Evaluating this Response,” (b) offer documentation specifying how the content qualifies as
+a trade secret under North Carolina law, and (c) the “trade secret” should be stamped on
+each page of the trade secret materials contained in the envelope.
+
+In submitting a response, each Service Provider agrees that the County may reveal trade secret
+materials contained in such response to all County staff and officials involved in the selection
+process, and to any outside consultant or other third parties who serve on an Evaluation
+Committee or who are hired by the County to assist in development of specifications.
+Furthermore, each Service Provider agrees to indemnify and hold harmless the County and each
+of its officers, employees and agents from all costs, damages and expenses incurred in
+connection with refusing to disclose any material, which the Service Provider has designated as a
+trade secret. Any Service Provider that designates its entire Response as a Trade Secret will
+be disqualified.
+
+1.6. Equal Opportunity
+The County has an equal opportunity purchasing policy. The County seeks to ensure that all
+segments of the business community have access to supplying the goods and services needed by
+County programs. The County affirmatively works to encourage utilization of small and minority
+business enterprises in our procurement activities. The County provides opportunities for all
+businesses and does not discriminate against any Service Provider regardless of race, color,
+religion, age, sex, national origin or disability.
+
+1.7. Clarification of Ambiguities
+Any Service Provider believing that there is any ambiguity, inconsistency or error in this RFP
+shall promptly notify the County as outlined in Section 2.2, in writing of such apparent
+discrepancy. Failure to notify will constitute a waiver of claim of ambiguity, inconsistency or
+error.
+
+1.8. Availability of Funds
+This RFP is conditional upon the availability of federal, state or local funds which are
+appropriated or allocated for payment of the proposed purchase. If, during any stage of this RFP
+process, funds are not allocated and available for the proposed purchase, the RFP process will be
+canceled. The County will notify all known vendors at the earliest possible time if this occurs.
+The County is under no obligation to compensate a vendor for any expenses incurred as a result
+of the RFP process.
+2. DESCRIPTION OF RFP PROCESS
+This section contains information, which shall govern the procurement process for this project.
+
+2.1. Schedule and Process
+The following chart shows the schedule of events to prepare your organization’s response. The
+key events and deadlines for this process are as follows, some of which are set forth in more
+detail in the sections that follow:
+
+DATE                             EVENT
+(insert)                  Advertisement of RFP
+
+(insert)                  Cut-off for Submitted Questions.
+                          Service Providers are permitted to submit written questions to the County,
+                          but only for purpose of clarifying this RFP. All submissions shall be
+                          submitted as outlined in Section 2.2.
+
+(insert)                  Response Submission due by 3:00 PM on this date.
+
+2.2. Interpretation and Addenda
+If the responder needs to submit changes or addenda, such shall be submitted in writing, signed in
+original ink by an official representative of the responder, cross-referenced clearly to the relevant
+bid section, in a sealed envelope, prior to the RFP opening. Such changes or addenda shall meet
+all requirements for the RFP. If the responder chooses to withdraw his RFP response; the
+withdrawal notice shall be in writing and received prior to the RFP opening.
+
+No significant interpretation or clarification of the meaning of any part of this RFP will be made
+orally to any Service Provider. Service Providers must request such interpretations or
+clarification in writing to the County. Requests for information or clarification of this RFP must
+be made in writing and addressed to (insert contact) at the e-mail address or fax number listed
+below, with e-mail being the preferred method of communication. Questions should reference
+the RFP page and topic number.
+
+           E-mail: (insert)
+           Fax: (insert)
+
+Please submit your questions by (insert date). Any written responses issued by the County to
+questions and requests for information will be provided to all Service Providers that have
+requested an RFP. Any and all such interpretations and supplemental instructions will be made in
+the form of written addenda and shall become a part of this RFP.
+
+2.3. Submission of Responses
+One (1) original response signed in ink by an authorized company official, plus two (2) hard
+copies shall be submitted no later than (insert date & time) to:
+        (insert address)
+The “original” Response and each of the two (2) copies shall be complete and unabridged and
+shall not refer to any other copy of the signed original for any references, clarifications, or
+additional information. When received, Responses and supporting materials, as well as
+correspondence relating to this RFP, shall become the property of the County.
+
+Responses sent by facsimile (fax) nor email will not be accepted. Responses will not be made
+available to inspect or copy until any trade secret issues have been resolved.
+
+2.4. Pre-Proposal Meeting
+A pre-proposal meeting is not planned at this time. XXX County reserves the right to hold such
+a meeting should it be determined to be necessary and will make the date, time, and location of
+such a meeting available. If a pre-proposal meeting is held, it will not be a mandatory meeting;
+however, XXX County will not be responsible for providing respondents who are not present
+with any information provided at this meeting, unless it results in a material change in the
+requested information contained within this RFP.
+
+2.5. Acceptance and Rejection of Proposals
+The County reserves the right to:
+     Award a proposal received on the basis of individual items, or on the entire list of items;
+     Reject any or all proposals, or any part thereof;
+     Waive any informality in the proposals.
+
+The contract for this entire project will be awarded to the respondent deemed the best overall
+proposal as determined by the evaluation criteria and process outlined in section 2.7 of this RFP
+as a lump-sum award. The County reserves the following rights (in addition to those accorded to
+XXX County by policy and statutory laws):
+     The right to negotiate with one or more vendors to arrive at a final selection.
+     The right to negotiate all Proposal elements to ensure the best possible consideration be
+        afforded to all parties concerned (this includes the right to approve or disapprove
+        subcontractors proposed after the award).
+     The right to reject any and all Proposals, to consider alternatives, to waive any minor
+        irregularities and technicalities, and to re-solicit Proposals.
+     The right to award the contract to a vendor who submits the best overall Proposal
+        (N.C.G.S. 143-129.8)
+
+The decision of the County shall be final. The waiver of an immaterial defect shall in no way
+modify the RFP documents or excuse vendors from full compliance with its specifications if the
+vendor is awarded the contract.
+
+2.6. Preliminary Review of Proposals
+Proposals which fail to meet the following standards of completeness will be considered “NON-
+QUALIFIED” and will NOT be reviewed:
+     Timely submission of the proposal (on or before deadline for submission);
+     Required number of copies (one (1) original and two (2) copies);
+     Signed Cover Sheet and Execution of Proposal Documentation;
+     All designated attachments;
+      Other requirements provided herein.
+
+2.7. Evaluation of Proposals
+All qualified proposals will be reviewed and evaluated. At any time during the review, the
+County may request additional information from the Service Provider. Such information request
+and Service Provider’s response must be in writing. Information may be requested from sources
+other than the submitted proposal to evaluate the Vendor. Evaluation will include, but will not be
+limited to:
+     Strength and stability of the Service Provider to provide the requested goods and/or
+        services;
+     Ability to meet the project timeline;
+     Overall responsiveness, viability and completeness, as well as the likelihood that, in the
+        County’s opinion and at the County’s discretion, the bid best meets or exceeds the
+        County’s specifications;
+     Scope of goods/services being proposed;
+     Information in the executive summary;
+     Personnel qualifications;
+     Distinguishing characteristics;
+     Cost of proposed goods/services;
+     Any other facts considered relevant by the County;
+     Experience with similar projects of comparable size and scope.
+
+3. SCOPE OF WORK.
+
+(Insert scope of work/ desired specifications)
+
+
+4. RESPONSE FORMAT
+The County desires all responses to be identical in format in order to facilitate comparison.
+While the County’s format may represent a departure from the Service Provider’s preference, the
+County requests adherence to the format. All Responses are to be in the format described below:
+       A. Cover Letter
+       B. Section 1 Executive Summary;
+       C. Section 2 Company Profile’
+       D. Section 3 Client Profiles;
+       E. Section 4 System Functionality;
+       F. Section 5 Implementation Training, Maintenance;
+       G. Section 6 Budget;
+       H. Execution of Proposal (provided at the end of this RFP); and,
+       H. Other information the Service Provider wishes to communicate to the County.
+Overview of Response Content
+A. Cover Letter
+The cover letter shall provide the name, address, telephone and facsimile numbers of the Service
+Provider along with the name, title, address, telephone and facsimile numbers of the executive
+that the County should contact with further questions for clarification about the Services.
+
+B. Section 1 – Executive Summary
+Provide a brief overview of the proposed solutions, including cost summary, project approach
+and benefits of solution.
+
+C. Section 2 – Company Profile
+Include the following information:
+     Provide the name and headquarters address of your firm;
+     Indicate the legal form of the business;
+     State the total number of employees for the corporation and the number of employees
+       whose primary responsibility is the XXX System;
+     State the company’s revenue in last two (2) years;
+     Identify other major products or services your firm offers; and
+     Indicate the total number of you company’s XXX systems installed and currently in use
+       in the public sector as well as the private sector.
+
+D. Section 3 – Client Profiles
+The County is requesting information about clients who have purchased a similar solution and
+have used it in a productive environment for at least one (1) year. List public sector clients whose
+requirements are similar to the XXX County’s requirements. Please include the following
+information for a minimum of three (3) clients.
+     Provide the name and address of each referenced client;
+     List the name of the client’s project manager, their telephone number, fax number and e-
+       mail address; and
+     Provide a description of the project and the projected outcome.
+
+E. Section 4 – System Functionality
+The purpose of this section is for the respondent to identify specifically how the functionality of
+their system will meet the needs of the County. Response may include flow charts, diagrams and
+other visual representations of the system. Please do not substitute printed brochures in response
+to specific questions.
+
+F. Section 5 – Implementation, Training and Maintenance
+Provide the following information:
+     Describe the implementation process and schedule;
+     Describe the training process and schedule; and
+     Describe the maintenance program and any other options.
+
+G. Section 5 – Budget
+Provide a description of all costs, including implementation, training and all other required
+services. Cost projections need to be listed in the following breakdowns:
+      Cost of complete project (software, installation, training and hardware).
+      Cost of software, installation and training only. (The County reserves the right to
+       purchase the required hardware through their MIS resources.)
+
+H. Section 6—Execution of Proposal Documentation
+The execution of proposal documentation is found on the last two pages of this RFP. All
+respondents must complete and sign both pages of the documentation and submit with proposal.
+Failure to include a completed, signed execution of proposal will result in the proposal being
+excluded from consideration.
+
+All responses shall be on 8 ½” 11” format with all standard text no smaller than 11 points.
+Please provide one (1) original signed response and two (2) hard copies of the response.
+
+
+5. AWARD OF PROPOSAL
+XXX County Government staff will ultimately forward a formal recommendation of award to
+the XXX County Board of Commissioners who have the final award approval. Any contract
+resulting from this Request for Proposals shall be awarded to the Vendor(s) that submits the best
+overall proposal as determined by XXX County Government in accordance with NC G.S. 143-
+129.8. The County may negotiate with any Vendor(s) in order to obtain a final contract that best
+meets the needs of XXX County Government.
+
+The County shall have a period of thirty (30) days after the opening of the bids in which to award
+the contract. Contracts shall be awarded to the person or entity that submits the best overall
+proposal as determined by the awarding authority.
+
+All proposal information from all bidders, except that specifically meeting the trade secret
+requirements set forth in this RFP, become public record upon contract award pursuant to NC
+G.S. 143-129.8, NC G.S. 132 and other applicable North Carolina laws,. It is XXX County’s
+policy to advise all bidders as to whom the award was given and at what amount once the
+contract has been awarded.
+
+6. MISCELLANEOUS ITEMS
+Insurance
+(insert your government’s standard items)
+
+Retainage
+(insert your government’s standard items)
+
+
+Performance Bond
+(insert your government’s standard terms)
+                                  EXECUTION OF PROPOSAL
+
+                                            (Submittal #)
+
+ Agreement
+
+ By signing this proposal, the Offeror agrees to the following items. Initial each line item below for
+ acceptance.
+
+    #     Item                                                                           Initial Below
+
+    1     This proposal is signed by an authorized representative of the firm.
+
+          Offeror has read and understands the conditions set forth in this RFP and
+    2
+          agrees to them with no exceptions.
+
+          The Offeror understands the scope and requirements of this RFP and has
+    3
+          included all labor costs, direct and indirect, in the proposed cost.
+
+          The cost and availability of all equipment, materials, and supplies, if
+    4     needed, associated with performing the services described herein have been
+          determined and included in the proposed cost.
+
+          Offeror will be responsible for all warranty issues related to goods and
+    5
+          services provided during the factory warranty period if applicable.
+
+
+
+Authorization
+
+In compliance with this RFP, and subject to all conditions herein, the undersigned offers and agrees, if
+this proposal is accepted within 90 days from the date of the opening, to furnish the goods or services
+as stated in this RFP.
+
+  #     Item                          Provide Information
+
+  1     Company Name
+
+  2     Address
+
+  3     City, State, Zip
+
+  4     Telephone Number
+
+  5     Fax Number
+
+  6     E-mail Address
+
+        Federal Identification
+  7
+        Number
+VENDOR ATTESTATION
+
+
+BY _____________________________________ TITLE _________________________
+   (Signature)                         COMPANY _____________________
+  _________________________________________ DATE ______________
+  (Typed or printed name)
+========================================================================
+
+ACCEPTANCE OF PROPOSAL
+
+XXX County Government
+
+BY: ________________________________ TITLE: ___________________________
+
+
+DATE: _______________
+
+BOTH PAGES OF THE EXECUTION OF PROPOSAL DOCUMENT MUST BE SIGNED AND
+INCLUDED IN THE PROPOSAL. NON-COMPLIANCE WITH THIS REQUIREMENT WILL
+     RESULT IN THE PROPOSAL BEING EXCLUDED FROM CONSIDERATION.
+

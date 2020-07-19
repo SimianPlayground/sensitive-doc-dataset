@@ -1,0 +1,1149 @@
+Department of Public Service
+112 State Street              [phone]   802-828-2811
+Montpelier VT 05609-3001      [fax]     802-828-2382
+http://publicservice.vermont.gov/
+
+                                           SEALED BID
+                           REQUEST FOR PROPOSAL
+    State-Owned Wireless Network Operator Request for
+                       Proposals
+ISSUE DATE:                             September 10, 2019
+
+NOTICE OF INTENT TO BID                 September 27, 2019
+
+QUESTIONS DUE BY:                       October 4, 2019
+
+BIDDERS’ CONFERENCE:                    October 11, 2019
+
+RFP RESPONSES DUE BY:                   October 25, 2019 4:00 p.m.
+
+BID OPENING:                            October 28, 2019 11:00 a.m.
+
+
+
+PLEASE BE ADVISED THAT ALL NOTIFICATIONS, RELEASES, AND AMENDMENTS
+ASSOCIATED WITH THIS RFP WILL BE POSTED AT:
+https://publicservice.vermont.gov/requests-for-proposals
+
+THE STATE WILL MAKE NO ATTEMPT TO CONTACT INTERESTED PARTIES WITH UPDATED
+INFORMATION. IT IS THE RESPONSIBILITY OF EACH BIDDER TO PERIODICALLY CHECK THE
+ABOVE WEBPAGEFOR ANY AND ALL NOTIFICATIONS, RELEASES AND AMENDMENTS
+ASSOCIATED WITH THIS RFP.
+
+STATE CONTACT:                          Clay Purvis, Director for Telecommunications
+TELEPHONE:                              (802) 371-9655
+E-MAIL:                                 clay.purvis@vermont.gov
+FAX:                                    (802) 828-2382
+
+
+
+
+                                                       1
+1. OVERVIEW:
+    1.1.    SCOPE AND BACKGROUND: Through this Request for Proposal (RFP) the Vermont Department of
+            Public Service (hereinafter the “State”) is seeking to establish contracts with one or more companies
+            (Partner) that can operate a state-owned wireless network of small cell compact radios that provide
+            Cellular Mobile Radio Service (CMRS) along Vermont highways.
+    1.2.    CONTRACT PERIOD: Contracts arising from this RFP will be for a period of 5 Years. The State
+            anticipates the start date will be December 1, 2019.
+    1.3.    SINGLE POINT OF CONTACT: All communications concerning this RFP are to be addressed in writing
+            to the State Contact listed on the front page of this RFP. Actual or attempted contact with any other
+            individual from the State concerning this RFP is strictly prohibited and may result in disqualification.
+    1.4.    BIDDERS’ NOTICE OF INTENT TO BID: Any bidder interested in receiving notifications about this RFP
+            and participating in the question and answer period are advised to send a notice of intent to bid to the
+            Department of Public Service by the date indicated on the front of this RFP. Bidders should provide the
+            name of the company, contact information, and a statement indicating bidder’s intent to submit a
+            proposal to this RFP.
+    1.5. QUESTION AND ANSWER PERIOD: Any vendor requiring clarification of any section of this RFP or
+         wishing to comment or take exception to any requirements of the RFP must submit specific questions in
+         writing no later than the deadline for question indicated on the first page of this RFP. Questions may be e-
+         mailed to the point of contact on the front page of this RFP. Any comments, questions, or exceptions not
+         raised in writing on or before the last day of the question period are waived. At the close of the question
+         period a copy of all questions or comments and the State's responses will be posted on the State’s web
+         site
+           https://publicservice.vermont.gov/requests-for-proposals
+           Every effort will be made to post this information as soon as possible after the question period ends,
+           contingent on the number and complexity of the questions.
+    1.6.    BIDDERS’ CONFERENCE: The Department will hold a conference call with bidders to answer any
+            remaining questions. The Conference will be held by phone. Directions for dialing in will be posted prior
+            to the meeting date.
+2. DETAILED REQUIREMENTS/DESIRED OUTCOMES:
+    2.1. The State seeks a Partner to operate an existing wireless network to address the lack of wireless
+         coverage in rural parts of Vermont.
+    2.2. In 2011, the Vermont Telecommunications Authority (VTA) acquired a network composed of small cell
+         compact Radio Access Network devices (RANs), which offer voice and text service 1 designed for
+         attachment on utility poles, below the telecom space. The RANs provide service throughout an area with
+         about ½ mile radius. Each site requires electrical power and broadband internet access for backhaul
+         connectivity to the core network 2. Of the 401 RANs acquired, 163 have been commissioned, 30 have been
+         installed but not commissioned, and 208 RANs are in storage. The State cannot guarantee the condition of
+         the RANs. Bidders are encouraged to contact the manufacturer, Vanu, Inc,. for information regarding the
+         operation of the RANs. The RANs were leased to Vanu CoverageCo, and were deployed and operational
+         for some time. The company found the business model challenging and eventually electricity and internet
+         services to the RANs were discontinued and the State terminated the equipment lease in 2018.
+    2.3. The State conducted an open-ended RFP in 2018 seeking support to expand wireless coverage in the
+         areas previously served by the RANs, potentially using the RANs. The State received two responses, but
+
+1
+  The RANs include software-defined CMRS radio systems with a chassis supporting two modules. All systems are equipped
+with one module supporting GSM (GSM/EDGE/UMTS/HSPA) and another module supporting CDMA (CDMA2000/1xRTT);
+both modules operate in Cellular and PCS frequency bands. Vanu, Inc. has stated that modules supporting 4G-LTE are in
+development, so either the GSM or CDMA modules could be replaced with a 4G-LTE module in the future.
+2
+  All installed sites had access to broadband internet service, but the majority were served by DSL, and the previous operator
+stated that the backhaul speeds available would not be sufficient to support 4G LTE service, even if the radios were
+upgraded.
+                                                                 2
+            neither offered a conclusive solution to employ the RANs. Since the RANs were purchased with taxpayer
+            funds, the State now more concretely seeks to identify a solution that would employ the RANs.
+      2.4. The experience of the previous vendor and the results of the RFP indicate that that the business model of
+           deploying service with RANs is challenging. In light of this, the State considered alternative sources of
+           revenue to improve the business model. From May through July 2019, the PSD conducted a survey of all
+           Vermont towns and villages to gauge the interest of towns in providing financial support for the use of the
+           RANs to support expansion of wireless service. This survey identified 35 towns willing to provide financial
+           support for the direct site-specific operating costs, including a.) electricity, b.) internet access, and c.)
+           geolocation services 3. These towns expressed willingness to provide an average of $971 per site per year
+           in operating support, for 2 sites per town. This amounts to a total of $67,970 per year that towns are willing
+           to contribute toward the operating costs of 70 sites. These towns are listed in the table below.
+
+
+              Vermont towns willing to contribute financial support
+              Bakersfield     Grafton          Peacham       Thetford*
+              Braintree*      Granville*       Plymouth      Vershire*
+              Burke           Greensboro Randolph*           Waterford
+              Cabot           Landgrove        Readsboro*    West Fairlee*
+              Chelsea*        Marlboro         Shaftsbury    Westminster
+              Chittenden      Marshfield       Shelburne     Weston
+              Cornwall        Middlebury* Shrewsbury         Wolcott*
+              Dummerston Morgan*               Stamford      Woodbury
+              Glover          NEWBURY          Strafford*
+              *indicates RANs installed in the town
+
+
+      2.5. The pledge by towns for financial support for the 70 sites was based on sites installed on utility poles that
+           require individual electric and Internet access services. Bidders may develop alternative lower support
+           amounts for RANs it wishes to install on the premises of host institutions that provide electricity and/or
+           internet access for sites in addition to the initial 70 supported sites.
+      2.6. The table below lists additional towns that expressed an interest in having RANs operate in the town, but
+           declined to offer financial support.
+
+
+             Interested, but not willing to contribute
+             Barton                  Orange
+             Bolton                  Ripton*
+             Calais                  Roxbury*
+             Colchester              St. Johnsbury
+             Groton*                 Stockbridge*
+             Guildhall               Topsham*
+             Hancock*                Saxtons River
+             Jamaica*                Washington*
+             Mount Holly
+             *indicates RANs installed in the town
+
+
+      2.7. The State has access to capital appropriation support up to $900,000 that can be employed for this
+           project. These funds can be used for deployment of the RANs, including installation of RANs in new sites,
+
+3
+    The previous vendor, Vanu CoverageCo, reported that operating costs amounted to $1,800 per site per year.
+                                                             3
+         and recommissioning previously installed RANs. The previous equipment contracts allowed up to $3,800
+         per site for installation and commissioning of sites on utility poles, the State anticipates that proposals
+         should not exceed this amount. The State anticipates that recommissioning of existing RANs should not
+         exceed $1,000 per site. At a minimum, bidders should plan to recommission two RANs in each of the 12
+         identified towns with existing RANs, and install and commission two microcells in each of the other 23
+         listed towns, and should provide a cost for this service, to be funded with the capital appropriation.
+         Bidders may also seek capital funds to install additional sites at locations of its discretion, not exceeding
+         the per site limits of $3,800 for new sites or $1,000 for existing sites. Funding will depend on available
+         capital at the time of contract execution.
+    2.8. The State seeks continued wireless service in the interested towns through a relationship with the Partner.
+         This would require the State to lease the RANs to the Partner or the towns, potentially at no cost. The
+         Partner would then commission these RANs with funds from the capital appropriation. It would also
+         require the Partner to a.) obtain appropriate CMRS spectrum, b.) operate the network at its sole cost,
+         including paying per-site operating costs such as electricity, internet access, and geolocation services 4, c.)
+         obtain the financial contribution pledged by towns, and d.) enter roaming agreements with major CMRS
+         providers. The remaining non-commissioned RANs may be deployed by the Partner at locations of its
+         discretion. More detailed requirements are specified in Attachment A, Statement of Work.
+    2.9. It is anticipated that the Partner will structure its roaming agreements to provide sufficient revenue to cover
+         its general operating costs, and make up for any deficit in the site-specific operating costs not covered by
+         the financial support offered by towns. The capital appropriation cannot be used to support operating
+         costs. No additional funds are presently available from towns or the State to support operating costs.
+         However, if the Partner finds that the business model does not support sustainable operation of these 70
+         sites without additional financial support from the State or towns, the Partner should propose an amount of
+         support that would be required, and the State will take this under consideration.
+    2.10.       General Proposal Requirements. Every proposal must meet the following General Proposal
+         Requirements:
+        2.10.1. Each proposal should relate whether the Partner proposes to offer direct, or indirect extension of
+              service in the areas.
+        2.10.2. Demonstration of expertise in an area. Please limit any descriptions of personnel expertise to
+              synopsis’ rather than full resumes.
+        2.10.3. Statement that the respondent is in compliance with the tax laws of the State of Vermont.
+        2.10.4. Each proposal must specifically identify those portions of the response that the respondent
+              considers proprietary or confidential. Under no circumstances will a statement that the entire
+              proposal is confidential be accepted.
+        2.10.5. Each proposal must begin with a completed one-page Cover Sheet identifying the sections
+              respondent is addressing.
+        2.10.6. The contents of the proposal should follow the outline of the RFP.
+    2.11.       General Proposal Evaluation Criteria. The State seeks to maximize the spread of cellular
+         availability while realizing that it is more costly to provide service in some areas. In addition to specific
+         evaluation criteria for the selected Funding Category, all proposals will be evaluated on:
+        2.11.1. The feasibility of any proposed construction being completed and the proposed service being
+              available soon.
+        2.11.2. The ability to move swiftly into a contract soon.
+        2.11.3. The most cost-effective use of State resources.
+        2.11.4. The ability to demonstrate feasibility prior to contract signing.
+        2.11.5. The long-term sustainability of the equipment/technology.
+        2.11.6. The long-term sustainability of the business plan and accuracy of underlying assumptions.
+
+
+4
+ Pursuant to 47 C.F.R 20 and 30 V.S.A. 7055(d), CMRS providers must comply with E-911 “Phase II” locational accuracy
+requirements.
+                                                            4
+    2.11.7. The value of information provided that enables the State to better focus its resources and strategy
+          implementation.
+    2.11.8. Demonstrated ability to successfully deploy and operate the solution
+    2.11.9. Ability to cover the unserved areas of the State least likely to be covered by private investment.
+2.12.        Specific evaluation criteria. The State seeks a Partner for a project that entails an admittedly
+     challenging business model. Nevertheless, the State believes that a successful bidder will be a partner
+     with a proven track record managing cellular deployments, and most importantly, financial stability
+     necessary to ensure long-term viability of the project. Successful bidders will demonstrate the following:
+    2.12.1. Evidence of substantial experience, technical, and personnel capacity to run a successful network
+    2.12.2. Evidence of financial capacity to run a network, including previous, current, and pro-forma financial
+          statements demonstrating financial health necessary to run the network.
+    2.12.3. Roaming agreements with nationwide CMRS providers, or independent retail CMRS
+    2.12.4. CMRS Spectrum – either owned or leased
+    2.12.5. Business plan for deploying sites
+2.13.        Respondent Guidelines. The State is highly motivated to identify a solution to the rural coverage
+     challenges facing Vermont and has been encouraged to pursue all viable options. With this RFP the State
+     has attempted to lay out its objectives, investment options, and funding constraints. It is expected that
+     Respondents will propose creative solutions and the State will consider all proposals (within the identified
+     constraints). It is understood that topology, technology, and usage profiles will likely drive different
+     solutions. In addition to the evaluation criteria identified throughout this RFP the following overarching
+     objectives will be the primary lenses through which any proposals will be reviewed. Respondents are
+     encouraged to specifically address these two items in their proposals:
+    2.13.1. Viability of Business Case: An overall assessment of the Respondent’s financial standing, the
+          viability of the financial proposal, and an efficient use of State funding. Please include specific details
+          regarding the planned business case (including identification of State funded components and any
+          associated revenue streams). This will aid the State in fully assessing the viability of the proposed
+          solutions.
+    2.13.2. Carrier Readiness: The Respondents ability to demonstrate, to the extent that it is not already a
+          retail carrier in Vermont, that deployment of its proposed solution will provide an attractive financial
+          and technological offering that will entice retail carrier participation. Documented carrier
+          commitments (whether firm or LOI) or partnerships will be weighted heavily in the evaluation.
+2.14.       Contract Expectations. The State anticipates that the Partner will agree to:
+    2.14.1. allow roaming by customers of any carrier requesting or agreeing to roam on the networks,
+    2.14.2. operate the existing state-owned RAN network,
+    2.14.3. propose an annual payment to the State for the lease of the RAN equipment, potentially including
+          conditions under which the payment may be waived,
+    2.14.4. agree to interface with redundant power back-up systems provided at the Resiliency Points,
+    2.14.5. For the EDA-funded locations, supervise Partner’s third-party contractor in accordance with the
+          Federal Funding Stipulations, to deploy and install the equipment in accordance with manufacturers’
+          directions and specifications and respondent’s design, if required by ongoing federal laws, rules and
+          contract provisions
+    2.14.6. obtain the legal right to attach the RANs to utility poles or other real property,
+    2.14.7. interconnect the equipment to telecommunications backhaul networks, power sources, and the
+          public switched telephone network,
+    2.14.8. obtain and maintain an interconnection with the handset radio signals in the CMRS frequency
+          blocks licensed by the FCC sufficient to carry equipment operating on the frequencies licensed to
+          national mobile services carriers in Vermont,
+
+
+                                                        5
+        2.14.9. test the Equipment with the result that calls initiated by authorized mobile telecommunications
+              customers of certain national CMRS providers, whether those customer use standards compliant
+              CDMA or GSM devices, will be able to initiate and sustain mobile voice calls connected to the public
+              switched telephone network and data sessions, both continuously within and along each of the
+              Corridors,
+        2.14.10.        assume control and begin operating the state-owned system within 90 days of execution of
+              the agreement, 5
+        2.14.11.        set a schedule for deployment of remaining RANs with concrete milestones triggering
+              payment for installation costs, and importantly, penalties for failure to meet the schedule,
+        2.14.12.         develop a method to inform the State, and as appropriate, the public, about the operational
+              status of commissioned RANs,
+        2.14.13.         develop a protocol for the repair of disabled RAN units, at the Partner’s expense, and
+
+
+3. GENERAL REQUIREMENTS:
+    3.1. PRICING: Bidders must price the terms of this solicitation at their best pricing. Any and all costs that
+         Bidder wishes the State to consider must be submitted for consideration. If applicable, all equipment
+         pricing is to include F.O.B. delivery to the ordering facility. No request for extra delivery cost will be
+         honored. All equipment shall be delivered assembled, serviced, and ready for immediate use, unless
+         otherwise requested by the State.
+        3.1.1.Prices and/or rates shall remain firm for the initial term of the contract. The pricing policy submitted by
+              Bidder must (i) be clearly structured, accountable, and auditable and (ii) cover the full spectrum of
+              materials and/or services required.
+        3.1.2.Cooperative Agreements. Bidders that have been awarded similar contracts through a competitive
+              bidding process with another state and/or cooperative are welcome to submit the pricing in response
+              to this solicitation.
+        3.1.3.Retainage. In the discretion of the State, a contract resulting from this RFP may provide that the
+              State withhold a percentage of the total amount payable for some or all deliverables, such retainage
+              to be payable upon satisfactory completion and State acceptance in accordance with the terms and
+              conditions of the contract.
+    3.2. BEST AND FINAL OFFER:
+        3.2.1.Best and Final Offer (BAFO). At any time after submission of Responses and prior to the final
+              selection of Bidder(s) for Contract negotiation or execution, the State may invite Bidder(s) to provide a
+              BAFO.
+            3.2.1.1. The state reserves the right to request BAFOs from only those Bidders that meet the minimum
+                     qualification requirements and/or have not been eliminated from consideration during the
+                     evaluation process.
+        3.2.2.Evaluation of Responses and Selection of Bidder(s). The State shall have the authority to
+              evaluate Responses and select the Bidder(s) as may be determined to be in the best interest of the
+              State and consistent with the goals and performance requirements outlined in this RFP.
+    3.3. WORKER CLASSIFICATION COMPLIANCE REQUIREMENTS: In accordance with Section 32 of The
+         Vermont Recovery and Reinvestment Act of 2009 (Act No. 54), Bidders must comply with the following
+         provisions and requirements.
+        3.3.1.Self Reporting: For bid amounts exceeding $250,000.00, Bidder shall complete the appropriate
+              section in the attached Certificate of Compliance for purposes of self-reporting information relating to
+              past violations, convictions, suspensions, and any other information related to past performance
+              relative to coding and classification of workers. The State is requiring information on any violations
+              that occurred in the previous 12 months.
+
+
+5
+ The Department cannot guarantee the condition of existing deployed radios. The Department may, upon request of a
+bidder, allow prospective bidders an opportunity to inspect sites at pre-determined times prior to the bid due date.
+                                                               6
+        3.3.2.Subcontractor Reporting: For bid amounts exceeding $250,000.00, Bidders are hereby notified that
+              upon award of contract, and prior to contract execution, the State shall be provided with a list of all
+              proposed subcontractors and subcontractors’ subcontractors, together with the identity of those
+              subcontractors’ workers compensation insurance providers, and additional required or requested
+              information, as applicable, in accordance with Section 32 of The Vermont Recovery and
+              Reinvestment Act of 2009 (Act No. 54). This requirement does not apply to subcontractors providing
+              supplies only and no labor to the overall contract or project. This list MUST be updated and provided
+              to the State as additional subcontractors are hired. A sample form is available online at
+              http://bgs.vermont.gov/purchasing-contracting/forms. The subcontractor reporting form is not
+              required to be submitted with the bid response.
+    3.4. EXECUTIVE ORDER 05-16: CLIMATE CHANGE CONSIDERATIONS IN STATE PROCUREMENTS:
+         For bid amounts exceeding $25,000.00 Bidders are requested to complete the Climate Change
+         Considerations in State Procurements Certification, which is included in the Certificate of Compliance for
+         this RFP.
+         After consideration of all relevant factors, a bidder that demonstrates business practices that promote
+         clean energy and address climate change as identified in the Certification, shall be given favorable
+         consideration in the competitive bidding process. Such favorable consideration shall be consistent with
+         and not supersede any preference given to resident bidders of the State and/or products raised or
+         manufactured in the State, as explained in the Method of Award section. But, such favorable
+         consideration shall not be employed if prohibited by law or other relevant authority or agreement.
+    3.5. METHOD OF AWARD: Awards will be made in the best interest of the State. The State may award one
+         or more contracts and reserves the right to make additional awards to other compliant bidders at any time
+         if such award is deemed to be in the best interest of the State. All other considerations being equal,
+         preference will be given first to resident bidders of the state and/or to products raised or manufactured in
+         the state, and then to bidders who have practices that promote clean energy and address climate change,
+         as identified in the applicable Certificate of Compliance.
+        3.5.1.Evaluation Criteria: Consideration shall be given to the Bidder’s project approach and methodology,
+              qualifications and experience, ability to provide the services within the defined timeline, cost, and/or
+              success in completing similar projects, as applicable, and to the extent specified below.
+              1. Proven experience and history of operating similar networks
+              2. Business plan and pro-forma demonstrate a reasonable likelihood of success, including evidence
+                 of roaming agreements, Vermont based spectrum, in-state staff or contractors, and capital outlay
+                 necessary to bring the state-owned network online and maintain the system going forward.
+    3.6. STATEMENT OF RIGHTS: The State of Vermont reserves the right to obtain clarification or additional
+         information necessary to properly evaluate a proposal. Vendors may be asked to give a verbal
+         presentation of their proposal after submission. Failure of vendor to respond to a request for additional
+         information or clarification could result in rejection of that vendor's proposal. To secure a project that is
+         deemed to be in the best interest of the State, the State reserves the right to accept or reject any and all
+         bids, in whole or in part, with or without cause, and to waive technicalities in submissions. The State also
+         reserves the right to make purchases outside of the awarded contracts where it is deemed in the best
+         interest of the State.
+    3.7. CONTRACT TERMS: The selected bidder(s) will be expected to sign a contract with the State, including
+         the Standard Contract Form and Attachment C as attached to this RFP for reference. The contract will
+         obligate the bidder to provide the services and/or products identified in its bid, at the prices listed.
+        3.7.1.PAYMENT TERMS: All invoices are to be rendered by the Contractor on the vendor's standard
+              billhead and forwarded directly to the institution or agency ordering materials or services and shall
+              specify the address to which payments will be sent. Payment terms are Net 30 days from receipt of
+              an error-free invoice with all applicable supporting documentation. Percentage discounts may be
+              offered for prompt payments of invoices; however, such discounts must be in effect for a period of 30
+              days or more in order to be considered in making awards.
+
+4. CONTENT AND FORMAT OF RESPONSES: The content and format requirements listed below are the
+   minimum requirements for State evaluation. These requirements are not intended to limit the content of a
+   Bidder’s proposal. Bidders may include additional information or offer alternative solutions for the State’s
+                                                           7
+  consideration. However, the State discourages overly lengthy and costly proposals, and Bidders are advised to
+  include only such information in their response as may be relevant to the requirements of this RFP.
+
+  4.1. NUMBER OF COPIES:
+
+      4.1.1.Submit an unbound original (clearly marked as such) and two (2) paper copies and one digital copy in
+            PDF provided on a USB flash drive, or emailed to State.telecom@vermont.gov.
+      4.1.2.The bid should include a Cover Letter and Technical Response and a separate Pricing Response.
+  4.2. COVER LETTER:
+      4.2.1.Confidentiality. To the extent your bid contains information you consider to be proprietary and
+            confidential, you must comply with the following requirements concerning the contents of your cover
+            letter and the submission of a redacted copy of your bid (or affected portions thereof).
+      4.2.2.The successful response will become part of the contract file and will become a matter of public
+            record, as will all other responses received. If the response includes material that is considered by the
+            bidder to be proprietary and confidential under the State’s Public Records Act, 1 V.S.A. § 315 et seq.,
+            the bidder shall submit a cover letter that clearly identifies each page or section of the response that it
+            believes is proprietary and confidential. The bidder shall also provide in their cover letter a written
+            explanation for each marked section explaining why such material should be considered exempt
+            from public disclosure in the event of a public records request, pursuant to 1 V.S.A. § 317(c),
+            including the prospective harm to the competitive position of the bidder if the identified material were
+            to be released. Additionally, the bidder must include a redacted copy of its response for portions that
+            are considered proprietary and confidential. Redactions must be limited so that the reviewer may
+            understand the nature of the information being withheld. It is typically inappropriate to redact entire
+            pages, or to redact the titles/captions of tables and figures. Under no circumstances can the entire
+            response be marked confidential, and the State reserves the right to disqualify responses so marked.
+      4.2.3.Exceptions to Terms and Conditions. If the bidder wishes to propose an exception to any terms and
+            conditions set forth in the Standard Contract Form and its attachments, such exceptions must be
+            included in the cover letter to the RFP response. Failure to note exceptions when responding to the
+            RFP will be deemed to be acceptance of the State contract terms and conditions. If exceptions are
+            not noted in the response to this RFP but raised during contract negotiations, the State reserves the
+            right to cancel the negotiation if deemed to be in the best interests of the State. Note that exceptions
+            to contract terms may cause rejection of the proposal.
+  4.3. BACKGROUND AND EXPERIENCE. Provide details concerning the form of business organization,
+       company size and resources; describe particular experience relevant to the proposed project, and list all
+       current or past State projects.
+      If a Bidder intends to use subcontractors, the Bidder must identify in the proposal the names of the
+      subcontractors, the portions of the work the subcontractors will perform, and address the background and
+      experience of the subcontractor(s), as above.
+  4.4. REFERENCES. Provide the names, addresses, and phone numbers of at least three companies with
+       whom you have transacted similar business in the last 12 months. You must include contact names who
+       can talk knowledgeably about performance.
+  4.5. REPORTING REQUIREMENTS: Provide a sample of any reporting documentation that may be
+       applicable to the Detailed Requirements of this RFP.
+  4.6. PRICING: Bidders shall submit their pricing information in the Price Schedule attached to the RFP.
+       Bidders may be required to submit pricing information separate from their bid package if specifically
+       required above.
+  4.7. CERTIFICATE OF COMPLIANCE: This form must be completed and submitted as part of the response
+       for the proposal to be considered valid.
+
+5. SUBMISSION INSTRUCTIONS:
+
+  5.1. CLOSING DATE: Bids must be received by the due date and at the location specified on the front page of
+       this RFP.
+                                                         8
+  5.2. The bid opening will be held at 112 State State Street, Third Floor, Montpelier, VT in the MEGA
+       conference room and is open to the public.
+
+  5.3. SECURITY PROCEDURES: Please be advised extra time will be needed when visiting and/or
+       delivering information to 112 State Street.
+
+  5.4. SEALED BID INSTRUCTIONS: All bids must be sealed and must be addressed to the State of Vermont,
+       Department of Public Service, 112 State Street – Third Floor, Montpelier, VT 05602. BID ENVELOPES
+       MUST BE CLEARLY MARKED ‘SEALED BID’ AND SHOW THE REQUISITION NUMBER AND/OR
+       PROPOSAL TITLE, OPENING DATE AND NAME OF BIDDER.
+
+       5.4.1.All bidders are hereby notified that sealed bids must be received and time stamped by the
+             Department of Public Service located at 112 State Street – Third Floor, Montpelier, VT 05602 by
+             the time of the bid opening. Bids not in possession of the Department of Public Service at the time of
+             the bid opening will be returned to the vendor, and will not be considered. Any delay deemed
+             caused by Security Procedures will be at the bidder’s own risk.
+
+       5.4.2. The Department of Public Service may, for cause, change the date and/or time of bid openings or
+             issue an addendum. If a change is made, the State will make a reasonable effort to inform all bidders
+             by posting at
+
+             https://publicservice.vermont.gov/requests-for-proposals
+
+       5.4.3.All bids will be publicly opened. Typically, the Department of Public Service will open the bid, read
+             the name and address of the bidder, and read the bid amount. However, the Department of Public
+             Service reserves the right to limit the information disclosed at the bid opening to the name and
+             address of the bidder when, in its sole discretion, the Department of Public Service determines that
+             the nature, type, or size of the bid is such that the Department of Public Service cannot immediately
+             (at the opening) determine that the bids are in compliance with the RFP. As such, there will be
+             cases in which the bid amount will not be read at the bid opening. Bid openings are open to
+             members of the public. Bid results are a public record however, the bid results are exempt from
+             disclosure to the public until the award has been made and the contract is executed.
+
+  5.5. DELIVERY METHODS:
+       5.5.1.SECURITY PROCEDURES: Note that security procedures concerning delivery of any mail or
+             parcels to 112 State Street, floor 3 may delay receipt of mail/parcel pieces by one business
+             day.
+
+       5.5.2.U.S. MAIL: Bidders are cautioned that it is their responsibility to originate the mailing of bids in
+             sufficient time to ensure bids are received and time stamped by the Department of Public Service
+             prior to the time of the bid opening.
+
+       5.5.3.EXPRESS DELIVERY: If bids are being sent via an express delivery service, be certain that the RFP
+             designation is clearly shown on the outside of the delivery envelope or box. Express delivery
+             packages will not be considered received by the State until the express delivery package has been
+             received and time stamped by the Department of Public Service.
+
+       5.5.4.HAND DELIVERY: Hand carried bids shall be delivered to a representative of the Department of
+             Public Service.
+
+       5.5.5.ELECTRONIC: Electronic bids will be accepted.
+6. ATTACHMENTS:
+  1.   Standard State Contract Form, including Attachments A: Scope of Work, B: Payment Provisions, and C:
+       Standard Provisions
+  2.   Certificate of Compliance
+  3.   Worker Classification Compliance Requirement; Subcontractor Reporting Form
+                                                         9
+4.   List and map of Commissioned Small Cell Sites
+5.   Equipment Specifications
+
+
+
+
+                                                     10
+STATE OF VERMONT STANDARD CONTRACT FOR SERVICES Contract # ________
+
+1. Parties. This is a contract for services between the State of Vermont, _____________ (hereinafter called “State”),
+and _____________, with a principal place of business in _____________, (hereinafter called “Contractor”).
+Contractor’s form of business organization is _____________. It is Contractor’s responsibility to contact the Vermont
+Department of Taxes to determine if, by law, Contractor is required to have a Vermont Department of Taxes Business
+Account Number.
+2. Subject Matter. The subject matter of this contract is services generally on the subject of _____________. Detailed
+services to be provided by Contractor are described in Attachment A.
+
+3. Maximum Amount. In consideration of the services to be performed by Contractor, the State agrees to pay
+Contractor, in accordance with the payment provisions specified in Attachment B, a sum not to exceed $________.00.
+
+4. Contract Term. The period of contractor’s performance shall begin on _____________, 20__ and end on
+_____________, 20__.
+
+5. Prior Approvals. This Contract shall not be binding unless and until all requisite prior approvals have been
+obtained in accordance with current State law, bulletins, and interpretations.
+
+6. Amendment. No changes, modifications, or amendments in the terms and conditions of this contract shall be
+effective unless reduced to writing, numbered and signed by the duly authorized representative of the State and
+Contractor.
+
+7. Cancellation. This contract may be canceled by either party by giving written notice at least thirty (30) days in
+advance.
+
+8. Attachments. This contract consists of ___ pages including the following attachments which are incorporated
+herein:
+
+        Attachment A - Statement of Work
+        Attachment B - Payment Provisions
+        Attachment C – “Standard State Provisions for Contracts and Grants” a preprinted form (revision date
+                       12/15/2017)
+        Attachment D - Other Provisions (if any)
+
+
+9. Order of Precedence. Any ambiguity, conflict or inconsistency between the documents comprising
+this contract shall be resolved according to the following order of precedence:
+        (1) Standard Contract
+        (2) Attachment D (if applicable)
+        (3) Attachment C (Standard Contract Provisions for Contracts and Grants)
+        (4) Attachment A
+        (5) Attachment B
+        List other attachments, if any, in order of precedence
+
+STATE OF VERMONT STANDARD CONTRACT FOR SERVICES Contract # ________
+
+                                                   Attachment 1-1
+WE THE UNDERSIGNED PARTIES AGREE TO BE BOUND BY THIS CONTRACT
+
+By the State of Vermont:              By the Contractor:
+
+Date:                                 Date:
+
+Signature:                            Signature:
+
+Name:                                 Name:
+
+Title:                                Title:
+
+
+
+
+                                Attachment 1-2
+STATE OF VERMONT STANDARD CONTRACT FOR SERVICES Contract # ________
+
+                               ATTACHMENT A – STATEMENT OF WORK
+
+
+
+
+The successful respondent will be required to
+
+    1. Obtain appropriate CMRS spectrum;
+    2. Enter roaming agreements with nationwide CMRS providers, such that the provider’s customers can access
+       the service supplied by the leased network;
+    3. Set an annual payment to the State for the lease of the RAN equipment, potentially including conditions
+       under which the payment may be waived;
+    4. Execute a lease-agreement with the state of Vermont for use of the state owned compact RANs;
+    5. Take possession of the equipment and ensure against loss or damage;
+    6. Obtain all necessary siting, and regulatory permits necessary to deploy the equipment;
+    7. Take responsibility for maintaining and operating the network, including pole attachment make-ready and
+       rental fees, electricity and backhaul fees at each site, cellular switching service, and E-911 regulatory
+       compliance, and system monitoring and maintenance;
+    8. Re-Commission the previously deployed RAN at 24 sites, and install and commission RANs at 46 sites, in
+       the towns listed below:
+           Vermont towns willing to contribute financial support
+           Bakersfield     Grafton          Peacham       Thetford*
+           Braintree*      Granville*       Plymouth      Vershire*
+           Burke           Greensboro Randolph*           Waterford
+           Cabot           Landgrove        Readsboro*    West Fairlee*
+           Chelsea*        Marlboro         Shaftsbury    Westminster
+           Chittenden      Marshfield       Shelburne     Weston
+           Cornwall        Middlebury* Shrewsbury         Wolcott*
+           Dummerston Morgan*               Stamford      Woodbury
+           Glover          NEWBURY          Strafford*
+           *indicates RANs installed in the town
+
+    9. Develop a protocol to repair all RAN units that cannot be successfully re-commissioned, at the expense of
+        the State;
+    10. Set a schedule for deployment of remaining RANs with concrete milestones triggering payment for
+        installation costs with penalties for failure to meet the schedule;
+    11. Develop a method to inform the State, and as appropriate, the public, about the operational status of
+        commissioned RANs;
+    12. Develop a protocol for the repair of disabled RAN units after commissioning, at the Partner’s expense, and
+    13. Obtain a performance bond for the installation of the remaining non-commissioned sites.
+
+
+
+
+                                                 Attachment 1-3
+STATE OF VERMONT STANDARD CONTRACT FOR SERVICES Contract # ________
+
+                                ATTACHMENT B – PAYMENT PROVISIONS
+
+The maximum dollar amount payable under this contract is not intended as any form of a guaranteed amount. The
+Contractor will be paid for products or services actually delivered or performed, as specified in Attachment A, up to
+the maximum allowable amount specified on page 1 of this contract.
+
+    1. Prior to commencement of work and release of any payments, Contractor shall submit to the State:
+            a. a certificate of insurance consistent with the requirements set forth in Attachment C, Section 8
+               (Insurance), and with any additional requirements for insurance as may be set forth elsewhere in this
+               contract; and
+            b. a current IRS Form W-9 (signed within the last six months).
+    2. Payment terms are Net 30 days from the date the State receives an error-free invoice with all necessary and
+       complete supporting documentation.
+    3. Contractor shall submit detailed invoices itemizing all work performed during the invoice period, including
+       the dates of service, rates of pay, hours of work performed, and any other information and/or documentation
+       appropriate and sufficient to substantiate the amount invoiced for payment by the State. All invoices must
+       include the Contract # for this contract.
+    4. Contractor shall submit invoices to the State in accordance with the schedule set forth in this Attachment B.
+       Unless a more particular schedule is provided herein, invoices shall be submitted not more frequently than
+       monthly.
+    5. Invoices shall be submitted to the State at the following address: ________________
+    6. The payment schedule for delivered products, or rates for services performed, and any additional
+       reimbursements, are as follows: _____________
+            a. The annual lease fee, as proposed by the Partner, shall be submitted within 30 days of execution of
+               the contract, and annually after that, unless waived as agreed in the contract.
+            b. The payment for the repair of the RANs that cannot be successfully commissioned shall be made
+               after the units have been repaired and then successfully deployed and commissioned by the Partner
+               in the new agreed location.
+            c. The payment for installation of the RANs at non-deployed sites shall be the actual cost of installation,
+               not-to-exceed $3,800 upon successful commissioning of each site.
+            d. The payment for re-commissioning of RANs at previously deployed sites shall be the actual cost, not
+               to exceed $1,000 upon successful commissioning of each site.
+            e. If the Partner finds that that the business model, including the financial support pledged by towns,
+               will not support sustainable operation of the 70 RANs, the Partner may propose an amount of
+               additional financial support that may be necessary. Presently funding to support such a request is
+               not available, but the State will take the proposal under advisement.
+
+
+
+
+                                                   Attachment 1-4
+                            ATTACHMENT C: STANDARD STATE PROVISIONS
+                                  FOR CONTRACTS AND GRANTS
+                                             REVISED DECEMBER 15, 2017
+
+1. Definitions: For purposes of this Attachment, “Party” shall mean the Contractor, Grantee or Subrecipient, with
+whom the State of Vermont is executing this Agreement and consistent with the form of the Agreement. “Agreement”
+shall mean the specific contract or grant to which this form is attached.
+
+2. Entire Agreement: This Agreement, whether in the form of a contract, State-funded grant, or Federally-funded
+grant, represents the entire agreement between the parties on the subject matter. All prior agreements, representations,
+statements, negotiations, and understandings shall have no effect.
+
+3. Governing Law, Jurisdiction and Venue; No Waiver of Jury Trial: This Agreement will be governed by the
+laws of the State of Vermont. Any action or proceeding brought by either the State or the Party in connection with
+this Agreement shall be brought and enforced in the Superior Court of the State of Vermont, Civil Division,
+Washington Unit. The Party irrevocably submits to the jurisdiction of this court for any action or proceeding
+regarding this Agreement. The Party agrees that it must first exhaust any applicable administrative remedies with
+respect to any cause of action that it may have against the State with regard to its performance under this Agreement.
+Party agrees that the State shall not be required to submit to binding arbitration or waive its right to a jury trial.
+
+4. Sovereign Immunity: The State reserves all immunities, defenses, rights or actions arising out of the State’s
+sovereign status or under the Eleventh Amendment to the United States Constitution. No waiver of the State’s
+immunities, defenses, rights or actions shall be implied or otherwise deemed to exist by reason of the State’s entry
+into this Agreement.
+
+5. No Employee Benefits For Party: The Party understands that the State will not provide any individual retirement
+benefits, group life insurance, group health and dental insurance, vacation or sick leave, workers compensation or
+other benefits or services available to State employees, nor will the State withhold any state or Federal taxes except
+as required under applicable tax laws, which shall be determined in advance of execution of the Agreement. The
+Party understands that all tax returns required by the Internal Revenue Code and the State of Vermont, including but
+not limited to income, withholding, sales and use, and rooms and meals, must be filed by the Party, and information
+as to Agreement income will be provided by the State of Vermont to the Internal Revenue Service and the Vermont
+Department of Taxes.
+
+6. Independence: The Party will act in an independent capacity and not as officers or employees of the State.
+
+7. Defense and Indemnity: The Party shall defend the State and its officers and employees against all third party
+claims or suits arising in whole or in part from any act or omission of the Party or of any agent of the Party in
+connection with the performance of this Agreement. The State shall notify the Party in the event of any such claim
+or suit, and the Party shall immediately retain counsel and otherwise provide a complete defense against the entire
+claim or suit. The State retains the right to participate at its own expense in the defense of any claim. The State shall
+have the right to approve all proposed settlements of such claims or suits.
+After a final judgment or settlement, the Party may request recoupment of specific defense costs and may file suit in
+Washington Superior Court requesting recoupment. The Party shall be entitled to recoup costs only upon a showing
+that such costs were entirely unrelated to the defense of any claim arising from an act or omission of the Party in
+connection with the performance of this Agreement.
+The Party shall indemnify the State and its officers and employees if the State, its officers or employees become
+legally obligated to pay any damages or losses arising from any act or omission of the Party or an agent of the Party
+in connection with the performance of this Agreement.
+Notwithstanding any contrary language anywhere, in no event shall the terms of this Agreement or any document
+furnished by the Party in connection with its performance under this Agreement obligate the State to (1) defend or
+indemnify the Party or any third party, or (2) otherwise be liable for the expenses or reimbursement, including
+attorneys’ fees, collection costs or other costs of the Party or any third party.
+
+                                                    Attachment 1-5
+8. Insurance: Before commencing work on this Agreement the Party must provide certificates of insurance to show
+that the following minimum coverages are in effect. It is the responsibility of the Party to maintain current certificates
+of insurance on file with the State through the term of this Agreement. No warranty is made that the coverages and
+limits listed herein are adequate to cover and protect the interests of the Party for the Party’s operations. These are
+solely minimums that have been established to protect the interests of the State.
+Workers Compensation: With respect to all operations performed, the Party shall carry workers’ compensation
+insurance in accordance with the laws of the State of Vermont. Vermont will accept an out-of-state employer's
+workers’ compensation coverage while operating in Vermont provided that the insurance carrier is licensed to write
+insurance in Vermont and an amendatory endorsement is added to the policy adding Vermont for coverage purposes.
+Otherwise, the party shall secure a Vermont workers’ compensation policy, if necessary to comply with Vermont
+law.
+General Liability and Property Damage: With respect to all operations performed under this Agreement, the Party
+shall carry general liability insurance having all major divisions of coverage including, but not limited to:
+         Premises - Operations
+         Products and Completed Operations
+         Personal Injury Liability
+         Contractual Liability
+         The policy shall be on an occurrence form and limits shall not be less than:
+                  $1,000,000 Each Occurrence
+                  $2,000,000 General Aggregate
+                  $1,000,000 Products/Completed Operations Aggregate
+                  $1,000,000 Personal & Advertising Injury
+Automotive Liability: The Party shall carry automotive liability insurance covering all motor vehicles, including hired
+and non-owned coverage, used in connection with the Agreement. Limits of coverage shall not be less than $500,000
+combined single limit. If performance of this Agreement involves construction, or the transport of persons or
+hazardous materials, limits of coverage shall not be less than $1,000,000 combined single limit.
+Additional Insured. The General Liability and Property Damage coverages required for performance of this
+Agreement shall include the State of Vermont and its agencies, departments, officers and employees as Additional
+Insureds. If performance of this Agreement involves construction, or the transport of persons or hazardous materials,
+then the required Automotive Liability coverage shall include the State of Vermont and its agencies, departments,
+officers and employees as Additional Insureds. Coverage shall be primary and non-contributory with any other
+insurance and self-insurance.
+Notice of Cancellation or Change. There shall be no cancellation, change, potential exhaustion of aggregate limits or
+non-renewal of insurance coverage(s) without thirty (30) days written prior written notice to the State.
+
+9. Reliance by the State on Representations: All payments by the State under this Agreement will be made in
+reliance upon the accuracy of all representations made by the Party in accordance with this Agreement, including but
+not limited to bills, invoices, progress reports and other proofs of work.
+
+10. False Claims Act: The Party acknowledges that it is subject to the Vermont False Claims Act as set
+forth in 32 V.S.A. § 630 et seq. If the Party violates the Vermont False Claims Act it shall be liable to the
+State for civil penalties, treble damages and the costs of the investigation and prosecution of such violation,
+including attorney’s fees, except as the same may be reduced by a court of competent jurisdiction. The
+Party’s liability to the State under the False Claims Act shall not be limited notwithstanding any agreement
+of the State to otherwise limit Party’s liability.
+
+11. Whistleblower Protections: The Party shall not discriminate or retaliate against one of its employees
+or agents for disclosing information concerning a violation of law, fraud, waste, abuse of authority or acts
+threatening health or safety, including but not limited to allegations concerning the False Claims Act.
+Further, the Party shall not require such employees or agents to forego monetary awards as a result of such
+                                                    Attachment 1-6
+disclosures, nor should they be required to report misconduct to the Party or its agents prior to reporting to
+any governmental entity and/or the public.
+
+12. Location of State Data: No State data received, obtained, or generated by the Party in connection with
+performance under this Agreement shall be processed, transmitted, stored, or transferred by any means outside the
+continental United States, except with the express written permission of the State.
+13. Records Available for Audit: The Party shall maintain all records pertaining to performance under this
+agreement. “Records” means any written or recorded information, regardless of physical form or characteristics,
+which is produced or acquired by the Party in the performance of this agreement. Records produced or acquired in a
+machine readable electronic format shall be maintained in that format. The records described shall be made available
+at reasonable times during the period of the Agreement and for three years thereafter or for any period required by
+law for inspection by any authorized representatives of the State or Federal Government. If any litigation, claim, or
+audit is started before the expiration of the three-year period, the records shall be retained until all litigation, claims
+or audit findings involving the records have been resolved.
+
+14. Fair Employment Practices and Americans with Disabilities Act: Party agrees to comply with the requirement
+of 21 V.S.A. Chapter 5, Subchapter 6, relating to fair employment practices, to the full extent applicable. Party shall
+also ensure, to the full extent required by the Americans with Disabilities Act of 1990, as amended, that qualified
+individuals with disabilities receive equitable access to the services, programs, and activities provided by the Party
+under this Agreement.
+
+15. Set Off: The State may set off any sums which the Party owes the State against any sums due the Party under this
+Agreement; provided, however, that any set off of amounts due the State of Vermont as taxes shall be in accordance
+with the procedures more specifically provided hereinafter.
+
+16. Taxes Due to the State:
+    A. Party understands and acknowledges responsibility, if applicable, for compliance with State tax laws,
+       including income tax withholding for employees performing services within the State, payment of use tax on
+       property used within the State, corporate and/or personal income tax on income earned within the State.
+    B. Party certifies under the pains and penalties of perjury that, as of the date this Agreement is signed, the Party
+       is in good standing with respect to, or in full compliance with, a plan to pay any and all taxes due the State
+       of Vermont.
+    C. Party understands that final payment under this Agreement may be withheld if the Commissioner of Taxes
+       determines that the Party is not in good standing with respect to or in full compliance with a plan to pay any
+       and all taxes due to the State of Vermont.
+    D. Party also understands the State may set off taxes (and related penalties, interest and fees) due to the State of
+       Vermont, but only if the Party has failed to make an appeal within the time allowed by law, or an appeal has
+       been taken and finally determined and the Party has no further legal recourse to contest the amounts due.
+
+17. Taxation of Purchases: All State purchases must be invoiced tax free. An exemption certificate will be furnished
+upon request with respect to otherwise taxable items.
+
+18. Child Support: (Only applicable if the Party is a natural person, not a corporation or partnership.) Party states
+that, as of the date this Agreement is signed, he/she:
+     A. is not under any obligation to pay child support; or
+     B. is under such an obligation and is in good standing with respect to that obligation; or
+     C. has agreed to a payment plan with the Vermont Office of Child Support Services and is in full compliance
+         with that plan.
+Party makes this statement with regard to support owed to any and all children residing in Vermont. In addition, if
+the Party is a resident of Vermont, Party makes this statement with regard to support owed to any and all children
+residing in any other state or territory of the United States.
+
+                                                     Attachment 1-7
+19. Sub-Agreements: Party shall not assign, subcontract or subgrant the performance of this Agreement or any
+portion thereof to any other Party without the prior written approval of the State. Party shall be responsible and liable
+to the State for all acts or omissions of subcontractors and any other person performing work under this Agreement
+pursuant to an agreement with Party or any subcontractor.
+In the case this Agreement is a contract with a total cost in excess of $250,000, the Party shall provide to the State a
+list of all proposed subcontractors and subcontractors’ subcontractors, together with the identity of those
+subcontractors’ workers compensation insurance providers, and additional required or requested information, as
+applicable, in accordance with Section 32 of The Vermont Recovery and Reinvestment Act of 2009 (Act No. 54).
+Party shall include the following provisions of this Attachment C in all subcontracts for work performed solely for
+the State of Vermont and subcontracts for work performed in the State of Vermont: Section 10 (“False Claims Act”);
+Section 11 (“Whistleblower Protections”); Section 12 (“Location of State Data”); Section 14 (“Fair Employment
+Practices and Americans with Disabilities Act”); Section 16 (“Taxes Due the State”); Section 18 (“Child Support”);
+Section 20 (“No Gifts or Gratuities”); Section 22 (“Certification Regarding Debarment”); Section 30 (“State
+Facilities”); and Section 32.A (“Certification Regarding Use of State Funds”).
+
+20. No Gifts or Gratuities: Party shall not give title or possession of anything of substantial value (including
+property, currency, travel and/or education programs) to any officer or employee of the State during the term of this
+Agreement.
+
+21. Copies: Party shall use reasonable best efforts to ensure that all written reports prepared under this Agreement
+are printed using both sides of the paper.
+
+22. Certification Regarding Debarment: Party certifies under pains and penalties of perjury that, as of the date that
+this Agreement is signed, neither Party nor Party’s principals (officers, directors, owners, or partners) are presently
+debarred, suspended, proposed for debarment, declared ineligible or excluded from participation in Federal programs,
+or programs supported in whole or in part by Federal funds.
+Party further certifies under pains and penalties of perjury that, as of the date that this Agreement is signed, Party is
+not     presently     debarred,    suspended,      nor    named       on      the    State’s    debarment     list    at:
+http://bgs.vermont.gov/purchasing/debarment
+
+23. Conflict of Interest: Party shall fully disclose, in writing, any conflicts of interest or potential conflicts
+of interest.
+
+24. Confidentiality: Party acknowledges and agrees that this Agreement and any and all information
+obtained by the State from the Party in connection with this Agreement are subject to the State of Vermont
+Access to Public Records Act, 1 V.S.A. § 315 et seq.
+
+25. Force Majeure: Neither the State nor the Party shall be liable to the other for any failure or delay of
+performance of any obligations under this Agreement to the extent such failure or delay shall have been
+wholly or principally caused by acts or events beyond its reasonable control rendering performance illegal
+or impossible (excluding strikes or lock-outs) (“Force Majeure”). Where Force Majeure is asserted, the
+nonperforming party must prove that it made all reasonable efforts to remove, eliminate or minimize such
+cause of delay or damages, diligently pursued performance of its obligations under this Agreement,
+substantially fulfilled all non-excused obligations, and timely notified the other party of the likelihood or
+actual occurrence of an event described in this paragraph.
+
+26. Marketing: Party shall not refer to the State in any publicity materials, information pamphlets, press
+releases, research reports, advertising, sales promotions, trade shows, or marketing materials or similar
+communications to third parties except with the prior written consent of the State.
+
+27. Termination:
+
+                                                    Attachment 1-8
+    A. Non-Appropriation: If this Agreement extends into more than one fiscal year of the State (July 1 to June
+       30), and if appropriations are insufficient to support this Agreement, the State may cancel at the end of the
+       fiscal year, or otherwise upon the expiration of existing appropriation authority. In the case that this
+       Agreement is a Grant that is funded in whole or in part by Federal funds, and in the event Federal funds
+       become unavailable or reduced, the State may suspend or cancel this Grant immediately, and the State shall
+       have no obligation to pay Subrecipient from State revenues.
+    B. Termination for Cause: Either party may terminate this Agreement if a party materially breaches its
+       obligations under this Agreement, and such breach is not cured within thirty (30) days after delivery of the
+       non-breaching party’s notice or such longer time as the non-breaching party may specify in the notice.
+    C. Termination Assistance: Upon nearing the end of the final term or termination of this Agreement, without
+       respect to cause, the Party shall take all reasonable and prudent measures to facilitate any transition required
+       by the State. All State property, tangible and intangible, shall be returned to the State upon demand at no
+       additional cost to the State in a format acceptable to the State.
+28. Continuity of Performance: In the event of a dispute between the Party and the State, each party will
+continue to perform its obligations under this Agreement during the resolution of the dispute until this
+Agreement is terminated in accordance with its terms.
+
+29. No Implied Waiver of Remedies: Either party’s delay or failure to exercise any right, power or remedy
+under this Agreement shall not impair any such right, power or remedy, or be construed as a waiver of any
+such right, power or remedy. All waivers must be in writing.
+
+30. State Facilities: If the State makes space available to the Party in any State facility during the term of
+this Agreement for purposes of the Party’s performance under this Agreement, the Party shall only use the
+space in accordance with all policies and procedures governing access to and use of State facilities which
+shall be made available upon request. State facilities will be made available to Party on an “AS IS, WHERE
+IS” basis, with no warranties whatsoever.
+
+31. Requirements Pertaining Only to Federal Grants and Subrecipient Agreements: If this Agreement is a grant
+that is funded in whole or in part by Federal funds:
+     A. Requirement to Have a Single Audit: The Subrecipient will complete the Subrecipient Annual Report
+          annually within 45 days after its fiscal year end, informing the State of Vermont whether or not a Single
+          Audit is required for the prior fiscal year. If a Single Audit is required, the Subrecipient will submit a copy
+          of the audit report to the granting Party within 9 months. If a single audit is not required, only the Subrecipient
+          Annual Report is required.
+          For fiscal years ending before December 25, 2015, a Single Audit is required if the subrecipient expends
+          $500,000 or more in Federal assistance during its fiscal year and must be conducted in accordance with OMB
+          Circular A-133. For fiscal years ending on or after December 25, 2015, a Single Audit is required if the
+          subrecipient expends $750,000 or more in Federal assistance during its fiscal year and must be conducted in
+          accordance with 2 CFR Chapter I, Chapter II, Part 200, Subpart F. The Subrecipient Annual Report is
+          required to be submitted within 45 days, whether or not a Single Audit is required.
+     B. Internal Controls: In accordance with 2 CFR Part II, §200.303, the Party must establish and maintain
+          effective internal control over the Federal award to provide reasonable assurance that the Party is managing
+          the Federal award in compliance with Federal statutes, regulations, and the terms and conditions of the award.
+          These internal controls should be in compliance with guidance in “Standards for Internal Control in the
+          Federal Government” issued by the Comptroller General of the United States and the “Internal Control
+          Integrated Framework”, issued by the Committee of Sponsoring Organizations of the Treadway Commission
+          (COSO).
+     C. Mandatory Disclosures: In accordance with 2 CFR Part II, §200.113, Party must disclose, in a timely
+          manner, in writing to the State, all violations of Federal criminal law involving fraud, bribery, or gratuity
+          violations potentially affecting the Federal award. Failure to make required disclosures may result in the
+
+                                                      Attachment 1-9
+       imposition of sanctions which may include disallowance of costs incurred, withholding of payments,
+       termination of the Agreement, suspension/debarment, etc.
+
+32. Requirements Pertaining Only to State-Funded Grants:
+   A. Certification Regarding Use of State Funds: If Party is an employer and this Agreement is a State-funded
+      grant in excess of $1,001, Party certifies that none of these State funds will be used to interfere with or restrain
+      the exercise of Party’s employee’s rights with respect to unionization.
+   B. Good Standing Certification (Act 154 of 2016): If this Agreement is a State-funded grant, Party hereby
+      represents: (i) that it has signed and provided to the State the form prescribed by the Secretary of
+      Administration for purposes of certifying that it is in good standing (as provided in Section 13(a)(2) of Act
+      154) with the Agency of Natural Resources and the Agency of Agriculture, Food and Markets, or otherwise
+      explaining the circumstances surrounding the inability to so certify, and (ii) that it will comply with the
+      requirements stated therein.
+
+
+                                           (End of Standard Provisions)
+
+
+
+
+                                                   Attachment 1-10
+                                                                                                    RFP/PROJECT:
+                                                                                                            DATE:
+                                                                                                        Page 1 of 3
+                                    CERTIFICATE OF COMPLIANCE
+
+For a bid to be considered valid, this form must be completed in its entirety, executed by a duly authorized
+representative of the bidder, and submitted as part of the response to the proposal.
+
+
+   A. NON COLLUSION: Bidder hereby certifies that the prices quoted have been arrived at without collusion
+      and that no prior information concerning these prices has been received from or given to a competitive
+      company. If there is sufficient evidence to warrant investigation of the bid/contract process by the Office of
+      the Attorney General, bidder understands that this paragraph might be used as a basis for litigation.
+
+   B. CONTRACT TERMS: Bidder hereby acknowledges that is has read, understands and agrees to the terms
+      of this RFP, including Attachment C: Standard State Contract Provisions, and any other contract
+      attachments included with this RFP.
+
+
+   C. FORM OF PAYMENT: Does Bidder accept the Visa Purchasing Card as a form of payment?
+
+       ____ Yes ____ No
+
+   D. WORKER CLASSIFICATION COMPLIANCE REQUIREMENT: In accordance with Section 32 of The
+      Vermont Recovery and Reinvestment Act of 2009 (Act No. 54), the following provisions and requirements
+      apply to Bidder when the amount of its bid exceeds $250,000.00.
+
+       Self-Reporting. Bidder hereby self-reports the following information relating to past violations, convictions,
+       suspensions, and any other information related to past performance relative to coding and classification of
+       workers, that occurred in the previous 12 months.
+
+              Summary of Detailed                  Date of Notification                   Outcome
+                 Information
+
+
+
+
+       Subcontractor Reporting. Bidder hereby acknowledges and agrees that if it is a successful bidder, prior to
+       execution of any contract resulting from this RFP, Bidder will provide to the State a list of all proposed
+       subcontractors and subcontractors’ subcontractors, together with the identity of those subcontractors’ workers
+       compensation insurance providers, and additional required or requested information, as applicable, in
+       accordance with Section 32 of The Vermont Recovery and Reinvestment Act of 2009 (Act No. 54), and Bidder
+       will provide any update of such list to the State as additional subcontractors are hired. Bidder further
+       acknowledges and agrees that the failure to submit subcontractor reporting in accordance with Section 32 of
+       The Vermont Recovery and Reinvestment Act of 2009 (Act No. 54) will constitute non-compliance and may
+       result in cancellation of contract and/or restriction from bidding on future state contracts.
+
+
+
+
+                                                  Attachment 2-1
+                                                                                             RFP/PROJECT:
+                                                                                                     DATE:
+                                                                                                 Page 2 of 3
+
+E. Executive Order 05 – 16: Climate Change Considerations in State Procurements Certification
+
+   Bidder certifies to the following (Bidder may attach any desired explanation or substantiation.
+   Please also note that Bidder may be asked to provide documentation for any applicable claims):
+
+   1. Bidder owns, leases or utilizes, for business purposes, space that has received:
+       Energy Star® Certification
+       LEED®, Green Globes®, or Living Buildings Challenge℠ Certification
+       Other internationally recognized building certification:
+
+   ____________________________________________________________________________
+
+   2. Bidder has received incentives or rebates from an Energy Efficiency Utility or Energy Efficiency
+      Program in the last five years for energy efficient improvements made at bidder’s place of business.
+      Please explain:
+
+   _____________________________________________________________________________
+
+   3. Please Check all that apply:
+       Bidder can claim on-site renewable power or anaerobic-digester power (“cow-power”). Or bidder
+          consumes renewable electricity through voluntary purchase or offset, provided no such claimed
+          power can be double-claimed by another party.
+       Bidder uses renewable biomass or bio-fuel for the purposes of thermal (heat) energy at its place of
+          business.
+       Bidder’s heating system has modern, high-efficiency units (boilers, furnaces, stoves, etc.), having
+          reduced emissions of particulate matter and other air pollutants.
+       Bidder tracks its energy consumption and harmful greenhouse gas emissions. What tool is used to
+          do this? _____________________
+       Bidder promotes the use of plug-in electric vehicles by providing electric vehicle charging, electric
+          fleet vehicles, preferred parking, designated parking, purchase or lease incentives, etc..
+       Bidder offers employees an option for a fossil fuel divestment retirement account.
+       Bidder offers products or services that reduce waste, conserve water, or promote energy efficiency
+          and conservation. Please explain:
+
+
+   ____________________________________________________________________________
+
+   ____________________________________________________________________________
+
+
+   4. Please list any additional practices that promote clean energy and take action to address climate
+      change:
+
+   _____________________________________________________________________________
+
+   ____________________________________________________________________________
+
+   _____________________________________________________________________________
+                                                                                             RFP/PROJECT:
+                                                                                                     DATE:
+                                                                                                 Page 3 of 3
+
+
+
+                                            Attachment 2-2
+      F. Acknowledge receipt of the following Addenda:
+
+             Addendum No.:                               Dated:
+
+             Addendum No.:                               Dated:
+
+             Addendum No.:                               Dated:
+
+
+
+Bidder Name:                                             Contact Name:
+
+Address:                                                 Fax Number:
+
+                                                         Telephone:
+
+                                                         E-Mail:
+
+By:                                                      Name:
+         Signature of Bidder (or Representative)                   (Type or Print)
+
+
+
+                                    END OF CERTIFICATE OF COMPLIANCE
+
+
+
+
+                                                   Attachment 2-3
+                                                                                                       RFP/PROJECT:
+                                                                                                              DATE:
+
+                           WORKER CLASSIFICATION COMPLIANCE REQUIREMENT
+
+                                                     Self Reporting
+                                                      Form 1 of 1
+
+This form must be completed in its entirety and submitted as part of the response for the proposal to be
+considered valid.
+
+The Department of Buildings and General Services in accordance with Act 54, Section 32 of the Acts of 2009 and for
+total projects costs exceeding $250,000.00, requires bidders comply with the following provisions and requirements.
+
+Bidder is required to self report the following information relating to past violations, convictions, suspensions, and
+any other information related to past performance relative to coding and classification for worker’s compensation.
+The state is requiring information on any violations that occurred in the previous 12 months.
+
+          Summary of Detailed Information              Date of Notification                   Outcome
+
+
+
+
+WORKER CLASSIFICATION COMPLIANCE REQUIREMENT: Bidder hereby certifies that the company/individual
+is in compliance with the requirements as detailed in Act 54, Section 32 of the Acts of 2009.
+
+Date:
+
+Name of Company:                                           Contact Name:
+
+Address:                                                   Title:
+
+                                                           Phone Number:
+
+E-mail:                                                    Fax Number:
+
+By:                                                        Name:
+          Signature (Bid Not Valid Unless Signed)*                  (Type or Print)
+
+*Form must be signed by individual authorized to sign on the bidder’s behalf.
+
+
+
+
+                                                     Attachment 3-1
+                                                                                                       RFP/PROJECT:
+                                                                                                              DATE:
+
+                           WORKER CLASSIFICATION COMPLIANCE REQUIREMENT
+
+                                           Subcontractor Reporting Form
+
+This form must be completed in its entirety and submitted prior to contract execution and updated as
+necessary and provided to the State as additional subcontractors are hired.
+
+
+The Department of Buildings and General Services in accordance with Act 54, Section 32 of the Acts of 2009 and for
+total project costs exceeding $250,000.00 requires bidders to comply with the following provisions and requirements.
+
+Contractor is required to provide a list of subcontractors on the job along with lists of subcontractor’s subcontractors
+and by whom those subcontractors are insured of workers. Include additional pages if necessary. This is not a
+requirement for subcontractor’s providing supplies only and no labor to the overall contract or project.
+
+          Subcontractor                Insured By                   Subcontractor’s Sub               Insured By
+
+
+
+
+Date:
+
+Name of Company:                                           Contact Name:
+
+Address:                                                   Title:
+
+                                                           Phone Number:
+
+E-mail:                                                    Fax Number:
+
+By:                                                        Name:
+
+Failure to adhere to Act 54, Section 32 of the Acts of 2009 and submit Subcontractor Reporting: Worker
+Classification Compliance Requirement will constitute non-compliance and may result in cancellation of contract
+and/or forfeiture of future bidding privileges until resolved.
+
+Send Completed Form to:          Office of Purchasing & Contracting
+                                 109 State Street
+                                 Montpelier, VT 05609-3001
+                                 Attention: Contract Administration
+
+
+
+                                                    Attachment 3-2
+

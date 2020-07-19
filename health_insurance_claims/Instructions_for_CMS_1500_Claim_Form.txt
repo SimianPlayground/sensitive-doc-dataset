@@ -1,0 +1,237 @@
+Instructions for Completing the CMS 1500 Claim Form
+
+The Center of Medicaid and Medicare Services (CMS) form 1500 must be used to bill SFHP for
+medical services. The form is used by Physicians and Allied Health Professionals to submit
+claims for medical services. All items must be completed unless otherwise noted in these
+instructions. A CMS 1500 with field descriptions and instructions is included in the link below:
+
+
+
+
+CMS 1500
+   Field      Required Field?                      Description and Requirements
+ Location
+     1             optional       Type of Insurance
+     1a           Required        Insured's SFHP ID Number - Enter the member's 11-digit
+                                  SFHP number as it appears on the ID card. Do not use the SSN
+                                  or CIN number when billing services. If you do not know the
+                                  patient's SFHP ID, you can log onto our provider portal to
+                                  look up the patient's ID. (Insert instructions/link)
+
+
+
+
+     2            Required        Patient's Name - Enter the member’s name as is indicated on
+                                  the ID card. When submitting claims for a newborn infant
+                                  using the mother’s ID number, enter the infant’s name in Box
+                                  2. Services rendered to an infant may be billed with the
+                                  mother’s ID for the month of birth and the month after only.
+                                  Enter “Newborn using Mother’s ID”/ “(twin a) or (twin b)” in
+                                  the Reserved for Local Use field (Box 19).
+     3            Required        Patient's Birth date - Enter member's date of birth and check
+                                  the box for male or female.
+     4           If Applicable    Insured's Name - Not required unless billing for an infant
+                                  using the Mother’s ID. See #2 above.
+     5            Required        Patient's Address - Enter member’s complete address and
+                                  telephone number.
+     6           If Applicable    Patient's Relationship to Insured - Only Self or Child are
+                                  applicable.
+     7           not required     Insured's Address
+     8           not required     Patient Status
+CMS 1500
+  Field    Required Field?                    Description and Requirements
+Location
+  9a-d      not required     Other Insured's Information - Name, Policy/Group Number,
+                             Employer/School Name, Insurance Plan/Program Name
+ 10a-c      not required     Patient's Condition Relation
+  10d       not required     Reserved For Local Use
+ 11a-b      not required     Insured's Information - Name, Policy/Group Number,
+                             Employer/School Name, Insurance Plan/Program Name
+  11c       If Applicable    For Medicare/Medi-Cal crossover claims. Enter the Medicare
+                             Carrier Code.
+  11d         Required       Is there another health benefit plan? Check Yes or No
+   12       not required     Signature and Date
+   13       not required     Insured's or Authorized Person's Signature
+   14         Required       Date of Current - Illness (First Symptom) OR Injury OR
+                             Pregnancy (LMP) - Enter the date of onset of the member's
+                             illness, the date of accident/injury or the date of the last
+                             menstrual period.
+   15       not required     If patient had same or similar illness give first date
+   16       not required     Dates Patient Unable to Work in Current Occupation
+   17       If Applicable    Name of Referring Provider or Other Source - Enter the full
+                             name of the Referring Provider. A referring/ordering provider
+                             is one who requests services for a member, such as provider
+                             consultation, diagnostic laboratory or radiological tests,
+                             physical or other therapies, pharmaceuticals or durable
+                             medical equipment.
+  17a       If Applicable    ID Number of Referring Physician - Enter State Medical
+                             License number.
+  17b       If Applicable    NPI - Enter Referring Provider's NPI number.
+   18       If Applicable    Hospitalization Dates Related to Current Services - Enter the
+                             date of hospital admission and discharge if the services billed
+                             are related to hospitalization. If the patient has not been
+                             discharged, leave the discharge date blank.
+   19       If Applicable    Reserved for Local Use - Use this area for procedures that
+                             require additional information, justification or an Emergency
+                             Certification Statement.
+                                •   This section may be used for an unlisted procedure
+                                    code when explanation is required and clinical review
+                                    is required.
+                                •   If modifier “-99” multiple modifiers is entered in
+                                    section 24d, they should be itemized in this section.
+                                    All applicable modifiers for each line item should be
+                                    listed.
+                                •   Claims for “By Report” codes and complicated
+                                    procedures should be detailed in this section if space
+CMS 1500
+  Field      Required Field?                  Description and Requirements
+Location
+                                      permits.
+                                  •   All multiple procedures that could be mistaken for
+                                      duplicate services performed should be detailed in
+                                      this section.
+                                  •   Anesthesia start and stop times.
+                                  •   Itemization of miscellaneous supplies, etc.
+   20         If Applicable    Outside Lab? - Check "yes" when diagnostic test was
+                               performed by any entity other that the provider billing the
+                               service. If this claim includes charges for laboratory work
+                               performed by a licensed laboratory, enter and "X". "Outside
+                               Laboratory refers to a laboratory not affiliated with the billing
+                               provider. State in Box 19 that a specimen was sent to an
+                               unaffiliated laboratory.
+   21           Required       Diagnosis or Nature of Illness or Injury - Enter all letters
+                               and/or numbers of the ICD-9-CM code for each diagnosis,
+                               including fourth and fifth digits if present. The first diagnosis
+                               listed in section 21.1 indicates the primary reason for the
+                               service provided
+   22         not required     Medicaid Resubmission Code
+   23         If Applicable    Prior Authorization Number - Enter prior authorization or
+                               referral number.
+ Shaded       If Applicable    Use this area for and NDC/UPN information. These must be
+Area Above                     included, if applicable.
+Section 24
+   24A          Required       Dates of Service - Enter the date the service was rendered in
+                               the “from” and “to” boxes in the MMDDYY format. If services
+                               were provided on only one date, they will be indicated only in
+                               the “from” column. If the services were provided on multiple
+                               dates (i.e., DME rental, hemodialysis management, radiation
+                               therapy, etc), the range of dates and number of services
+                               should be indicated. “To” date should never be greater than
+                               the date the claim is received by the Health Plan.
+CMS 1500
+  Field    Required Field?                   Description and Requirements
+Location
+  24B         Required       Place of Service - Enter one code indicating where the service
+                             was rendered.
+                             03 - School
+                             04 - Homeless Shelter
+                             05 - Indian Health Service Free-Standing Facility
+                             06 - Indian Health Service Provider-Based Facility
+                             07 - Tribal 638 Free-Standing Facility
+                             08 - Tribal 638 Provider Based-Facility
+                             11 - Office Visit
+                             12 - Home
+                             13 - Assisted Living
+                             14 - Group Home
+                             15 - Mobile Unit
+                             20 - Urgent Care Facility
+                             21 - Inpatient Hospital
+                             22 - Outpatient Hospital
+                             23 - Emergency Room
+                             24 - Ambulatory Surgical Center
+                             25 - Birthing Center
+                             26 - Military Treatment Facility
+                             31 - Skilled Nursing Facility
+                             32 - Nursing Facility
+                             33 - Custodial Care Facility
+                             34 - Hospice
+                             41 - Ambulance - Land
+                             42 - Ambulance - Air or Water
+                             50 - Federally Qualified Health Center
+                             51 - Inpatient Psychiatric Facility
+                             52 - Psychiatric Facility Partial Hospitalization
+                             53 - Community Mental Health Center
+                             54 - Intermediate Care Facility
+                             55 - Residential Substance Abuse Treatment Facility
+                             56 - Psychiatric Residential Treatment Center
+                             60 - Mass Immunization Center
+                             61 - Comprehensive Inpatient Rehab Facility
+                             62 - Comprehensive Outpatient Rehab Facility
+                             65 - End Stage Renal Disease Treatment Facility
+                             71 - State or Local Public Health Clinic7
+                             2 - Rural Health Clinic
+                             81 - Independent Laboratory
+                             99 - Other Unlisted Facility
+  24C       If Applicable    Emergency Indicator - Check box and attach required
+                             documentation.
+CMS 1500
+  Field    Required Field?                  Description and Requirements
+Location
+  24D         Required       Procedures, Services or Supplies - Enter the applicable CPT
+                             and/or HCPCS National codes in this section. Modifiers, when
+                             applicable, are listed to the right of the primary code under
+                             the column marked “modifier”. If the item is a medical
+                             supply, enter the two-digit manufacturer code in the modifier
+                             area after the five-digit medical supply code.
+  24E         Required       Diagnosis Pointer - Enter the diagnosis code number from
+                             box 21 that applies to the procedure code indicated in 24D.
+  24F         Required       Charges - Enter the charge for service in dollar amount
+                             format. If the item is a taxable medical supply, include the
+                             applicable state and county sales tax.
+  24G         Required       Days or Units - Enter the number of medical visits or
+                             procedures, units of anesthesia time, oxygen volume, items
+                             or units of service, etc. Do not enter a decimal point or
+                             leading zeroes. Do not leave blank as units should be at least
+                             1.
+  24H       If Applicable    EPSDT Family Plan - Enter code “1” or “2” if the services
+                             rendered are related to family planning (FP). Enter code “3” if
+                             the services rendered are Child Health and Disability
+                             Prevention (CHDP) screening related
+  24I       If Applicable    ID Qualifier - Enter “X” if billing for emergency services.
+  24J       If Applicable    Rendering Provider ID #/ NPI - Enter the Rendering Provider's
+                             NPI number
+   25         Required       Federal Tax ID Number - Enter the Federal Tax ID for the
+                             billing provider. (Note: if vendor tax ID # is shared between
+                             two or more individual vendors, the provider must submit
+                             claims using a SFHP-issued 3-digit suffix addition to the Tax
+                             ID number)
+   26         optional       Patient's Account Number -Enter the patient’s medical record
+                             number or account number in this field. This number will be
+                             reflected on Explanation of Benefits (EOB) if populated.
+   27       not required     Accept Assignment?
+   28         Required       Total Charge -Enter the total for all services in dollar and
+                             cents. Do not include decimals. Do not leave blank.
+   29       If Applicable    Amount Paid - Enter the amount of payment received from
+                             the Other Health Coverage. Enter the full dollar amount and
+                             cents. Do not enter Medicare payments in this box. Do not
+                             enter decimals.
+   30       If Applicable    Balance Due - Enter the difference between the Total Charges
+                             and the Amount Paid in full dollar amount and cents. Do not
+                             enter decimals.
+   31         Required       Signature of Physician or Supplier Including Degrees or
+CMS 1500
+  Field    Required Field?                  Description and Requirements
+Location
+                             Credentials -The claims must be signed and dated by the
+                             provider or a representative assigned by the provider in black
+                             pen. An original signature is required. Stamps, initials or
+                             facsimiles are not acceptable.
+   32         Required       Service Facility Location Information - Enter the provider
+                             name. Enter the provider address, without a comma between
+                             the city and state, and a nine-digit zip code, without a
+                             hyphen. Enter the telephone number of the facility where
+                             services were rendered, if other than home or office.
+  32a         Required       Service Facility Location Information - Enter the NPI of the
+                             facility where the services were rendered.
+  32b       If Applicable    Service Facility Location Information -Enter the Medi-Cal
+                             provider number for an atypical service facility.
+   33         Required       Billing Provider Info & Phone # (Pay-To) - Enter the provider
+                             name. Enter the provider address, without a comma between
+                             the city and state, and a nine-digit zip code, without a
+                             hyphen. Enter the telephone number.
+  33a         Required       Billing Provider Info & Phone # (Pay-To, NPI) - Enter the
+                             billing provider’s NPI.
+  33b         Required       Billing Provider Info & Phone # (Pay-To) - Used for atypical
+                             providers only. Enter the Medi-Cal provider number for the
+                             billing provider.
+

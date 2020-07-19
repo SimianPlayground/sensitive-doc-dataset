@@ -1,0 +1,436 @@
+            REQUEST FOR PROPOSAL
+                     FOR
+   INFORMATION TECHNOLOGY SUPPORT SERVICES
+
+
+
+
+Inquiries and proposals should be directed to:
+
+
+Name:     TJ Shelton
+
+Title:    Director of Administration
+Entity:   Women’s Health and Family Planning Association of Texas
+
+Phone: 512.448.4857 x2811
+
+Email:    tj.shelton@whfpt.org
+
+
+Prepared for Distribution February 2019
+ REQUEST FOR PROPOSAL FOR INFORMATION TECHNOLOGY SUPPORT SERVICES
+
+TABLE OF CONTENTS
+
+GENERAL INFORMATION ........................................................................................................ 1
+
+A. Purpose .................................................................................................................................................. 1
+
+B. Who May Respond.................................................................................................................................. 1
+
+C. Bidder’s Conference ................................................................................................................................ 1
+
+D. Instructions on Proposal Submission ...................................................................................................... 1
+   1. Closing Submission Date ............................................................................................................................ 1
+   2. Inquiries...................................................................................................................................................... 1
+   3. Conditions of Proposal ............................................................................................................................... 1
+   4. Instructions to Prospective Contractors..................................................................................................... 1
+   5. Right to Reject ............................................................................................................................................ 2
+   6. Small and/or Minority-Owned Businesses ................................................................................................. 2
+   7. Notification of Award ................................................................................................................................. 2
+
+E. Description of Entity................................................................................................................................ 2
+
+SPECIFICATION SCHEDULE ...................................................................................................... 3
+
+A. Scope of Information Technology Support Services ................................................................................ 3
+
+B. Overview of Current Technical Environment .......................................................................................... 3
+
+C. Information Technology Support Services Requirements ....................................................................... 3
+
+D. Information Technology Support Service Features ................................................................................ 4
+
+E. Cost of Services ....................................................................................................................................... 4
+
+F. Confidentiality......................................................................................................................................... 4
+
+OFFEROR’S TECHNICAL QUALIFICATIONS................................................................................ 5
+
+A. Understanding of Services to Be Provided .............................................................................................. 5
+
+B. Organization, Size, and Structure ............................................................................................................ 5
+
+C. Staff Qualifications.................................................................................................................................. 5
+
+D. Certifications .......................................................................................................................................... 5
+
+PROPOSAL EVALUATION ......................................................................................................... 6
+
+A. Submission of Proposals ......................................................................................................................... 6
+
+B. Nonresponsive Proposals ........................................................................................................................ 6
+C. Evaluation ............................................................................................................................................... 6
+   1. Offeror’s Understanding of Work to Be Performed ................................................................................... 6
+   2. Small and/or Minority-owned Business ..................................................................................................... 6
+   3. Qualifications of Staff to be Assigned to provide it support services ........................................................ 7
+   4. Cost of services........................................................................................................................................... 7
+
+D. Review Process ....................................................................................................................................... 7
+
+CERTIFICATIONS ...................................................................................................................... 8
+Women’s Health and Family Planning Association of Texas             RFP for Information Technology Support Services
+
+
+GENERAL INFORMATION
+
+A. PURPOSE
+
+The Women’s Health and Family Planning Association of Texas (WHFPT) is seeking Request for Proposal
+(RFP) responses from qualified technology firms to provide Information Technology Support Services for a
+small non-profit organization.
+
+B. WHO MAY RESPOND
+
+Information Technology Support Services professionals located in the State of Texas may respond to this
+RFP.
+
+C. BIDDER’S CONFERENCE
+
+A bidder’s conference will not be held.
+
+D. INSTRUCTIONS ON PROPOSAL SUBMISSION
+
+
+1. CLOSING SUBMISSION DATE
+Proposals must be submitted no later than 5:00 p.m. on Friday, March 1, 2019.
+
+2. INQUIRIES
+Inquiries concerning expectations and/or scope of work sought through this RFP should be in writing and
+directed to TJ Shelton, Director of Administration, at this e-mail address: tj.shelton@whfpt.org. All
+inquiries will receive a response.
+We will review proposals and select a final firm, hereinafter referred to as the “Offeror.” Offerors whose
+responses have not been selected for further negotiations or award will be notified via email.
+
+3. CONDITIONS OF PROPOSAL
+Materials submitted in response to this RFP will not be returned.
+All costs incurred in preparation of a proposal responding to this RFP will be the responsibility of the
+Offeror and will not be reimbursed by WHFPT.
+WHFPT reserves the right to change the RFP schedule or issue amendments to this RFP at any time.
+WHFPT also reserves the right to cancel or reissue the RFP.
+
+4. INSTRUCTIONS TO PROSPECTIVE CONTRACTORS
+Your proposal should be addressed as follows:
+
+         Name: TJ Shelton
+         Title:    Director of Administration
+         Entity:   Women’s Health and Family Planning Association of Texas
+
+
+
+1
+Women’s Health and Family Planning Association of Texas            RFP for Information Technology Support Services
+
+It is important that the Offeror’s proposal be submitted via email to TJ Shelton at tj.shelton@whfpt.org
+and the subject line include:
+         Request for Proposal for Information Technology Support Services
+         5:00 p.m., Friday, March 1, 2019
+It is the responsibility of the Offeror to ensure that the proposal is received by WHFPT by the date and
+time specified above. Late proposals will not be considered.
+
+5. RIGHT TO REJECT
+WHFPT reserves the right to reject any and all proposals received in response to this RFP. A contract for
+the accepted proposal will be based upon the factors described in this RFP.
+
+6. SMALL AND/OR MINORITY-OWNED BUSINESSES
+Efforts will be made by WHFPT to utilize small businesses and minority-owned businesses. An Offeror
+qualifies as a small business firm, if it meets the definition of "small business" as established by the Small
+Business Administration (13 CFR 121.201).
+
+7. NOTIFICATION OF AWARD
+    •    It is expected that a decision selecting the successful Offeror will be made within three (3) weeks
+         of the closing date for the receipt of proposals.
+    •    Upon conclusion of final negotiations with the successful Offeror, all Offerors submitting
+         proposals in response to this Request for Proposal will be informed of the results in writing.
+
+E. DESCRIPTION OF ENTITY
+
+WHFPT is a 501(c)(3) not-for-profit social services organization with an annual operating budget of
+approximately $14 million. WHFPT, incorporated under the Texas Non-Profit Corporation Act, was
+founded in 1977 and dedicated to the idea that Texans, regardless of financial or insurance status, should
+have equal access to high-quality reproductive health services and control over the timing and spacing of
+their children.
+WHFPT currently utilizes a staff of approximately 9 full-time, 1 part-time, and 4 contract employees to
+support a diverse network of reproductive health care providers through partnerships, technical
+assistance, training, data collection, and effective resource allocation. WHFPT is positioned to move from
+its “start-up” phase to its “growth” phase and is in need of local information technology support services.
+
+
+
+
+2
+Women’s Health and Family Planning Association of Texas            RFP for Information Technology Support Services
+
+SPECIFICATION SCHEDULE
+
+A. SCOPE OF INFORMATION TECHNOLOGY SUPPORT SERVICES
+
+The purpose of this RFP is to obtain the services of an Offeror who is a qualified, professional technology
+vendor located in the State of Texas to provide information technology support services for WHFPT
+pursuant to a service level agreement.
+
+B. OVERVIEW OF CURRENT TECHNICAL ENVIRONMENT
+
+WHFPT’s current technical environment consists of:
+  • Approximately 10 employees and 4 consultants
+  • Employees and consultants telecommute and use one-shared office space
+  • Approximately 14 PCs/laptops
+  • Cloud-based management information system
+  • Office 365 email and office tools
+  • Outsourced Internet and phone services
+  • Outsourced data backup and services
+  • Access to and maintenance of electronic personal health information (ePHI)
+  • Salesforce Customer Relationship Management
+  • SharePoint Document Management and Storage System
+  • SPSS Statistics Software Package
+  • QuickBooks Accounting Software Package
+  • Adobe Creative Software Suite by Adobe Systems
+
+C. INFORMATION TECHNOLOGY SUPPORT SERVICES REQUIREMENTS
+
+The qualified vendor will provide necessary technical services that include but are not limited to:
+    • End User Support
+       − Help desk monitoring and ticket resolution
+       − End user questions and support
+       − New user set up
+       − Software installations
+       − License usage/expiration monitoring
+    • Network Monitoring and Support
+       − Internet connectivity monitoring and troubleshooting
+       − Internet/LAN connectivity monitoring and troubleshooting
+       − Network device management and updates
+    • Server Monitoring and Support
+       − Ensure server infrastructure remains in operational state
+       − Monitor system reports and alerts
+       − Ensure essential systems are up to date on updates/patches
+       − Ensure essential systems are backed up
+    • Network Security Support
+       − Provide network audit and recommendations
+       − Monitor security status for intrusions/threats
+       − Provide periodic feedback on operational security
+
+
+
+
+3
+Women’s Health and Family Planning Association of Texas           RFP for Information Technology Support Services
+
+D. INFORMATION TECHNOLOGY SUPPORT SERVICE FEATURES
+
+The qualified vendor will be required to provide the following support features:
+    • Conduct an Initial Assessment
+       − Evaluate all technology and correct any issues in the system while setting up the system for
+            monitoring and alerting
+    • Asset Tracking
+       − Track all hardware and software
+       − Coordinate warranty for hardware units
+    • Quarterly management meetings
+    • Technology strategy planning
+    • Quarterly health check
+    • Technology procurement consulting
+    • Monthly reporting
+    • Proactive monitoring of the network environment
+    • Proactive virus protection
+    • Quarterly security penetration assessments
+    • Password administration
+    • 24/7 Help Desk support
+    • Local remote and on-site support including holidays and/or weekends
+    • Repair or maintenance of printers, and copiers
+    • Background check for any employees/contractors who work on services for WHFPT
+
+E. COST OF SERVICES
+
+WHFPT is requesting that the vendor submit a fixed fee service level agreement for a twelve-month
+period, with an option to renew, for ongoing maintenance items, including troubleshooting, server
+maintenance, laptop maintenance, software updates, etc. Proposed payment schedule should also be
+included (i.e., monthly, bi-weekly, etc.).
+Vendors may also submit other alternative packages that they feel would meet the needs of WHFPT as an
+included alternative bid.
+Vendors must list, specifically, any services which would not be covered in the proposal’s cost of services.
+The vendor should indicate the impact, if any, of changes in WHFPT’s IT infrastructure on the fixed fee.
+Identify the following for those services not under the fixed fee:
+    • A fee schedule containing the vendor hourly rates;
+    • A description of how services will be billed; and
+    • A description of additional charges.
+
+F. CONFIDENTIALITY
+
+The Offeror agrees to keep the information related to all contracts in strict confidence. The Offeror
+agrees not to publish, reproduce, or otherwise divulge such information in whole or in part, in any
+manner or form or authorize or permit others to do so, taking such reasonable measures as are necessary
+to restrict access to the information, while in the Offeror’s possession, to the employees on the Offeror’s
+staff who must have the information on a "need-to-know" basis.
+The Offeror agrees to immediately notify, in writing, WHFPT’s authorized representative in the event the
+Offeror determines or has reason to suspect a breach of this requirement.
+4
+Women’s Health and Family Planning Association of Texas            RFP for Information Technology Support Services
+
+OFFEROR’S TECHNICAL QUALIFICATIONS
+
+The Offeror, in its proposal, shall, as a minimum, include the following:
+
+A. UNDERSTANDING OF SERVICES TO BE PROVIDED
+
+The Offeror should provide a Statement of Scope and current or prior information technology support
+services experience including the names, addresses, contact persons, and telephone numbers of current
+or prior organizations for whom they have provided information technology support services. The
+Offeror’s response should include the following categories:
+    1. A Statement of Scope that demonstrates the Offeror’s understanding of the service requirements
+       and how their past engagements provide them with the insight/skills/tools needed to perform
+       this work.
+    2. Current or prior experience providing information technology support services for non-profit
+       organizations, preferably healthcare, of comparable size and complexity including working
+       knowledge of electronic protected health information (ePHI) data privacy and security provisions.
+
+B. ORGANIZATION, SIZE, AND STRUCTURE
+
+The Offeror should describe its organization and indicate if the Offeror is a small or minority-owned
+business.
+
+C. STAFF QUALIFICATIONS
+
+The Offeror should describe the qualifications of the staff to be assigned to deliver the information
+technology support services. Descriptions should include:
+    1. Staff makeup by name and title
+    2. Overall supervision to be exercised
+    3. Prior experience of the staff who will provide information technology support services: Only
+       include the resumes of the staff members who will be assigned to provide information
+       technology support services. Education, position, years and types of experience, continuing
+       professional education, certifications and/or training will be considered.
+
+D. CERTIFICATIONS
+
+The Offeror must sign and include as an attachment to its proposal the Certifications enclosed with this
+RFP.
+
+
+
+
+5
+Women’s Health and Family Planning Association of Texas             RFP for Information Technology Support Services
+
+PROPOSAL EVALUATION
+
+A. SUBMISSION OF PROPOSALS
+
+All proposals shall include the Offeror’s technical qualifications, cost of services, and the signed
+Certification. These documents will become part of the contract.
+
+B. NONRESPONSIVE PROPOSALS
+
+Proposals may be judged nonresponsive and removed from further consideration if any of the following
+occur:
+    1. The proposal is not received timely in accordance with the terms of this RFP.
+    2. The proposal does not follow the specified format.
+    3. The proposal does not include the Certifications.
+    4. The proposal is not adequate to form a judgment by the reviewers that the proposed undertaking
+       would accomplish the goal of providing information technology support services.
+
+C. EVALUATION
+
+Evaluation of each proposal will be scored on the following four (4) factors with 60 points maximum:
+
+1. OFFEROR’S UNDERSTANDING OF WORK TO BE PERFORMED
+                                                                                                    Point Range
+
+    a. Completeness of the Statement of Scope demonstrates the Offeror’s                                 0 - 15
+       understanding of the knowledge, skills, and techniques required to provide
+       information technology support services
+
+    b. Prior experience providing information technology support services for non-                       0 - 10
+       profit organizations, preferably healthcare, of comparable size/complexity
+       including working knowledge of electronic protected health information (ePHI)
+       data privacy and security provisions
+WHFPT will contact prior organizations to verify the experience provided by the Offeror.
+
+2. SMALL AND/OR MINORITY-OWNED BUSINESS
+                                                                                                    Point Range
+    a. Minority/small business                                                                           0–5
+WHPFT will consider whether the Offeror is a minority or small business.
+Efforts will be made by WHFPT to utilize small businesses and minority-owned businesses
+An Offeror qualifies as small business firm, if it meets the definition of “small business” as
+Established by the Small Business Administration (13 CFR 121.201).
+
+
+
+
+6
+Women’s Health and Family Planning Association of Texas           RFP for Information Technology Support Services
+
+3. QUALIFICATIONS OF STAFF TO BE ASSIGNED TO PROVIDE IT SUPPORT SERVICES
+                                                                                                  Point Range
+
+    a. Staff of requisite knowledge, skills and experience are assigned to provide IT                  0 – 20
+       support services
+WHFPT will consider education, position in firm, years and types of experience, continuing professional
+education, certification and/or training using the resume(s) submitted.
+
+4. COST OF SERVICES
+                                                                                                  Point Range
+
+    a. Proposal provides sufficient details regarding the cost of services allowing                    0 -10
+       WHFPT to see how charges will be assessed
+
+D. REVIEW PROCESS
+
+WHFPT may, at its discretion, request presentations by or meetings with any or all Offerors, to clarify or
+negotiate modifications to the Offerors’ proposals.
+However, WHFPT reserves the right to make an award without further discussion of the proposals
+submitted. Therefore, proposals should be submitted initially on the most favorable terms, from both
+technical, quality of service and price standpoints, which the Offeror can propose.
+WHFPT shall make an award to the Offeror whose offer is responsive to the solicitation and is most
+advantageous to the recipient, price, quality of service and other factors considered.
+
+
+
+
+7
+Women’s Health and Family Planning Association of Texas                     RFP for Information Technology Support Services
+
+CERTIFICATIONS
+
+On behalf of the Offeror the individual signing certifies that:
+    1. He/she is authorized to contract on behalf of the Offeror.
+    2. The Offeror is not involved in any agreement to pay money or other consideration for the
+       execution of this agreement, other than to an employee of the Offeror.
+    3. The cost of services in this proposal have been arrived at independently, without consultation,
+       communication, or agreement, for the purpose of restricting competition.
+    4. The prices quoted in this proposal have not been knowingly disclosed by the Offeror prior to an
+       award to any other Offeror or potential Offeror.
+    5. There has been no attempt by the Offeror to discourage any potential Offeror from submitting a
+       proposal.
+    6. That the Offeror is an experienced information technology firm.
+    7. He/she has read and understands all the information in this Request for Proposal.
+    8. The Offeror, and any individuals to be assigned to provide information technology support
+       services, does not have a record of substandard work and have not been debarred or suspended
+       from doing work with any federal, state or local government.
+
+
+Dated this               day of                           , 20
+
+
+
+
+Offeror’s Firm Name                                              Printed Name and Title of Individual Signing
+
+
+
+
+Signature of Offeror’s Representative
+
+
+
+
+8
+

@@ -1,0 +1,378 @@
+Pediatric Dental
+Claim Form
+Harvard Pilgrim members whose benefits include Pediatric Dental coverage can use this form to seek
+reimbursement for care incurred outside the network.
+
+To the member
+    1. Work with your dentist to fill out all sections of the claim form, including having
+       your provider sign the form
+    2. You must also sign the form in boxes 36 and 37
+    3. Mail the form to:
+        Claims – Harvard Pilgrim Health Care
+        P.O. Box 30567
+        Salt Lake City, UT 84130-0567
+
+
+
+
+Commonly Asked Question
+How can I tell if I have pediatric dental benefits?
+You can check your plan documents or contact Member Services
+to confirm your plan includes pediatric dental coverage. If your
+plan does include this benefit, you will receive a specific Pediatric
+Dental ID card (pictured at right).
+
+
+Who can I call with questions?
+If you have questions about your coverage or about submitting claims, please call the Member Services
+department at 800-460-0315 or call the number on the back of your ID card.
+
+
+How long does it take to process my claim?
+Nearly all dental claims are processed within 30 business days of when they are received. Failing to
+include all required information could significantly delay the payment of your claim.
+Comprehensive completion instructions for the ADA Dental Claim Form are found in Section 4 of the ADA Publication titled CDT-2007/2008.
+Five relevant extracts from that section follow:
+GENERAL INSTRUCTIONS
+   A. The form is designed so that the name and address (Item 3) of the third-party payer receiving the claim (insurance company/dental
+       benefit plan) is visible in a standard #10 window envelope. Please fold the form using the ‘tick-marks’ printed in the margin.
+   B. In the upper-right of the form, a blank space is provided for the convenience of the payer or insurance company, to allow the
+      assignment of a claim or control number.
+   C. All Items in the form must be completed unless it is noted on the form or in the following instructions that completion is not required.
+   D. When a name and address field is required, the full name of an individual or a full business name, address and zip code must be entered.
+   E. All dates must include the four-digit year.
+   F. If the number of procedures reported exceeds the number of lines available on one claim form, the remaining procedures must be
+      listed on a separate, fully completed claim form.
+COORDINATION OF BENEFITS (COB)
+When a claim is being submitted to the secondary payer, complete the form in its entirety and attach the primary payer’s Explanation of Benefits
+(EOB) showing the amount paid by the primary payer. You may indicate the amount the primary carrier paid in the “Remarks” field (Item # 35).
+NATIONAL PROVIDER IDENTIFIER (NPI)
+49 and 54 NPI (National Provider Identifier): This is an identifier assigned by the Federal government to all providers considered to be
+          HIPAA covered entities. Dentists who are not covered entities may elect to obtain an NPI at their discretion, or may be
+          enumerated if required by a participating provider agreement with a third-party payer or applicable state law/regulation. An NPI
+          is unique to an individual dentist (Type 1 NPI) or dental entity (Type 2 NPI), and has no intrinsic meaning. Additional information
+          on NPI and enumeration can be obtained from the ADA’s Web Site: www.ada.org/goto/npi
+ADDITIONAL PROVIDER IDENTIFIER
+52A and 58 Additional Provider ID: This is an identifier assigned to the billing dentist or dental entity other than a Social Security
+           Number (SSN) or Tax Identification Number (TIN). It is not the provider’s NPI. The additional identifier is sometimes referred
+           to as a Legacy Identifier (LID). LIDs may not be unique as they are assigned by different entities (e.g., third-party payer; Federal
+           government). Some Legacy IDs have an intrinsic meaning.
+PROVIDER SPECIALTY CODES
+    56A Provider Specialty Code: Enter the code that indicates the type of dental professional who delivered the treatment. Available
+         codes describing treating dentists are listed below. The general code listed as ‘Dentist’ may be used instead of any other dental
+         practitioner code.
+
+                                                Category / Description Code                                     Code
+                     Dentist
+                               A dentist is a person qualified by a doctorate in dental surgery (D.D.S)   122300000X
+                               or dental medicine (D.M.D.) licensed by the state to practice dentistry,
+                               and practicing within the scope of that license.
+                     General Practice                                                                     1223G0001X
+                     Dental Specialty (see following list)                                                  Various
+                                             Dental Public Health                                         1223D0001X
+                                             Endodontics                                                  1223E0200X
+                                             Orthodontics                                                 1223X0400X
+                                             Pediatric Dentistry                                          1223P0221X
+                                             Periodontics                                                 1223P0300X
+                                             Prosthodontics                                               1223P0700X
+                                             Oral & Maxillofacial Pathology                               1223P0106X
+                                             Oral & Maxillofacial Radiology                               1223D0008X
+                                             Oral & Maxillofacial Surgery                                 1223S0112X
+             Dental provider taxonomy codes listed above are a subset of the full code set that is posted at:
+             www.wpc-edi.com/codes/taxonomy
+
+   Should there be any updates to ADA Dental Claim Form completion instructions, the updates will be posted on the ADA’s web site at:
+                                                   www.ada.org/goto/dentalcode
+                  Dental Claim Form
+        HEADER INFORMATION
+        1. Type of Transaction (Mark all applicable boxes)
+
+               Statement of Actual Services                     Request for Predetermination / Preauthorization
+
+               EPSDT/ Title XIX
+        2. Predetermination / Preauthorization Number                                                                                  POLICYHOLDER/SUBSCRIBER INFORMATION (For Insurance Company Named in #3)
+                                                                                                                                       12. Policyholder/Subscriber Name (Last, First, Middle Initial, Suffix), Address, City, State, Zip Code
+
+        INSURANCE COMPANY/DENTAL BENEFIT PLAN INFORMATION
+       3. Company/Plan Name, Address, City, State, Zip Code
+
+
+
+
+                                                                                                                                       13. Date of Birth (MM/DD/CCYY)                   14. Gender             15. Policyholder/Subscriber ID (SSN or ID#)
+                                                                                                                                                                                               M         F
+
+        OTHER COVERAGE                                                                                                                 16. Plan/Group Number                        17. Employer Name
+        4. Other Dental or Medical Coverage?                No (Skip 5-11)                       Yes (Complete 5-11)
+
+        5. Name of Policyholder/Subscriber in #4 (Last, First, Middle Initial, Suffix)                                                 PATIENT INFORMATION
+                                                                                                                                       18. Relationship to Policyholder/Subscriber in #12 Above                                     19. Student Status
+fold
+
+
+
+
+                                                                                                                                                                                                                                                                         fold
+        6. Date of Birth (MM/DD/CCYY)              7. Gender                    8. Policyholder/Subscriber ID (SSN or ID#)                        Self         Spouse                 Dependent Child              Other                    FTS              PTS
+                                                        M            F                                                                 20. Name (Last, First, Middle Initial, Suffix), Address, City, State, Zip Code
+
+        9. Plan/Group Number                       10. Patient’ s Relationship to Person Named in #5
+
+                                                         Self                 Spouse             Dependent               Other
+        11. Other Insurance Company/Dental Benefit Plan Name, Address, City, State, Zip Code
+
+
+
+                                                                                                                                       21. Date of Birth (MM/DD/CCYY)                   22. Gender            23. Patient ID/Account # (Assigned by Dentist)
+
+                                                                                                                                                                                               M         F
+
+        RECORD OF SERVICES PROVIDED
+              24. Procedure Date          25. Area 26.               27. Tooth Number(s)                     28. Tooth      29. Procedure
+                                           of Oral Tooth                  or Letter(s)                                                                                                30. Description                                                      31. Fee
+               (MM/DD/CCYY)                Cavity System                                                      Surface           Code
+
+        1
+        2
+
+        3
+
+        4
+        5
+
+        6
+        7
+        8
+
+        9
+       10
+
+        MISSING TEETH INFORMATION                                                                      Permanent                                                                           Primary                                32. Other
+                                                        1       2        3      4     5    6       7     8       9   10     11   12   13    14     15    16    A       B    C       D      E       F    G     H     I       J         Fee(s)
+        34. (Place an 'X' on each missing tooth)
+                                                       32       31       30     29   28   27      26     25     24   23     22   21   20    19     18    17    T       S    R       Q      P       O    N     M     L      K      33.Total Fee                       0
+fold
+
+
+
+
+                                                                                                                                                                                                                                                                         fold
+        35. Remarks
+
+
+
+        AUTHORIZATIONS                                                                                                                  ANCILLARY CLAIM/TREATMENT INFORMATION
+        36. I have been informed of the treatment plan and associated fees. I agree to be responsible for all                           38. Place of Treatment                                                       39. Number of Enclosures (00 to 99)
+        charges for dental services and materials not paid by my dental benefit plan, unless prohibited by law, or                                                                                                         Radiograph(s)   Oral Image(s)      Model(s)
+        the treating dentist or dental practice has a contractual agreement with my plan prohibiting all or a portion of                         Provider’s Office         Hospital        ECF           Other
+        such charges. To the extent permitted by law, I consent to your use and disclosure of my protected health
+        information to carry out payment activities in connection with this claim.                                                     40. Is Treatment for Orthodontics?                                          41. Date Appliance Placed (MM/DD/CCYY)
+
+                                                                                                                                                 No (Skip 41-42)             Yes (Complete 41-42)
+       X
+        Patient /Guardian signature                                                               Date                                  42. Months of Treatment        43. Replacement of Prosthesis?              44. Date Prior Placement (MM/DD/CCYY)
+                                                                                                                                            Remaining
+                                                                                                                                                                             No          Yes (Complete 44)
+        37. I hereby authorize and direct payment of the dental benefits otherwise payable to me, directly to the below named
+        dentist or dental entity.                                                                                                       45. Treatment Resulting from
+
+                                                                                                                                                 Occupational illness / injury                     Auto accident                  Other accident
+       X
+        Subscriber signature                                                                      Date                                  46. Date of Accident (MM/DD/CCYY)                                                       47. Auto Accident State
+
+        BILLING DENTIST OR DENTAL ENTITY (Leave blank if dentist or dental entity is not submitting                                     TREATING DENTIST AND TREATMENT LOCATION INFORMATION
+        claim on behalf of the patient or insured/subscriber)                                                                           53. I hereby certify that the procedures as indicated by date are in progress (for procedures that require multiple
+                                                                                                                                        visits) or have been completed.
+        48. Name, Address, City, State, Zip Code
+
+                                                                                                                                        X
+                                                                                                                                        Signed (Treating Dentist)                                                                   Date
+
+                                                                                                                                        54. NPI                                                        55. License Number
+                                                                                                                                        56. Address, City, State, Zip Code                             56A. Provider
+                                                                                                                                                                                                       Specialty Code
+        49. NPI                               50. License Number                          51. SSN or TIN
+
+
+        52. Phone                                                             52A. Additional                                           57. Phone                                                      58. Additional
+            Number       (        )            –                                   Provider ID                                              Number (               )            –                          Provider ID
+       © 2006 American Dental Association                                                                                                                                                                                       To Reorder call 1-800-947-4746
+        J400 (Same as ADA Dental Claim Form – J401, J402, J403, J404)                                                                                                                                                           or go online at www.adacatalog.org
+WARNING: Any person who knowingly files a statement of claim containing any misrepresentations or any
+false, incomplete or misleading information may be guilty of a criminal act punishable under law and may be
+subject to civil penalties.
+
+Alaska Residents: A person who knowingly and with intent to injure, defraud, or deceive an insurance
+company files a claim containing false, incomplete, or misleading information may be prosecuted under state
+law.
+Arizona Residents: For your protection Arizona law requires the following statement to appear on this form.
+Any person who knowingly presents a false or fraudulent claim for payment of a loss is subject to criminal and
+civil penalties.
+Arkansas Residents: Any person who knowingly presents a false or fraudulent claim for payment of a loss or
+benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be
+subject to fines and confinement in prison.
+California Residents: For your protection California law requires the following to appear on this form:
+Any person who knowingly presents a false or fraudulent claim for the payment of a loss is guilty of a
+crime and may be subject to fines and confinement in state prison.
+Colorado Residents: It is unlawful to knowingly provide false, incomplete, or misleading facts or information
+to an insurance company for the purpose of defrauding or attempting to defraud the company. Penalties may
+include imprisonment, fines, denial of insurance, and civil damages. Any insurance company or agent of an
+insurance company who knowingly provides false, incomplete, or misleading facts or information to a
+policyholder or claimant for the purpose of defrauding or attempting to defraud the policyholder or claimant
+with regard to a settlement or award payable from insurance proceeds shall be reported to the Colorado Division
+of Insurance within the department of regulatory agencies.
+Delaware Residents: Any person who knowingly, and with intent to injure, defraud or deceive any insurer,
+files a statement of claim containing any false, incomplete or misleading information is guilty of a felony.
+District of Columbia Residents: WARNING: It is a crime to provide false or misleading information to an
+insurer for the purpose of defrauding the insurer or any other person. Penalties include imprisonment and/or
+fines. In addition, an insurer may deny insurance benefits if false information materially related to a claim was
+provided by the applicant.
+Florida Residents: Any person who knowingly and with intent to injure, defraud, or deceive any insurer files a
+statement of claim or an application containing any false, incomplete, or misleading information is guilty of a
+felony of the third degree.
+Hawaii Residents: For your protection, Hawaii law requires you to be informed that presenting a fraudulent
+claim for payment of a loss or benefit is a crime punishable by fines or imprisonment, or both.
+Idaho Residents: Any person who knowingly, and with intent to defraud or deceive any insurance company,
+files a statement of claim containing any false, incomplete, or misleading information is guilty of a felony.
+Indiana Residents: A person who knowingly and with intent to defraud an insurer files a statement of claim
+containing any false, incomplete, or misleading information commits a felony.
+Kentucky Residents: Any person who knowingly, and with intent to defraud any insurance company or other
+person files an application for insurance or a statement of claim containing any materially false information or
+conceals, for the purpose of misleading, information concerning any fact material thereto commits a fraudulent
+insurance act, which is a crime.
+Louisiana Residents: Any person who knowingly presents a false or fraudulent claim for payment of a loss or
+benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be
+subject to fines and confinement in prison.
+Maine Residents: It is a crime to knowingly provide false, incomplete or misleading information to an
+insurance company for the purpose of defrauding the company. Penalties may include imprisonment, fines or a
+denial of insurance benefits.
+Maryland Residents: Any person who knowingly or willfully presents a false or fraudulent claim for
+payment of a loss or benefit or who knowingly or willfully presents false information in an application for
+insurance is guilty of a crime and may be subject to fines and confinement in prison.
+Minnesota Residents: A person who files a claim with intent to defraud or helps commit a fraud against an
+insurer is guilty of a crime.
+Nevada Residents: Any person who knowingly files a statement of claim containing any misrepresentation or
+any false, incomplete or misleading information may be guilty of a criminal act punishable under state or
+federal law, or both, and may be subject to civil penalties.
+New Hampshire Residents: Any person who, with a purpose to injure, defraud or deceive any insurance
+company, files a statement of claim containing any false, incomplete or misleading information is subject to
+prosecution and punishment for insurance fraud, as provided in RSA 638:20.
+New Jersey Residents: Any person who knowingly files a statement of claim containing any false or
+misleading information is subject to criminal and civil penalties.
+New Mexico Residents: Any person who knowingly presents a false or fraudulent claim for payment of a loss
+or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may
+be subject to civil fines and criminal penalties.
+New York Residents: Any person who knowingly and with intent to defraud any insurance company or other
+person files an application for insurance or statement of claim containing any materially false information, or
+conceals for the purpose of misleading, information concerning any material fact, commits a fraudulent
+insurance act, which is a crime, and shall also be subject to a civil penalty not to exceed $5,000 and the stated
+value of the claim for each such violation.
+Ohio Residents: Any person who, with intent to defraud or knowing that he is facilitating a fraud against an
+insurer, submits an application or files a claim containing a false or deceptive statement is guilty of insurance
+fraud.
+Oklahoma Residents: WARNING: Any person who knowingly, and with intent to injure, defraud or deceive
+any insurer, makes any claim for the proceeds of an insurance policy containing any false, incomplete or
+misleading information is guilty of a felony.
+Oregon Residents: Willfully falsifying material facts on an application or claim may subject you to criminal
+penalties.
+Pennsylvania Residents: Any person who knowingly and with intent to defraud any insurance company or
+other person files an application for insurance or statement of claim containing any materially false information
+or conceals for the purpose of misleading, information concerning any fact material thereto commits a
+fraudulent insurance act, which is a crime and subjects such person to criminal and civil penalties.
+Tennessee Residents: It is a crime to knowingly provide false, incomplete or misleading information to an
+insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines and
+denial of insurance benefits.
+Texas Residents: Any person who knowingly presents a false or fraudulent claim for the payment of a loss is
+guilty of a crime and may be subject to fines and confinement in state prison.
+Virginia Residents: It is a crime to knowingly provide false, incomplete or misleading information to an
+insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines and
+denial of insurance benefits.
+Washington Residents: It is a crime to knowingly provide false, incomplete, or misleading information to an
+insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines, and
+denial of insurance benefits.
+West Virginia Residents: Any person who knowingly presents a false or fraudulent claim for payment of a
+loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and
+may be subject to fines and confinement in prison.
+                                               Language Assistance Services
+
+Español (Spanish) ATENCIÓN: Si usted habla español, servicios de asistencia lingüística, de forma gratuita,
+están a su disposición. Llame al 1-888-333-4742 (TTY: 711).
+Português (Portuguese) ATENÇÃO: Se você fala português, encontram-se disponíveis serviços linguísticos
+gratuitos. Ligue para 1-888-333-4742 (TTY: 711).
+Kreyòl Ayisyen (French Creole) ATANSYON: Si nou palé Kreyòl Ayisyen, gen asistans pou sèvis ki disponib nan
+lang nou pou gratis. Rele 1-888-333-4742 (TTY: 711).
+
+繁體中文 (Traditional Chinese) 注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電 1-
+888-333-4742（TTY：711）。
+Tiếng Việt (Vietnamese) CHÚ Ý: Nếu quí vị nói Tiếng Việt, dịch vụ thông dịch của chúng tôi sẵn sàng phục vụ
+quí vị miễn phí. Gọi số 1-888-333-4742 (TTY: 711).
+Русский (Russian) ВНИМАНИЕ: Если вы говорите на русском языке, то вам доступны бесплатные услуги
+перевода. Звоните 1-888-333-4742 (телетайп: 711).
+                                                                                                                         ‫( العربية‬Arabic)
+                           1 888-333-4742 ‫ ً إتصل على‬.‫ َخدَمات أل ُمساعَدة أللُغَوية ُمتَوفرة لك َمجانا‬، ‫ إذا أنت تتكلم أللُغة ألعربية‬:‫إنتباه‬
+                                                                                                                           (TTY: 711 (
+ខ្មែ រ (Cambodian) ្រសជុំ ូ នដុំណឹង៖ ប ើអ្នកនិយាយភាសាខ្មែ រ, បយើងមានបសវាកម្ែ កខ្្                             ជូ នបោកអ្ន កបោយ
+ឥតគិតថ្លៃ។។ ចូ រ ទូ រស័ព្ទ 1-888-333-4742 (TTY: 711)។
+Français (French) ATTENTION: Si vous parlez français, des services d'aide linguistique vous sont proposés
+gratuitement. Appelez le 1-888-333-4742 (ATS: 711).
+Italiano (Italian) ATTENZIONE: In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza
+linguistica gratuiti. Chiamare il numero 1-888-333-4742 (TTY: 711).
+한국어 (Korean) '알림': 한국어를 사용하시는 경우, 언어 지원 서비스를 무료로 이용하실 수 있습니다. 1-
+888-333-4742 (TTY: 711) 번으로 전화해 주십시오.
+ελληνικά (Greek) ΠΡΟΣΟΧΗ: Αν μιλάτε ελληνικά, υπάρχουν στη διάθεσή σας δωρεάν υπηρεσίες γλωσσικής
+υποστήριξης. Καλέστε 1-888-333-4742 (TTY: 711).
+Polski (Polish) UWAGA: Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń
+pod numer 1-888-333-4742 (TTY: 711).
+ह द
+  िं ी (Hindi) ध्यान दीजिए: अगर आप ह द
+                                     िं ी बोलते               ैं तो आपके ललये भाषाकी स ायता मुफ्त में उपलब्ध                         ै.
+जानकारी के ललये फोन करे . 1-888-333-4742 (TTY: 711)
+
+ ુ રાતી (Gujarati) ધ્યાન આપો : જો તમે ગજ
+ગજ                                     ુ રાતી બોલતા હો તો આપને માટે ભાષાકીય સહાય તદ્દન મફત
+ઉપલબ્ધ છે . વિશેષ માહહતી માટે ફોન કરો. 1-888-333-4742 (TTY: 711)
+
+ພາສາລາວ (Lao) ໂປດຊາບ: ຖ      ້ າວ
+                                ່ າທ    ້ າພາສາ ລາວ, ການບ
+                                   ່ ານເວ                ໍ ິ ລການຊ
+                                                                 ່ ວຍເຫ ຼື ອດ
+                                                                            ້ ານພາສາ, ໂດຍບ    ່ໍ ເສ
+                                                                                                  ັ ຽຄ
+                                                                                                     ່ າ,
+ແມ່ ນມີ ພ
+        ້ ອມໃຫ ້ ທ່ ານ. ໂທຣ 1-888-333-4742 (TTY: 711).
+ATTENTION: If you speak a language other than English, language assistance services, free of charge, are
+available to you. Call 1-888-333-4742 (TTY: 711).
+       Harvard Pilgrim Health Care includes Harvard Pilgrim Health Care, Harvard Pilgrim Health Care of Connecticut,
+       Harvard Pilgrim Health Care of New England and HPHC Insurance Company.
+                                                                                                           (Continued)
+                       General Notice About Nondiscrimination and Accessibility Requirements
+
+Harvard Pilgrim Health Care and its affiliates as noted below (“HPHC”) comply with applicable federal civil rights laws and
+does not discriminate on the basis of race, color, national origin, age, disability, or sex. HPHC does not exclude people or
+treat them differently because of race, color, national origin, age, disability or sex.
+HPHC:
+      • Provides free aids and services to people with disabilities to communicate effectively with us, such as qualified sign
+        language interpreters and written information in other formats (large print, audio, other formats)
+      • Provides free language services to people whose primary language is not English, such as qualified interpreters.
+If you need these services, contact our Civil Rights Compliance Officer.
+If you believe that HPHC has failed to provide these services or discriminated in another way on the basis of race, color,
+national origin, age, disability or sex, you can file a grievance with: Civil Rights Compliance Officer, 93 Worcester St,
+Wellesley, MA 02481, (866) 750-2074, TTY service: 711, Fax: (617) 509-3085, Email: civil_rights@harvardpilgrim.org. You
+can file a grievance in person or by mail, fax or email. If you need help filing a grievance, the Civil Rights Compliance Officer
+is available to help you. You can also file a civil rights complaint with the U.S. Department of Health and Human Services,
+Office for Civil Rights, electronically through the Office for Civil Rights Complaint Portal, available at
+https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or by mail or phone at:
+                                          U.S. Department of Health and Human Services
+                                                  200 Independence Avenue, SW
+                                                      Room 509F, HHH Building
+                                                       Washington, D.C. 20201
+                                               (800) 368-1019, (800) 537-7697 (TTY)
+Complaint forms are available at http://www.hhs.gov/ocr/office/file/index.html.
+
+
+
+
+        Harvard Pilgrim Health Care includes Harvard Pilgrim Health Care, Harvard Pilgrim Health Care of Connecticut,
+        Harvard Pilgrim Health Care of New England and HPHC Insurance Company.
+

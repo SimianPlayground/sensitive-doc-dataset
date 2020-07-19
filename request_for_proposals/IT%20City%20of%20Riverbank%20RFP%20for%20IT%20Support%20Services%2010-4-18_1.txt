@@ -1,0 +1,561 @@
+            REQUEST FOR PROPOSAL
+
+TO PROVIDE INFORMATION TECHNOLOGY SUPPORT
+                 SERVICES
+
+                    City of Riverbank
+                  Request for Proposal
+                 Issued October 4, 2018
+     Proposals are due 5:30 p.m., November 1, 2018
+
+             Submit Completed Application To:
+                     City of Riverbank
+                Administration Department
+              Attn: Norma Torres-Manriquez
+                  6707 3rd Street Suite A
+                   Riverbank, CA 95367
+
+           RFP Contact: Norma Torres-Manriquez
+                  Phone: 209-863-7153
+                nmanriquez@riverbank.org
+                    www.riverbank.org
+City of Riverbank
+Request for Proposals-IT Support Services
+
+                     INSTRUCTIONS AND ADMINISTRATIVE REQUIREMENTS
+
+   I.   Issuing Agency
+        This Request for Proposal (RFP) is issued by the City of Riverbank, California,
+        subsequently referred to as the “City.”
+
+  II.   IT Services Request for Proposal (RFP) Specifications
+        To contract with the City of Riverbank, applicants must be an established legal entity,
+        which includes compliance with all the Federal, State, and City business regulations.
+
+ III.   Tentative Procurement Schedule (subject to change)
+        The following Time Table will be utilized for the awarding of a contract for the City’s IT
+        services and support:
+                    Proposal Application Available October 4, 2018
+                    Onsite Visits at 10am or 2pm on October 12, 2018
+                    RFP Applicant’s Inquiries Due October 12, 2018 by 5:00 p.m.
+                    Answers to Applicants’ Inquiries Released October 24, 2018
+                    Deadline for Submission November 1, 2018 at 5:30 p.m.
+                    Evaluation Proposals, reference checks, and selection November 2018
+                    Contract Award Recommended to Council December 11, 2018
+                    Contract Services Begin January 2019
+
+IV.     General Instructions
+
+        a. Applicants’ Inquiries
+        All applicants’ inquiries are due on Friday, October 12, 2018 by 5:00p.m. Questions must
+        be sent via email to: nmanriquez@riverbank.org. No inquiries, written or oral, will be
+        accepted after this date.
+
+        In order for all potential Contractors to be treated equally, all questions raised regarding
+        the Request for Proposal process and the responses made by the City of Riverbank will
+        be made available to all applicants.
+
+        Written responses to questions received through Friday, October 12, 2018 will be
+        posted online at www.riverbank.org no later than 5:30pm Wednesday, October 24,
+        2018. No further questions will be taken after that time.
+
+        b. Onsite Visits
+        Onsite visit is optional for applicants; if an applicant would like to have an onsite visit
+        these will take place on Friday, October 12, 2018. Applicants are asked to RSVP what
+        time they would like to attend the onsite visit, the two time options are 10am or 2pm.
+        Email Norma Torres-Manriquez at nmanriquez@riverbank.org.
+
+                                            Page 2 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+       c. Deadline for Submittal
+       All proposal documents must be completed and received no later than 5:30pm
+       Thursday, November 1, 2018 at the following address:
+
+       City of Riverbank
+       Attention: Norma Torres-Manriquez
+       6707 3rd Street Suite A
+       Riverbank, CA 95367
+
+       c. Format
+       Proposal documents may be submitted in any reasonable format, as long as all
+       information requested in included.
+
+       Proposers shall submit one complete original and five (5) copies of the original proposal.
+
+       d. Period of Performance
+       The period of performance for contracts issued as a result of this RFP process will be for
+       a three- year period with an option of a two one year extensions at the City’s discretion.
+
+
+
+
+                                            Page 3 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+                                   GUIDELINES FOR APPLICANTS
+I.     Introduction
+
+The City of Riverbank, California, is soliciting proposals from qualified professional vendors for
+Information Technology support services. The qualified vendor will maintain and improve
+information technology (IT) effectiveness, enhance its quality of services, minimize down time
+and support costs, ensure security of data, and maximize return on investment in IT. The City
+does not have a professional IT staff. The vendor will work in conjunction with City of Riverbank
+Administrative Analyst II, as the main point of contact for the general city infrastructure,
+equipment, security, monitoring and employee needs and all related equipment, backup and
+other needed IT requirements.
+
+II.    Background Information
+
+The City of Riverbank has approximately 65 full-time employees, and 48 part-time staff working
+at 6 location within the city that require support. We also have five councilmembers and six
+planning commissioners that require remote assistance with their mobile devices. Below is an
+approximate break down of system information.
+
+System Count           Qty     Make                         Operating System
+Desktop systems                56     Various makes         MS Windows 7, 10
+Laptops                        10     HP, Dell
+Tablets                14      Various makes
+Servers                4       HP                           Server 2008, Server 2012
+Network Firewalls              1      Cisco                        PIX OS
+Network Switches               5      Cisco
+
+The City also has a VOIP phone system and we use a VPN for remote server contact.
+
+ IV. Scope of Work
+The City of Riverbank desires a fully outsourced IT management provider to provide proactive
+maintenance, support, and other IT related functions. The following details are the minimum
+services to be provided to the City of Riverbank in the area of information services:
+
+
+       a. Initial Assessment
+          With the assistance of city staff, compile an inventory of all information technology
+          related assets, assess system assets, and make recommendations for improved city-
+          wide IT system performance.
+
+       b. Desktop Applications Support
+          Perform basic support functions including installation of PC’s, laptops, tablet and
+          telephone setup, printers and software installation, installation, and upgrades.
+          Diagnose and correct desktop application problems; configure laptops, tablets, cell
+
+                                            Page 4 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+           phones and desktops for standard applications. Identify and correct hardware
+           problems, performing advanced troubleshooting. Assist designated City personnel
+           with hardware and software purchases as needed. Assist with warranty and other
+           technical support.
+
+       c. Server Administration Services
+          Manage computer network and associated hardware, software, communications,
+          and operating system necessary for the quality, security, performance, availability,
+          recoverability, and reliability of the system. Monitor server performance back up
+          schedule and capacity management services. Ensure scheduled preventive
+          maintenance and back up for equipment is promptly performed; develop back-up
+          and disaster recovery plans and procedural documentation for archive backup.
+          Confidentiality of the information is vital. The selected vendor and their employees
+          will be required to sign and adhere to a confidentiality clause that information in the
+          system must remain confidential under penalty of law. All vendor employees with
+          access to the City network will be required to undergo fingerprint background
+          checks at the vendor’s expense, training, and be expected to maintain CJIS security
+          standards at all times.
+
+       d. Network Administration Services
+          Scope of activity includes all City network equipment including switches, firewalls,
+          routers, collaboration with VoIP phone system vendor, and other security devices.
+          Manage backup and disaster recovery systems. The scope also includes primary
+          installation and maintenance of printers, network copiers/ scanners, group policy,
+          software updates, etc. as deem necessary. Monitor network performance and
+          capacity management services. Maintain city- wide network diagram.
+
+       e. Security
+          Maintenance of virus/ malware detection and spam reduction programs on City
+          servers, email and all other City computers, laptops, and tablets. Perform security
+          audits as requested and notify City personnel immediately of suspected breaches of
+          security.
+
+       f. Strategic Planning
+          Provide technical leadership for all technology issues. Make recommendations for
+          future purchasing and technology needs. Keep City up to date on new technology
+          changes and uses that will enable the City to increase efficiency and reduce costs.
+          Install equipment including new servers, software, and hardware and transfer data
+          when required. Assist with policy formulation and application.
+
+       g. Help Desk Support
+          End user support must be timely, friendly, and professional. Urgent and emergent
+          support must be available 24/7/365. Routine support must be available Monday –
+          Friday from 7:00 a.m. to 6:00 p.m.
+
+                                            Page 5 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+       h. End User Training
+          Provide training for various technology as needed. This would normally be for
+          common software or hardware used in a business setting or new equipment
+          installed. This can be at the request of the City or when a need is identified by the
+          vendor.
+
+       i.   Onsite Support
+            Provide regular scheduled and dedicated onsite support sixteen (16) hours each
+            month or provide a recommendation of needed onsite support hours; to address
+            city-wide and/or departmental hardware and software issues. Additional onsite
+            support may be needed for special or major projects.
+
+       j. Public Records
+          Provide assistance in public records key word searches through active and archived
+          e-mail and network files of current and former employees. Preserve original
+          metadata of e-mails and network files while saving contents to electronic files.
+          Vendor must be knowledgeable in California State Public Record Laws.
+
+       k. Computer Inventory and Disposal
+          Vendor must provide biannual hardware inventory reporting and proper and legal
+          electronic disposal of surplus electronic equipment.
+
+       IV. Submittal Requirements
+           The following information shall be required in the RFP submittal:
+
+               • Letter of Transmittal, to include:
+                    Company name, address and telephone number of the firm submitting
+                       the proposal.
+                    Copy of current W-9.
+                    Briefly state your understanding of the services to be performed and
+                       make a positive commitment to provide the services as specified.
+                    Provide a statement which includes the language “proposal and cost
+                       schedule shall be valid and binding for ninety (180) days following
+                       proposal due date and will become part of the contract that is negotiated
+                       with the City.”
+
+                  General Vendor Information, to include:
+                    Length of time in business.
+                    Total number of clients and total number of public sector clients.
+                    Number of full-time personnel and number specifically assigned for
+                      customer support. Identify names and major certifications of key
+                      personnel who will actually provide the information technology services.
+                      Summarize the experience and technical expertise of these staff. The
+
+                                            Page 6 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+                     local availability of the staff providing these services will be an important
+                     consideration.
+                    Location of the office that would service our account.
+
+                  Describe your approach to providing these services and your methodology
+                   for providing ongoing support.
+
+                  Provide the name, title, address, and contact information of three (3)
+                   references of clients for whom you have provided similar services. Please
+                   provide information referencing the actual services provided, customer size
+                   (number of users), and the length of time you have provided services to this
+                   client.
+
+                  Support Services – Please answer the following:
+                       Is help desk support available?
+
+                        When is support available? (Indicate xx a.m. to xx p.m. and the days
+                         of the week.)
+
+                        How are charges for support structures documented and tracked?
+
+                        Describe your problem escalation process, including:
+
+                                Initial problem identification.
+
+                                Determination of priority and severity of problem.
+
+                                Steps for resolving problem escalation when a solution is not
+                                 forthcoming or an implemented solution is unsatisfactory.
+
+                               Indicate your response time goals and your statistics regarding
+                                  meeting that goal.
+                              
+                  As a municipal government, City departments include those of Finance,
+                   Development Services, Planning and Building, Administration, Parks and
+                   Recreation, Public Works, and Wastewater. Explain your familiarity and
+                   experience in the support of the specialized technology requirements of
+                   these departments. With the understanding that some of our departments
+                   operate on a 24/7, 365 days per year schedule, what would your availability
+                   be in the event of any technology issues requiring immediate attention
+                   during any non-routine business hours?
+
+                  Beyond the scope of the RFP, what services (related or otherwise) does your
+                   organization provide that could benefit and/or may be of interest to the City?
+                                            Page 7 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+                       Cost of Services:
+                            The proposal must include a fee schedule that indicates either hourly
+                                rates or a flat monthly rate for the proposed services.
+
+                            Describe how your services are priced, and any specific pricing you
+                             are able to provide.
+
+                            Define any additional charges (e.g. travel expenses).
+
+                            Define any tiers of service and costs associated with those tiers.
+
+     V.          Evaluation and Criteria Process
+                 Staff will make a recommendation to the City Council for their review and award of
+                 the contract. Staff will evaluate and rate each submittal based upon the following
+                 criteria:
+                                             Evaluation Table                          % of Points
+                  Experience and personnel experience                                  20%
+                  Understanding of the City’s needs and services to be provided        20%
+                  Compatibility with end users and City staff needs                    10%
+                  Satisfaction of clients/ end users                                   10%
+                  Availability                                                         10%
+                  Cost                                                                 30%
+
+          VI.       Contract
+                    The City anticipates a three-year contract that will be renewable for an
+                    additional (2) two one-year periods. Renewal of the contract will require City
+                    Manager authorization. All fees should be set for an annual term and clearly
+                    state that in the proposal. The City expects all submitting firms to consent to the
+                    City Scope of Work and Specifications. Exceptions desired must be noted in the
+                    proposal submittal. The City reserves the right to revise the stated contract
+                    terms and conditions prior to contract signature.
+
+          VII.      Termination of Contract
+                    The contract may be terminated by mutual agreement in writing or it may be
+                    terminated at any time by either party by delivery of a sixty (60) day written
+                    notice to the other party.
+
+
+
+
+                                                Page 8 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+       VIII.   Inquiries
+               Inquiries regarding this RFP should be directed to:
+               City of Riverbank
+               Administration Department
+               Attention: Norma Torres-Manriquez
+               6707 3rd Street Suite A
+               Riverbank, CA 95367
+               Phone: (209) 863-7153
+               Email: nmanriquez@riverbank.org
+
+       IX.      Submission Instructions
+               The City reserves the right to request additional written or oral information to
+               supplement all written statements of qualifications or proposals.
+
+               Submit all material no later than November 1, 2018 at 5:30 p.m. to:
+
+               City of Riverbank
+               Administration Department
+               Attention: Norma Torres-Manriquez
+               6707 3rd Street Suite A
+               Riverbank, CA 95367
+
+       X.      RFP Amendments
+               The City reserves the right to change the schedule or issue amendments to the
+               RFP at any time. The City also reserves the right to cancel or reissue the RFP.
+
+       XI.     Vendor’s Cost to Develop Proposal
+               Costs for developing proposals in response to the RFP are entirely the obligation
+               of the vendor and shall not be chargeable in any manner to the City.
+
+       XII.    Withdrawal of Proposals
+               Proposals may be withdrawn at any time prior to the submission time specified
+               in this RFP, provided notification is received in writing. Proposals cannot be
+               changed or withdrawn after the time designated for receipt.
+
+       XIII.   Rejection of Proposals
+               The City reserves the right to reject any or all proposals. The City reserves the
+               right to award a contract to the firm that the City feels best meets the
+               requirements of the RFP process. The City reserves the right to reject any and all
+               proposals prior to execution of the Agreement, with no penalty to the City.
+
+
+
+
+                                            Page 9 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+               The City of Riverbank reserves the right to cancel, postpone, extend or revise the
+               RFP or the RFP process at any time. If it becomes necessary to revise any part of
+               this RFP, an addendum will be provided on the City’s website at
+               www.riverbank.org .
+
+       XIV.    City Taxation
+               The contractor awarded contract will be required to obtain a City of Riverbank
+               Business License.
+
+       XV.     Public Records
+               All Proposals submitted in response to this RFP become the property of the City
+               of Riverbank, and under the California Public Records Act (PRA), the records of
+               local agencies are generally available to the public upon request. The Proposal
+               you submit will become a public document after it is officially awarded, and any
+               related contract will be a public document.
+
+               The PRA allows the City to withhold documents, or parts of documents that
+               reveal trade secrets or information that is confidential or proprietary, or
+               information that would invade personal privacy.
+
+               If you believe that portions of your proposal includes such information, you must
+               specify by, at a minimum, stamping in bold red letters the term "CONFIDENTIAL"
+               on that part of the proposal which you believe to be protected from disclosure,
+               and include specific detailed reasons, including any relevant legal authority,
+               stating why it is not to be made public. The City of Riverbank reserves the right
+               to make the final determination of whether to withhold or produce a document
+               or portion of a document in response to a PRA request. If the City of Riverbank
+               withholds information at your request, you may be required to litigate any claim
+               of trade secret that you assert.
+
+       XVI. Contract Award and Execution
+             The City reserves the right to make an award without further discussion of the
+             proposal submitted. Therefore, the proposal should be initially submitted on the
+             most favorable terms the vendors can offer. It is understood that the proposal
+             will become a part of the official file on this matter without obligation to the
+             City.
+
+               The City reserves the right to request clarification of information submitted and
+               to request additional information from any proposer.
+
+               The general conditions and specifications of the RFP and as proposed by the City
+               and the successful vendor’s response, as amended by agreements between the
+               City and the vendor, will become part of the contract documents. Additionally,
+               the City will verify vendor representations that appear in the proposal. Failure of
+
+                                            Page 10 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+               the vendor’s products to meet the mandatory specifications may result in
+               elimination of the vendor from competition or in contract cancellation or
+               termination.
+
+               The selected vendor will be expected to enter into a contract with the City. The
+               City reserves the right to reject any proposed agreement or contract that does
+               not conform to the specifications contained in this RFP, and which is not
+               approved by the City Attorney.
+
+       XVII.   Comments on Standard Agreement
+               City’s Consultant Services Agreement is attached to this RFP as Attachment A.
+               A copy of the City’s Consultant Services Agreement that the selected consultant
+               will be required to sign is provided as Attachment A. Please note that any
+               consultant selected will be required to comply with the standard provisions set
+               forth in this agreement; if there are any exceptions to these provisions that the
+               consultant must address, please do so in the RFP.
+
+               Evidence of ability to comply with insurance requirements
+               The selected consultant must provide insurance certificate(s) for Commercial
+               General Liability, Automobile Liability, Workers’ Compensation and Employer’s
+               Liability, and Professional Liability Insurance for this project. Endorsement(s)
+               signed by an authorized representative of the insurance carrier will also be
+               needed for Commercial General Liability and Automobile Liability insurance, with
+               language included in the endorsement(s) that the City, its officials, employees
+               and volunteers shall be covered as additional insured.
+
+       XVIII. Equal Opportunity Compliance
+              The City is an equal opportunity employer and requires all Proposers to comply
+              with policies and regulations concerning equal opportunity.
+
+               The Proposer, in the performance of this Agreement, agrees not to discriminate
+               in its employment because of the employee’s or applicant’s race, religion,
+               national origin, ancestry, sex, sexual preference, age, or physical handicap.
+
+       XIX.    Other Compliance Requirements
+               In addition to nondiscrimination and affirmative action compliance requirements
+               previously listed, the Proposer awarded a contract shall comply with federal,
+               state and local laws, statutes, and ordinances relative to the execution of the
+               work. This requirement includes, but is not limited to, protection of public and
+               employee safety and health, environmental protection, waste reduction and
+               recycling, the protection of natural resources, permits, fees, taxes, and similar
+               subjects.
+
+
+
+                                            Page 11 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+       XX.     Ownership of Documents
+               Any reports, studies, conclusions, and summaries prepared by the Proposer shall
+               become the property of the City.
+
+       XXI.    Confidentiality of Information
+               All information and data furnished to the Proposer by the City, and all other
+               documents to which the Proposer’s employees have access during the term of
+               the contract, shall be treated as confidential to the City. Any oral or written
+               disclosure to unauthorized individuals is prohibited.
+
+
+       ATTACHMENTS
+       The attachments below are included with this RFP for your review:
+       A. City Standard Professional Services Agreement
+
+
+
+
+                                            Page 12 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+
+
+                                            Page 13 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+
+
+                                            Page 14 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+
+
+                                            Page 15 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+
+
+                                            Page 16 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+
+
+                                            Page 17 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+
+
+                                            Page 18 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+
+
+                                            Page 19 of 20
+City of Riverbank
+Request for Proposals-IT Support Services
+
+
+
+
+                                            Page 20 of 20
+

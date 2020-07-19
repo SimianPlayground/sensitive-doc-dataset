@@ -1,0 +1,883 @@
+                                                                       April 3, 2020
+                                   REQUEST FOR PROPOSAL TO
+                                           PROVIDE
+                                  RECREATION MANAGEMENT
+                                       SOFTWARE TO THE
+                                 CITY OF ANDERSON, CALIFORNIA
+
+        In accordance with the provisions of the Municipal Code of the City of Anderson, sealed
+proposals must be submitted to the City Clerk's 3rd floor office of the City of Anderson, located at
+City Hall, 1887 Howard Street, Anderson, California 96007 prior to 3:00 P.M., Friday, May 15,
+2020, for furnishing the City of Anderson a proposal for recreation management software to the
+City of Anderson, per specifications and general conditions.
+
+      PROPOSALS RECEIVED AFTER THIS TIME AND DATE WILL NOT BE ACCEPTED OR
+CONSIDERED.
+
+       The said proposals will be opened at 3:00 P.M., on Friday, June 5, 2020 in the designated City
+Hall Conference Room as posted in the main lobby of City Hall, 1887 Howard Street, Anderson, CA. 96007
+
+       The bidder shall provide the original (unbound) and five (5) copies of the proposal. Fax or
+electronic submission of proposals will not be allowed. Request for Proposal package may be obtained
+from the Purchasing Division by calling 530-378-6626 or www.ci.anderson.ca.us The City will award
+any resulting contract in a manner consistent with the City Purchasing Ordinance.
+
+       The cut‐off date and time for receiving questions regarding this bid is 5:00 p.m. PST,
+on Friday, April 24, 2020. All inquiries must be made in writing and may be submitted to the
+email address shown below.
+
+
+
+
+                                                                                           Page 1 of 12
+        If a potential bidder/proposer received this solicitation document through some
+means other than surface mail from the City of Anderson (such as from the City of Anderson
+Internet web site, or from another prospective bidder/proposer), it is the responsibility of
+the potential bidder/proposer to advise the assigned City of Anderson Purchasing contact
+of its intention to submit a bid/proposal so that any addenda or other correspondence
+related to this solicitation will be sent to the potential bidder/proposer. When contacting
+the Purchasing Division, the bidder/proposer shall provide the solicitation number located
+on the cover page of this document. Transmittal of this information must be in writing, by
+U.S. Mail, fax, or e-mail. Transmittal of this information via telephone is not acceptable.
+
+Please submit bid/proposal as directed in the RFP package. Forward to:
+
+                                           City of Anderson
+                                               City Clerk
+                                          1887 Howard Street
+                                          Anderson, CA 96007
+
+Proposals must be received by the City Clerk's office prior to 3:00 p.m. PST on the date indicated
+below. Mailing envelope is to be clearly marked on the outside with the following notation:
+
+                 "Proposal for Recreation Management Software” (RMS);
+                 opening at 3:00 P.M., on Friday, May 15, 2020"
+
+Note: Signatures must be legible, indicating full first and last name.
+
+
+                                                                         City of Anderson
+                                                                         Purchasing Division
+
+
+
+
+                                                                                           Page 2 of 12
+                          Recreation Management Software
+
+                               TABLE OF CONTENTS
+
+  SECTION Page
+
+
+1.0 INTRODUCTION                                           4
+
+2.0 TENTATIVE PROJECT SCHEDULE                             5
+
+3.0 SCOPE OF WORK                                          5
+
+4.0 ASSURANCE OF DESIGNATED PROJECT TEAM                   6
+
+5.0 PROPOSAL FORMAT REQUIREMENTS                           6
+
+6.0 SUBMITTAL INSTRUCTIONS                                 10
+
+7.0 EVALUATION CRITERIA                                    11
+
+8.0 SELECTION PROCESS                                      11
+
+
+
+
+                                                                Page 3 of 12
+1.0    INTRODUCTION
+
+        The City of Anderson (hereinafter “City”), is soliciting proposals for Recreation Management
+        Software. This will be a competitive negotiation process. Qualified individuals, firms,
+        contractors, vendors or entities (hereinafter “Vendor(s)”), that meet the requirements set forth
+        in this Request for Proposals (hereinafter “RFP”), and are capable of providing the services
+        requested are encouraged to participate.
+
+            1.1 BACKGROUND
+
+        The City of Anderson Community Services Department, Recreation Division (subsequently
+        referred to as RECREATION) has identified a need to replace their existing means for tracking
+        rental facilities and recreation classes. Recreation has used an excel spreadsheet to manage its
+        recreation classes, registrations, memberships, facility reservations. ($80,000.00)
+
+            1.2 INSTRUCTIONS
+
+        This RFP includes a description of the scope of services, proposal requirements, and
+        instructions for submitting your proposal. Failure to follow these instructions may result in
+        rejection of your proposal.
+
+        No oral representations or interpretations will be made to any proposer as to the meaning of
+        this RFP.
+
+      Questions or comments regarding this RFP must be submitted in writing to both contacts shown below:
+
+        Christy White, Project Coordinator     cwhite@ci.anderson.ca.us
+
+        Liz Cottrell, Assistant City Manager    lcottrell@ci.anderson.ca.us
+
+       Inquiries should refer to specific RFP sections and paragraphs. The cutoff time for receiving
+       written questions is 5:00 P.M., PST, Friday, April 24, 2020. Written responses to an inquiry
+       will be distributed to all known participants by way of formal addendum at the sole discretion
+       of the City. It is the responsibility of the proposer to ensure they are in receipt of any and all
+       addenda. In the event that it becomes necessary to revise any part of this RFP, written addenda
+       will be issued. Any amendment to this RFP is valid only if it is in writing and issued by the City
+       department issuing the RFP. No oral interpretations or answers shall bind the City unless
+       confirmed by the City in writing. Addenda will also be posted to www.ci.anderson.ca.us
+
+        Proposals received incomplete or late for any reason shall not be reviewed. The City has the
+        right to waive minor irregularities in any proposal received.
+
+
+
+                                                                                                  Page 4 of 12
+      Do not contact other individuals or City departments in this regard. Information provided by
+      anyone other than the above contact may be invalid and proposals which are submitted in
+      accordance with such information may be declared non-responsive.
+
+2.0   TENTATIVE SCHEDULE
+
+      The following represents the tentative schedule for this RFP. Any changes to deadline for Final
+      Questions, or Proposal Submission Deadline will be advertised in the form of an addendum to
+      this RFP. The schedule for the evaluation process and other future dates may be adjusted
+      without notice.
+
+
+                         Date                         Description
+                        4/3/2020 Begin Circulation of RFP
+
+                       4/24/2020 Deadline to Submit Written Questions
+
+                       5/15/2020 RFP Responses Must be Recevied by City Clerk
+
+                        6/5/2020 Vendor Responses will be Score by Evaluation Team
+
+                       6/30/2020 Award to Successful Vendor
+
+
+
+3.0   SCOPE OF WORK
+
+      The purpose of this proposal is to obtain a comprehensive Recreation Management Software
+      System specific to Parks and Recreation that can meet the current requirements of the City of
+      Anderson Parks and Recreation Department, and is capable of expansion to meet future needs.
+      RECREATION is most interested in a fully hosted (web) solution with minimal local client (PC)
+      software install which provides staff and customers the greatest flexibility in accessing the
+      software. However, RECREATION will consider on-premises software solutions, especially if
+      the product meets the functionality needs and has a more cost effective and/or secure method
+      for facilitating payment processing.
+
+      The ideal software solution will enable RECREATION to provide excellent customer service,
+      both in person and online, for its main business activities. Additionally, the solution should
+      enhance internal operations and provide for easy management, allow for future growth and
+      deploy easily to functional areas of Parks and Recreation. RECREATION is committed to
+      taking significant steps to automate as many processes as possible and is interested in
+      functionality that will automate the basic, common services associated with the modules
+      below:
+
+                Online Activity Registration and Account Management
+                Online Facility Reservations
+                Onsite Activity Registrations
+                                                                                             Page 5 of 12
+             Onsite Facility Reservations
+             Reporting
+             Marketing/Communication
+             Point of Sale
+             Payment Processing
+             Instructor Management
+             Scholarship Program
+             Smart Phone/Social Media Integration
+
+      The vendor selected will be responsible for the implementation of all selected components,
+      project management, training, data migration solutions, and full installation that will meet the
+      performance requirements as agreed to in the final contract. Recreation anticipates completing
+      a contract for this new software in May 2020, and anticipates full system implementation by, or
+      before, July 2020.
+
+      In the interest of finding a turnkey solution, RECREATION will consider revising requirements
+      before resorting to custom software development to achieve a desired function. If the Vendor’s
+      system performs the desired task in a way that is different than how it is described in this RFP,
+      the Vendor is encouraged to explain how their system can accomplish the desired task.
+
+4.0   ASSURANCE OF DESIGNATED PROJECT TEAM
+
+      Proposer shall assure that the designated project team, including sub-consultants or sub-
+      contractors (if any), is used for this project. Departure or reassignment of, or substitution for,
+      any member of the designated project team, sub-consultant(s) or sub-contractor(s) shall not
+      be made without the prior written approval of the City.
+
+5.0   PROPOSAL FORMAT REQUIREMENTS
+
+      Each response to this RFP shall include the information described in this section. Provide the
+      information in the specified order. Failure to include all of the information specified may be
+      cause for rejection. Additional information may be provided, but should be succinct and
+      relevant to the goals of this RFP. Any additional information that a proposing Vendor wishes
+      to include that is not specifically requested should be included in an appendix to the proposal.
+
+      Vendors are encouraged to keep the proposals brief and to the point, but sufficiently detailed
+      to allow evaluation of the project approach. Excessive information will not be considered
+      favorably.
+      Unauthorized conditions, omissions, limitations or provisions attached to a proposal will
+      render the proposal non-responsive and may cause its rejection.
+
+      Proposers are warned against making erasures or alterations of any kind, without initialing
+      each and every such change. Proposals that contain erasures or irregularities of any kind,
+      without such initialing, or omissions, may be rejected.
+
+
+
+
+                                                                                              Page 6 of 12
+        The proposal should be unbound or contained in a loose leaf binder. Document pages shall
+        be 8-1/2 inches by 11 inches in size or folded to such a size. Use section dividers, tabbed in
+        accordance with this section as specified below.
+
+5.1    Cover Letter with the following information:
+        •   Title of this RFP
+        •   Name and Mailing Address of Firm (include physical location if mailing address is a PO
+            Box)
+        •   Contact Person, Telephone Number, Fax Number, and Email Address
+        •   Cover letter is to be signed, in ink, by a member of the organization having the
+            authority to negotiate and sign contracts on behalf of the firm.
+        •   Cover letter shall acknowledge receipt of addenda, if any were issued (if in doubt,
+            contact Purchasing, (530) 378-6626.
+        •   A statement as to the date the Contractor is prepared to begin services and the location
+            of the office or offices that would provide the project services (after estimated date of
+            award).
+
+5.2   TAB A: Executive Summary – Describe your firm and provide a statement of qualifications for
+      providing this specific software. Describe the software and how or why the solution would be
+      beneficial to the City. Identify the services which would be completed by your firm's staff and
+      those that would be provided by sub-consultants or sub-contractors, if any. Identify any sub-
+      consultants or sub-contractors you propose to utilize to supplement your firm’s staff. Resumes
+      may be included in the appendix.
+
+5.3   TAB B: Experience and References – Provide a summary of your firm’s experience in
+      providing this specific software. How long has the product been in use? Was the product
+      developed internally? How many organizations utilize the software? Provide a minimum of three
+      (3) customers who have acquired and implemented the most current version of the software.
+      Include brief descriptions of the projects, dates, client names and contact persons’ names,
+      addresses and telephone numbers. Public sector references and customers of similar size are
+      preferred.
+
+5.4   TAB C: Project Plan and Description of the Proposed System/Application – Please
+      provide information about your firm’s standard methodology for delivering the solution.
+      Also, include a proposed work schedule that includes the key tasks to be delivered including
+      duration.
+
+      Identify the staff members who will be assigned to the solution delivery, and their project
+      roles. List any necessary technology, training, travel or installation services that will also be
+      required.
+
+      Please describe and illustrate the products and systems which comprise the proposed
+      Recreation Management Software, including whether system is a vendor-hosted or a City-
+      hosted solution.
+      Descriptions to include:
+                                                                                                Page 7 of 12
+             The name of the solution, the names of the key modules and the purpose of each module
+             How the system will benefit RECREATION in areas of efficiency and automation.
+             How the Vendor will assist RECREATION in its transition from the current application.
+             How Vendor will offer on-going-support and maintenance and ensure RECREATION
+              staff acceptance of new technology through effective, hands-on training.
+             What 3rd -party business partners the vendor uses to support their solution?
+             What security measures are in place to protect the solution, the data and the users?
+
+5.5   TAB D: System Features and Functionality – Section 3 (Scope of Work) and Attachments A
+      (Functionality Requirements) and B (Optional Functionality Requirements) list modules,
+      features and functionality to help assess the efficiency of the proposed system. Vendors are not
+      required to provide a system that includes all features and options to be selected to participate in
+      the next phase of the proposal process. Responding Vendors should indicate the following and/or
+      provide comments where needed for each item on the matrix in Attachments A and B.
+
+
+5.6   The matrix is provided electronically for ease of completion as a supplemental document on the
+      City of Anderson website, www.ci.anderson.ca.us\finance\purchasing.
+               I, included in base system: System meets this specification out of the box.
+               AC, available with Configuration or Customization at additional cost: System
+                would meet this specification with configuration. State costs, if any, in the sealed fee
+                schedule.
+               FR, planned in future release: System would meet this specification in a future
+                software update/release. State quarter and year of release date.
+               NA: System does not meet this specification. Vendor may explain or provide
+                alternate functionality, if desired.
+               Comments: Specify configuration or customization or other notes as needed.
+
+5.7   TAB E: Vendor and Technology Requirements – Please provide any technical requirements
+      that must be met by the city to implement the solution. This includes network (speed, ports,
+      and settings), client (OS, RAM, and Processor), server (OS, RAM, Processor and storage),
+      database (name, version, and storage), and software (browsers, .NET version, and 3rd party
+      applications). Identify any areas in which the proposed solution does not meet the City’s
+      minimum technical requirements explained in Attachment A. Additionally, provide
+      information about any necessary hardware and peripherals required for the recreation
+      software to operate effectively. Include pricing for additional hardware and peripherals as part
+      of the Cost Proposal.
+
+5.8   TAB F: Training & Support – Provide detailed and thorough responses to the following
+      questions:
+          Support:
+
+                 1. What are your customer support hours? What types of support are available?
+                 2. What is the average response time for support? Explain different response times
+                    as they apply to different levels of support (e.g. help running a report or system
+                    crash).
+                                                                                                Page 8 of 12
+         Training:
+                1. What training is provided or required as part of implementation? Please
+                    provide descriptions and details of training provided by your firm.
+                2. What training and resources are provided or offered after go live to support
+                    functionality changes, software updates and/or to assist with training new
+                    staff?
+5.9    TAB G: Report Samples, Brochures and other Literature/Information – Include
+       samples of reports such as a payment receipt, detailed transaction report, facility
+       calendars and class rosters, brochures, other literature or other information may be
+       included as optional.
+5.10   TAB H: Exceptions – Describe any and all proposed exceptions, alterations or amendments to
+       the Scope of Services, General Terms and Conditions or other requirements of this RFP,
+       including the Sample Agreement, Consulting and Professional Services Contract (Attachment
+       D). The nature and scope of your proposed exceptions may negatively affect the evaluation of
+       your submittal and the City’s determination of whether it is possible to successfully negotiate
+       a contract with your firm.
+
+5.11   TAB I: Competency of Proposers – The City wants to ensure that the successful Vendors
+       has the necessary facilities, ability, experience, and financial resources to provide the
+       services specified herein in a satisfactory and timely manner. Please list and explain any
+       pending bankruptcies, liens, stop payment notices, judgments, lawsuits, foreclosures, and
+       any similar actions filed or resolved in the past seven (7) years. Please indicate whether a
+       client has ever terminated a contract with your firm for breach, and if so, please explain.
+
+5.12   Cost Proposal –
+
+
+       Provide a total cost proposal for all products and services to be delivered. Fixed fee is
+       preferred. Provide details of a milestone/deliverable based fee schedule. If any portion of the
+       project (such as implementation, data conversion or training) is proposed at an hourly rate
+       and not included in the fixed fee, include a schedule of hourly rates for all proposed staff and
+       the amount of time each person will be devoted to this project.
+
+       Define any reimbursable expenses requested to be paid by the City. If you provided both
+       hosted and non-hosted service models, please provide quotes for each model. Please provide
+       costs and pricing for annual maintenance or per transaction fees for the next five (5) years.
+
+       Indicate if any ongoing or annual costs for software licensing, support or maintenance are
+       required or recommended. If licensing is required, please indicate if it is based on site, name,
+       concurrent or machine?
+
+       Outline any hardware or peripheral requirements for your system and include itemized
+       pricing if you provide this equipment.
+
+       Does the proposed system require use of specific payment processing or can it be configured?
+       For instance, are credit cards processed through a specific vendor? How often and via what
+
+
+                                                                                              Page 9 of 12
+      method are receipts remitted to the City? If any costs are associated with payment processing,
+      include the associated fee schedule.
+
+6.0   SUBMITTAL INSTRUCTIONS
+
+6.1   Your submittal package shall include the following:
+
+            6.1.1 Each proposal package shall contain the original (unbound) and five (5)
+                  copies of the proposal. Facsimile or electronic submittals are not acceptable.
+                  Pages in the proposal shall be typed and double sided, with the maximum
+                  number of printed pages of proposal information (excepting covers, index
+                  sheets/dividers, blank pages, and table of contents) to be limited to fifty (50)
+                  8 ½” by 11” pages. One sheet of paper that has typed material on both sides
+                  counts as two pages.
+
+            6.1.2 One (1) electronic copy of your proposal in PDF format on CD, flash drive or
+                  other electronic media
+
+            6.1.3 Proposal will be marked with the Vendor’s name and, “RMS, opening at
+                  3:00 PM on Friday, May 15, 2020.”
+
+6.2   Proposals shall be submitted not later than the time and date indicated on the cover page of this
+      RFP. All submittals shall be submitted in a sealed envelope or container and clearly marked with
+      the RFP title on the outside of the parcel. Complete and attach the “Sealed Proposal” label to
+      the outside of the envelope containing your proposal.
+
+6.3   Proposals shall be submitted ONLY to:
+               City of Anderson
+               Attn: City Clerk
+              1887 Howard Street
+              Anderson, CA 96007
+
+                Faxed and/or emailed proposals will not be accepted.
+
+                The City shall not be responsible for proposals delivered to a person or location
+                other than that specified herein.
+
+                Postmarks will not be accepted and proposals received after the deadline date and time
+                will not be accepted or considered. No exceptions.
+
+                The City reserves the right to waive minor defects and/or irregularities in proposals,
+                and shall be the sole judge of the materiality of any such defect or irregularity.
+
+                All costs associated with proposal preparation shall be borne by the proposer.
+
+
+
+                                                                                              Page 10 of 12
+  7.0    EVALUATION CRITERIA
+
+          The following evaluation criteria and rating schedule will be used to determine the most highly
+          qualified firm(s).
+
+
+
+         Evaluation Criteria
+
+         A. Company Profile - Experience and qualifications of firm, age of product and 5%
+             references
+         B. Proposed software solution’s ability to meet the needs of the Department 60%
+
+         C. Implementation and Training                                                     10%
+
+         D. Support and Maintenance                                                         25%
+
+
+
+
+8.0     SELECTION PROCESS
+
+
+        8.1   Proposals submitted will be reviewed by a selection committee. Vendors that have
+              submitted the best and most complete proposals that meet the needs of the City may be
+              invited to an interview. The number of Vendors invited to an interview may vary
+              depending upon the number of proposals submitted.
+        8.2   The City reserves the right to make a selection after review of the proposals without oral
+              interviews; therefore, the proposal should be submitted initially on the most favorable terms
+              that the Vendor might propose.
+        8.3   A contract will be negotiated with the Vendor considered best meeting the City’s need for this
+              project. In the event a mutually satisfactory contract cannot be negotiated with the City’s first
+              choice, negotiations may be terminated and commenced with the Vendor considered next best
+              in meeting the City’s needs for this particular project.
+        8.4   The selected Vendor will be required to execute a City prepared contract. The contract may
+              further refine the scope of services and will provide for the terms and conditions of
+              employment.
+        8.5   The award of any contract is expressly contingent upon City Council approval and the
+              availability of funds. City staff may not legally bind the City to a contract.
+        8.6   The City reserves the right to reject any or all proposals, or to waive minor irregularities in
+              said proposals, or to negotiate minor deviations with the successful Vendor(s). In the case
+              of differences between written words and figures in a proposal, the amount stated in
+              written words shall govern. In the case of a difference in unit price versus the extended
+              figure, the unit price shall govern.
+
+
+                                                                                                    Page 11 of 12
+8.7   A City of Anderson business license as well as all applicable permits, insurance, licenses
+      and certifications required by local, state or federal law are required before the award of
+      contract.
+
+
+
+
+Attachments:
+  A. Required Functionality Workbook (Excel version available)
+  B. Optional Functionality Workbook (Excel version available)
+  C. RFP General Conditions
+  D. Consulting and Professional Services Agreement
+         a. See section 5, of attachment D, for insurance information
+
+
+
+
+                                                                                        Page 12 of 12
+        CITY OF ANDERSON ‐ PROFESSIONAL SERVICES AGREEMENT WITH
+                                            for
+             Recreation Management Software for the City of Anderson
+       THIS AGREEMENT (“Agreement”), made and entered into this
+       2020, is by and between the City of Anderson, a California municipal
+corporation, hereinafter referred to as “City,” and, hereinafter referred to as
+“Consultant.”
+                                          WITNESSETH:
+SECTION 1 ‐ ORGANIZATION AND CONTENTS.
+This Agreement is divided into the following Sections:
+Section/Title                                                          Page No.
+SECTION 1 - ORGANIZATION AND CONTENTS                                    1
+SECTION 2 - DESCRIPTION OF PROJECT                                       2
+SECTION 3 - SCOPE OF SERVICES - BASIC; COMPLETION SCHEDULE               2
+SECTION 4 - SCOPE OF SERVICES - ADDITIONAL; COMPLETION SCHEDULE          2
+SECTION 5 - COMPENSATION                                                 2
+SECTION 6 - RESPONSIBILITY OF CONSULTANT                                 3
+SECTION 7 - RESPONSIBILITY OF CITY                                       3
+SECTION 8 - INDEMNIFICATION                                              4
+SECTION 9 - INSURANCE                                                    4
+SECTION 10 - GENERAL PROVISIONS                                          4
+             10.1 - Access to Records                                    4
+             10.2 - Assignment                                           5
+             10.3 - Changes to Scope of Work - Basic Services            5
+             10.4 - Compliance with Laws, Rule, Regulations              5
+             10.5 - Conflict of Interest Applicability                   5
+             10.6 - Exhibits Incorporated                                5
+             10.7 - Independent Contractor                               5
+             10.8 - Integration; Amendment                               6
+             10.9 - Jurisdiction                                         6
+             10.10 - Notice to Proceed; Progress; Completion             6
+             10.11 - Ownership of Documents                              6
+             10.12 – Subcontracts                                        6
+             10.13 - Term; Termination                                   7
+             10.14 - Notice                                              7
+SECTION 11 - SPECIAL PROVISIONS                                          7
+SECTION 2 ‐ DESCRIPTION OF PROJECT
+
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+        City desires to undertake engineering services, hereinafter referred to as
+“project,” described in EXHIBIT “A” entitled “RECREATION MANAGEMENT
+SOFTWARE” and to engage Consultant to provide the required professional services
+relating to it.
+
+
+SECTION 3 ‐ SCOPE OF SERVICES – RECREATION MANAGEMENT FOR THE CITY OF
+ANDERSON
+        Consultant shall perform those basic services in connection with the project as
+are set forth more particularly in EXHIBIT “A” entitled “SCOPE OF CONSULTANT
+SERVICES – RECREATION MANAGEMENT FOR THE CITY OF ANDERSON” and shall
+complete said services in accordance with the completion schedule for them
+incorporated in said Exhibit.
+
+
+SECTION 4 ‐ SCOPE OF SERVICES – ADDITIONAL SERVICES
+        It is understood by City and Consultant that it may be necessary, in connection
+with the project, for Consultant to perform or secure the performance of services other
+than those set forth in EXHIBIT “A.” In each such instance, Consultant shall advise
+City, in advance and in writing, of the need for such additional services, their cost and
+the estimated time required to perform them (if appropriate). Consultant shall not
+proceed to perform any such required additional service until City has determined that
+such service is beyond the scope of the basic services to be provided, is required, and
+City has given its written authorization to perform or obtain it. Each additional service
+so authorized shall constitute an amendment to this Agreement, shall be identified and
+sequentially numbered as “Additional Consultant Service No. 1” and so forth, shall be
+subject to all of the provisions of this Agreement, and shall be attached to EXHIBIT “A”
+entitled “SCOPE OF CONSULTANT SERVICES – ADDITIONAL SERVICES
+
+
+
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+SECTION 5 ‐ COMPENSATION; PAYMENT OF FEES
+       Consultant shall be compensated for services rendered to City pursuant to this
+Agreement in the amounts, manner and in accordance with the payment schedule as
+set forth in EXHIBIT “B” entitled “COMPENSATION; PAYMENT OF FEES”, but not to
+exceed,                        .   Amounts due to Consultant from City for services
+rendered shall be evidenced by the submission to City by Consultant of an invoice,
+prepared in a form satisfactory to City, setting forth the amount of compensation due
+for the period covered by it. Each such invoice shall be forwarded to City so as to reach
+it on the 1st day of the month, or other applicable period, for which the services
+invoiced were provided. All such invoices shall be in full accord with any and all
+applicable provisions of this Agreement. City will review each such invoice and retain
+them, provided however that if Consultant submits an invoice which is incorrect,
+incomplete, or not in accord with the provisions of this Agreement, then City shall not
+be obligated to process any payment to Consultant until a correct and complying
+invoice has been submitted.
+
+
+SECTION 6 ‐ RESPONSIBILITY OF CONSULTANT
+       By executing this Agreement, Consultant warrants to City that Consultant
+possesses, or will arrange to secure from others, all of the necessary professional
+capabilities, experience, resources and facilities necessary to provide to City the
+services contemplated under this Agreement.         Consultant further warrants that
+Consultant will follow the best current, generally accepted professional practices to
+make findings, render opinions, prepare factual presentations, and provide
+professional advice and recommendations regarding the project for which services are
+rendered under this Agreement. It is expressly understood by all parties to this
+Agreement that Consultant makes no guarantee or warranty whatsoever to the
+success of this project.
+
+
+
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+SECTION 7 ‐ RESPONSIBILITY OF CITY
+          To the extent appropriate to the project contemplated by this Agreement, City
+shall:
+7.1      Assist Consultant by placing at Consultant’s disposal all available information
+pertinent to the project, including previous reports and any other data relative to
+design and construction which may be applicable to it.
+7.2       Guarantee access to and make all provisions for Consultant to enter upon
+public and private property as required for Consultant to perform Consultant services.
+7.3       Examine all studies, reports, sketches, drawings, specifications, proposals and
+other documents prepared and presented by Consultant, and render verbally or in
+writing as may be appropriate, decisions pertaining thereto, within a reasonable time
+so as not to delay the progress of the work by Consultant.
+7.4       Designate in writing a person to act as City's representative with respect to the
+work to be performed under this Agreement. Such person shall have complete
+authority to transmit instructions, receive information, interpret and define City's
+policies and decisions with respect to materials, equipment, elements and systems
+pertinent to Consultant's services.
+7.5       Give prompt written notice to Consultant whenever City observes or otherwise
+becomes aware of any defect in the project.
+7.6       Furnish approvals and permits from all governmental authorities having
+jurisdiction over the project and such approvals and consents from others as may be
+necessary for completion of the project.
+
+
+SECTION 8 ‐ INDEMNIFICATION
+          Consultant shall hold City, its officers, boards and commissions, and members
+thereof, its employees and agents harmless of and free from any and all liability arising
+out of or relating to any negligent act or omission of Consultant or Consultant’s
+employees or agents in rendering the services required by this Agreement.
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+SECTION 9 ‐ INSURANCE
+            a.   Unless modified in writing by City's Risk Manager, consultant shall
+                 maintain the following noted insurance during the duration of the
+                 Contract:
+
+Coverage                                            Required    Not Required
+Comercial General Liability                               X
+
+Comprehensive Vehicle Liability                            X
+
+Worker's Compensation and Employers' Liability             X
+
+Professional Liability Erros and Omissions.                             X
+
+            b.   Coverage shall be at least as broad as:
+
+                 1.     Insurance Services Office form number CG-0001,
+                        Commercial General Liability Insurance in an amount not
+                        less than $1,000,000 per occurrence and $2,000,000
+                        general aggregate for bodily injury, personal injury, and
+                        property damage;
+
+                 2.      Insurance Services Office form number CA-0001 (Ed. 1/87),
+                         Comprehensive Automobile Liability Insurance which
+                         provides for total limits of not less than $1,000,000
+                         combined single limits per accident applicable to all owned,
+                         non-owned, and hired vehicles;
+
+                 3.      Statutory Workers' Compensation required by the Labor
+                         Code of the State of California and Employers' Liability
+                         Insurance in an amount not less than $1,000,000 per
+                         occurrence;
+
+       c.        The General Liability and Automobile Liability policies are to
+                 contain or be endorsed to contain the following provisions:
+
+                  i.     City, its elected officials, officers, employees, agents, and
+                           volunteers are to be covered as additional insured as
+                           respects liability arising out of work or operations
+                           performed by or on behalf of consultant; premises owned,
+                           leased or used by consultant; or automobiles owned,
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+                            leased, hired, or borrowed by consultant. The coverage
+                            shall contain no special limitations on the scope of
+                            protection afforded to City its elected officials, officers,
+                            employees, agents, and volunteers.
+
+               ii.         The insurance coverage of consultant shall be primary
+                           insurance as respects City, its elected officials, officers,
+                           employees, agents, and volunteers. Any insurance or self-
+                           insurance maintained by City, its elected officials, officers,
+                           employees, agents, and volunteers shall be in excess of
+                           consultant’s insurance and shall not contribute with it.
+
+              iii.        Coverage shall state that the insurance of consultant shall
+                          apply separately to each insured against whom claim is
+                          made or suit is brought except with respect to the limits of
+                          the insurer's liability.
+
+              iv.         Each insurance policy required by this Contract shall be
+                          endorsed to state that coverage shall not be canceled except
+                          after thirty (30) days' prior written notice has been given to
+                          City. In addition, consultant agrees that it shall not reduce
+                          its coverage or limits on any such policy except after thirty
+                          (30) days' prior written notice has been given to City.
+
+         e.      Insurance is to be placed with insurers with a current AM Best's
+                 rating of no less than A‐VII.
+
+         f.      Consultant shall designate the City of Anderson as a Certificate
+                 Holder of the insurance. Consultant shall furnish City with
+                 certificates of insurance and original endorsements affecting the
+                 coverage required by this clause. Certificates and endorsements
+                 shall be furnished to 1887 Howard Street, Anderson, California
+                 96007. The certificates and endorsements for each insurance
+                 policy are to be signed by a person authorized by the insurer to
+                 bind coverage on its behalf. All endorsements are to be received
+                 and approved by the City's Risk Manager prior to the
+                 commencement of contracted services.
+
+         g.         The requirements as to the types and limits of insurance coverage
+                    to be maintained by consultant as required by this Contract and
+                    any approval of said insurance by City are not intended to and will
+                    not in any manner limit or qualify the liabilities and obligations
+                    otherwise assumed by consultant pursuant to this Contract,
+
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+                 including without limitation provisions concerning indemnification.
+
+         h.      If any damage, including death, personal injury, or property
+                 damage, occurs in connection with the performance of this
+                 Contract, consultant shall immediately notify City's Risk Manager
+                 by telephone at 530-378-6646 (City Clerk's Telephone Number).
+                 No later than three (3) calendar days after the event, consultant
+                 shall submit a written report to City's Risk Manager containing the
+                 following information as applicable: (1) name and address of
+                 injured or deceased person(s); (2) names and addresses of
+                 witnesses; (3) name and address of consultant's insurance
+                 company; and (4) a detailed description of the damage and
+                 whether any City property was involved.
+
+
+SECTION 10 ‐ GENERAL PROVISIONS
+10.1 Access to Records
+       Consultant shall maintain all books, records, documents, accounting ledgers,
+and similar materials relating to work performed for City under this Agreement on file
+for at least (1) year following the date of final payment to Consultant by City. Any duly
+authorized representative(s) of City shall have access to such records for the purpose
+of inspection, audit and copying at reasonable times, during Consultant's usual and
+customary business hours.        Consultant shall provide proper facilities to City’s
+representative(s) for access and inspection. Consultant shall be entitled to reasonable
+compensation for time and expenses related to such access and inspection activities,
+which shall be considered to be an additional service to City, falling under the
+provisions of SECTION 4 hereinabove.
+10.2 Assignment
+       This Agreement is binding to heirs, successors, and assigns of the parties hereto
+and shall not be assigned by either City or Consultant without the prior written
+consent of the other.
+10.3 Changes to Scope of Work ‐ Basic Services
+       City may at any time and, upon a minimum of ten (10) days’ written notice,
+modify the scope of basic services to be provided under this Agreement. Consultant
+
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+shall, upon receipt of said notice, determine the impact on both time and
+compensation of such change in scope and notify City in writing. Upon agreement
+between City and Consultant as to the extent of said impacts to time and
+compensation, an amendment to this Agreement shall be prepared describing such
+changes. Execution of the amendment by City and Consultant shall constitute the
+Consultant's notice to proceed with the changed scope.
+10.4 Compliance with Laws, Rules, Regulations
+       All services performed by Consultant pursuant to this Agreement shall be
+performed in accordance and full compliance with all applicable Federal, State or City
+statues, and any rules or regulations promulgated thereunder.
+10.5 Conflict of Interest
+       If City’s City Manager has determined that one or several of Consultant’s
+Principal(s) or Project Manager(s) are subject to any provisions of the Anderson
+Municipal Code relating to conflict of interest, or the provisions of any rules or
+regulations which may have been promulgated thereunder, then each such person will
+be required to comply with said provisions in connection with the services they render
+to the City under this Agreement. City shall advise Consultant of any such provisions
+prior to the date of execution of this Agreement.
+10.6 Exhibits Incorporated
+       All Exhibits referred to in this Agreement and attached to it are hereby
+incorporated in it by this reference.
+10.7 Independent Contractor
+       City and Consultant agree that the relationship between them created by this
+Agreement does not constitute an employer-employee relationship, a partnership or
+joint-venture relationship of any kind between the City of Anderson and the
+Consultant. Consultant is not an agent of the City and has no authority to commit the
+City in any way whatsoever. Consultant shall be solely responsible for the conduct and
+control of the work performed under this Agreement. Consultant shall be free to
+render professional consulting services to others during the term of this Agreement, so
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+long as such activities do not interfere with or diminish Consultant's ability to fulfill the
+obligations established herein to City.
+10.8 Integration; Amendment
+       This Agreement represents the entire understanding of City and Consultant as
+to those matters contained herein. No prior oral or written understanding shall be of
+any force or effect with respect to those matters covered in it. This Agreement may not
+be modified or altered except by amendment in writing signed by both parties.
+10.9 Jurisdiction
+       This Agreement shall be administered and interpreted under the laws of the
+State of California. Jurisdiction of litigation arising from this Agreement shall be in that
+state. If any part of this Agreement shall be in conflict with applicable laws, such part
+shall be inoperative, null, and void insofar as it is in conflict with said laws, but the
+remainder of the Agreement shall continue to be in full force and effect.
+10.10 Notice to Proceed; Progress; Completion
+       Upon execution of this Agreement by the parties, City shall give Consultant
+written notice to proceed with the work. Such notice may authorize Consultant to
+render all of the services contemplated herein, or such portions or phases as may be
+mutually agreed upon. In the latter event, City shall, in its sole discretion, issue
+subsequent notices from time to time regarding further portions or phases of the
+work. Upon receipt of such notices, Consultants shall diligently proceed with the work
+authorized and complete it within the agreed time period.
+10.11 Ownership of Documents
+       Title to all documents, drawings, specifications, and the like with respect to
+work performed under this Agreement shall vest with City at such time as City has
+compensated Consultant, as provided herein, for the services rendered by Consultant
+in connection with which they were prepared.
+10.12 Subcontracts
+       Consultant shall be entitled, to the extent determined appropriate by
+Consultant, to subcontract any portion of the work to be performed under this
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+Agreement. Consultant shall be responsible to City for the actions of persons and firms
+performing subcontract work. The subcontracting of work by Consultant shall not
+relieve Consultant, in any manner, of the obligations and requirements imposed upon
+Consultant by this Agreement.
+10.13 Term; Termination
+       The term of this Agreement shall commence upon City’s issuance to Consultant
+of a notice to proceed for all or a portion of the work, as hereinabove provided, and
+shall end upon City’s acceptance and payment for all or such portion of the work as
+was authorized by such notice, including any and all retentions. Notwithstanding the
+foregoing, City may, in its sole discretion, terminate this Agreement at any time and for
+any reason whosoever by giving at least ten (10) days’ prior written notice of such
+termination to Consultant. In any event, termination of the Agreement is subject to the
+terms and provisions of Exhibit “A” of this Agreement.
+10.14 Notices
+       Any notices required to be given pursuant to this Agreement shall be deemed to
+have been given by their deposit, postage prepaid, in the United States Postal Service,
+addressed to the parties as follows:
+
+a.     To City:                 Jeff Kiser, City Manager
+                                City of Anderson
+                                1887 Howard Street
+                                Anderson, CA 96007
+
+
+
+b.     To Consultant:
+                                Address
+
+       Nothing hereinabove shall prevent either City or Consultant from personally
+delivering any such notices to the other.
+
+
+       IN WITNESS WHEREOF, the parties hereto have made and executed this
+Agreement the day and year first above written.
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+CITY OF ANDERSON
+
+
+__________________________                    _________________________
+Jeff Kiser
+City Manager
+
+_________________________                     __________________________
+Date                                          Date
+
+APPROVED AS TO FORM:
+
+
+__________________________
+Collin Bogener
+City Attorney
+
+
+
+
+Professional Services Agreement: City of Anderson
+Recreation Management Software
+

@@ -1,0 +1,2114 @@
+         546 NW University Blvd, Suite 201
+              Port St. Lucie, FL 34986
+
+
+
+
+         REQUEST FOR PROPOSAL
+Children’s Services Council of St. Lucie County
+
+
+
+
+  Enterprise Application Software Solutions
+VERSION        REVISION DATE       DESCRIPTION
+
+
+      1.0            04 FEB 2020   Original RFP document
+
+
+          --              --                                          --
+
+
+
+
+                                                 Children’s Services Council of St. Lucie County | 2
+Section 01 - Executive Summary ............................................................................................................ 4
+
+Section 02 – About CSCSLC ..................................................................................................................... 7
+
+Section 03 – Proposed Solution and Preliminary Requirements ......................................................... 14
+
+Section 04 - Proposal Guidelines .......................................................................................................... 17
+
+Section 06 - Proposal Format ............................................................................................................... 22
+
+Appendix A – IS Map ............................................................................................................................ 24
+
+Appendix B – Preliminary Requirements.............................................................................................. 25
+
+Appendix C – Glossary of Terms ........................................................................................................... 44
+
+
+
+
+                                                                      Children’s Services Council of St. Lucie County | 3
+Section 01 - Executive Summary
+
+This section provides an overview of the project definition and the goals of Children’s Services Council of
+St. Lucie County, hereinafter referred to as “CSCSLC”.
+
+
+Project Definition
+
+This RFP announces CSCSLC’s intent to procure core enterprise application systems for the purpose of
+replacing or enhancing existing systems which have been outgrown. CSCSLC intends on establishing
+strategic integrations between multiple systems of record and maturing the information systems
+strategies to gain both process efficiency and data analysis capabilities. The purpose of this RFP is to
+solicit proposals from qualified vendors who can demonstrate value in building a long-term relationship
+with both CSCSLC and other partners serving CSCSLC’s enterprise application needs.
+
+CSCSLC intends on evaluating both comprehensive solutions and multiple integrated solutions for
+replacing its current accounting software with an enterprise resource planning (ERP) solution, replacing
+or enhancing its current grants management software with a comprehensive solution for supporting the
+functions of the Programs department, and introducing an integrated customer relationship
+management (CRM) solution.
+
+CSCSLC intends on selecting a solution or multiple solutions that will allow for integration between
+various data sets across all systems of record. CSCSLC will contract with multiple solution providers, if
+necessary, to ensure the appropriate information systems solutions are in place to support the business
+needs of all stakeholders.
+
+Specifically, CSCSLC is seeking proposals from qualified vendors to provide an ERP solution, a
+comprehensive Programs department solution, and a CRM.
+
+Proposal cost estimates should be comprehensive and include:
+    (1) software cost and software user license cost
+    (2) annual software maintenance cost, hosting & cloud service estimates (if applicable)
+    (3) the cost of including a “test”, “play”, or “development” environment, if possible
+    (4) installation/implementation costs including travel expenses
+    (5) data migration cost
+    (6) application integrations cost estimates
+    (7) training costs and post “go live” support costs
+    (8) all other costs that will be incurred during the installation of the solution
+
+The proposed solution or solutions can partially address the scope but must allow for full integration. It
+is preferable for the solutions to be able to be fully integrated without extensive supplemental systems,
+add-ons, or customization. CSCSLC intends on auditing current business processes to minimize any
+system customizations and to utilize as many features of “out-of-the-box” solutions as possible.
+
+
+
+                                                      Children’s Services Council of St. Lucie County | 4
+The selected system or systems must meet the needs of the current organization and be scalable to grow
+with CSCSLC as the organization evolves.
+
+With consideration to CSCSLC’s annual budgeting process, the selected vendor or vendors should
+provide options for implementing the system in multiple phases but also be prepared to engineer a full-
+scope installation for a “go live” of October 1, 2021.
+
+This RFP, leading to an acquisition phase, is being conducted as a competitive procurement process
+whereby the vendor community is being asked to respond with the best solution, as a combination of
+software solutions and services, to support CSCSLC’s strategic information systems direction. CSCSLC
+has allocated a window of time before the selection process for the purpose of vendor interaction, as
+CSCSLC anticipates this will be helpful for the collaborative engineering of a strategic solution.
+
+The application modules that CSCSLC seeks to acquire and implement include:
+
+    (1) Finance and Accounting
+            a.   COA Maintenance
+            b. General Ledger Entry and Posting
+            c.   Budget
+            d. Treasury/Bank Reconciliation
+            e.   Financial Reporting
+            f.   Accounts Payable & Accounts Receivable
+            g.   Procurement & Purchase Orders
+            h. Capital Assets
+            i.   Payroll
+            j.   Human Resources
+    (2) Customer Relationship Management
+            a.   Relationship Management
+            b. Task/Opportunity Management
+            c.   Stakeholder demographics
+            d. Distribution & Other Groupings lists
+    (3) Grant/Funds Management (Programs Department)
+            a.   Grants Publication and Management
+            b. Funds Management
+            c.   Performance Measurement
+            d. Agency (external stakeholder) portal
+    (4) Decision Support
+            a.   Budgeting
+            b. Reporting
+            c.   Analysis
+
+
+                                                      Children’s Services Council of St. Lucie County | 5
+Goals
+
+CSCSLC’s primary objective is to implement core-system solutions and selected complementary
+solutions with strategic integrations. The organization wishes to identify, procure, and implement a
+replacement system or systems from a vendor or vendors with a proven track record, a well-equipped
+staff, and a reputation for customer service. Specific project goals include the following:
+
+   •    Acquire a solution or solutions that supports CSCSLC’s immediate plans for information systems
+        integration and near-term plans for electronic data exchange with external stakeholders.
+   •    Acquire a platform or platforms that will allow CSCSLC to collect aggregated program-level data
+        and eventually include the collection of individual client-level data.
+   •    Integrate business processes/systems and eliminate manual/redundant entry of information.
+   •    Acquire and implement a software solution that meets CSCSLC’s needs using as much “off-the-
+        shelf” or “out-of-the-box” functionality as possible.
+   •    Support the current business process needs of the primary functions within each department
+   •    Replace aging software system functionality.
+   •    Establish the foundation for future reporting, analysis and budgeting needs.
+   •    Ensure all stakeholder classes have ready access to accurate and timely information to improve
+        operational productivity and customer service.
+   •    Enhance functionality to provide more efficient and effective reporting in all areas of the business.
+   •    Implement a stable and inter-connected set of systems capable of accommodating both internal
+        stakeholder and external stakeholder needs.
+   •    Acquire a well-supported system from a reliable vendor/partner with adequate resources to
+        support, upgrade, and maintain the package over the long-term.
+   •    Acquire a system with robust architecture that has capability to effectively and efficiently
+        integrate with other vendor solutions.
+   •    Partner with a software solution provider who can architect and provide a flexible and phased
+        implementation approach.
+   •    Improve stakeholder collaboration and build good inter-department processes, for example, the
+        budgeting process.
+   •    Either strategically migrate or archive the historic record of transactions currently maintained in
+        multiple applications serving as systems of record.
+
+
+
+
+                                                      Children’s Services Council of St. Lucie County | 6
+Section 02 – About CSCSLC
+
+This section provides an overview of Children’s Services Council of St. Lucie County, CSCSLC.
+
+
+Organization Background
+
+Children’s Services Council of St. Lucie County, CSCSLC, is an organization based in Port St. Lucie, FL,
+with the mission to improve the quality of life for all children in St. Lucie County. A Children's Services
+Council (CSC) is a countywide special-purpose government, created by ordinance – and approved by
+local voters – to fund programs and services that improve the lives of children and their families.
+
+
+To date, nine Florida counties have created CSCs that invest property tax dollars in the well-being of
+their community’s children and families. While the services offered and age groups served vary
+depending on each community’s needs, the primary focus of all CSCs is to invest in prevention and early
+intervention programs that produce measurable results.
+
+
+The Children’s Services Council of St. Lucie County was established in 1990 after the Juvenile Welfare
+Services Act was passed by the Florida Legislature and signed by the Governor in 1986 (Florida Statutes
+125.901). This enabling legislation provided that any county in Florida, whose voters agreed through
+referendum, could create a special taxing district for children’s services with a governing board and the
+authority to levy ad valorem taxes.
+
+
+St. Lucie County Ordinance No. 90-41 provides for the creation of an Independent Special District to
+provide funding for children's services throughout St. Lucie County. This special district, by ordinance,
+was approved on October 2, 1990, and named the Children's Services Council of St. Lucie County.
+
+
+As mandated by Florida Statute and County Ordinance, the Council is made up of ten members. Five of
+these members are ex officio (meaning "from the office") and serve by virtue of office or position and
+five of these members are appointed by the governor. Ex Officio Members include:
+    •   County Commissioner
+    •   District Administrator (or designee) of Department of Children and Families
+    •   Juvenile Judge
+    •   School Board Member
+    •   Superintendent of Schools
+    •   Governor Appointed Members, appointed by the sitting Governor, serve a four-year term
+
+
+
+                                                       Children’s Services Council of St. Lucie County | 7
+Taxing Authority is provided for by statute and ordinance and allows the levy of up to .50 mills in
+property taxes. The ten-member Council has decision making authority over the programs to be funded,
+setting millage rates, and approving the budget. The cost to a local property owner to pay .50 mills
+would be 50 cents for every $1,000 of taxable property.
+
+
+CSCSLC Facility
+
+CSCSLC currently has one location in Port St. Lucie, FL which includes both office and meeting space for
+all 11 staff members along with a training facility. The onsite training facility is well-equipped with three
+projectors, three screens, and an IP-based system in place for visitors to connect devices.
+
+
+Current Technology Environment
+
+CSCSLC currently uses e-CImpact as an application solution for the Programs Department. The application
+is a cloud-based grants management system that provides proposal application development from design
+through quarterly reporting; data storage of current and historical operations. CSCSLC has 5-6 internal
+users and 32 external users at outside agencies operating 48 individual programs. The external users
+connect through a hosted online portal operated and maintained by Seabrooks.
+
+CSCSLC uses an on-premise QuickBooks application for the Accounting Department. The application is
+self hosted and provides 3 user licenses.
+
+CSCSLC uses Civic-Plus as a content management system for its website application. It maintains a 3 user
+administration license for posting information, announcements, communications, inquiries from the
+community
+
+CSCSLC maintains a Microsoft Office 365 subscription for all internal users. The 11-users license includes
+Word, Outlook, Excel, Edge/Internet Explorer, PowerPoint, OneNote, and Access. CSCSLC also has 3
+Microsoft Visio licenses.
+
+CSCSLC maintains 2 on premise servers running Windows Server 2008, 2012, & Small Business Server.
+The primary server with 32GB memory and 1 TB storage handles primary networking operations, active
+directory, internet communications, and serves as a document repository/data storage unit. The Fiscal
+server handles QuickBooks 3 User operation and is a document repository/data storage for Fiscal
+department. Veritas BackUp Exec is used for data backup & recovery using 1TB removable drive and a 3
+TB Seagate external storage. Office 365 data is stored in the cloud-based system. CSCSLC will be upgrading
+the primary server to Windows Server 2016 and will be adding more memory and virtual machine
+capabilities to sync local premise and cloud backups for better recovery options.
+
+CSCSLC has 11 desktop computers, 6 Surface Pro 4 computers, and 8 iPads for daily user operations. 2
+networked Toshiba MFP copier/scanner/fax machines and 2 networked HP color laser printers are used
+by 11 staff members.
+
+
+                                                      Children’s Services Council of St. Lucie County | 8
+A Fortinet hardwired firewall is in use between the local network and the internet. Both an internal
+wireless network and a guest wireless network are available.
+
+CSCSLC’s Internet connection is provided by Comcast – Business Internet Bundle 300 MB download with
+5 static IPs, 1 voice line, and basic cable tv. A VOIP phone system is in use. CSCSLC is currently exploring
+the addition of an AT&T circuit for load balancing & service redundancy when Comcast is down.
+
+CSCSLC currently contracts with two managed service providers. At Treasure Coast IT Solutions, TCIT,
+Joseph Jones serves as the primary IT services quarterback, providing proactive system monitoring and
+making recommendations for system improvements. At CareerSource Research Coast, Martin Rivera
+provides IT support and services for short-term projects under TCIT Solutions direction.
+
+
+
+
+                                                      Children’s Services Council of St. Lucie County | 9
+Stakeholder Information
+
+All 11 CSCSLC staff members will utilize the new core-system applications defined by their roles within
+the different departments:
+
+    •   Accounting/Finance (includes Human Resources)
+    •   Programs
+    •   Outreach/Engagement
+    •   Office Management
+
+All external agencies that apply for funding through CSCSLC are expected to use the new core-system
+applications, particularly those applications maintained for the sake of information exchange via an
+established agency “portal”. Currently, there are approximately 55 agencies that apply for funding each
+year. Out of those applicants, approximately 40 agencies receive funding. The number of agencies
+applying for funding increases by 5-7 each year.
+
+Agencies request funding for the services offered to the community, which are referred to as
+“programs”. Of the approximately 40 agencies that receive funding each year, there are approximately
+48-50 programs that are funded. Most times, an agency will run a single program. There are agencies
+that run multiple programs. There are a few programs that are managed by multiple agencies; in these
+instances, CSCLSC will provide funding to a designated primary agency.
+
+As mandated by Florida Statute and County Ordinance, CSCSLC is governed by a Council of appointed
+officials. The Council is made up of 10 members. These members are expected to use the new core-system
+solutions, particularly those solutions utilized to exchange information via the established and maintained
+agency “portal”.
+
+
+
+
+                                                     Children’s Services Council of St. Lucie County | 10
+Project Team
+For the project that results from the awarded contract or contracts, all CSCSLC staff members will be
+involved in some capacity, but some more than others. CSCSLC will engage with an independent
+consultant who will act as a project manager in cooperation with the vendor/vendors project managers.
+The names of the project team members are listed below:
+
+
+
+
+               NAME          BUSINESS TITLE, ORGANIZATION                    PROJECT ROLE
+
+           Boyle, Sean       Executive Director, CSCSLC                      Project Sponsor
+
+         Jefferson, Thomas   Director of Finance & HR, CSCSLC                Project Lead
+
+            Hokaj, Larry     Independent Consultant                          Project Manager
+
+            Dwyer, Jim       Director of Programming, CSCSLC                 Programs Dept Lead
+
+           Mock, Ashley      Director of Community Engagement, CSCSLC        Subject Matter Expert
+
+        Andreacchio, Tonya   Capacity Building Coordinator, CSCSLC           Subject Matter Expert
+
+            Mack, Sandy      Program Specialist, CSCSLC                      Subject Matter Expert
+
+            Elviro, Jessy    Fiscal Specialist, CSCSLC                       Subject Matter Expert
+
+          O’Connell, Xerox   Fiscal & HR Specialist, CSCSLC                  Subject Matter Expert
+
+            Cesar, John      Community Engagement Coordinator, CSCSLC        Subject Matter Expert
+
+           Rivera, Paula     Office Manager, CSCSLC                          Subject Matter Expert
+
+            Torres, Dee      Administrative Assistant, CSCSLC                Subject Matter Expert
+
+                 --          --                                              --
+
+
+
+CSCSLC Council
+For the proposed solution evaluation and the contract award, no steering committee will participate.
+However, the CSCSLC project lead will be responsible for reporting progress on a monthly basis to the
+CSCSLC Council. Council members need “view” access to agency funding requests, board packets, and
+other documents as determined by the Executive Director. In addition, designated members of
+Council need access to the ERP solution for approving expenses.
+
+
+
+
+                                                      Children’s Services Council of St. Lucie County | 11
+Core Team
+The CSCSLC Core Team members will be the CSCSLC staff members who will be primarily engaged
+with the proposed solution providers and who will be formulating the solution recommendation. The
+Core Team will be made up of the following members:
+
+
+              NAME            BUSINESS TITLE, ORGANIZATION                 PROJECT ROLE
+
+          Boyle, Sean         Executive Director, CSCSLC                   Project Sponsor
+
+        Jefferson, Thomas     Director of Finance & HR, CSCSLC             Project Lead
+
+           Dwyer, Jim         Director of Programming, CSCSLC              Programs Dept Lead
+
+        Andreacchio, Tonya    Capacity Building Coordinator, CSCSLC        Subject Matter Expert
+
+          Mock, Ashley        Director of Community Engagement, CSCSLC     Subject Matter Expert
+
+                --            --                                           --
+
+
+
+Extended Core Team
+The remaining CSCSLC staff members will be part of the extended core team who will assist in
+formulating a recommendation. The Extended Core Team is made up of the following members:
+
+
+             NAME            BUSINESS TITLE, ORGANIZATION                  PROJECT ROLE
+
+          Mack, Sandy        Program Specialist, CSCSLC                    Subject Matter Expert
+
+          Elviro, Jessy      Fiscal & HR Specialist, CSCSLC                Subject Matter Expert
+
+        O’Connell, Xerox     Fiscal & HR Specialist, CSCSLC                Subject Matter Expert
+
+           Cesar, John       Community Engagement Coordinator, CSCSLC      Subject Matter Expert
+
+          Rivera, Paula      Office Manager, CSCSLC                        Subject Matter Expert
+
+           Torres, Dee       Administrative Assistant, CSCSLC              Subject Matter Expert
+
+               --            --                                            --
+
+
+
+
+                                                      Children’s Services Council of St. Lucie County | 12
+RFP Evaluation/Decision Team
+The CSCSLC staff members who are responsible for the final contact award recommendation to the
+board include:
+
+
+
+              NAME           BUSINESS TITLE, ORGANIZATION              PROJECT ROLE
+
+          Boyle, Sean        Executive Director, CSCSLC                Project Sponsor
+
+         Jefferson, Thomas   Director of Finance & HR, CSCSLC          Project Lead
+
+            Dwyer, Jim       Director of Programming, CSCSLC           Programs Dept Lead
+
+                --           --                                        --
+
+
+
+
+                                                  Children’s Services Council of St. Lucie County | 13
+Section 03 – Proposed Solution and Preliminary Requirements
+
+This section provides an overview of CSCSLC’s vision for a comprehensive solution and an overview of
+the solution requirements that have been explored by the CSCSLC project team.
+
+    •   Description of technology direction, envisioned application solutions
+    •   Description of “full scope” and “partial scope” solutions
+    •   Vision for eventual technology environment
+    •   Requirements: reference appendix and frame CSCSLC requirements gathering process
+    •   Described desired vendor requirements gathering
+    •   Reference Appendix A, Future State IS Map
+
+Describing CSCSLC’s Approach
+
+Anticipating and encouraging a formal requirements gathering process, CSCLSC has completed early
+work in identifying and documenting solution requirements. It is important to note that the resulting
+requirements list, included in Appendix B, is not exhaustive. Rather, it’s an early-compiled list to
+facilitate a more complete requirements conversation during the RFP process.
+
+The CSCSLC Core Team has worked to understand how future enterprise application solution(s) might
+be architected. Many ideas about an ideal enterprise application environment were discussed.
+
+To organize these ideas and align early efforts with the yet-to-be understood methodologies of the
+chosen vendor or vendors, the team assumed the following solution development phases:
+
+    •   Discovery – preliminary analysis of the problem, identification of the opportunities, and
+        documenting project objectives.
+
+    •   Requirements Gathering – collecting system conditions and capabilities needed by CSCSLC
+        stakeholders to solve problems or create a more efficient workflow.
+
+    •   Design – draft architecture of the future enterprise application solution so that details about
+        desired features and operations can be described in detail.
+
+    •   Development –production of the environment that will eventually serve as the final enterprise
+        application solution.
+
+    •   Testing/Evaluation –stakeholders assess the quality and functionality of the proposed solution.
+
+    •   Training –CSCSLC stakeholders instructed on the proper utilization of the solution.
+
+    •   Rollout/Go Live – the successful completion of the solution implementation and integration.
+
+
+
+
+                                                     Children’s Services Council of St. Lucie County | 14
+In developing the Request for Proposal (RFP) document, the CSCSLC Core Team made a conscious effort
+to concentrate output for both Discovery and Requirements Gathering, while occasionally structuring
+ideas and concepts for a potential integration design phase.
+
+
+Technology Direction
+
+CSCSLC intends on investing in enterprise application solutions and technology systems which allow for
+interconnectivity of the data sets and the “systems of record”. The organization leadership wants to
+better utilize technology to serve all stakeholders by means of secure accessibility, accurate and
+streamlined data sets, efficient reporting, and streamlined processes.
+
+
+Proposed Solutions and Partial Scope
+
+CSCSLC expects that any one vendor-proposed solution may only address a portion the scope of the
+comprehensive enterprise application solution. The RFP Evaluation/Decision Team is prepared to
+engage and contract with multiple vendors for the sake of building a comprehensive solution.
+
+Should any one vendor-proposed solution address a portion of the scope, the vendor should be prepared
+to present its ability to integrate the proposed solution with other solutions which fill the solution gap.
+
+
+Envisioned Enterprise Application Environment
+
+CSCSLC expects that a long-term enterprise application environment will be established after the
+contract award and the pursuant application implementation.
+
+In Appendix A “IS Map”, CSCSLC has provided a possible future-state information systems map that
+details the envisioned enterprise application environment. Central on the map is what CSCSLC considers
+to be “core systems” that will provide core functionality for the business that CSCSLC conducts. It is
+those core systems that are in scope for this current RFP and contract award process.
+
+On the sides of the map are what CSCSLC considers to be “secondary systems”, those system that
+provide important functionality for the business that CSCSLC conducts but may not necessarily be in
+scope for this current RFP and contract award process. However, consideration for inclusion will be
+given to those secondary systems as the core systems are being evaluated and selected.
+
+
+Preliminary Requirements
+
+For the sake of eliciting accurate cost estimates, CSCSLC staff explored the organization’s enterprise
+application needs. This early exploration resulted in the development of a preliminary requirements list,
+included in this RFP in Appendix B “Preliminary Requirements”.
+
+
+
+
+                                                     Children’s Services Council of St. Lucie County | 15
+The requirements gathering process executed by CSCSLC and the resulting requirements should be
+considered as preliminary and not complete. CSCSLC expects contract-awarded vendors to complete a
+comprehensive requirements gathering process pursuant to their standard process.
+
+
+Expected Scope of Services
+
+CSCSLC expects the scope of services to include systems architecture services, requirements gathering
+services, project planning services, project management services, training services, quality assurance
+services, cutover support, post go-live support, and ongoing support services.
+
+
+
+
+                                                    Children’s Services Council of St. Lucie County | 16
+Section 04 - Proposal Guidelines
+
+The proposal guidelines are intended to provide a basis for evaluating each respondent on an equivalent
+basis.
+
+A vendor submitting a response to this RFP agrees to all proposal guidelines contained herein. All
+materials submitted in response to the RFP shall become the property of CSCSLC.
+
+This section is provided as guidance to vendors in submitting their proposals. CSCSLC reserves the right
+to amend the process as appropriate to most effectively manage the acquisition process. The proposal
+guidelines are presented below.
+
+
+Schedule of Activities
+
+The following planned schedule for the selection process leads into CSCSLC’s procurement and
+budgeting schedules. CSCSLC is asking vendors to review the entire schedule and make every effort
+possible to comply with the scheduled dates.
+
+All things being equal, preference will be given to vendors who are able to deliver on the dates listed
+below. Information will be received and evaluated according to the following tentative schedule:
+
+            ACTIVITY                                                     DATE(S)
+
+       1.   Distribution of RFP                                        Feb 4-21, 2020
+       2.   Vendor notice of Intent to Respond                        by Feb 28, 2020
+       3.   Deadline to receive written questions                     by Feb 28, 2020
+       4.   Final distribution of question responses                    Mar 6, 2020
+       5.   Vendor visits and demonstrations                  Mar 9, 2020 through Apr 24, 2020
+       6.   Proposals due                                               May 1, 2020
+       7.   Vendor reference/client visits                            by May 29, 2020
+       8.   Final vendor or vendors selected                            July 1, 2020
+       9.   Contract execution                                        by Oct 15, 2020
+
+
+Notice of Intent to Respond
+
+The vendor is required to provide a “Notice of Intent to Respond,” to be received no later than Friday,
+February 28, 2020. The “Notice of Intent to Respond” must be submitted through e-mail to both
+tjefferson@cscslc.org and sboyle@cscslc.org.
+
+
+
+
+                                                       Children’s Services Council of St. Lucie County | 17
+Submission of Proposal
+
+The vendor proposal must be received at the address below no later than May 1, 2020 at 4:00 p.m. EST.
+
+Vendors should allow normal mail delivery time to ensure timely delivery of the proposals.
+
+The vendor must submit one electronic copy of the full proposal via e-mail to both tjefferson@cscslc.org
+and sboyle@cscslc.org, and one hard copy of the full proposal via mail to:
+
+        Children’s Services Council of St. Lucie County
+        546 NW University Boulevard, Suite 201
+        Port St. Lucie, FL 34986
+        Attn: Thomas Jefferson
+
+The hard copy should contain an official ink signature and be marked “Original.” The proposal shall be
+clearly marked on the outside of the transmittal package with the following information:
+
+Vendor Name
+Software Name/Version
+CSCSLC
+Response to Request for Proposal for Enterprise Applications
+
+
+Multiple Proposals
+
+Should a vendor identify the opportunity to outline different strategies through the utilization of a
+combination of different solutions, or should a vendor wish to offer multiple solutions with different
+scopes, multiple proposals from the same vendor will be accepted.
+
+
+Requests for Clarification
+
+Questions and other requests for clarification concerning this RFP should be submitted via e-mail and
+must be received no later than February 28, 2020. Questions should be directed to tjefferson@cscslc.org.
+
+If a vendor prefers to discuss questions via a conference call or web meeting session, the request for the
+conference call or web meeting session should be directed to tjefferson@cscslc.org and must be received
+no later than February 28, 2020.
+
+
+Proposal Cost
+
+All costs incurred in the preparation and presentation of the proposal shall be absorbed by the party
+responding to this Request for Proposal. Requests for specific material to be returned will be considered.
+Any confidential material submitted must be clearly marked as “Confidential.”
+
+
+
+                                                     Children’s Services Council of St. Lucie County | 18
+Withdrawal of Proposal
+
+Proposals may be withdrawn before and after the proposal submittal deadline by submitting a written
+request to tjefferson@cscslc.org. Resubmittal before the proposal submittal deadline can be made;
+however, nothing may be resubmitted after the deadline.
+
+
+References
+
+CSCSLC intends to contact references for leading candidates. The vendor should provide at least three
+comparable customer references that are similar in nature to CSCSLC in terms of proposed hardware,
+operating system, database platform, user count, services, and project size. References are expected to
+have working environments comparable to CSCSLC’s environment (enterprise application solution, user
+count, services, project size, organization size, project complexity, etc.).
+
+Prior to the final vendor selection, CSCSLC may request an on-site review of a referenced implemented
+solution. References, businesses, and other users may be contacted for additional verbal communication
+or written information, and possibly for on-site visits.
+
+
+
+
+Written Contracts
+
+CSCSLC and the selected vendor or vendors shall negotiate both a software license and service and
+support contracts. Nothing shall be binding on either party until the contract is in writing and signed by
+both parties, except that the vendor is obligated to keep its proposal in effect for a minimum of 180 days
+from the proposal’s due date.
+
+The award vendor or vendors will be required to assume responsibility for delivery and implementation
+of the system as defined in the contract. The vendor may also be required to demonstrate that it holds all
+licenses, permits, and authorizations necessary to provide all proposed products and services. If new or
+improved versions of products are released at any time prior to the implementation of the products,
+CSCSLC may negotiate for those products at a comparable price.
+
+The vendor’s proposal and submitted materials, implementation plan and schedule, and recommended
+hardware specifications, along with this original RFP, shall become part of any contract negotiated with
+the successful vendor.
+
+It should be noted that CSCSLC will not pay or reimburse any vendor for any costs incurred by the
+vendor prior to the signing of the software license and the service and support contracts.
+
+
+
+
+                                                     Children’s Services Council of St. Lucie County | 19
+Solution Demonstrations
+
+CSCSLC estimates a minimum of three vendors will be selected to provide demonstrations. The finalists
+will be contacted by CSCSLC to schedule individual demonstrations. Each demonstration will take place
+at CSCSLC’s facility in Port St. Lucie, FL.
+
+Prior to the demonstrations, finalists will be provided a suggested demonstration script. Vendor
+representatives possessing expert knowledge of the product functionality and implementation services
+are expected to conduct the demonstration.
+
+To conduct a comprehensive demonstration of all solution functionality, CSCSLC anticipates dedicating
+one full business day for each software vendor demonstration. The software demonstration will include
+the participation of CSCSLC’s Core Team and Extended Core Team who will be responsible for evaluating
+the systems capabilities across the appropriate functional areas.
+
+Vendors invited to provide software demonstrations will be provided an overall schedule in addition to
+suggested demonstration scripts that describe the functionality under review. Some adjustments may
+occur during the demonstrations to accommodate discussions and questions. CSCSLC will schedule
+process owners to come and go during the demonstrations according to the subject matter.
+
+
+
+
+Experience and Qualifications
+
+Any information provided to CSCSLC regarding vendor experience and qualifications will be taken into
+consideration during the bid review process. This information can include:
+
+  • A brief description and history of the partner organization.
+  • Copies of business licenses, professional certifications or any other relevant credentials.
+  • A general description of similar accounts serviced by the vendor.
+  • Qualifications, background and experience of any project director and/or other vendor staff who
+    might be assigned to maintain service on the CSCSLC account.
+  • References with contact information from organizations that have used the vendor for similar
+    services within the last 12-18 months.
+  • A general description of the techniques, approaches and methods to be used in completing the
+    software development life cycle (SDLC).
+  • Project management methods.
+
+
+
+
+                                                     Children’s Services Council of St. Lucie County | 20
+Contract Terms
+
+CSCSLC will negotiate contract terms upon selection, and in the process the organization staff may
+access legal counsel. An agreement will be awarded upon signing of a Service Level Agreement (SLA),
+Scope of Work (SOW) statement, or contract, which should outline terms, scope, service inclusions, and
+expected expenses.
+
+A confidentiality clause should be included within the contract or a separate confidentiality agreement
+should be included for execution by both parties.
+
+Your organization’s position on intellectual property rights should be included within the contract or a
+separate intellectual property rights statement should be included for execution by both parties.
+
+
+
+
+Liabilities of CSCSLC
+
+This RFP is only an invitation for proposal and no contractual obligation on behalf of CSCSLC whatsoever
+shall arise from the RFP process unless and until a formal contract is signed between CSCSLC and the
+vendor.
+
+This RFP does not commit CSCSLC to pay any cost incurred in the preparation or submission of any
+proposal or to procure or contract for any services.
+
+CSCSLC reserves the right to accept or reject any and all proposals, to revise the RFP, to request one or
+more re-submissions or clarification from one or more vendors or to cancel the process in part or whole.
+No vendor is obligated to respond to or to continue to respond to the RFP after the submission and
+closing date.
+
+CSCSLC will, at its discretion, award the contract to the responsible vendor submitting the best proposal
+that complies with the RFP. CSCSLC may, at its sole discretion, reject any or all proposals received or
+waive minor defects, irregularities, or informalities therein.
+
+
+
+
+                                                     Children’s Services Council of St. Lucie County | 21
+Section 06 - Proposal Format
+
+Proposal Content
+
+The proposal should be presented in a clear, comprehensive, and concise manner. Any exceptions to a
+requirement or an item in the solicitation must be clearly set out and fully explained in the submittal. Be
+specific as to the reasons for exceptions.
+
+A corporate official, owner, or person who has been authorized to commit the vendor and negotiate a
+contract with CSCSLC must sign the proposal. The proposal should include a comprehensive description
+of the company, including years in business, locations, staffing levels, and years of experience
+implementing the proposed solution.
+
+The proposal should identify the specific members of the project team to be assigned, describe the
+expertise of individual members, define the team structure, outline prior relevant experience, and
+present the way the project is to be managed.
+
+The proposal should include descriptions of the methodologies planned to be utilized, specifically as it
+relates to project management, requirements gathering, training, data migration, and post “go live”
+customer support.
+
+The proposal should include a description of the training materials, the self-help resources, and the
+support agreement that will be available to CSCSLC both during the implementation and after the “go
+live” is successfully completed.
+
+The proposal should include cost proposals in a standard format. This includes costs for application
+software, implementation and related services, training, other costs, and annual maintenance. Vendors
+should also provide estimated costs for migrating data up to the last five years. The cost section should
+include the number of solution user licenses included to generate the estimates and specify the user
+type (concurrent, named, etc.) and permission level (view only, admin, standard, etc.).
+
+Additional technical information may be required to support the proposal submitted by vendors. The
+vendor will be contacted if such information becomes necessary.
+
+
+
+
+                                                     Children’s Services Council of St. Lucie County | 22
+Evaluations
+
+The following categories and evaluation criteria will be considered during scoring:
+
+     • Vendor Profile: Organization structure, business philosophy, revenues, profitability,
+       government project experience, expertise, location, response time, presentation,
+       communication, implementation process, service, support, training, stability, and references.
+     • Software Applications: Meeting specifications, integration, flexibility, ease of use, and
+       preliminary requirements included in this RFP.
+     • Technology Platform: Use of industry standards, operating platforms, servers, workstations,
+       database architecture, communication protocols, integration capabilities, growth, and
+       expandability.
+     • Implementation Services: Propose a team that is experienced with the product, the industry,
+       similarly-sized and operated organizations, history of on-time and on-budget implementations,
+       and responsiveness to client requirements.
+     • Training Services: Propose a team that is experienced with training unsophisticated users
+       regarding the product and its functionality to maximize training investment, and has a history of
+       responsiveness to client questions and requests.
+     • Cost: Hardware components, software applications, implementation consultation, data
+       conversion, customization, support, training, other costs, and annual maintenance.
+     • Proposal Format: Adherence to proposal guidelines and requirements.
+
+CSCSLC reserves the right to reject any and all responses received as a result of this RFP, or to negotiate
+separately with any source whatsoever in any manner.
+
+CSCSLC’s objective is to choose reliable and experienced vendors capable of providing an effective
+solution within a reasonable budget and time frame. The same criteria will be used to evaluate the new
+information provided by the finalists after demonstrations are completed.
+
+Multiple vendors may be selected. CSCSLC will work with the finalists to negotiate a purchase and
+support contract
+
+
+
+
+                                                      Children’s Services Council of St. Lucie County | 23
+Appendix A – IS Map
+
+
+
+
+                      Children’s Services Council of St. Lucie County | 24
+Appendix B – Preliminary Requirements
+
+
+
+
+       FEATURES LIST
+                                                                             AVAILABLE          VIA             VIA
+                                                                            OUT-OF-BOX?   CONFIGURATION?   CUSTOMIZATION?
+
+                                                                              YES/NO          YES/NO          YES/NO
+
+TECHNICAL
+  Allow reports to be produced in multiple formats (e.g., Excel and PDF).
+
+  Provide integration and import/export to Microsoft Office products.
+
+  Provide integration with document management systems. Scan and
+  attach documents, scanned images and MS Office files to records
+  throughout all modules.
+  Provide robust user interface for managing transaction and master file
+  imports and exports in multiple file formats.
+  Support report distribution (ideally web-based) without incurring
+  additional license fees, including access security.
+  Able to schedule reports to run at pre-defined time of the day.
+
+  Support e-mailing scheduled reports or links to the previously run
+  reports.
+  Provide secure remote accessibility via the Internet, VPN, Citrix, etc.
+
+  Require strong passwords to be set at a minimum length and
+  complexity.
+  Provide a full transactional audit trail.
+
+  Provide an interface for loading and extracting data to and from other
+  systems (e.g., using ODBC, API calls, web services, etc.).
+  Able to be hosted by a third party.
+
+  Leverage Active Directory for user authentication.
+
+  Support automatic forced password expiration and changes to user
+  passwords at specific time intervals (e.g., 90-day expirations).
+  Support multiple system instances/environments (e.g., test, QA, and
+  production).
+  Provide automated system archiving, purging, and backups.
+
+  --                                                                            --              --               --
+
+
+GENERAL FUNCTIONALITY
+  Provide robust online documentation and user manuals.
+
+  Provide complete drill-down and drill-across capabilities between the
+  modules and transactions in the system (e.g., G/L to A/P).
+  Provide role-based security by major function (role) (e.g., segregation
+  of PO entry and check printing, A/P user cannot perform G/L
+  transactions, etc.).
+  Visibility to workflow status and approval queue
+  Support user-defined fields throughout the system and aid in
+  customized functionality and reporting.
+  Retain file attachments and source documents in electronic format
+  (e.g., attach photos of damaged goods attributed to a sales order).
+  Provide robust and configurable dashboards that display interactive
+  content.
+  Provide basic Business Intelligence (BI) and analytics capabilities.
+
+  Facilitate data entry (e.g., field auto-completion, drop-down lists, etc.).
+
+  Intuitive navigation for end users (e.g., desktop shortcuts).
+
+  Provide a customer portal.
+
+  Non-proprietary open reporting tools. List tools offered that are
+  integrated with the system.
+  User-level query and reporting tools that allow for formatting of data,
+  headers, graphs, charts, etc.
+  User-level security flows through to queries and reports.
+
+  Drill down to source transactions within queries or reports following
+  user-security rules.
+  Schedule generation of reports and distribute via e-mail, to a shared
+  folder or dashboard.
+  Generate reports in multiple formats, e.g. HTML, PDF, Excel, Word, etc.
+
+  Provide a robust report writer.
+
+  --                                                                              --               --               --
+
+
+FINANCE
+General
+  Provide for logical account grouping and cost centers.
+
+  Support a chart of accounts (COA) of at least five segments of variable
+  length.
+  Support a minimum of 14 accounting periods or alternate process to
+  differentiate closing or audit adjustments.
+  Provide an account alias or shortcut to facilitate data entry of the GL
+  string.
+  Support statistical accounts (e.g., "dimensions," "non-financial data").
+
+  Support use of statistical fields in subsidiary ledgers, and the ability to
+  report on them (e.g., payroll class, # of hours worked, OT hours,
+  inventory number of units purchased).
+  Budget vs. Actual queries or reports with drill down to source data.
+
+  CAFR reporting tool with ability to produce separate CAFR’s by
+  Department (County, Schools, etc.).
+  --                                                                              --               --               --
+
+
+
+                                                             Children’s Services Council of St. Lucie County | 26
+GL Journal Entries and Posting
+   Support user-defined journal entry templates (e.g., standardized entry
+   to consistently record month-end closing entries).
+   Supports multiple journal entry types including regular, reversing,
+   recurring, allocating, budget adjustments, system import or Excel
+   upload
+   Able to review subsidiary ledger journal entries and related source
+   transactions prior to posting.
+   Support the ability to open multiple GL accounting periods
+   simultaneously with proper internal controls.
+   Allow closed periods to be reopened based on restricted security
+   rights.
+   Support file attachments for journal entries.
+
+   Provide GL posting controls that will prevent journal posting to
+   specific accounts.
+   Support a variety of cost allocation rules (e.g., other allocations,
+   indirect cost rules, direct cost rules).
+   Maintain audit trail that includes user ID, date, and actions such as
+   read, change, delete, write. The audit trail should include before and
+   after values.
+   Allow posting to a future period.
+
+   Provide annual closing processes that carry forward general ledger
+   account balances and project data to the next fiscal year.
+   Support automatic reversal of transactions.
+
+   --                                                                              --               --               --
+
+Treasury/Bank Reconciliation
+   Import the bank records and clear the matched transactions.
+
+   Provide bank reconciliation reports - ideally with option to report by
+   legal entity or by segment.
+   Provide an efficient method of managing multiple bank accounts.
+
+   Integrate with A/P to map cash disbursements to bank reconciliation.
+
+   Integrate with A/R to map cash receipts to bank reconciliation.
+
+   --                                                                              --               --               --
+
+
+Financial Reporting
+   Generate standard financial reports in various groupings
+   (consolidated, legal entity, location, and user-defined groupings)
+   including:
+     • Balance sheet
+
+        • Income statement
+
+        • Cash flow statement
+
+        • Trial balance
+
+
+                                                              Children’s Services Council of St. Lucie County | 27
+        • Profit and loss by product line and other item attributes.
+
+   Generate comparative financial statements based on user-defined
+   criteria (e.g., this period vs. last period, this year/period vs. last
+   year/period, etc.).
+   Report across calendar and fiscal years.
+
+   --                                                                                --               --               --
+
+Project Accounting
+   Cap Ex - Projects can span fiscal years.
+
+   Projects can be updated by sub ledger or GL transactions.
+
+   Provide reports that show transaction detail, project expenses,
+   profitability, ROI, NPV, etc.
+   Compare budgeted amounts to actual.
+
+   Support for statistical (non-financial) accounts.
+
+   --                                                                                --               --               --
+
+
+ACCOUNTS PAYABLE
+Vendor Maintenance
+   Support 1099 forms.
+
+   Support multiple transaction search criteria (vendor name, phone
+   number, date of payment, payment amount, etc.).
+   Able to map vendors to specific GL accounts.
+
+   Support multiple contact information and pay-to addresses for a
+   vendor.
+   Able to create vendor groups (classifications).
+
+   Able to track vendor performances.
+
+   --                                                                                --               --               --
+
+
+Invoice Processing
+   Allow for EDI, OCR Scanning, or other electronic invoicing methods.
+
+   Provide 2- and 3-way matching of P/Os, invoices, and receiving
+   records.
+   Decentralized invoice scanning and processing, route for review,
+   approval and account coding with submittal to AP for check
+   generation and distribution.
+   Import and process Credit Card transactions; post transactions to
+   payee vendor. Transactions downloaded from Credit Card Merchant;
+   ability to import from Excel.
+   Hold completed invoices until released for payment.
+
+
+
+                                                                Children’s Services Council of St. Lucie County | 28
+   Options for release of payment: automated or manual match to
+   receiving report, payment terms, or other criteria defined by
+   management.
+   Support credits and discounts.
+
+   Code multiple account distributions on a single invoice.
+
+   Support user-defined payment term codes such as Net 20, 2/10 Net
+   30, etc.
+   Provide real-time detail of invoices by vendor.
+
+   Provide real-time summary of invoices by vendor.
+
+   Provide real-time detail of invoices by purchase order.
+
+   Reporting/real-time inquiry of open invoices.
+
+   Reporting/real-time inquiry of cash disbursements.
+
+   --                                                                              --               --               --
+
+
+Check Generation
+   Provide check generation as a batch.
+
+   Support wire transfers, EFT, and non-check payments.
+
+   Support recurring payments and auto pay, with automatic approval
+   after the initial review and flexible definition of payment frequency.
+   Reporting/online inquiry of check register, including checks issued
+   and checks voided.
+   Support creating pro forma check register.
+
+   Able to create and pay invoice without a Purchase Order.
+
+   --                                                                              --               --               --
+
+
+A/P Processing Capabilities
+   Able to attach images and documents to invoices (one-to-one and one-
+   to-many), and provide access to file attachments.
+   Support capturing remittance advice for electronic payments.
+
+   Distribute invoice to multiple General Ledger accounts by percentage,
+   etc.
+   Flag invoice or invoice line item as a Fixed Asset with a means to set
+   up electronic Fixed Asset record.
+   Multiple forms of payment; check, ACH, EFT, etc.
+
+   Positive Pay management.
+
+
+
+
+                                                              Children’s Services Council of St. Lucie County | 29
+   Import electronic bank files and perform electronic bank
+   reconciliation, including checks, deposits, wires, etc. Generate
+   resulting Journal Entries.
+   1099 tracking to Vendor, and Invoice, line- item level.
+
+   Produce 1099 forms and print directly from software.
+
+   Electronic reporting of 1099s.
+
+   Employee expense management tools.
+
+   Generate recurring payables templates with ability to modify amount.
+
+   Provide validation rules (e.g., reference to Repair & Maintenance >
+   $500 alerts that the transaction should go to Fixed Assets or vice
+   versa).
+   Able to close A/P while G/L remains open (e.g., at month's end).
+
+   Provide robust reporting (e.g., invoices received but not matched,
+   number of invoices processed, time to voucher invoices, days of AP
+   outstanding, discounts taken, etc.).
+   Use purchase orders and invoice information to determine future cash
+   requirements (amount and date of future expenditures).
+   --                                                                             --               --               --
+
+
+ACCOUNTS RECEIVABLE
+Customer Master
+   Able to create user-defined payment terms for customer.
+
+   Able to classify customers into categories or groups.
+
+   Able to store multiple contact information (e.g., name, address, phone
+   number, e-mail, etc.) for a customer.
+   Assign sales managers and collections managers to customer accounts.
+
+   --                                                                             --               --               --
+
+
+A/R Processing Capabilities
+   Support monthly recurring invoices.
+
+   Support one-time invoices.
+
+   Manage initiation and tracking of credit memos.
+
+   Provide ability to age receivables by location, product line, customer
+   and date sort by customer.
+   Able to create reason codes for AR write-off transactions.
+
+   Support wire transfers.
+
+
+
+
+                                                             Children’s Services Council of St. Lucie County | 30
+  Support e-mailing invoices to customers.
+
+  Able to calculate invoice due date based on customer's payment terms
+  and tie to outstanding aging.
+  Able to create customized customer invoices.
+
+  Support posting of debit and credit memos to expenditure accounts.
+
+  Post partial payments against any unpaid invoice.
+
+  Support write-off of entire invoices or specific line items.
+
+  --                                                                               --               --               --
+
+
+Reporting
+  Customer payment history.
+
+  Produce customer statements for defined date ranges.
+
+  Past due account balances.
+
+  Sales and payment history by customer.
+
+  Cash flow analysis.
+
+  --                                                                               --               --               --
+
+
+FIXED ASSETS
+Asset Record
+  Assign asset class in the asset master.
+
+  Able to assign location to the asset.
+
+  Able to attach electronic images (e.g., invoice scans, etc.).
+
+  Able to use barcoding and other electronic means of tracking.
+
+  Able to set capitalization policy limits (e.g., prevent items below
+  specified threshold from being capitalized).
+  Facilitate asset record initiation from project accounting.
+
+  Able to capture lease end date or end-of-life date for an asset.
+
+  Asset master record that supports following attributes: ID Number,
+  Type (Land, Vehicles, etc.), Category and Sub-Category, Manufacturer,
+  Model, Serial Number, VIN, License Number, Dates: Purchase and
+  Disposal, Life and Depreciation Method, Parent/Child, Location,
+  Department, Responsible Person, Affiliate (for transferred assets to
+  external group), Status, Purchase Order, Project Number, Grant
+  Number, Invoice Number, Description, Purchase Price, Attach
+  Documents, User defined fields
+
+                                                              Children’s Services Council of St. Lucie County | 31
+  --                                                                              --               --               --
+
+
+Depreciation
+  Support multiple depreciation schedules and conventions (mid-month,
+  year, tax, life of lease etc.).
+  Able to set depreciable life for new assets based on asset class (e.g.,
+  heavy equipment 12 years).
+  Auto generate and post monthly depreciation JEs.
+
+  Able to run depreciation reasonableness tests.
+
+  Provide flexibility in closing of periods.
+
+  Forecast depreciation for multiple years.
+
+  Reports: Depreciation reasonableness, future depreciation for
+  budgeting/forecasting.
+  --                                                                              --               --               --
+
+
+Other
+  Integrates with the ERP system's AP and GL (either as an integrated
+  module or a separate bolt-on).
+  Able to support physical inventory counts on fixed assets (print count
+  sheets etc.).
+  Provide workflows for asset disposals, with electronic routing of
+  review and approval for disposal.
+  Provide Construction-In-Progress functionality:
+  • Accumulate CIP costs in detail before the asset is put into service
+  (including drill-down to attached invoices and other documentation)
+  • Accept cost updates from AP and from GL allocations
+  • Transfer completed asset to Asset Master
+
+  Flexible search and reporting capability (vendor, asset class, invoice,
+  bar code etc.).
+  --                                                                              --               --               --
+
+
+BUDGETING
+  Identify if Budget module proposed is within ERP suite or an
+  integrated 3rd party solution.
+  Pull in data from Payroll module to generate personnel Budget.
+
+  Position Control Budgeting: salaries, COLA increase percent, grades
+  and step increases, benefits, etc.
+  Excel-based Budget Management, e.g. export and import Budget
+  worksheets, Budget adjustments, route for approval, etc.
+  Online Budget worksheet distributed to Departments for entry.
+
+  Capture budget line-item assumptions, attach supporting
+  documentation
+  What-if budget modeling, e.g. changes in positions, pay, benefits,
+  increasing a tax rate, etc.
+
+
+                                                             Children’s Services Council of St. Lucie County | 32
+  Multiple budget iterations per year with version control
+
+  Annual budget projections of revenues and expenses by percentage,
+  dollar amount, and prior-year underspending based on yearly average.
+  --                                                                              --               --               --
+
+
+PROCUREMENT/PURCHASE ORDERS
+Vendor Management
+  Able to link vendor to one or more contracts.
+
+  Determine and record vendor performance.
+
+  Able to capture payment terms for each vendor.
+
+  Able to capture lead times for products at vendor level.
+
+  --                                                                              --               --               --
+
+
+Purchase Orders
+  Able to create a requisition and send for approval.
+
+  Automatically create a purchase order from a requisition when all
+  approvals have been obtained, defaulting as much information as
+  possible from the requisition.
+  Combine multiple requisitions to the same vendor into a single
+  purchase order.
+  Copy information from previous purchase order to obtain recurring
+  monthly or annual (from one fiscal year to another) purchase orders.
+  Prevent creation of purchases designated for non-approved vendors
+  (initiate approval process).
+  Combine orders into a blanket purchase order.
+
+  Provide "drill down" to view the related requisition, invoice, purchase
+  order, receipt documents, and general ledger account related to the
+  purchase order.
+  Able to apply credits (e.g., trade-ins, returns, and allowances) on a
+  line-item basis.
+  Route requisitions and purchase orders for review and approval.
+
+  Single vendor master for all integrated modules.
+
+  Online vendor registration portal with review and approval before
+  posting to vendor master file.
+   Vendor master file data: Vendor number, Legal name, doing business
+  as name, Business category, Parent/child, Tax ID, EIN, SSN,
+  Addresses - Physical, Remit To, Ship To, Mail, etc., Status - Active,
+  Inactive, On Hold, etc., Payment and discount terms, 1099 Status,
+  Insurance and bond data, Business or Contractor License Number, W 9
+  status, ACH information for vendor payments (secured),. User-defined
+  fields
+
+
+
+
+                                                             Children’s Services Council of St. Lucie County | 33
+ Support pre-encumbrance and encumbrance accounting.
+
+ Create a Purchase Order without a Requisition.
+
+ Budget verification at creation of Requisition and Purchase Order;
+ option to warn or block if over Budget.
+ Rules-based workflow routing for approval of Requisitions and
+ Purchase Orders based on dollar amount, General Ledger account,
+ Department, Object Code, etc.
+ Flag Purchase Order or line item as a Fixed Asset with electronic
+ method to set up a Fixed Asset record.
+ --                                                                            --               --               --
+
+
+PROJECT AND GRANT ACCOUNTING
+ Project Master File Data to include: Number, Name, Description, Type,
+ Funding Sources; one or multiple, Project Budget, Grant Number,
+ Related Contract Number , Location, Sub–Project, Phases, Tasks, Start
+ and End Dates, Status; Active, Inactive, etc., Project Manager, User
+ Defined Fields
+ Track expenditures against a Project or Grant; Purchase Order,
+ Invoice, Journal Entry, wages, etc.
+ Online query to display current status of a Grant; percent complete,
+ percent remaining, dollars spent, dollars remaining, etc.
+ --                                                                            --               --               --
+
+
+HUMAN RESOURCES
+ System checklist or workflow to manage Onboarding process, e.g.
+ notification to departments, issue new hire packet, collection of forms
+ I-9, W-4, initiate criminal background check, drug screen, orientation,
+ training, issued assets, attach signed agreements, etc.
+ Track forms issued to new hires with submitted and due date (e.g.
+ within 30 days).
+ Date-effective changes pay changes; dollar or percent.
+
+ Track Probation periods; start and end dates, issue reminders when
+ nearing review date, etc.
+ Maintain position history by position and employee, e.g. hire dates,
+ position changes, class changes, pay grade, title, etc.
+ Define salary schedules with positions, steps, grades, (min/mid/max).
+
+ Reporting and tracking to support the management of FMLA to
+ maximum allowed of 480 hours. Describe tools that help with
+ management and required notifications.
+ Monitor employees on Workman’s Comp disability leave.
+
+ Accrue vacation leave using variable rates based on years of service.
+
+ Accumulate vacation leave and carry over up to various maximums
+
+ Performance review management; track dates, resulting grade, pay
+ change, scan and attach review forms, etc.
+
+
+                                                          Children’s Services Council of St. Lucie County | 34
+ Track mandatory training and certifications required with renewal
+ dates; generate reminders when nearing due dates.
+ Workflow to manage separation process, e.g. notification to
+ Departments, Cobra letters, retirement benefit enrollment, pay-outs
+ (e.g. leave), exit interview, collect issued equipment, etc.
+ Functionality to support requirements of the Affordable Care Act;
+ track required hours and monthly data for Forms 1094-B and C, 1095-
+ B and C, and track hours worked for look back purposes.
+ Self-Service for staff and managers: leave balances, leave request
+ approvals, performance reviews, notifications, etc.
+ Employee Self-Service to include view and update after workflow
+ approval of: Leave balances, Request leave, Pay advice, W2, 1095,
+ Direct deposit, Contact information , Benefit elections, W 4 - modeling
+ and changes, Skill set tracking: training, certifications, CDL
+ Allow for the storage of policies and employee handbook online
+ accessible to employees
+ Retain history of changes made to employee record; pay, benefit
+ elections, transfers, etc.
+ --                                                                             --               --               --
+
+
+TIMEKEEPING AND PAYROLL
+ Electronic time card with ability to enter daily time, exception time,
+ etc., and the ability to utilize mobile device technology for transacting
+ Rules-based comp time accrual based on schedule and eligibility, e.g.
+ time and a half, hourly, etc.
+ Rules-based workflow approval routing of time entry to one or
+ multiple supervisors; with ability to override and correct, route back
+ to employee. Authorize using electronic signature.
+ Leave bank verification at time entry; visibility to leave balances.
+
+ Support flex time schedules based on employee group, e.g. 37.5 hour
+ work week.
+ Alert or report on missing time entry for employees in the system
+ before processing payroll.
+ Generate a report for part-time or temporary employee hours worked
+ to manage hour threshold for Affordable Care Act compliance.
+ Create unlimited pay codes that are rules-based including formulas,
+ fixed amounts and number of pay periods per month. For example: a.
+ Overtime by employee type; pay or comp time bank. c. Vacation Pay
+ Out: daily rate or # hours x hourly rate. d. Sick Leave Pay Out: $25/day
+ or # hours x hourly rate e. Sick Leave Pay Out for Retirees: 30 days at
+ 100% balance at 50%
+ Create unlimited deduction codes that are rules- based with formulas,
+ fixed amounts, number of pay periods per month, etc. Examples:
+ medical, dental, taxes, 457 plan contributions, Long Term disability,
+ garnishments, child support, etc.
+ Rules-based payroll deductions hierarchy e.g. tax liens 1st, then child
+ support, health benefits, retirement and taxes, etc.
+ Define rule to ensure employee receives guaranteed net pay amount,
+ e.g. after taxes, garnishments and other deductions. Carry forward
+ deductions until obligation is fully deducted.
+
+
+
+
+                                                           Children’s Services Council of St. Lucie County | 35
+ Apply change to pay by percent or dollar amount for a group of
+ employees by class, group, etc. and ability to exempt new hires or
+ specific staff. e.g. COLA increase, Review before updating employee
+ records.
+ Process retroactive pay adjustments and associated impacts on
+ contributions, deductions and reporting to benefit providers. Ability to
+ model pay check before posting is Nice to Have.
+ Exception reporting to review all records for changes since last
+ payroll, e.g. no pay, or other anomalies.
+ Calculate and process mid-period pay changes for active employees,
+ terminations, new hires, etc.
+ Calculate and process off cycle pay runs as required.
+
+ Generate pay advices and bank file for direct- deposit employees; post
+ pay advice to self-service dashboard.
+ Support multiple direct deposit accounts
+
+ Generate Positive Pay file.
+
+ Produce data for monthly, quarterly, and yearly tax forms and filings.
+
+ Produce Forms W-2 and print directly from software; make available
+ via self-service dashboard.
+ Electronic reporting to Social Security, IRS, State and Workers Comp,
+ and electronic check stubs
+ Ability to accommodate calendar and fiscal year rate change
+
+ Wage garnishment service
+
+ Migration of payroll information from Jan 2021 thru September 2021
+ (for a October 2021 go live)
+ Allow for the storage of scanned documents and images
+
+ Provide an audit log
+
+ Ability to enforce overtime rules
+
+ Configuration for FL retirement system (457b plan)
+
+ Mileage reimbursement and timekeeping
+
+ --                                                                             --               --               --
+
+
+CRM
+ Classify CRM stakeholder records into different categories, such as
+ "elected officials", "agency representative", "state government", etc.
+ Automate task assignment and schedule follow-ups for CSCSLC staff
+ members
+ Track "touch points" as transactional for the sake of reporting and
+ analysis.
+
+
+
+
+                                                           Children’s Services Council of St. Lucie County | 36
+Integrate with other CSCSLC enterprise applications used specifically
+for grants management and accounting.
+Ability to "departmentalize" contacts within a single organization.
+
+Allow for a single contact to be associated with multiple organizations
+
+Allow for agency contacts to be associated to one or more "programs"
+of an organization.
+Allow for the recording of a single contact's roles with multiple
+organizations. For example, John Smith works at ABC Bank but also
+supports The School for Arts.
+"Tag" conversation notes based on the conversation itself. Example,
+speaking with John Smith at ABC Bank about The School of Arts, tag
+conversation as relevant to both orgs
+Touch point classification that details method of contact, like phone, in
+person, text, etc.
+Integrated text messaging (SMS send and receive)
+
+Integrated task scheduling with MS Outlook, so that tasks and calendar
+entries can be managed on a single MS Outlook calendar.
+MS Hosted Exchange email integration for the purpose of auto-
+generation of "touch points" and integration of data, like emails and
+email attachments.
+Integration to email marketing for both distribution lists and touch
+points
+Ability to search touch point by person but also by project or event
+
+Mass distribution of event invitations and the recording of event
+attendance via RSVP functionality
+For CSCSLC programs team, the integration of site visit notes in both
+CRM and grants management solution.
+Possible integration/dashboard of outcomes data directly in both the
+grants management, CRM and ERP
+Possible integration of site review summaries for the sake of review by
+the board members. Board member instant access to site reviews.
+Social media integration, for times when CSCSLC references
+organizations or people in social media posts. Tracking these
+references in the CRM
+Integration of the status of "out of cycle" agency requests.
+
+Able to organize and manage multiple addresses per contact along
+with multiple contacts for each organization
+Able to attach documents and emails to a customer master record.
+
+Reporting/online inquiry for grants history and payment history.
+
+Able to create ad-hoc stakeholder analysis report.
+
+
+
+
+--                                                                            --               --               --
+
+
+
+
+                                                         Children’s Services Council of St. Lucie County | 37
+GRANTS MANAGEMENT
+Agency Portal
+  Ability to customize look and feel (branding) of Agency Portal
+
+  Agency representatives can self-register for username/password
+
+  Character limits within forms of applications
+
+  Agency representatives can reset forgotten password
+
+  CSCSLC can reset agency representative password
+
+  Agency can edit contacts/users/deactivate old users
+
+  System automatically checks EIN of agency when agency first
+  registers. (Tax Status Verification against IRS Publication 78 and IRS
+  Business Master File)
+  Ability to enforce business rules (periodic agency profile updates)
+
+  CSCSLC has ability to assign individualized permissions and
+  associations for CSC team members
+  Agency and CSCSLC has access to document repository, where
+  documents can be uploaded and “turned on” agency by agency
+  Visible to agency is a “countdown clock” that shows remaining time
+  available for an agency to submit a proposal (response to a CSCSLC
+  RFP).
+  “Countdown clock” should be able to be applied to any process that
+  requires an agency response (RFP response, quarterly reports, audits,
+  etc.)
+  Ability to store agency profile information, including: agency name,
+  agency address, agency phone, agency staff names and contact info,
+  agency staff contact codes/titles
+  Import and export capabilities for all agency profile information
+
+  CSCSLC assigned “administrator” able to set permissions for both
+  CSCSLC staff and agency representatives
+  System should support multiple programs per agency
+
+  System should support multiple contacts/users per agency
+
+  System prevents duplication of registered agencies. Each agency can
+  only register once. System informs agency if they are already
+  registered
+  Distinctive names between agencies and programs.                              --               --               --
+
+  Programs created as separate entities, but information should be able
+  to aggregate up to the agency entity level
+
+
+
+  --                                                                            --               --               --
+
+
+
+
+                                                           Children’s Services Council of St. Lucie County | 38
+Customer Service
+  Agency access to FAQs section via portal
+
+  CSCSLC able to add/edit to FAQs section of portal
+
+  CSCSLC staff able to broadcast/send announcements to agencies
+
+  Announcement to appear on agency home page (visible when they
+  first log in to the agency portal) (ie Communication Board)
+  Ability to send bulk emails through portal
+
+  Agency access to customizable resources on portal
+
+  Agency access to Support (help desk) through established link on
+  Agency home page
+  User feedback sent to Administrators (QI)
+
+  --                                                                            --               --               --
+
+
+Dashboards
+  Agency can monitor grant allocation balance via portal
+
+  Agency can view outcomes via dashboard in portal
+
+  Agency can view population served (number or % of contracted goal)
+  via dashboard in portal
+  Data represented in dashboard should be visible via pie charts, for
+  awards (both present and historical). This should be available for
+  viewing to both CSCSLC staff and agency representatives.
+  Dashboards for Individual Outcomes should compare population
+  achieving the outcome with population served for that outcome with
+  % achieving quarterly and YTD.
+  Dashboard visualizes historical and current agency data by program
+  with ability to configure
+  --                                                                            --               --               --
+
+
+Programs Dept Grants Management: RFPs
+  CSCSLC able to build an RFP via a tool (online form, form builder)
+
+  CSCSLC able to build content of RFP from content that was built for
+  previous RFPs (copy and edit prior process)
+  Include CSCSLC Publish RFP to select agencies via portal
+
+  CSCSLC sets deadline for an agency to respond to RFP via portal
+
+  Agency able to view RFP via portal
+
+  Agency able to respond to RFP via portal by upload of required
+  document(s) at both Agency and Program levels; one slot per required
+  document, not a combined pdf or zipped file.
+
+
+                                                           Children’s Services Council of St. Lucie County | 39
+  RFPs should be able to be produced in form builder or from existing or
+  already-created RFPs
+  Automatic save feature for Agency responding to RFP when
+  transitioning from one section to another when field entries have been
+  made; Each page/screen should also have a manual Save button. Auto
+  save feature in real time.
+  Ability to convert sections or complete online RFP to preview and
+  printer friendly PDF
+  Agency access to FAQs
+
+  Auto-save feature in real time, including calculations
+
+  Portal Administrator has ability enable revisions after submission of
+  form
+  --                                                                            --               --               --
+
+
+Programs Dept Grants Management: Proposal Review
+  CSCSLC Staff ability to review and score proposals
+
+  Council members able to review all proposals submitted
+
+  CSCSLC staff should be able to create evaluation form with scoring for
+  review of proposals; reviewer able to add notes attached to the agency
+  submitted proposal
+  Assigned outside-of-agency/External reviewers have ability to review
+  and score proposals via portal
+  Process of scoring proposals to include budget section to have column
+  reflecting amounts requested in proposal by line item, column for
+  recommended amount/amount to be awarded. Able to convert Budget
+  section to Excel format/carry over budget to create allocation
+  amounts by line item for contracting and allocations.
+
+  Ability to create/build unique scoring tool for each RFP including
+  ability to assign point values to each evaluation question with total
+  review score.
+  Ability to convert online evaluation form with responses to printer
+  friendly pdf form.
+  Security scan for malicious uploads
+
+  Auto-save feature
+
+  --                                                                            --               --               --
+
+
+Programs Dept Grants Management: Contracts
+  CSCSLC able to publish contract via portal from MS Word/pdf format
+
+  Agency able to access their particular contract(s)
+
+  Agency able to view and download then upload signed contract
+
+  Agency able to execute/sign contract electronically (i.e. Docusign
+  integration)
+
+
+
+                                                           Children’s Services Council of St. Lucie County | 40
+  Integrate agency attestation with tick boxes for contract with attached
+  budget and outcomes incorporated as part of contract
+  Ability to connect approved RFP budget and outcomes to the contract
+
+  --                                                                                 --               --               --
+
+
+Programs Dept Grants Management: Special Designations
+  Same capabilities as RFP section to build & use a less detailed special
+  designation request form (Report Builder); ability for Report Builder
+  to pull information from Proposal & Program form fields
+  Same review capabilities as RFP section
+
+  Same contract generation capacities
+
+  --                                                                                 --               --               --
+
+
+Programs Dept Performance Measurement: Metrics
+  Customizable reporting features (Report Builder) for System Querying
+  and Reporting
+  CSCSLC publishes participation (i.e. demographic) template
+
+  Participation template able to collect multiple pieces of data to include
+
+    • Population of Individual children, Group children, Individual adults,
+  Group adults, families served each Quarter & YTD compared to
+  targeted population goals.
+    • Up to four outcomes per program w/ tracking of # served and #
+  achieving the outcome per quarter & YTD
+    • Progress field for narrative description of progress/steps toward
+  achievement of each outcome
+  Ability to track demographics (# served with subtotals by
+  race/ethnicity, gender, age groupings for children of birth-4, 5-9, 10-
+  14, 15-17, 18 for target populations (individual Children, group
+  children, individual Adults, group adults) by zip codes (Ft Pierce 8 zip
+  codes, PSL 7 zip codes with subtotals for city and county), if teen
+  parent, and number of families served (See attached Demographic
+  Survey Excel Sheet)
+  Ability to track/display programs achieving 2 or more outcomes by
+  quarter & YTD
+  Ability to set “required”, “writable” or “read only” fields
+
+  Ability to roll over data from one process to another (as in quarterly
+  reports)
+  Ability to schedule and record Site Visits including reports
+
+  API Integration (ie Salesforce, ArcGIS)
+
+  Import/Export/Integration capabilities with CRM and ERP
+
+  Grantee outcomes evaluation – to capture progress on grant-specific
+  milestones and intended outcomes.
+
+
+
+                                                                Children’s Services Council of St. Lucie County | 41
+  --                                                                                --               --               --
+
+
+Programs Dept Performance Measurement: Programs Reporting
+  Ability to roll over historical data to pre-populate forms
+
+  Agency only able to report 1 quarter of information at a time
+
+  All required items must be completed before submission is allowed.
+
+  CSCSLC ability to open up and close reporting windows
+
+  CSCSLC ability to lock previous quarter reported numbers to prevent
+  agencies from modifying reported numbers (read only vs required
+  field settings)
+  CSCSLC ability to modify previous quarter reported numbers, based on
+  CSCSLC staff member permissions (some staff prevented from
+  changing agency-reported numbers)
+  Quarterly reports saved historically for each quarter by Fiscal Year
+  (FY); accessible by program or by quarter
+  Able to attach files to slots for uploading information from program as
+  part of reports (i.e. demographic tables, background screens, scans)
+  Auto-save feature
+
+  Ability to Archive data
+
+  Customizable reporting features (Report Builder) for System Querying
+  and Reporting
+  --                                                                                --               --               --
+
+
+Programs Dept Performance Measurement: Outcomes
+  Grantee/Agency has ability to submit quarterly reporting
+
+  Proposed Outcomes developed using documentation from outcome-
+  services matrix in RFP
+  CSCSLC staff sets final outcomes based upon proposal with ability to
+  edit during the FY
+  Ability to roll over proposed outcome data from grant proposal to
+  annual contract with capacity to edit
+  Ability to roll over proposed outcome data from grant proposal to
+  quarterly report to establish baseline (Q1)
+  --                                                                                --               --               --
+
+
+Programs Dept Performance Measurement: Monitoring
+  CSCSLC staff able to enter & track Contact-Progress-Review (C-P-R)
+  notes by program using dates during the program year (example
+  current year 10/1/2019 to 9/30/2020)
+  Metric for tracking C-P-R notes by days since last note (green for less
+  than 30 days, yellow for 31 to 59 days, red more than 60 days since
+  last entry)
+  Program summary page for CSCSLC staff to see metrics for individual
+  program
+
+
+                                                               Children’s Services Council of St. Lucie County | 42
+  Ability to sort/filter program information by priority funding areas
+
+  Ability to give Programs access to Site Summary Report for their
+  program.
+  Ability to deactivate Agency and store data on portal and/or externally
+  in Archive by fiscal year
+  --                                                                             --               --               --
+
+
+Programs Dept Fund Management: Budgeting
+  Ability to integrate line items budgets from proposal to establish line
+  item budget allocations to include upload of supporting line item
+  documentation with individual labels for multiple attachments
+  Ability to use established line item budget allocations for roll over into
+  annual contract
+  Ability to report program budgets by priority areas for FY across
+  proposal processes or funding streams
+  Ability to export/exchange line item budget data from the CSCSLC
+  evaluation process to the ERP system.
+  --                                                                             --               --               --
+
+
+Programs Dept Fund Management: Reimbursements
+  Agency able to upload requests for reimbursements along with
+  multiple attachments
+  Automatic Email notification of reimbursement submission to
+  designated CSCSLC Team member(s)
+  Ability for CSCSLC staff to view ongoing monthly reimbursements, ytd
+  totals, and remaining balances of line items.
+  Ability to share/exchange ERP budget data and expense data after
+  contracting phase for use on agency/program dashboards to display
+  up-to-date information regarding spendouts and remaining budget
+  balances.
+  --                                                                             --               --               --
+Programs Dept Other
+  Product roadmap of system to view future planned development and
+  updates to system (if yes, include URL where the product roadmap can
+  be viewed)
+  Form design and flexibility to allow application, reporting, and intake
+  process forms to be fully managed and configured by CSC
+  Team/designated Administrators
+  --                                                                             --               --               --
+
+
+
+
+                                                            Children’s Services Council of St. Lucie County | 43
+Appendix C – Glossary of Terms
+
+   The following glossary of terms contains both current terminology commonly used at Children’s Service Council of
+   St. Lucie County (CSCSLC) along with terminology anticipated for the purpose of consistent conversation during
+   CSCSLC’s RFP process.
+
+   ACTIVELY SERVED POPULATION – the number of unique clients anticipated to receive services during the
+   contracted fiscal year by category; individual and group children and adults.
+
+   AD VALOREM (Property Tax) – If you own property in Florida, that property is assessed annually by the county
+   property appraiser. This assessment determines the amount of ad valorem taxes owed each year on your property.
+   Ad valorem or property taxes are collected annually by the county tax collector.
+
+   AGENCY - an external stakeholder organization that submits proposals for funding and runs a program or multiple
+   programs that deliver services to members of the community. In the CSCSLC Fiscal Department, agencies are
+   considered vendors, as they submit expense reimbursement requests on a regular basis.
+
+   AGENCY “PROGRAM” BUDGET – Approved annual financial statement which stipulates the Agencies “PROGRAM”
+   expenditures with certain parameters and limitations. An outline of all dollars that are to be expended as outlined
+   by line items.
+
+   AGENCY “PROGRAM” BUDGET TRANSFER – Transfer of CSCSLC funding within approved “PROGRAM” line items.
+   Requires submission of Budget Transfer Request form and CSCSLC approval
+
+   AGENCY CONTRACT – A legal narrative proposal which includes an approved budget and requirements signed by
+   both parties (Agency & CSCSLC) regarding PROGRAM parameters.
+
+   AGENCY “PROGRAM” REIMBURSEMENTS – Funding provided on a monthly basis upon request by the Agency
+   Program for actual expenditures incurred by the programs with supporting documents required.
+
+   BOCC (Board of County Commissioners) - Government entity which provides the County offices with the code of
+   conduct, rules & regulations guidelines, and employee benefits.
+
+   CIVIC PLUS – the application currently being used by CSCSLC as a website content management system and web
+   hosting. CSCSLC is using some of the functionality of CivicPlus to engage with agencies.
+
+   CLIENT LEVEL DATA - Demographic descriptors for individual program participants including benchmarks,
+   measurable indicators of progress toward outcomes, individualized client data that can also be aggregated for
+   group results/reporting.
+
+   CRM (CLIENT RESOURCE MANAGEMENT) SOFTWARE – currently, CSCSLC is using no CRM software.
+
+
+
+
+                                                  Children’s Services Council of St. Lucie County | 44
+COMMUNITY INDICATORS – measurements that provide information about past and current trends and assist in
+making decisions that affect future outcomes. Community indicators provide insight into the overall direction of a
+community: whether it is improving, declining, or staying the same.
+
+CONTRACTED GOALS – The number of unique clients anticipated to receive services during the contracted fiscal
+year by category: individual and group children and adults. Agreed upon targeted achievements/results for
+program & participants.
+
+COUNCIL – refers to the Board of Directors of the CSCSLC or CSCSLC as an organization. As mandated by Florida
+Statute and County Ordinance, the CSCSLC Council is made up of ten (10) members. Five of these members are ex
+officio (meaning "from the office") and serve by virtue of office or position while five of these members are
+appointed by the governor.
+
+CAI (COUNCIL ACTION ITEM) – A request presented to the Council for approval for a new item or change of either a
+monetary amount or service/contract with regards to a Budget / Amendment / Reimbursement / Agreement.
+
+CROSS FUNCTIONAL FLOWCHART – a component of the process documentation set, a cross functional flowchart
+maps a process flow but does so in such a way as to identify the process owner; the person or actor responsible for
+completing the process step. This is done by the utilization of “swim lanes” or grid-like diagram organized into
+sections that provide an extra dimension by assigning each process step to an actor.
+
+CSC – a commonly-used abbreviation to reference the organization CSCSLC. Also can be used to reference the
+organization model that is a children’s services council, of which there are 14 in the state of Florida.
+
+CSC BUDGET – CSCSLC’s expected income and expenditures, including a contingency fund. This process shall
+include a computation of the proposed millage rate, within the voter-approved cap, that is necessary to fund the
+tentative budget.
+
+CSC’S CLIENTS – the county taxpayers, the funded programs, children and families served through funded
+programs.
+
+DEPARTMENT FRAMEWORK – part of the process documentation set. It’s a one-page, 10-by-10 matrix that
+describes the primary functions of a CSCSLC department. Column headings list the department’s primary functions,
+while row entries build out categories/classification of work effort.
+
+DOR (Department of Revenue) - A government entity in which overseas property tax who is involved with the TRIM
+program.
+
+E C IMPACT – the current cloud-based solution being used by CSCSLC as a grants and community impact
+management solution.
+
+FISCAL (Accounting, Finance) – Department within CSC which is responsible for financial management activities of
+CSC and the funded programs.
+
+FISCAL POLICY MANUAL– Manual which outlines the program guidelines of CSCSLC fiscal policies required for
+funding requests including a Technical Assistance guide which provides examples, forms and guidance.
+
+
+                                               Children’s Services Council of St. Lucie County | 45
+FRS (Florida Retirement System) – The FRS Pension Plan is a defined benefit plan, in which you are guaranteed a
+benefit at retirement if you meet certain criteria to all FRS employees. The benefit is pre-funded by contributions
+paid by the employer.
+
+FUNDING CATEGORIES: – The funding priorities of the CSCSLC are programs/initiatives that address the following
+goals: keeping kids in school, keeping kids off the street, keeping kids off drugs, every baby is a healthy baby, and
+stopping child abuse before it happens.
+
+GOAL(S) – Articulates the intended result of the grant and progress toward broader, long-term impact.
+
+GREEN SHEET – A program reimbursement monthly summary schedule maintained in a Microsoft Excel
+spreadsheet, historically printed on a green sheet of paper.
+
+MOU (Memorandum of Understanding) - A written document which describes the terms of an agreement where a
+contract it too formal but a handshake is not enough.
+
+OBJECTIVES – Activities the grantee will undertake with CSC funding and to articulate mutually agreed-upon
+benchmarks.
+
+UNDESIGNATED – These requests are to fund an agency for potential new or expanded programs that positively
+impact the CSCSLC funding priorities. There are no specific deadline, requests are subject to availability of funds
+and Council approval.
+
+TARGETED ALLOCATIONS – Funding directed to a specific community need.
+
+STRATEGIC SHORT-TERM FUNDING – Funding designed to address a need that would last no longer than 3 years.
+
+OUTCOMES – the individual-level changes that can reasonably occur during the grant period as a result of the
+proposed activities or services. The expected outcomes may relate to a new level of functioning of clients served,
+new or expanded resources devoted to addressing the goal, or specific changes in the knowledge, attitudes and
+behaviors among program participants after program participation. Together, the grant objectives and outcomes
+serve to create mutual expectations and understanding between CSC and the grantee about what is expected to
+happen as a result of this funding.
+
+PROCESS DOCUMENTATION SET – The documents used to provide information about the processes at CSCSLC.
+There are 6 different types of documents within the Process Documentation Set; Department Function Framework,
+Process Portfolio, Software Portfolio, Reports Portfolio, Cross Functional Flowchart, and Process Step Activity
+Chart.
+
+PROCESS FLOW DIAGRAM – part of the process documentation set. A process map used to describe a process flow
+by referencing existing cross functional flowcharts. This format is utilized when a comprehensive process to be
+described is already mapped out on two or more cross functional flowcharts.
+
+
+
+
+                                                Children’s Services Council of St. Lucie County | 46
+PROCESS PORTFOLIO – part of the process documentation set. An inventory of processes executed by CSC staff
+members. All entries in the process portfolio tie back to a single work effort category/classification on the
+department framework.
+
+PROCESS STEP ACTIVITY CHART – part of the process documentation set. A document that details the steps
+necessary to carry out a particular process. The document is formatted in such a way so that CSC staff members can
+read and reference process steps quickly. All process step activity charts may tie back to a process block contained
+on a cross functional flowchart.
+
+PROGRAM – The funded organized group which are administered by Agencies that provide services as described
+within the scope CSCSLC contract guidelines.
+
+PROGRAM ABSTRACT – Summary of the information contained in the grant proposal. The abstract should contain
+the agency name, program name, program type, primary program activities, population to be served, geographic
+area primarily served, as well as any other significant information about the program. The abstract will be used by
+CSC to promote the program to be funded.
+
+PROGRAM ACCOUNTABILITY REPORT – A report which provides fiscal and programmatic performance for certain
+periods for each program funded for certain fiscal years. This report includes the population served by age,
+race/ethnicity, children served individually, as well as children and adults served in groups.
+
+PROGRAM LEVEL (AGGREGATE) DATA (define with Jim, this definition should reference another definition –
+“Client Level Data”
+
+RECORDS RENTION POLICY (GOVERNMENT IN THE SUNSHINE) - retention/disposal maintenance of records held
+in compliance relating to governing laws.
+
+REIMBURSEMENTS – An agency which is funded for the programs actual expenditures incurred in accordance with
+their budget along with supporting documentation.
+
+RFP (REQUEST FOR PROPOSAL) – a document that solicits proposal, often made through a bidding process, by an
+agency or company interested in procurement of a commodity, service, or valuable asset, to potential suppliers to
+submit business proposals. CSCSLC regularly puts out RFPs to solicit funding proposals from agencies.
+
+REPORTS PORTFOLIO – part of the process documentation set. An inventory of reports generated by CSC staff
+members. Entries include not only reports generated out of the enterprise applications but also reports generated
+from desktop application documents like Microsoft Excel spreadsheets.
+
+SOFTWARE PORTFOLIO – part of the process documentation set. An inventory of software applications used by
+CSC staff members. Entries include desktop applications, external stakeholder web portals, and desktop application
+documents like Microsoft Excel spreadsheets. An entry in the software portfolio is confirmed to be a “system of
+record” for some subset of CSC data.
+
+SYSTEM OF RECORD – refers to an electronic repository for data that is considered as the rightful and accurate
+container for that record. A system of record can be an enterprise application with its own database structure or a
+productivity software document, like a Microsoft Excel spreadsheet.
+
+
+                                               Children’s Services Council of St. Lucie County | 47
+TAXING AUTHORITY - provided for by statute and ordinance and allows the levy of up to .50 mills in property
+taxes. The ten-member Council has decision making authority over the programs to be funded, setting millage
+rates, and approving the budget. The cost to a local property owner to pay .50 mills would be 50 cents for every
+$1,000 of taxable property.
+
+TOUCH POINT – any form of contact, either via electronic means or in person, with a stakeholder external to
+CSCSLC.
+
+TRIM (Truth in Millage)- In 1980, the Florida Legislature passed the Truth in Millage (TRIM) Act. This law is
+designed to inform taxpayers which governmental entity is responsible for the taxes levied and the amount of tax
+liability taxpayers owe to each taxing authority. The property appraiser sends this information, known as the TRIM
+notice, to the property owner.
+
+TECHNICAL ASSISTANCE GUIDE– A manual designed to facilitate a complete and accurate reimbursement requests
+using the appropriate forms and in accordance with the policies set forth in the Fiscal Policy Manual.
+
+VENDOR - a person or company offering something for sale, office supplies and equipment for example.
+
+
+
+
+                                               Children’s Services Council of St. Lucie County | 48
+

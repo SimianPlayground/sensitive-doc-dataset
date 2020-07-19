@@ -1,0 +1,1925 @@
+                City of Kirkland
+              Request for Proposal
+
+
+
+    Digital Evidence Software
+  Migration and Implementation
+
+               Job # 27-20-PD
+
+
+
+
+Issue Date:   May 05, 2020
+
+Due Date:     4 p.m. (Pacific Time) May 29th, 2020
+                                    REQUEST FOR PROPOSALS
+
+Notice is hereby given that proposals will be received by the City of Kirkland, Washington, for:
+
+                      Digital Evidence Migration and Implementation
+
+File with Purchasing, Finance Department, 123 5th Ave, Kirkland WA, 98033 as follows:
+
+Proposals received later than 4:00 PM, May 29th, 2020 will not be considered.
+
+A copy of this Request for Proposal (RFP) may be obtained from City’s web site at
+http://www.kirklandwa.gov/ Locate by clicking on “Business” at the top of the webpage and
+then “Request for Proposals” under “Doing Business with the City.” Email
+purchasing@kirklandwa.gov or call 425-587-3123 if you are unable to access RFP documents
+online.
+
+The City of Kirkland reserves the right to reject any and all proposals and to waive irregularities
+and informalities in the submittal and evaluation process. This RFP does not obligate the City to
+pay any costs incurred by respondents in the preparation and submission of a proposal.
+Furthermore, the RFP does not obligate the City to accept or contract for any expressed or implied
+services.
+
+The City requires that no person shall, on the grounds of race, religion, color, national origin, sex,
+age, marital status, political affiliation, sexual orientation, or the presence of any sensory, mental,
+or physical disability be excluded from participation in, be denied the benefits of, or be otherwise
+subjected to discrimination under any program or activity. The City of Kirkland further assures
+that every effort will be made to ensure non-discrimination in all of its programs and activities,
+whether those programs are federally funded or not.
+
+In addition to nondiscrimination compliance requirements, a Service Provider ultimately awarded
+a contract shall comply with federal, state and local laws, statutes and ordinances relative to the
+execution of the work. This requirement includes, but is not limited to, protection of public and
+employee safety and health; disabilities; environmental protection; waste reduction and recycling;
+the protection of natural resources; permits; fees; taxes; and similar subjects.
+
+
+Dated this 5th day of March 2020
+
+
+Greg Piland
+Purchasing Agent
+425-587-3123
+Table of Contents
+
+                                                           Table of Contents
+CHAPTER I: GENERAL RFP INFORMATION ....................................................................................................5
+
+    OBJECTIVE OF THIS RFP ......................................................................................................... 5
+    REQUESTED SERVICES ............................................................................................................ 5
+    DELIVERABLES .......................................................................................................................... 6
+    RFP OFFICIAL CONTACT........................................................................................................ 11
+    PROCUREMENT SCHEDULE ................................................................................................... 11
+    LETTER OF INTENT ................................................................................................................ 12
+    QUESTIONS REGARDING THE RFP ...................................................................................... 12
+    COOPERATIVE PURCHASING ................................................................................................ 12
+    PROPOSAL PREPARATION..................................................................................................... 13
+    PROPOSAL SUBMISSION ....................................................................................................... 13
+    EVALUATION PROCEDURES .................................................................................................. 14
+CHAPTER II: REQUIRED PROPOSAL RESPONSE FORMS ........................................................................ 15
+
+    PROPOSAL PREPARATION INSTRUCTIONS ........................................................................ 15
+    FORM 1: COVER LETTER ....................................................................................................... 17
+    FORM 2: PROPOSAL SUMMARY ............................................................................................ 18
+    FORM 3: ACCEPTANCE OF TERMS AND CONDITIONS ...................................................... 20
+    FORM 4: GENERAL SUPPLIER INFORMATION .................................................................... 23
+    FORM 5: SCOPE OF SERVICES .............................................................................................. 26
+    FORM 6: PRICE PROPOSAL ................................................................................................... 27
+    FORM 7: CUSTOMER REFERENCES ...................................................................................... 28
+    FORM 8: KEY PROJECT STAFF BACKGROUND INFORMATION ........................................ 29
+APPENDICES ........................................................................................................................................................... 30
+
+        RFP AMENDMENTS ............................................................................................................. 30
+        VENDOR’S COST TO DEVELOP PROPOSAL .................................................................... 30
+        WITHDRAWAL OF PROPOSALS ........................................................................................ 30
+        REJECTION OF PROPOSALS – WAIVER OF INFORMALITIES OR IRREGULARITIES 30
+        PROPOSAL VAILIDITY PERIOD ........................................................................................ 30
+        CITY TAXATION .................................................................................................................. 30
+        PUBLIC RECORDS ............................................................................................................... 31
+        ACQUISITION AUTHORITY ............................................................................................... 31
+        CONTRACT AWARD AND EXECUTION ............................................................................ 32
+        DEFENSE, INDEMNIFICATION, HOLD HARMLESS AND INSURANCE REQUIREMENTS
+        ............................................................................................................................................... 33
+        OWNERSHIP OF DOCUMENTS.......................................................................................... 36
+        CONFIDENTIALITY OF INFORMATION ........................................................................... 36
+ATTACHMENTS ....................................................................................................................................................... 37
+             Attachment A: Non-Collusion Certificate ................................................................................................................... 38
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                                                                                                 3
+May 5, 2020
+Table of Contents
+         Attachment B: Non-Disclosure Agreement................................................................................................................ 39
+A.    MINIMUM SCOPE OF INSURANCE ......................................................................................................... 44
+B.    MINIMUM AMOUNTS OF INSURANCE .................................................................................................. 44
+D.    ACCEPTABILITY OF INSURERS .............................................................................................................. 45
+E.    VERIFICATION OF COVERAGE ................................................................................................................ 45
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                                                                                        4
+May 5, 2020
+Chapter I: General RFP Information
+
+
+ Chapter I: General RFP Information
+
+OBJECTIVE OF THIS RFP
+
+The Kirkland Police Department (KPD) is requesting a new software platform for
+streamlined digital evidence storage. The Department does not currently have enough
+secure evidence storage for the large amounts of video, cellular and mp3/jpeg evidence
+associated with today’s criminal investigations. The City of Kirkland would like this
+platform to securely store and manage Police Digital Evidence for security, efficiency, and
+access control. The purpose of this RFP is to solicit proposals from vendors qualified to
+supply a secure digital evidence platform for the Kirkland Police Department.
+
+The ideal vendor will have qualified staff assigned to this project and have experience
+(within the last 2 years) supplying a CJIS-secure platform for managing digital evidence.
+Experience with Police agencies of similar size to Kirkland and in larger agencies
+preferred.
+
+
+THE CITY OF KIRKLAND
+
+The City of Kirkland is located just across Lake Washington from Seattle, Washington,
+and just north of Bellevue with some contiguous borders. Kirkland is the second largest
+city on the eastside of Lake Washington, and the thirteenth largest in the State of
+Washington. Our population is over 88,000. A full community profile can be found on
+our website.
+
+KIRKLAND POLICE DIGITAL EVIDENCE ENVIRONMENT
+
+The City of Kirkland Police Department has approximately 160 full time employees, with
+the main evidence management in one location currently utilizing Tyler’s New World
+platform for physical evidence and with data stored on thumb drives, DVD, CD, and
+portable hard drives for digital evidence.
+
+The City’s standard network operating system is Windows Server (2012/2016) and the
+standard desktop operating system is Windows 10.
+
+
+
+REQUESTED SERVICES
+
+Services include any tasks necessary to produce the requested deliverables. Specific areas
+of interest include (but are not necessarily limited to) the following:
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                  5
+May 5, 2020
+Chapter I: General RFP Information
+
+ Preparation
+
+      •   Understand Kirkland Police Department’s current digital evidence handling &
+          methodology
+      •   Understand City of Kirkland IT Department requirements
+      •   Understand CJIS security requirements
+
+Execution
+
+      •   Help coordinate and support Kirkland Police and City of Kirkland IT to transition
+          data from the current thumb drive, DVD, CD, hard disks, or other storage
+          methodology to the new digital platform. CAD (NORCOM) data may need to be
+          migrated
+      •   Maintain clear and frequent communications to project executives, IT
+          management, and City stakeholder to keep them abreast of project activities and
+          risks
+      •   Meet deliverables as specified in contract negotiations
+      •   Coordinate testing and training of this application post-launch
+      •   Obtain sign off from all City of Kirkland stakeholders
+
+
+DELIVERABLES
+
+The software platform must meet the following specifications. Additional deliverables
+may be identified during the initial meetings between the vendor and the City. In your
+proposal please discuss how your solution meets these requirements below
+
+ ID       Type          Requirement Description           Existing     Customize     Future    Not         Response Notes
+                                                          Capability   Development   Release   Available
+ S-1      Security      The system must be compliant
+                        with the FBI’s Criminal Justice
+                        Information Services (CJIS)
+                        Security Policy version 5.8,
+                        document      CJISD-ITS-DOC-
+                        08140-5.8
+
+ S-2      Security      The system must have an
+                        audit trail that cannot be
+                        altered. The audit trail shall
+                        include tracking all persons
+                        (using login and password)
+                        who accessed the system/file
+                        and the actions performed
+                        (print, view, etc.) All audit
+                        trail items must be time
+                        stamped with a system-
+                        generated time stamp
+                        provided as part of the
+                        system.
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                                            6
+May 5, 2020
+Chapter I: General RFP Information
+
+
+ S-3     Security       The system must have the
+                        capability to assign individual
+                        view-only access to digital
+                        evidence associated with a
+                        single case.
+ S-4     Security       The system must provide the
+                        ability to set an expiration
+                        date on access to externally
+                        shared case files.
+ S-5     Security       The database must be SSL
+                        encrypted and all
+                        transmissions to and from the
+                        database must be SSL
+                        encrypted.
+ S-6     Security       The system must allow all
+                        electronic evidence to be
+                        exported in an encrypted
+                        format for secure
+                        transportation.
+ S-7     Security       All client data must be stored
+                        in a safe and secure
+                        environment and protection
+                        from unauthorized access,
+                        modification, theft, misuse or
+                        damage whether the data
+                        resides in a repository or
+                        during transmission over the
+                        network and must be stored
+                        in the United States.
+ S-8     Security       Permissions/user right should
+                        be variable as assigned by a
+                        System Administrator.
+ S-9     Security       The system should include
+                        easily managed administrator
+                        definable multilevel security
+                        for access to files,
+                        information, and evidence
+                        based on roles.
+ S-10    Security       The system should provide
+                        security methods for strictly
+                        limiting access for users to
+                        certain folders or data within
+                        a folder based on folder-level
+                        or individual file-level
+                        permissions.
+ S-11    Security       The System must offer SSO
+                        login capabilities
+ T-1     Technical      The system must have the
+                        capability for acquiring,
+                        processing, authenticating,
+                        storing, and playback of
+                        digital images, digital audio,
+                        and digital video in common
+                        formats defined as JPG, BMP,
+                        GIF, TIFF, MP3, MP4, WAV,
+                        DOC, and PDF.
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                   7
+May 5, 2020
+Chapter I: General RFP Information
+
+
+ T-2     Technical      The system must be able to
+                        upload data from multiple
+                        formats to include but not
+                        limited to: SD cards, hard
+                        drives, optical disks, thumb
+                        drives.
+ T-3     Technical      The system must
+                        maintain/store original copy
+                        of evidentiary files and any
+                        manipulation must be of a
+                        working copy only.
+ T-4     Technical      The system must have the
+                        ability to authenticate digital
+                        evidence files of all standard
+                        formats defined as JPG, BMP,
+                        GIF, TIFF, MP3, MP4, WAV,
+                        DOC, and PDF
+ T-5     Technical      The system must have the
+                        option of a web browser-
+                        based viewer that allows
+                        authorized users to view
+                        and/or retrieve digital
+                        evidence via the web. This
+                        must be secure and
+                        encrypted according to CJIS
+                        standards, and with
+                        appropriate audit trail.
+ T-6     Technical      The system must be able to
+                        support RAW format files
+                        without converting the RAW
+                        files into another format.
+ T-7     Technical      Evidentiary video files shall be
+                        stored with the associated
+                        players when applicable.
+ T-8     Technical      The system should allow for
+                        concurrent users to view the
+                        same digital evidence
+                        simultaneously.
+ T-9     Technical      The original digital evidence
+                        must be preserved and
+                        unchanged, but tools should
+                        be provided so that common
+                        enhancement processes such
+                        as Brightness, Contrast,
+                        Saturation, RGB color channel
+                        strength adjustments may be
+                        made without affecting the
+                        original file.
+ F-1     Functional     Initial entry by staff shall
+                        include, at a minimum: date
+                        and time of entry (system
+                        generated); staff name,
+                        personnel number, related
+                        case number or other
+                        assigned number, type of
+                        offense.
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                    8
+May 5, 2020
+Chapter I: General RFP Information
+
+
+ F-2     Functional     The system must have the
+                        ability to have multiple
+                        concurrent users in system
+                        with the ability to view,
+                        submit, receive and update
+                        data.
+ F-3     Functional     The system must
+                        accommodate up to 200
+                        separate users with minimal
+                        performance loss.
+ F-4     Functional     The system must support up
+                        to 30 concurrent users with
+                        minimal performance loss.
+ F-5     Functional     The application shall be
+                        scalable and flexible to allow
+                        for growth in terms of
+                        number of users and retained
+                        data.
+ F-6     Functional     The system is to be
+                        maintained using a minimum
+                        of 99% uptime and security
+                        including parallel, redundant,
+                        and multi-tiered network
+                        architecture.
+ F-7     Functional     The system must be able to
+                        ensure rapid recovery and
+                        seamless uptime in case of
+                        hardware malfunction.
+ F-8     Functional     Support shall include
+                        technical assistance on the
+                        installation, use, performance
+                        tuning, maintenance, and
+                        repair of the
+                        software/hardware necessary
+                        to meet the requirements of
+                        this RFP and/or contract.
+ F-9     Functional     The system shall allow the
+                        agency to acquire the raw
+                        data through an export to
+                        Microsoft Excel (XLS/XLSX) or
+                        ASCII comma separated
+                        values (CSV) file formats at
+                        any time.
+ F-10    Functional     The cost includes the ability
+                        to create an unlimited
+                        number of user accounts.
+ F-11    Functional     The system shall flag or alert
+                        staff to media that may be
+                        ready for disposal, with user
+                        defined parameters.
+ F-12    Functional     The search and query
+                        function should allow the end
+                        user the ability to search by
+                        any data field or combo of
+                        fields.
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                  9
+May 5, 2020
+Chapter I: General RFP Information
+
+
+ F-13    Functional     The system should have the
+                        ability to create digital
+                        evidence case jackets.
+ F-14    Functional     The system should allow
+                        users to add titles, notes, and
+                        key words to digital evidence
+                        and to later edit them. These
+                        shall be indexed and
+                        searchable.
+ F-15    Functional     The system should allow
+                        users to search digital files by
+                        using tagged metadata fields.
+ F-16    Functional     When importing from any
+                        device, the system should
+                        allow users to select files to
+                        import with previews using a
+                        simple import process/wizard.
+ F-17    Functional     A full screen viewing mode
+                        should be available where the
+                        photos can be viewed. If
+                        multiple photos are selected
+                        this mode shall allow the user
+                        to go easily from photo to
+                        photo. The user shall be able
+                        to zoom in on a portion of the
+                        photo.
+ F-18    Functional     The system should provide
+                        the ability to export the entire
+                        contents of a case file,
+                        regardless of file type.
+ F-19    Functional     The system should offer
+                        multiple print options,
+                        including but not limited to:
+                        Printed output must offer
+                        options to print, at the user's
+                        option, documentation of the
+                        digital photo including title,
+                        notes, photographer's name,
+                        enhancement parameters,
+                        case number, authentication
+                        result, import time, camera
+                        clock time, photo resolution.
+                        Printing must have flexible
+                        automatic sizing features.
+                        Printing must have
+                        autorotation.
+ F-20    Functional     The system must be SaaS-
+                        based
+ F-21    Functional     The system should offer the
+                        ability to securely view
+                        evidentiary data on mobile
+                        devices to include smart
+                        phones and tablets
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                    10
+May 5, 2020
+Chapter I: General RFP Information
+
+
+
+
+RFP OFFICIAL CONTACT
+
+Upon release of this RFP, all vendor communications concerning the overall RFP should
+be directed to the RFP Coordinator listed below. Unauthorized contact regarding this RFP
+with other City employees may result in disqualification. Any oral communications will be
+considered unofficial and non-binding on the City. Vendors should rely only on written
+statements issued by the RFP Coordinator.
+
+         Name:              Greg Piland, Financial Operations Manager
+         Address:           City of Kirkland
+
+                            123 5th Avenue
+                            Kirkland, Washington 98033
+
+         E-mail:            GPiland@kirklandwa.gov
+
+
+
+PROCUREMENT SCHEDULE
+
+The procurement schedule for this project is as follows:
+
+Note: The City reserves the right to adjust this schedule as necessary.
+
+ Milestone                                                          Date
+ Release RFP to vendors                                                    May 5, 2020
+ Vendor Questions (if any) and letter of intent due                        May 14, 2020
+ Answers to RFP Questions Released                                         May 20, 2020
+ Proposal responses due                                                    May 29, 2020
+ Finalists selected                                                        June 5, 2020
+ Vendor interviews if needed (please reserve this date)                 June 8 - 12, 2020
+ Vendor selection                                                        June 17, 2020
+ Contract negotiations/execution                                    June 18 - July 13, 2020
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                     11
+May 5, 2020
+Chapter I: General RFP Information
+
+
+
+ Project start date                                                    July 20, 2020
+
+LETTER OF INTENT
+
+Vendors wishing to submit proposals are encouraged to provide a written letter of
+intent to propose by May 14th, 2020. An email attachment sent to
+GPiland@kirklandwa.gov is acceptable. The letter must identify the name, address,
+phone, and e-mail address of the person who will serve as the key contact for all
+correspondence regarding this RFP.
+
+A letter of intent is required in order for the City to provide interested vendors with a list
+of any questions received and the City’s answers to those questions. Those providing a
+letter of intent will also be notified of any addenda that are issued.
+
+A list of all vendors submitting a letter of intent will be available upon request.
+
+Those who choose not to provide a letter of intent will be responsible for monitoring the
+City’s purchasing webpage for any addenda issued for this RFP.
+
+
+QUESTIONS REGARDING THE RFP
+
+Vendors who request a clarification of the RFP requirements must submit written
+questions to the RFP Coordinator by 4 p.m. (PST) by May 14, 2020. Written copies of all
+questions and answers will be provided to all vendors who have submitted letters of
+intent. An email attachment sent to GPiland@kirklandwa.gov is fine. Responses to all
+questions submitted by this date will be emailed to vendors who submitted a letter of
+intent by 5:00 p.m. May 14th, 2020.
+
+
+COOPERATIVE PURCHASING
+
+RCW 39.34 allows cooperative purchasing between public agencies (political subdivisions)
+in the State of Washington. Public agencies which have filed an Intergovernmental
+Cooperative Purchasing Agreement with the City of Kirkland may purchase from City of
+Kirkland contracts, provided that the supplier agrees to participate. The City of Kirkland
+does not accept any responsibility for purchase orders issued by other public agencies.
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                    12
+May 5, 2020
+Chapter I: General RFP Information
+
+ PROPOSAL PREPARATION
+
+General Information
+
+It is important that all bidders read this section carefully. Failure to comply
+with these instructions may result in your proposal being removed from
+consideration by the City.
+
+Vendors must prepare proposals using a word processor and electronic
+versions of the forms provided in Chapter II of this RFP. The City of Kirkland is
+using a “forms-based” approach to this procurement. This will allow all the bids received
+to be compared in a meaningful (i.e., “apples-to-apples”) way. The RFP contains, in
+addition to the General RFP Information, a series of Response Forms.
+
+
+PROPOSAL SUBMISSION
+
+The following provides specific instructions for submitting your sealed proposal.
+
+ Due Date:              Proposals must be received by the Purchasing Agent no later
+                        than May 29, 2020 at 4 p.m. (Pacific Time). Late proposals will
+                        not be accepted nor will additional time be granted to any vendor
+                        unless it is also granted to all vendors. Proposals sent by email must
+                        be time stamped as received by Kirkland’s system by 4:00 p.m.
+                        Emailed proposals must be in either MS Word or PDF format
+                        and cannot exceed 20MB. All proposals and accompanying
+                        documentation will become the property of the City and will not be
+                        returned.
+ Number of              If submitting hard copies, the original plus four copies are required by
+ Copies:                the established deadline.
+                        City of Kirkland
+ Address for
+                        Attn: Financial Operations Manager
+ Submission:
+                        Digital Evidence Migration and Implementation
+                        Job# 27-20-PD
+                        123 5th Ave
+                        Kirkland, WA 98033
+                        purchasing@kirklandwa.gov
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                       13
+May 5, 2020
+Chapter I: General RFP Information
+
+
+
+ EVALUATION PROCEDURES
+
+The City will establish a review committee responsible for evaluation and selection of the
+winning proposer.
+
+The evaluators will consider how well the vendor's proposed methodology and
+deliverables meet the needs of the City as described in the vendor's response to each
+requirement and form. Evaluators will also consider successful experience with CJIS data,
+Police evidence procedures, previous migrations of similar or the same business systems,
+and experience with government agencies and the Azure cloud. Cost is a factor, but it is
+not the only important factor that will be under consideration. The City prefers a vendor
+with local presence who can attend some meetings onsite at Kirkland City Hall. If travel
+will be required for onsite meetings, that cost shall be included in the proposal.
+
+It is important that the responses be clear and complete so that the evaluators can
+adequately understand all aspects of the proposal. The evaluation process is not
+designed to simply award the contract to the lowest cost vendor. Rather, it is intended
+to help the City select the vendor with the best combination of attributes, including price,
+based on the evaluation factors.
+
+The City anticipates that it will require a subset of finalist vendors make a presentation
+to a selection team, although the City reserves the right to award without presentations.
+One finalist will be selected.
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                  14
+May 5, 2020
+Chapter I: General RFP Information
+
+
+
+    Chapter II: Required Proposal Response Forms
+
+    The proposal must provide a summary of the firm’s qualifications to perform the
+    duties outlined in the requested services section. This chapter contains forms
+    vendors must complete to submit their proposals. Vendors must complete all the
+    forms in this chapter as well as other requests for information contained herein.
+    The following forms are included:
+
+    1)   Cover Letter
+    2)   Proposal Summary
+    3)   Acceptance of Terms and Conditions
+    4)   General Supplier Information
+    5)   Scope of Services
+    6)   Price Proposal
+    7)   Customer Reference
+    8)   Key Project Staff Background Information
+
+    NOTE: In addition to the included forms, vendor must provide at least two
+    examples of standard evidence reports from previous similar work. Sensitive
+    customer information may be redacted if necessary.
+
+    PROPOSAL PREPARATION INSTRUCTIONS
+
+    To prepare your proposal, follow these instructions:
+
+    1. Open the electronic version of the forms of this RFP. Please use these forms
+       and do not put them in another format.
+    2. If applicable, use copy and paste commands, copy sections and forms as
+       necessary and paste them into a new file. Save the new file.
+    3. Complete all of the forms in your word processing and spreadsheet
+       applications.
+    4. Please create a table of contents with page numbers.
+    5. Delete instructions (i.e., verbiage contained in brackets) from each form.
+    6. When your proposal is finished, refer to the proposal submission instructions
+       in this document.
+    Submission Format
+    The proposal must be submitted in the specific Form sequence noted below.
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                 15
+May 5, 2020
+Chapter I: General RFP Information
+
+ Please create a Table of Contents with page numbers.
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                 16
+May 5, 2020
+Chapter I: General RFP Information
+
+
+
+ FORM 1: COVER LETTER
+
+[Use this space to compose a cover letter for your proposal. All proposals must
+include a cover letter signed by a duly constituted official legally authorized to bind
+the applicant to both its proposal and cost schedule. NOTE: The cover letter is
+not intended to be a summary of the proposal itself; this is accomplished in Form
+2.
+
+The cover letter must contain the following statements and information:
+
+1. “Proposal may be released in total as public information in accordance with the
+   requirements of the laws covering same.”
+
+2. “Proposal and cost schedule shall be valid and binding for ONE HUNDRED
+   EIGHTY (180) days following proposal due date and will become part of the
+   contract that is negotiated with the City.”
+
+3. Company name, address, and telephone number of the firm submitting the
+   proposal.
+
+4. Name, title, address, e-mail address, and telephone number of the person or
+   persons to contact who are authorized to represent the firm and to whom
+   correspondence should be directed.
+
+5. Proposals must state the proposer’s federal and state taxpayer identification
+   numbers.
+
+6. Please complete and attach the following documents from the Attachments
+   section of this RFP:
+
+    ▪    Non-Collusion Certificate
+    ▪    Non-Disclosure Agreement
+    ▪    Professional Services Agreement
+
+TEXT WITHIN THE BRACKETS IS TO BE DELETED IN YOUR RESPONSE.]
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                         17
+May 5, 2020
+Chapter I: General RFP Information
+
+
+
+ FORM 2: PROPOSAL SUMMARY
+
+[Use this form to summarize your proposal and your firm’s qualifications.
+Additionally, you may use this form at your discretion to articulate why your firm
+is pursuing this work and how it is uniquely qualified to perform it.
+
+Your proposal summary is not to exceed two pages.
+
+THE TEXT WITHIN THESE BRACKETS IS TO BE DELETED AND REPLACED BY YOUR
+PROPOSAL SUMMARY.]
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                     18
+May 5, 2020
+Chapter I: General RFP Information
+
+ [Use this space as needed for page 2 of your proposal summary.]
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                            19
+May 5, 2020
+Chapter I: General RFP Information
+
+
+
+ FORM 3: ACCEPTANCE OF TERMS AND CONDITIONS
+[Use this form to indicate exceptions that your firm takes to any terms and
+conditions listed in this RFP, including the Appendices and Attachments. Proposals
+which take exception to the specifications, terms, or conditions of this RFP or offer
+substitutions shall explicitly state the exception(s), reasons(s) therefore, and
+language substitute(s) (if any) in this section of the proposal response. Failure to
+take exception(s) shall mean that the proposer accepts the conditions, terms, and
+specifications of the RFP.
+
+If your firm takes no exception to the specifications, terms, and conditions of this
+RFP, please indicate so.
+
+
+
+     FORM 3: ACCEPTANCE OF TERMS AND CONDITIONS
+
+It is the intent of the City to contract with a private supplier. All supplier representations, whether
+verbal, graphical or written, will be relied on by the City in the evaluation of the responses to this
+Request for Proposal. This reliance on the Supplier’s represented expertise is to be considered as
+incorporated into any, and all, formal Agreements between the parties.
+
+PRINT THE WORDS "NO EXCEPTIONS" HERE     _________________          IF THERE ARE
+NO EXCEPTIONS TAKEN TO ANY OF THE TERMS, CONDITIONS, OR SPECIFICATIONS OF THESE
+REQUEST FOR PROPOSAL DOCUMENTS.
+
+IF THERE ARE EXCEPTIONS TAKEN TO ANY OF THESE TERMS, CONDITIONS, OR SPECIFICATIONS
+OF THESE REQUEST FOR PROPOSAL DOCUMENTS, THEY MUST BE CLEARLY STATED IN THE TABLE
+BELOW (“RFP EXCEPTIONS”) AND RETURNED WITH YOUR PROPOSAL IN THE APPROPRIATE
+SECTION.
+
+IF YOU PROVIDED A SAMPLE COPY OF YOUR CONTRACT(S) YOU STILL NEED TO IDENTIFY IN THIS
+DOCUMENT (“RFP EXCEPTIONS”) ANY AND ALL EXCEPTIONS YOU HAVE TO THE TERMS AND
+CONDITIONS.
+
+
+ Firm or Individual
+ Title
+ Telephone
+ Email
+ Address
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                        20
+May 5, 2020
+    Chapter I: General RFP Information
+
+
+     PRINT NAME AND TITLE
+
+    ______________________________________________________________________
+
+
+    AUTHORIZED SIGNATURE
+
+    ______________________________________________________________________
+
+    DATE _______________________________________________________ _______
+
+    OTHER NOTES:
+
+                                              RFP EXCEPTIONS
+Add any additional line items for exceptions as necessary and reference any explanatory attachments
+                                within the line item to which it refers.
+
+        RFP
+      Section            Exception
+                                               Explanation of Why This   Your Proposed Alternative to Meet
+        # or       Describe the nature of
+                                                  is an Issue for You           the Needs of the City
+       Form,           the Exception
+      Page #
+
+
+1
+
+
+
+
+2
+
+
+
+
+3
+
+
+
+
+4
+
+
+
+
+5
+
+
+
+
+    Digital Evidence Migration and Implementation
+    City of Kirkland - Request for Proposal                                                21
+    May 5, 2020
+Appendices
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal         22
+May 5, 2020
+Appendices
+
+
+
+ FORM 4: GENERAL SUPPLIER INFORMATION
+
+[Use this form to provide information about your firm.
+
+Please note that Form 4 has a section for the Supplier’s information and a separate section
+that needs to be completed if the Supplier is using a 3 rd party implementation partner,
+systems integrator or VAR to provide implementation, training and/or other professional
+services related to this RFP.
+
+THE TEXT WITHIN THESE BRACKETS IS TO BE DELETED IN YOUR RESPONSE.]
+
+
+
+                       Form 4 – General Supplier Information
+
+   Proposing Supplier Information
+     1. Contact Information
+         ▪    Company Name
+         ▪    Name and Title of Contact Person
+         ▪    Company Address
+         ▪    Phone
+         ▪    Email Address
+         ▪    Company Website
+     2. Regional Offices and Staff
+         ▪    Describe whether your organization is local, regional,
+              national or international.
+         ▪    Regional office servicing this engagement
+         ▪    Describe the range of services provided by the office
+              servicing the engagement and # of employees.
+     3. Company Information
+
+         ▪    Briefly describe your company and the characteristics
+              that set your company apart.
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                 23
+May 5, 2020
+Appendices
+
+
+
+
+         ▪    Briefly describe how you will meet our requirements
+              and maximize our return on investment.
+
+
+
+
+         ▪    Year Founded
+         ▪    Private vs. Public (Listing Exchange and Listing Code)
+         ▪    Fiscal year end
+         ▪    Revenue: Current Year
+         ▪    Revenue: Prior Year
+         ▪    Net Income/Loss: Current Year
+         ▪    Net Income/Loss: Prior Year
+         ▪    Parent Company (If separate)
+         ▪    Describe parent company’s relationship with the
+              proposing party.
+         ▪    Genealogy of Organization (Changing business, name
+              changes, acquisitions/mergers, etc.)
+         ▪    Describe if your organization is international, national,
+              regional or local. Please explain.
+         ▪    Disclose any recent litigation (and outcomes) and
+              litigation currently underway.
+     4. # of Supplier Employees
+
+         ▪    Total Worldwide
+
+         ▪    Total in U.S.
+
+         ▪    # of full-time employees in:
+              - Sales
+              - Implementation and training
+              - Customer service
+              - Technical/Development
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                   24
+May 5, 2020
+Appendices
+
+
+              - Administrative
+         ▪    - Other (note relevant staff):
+     5. Company Qualifications
+
+              Three or more years of related 3rd Party QA experience.
+              Briefly describe.
+     6. Experience working with cities of our size. Briefly
+        describe.
+     7. Contract Termination for Default
+        Please list all incidents in the past 5 years in which you
+        have had a contract terminated for default. Termination
+        for default is defined as notice to stop performance due
+        to your non-performance or poor performance; and the
+        issue was either (a) not litigated or (b) litigated, and such
+        litigation determined you to be in default. Please
+        provide:
+        • Full details of all terminations for default
+        • The other party’s name, address and telephone
+        • Your position on the matter
+
+
+     8. Contract termination before contract completion for
+        convenience, non-performance, non-allocation of funds,
+        etc.
+        Please list all incidents in the past 5 years in which you
+        have had a contract terminated before completion (e.g.
+        for convenience non-performance, non-allocation of
+        funds or any other reason)
+        Please provide:
+        • Full details of all such terminations
+        • The other party’s name, address and telephone
+        • Your position on the matter
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                 25
+May 5, 2020
+Appendices
+
+
+
+ FORM 5: SCOPE OF SERVICES
+
+[Please provide one or more options on how your firm would approach this
+implementation, and how much it would cost. Limit your response to a maximum of ten
+pages per option.
+
+The City reserves the right to reject any or all proposals. The City reserves the right to
+request more information for clarification due to omission of information. Vendors should
+be prepared to make an oral presentation as part of the evaluation process.
+
+
+TEXT WITHIN THESE BRACKETS IS TO BE DELETED IN YOUR RESPONSE]
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                26
+May 5, 2020
+Appendices
+
+
+
+ FORM 6: PRICE PROPOSAL
+
+
+[The Proposal must contain a fee schedule that includes estimated hours, rates, and
+overall price.
+
+
+TEXT WITHIN THESE BRACKETS IS TO BE DELETED IN YOUR RESPONSE.]
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                         27
+May 5, 2020
+Appendices
+
+
+
+ FORM 7: CUSTOMER REFERENCES
+
+
+[Using the tables below, please list five law enforcement clients for whom you
+have provided services relevant to this RFP over the past two years. Use your
+word processor’s copy and paste functions to create additional tables as needed.]
+
+
+  Customer/client name
+  Reference name
+  Title
+  Phone number
+  Mailing address
+  Email
+  Project Description
+
+
+  Customer Size                Start Date   End Date   Contract amount
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                       28
+May 5, 2020
+Appendices
+
+
+
+ FORM 8: KEY PROJECT STAFF BACKGROUND INFORMATION
+
+[Complete the following table for each of the key project staff members. Use your word
+processor’s copy and paste commands to create additional copies of this table as
+necessary. Please allow one page for each table. At a minimum, key staff must
+include your proposed project manager and key contributors to this project.
+TEXT WITHIN THESE BRACKETS IS TO BE DELETED IN YOUR RESPONSE.]
+
+
+ Vendor Name
+ Staff member name
+ Position in the company
+ Length of time in position
+ Length of time at company
+ Project position and responsibilities
+ Education
+ Previous work experience
+ Skills and qualifications for the
+ project position.
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                            29
+May 5, 2020
+Appendices
+
+
+
+ Appendices
+
+RFP AMENDMENTS
+The City reserves the right to change the schedule or issue amendments to the RFP at
+any time. The City also reserves the right to cancel or reissue the RFP.
+
+
+VENDOR’S COST TO DEVELOP PROPOSAL
+
+Costs for developing proposals in response to the RFP are entirely the obligation of the
+vendor and shall not be chargeable in any manner to the City.
+
+
+WITHDRAWAL OF PROPOSALS
+
+Proposals may be withdrawn at any time prior to the submission time specified in this
+RFP, provided notification is received in writing. Proposals cannot be changed or
+withdrawn after the time designated for receipt.
+
+
+REJECTION OF                   PROPOSALS   –    WAIVER     OF    INFORMALITIES          OR
+IRREGULARITIES
+
+The City reserves the right to reject any or all proposals, to waive any minor informalities
+or irregularities contained in any proposal, and to accept any proposal deemed to be in
+the best interest of the City.
+
+
+PROPOSAL VAILIDITY PERIOD
+
+Submission of the proposal will signify the vendor’s agreement that its proposal and the
+content thereof are valid for 180 days following the submission deadline and will become
+part of the contract that is negotiated between the City and the successful vendor.
+
+
+CITY TAXATION
+The contractor awarded said contract will be required to purchase a City of Kirkland
+Business License.
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                  30
+May 5, 2020
+Appendices
+
+ PUBLIC RECORDS
+
+“Under Washington state law, the documents (including but not limited to written,
+printed, graphic, electronic, photographic or voice mail materials and/or transcriptions,
+recordings or reproductions thereof) submitted in response to this request for proposals
+(the “documents”) become a public record upon submission to the City, subject to
+mandatory disclosure upon request by any person, unless the documents are exempted
+from public disclosure by a specific provision of law. If the City receives a request for
+inspection or copying of any such documents provided by a vendor in response to this
+RFP, it will promptly notify the vendor at the address given in response to this RFP that
+it has received such a request. Such notice will inform the vendor of the date the City
+intends to disclose the documents requested and affording the vendor a reasonable
+opportunity to obtain a court order prohibiting or conditioning the release of the
+documents. The City assumes no contractual obligation to enforce any exemption.”
+
+
+ACQUISITION AUTHORITY
+
+This RFP and acquisition are authorized pursuant to KMC 3.85.200 and RCW 39.04.270.
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                               31
+May 5, 2020
+Appendices
+
+
+
+ CONTRACT AWARD AND EXECUTION
+
+ The City reserves the right to make an award without further discussion of the
+  proposal submitted. Therefore, the proposal should be initially submitted on the most
+  favorable terms the vendors can offer. It is understood that the proposal will become
+  a part of the official file on this matter without obligation to the City.
+ The general conditions and specifications of the RFP and as proposed by the City and
+  the successful vendor's response, as amended by agreements between the City and
+  the vendor, will become part of the contract documents. Additionally, the City will
+  verify vendor representations that appear in the proposal. Failure of the vendor's
+  products to meet the mandatory specifications may result in elimination of the vendor
+  from competition or in contract cancellation or termination.
+ The vendor selected as the apparently successful vendor will be expected to enter
+  into a contract with the City.
+ If the selected vendor fails to sign the contract within ten(10) business days of delivery
+  of the final contract, the City may elect to cancel the award and award the contract
+  to the next-highest-ranked vendor.
+ No cost chargeable to the proposed contract may be incurred before receipt of a fully
+  executed contract.
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                  32
+May 5, 2020
+Appendices
+
+
+
+
+DEFENSE, INDEMNIFICATION,                  HOLD       HARMLESS         AND     INSURANCE
+REQUIREMENTS
+
+In addition to other standard contractual terms, the City will require the selected vendor
+to comply with the defense, indemnification, hold harmless and insurance requirements
+as outlined below:
+
+To the greatest extent allowable by law, the Consultant shall defend, indemnify and hold
+the City, its officers, officials, employees and volunteers harmless from any and all claims,
+injuries, damages, losses or suits including attorney fees, arising out of or resulting from
+the acts, errors or omissions of the Consultant in performance of this Agreement, except
+for injuries and damages caused by the sole negligence of the City.
+
+The vendor shall procure and maintain, for the duration of this Agreement, insurance
+against claims for injuries to persons or damages to property which may arise from or in
+connection with the performance of the work hereunder by the Contractor, his agents,
+representatives, employees or subcontractors. The cost of such insurance shall be paid
+by the Contractor. Insurance shall meet or exceed the following unless otherwise
+approved by the City.
+A. Minimum Scope of Insurance
+    1. Insurance Services Office Commercial General Liability coverage ("occurrence"
+    form CG0001) (Ed.10/1/93), or, Insurance Services Office form number GL 0002
+    (Ed. 1/73) covering Comprehensive General Liability and Insurance Services Office
+    form number GL 0404 (Ed. 1/81) covering Broad Form Comprehensive General
+    Liability.
+    2. Insurance Services Office form number CA 0001 (Ed. 12/93), covering
+    Automobile Liability code 1, "any auto", for activities involving other than incidental
+    personal auto usage.
+    3. Workers’ Compensation coverage as required by the Industrial Insurance Laws
+    of the State of Washington.
+    4. Consultant's Errors and Omissions or Professional Liability applying to all
+    professional activities performed under the contract.
+    5. Technology (E&O) insurance.
+    6. Network Security/Cyber Liability (Cyber Protection) insurance.
+
+
+B. Minimum Levels of Insurance
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                       33
+May 5, 2020
+Appendices
+
+ Technology Errors & Omissions (E&O)
+    (a) Technology Errors & Omissions (E&O) shall be written with limits no less than
+        $1,000,000 per claim and $1,000,000 policy aggregate limit.
+
+
+Network Security/Cyber Liability (Cyber Protection) with minimum limits $1,000,000
+(one million) each wrongful act. Sublimit for Notification Costs $1,000,000 (one
+million) each wrongful act. Network Security (Cyber) and Privacy Insurance shall
+include, but not be limited to, coverage, including defense, for the following losses or
+services:
+
+
+    (a) Liability arising from theft, dissemination, and/or use of Public Entity
+        confidential and personally identifiable information, including but not limited
+        to, any information about an individual maintained by the Public Entity,
+        including (i) any information that can be used to distinguish or trace an
+        individual‘s identity, such as name, social security number, date and place of
+        birth, mother’s maiden name, or biometric records; and (ii) any other
+        information that is linked or linkable to an individual, such as medical,
+        educational, financial, and employment information regardless of how or where
+        the information is stored or transmitted.
+
+
+    (b) Network security liability arising from (i) the unauthorized access to, use of, or
+        tampering with computer systems, including hacker attacks; or (ii) the inability
+        of an authorized third party to gain access to supplier systems and/or Public
+        Entity data, including denial of service, unless caused by a mechanical or
+        electrical failure; (iii) introduction of any unauthorized software computer code
+        or virus causing damage to the Public Entity or any other third party data.
+
+
+    (c) Lawfully insurable fines and penalties resulting or alleging from a data breach.
+
+
+    (d) Event management services and first-party loss expenses for a data breach
+        response including crisis management services, credit monitoring for
+        individuals, public relations, legal service advice, notification of affected parties,
+        independent information security forensics firm, and costs to re-secure, re-
+        create and restore data or systems.
+
+
+    (e) Network Security (Cyber) and Privacy Insurance shall be written with limits no
+        less than $2,000.000 per claim $2,000,000 policy aggregate for network
+        security and privacy coverage, $100,000 per claim for regulatory action (fines
+        and penalties), and $100,000 per claim for event management services.
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                          34
+May 5, 2020
+Appendices
+
+ Commercial General Liability insurance shall be written with limits no less than
+ $1,000,000 each occurrence, $2,000,000 general aggregate.
+Automobile Liability: $1,000,000 combined single limit per accident for bodily injury
+and property damage.
+
+
+Workers’ Compensation coverage as required by the Industrial Insurance laws of the
+State of Washington.
+Consultant's Errors or Omissions or Professional Liability: $1,000,000 per occurrence
+and as an annual aggregate.
+
+
+C. Deductibles and Self-Insured Retentions
+    Any deductibles or self-insured retentions must be declared to and approved by
+    the City. In the event the deductibles or self-insured retentions are not acceptable
+    to the City, the City reserves the right to negotiate with the Contractor for changes
+    in coverage deductibles or self-insured retentions; or alternatively, require the
+    Contractor to provide evidence of other security guaranteeing payment of losses
+    and related investigations, claim administration and defense expenses.
+D. Other Provisions
+    Wherever possible, the policies are to contain, or be endorsed to contain, the
+    following provisions:
+    1. General or Commercial Liability and Automobile Liability Coverages
+         a. The City, its officials, employees and volunteers are to be covered as
+         additional insureds as respects: liability arising out of activities performed
+         by or on behalf of the contractor; products and completed operations of the
+         Contractor; premises owned, leased or used by the Contractor; or
+         automobiles owned, leased, hired or borrowed by the Contractor. The
+         coverage shall contain no special limitations on the scope of protection
+         afforded to the City, its officials, employees or volunteers.
+         b. The Contractor's insurance shall be primary insurance as respects the
+         City, its officials, employees and volunteers. Any insurance or self-insurance
+         maintained by the City, its, employees or volunteers shall be excess of the
+         Contractor's insurance and shall not contribute with it.
+         c. Any failure to comply with reporting provisions of the policies shall not
+         affect coverage provided to the City, its officials, employees or volunteers.
+         d. Coverage shall state that the Contractor's insurance shall apply
+         separately to each insured against whom claim is made or suit is brought,
+         except with respect to the limits of the insurer's liability.
+    2. All Coverages
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                     35
+May 5, 2020
+Appendices
+
+         Each insurance policy required by this clause shall state that coverage shall
+         not be canceled by either party except after thirty (30) days prior written
+         notice has been given to the City.
+E. Acceptability of Insurers
+    Insurance is to be placed with insurers with a current Bests' rating of A:VII, or
+    with an insurer acceptable to the City.
+
+
+F. Verification of Coverage
+    Contractor shall furnish the City with certificates of insurance and a copy of the
+    amendatory endorsements affecting coverage required by this clause. The
+    certificates for each insurance policy are to be signed by a person authorized by
+    that insurer to bind coverage on its behalf and shall name the City as an "additional
+    insured" except for coverages identified in A.4. above. The certificates are to be
+    received and approved by the City before work commences. The City reserves the
+    right to require complete, certified copies of all required insurance policies at any
+    time.
+G. Subcontractors
+    Contractor shall include all subcontractors as insureds under its policies or shall
+    require subcontractors to provide their own coverage. All coverages for
+    subcontractors shall be subject to all of the requirements stated herein.
+
+
+
+
+OWNERSHIP OF DOCUMENTS
+
+Any reports, studies, conclusions, and summaries prepared by the Proposer shall become
+the property of the City.
+
+
+
+CONFIDENTIALITY OF INFORMATION
+
+All information and data furnished to the Proposer by the City, and all other documents
+to which the Proposer’s employees have access during the term of the contract, shall be
+treated as confidential to the City. Any oral or written disclosure to unauthorized
+individuals is prohibited.
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                     36
+May 5, 2020
+ATTACHMENTS
+
+
+ ATTACHMENTS
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal         37
+May 5, 2020
+ATTACHMENTS
+
+ Attachment A: Non-Collusion Certificate
+
+NON-COLLUSION CERTIFICATE
+
+
+STATE OF                                             )
+                                                      ss.
+COUNTY OF                                            )
+
+
+The undersigned, being duly sworn, deposes and says that the person, firm, association,
+co-partnership or corporation herein named, has not, either directly or indirectly, entered
+into any agreement, participated in any collusion, or otherwise taken any action in
+restraint of free competitive bidding in the preparation and submission of a proposal to
+the City of Kirkland for consideration in the award of a contract on the improvement
+described as follows:
+
+Digital Evidence Software Migration and Implementation
+
+
+
+
+                   (Name of Firm)
+
+
+
+By:
+                   (Authorized Signature)
+
+Title
+
+
+Sworn to before me this                     day of          ,     .
+
+
+Notary Public
+
+
+CORPORATE SEAL:
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                 38
+May 5, 2020
+ATTACHMENTS
+
+ Attachment B: Non-Disclosure Agreement
+
+              NON-DISCLOSURE AGREEMENT
+
+
+
+This Non-Disclosure Agreement (“the Agreement”) is made this _____ day of ________, 202__,
+by and between the City of Kirkland, a municipal corporation of the State of Washington (the
+“City”), and _______________________ , a __ corporation (“the Vendor”).
+
+Whereas, the Vendor <is the successful candidate/wishes to submit a proposal>for the Digital
+Evidence Software Migration and Implementation ; and
+
+Whereas, the Vendor will need to review confidential information (“the Confidential
+Information”) belonging to the City in order to be able to <prepare its proposal/complete this
+project>, which the City does not want disclosed; and
+
+Whereas, in consideration for being allowed to see the Confidential Information so that it can
+prepare a proposal, the sufficiency of such consideration being hereby acknowledged, Vendor is
+willing to enter into this Non-Disclosure Agreement,
+
+Now therefore, as evidenced by their signatures below, the parties hereby agree as follows:
+
+    1. The Vendor shall maintain and protect the confidentiality of the Confidential
+       Information, the Vendor shall not disclose the Confidential Information to any person or
+       entity and shall not challenge, infringe or permit or assist any other person or entity to
+       disclose the Confidential Information or challenge or infringe any of the City’s license
+       rights, trade secrets, copyrights, trademarks or other rights respecting the Confidential
+       Information.
+
+    2. Except pursuant to a written agreement between the parties, the Vendor shall not
+       directly or indirectly, i) provide, make, use or sell, or permit or assist any other person
+       or entity to provide, make, use or sell any services, devices or products incorporating
+       any protected feature embodied in any of the Confidential Information; ii) apply for or
+       seek to register, or otherwise attempt to create, establish or protect any patents,
+       copyrights or trademarks with respect to any of the Confidential Information; or iii) use
+       any name used by the other party, whether or not subject to trademark protection, or
+       any confusingly similar name.
+
+    3. The Vendor shall not disclose the Confidential Information except to those persons
+       employed by the Vendor, or its affiliates or subsidiaries, who have reasonable need to
+       review the Confidential Information under the terms of this Agreement.
+
+    4. Vendor shall not make any copies, drawings, diagrams, facsimiles, photographs or other
+       representations of any of the Confidential Information.
+
+    5. Upon request by the City, Vendor shall immediately return any Confidential Information
+       in its possession, including all copies thereof.
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                          39
+May 5, 2020
+ATTACHMENTS
+
+
+    6. Notwithstanding other provisions of this Agreement, the Agreement does not restrict the
+       Vendor with respect to the use of information that is already legally in its possession,
+       that is available to the Vendor from other sources without violating this Agreement or
+       the intellectual property rights of the City or that is in the public domain.
+       Notwithstanding other provisions of this Agreement, this Agreement also shall not
+       restrict the Vendor from providing, making, using or selling services, devices or other
+       products so long as the Vendor does not breach this Agreement, violate the City’s
+       intellectual property rights or utilize any of the Confidential Information.
+
+    7. The covenants in this Agreement may be enforced a) by temporary, preliminary or
+       permanent injunction without the necessity of a bond or b) by specific performance of
+       this Agreement. Such relief shall be in addition to and not in place of any other
+       remedies, including but not limited to damages.
+
+    8. In the event of a suit or other action to enforce this Agreement, the substantially
+       prevailing party shall be entitled to reasonable attorneys’ fees and the expenses of
+       litigation, including attorneys’ fees, and expenses incurred to enforce this Agreement on
+       any appeal.
+
+    9. The Agreement shall be governed by and construed in accordance with Washington law.
+       The King County Superior Court or the United States District Court for the Western
+       District of Washington at Seattle (if federal law is applicable) shall have the exclusive
+       subject-matter jurisdiction of matters arising under this Agreement, shall have personal
+       jurisdiction over the parties and shall constitute proper venue for any litigation relating
+       to this Agreement.
+
+    10. For purposes of this Agreement, all covenants of the Vendor shall likewise bind the
+        officers, directors, employees, agents, and independent contractors of the Vendor, as
+        well as any direct or indirect parent corporation of the Vendor, direct or indirect
+        subsidiary corporations of the Vendor and any other person or entity affiliated with or
+        related to the Vendor or to any of the foregoing persons or entities. The Vendor shall
+        be liable to the City for conduct of any of the foregoing persons or entities in violation of
+        this Agreement to the same extent as if said conduct were by the Vendor.
+
+    11. The Vendor shall not directly or indirectly permit or assist any person or entity to take
+        any action which the Vendor would be barred by this Agreement from taking directly.
+
+    12. This Agreement shall bind and inure to the benefit of the heirs, successors and assigns
+        of the parties.
+
+IN WITNESS WHEREOF, the parties have duly executed this Agreement on the day and year
+first written above.
+
+CITY OF KIRKLAND                                      ________________________
+                                                      <Company Name>
+
+
+
+By:____________________________               By:____________________________
+Its:____________________________              Its:____________________________
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                             40
+May 5, 2020
+ATTACHMENTS
+
+
+             PROFESSIONAL SERVICES AGREEMENT
+             Digital Evidence Software Migration and Implementation 27-20-PD
+
+
+The City of Kirkland, Washington, a municipal corporation (“City”) and ____________________,
+whose address is ________________________ (“Consultant”), agree and contract as follows:
+
+      I.       SERVICES BY CONSULTANT
+
+                          A.     The Consultant agrees to perform the services described in
+                      Attachment ____ to this Agreement, which attachment is incorporated herein
+                      by reference.
+
+                          B.     All services and duties shall be conducted and performed diligently,
+                      completely and in accordance with professional standards of conduct and
+                      performance.
+
+                      II. COMPENSATION
+
+                           A.     The total compensation to be paid to Consultant for these services
+                      shall not exceed $______________, as detailed in Attachment _____.
+
+                            B.     Payment to Consultant by the City in accordance with the payment
+                      ceiling specified above shall be the total compensation for all services performed
+                      under this Agreement and supporting documents hereto as well as all
+                      subcontractors’ fees and expenses, supervision, labor, supplies, materials,
+                      equipment or the use thereof, reimbursable expenses, and other necessary
+                      incidentals.
+
+                          C.      The Consultant shall be paid monthly on the basis of invoices
+                      submitted. Invoicing will be on the basis of percentage complete or on the
+                      basis of time, whichever is applicable in accordance with the terms of this
+                      Agreement.
+
+                          D.     The City shall have the right to withhold payment to Consultant for
+                      any services not completed in a satisfactory manner until such time as
+                      Consultant modifies such services to the satisfaction of the City.
+
+                          E.      Unless otherwise specified in this Agreement, any payment shall be
+                      considered timely if a warrant is mailed or is available within 45 days of the
+                      date of actual receipt by the City of an invoice conforming in all respects to the
+                      terms of this Agreement.
+
+                      III. TERMINATION OF AGREEMENT
+
+                  The City or the Consultant may terminate this Agreement at any time, with or
+               without cause, by giving ten (10) days’ notice to the other in writing. In the event of
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                              41
+May 5, 2020
+ATTACHMENTS
+
+               termination, all finished or unfinished reports, or other material prepared by the
+               Consultant pursuant to this Agreement, shall be provided to the City. In the event
+               the City terminates prior to completion without cause, consultant may complete such
+               analyses and records as may be necessary to place its files in order. Consultant shall
+               be entitled to receive just and equitable compensation for any satisfactory services
+               completed on the project prior to the date of termination, not to exceed the payment
+               ceiling set forth above.
+
+                      IV. OWNERSHIP OF WORK PRODUCT
+
+                           A.     Ownership of the originals of any reports, data, studies, surveys,
+                      charts, maps, drawings, specifications, figures, photographs, memoranda, and
+                      any other documents which are developed, compiled or produced as a result of
+                      this Agreement, whether or not completed, shall be vested in the City. Any
+                      reuse of these materials by the City for projects or purposes other than those
+                      which fall within the scope of this Agreement or the project to which it relates,
+                      without written concurrence by the Consultant will be at the sole risk of the
+                      City.
+
+                           B.     The City acknowledges the Consultant’s plans and specifications as
+                      instruments of professional service. Nevertheless, the plans and specifications
+                      prepared under this Agreement shall become the property of the City upon
+                      completion of the services. The City agrees to hold harmless and indemnify
+                      consultant against all claims made against Consultant for damage or injury,
+                      including defense costs, arising out of any reuse of such plans and specifications
+                      by any third party without the written authorization of the Consultant.
+
+                          C.      Methodology, materials, software, logic, and systems developed
+                      under this Agreement are the property of the Consultant and the City, and may
+                      be used as either the consultant or the City sees fit, including the right to revise
+                      or publish the same without limitation.
+
+                      V. GENERAL ADMINISTRATION AND MANAGEMENT
+
+               The ______________________ for the City of Kirkland shall review and approve the
+               Consultant’s invoices to the City under this Agreement, shall have primary
+               responsibility for overseeing and approving services to be performed by the
+               Consultant, and shall coordinate all communications with the Consultant from the
+               City.
+
+                      VI. COMPLETION DATE
+
+                  The estimated completion date for the Consultant’s performance of the services
+               specified in Section I is __________________.
+
+                  Consultant will diligently proceed with the services contracted for, but consultant
+               shall not be held responsible for delays occasioned by factors beyond its control which
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                                42
+May 5, 2020
+ATTACHMENTS
+
+               could not reasonably have been foreseen at the time of the execution of this
+               Agreement. If such a delay arises, Consultant shall forthwith notify the City.
+
+               VII.         SUCCESSORS AND ASSIGNS
+
+                  The Consultant shall not assign, transfer, convey, pledge, or otherwise dispose of
+               this Agreement or any part of this Agreement without prior written consent of the
+               City.
+
+
+               VIII.        NONDISCRIMINATION
+
+               Consultant shall, in employment made possible or resulting from this Agreement,
+               ensure that there shall be no unlawful discrimination against any employee or
+               applicant for employment in violation of RCW 49.60.180, as currently written or
+               hereafter amended, or other applicable law prohibiting discrimination, unless based
+               upon a bona fide occupational qualification as provided in RCW 49.60.180 or as
+               otherwise permitted by other applicable law. Further, no person shall be denied or
+               subjected to discrimination in receipt of the benefit of any services or activities made
+               possible by or resulting from this Agreement in violation of RCW 49.60.215 or other
+               applicable law prohibiting discrimination.
+
+               IX.          HOLD HARMLESS/INDEMNIFICATION
+
+               To the greatest extent allowed by law the Consultant shall defend, indemnify and
+               hold the City, its officers, officials, employees and volunteers harmless from any and
+               all claims, injuries, damages, losses or suits including attorney fees, arising out of or
+               resulting from its negligence or breach of any of its obligations in performance of this
+               Agreement.
+
+               In the event of liability for damages arising out of bodily injury to persons or damages
+               to property caused by or resulting from the concurrent negligence of the Consultant
+               and the City, its officers, officials, employees, and volunteers, the Consultant’s liability
+               hereunder shall be only to the extent of the Consultant's negligence. It is further
+               specifically and expressly understood that the indemnification provided herein
+               constitutes the Consultant's waiver of immunity under Industrial Insurance, Title 51
+               RCW, solely for the purposes of this indemnification. This waiver has been mutually
+               negotiated by the parties. The provisions of this section shall survive the expiration
+               or termination of this Agreement.
+
+    X.         LIABILITY INSURANCE COVERAGE
+
+               The Consultant shall procure and maintain for the duration of the Agreement,
+               insurance against claims for injuries to persons or damage to property which may
+               arise from or in connection with the performance of the work hereunder by the
+               Consultant, its agents, representatives, or employees. A failure to obtain and
+               maintain such insurance or to file required certificates and endorsements shall be a
+               material breach of this Agreement.
+
+               Consultant’s maintenance of insurance as required by the agreement shall not be
+               construed to limit the liability of the Consultant to the coverage provided by such
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                                 43
+May 5, 2020
+ATTACHMENTS
+
+               insurance, or otherwise limit the City’s recourse to any remedy available at law or in
+               equity.
+
+               A.     Minimum Scope of Insurance
+
+                      Consultant shall obtain insurance of the types described below:
+
+                      1.    Automobile Liability insurance covering all owned, non-owned, hired and
+                            leased vehicles. Coverage shall be as least as broad as Insurance Services
+                            Office (ISO) form CA 00 01 or a substitute form providing equivalent liability
+                            coverage. If necessary, the policy shall be endorsed to provide contractual
+                            liability coverage.
+
+                      2.    Commercial General Liability insurance shall be as least as broad as ISO
+                            occurrence form CG 00 01 and shall cover liability arising from premises,
+                            operations, stop-gap independent contractors and personal injury and
+                            advertising injury. The City shall be named as an additional insured under
+                            the Consultant’s Commercial General Liability insurance policy with respect
+                            to the work performed for the City using an additional insured endorsement
+                            at least as broad as ISO CG 20 26.
+
+                      3.    Workers’ Compensation coverage as required by the Industrial Insurance
+                            laws of the State of Washington.
+
+
+
+               B.     Minimum Amounts of Insurance
+
+                      Consultant shall maintain the following insurance limits:
+
+                      1.    Automobile Liability insurance with a minimum combined single limit for
+                            bodily injury and property damage of $1,000,000 per accident.
+
+                      2.    Commercial General Liability insurance shall be written with limits no less
+                            than $1,000,000 each occurrence, $2,000,000 general aggregate.
+
+                      3.    Professional Liability insurance shall be written with limits no less than
+                            $1,000,000 per claim and $1,000,000 policy aggregate limit.
+
+               C.     Other Insurance Provisions
+
+                      The insurance policies are to contain, or be endorsed to contain, the following
+                      provisions for Automobile Liability and Commercial General Liability insurance:
+
+                      1.    The Consultant’s insurance coverage shall be primary insurance as respects
+                            the City. Any insurance, self-insurance, or self-insured pool coverage
+                            maintained by the City shall be excess of the Consultant’s insurance and
+                            shall not contribute with it.
+
+                      2.    The Consultant shall provide the City and all Additional Insureds for this
+                            services with written notice of any policy cancellation, within two business
+                            days of their receipt of such notice.
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                                44
+May 5, 2020
+ATTACHMENTS
+
+
+               D.        Acceptability of Insurers
+
+                         Insurance is to be placed with insurers with a current A.M. Best rating of not
+                         less than A:VII.
+
+               E.        Verification of Coverage
+
+                         Consultant shall furnish the City with original certificates and a copy of the
+                         amendatory endorsements, including but not necessarily limited to the
+                         additional insured endorsement, evidencing the insurance requirements of the
+                         Consultant before commencement of the services.
+
+                    F.       Failure to Maintain Insurance
+
+                         Failure on the part of the Consultant to maintain the insurance as required shall
+                         constitute a material breach of contract, upon which the City may, after giving
+                         five business days’ notice to the Consultant to correct the breach, immediately
+                         terminate the contract or, at its discretion, procure or renew such insurance and
+                         pay any and all premiums in connection therewith, with any sums so expended
+                         to be repaid to the City on demand, or at the sole discretion of the City, offset
+                         against funds due the Consultant from the City.
+
+                    G.       City Full Availability of Consultant Limits
+
+                         If the Consultant maintains higher insurance limits than the minimums shown
+                         above, the City shall be insured for the full available limits of Commercial
+                         General and Excess or Umbrella liability maintained by the Consultant,
+                         irrespective of whether such limits maintained by the Consultant are greater
+                         than those required by this contract or whether any certificate of insurance
+                         furnished to the City evidences limits of liability lower than those maintained by
+                         the Consultant.
+
+               XI.           COMPLIANCE WITH LAWS/BUSINESS LICENSE
+
+               The Consultant shall comply with all applicable State, Federal, and City laws,
+               ordinances, regulations, and codes. Consultant must obtain a City of Kirkland business
+               license or otherwise comply with Kirkland Municipal Code Chapter 7.02.
+
+               XII.          FUTURE SUPPORT
+
+                 The City makes no commitment and assumes no obligations for the support of
+               Consultant activities except as set forth in this Agreement.
+
+               XIII.         INDEPENDENT CONTRACTOR
+
+                  Consultant is and shall be at all times during the term of this Agreement an
+               independent contractor and not an employee of the City. Consultant agrees that he
+               or she is solely responsible for the payment of taxes applicable to the services
+               performed under this Agreement and agrees to comply with all federal, state, and
+               local laws regarding the reporting of taxes, maintenance of insurance and records,
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                                 45
+May 5, 2020
+ATTACHMENTS
+
+               and all other requirements and obligations imposed on him or her as a result of his
+               or her status as an independent contractor. Consultant is responsible for providing
+               the office space and clerical support necessary for the performance of services under
+               this Agreement. The City shall not be responsible for withholding or otherwise
+               deducting federal income tax or social security or for contributing to the state
+               industrial insurance of unemployment compensation programs or otherwise assuming
+               the duties of an employer with respect to the Consultant or any employee of
+               Consultant.
+
+               XIV.         EXTENT OF AGREEMENT/MODIFICATION
+
+                  This Agreement, together with all attachments and addenda, represents the final
+               and completely integrated Agreement between the parties regarding its subject
+               matter and supersedes all prior negotiations, representations, or agreements, either
+               written or oral. This Agreement may be amended only by written instrument properly
+               signed by both parties.
+
+               XV.          ADDITIONAL WORK
+
+                  The City may desire to have the Consultant perform work or render services in
+               connection with the project other than provided for by the express intent of this
+               Agreement. Any such work or services shall be considered as additional work,
+               supplemental to this Agreement. This Agreement may be amended only by written
+               instrument properly signed by both parties.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the dates written
+below:
+
+CONSULTANT:                                          CITY OF KIRKLAND:
+
+
+By:                                                  By:
+                                                           Tracey Dunlap, Deputy City Manager
+
+Date:                                                Date:
+
+
+
+
+Digital Evidence Migration and Implementation
+City of Kirkland - Request for Proposal                                                          46
+May 5, 2020
+

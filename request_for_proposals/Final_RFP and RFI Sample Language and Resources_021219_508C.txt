@@ -1,0 +1,933 @@
+     RFP Best Practices for Subscriber Units Toolkit
+
+
+
+
+  Request for Proposal (RFP) and
+   Request for Information (RFI)
+Sample Language and Resources for
+     Land Mobile Radio (LMR)
+   Subscriber Units Procurement
+
+ Joint SAFECOM and National Council of Statewide
+      Interoperability Coordinators (NCSWIC)
+           Technology Policy Committee
+
+
+                    February 2019
+Sample Language and Resources Overview
+
+Introduction
+This document provides sample text and technical resources for state, local, tribal, territorial, or
+regional agencies as they develop Request for Information (RFI) and Request for Proposal (RFP)
+documents to procure Land Mobile Radio (LMR) subscriber units. Given that agencies vary in size,
+scope, and resources, the sample text is not intended to introduce "one-size-fits-all" approaches to
+RFP, but rather to provide examples of language common to LMR subscriber units RFIs and RFPs.
+Agencies and entities are encouraged to use the following sample texts as a roadmap to RFP
+development, modified appropriately to fit the needs of the agency or entity.
+
+In addition to the sample language, this document also includes a list of general resources that may
+be helpful for users when developing RFIs or RFPs. Users are encouraged to explore these resources
+to enhance their understanding of RFP development.
+
+
+Sample RFP and RFI Language
+For the purposes of this document, most text reflects language from RFPs for LMR subscriber units.
+However, some language for the RFI is included in its own section.
+
+Most of the examples used in this document appear in publicly available RFPs and RFIs (see RFI and RFP
+References section). To remain sensitive to agency- or entity-specific information, and to make the
+readability of the language uniform, all references to federal, state, local, tribal, or regional entities have
+been removed and replaced with a generic label ("AGENCY/ENTITY"). Any references to specific
+vendors/manufacturers or versions have also been replaced (e.g. "XYZ vendor"). Dollar and inventory
+amounts are also removed ("### subscriber units," "$X").
+
+Agencies and entities are encouraged to use language specific to their needs when drafting an RFP or RFI.
+However, the sample language below is intended to be used as a template or guide; therefore, agencies
+are also encouraged to use the language as presented, should the language be appropriate for their
+circumstances.
+
+
+
+
+                                     RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   |1
+SAFECOM-NCSWIC "RFP Toolkit"
+This document is included in the SAFECOM-NCSWIC Joint Technology Policy Committee’s RFP Best
+Practices for Land Mobile Radio Subscriber Units Toolkit, which was developed to assist users in
+procuring subscriber units.
+
+
+
+                        RFP Best Practices for LMR Subscriber Units Toolkit
+
+
+
+        RFP Best Practices for LMR             Describes subscriber units RFP best practices,
+        Subscriber Units Procurement           including lists of "Do's" and "Don’ts"
+        ("Do’s and Don’ts")
+
+
+
+
+        RFP and RFI Development Timeline       Outlines the timeline and significant steps in
+        for LMR Subscriber Units               developing an RFP or RFI
+        Procurement
+
+
+
+
+        RFP and RFI Roles and                  Describes the various roles within RFP and RFI
+        Responsibilities for LMR Subscriber    development, along with associated responsibilities
+        Units Procurement
+
+
+
+
+        RFP and RFI Sample Language and        Provides sample content structure and language,
+        Resources for LMR Subscriber           along with a list of general user resources, for
+        Units Procurement                      developing subscriber unit RFPs and RFIs
+
+
+
+
+                                   RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   |2
+Table of Acronyms/Abbreviations
+
+Acronym/Abbreviation Full Name/Title/Phrase
+
+AES                   Advanced Encryption Standard
+ANSI                  American National Standards Institute
+ARP                   Address Resolution Protocol
+CAI                   Common Air Interface
+CHAP                  Challenge Handshake Authentication Protocol
+CISA                  Cybersecurity and Infrastructure Security Agency
+DES                   Data Encryption Standard
+DHS                   Department of Homeland Security
+EIA                   Electronic Industries Alliance
+FDMA                  Frequency Division Multiple Access
+FirstNet              First Responder Network Authority
+FNE                   Fixed Network Equipment
+GAO                   Government Accountability Office
+GPS                   Global Positioning System
+ID                    Identification
+IP                    Internet Protocol
+KMF                   Key Management Facility
+LMR                   Land Mobile Radio
+LTE                   Long Term Evolution
+MHz                   Megahertz
+MNP                   Microcom Networking Protocol
+NCSWIC                National Council of Statewide Interoperability Coordinators
+OTAR                  Over the air rekeying
+P25                   Project 25
+P25 CAP               Project 25 Compliance Assessment Program
+PDA                   Personal Digital Assistant
+POC                   Point of contact
+
+                            RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   |3
+Acronym/Abbreviation Full Name/Title/Phrase
+
+PPP                   Point-to-Point Protocol
+PTIG                  Project 25 Interest Group
+PTT                   Push to talk
+RCP                   Radio Control Protocol
+RFC                   Radio Frequency Components
+RFI                   Request for Information
+RFP                   Request for Proposal
+RFQ                   Request for Quotations
+RFSS                  Radio Frequency Subsystem
+RSI                   Radio Set Identification
+SLIP                  Serial Line IP
+SNDCP                 Sub Network Dependent Convergence Protocol
+SNMP                  Simple Network Management Protocol
+SOR                   Statement of Requirements
+SOW                   Statement of Work
+SU                    Subscriber unit(s)
+TCP                   Transmission Control Protocol
+TIA                   Telecommunications Industry Association
+UDP                   User Datagram Protocol
+USB                   Universal Serial Bus
+v (e.g., v4)          Version (version and version number)
+WACN                  Wide Area Communications Network
+
+
+
+
+                            RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   |4
+Sample Language
+
+RFI vs. RFP
+Though comparable, the RFI and RFP documents have significant differences in language, content, and
+terminology. Major differences between the RFI and the RFP are included below.
+
+
+
+ Key Terminology - RFI vs. RFP (* Note: Emphasis added below)
+
+                   Request for Information                             Request for Proposals
+ Agency/Entity     Agency or entity: Preferred name or                 Agency or entity: Preferred name or
+ and Vendor(s)     acronym of procuring agency or entity               acronym of procuring agency or entity
+ titles            (state, county, city, district, tribe, territory,   (state, county, city, district, tribe, territory,
+                   or federal agency or other entity)                  or federal agency or other entity)
+                   Vendor: Respondee, Offeror, Vendor,                 Vendor: Proposer, Offeror, Vendor, Bidder,
+                   Industry, Responding Party/Entity                   Prospective Vendor, Responding
+                   Interested Party                                    Party/Entity, Interested Party
+                   (Note: RFI respondees are not considered
+                   Proposers)
+ RFI or RFP        THIS IS A REQUEST FOR INFORMATION                   The AGENCY/ENTITY is releasing this
+ introduction      (RFI) ONLY. This RFI is issued solely for           Request for Proposal (RFP) to procure
+                   information and planning purposes – it              Land Mobile Radio (LMR) subscriber units
+                   does not constitute a Request for                   equipment and associated services
+                   Proposal (RFP) or a promise to issue an             according to a Project (P25) Public Safety
+                   RFP in the future. This request for                 Radio System and in accordance with the
+                   information does not commit the                     requirements of this Proposal invitation
+                   AGENCY/ENTITY to contract for any                   and any resulting contract.
+                   supply or service whatsoever. Further, the
+                   AGENCY/ENTITY is not at this time
+                   seeking proposals and will not accept
+                   unsolicited proposals. Respondees are
+                   advised that the AGENCY/ENTITY will not
+
+                                    RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement     |5
+Key Terminology - RFI vs. RFP (* Note: Emphasis added below)
+
+                Request for Information                         Request for Proposals
+                pay for any information or administrative
+                costs incurred in response to this RFI; all
+                costs associated with responding to this
+                RFI will be solely at the interested party’s
+                expense. Not responding to this RFI does
+                not preclude participation in any future
+                RFP, if any is issued. It is the
+                responsibility of the potential offerors to
+                monitor AGENCY/ENTITY sources for
+                additional information.
+Purpose         The objectives of the RFI are to get a          This Request for Proposal (RFP) is being
+statement       broad overview of what is available in          offered for the procurement of various
+                the marketplace and to create a short list      types of Subscriber Radios for public
+                of units to be considered for a large           safety and emergency services.
+                quantity purchase. Therefore the                In this procurement, AGENCY/ENTITY is
+                technical specifications are merely an          soliciting competitive bids for products
+                expression of the intent, not a restrictive     and/or services, which may be purchased
+                list of must-meet requirements.                 by the AGENCY/ENTITY during the
+                                                                contract term.
+Project         Requirements - stated in the form of an         Requirements - stated in the form of a
+requirements    inquiry, for example:                           requisite, for example:
+                "AGENCY/ENTITY is aware of the                  "All radio subscriber internal software
+                technology that allows for cellular             shall be downloadable from a
+                phones and other LTE capable devices to         programming device (e.g., laptop, PDA)
+                pass voice traffic over P25 systems using       without the need to replace internal
+                encryption. AGENCY/ENTITY would like            components for new software versions.
+                information on these types of products          Proposers shall provide radio subscribers
+                and how the system can be integrated            equipped for over-the-air reprogramming
+                with broadband technology in the                of both system configuration parameters
+                future."*                                       and internal operating software."*
+
+                                RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   |6
+Cover/Title Page
+
+
+ RFP Sample Cover / Title Page
+
+
+
+                                               AGENCY/ENTITY
+                                          REQUEST FOR PROPOSAL
+                                                  (RFP #0000)
+                               P25 LAND MOBILE RADIO SUBSCRIBER UNITS
+                                                REPLACEMENT
+
+
+        Issued: Month Day, Year
+        Proposal Due: Month Day, Year
+        Submissions Mailing Address:
+                AGENCY/ENTITY Name or Point of Contact Full Name
+                Address Line 1
+                City, State Postal Code
+        Anticipated Award: Month Day, Year
+        Contact Information:
+                Point of Contact Full Name
+                Address Line 1
+                City, State Postal Code
+
+
+
+
+Agency Profile
+All RFPs and RFIs should include basic information about the agency or entity releasing the request. The
+profile is typically included as part of the "long title" of the RFI or RFP (outlined on the first page of the
+RFI/RFP). The agency or entity information may include the following elements:
+
+
+
+
+                                    RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   |7
+    •    Agency/entity name
+    •    Contact information/point of contact
+    •    Submission information, including mailing address
+    •    RFP/RFI number (as applicable)
+    •    Issue date
+
+
+
+Background and Timeline
+Issuing agencies should include a timeline (due date) so that the proposers have an expectation as to
+when to submit proposals. Additionally, the purpose and scope of the agency or entity's procurement
+inquiry and any relevant background information is useful for proposers.
+
+
+
+ Sample Language - Background and Timeline
+
+ Section                      Sample Language
+ Background                   The existing AGENCY/ENTITY systems includes ### LMR subscriber units,
+                              including ### mobile and ### portable radio units. The AGENCY/ENTITY
+                              system utilizes a conventional/Phase I trunked/Phase II trunked XYZ system
+                              with ### repeated tower sites throughout the AGENCY/ENTITY geographical
+                              area. XYZ Vendor accounts for ### of Model No. subscriber units.
+ Purpose                      The primary objective of the AGENCY/ENTITY is to acquire LMR subscriber
+                              units to meet operability, interoperability, equipment, equipment support,
+                              and training needs.
+ Scope                        AGENCY/ENTITY requires professional grade portable/mobile radios that are
+                              ANSI/TIA/EIA-102 compliant commonly referred to as Project 25 (P25) that
+                              meet the minimum specifications (see attached P25 specifications). The
+                              radios must also be capable of operating on the AGENCY/ENTITY’s existing
+                              XYZ Vendor X-- MHz (megahertz), analog, trunked radio system as well as P-
+                              25 X--/Y-- MHz trunking and conventional protocols.
+                              AGENCY/ENTITY anticipates that a quantity up to X radios may be purchased
+                              from this master contract, over the term of the contract, but makes no
+                              commitment to procure any specific minimum quantity.
+
+
+
+                                    RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   |8
+ Timeline                    The timeline provided includes current dates and deadlines as a general
+                             guideline and is subject to change at the AGENCY/ENTITY's sole discretion.
+                             Unless stated otherwise, consider the dates below to be the projected
+                             deadlines for each stage of the RFP. The following events represent events
+                             that may require dates or timeframes in the RFP process:
+                                 •    Issue date
+                                 •    Mandatory pre-proposal conference (optional)
+                                 •    Site location survey visits (optional)
+                                 •    Written questions deadline
+                                 •    Bid opening date
+                                 •    Proposal due date (final deadline)
+                                 •    Scripted demonstrations
+                                 •    Anticipated award
+                                 •    Contract negotiations
+
+
+                             (Note: Not inclusive to all events issuing agencies or entities may include as
+                             part of the proposal submission and selection process)
+
+
+
+Formatting and Content Requirements
+Many RFPs include formatting or content requirements to ensure uniformity among proposals received.
+This is helpful for ease of access, data comparison, and general organization.
+
+The following elements of a proposal submission are common formatting and content features:
+
+   •   Sections of the proposal (e.g., technical requirements, pricing)
+   •   Attachments or number of attachments
+   •   Cover letter, executive summary, and/or table of contents
+   •   References
+   •   Timeline projections for implementation
+   •   Pricing spreadsheet or equivalent
+   •   Key personnel or points of contact
+   •   Description of proposed capabilities or equipment
+   •   Letter of Transmittal, Statement of Work (SOW), or other useful attachments
+
+
+                                     RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   |9
+Submission Guidelines
+In addition to the RFP deadline and formatting requirement, submission guidelines ensure that proposers
+are aware of agencies' expectations during the submission process. For example, some agencies may
+prefer to receive a physical copy of the proposal in the mail, while other agencies may prefer digital only.
+The submission guidelines will also alert the proposers of any attachments required as part of the
+proposal submission. The following list includes several other examples of guidelines:
+
+   •   Authorized signature
+   •   Changes to proposals
+   •   Time of receipt and acceptance of proposals
+   •   Financial statements
+   •   License requirements or authorization to transact business
+   •   Physical, digital, oral, or facsimile submission requirements (e.g., submission must be printed and
+       submitted in three-ring binders; no submission will be accepted over the phone)
+   •   Specified number of copies to be submitted
+
+
+
+Technical Requirements for Subscriber Units
+Considering the wide variance in subscriber unit needs, not all RFPs and RFIs will include the same
+formatting or level of technical detail.
+
+If P25 is the desired choice for subscriber units, the agency may want to require compliance with the TIA-
+102 suite of Standards and consult resources such as the CAP P25 Approved Equipment List and RFPs
+from jurisdictions with similar needs (see Technical Resources section).
+
+Below are two tables: the first table (page 11) includes a list from a user's sample RFP. The second table
+(page 12) includes capabilities enabled by the TIA-102 Standards for P25-compliant subscriber units (these
+capabilities reflect standards for FDMA voice services for P25 Trunking Phase I). Note that the features
+listed in either table do not represent a comprehensive list of all available subscriber units features.
+
+
+
+
+                                   RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 10
+Technical Requirements - Subscriber Unit Features from Sample RFP
+
+Audible and visual       •   Emergency                                •   Callback
+
+signaling                    Activation/Reception                     •   Battery Life Indication
+                         •   Dynamic Regrouping                       •   Charging Mode Indication
+                         •   Individual Call                          •   Transmit and Receive Indicate
+                         •   Telephone Interconnect Call              •   Programming Mode Activation
+                         •   Selective Alert                          •   Software Upgrade Mode
+                         •   Console Alert Tone(s)                        Activation
+                         •   Subscriber-Generated                     •   Feature Acknowledgment
+                             Evacuation Tone                          •   Channel Beacon
+                         •   Mode Announcement (voice                 •   Voice Communications Mode
+                             directory for programmable               •   Data Communications Mode
+                             radio modes)                             •   Priority Scanning
+                         •   Failure Modes (e.g., loss of             •   Home Mode Activation
+                             trunking control, loss of wide           •   Talkaround/Direct Mode
+                             area communications)                     •   Ready-to-Talk
+                         •   Trunks Busy                              •   Vehicular Repeater Mode.
+
+Mobile Radio Unit        •   Power supply                             •   External data port
+
+features                 •   Equipment housing                        •   Microphone/microphone cord
+                         •   Radio unit display features              •   Speakers/remote speakers
+                         •   Enable/disable scanning                  •   Keypad lock/unlock
+
+Portable Radio Unit      •   Power supply                             •   External data ports
+
+features                 •   Batteries/adapter/charger                •   Belt clip/radio unit holster
+                         •   Equipment housing                        •   Volume control
+                         •   Radio unit display features              •   Microphone
+                         •   Channel selection                        •   Headset/earpiece/Bluetooth
+                             switch/button/knob                           accessories
+                         •   Emergency status                         •   Keypad lock/unlock
+                             switch/button/knob                       •   Date/time display
+
+
+
+
+                             RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 11
+Technical Requirements - Capabilities Enabled by TIA-102 Standards for Subscriber Units
+
+Voice Service - Common Air Interface (CAI)
+The below list includes the P25 Frequency Division Multiple Access (FDMA) voice services - or Common Air
+Interface (CAI) services - for P25 Trunking Phase I defined in published TIA-102 Standard documents.
+Voice calls     Conventional or      •   Group Voice Call
+                Trunked              •   Emergency Group Voice Call
+                subscribers
+                Conventional         •   Unaddressed (Analog) Voice Call
+                subscribers only     •   Individual Voice Call
+                Trunked              •   Broadcast Call                       •   Message Trunking
+                subscribers only     •   Announcement Group Call              •   Transmission Trunking
+                                     •   System Call                          •   Conventional Fallback
+                                     •   Individual Call with                 •   Individual Voice Call without
+                                         Availability Check                       Availability Check
+Supplementary Conventional or        •   Call Alert                           •   Radio Unit Monitoring
+services        Trunked              •   Discreet Listening                   •   Short Message
+                subscribers          •   Emergency Alarm                      •   Status Query
+                                     •   Radio Check                          •   Status Update
+                                     •   Radio Unit Inhibit/Uninhibit         •   Transport of Talking Party
+                                                                                  Identification
+                Conventional         •   Busy Channel Lockout                 •   Monitor Squelch
+                subscribers only     •   Normal Squelch                       •   Selective Squelch
+                Trunked              •   Emergency Alarm Cancellation
+                subscribers only     •   Group Emergency Cancellation
+                                     •   Priority Call
+                                     •   Pre-emptive Priority Call
+                                     •   Call Interrupt (Wireline Console Outbound Audio Takeover)
+                                     •   Radio Detach
+Mobility and    Trunked              •   Unit Registration; Home SUs
+registration    subscribers only     •   Unit Registration; Inter System SUs
+services                             •   Unit Registration; Inter WACN SUs
+
+
+                                RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 12
+                                   •   Secure Unit Registration; (Radio Authentication); Home SUs
+                                   •   Secure Unit Registration; (Radio Authentication); Inter System SUs
+                                   •   Secure Unit Registration; (Radio Authentication); Inter WACN SUs
+                                   •   Location Registration
+                                   •   Unit Deregistration
+                                   •   Affiliation; Home Talkgroups
+                                   •   Affiliation; Inter System Talkgroups
+                                   •   Affiliation; Inter WACN Talkgroups
+                                   •   Call Restriction (Authorization)
+                                   •   RFSS Polling Request (without Capabilities)
+                                   •   RFSS Polling Request (with Capabilities)
+                                   •   RFSS Polling Response (without Capabilities)
+                                   •   RFSS Polling Response (with Capabilities)
+                                   •   RFSS Polling; RFSS Functional Capability
+                                   •   RFSS Polling; RFSS Adjacent Site Status
+                                   •   RFSS Polling; RFSS Unit/Group Roaming Capability
+                                   •   RFSS Polling; Known Status
+                                   •   RFSS Polling; RFSS Vocoder Mode Conveyance
+Telephone      Conventional or     •   Landline to Group Call
+interconnect   Trunked             •   Landline to Unit Call
+               subscribers         •   Unit to Landline Call
+                                   •   Dialing Side Tone
+                                   •   34-digit Dialed Number
+                                   •   Generate Hook Flash
+                                   •   Conventional Disconnect Code
+                                   •   Overdial
+               Trunked             •   Trunked Interconnect Availability Check
+               subscribers only
+Voice          Conventional or     •   AES Encryption
+encryption     Trunked             •   DES Encryption
+               subscribers
+
+
+
+
+                              RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 13
+Data Bearer Services
+The below list includes the P25 FDMA non-voice services related to Data Bearer Services defined in
+published TIA-102 Standard documents.
+Block            Conventional or     •   AES Encryption
+Encryption       Trunked             •   DES Encryption
+Service          subscribers
+Conventional     Conventional        •   Static Registration
+management       subscribers only    •   Dynamic Registration
+services                             •   Mobility Tracking
+                                     •   Data Scan
+CAI data         Conventional        •   Confirmed Data Packet Delivery
+bearer service   subscribers only    •   Unconfirmed Data Packet Delivery
+IP data bearer   Conventional or     •   Context Management
+service          Trunked             •   Confirmed IPv4 Datagram Conveyance
+                 subscribers         •   Unconfirmed IPv4 Datagram Conveyance
+                                     •   RFC-1144 TCP/IP Compression
+                                     •   RFC-2507 UDP/IP Compression
+                                     •   Challenge Handshake Authentication Protocol (CHAP)
+                                     •   Fixed Network Equipment (FNE) Controlled
+                                     •   SU Controlled
+                 Conventional        •   Static IP Address Binding
+                 subscribers         •   Dynamic IP Address Binding via ARP
+                 only
+                 Trunked             •   SNDCP data Channel Allocation
+                 subscribers only
+CAI Data Bearer Service Applications
+The below list includes the P25 FDMA non-voice services related to CAI Data Bearer Services Applications
+defined in published TIA-102 Standard documents.
+Tier 1 unit      Conventional        •   Global Positioning System (GPS) Fix Data
+location         subscribers only    •   Geographic position - Latitude and Longitude
+                                     •   GPS Dilution of Precision and Active Satellites
+                                     •   Satellites in View
+
+
+                                RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 14
+                                      •   Recommended Minimum Specific Loran-C Data
+                                      •   Recommended Minimum Specific GPS/TRANSIT Data
+                                      •   Track made good and speed over ground
+CAI layer       Conventional          •   CAI Layer OTAR
+OTAR            subscribers only
+IP Data Bearer Service Applications
+The below list includes the P25 FDMA non-voice services related to Internet Protocol (IP) Data Bearer
+Services Applications defined in published TIA-102 Standard documents.
+Tier 2 unit     Conventional or       •   Immediate Location Service
+location        Trunked               •   Unsolicited Location Report Service
+                subscribers           •   Location Protocol Version Service
+                                      •   Triggered Location Service (PTT, Periodic, Emergency, Power
+                                          On/Off, Distance Change)
+IP layer OTAR   Conventional or       •   IP Layer OTAR
+                Trunked
+                subscribers
+Data Terminal Service Applications
+The below list includes the P25 FDMA non-voice services related to Data Terminal Service Applications
+defined in published TIA-102 Standard documents.
+Subscriber      Conventional or       •   IPv4 over PPP/USB
+Unit to         Trunked               •   IPv4 over SLIP/USB
+terminal IP     subscribers           •   IPv4 over PPP/TIA-232
+connectivity                          •   IPv4 over SLIP/TIA-232
+Subscriber      Conventional or       •   Radio Control Protocol              •   Restore Default Configuration
+Unit to         Trunked                   (RCP)                               •   Set Configuration
+terminal        subscribers           •   Simple Network                      •   Reset Operations Statistics
+management                                Management Protocol                 •   Get Operations Statistics
+                                          (SNMP)                              •   Radio Power Up Report
+                                      •   Get Information                     •   Radio Registration
+                                      •   Get Configuration                   •   Data Service Availability
+                                      •   Restore Default
+                                      •   Set Configuration
+
+
+                                RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 15
+Encryption Key Management
+The below list includes the P25 FDMA non-voice services related to Encryption Key Management defined
+in published TIA-102 Standard documents.
+Key fill device   Conventional or    •   Key Load                               •   View Message Number
+services          Trunked            •   Key Erase                                  Period (MNP)
+                  subscribers        •   Erase All Keys                         •   Load MNP
+                                     •   View Key Info                          •   View Keyset Info
+                                     •   View Individual Radio Set ID           •   Activate Keyset
+                                         (RSI)                                  •   Inventory (List Active SU ID)
+                                     •   Load Individual RSI                    •   Inventory (list SU ID items)
+                                     •   View KMF RSI                           •   Load Authentication Key
+                                     •   Load KMF RSI                           •   Delete Authentication Key
+OTAR services     Conventional or    •   Change Radio Set ID                    •   Registration
+                  Trunked            •   Changeover                             •   Deregistration
+                  subscribers        •   Delete Key                             •   Capabilities
+                                     •   Modify Key                             •   Delete Keyset
+                                     •   Hello                                  •   Inventory
+                                     •   Rekey                                  •   Key Assignment
+                                     •   Warm-Start                             •   Modify Keyset Attributes
+                                     •   Zeroize                                •   Set Date and Time
+OTAR              Conventional or    •   Delayed
+response          Trunked            •   Negative
+types             subscribers        •   No Service
+                                     •   Unable to Decrypt (only available with IP Layer Data service)
+
+
+
+
+                                RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 16
+Pricing Requirements
+Many RFPs utilize the following RFP sections or addenda to address cost and pricing considerations:
+
+   •   Price proposal form, typically included as addendum to the RFP
+   •   Pricing or financial proposal spreadsheet, typically attached to the RFP file
+   •   Pricing schedule
+   •   Contract payment schedule
+   •   Request for financial statements, according to financial best practice (1-2 years of financial
+       statements may suffice)
+   •   Cost assumption by Proposer clause, stating that any costs incurred by the Vendor/Proposer while
+       responding to the RFP or in anticipation of receiving a contract award are the sole expense of the
+       Vendor/Proposer and will not be reimbursed by the AGENCY/ENTITY
+
+
+
+Scoring Criteria and Evaluation
+The scoring and evaluation section outlines the criteria by which Proposers will be evaluated, scored, and
+selected. Although including metrics or weighting methodology is a best practice for evaluation, not all
+RFPs include the scoring methodology in the language of the RFP.
+
+Below are two examples of evaluation criteria; one includes the scoring methodology, the other does not.
+
+
+
+
+                                  RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 17
+Sample Language - Evaluation Criteria
+
+Example 1 - Evaluation Criteria with Scoring Methodology
+
+The AGENCY/ENTITY will evaluate the responses to the RFP and make its determination as to which
+proposal offers best value to the AGENCY/ENTITY, on the basis of the following criteria and in
+accordance with the designated percentage weight indicated in the following chart:
+
+
+               Criteria                                                                        Points
+
+       1.      Technical Approach                                                              30
+
+       2.      Qualifications and Experience                                                   30
+
+       3.      Quality Control, Warranty, Spare Parts, and Training Program                    15
+
+       4.      Price                                                                           25
+
+               TOTAL                                                                           100
+
+
+
+Example 2 - Evaluation Criteria without Specific Scoring Methodology
+
+The evaluation criteria listed below are in descending order of importance and will be weighted in the
+evaluation of the Offeror’s written and oral proposals accordingly. Proposals should give clear, concise
+information in sufficient detail and in the order presented below to allow an evaluation based on these
+requirements. Although some of the elements listed below will be weighted more heavily than others, all
+requirements are considered necessary for evaluation If minimum requirements for eligibility (mandatory
+minimums) are included in the evaluation criteria, failure to satisfy these mandatory minimum
+requirements will be considered disqualifying, and the proposal will not be considered for award.
+
+Evaluation Criteria are as follows:
+   •   Section 1 – Minimum Requirements for Eligibility will be evaluated on a pass/fail basis.
+   •   Section 2 – System Function and Approach
+   •   Section 3 – Experience, Proposed Organization, Management and Staffing
+   •   Section 4 – Price
+
+
+
+
+                                  RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 18
+Legal Compliance and Liability
+Legal and Statutory Compliance
+The procurement process involves statutory and policy requirements of which /issuing agencies should be
+aware. Additionally, the procurement process includes multiple stages of interaction between public and
+private entities, which requires strict adherence to legal and ethical standards, both on the part of the
+agencies and the vendors. To ensure that no legal, statutory, compliance, or ethical issues arise, the RFI
+and RFP should include clauses detailing the expected standards of conduct that Proposers and Issuers
+alike will follow. When possible, legal counsel should be sought to assure that all relative clauses are put
+in place.
+
+Examples of such clauses include (but are not limited to) those listed below. Not every agency, entity, or
+jurisdiction will be required by law to include each clause listed.
+
+   •   Conflict of interest
+   •   Non-discrimination
+   •   Assistance to proposers with a disability
+   •   Disclosure of proposal contents
+   •   Severability
+   •   Licensing/right to do business
+   •   Arbitration, dispute resolution, or choice of court
+   •   Non-collusion (or non-collusion affidavit)
+   •   Indemnity (or indemnity negotiation)
+   •   Remedies (or scope of remedies or remedies negotiation)
+   •   Right of refusal
+
+
+Insurance and Liability
+Many RFPs request proof of insurance or provide insurance requirements for contracting parties.
+
+
+
+
+                                   RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 19
+ Sample Language - Insurance
+
+ Contractor shall obtain, and at all times keep in effect, Commercial General Liability Insurance in the
+ amounts listed below for its activities and operations. The insurance shall include coverage for personal
+ injury, property damage, discrimination and civil rights violation claims. All such insurance shall name
+ AGENCY/ENTITY, individual members, their employees, and agents as ADDITIONAL INSURED. A copy of
+ the certificate of insurance shall be filed with AGENCY/ENTITY and/or participating Agencies prior to the
+ time any services are provided. Coverage shall be in the amount, no less than, $X per occurrence, $Y
+ general aggregate and $Z for property damage. Coverage shall be written on an occurrence form.
+
+
+
+Training and Education
+Many RFPs include provisions about training or user education about the use of equipment, newly
+integrated technologies, or interoperability.
+
+
+
+ Sample Language - Training
+
+ TRAINING
+ 1. The successful Vendor shall provide:
+    1.1. Operator training:
+        1.1.1. Vendor shall provide complete and comprehensive operational training that covers the
+             features, operation and special care associated with the equipment supplied. Operator
+             training shall include six classes with a maximum of ten people per class in the following
+             categories:
+            1.1.1.1.   Dispatch console operation
+    1.2. Technical/system management training:
+        1.2.1. Vendor shall identify and provide complete and comprehensive technical training in the
+             theory, maintenance and repair of each type of equipment and system provided for the
+             project. This training shall include, at a minimum, one class with a maximum of ten people
+             on system theory, troubleshooting, repair and servicing techniques as applicable to the
+             selected system. Technical training shall include the following categories:
+            1.2.1.1.   Infrastructure maintenance and troubleshooting
+
+
+                                   RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 20
+   1.3. Vendor shall identify and provide complete and comprehensive technical training for
+       AGENCY/ENTITY technical staff charged with managing the system. This training shall include,
+       but is not limited to: planning and setting up the system and network; performing database-
+       management functions; monitoring and managing the system’s performance; and writing and
+       printing system reports.
+2. Vendor shall fully describe all proposed training programs detailing how Vendor intends to provide
+   training. The training description shall include the following:
+   2.1. A list of all subjects with a description of each
+   2.2. Class material to be provided by Vendor
+   2.3. Number of classes
+   2.4. Class duration
+   2.5. Need for recurring training
+   2.6. Class size
+3. Vendor shall coordinate with the AGENCY/ENTITY regarding the number of attendees and schedule.
+4. Classes shall be scheduled as near to system cutover as possible. Vendor shall work with the
+   AGENCY/ENTITY to develop the schedule.
+5. Vendor shall train AGENCY/ENTITY employees or designated individuals. Vendor shall provide all
+   instructional materials, including printed manuals, audio, video, interactive self-paced personal
+   computer programs, and complete equipment operating instructions for all technical and operational
+   training classes. Actual and/or exact model and series of equipment being delivered shall be made
+   available for hands-on use and operation during training. All instructional materials shall be subject
+   to the approval of the AGENCY/ENTITY and shall become property of the AGENCY/ENTITY.
+
+
+
+
+                                  RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 21
+Technical Resources
+
+SAFECOM and NCSWIC RFP Best Practices for LMR Subscriber Units Procurement Toolkit
+Request for Proposal (RFP) and Request for Information (RFI) Roles and Responsibilities for Land Mobile
+   Radio (LMR) Subscriber Units Procurement. SAFECOM and NCSWIC, January 2019.
+   https://www.dhs.gov/technology
+
+Request for Proposal (RFP) and Request for Information (RFI) Development Timeline for Land Mobile Radio
+   (LMR) Subscriber Units Procurement. SAFECOM and NCSWIC, January 2019,
+   https://www.dhs.gov/technology
+
+Request for Proposal (RFP) Best Practices for Land Mobile Radio (LMR) Subscriber Units Procurement
+   SAFECOM and NCSWIC, January 2019. https://www.dhs.gov/technology
+
+
+Project 25 (P25)
+Project 25 Technology Interest Group. http://project25.org/
+
+A Guide to Project 25 Subscriber and Infrastructure Equipment Capabilities as Standardized in the TIA-102
+   Series. Project 25 Technology Interest Group, March 2015. http://project25.org/images/
+   stories/ptig/docs/PTIG_P25Capabilities_Guide_v1.7.pdf
+
+Approved (Grant-Eligible) Equipment. Department of Homeland Security P25 Compliance Assessment
+   Program, 2017/2018. https://www.dhs.gov/science-and-technology/approved-grant-eligible-equipment
+
+Approved Project 25 Standards. Project 25 Technology Interest Group, February 2017.
+   http://www.project25.org/images/stories/ptig/P25_Standards_Documents/P25_SC_17-01-
+   003__20170202_Pending_P25_TIA_Standards_Q1-2017_Draft.pdf
+
+P25 CAP Compliant Subscriber Products. Department of Homeland Security Science and Technology,
+   September 2017. https://www.dhs.gov/sites/default/files/publications/P25-CAP_Compliant-Subscriber-
+   Products_170906-508.pdf
+
+P25 Compliance Assessment Program (CAP). Department of Homeland Security Science and Technology.
+   https://www.dhs.gov/science-and-technology/p25-cap
+
+
+
+
+                                 RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 22
+SAFECOM Guidance Frequently Asked Questions: Understanding P25 Standards and Compliance.
+   SAFECOM, May 2017. https://www.dhs.gov/sites/default/files/publications/SAFECOM%20
+   Guidance%20FAQ_P25%20Compliance_05-08-2017_508.pdf
+
+
+Telecommunication Industry Association (TIA)
+Telecommunications Industry Association. https://www.tiaonline.org/
+
+TR-8 Mobile and Personal Private Radio Standards. Telecommunications Industry Association.
+   http://standards.tiaonline.org/all-standards/committees/tr-8
+
+
+First Responder Network Authority (FirstNet)
+First Responder Network Authority. https://firstnet.gov/
+
+How will the FirstNet Network Work with Today’s Land Mobile Radio Networks? First Responder Network
+   Authority, September 2015. https://www.firstnet.gov/sites/default/files/FirstNet%20LMR%20
+   Factsheet_150901.pdf
+
+Mission Critical Voice & Land Mobile Radio. First Responder Network Authority.
+   https://firstnet.gov/network/lmr
+
+
+SAFECOM and NCSWIC Additional Resources
+National Council of Statewide Interoperability Coordinators https://www.dhs.gov/safecom/NCSWIC
+
+SAFECOM https://www.dhs.gov/safecom
+
+Land Mobile Radio and Broadband Evolution. SAFECOM. https://www.dhs.gov/publication/lmr-and-
+   broadband-evolution
+
+
+Department of Homeland Security Additional Resources
+Approved (Grant-Eligible) Equipment. Department of Homeland Security Science and Technology
+   https://www.dhs.gov/science-and-technology/approved-grant-eligible-equipment
+
+
+
+
+                                  RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 23
+Office of Emergency Communications: Fiscal Year 2018 SAFECOM Guidance on Emergency
+   Communications Grants. Department of Homeland Security, Cybersecurity and Infrastructure Security
+   Agency, June 2018. https://www.dhs.gov/sites/default/files/publications/FY2018_SAFECOM_Guidance_
+   FINAL_508C_060518.pdf
+
+
+Funding Additional Resources
+Best Value Formula. David P. Quinn, National Security Agency, August 2002.
+   http://static1.1.sqspcdn.com/static/f/702523/9342640/1289328633887/200
+
+Emergency Communications System Life Cycle Planning Guide. Department of Homeland Security, Office
+   of Emergency Communications, August 2011.
+   https://www.dhs.gov/sites/default/files/publications/Emergency%2BCommunications%2BSystem%2BLife
+   %2BCycle%2BPlanning%2BGuide-%2BAugust%2B2011_0_0.pdf
+
+Funding Public Safety Communications Systems. SAFECOM and NCSWIC, November 2015.
+   https://www.dhs.gov/sites/default/files/publications/Funding%20Mechanisms_TechEdit_11202015_1.pdf
+
+Life Cycle Planning Tool. Department of Homeland Security, Office of Emergency Communications, March
+   2017. https://www.dhs.gov/sites/default/files/publications/Funding%20Mechanisms_
+   TechEdit_11202015_1.pdf
+
+
+LMR Additional Resources
+Land Mobile Radio (LMR) 101. SAFECOM and NCSWIC, February 2016.
+   https://www.dhs.gov/sites/default/files/publications/LMR%20101_508FINAL.pdf
+
+Land Mobile Radio (LMR) For Decision Makers. SAFECOM and NCSWIC, February 2016.
+   https://www.dhs.gov/sites/default/files/publications/LMR%20for%20Decision%20Makers_508FINAL.pdf
+
+
+See Also
+Improved Procurement of Land Mobile Radios Could Enhance Interoperability and Cut Costs. United States
+   Government Accountability Office (GAO). October 2016. https://www.gao.gov/assets/ 690/680331.pdf
+
+
+
+
+                                RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 24
+References
+List of RFIs referenced
+Request for Information from the Umatilla Morrow Radio & Data District for a P25 Trunked LMR Voice
+   System. Umatilla Morrow Radio & Data District, Pendleton, OR, 2017. https://www.umrdd.org/wp-
+   content/uploads/2017/06/Next-System-RFI_WEBSITE-PDF.pdf
+
+Fiscal Courts of Boone, Campbell, and Kenton Counties Public Safety Radio System Subscriber Units
+   Request for Information. Florence, KY, 2017. http://www.nkadd.org/images/documents/
+   rfps/publicSafetyRadioSystem/pubSafetyRadioSystemSubscriberUnits.pdf
+
+
+List of RFPs referenced
+Request for Proposal No. 17-016 Contract for Subscriber Radios (Regional). Metropolitan Washington
+   Council of Governments, 2017. https://www.mwcog.org/assets/1/25/RFP_17-
+   016_Subscriber_Radios_Final.pdf
+
+Request for Proposals (RFP) No. 13-13 Emergency Notification System and Services. Los Angeles
+   Community Colleges District, 2013. http://www.laccd.edu/Departments/BusinessServices/Contract-
+   Services/Documents/RFP%2013-13_Emergency%20Notification%20System_Posted_10-9-13.pdf
+
+County of San Diego Request for Proposal (RFP #6979) Sheriff's Department Regional Communications
+   System Replacement. Department of Purchasing and Contracting, San Diego, CA, 2015.
+   http://ac1950af3ceefeabf780-5a080c52246e50dbf3394147fb757de2.r62.cf1.rackcdn.com/07/
+   67078d339ac14505397f9003d2212f3a.pdf?id=376284
+
+County of Alameda Request for Quotation No. 900364 Specification, Terms & Conditions for P-25 Land
+   Mobile Radio (LMR) Subscribers. GSA Purchasing, Alameda County, CA, 2008.
+   http://www.acgov.org/gsa/purchasing/document/RFQ-P-25LMRSubscribers.pdf
+
+Request for Proposals Powhatan County P25 LMR Project. Powhatan County, VA, 2017. See
+   http://www.powhatanva.gov/DocumentCenter/View/3190/RFP-Procedural-Information-Final_2017-12-15;
+   http://www.powhatanva.com/DocumentCenter/View/3296/Powhatan-County-P25-LMR-System-RFP_-
+   Addendum-3a_01-12-18; http://www.powhatanva.com/DocumentCenter/View/3297/Powhatan-County-
+   P25-LMR-System-RFP_-Addendum-4_01-24-18; http://www.powhatanva.com/DocumentCenter/View/
+   3295/Powhatan-County-P25-LMR-System-RFP_-Addendum-2_12-22-17
+
+
+
+                                RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 25
+Request for Proposals RFP 2013-0200-1916. Department of Administration Division of Administrative
+   Services, State of Alaska, 2013. https://aws.state.ak.us/OnlinePublicNotices/Notices/
+   Attachment.aspx?id=90732
+
+Request for Proposal Specifications 700/800MHz Project-25 Radio Network. McPherson County, KS, 2017.
+   https://mcphersoncountyks.us/DocumentCenter/View/3023/McPherson-County-P25-RFP?bidId=
+
+
+List of P25 Standards referenced
+A Guide to Project 25 Subscriber and Infrastructure Equipment Capabilities as Standardized in the TIA-102
+   Series. Project 25 Technology Interest Group, March 2015.
+   http://project25.org/images/stories/ptig/docs/PTIG_P25Capabilities_Guide_v1.7.pdf
+
+Project 25 Technology Interest Group (PTIG) http://project25.org/
+
+Telecommunications Industry Association (TIA) https://www.tiaonline.org/
+
+
+
+
+                                 RFP and RFI Sample Language and Resources for LMR Subscriber Units Procurement   | 26
+

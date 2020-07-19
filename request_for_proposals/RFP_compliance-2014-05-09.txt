@@ -1,0 +1,1455 @@
+                                                          Request for Proposals
+                                                 Vendor for Design, Development,
+                                                            and Implementation of
+                                                             Compliance Program
+
+
+
+Project Overview
+MNsure is seeking a vendor to develop and implement a comprehensive Compliance Plan and sustainable
+supporting Compliance Program for the organization.
+
+
+Background
+Starting in 2011, Minnesota began designing, developing and implementing the various technology
+components necessary for a state-based health benefit marketplace as defined under the federal Affordable
+Care Act. On October 1, 2013, the MNsure application went “live” to the public to facilitate the comparison,
+choice, and purchase of health care coverage for individuals and employees of small businesses. Utilizing this
+application, individuals and employees have access to comparable information on costs, benefits, and health
+care providers for an array of coverage options. This information is used to select and enroll in the health
+benefit plan best meeting an enrollee’s personal and family needs. Eligible individuals and small businesses
+can also receive premium tax credits and cost-sharing reductions or help individuals enroll in Federal or State
+health care programs. By engaging consumers in a one-stop shopping experience with transparent
+information, MNsure makes purchasing health insurance easier and more understandable, puts more control
+and choice in the hands of individuals and employees of small businesses, and promotes greater market
+competition.
+
+Concurrent with the development and deployment of the technology platform for the marketplace, MNsure has
+commenced creating business processes to support the market place. Currently there are approximately 200
+employees engaged in functional areas such as eligibility and enrollment, operations, finance, plan
+management, legal and compliance, and SHOP. As the various functional areas have taken shape, MNsure
+has continued to develop infrastructure to support these areas. This has included the publication of an
+organizational chart, policies and procedures, and the development of training modules.
+
+
+Goal
+To develop and implement a comprehensive Compliance Program for MNsure based upon public and private
+sector best practices and stakeholder input.
+
+
+Responsibilities of the Vendor
+
+The core tasks expected to be carried out by the vendor include:
+Task One: Perform assessment to determine current status of compliance-related activities within MNsure.
+   • T1-1: Review all current compliance related documentation and create a consolidated inventory of this
+       documentation.
+
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+    •   T1-2: Create a consolidated inventory of applicable standards for MNsure, including, as appropriate,
+        applicable statutes, regulations, rules, policies, and guidance.
+    •   T1-3: Conduct interviews with MNsure Board members, management and staff, and other key
+        stakeholders, including agency partners, to inform the assessment of current status.
+
+Task Two: Create a draft Compliance Plan based on public and private sector best practices.
+   • T2-1: Conduct a survey of public and private sector resources to identify model compliance plans. The
+       survey should be presented to MNsure stakeholders ranked in order of Contractor’s recommendations,
+       from most suitable to least suitable.
+   • T2-2: In conjunction with MNsure stakeholders select a model compliance plan that is appropriate for
+       MNsure’s circumstances.
+
+Task Three: Coordinate finalization of the initial Compliance Plan.
+   • T3-1: Create and present summaries of the proposed Compliance plan.
+   • T3-2: Obtain and incorporate feedback from MNsure stakeholders on the draft Compliance Plan.
+   • T3-3: Present the Compliance Plan for approval by MNsure stakeholders.
+
+Task Four: Implement Compliance Program as identified in the approved Compliance Plan.
+   • T4-1: Perform gap analysis of current compliance-related activities and documentation to those
+       required under approved Compliance Plan.
+   • T4-2: In consultation with MNsure and stakeholders, create a prioritization of identified gaps based on a
+       risk assessment.
+   • T4-3: Create project plan to address gaps, based on the agreed-upon prioritization.
+   • T4-4: Carry out implementation tasks within this project plan as appropriate.
+
+Task Five: Provide project management.
+   • T5-1: Proactively manage contract and make MNsure aware of risks related to timely and successful
+       completion of deliverables. Contractor must use a standard project management template reporting tool
+       provided by the State.
+   • T5-2: Participate in a regularly scheduled weekly call, produce meeting minutes from those weekly
+       calls, and respond to inquiries and calls from the State promptly.
+   • T5-3: Follow project management methodologies, establishing and meeting milestones.
+   • T5-4: Provide ad hoc progress reports, data, or information in writing as requested by the State.
+
+
+
+Assignment Deliverables
+In addition to the responsibilities identified above, the vendor will produce the following deliverables on a
+regular basis as defined by the Executive Team:
+
+    •   Project Work Plan;
+    •   Status Reports / Dashboards;
+    •   Budget status, including documentation and tracking of all vendor invoices with reference to completed
+        work against vendor contract requirements;
+    •   Timekeeping and invoices in adherence to the practices of MNsure;
+    •   Short-, mid- and long-range planning documents; These documents must include:
+           o A project work plan which will be updated monthly as the project evolves
+           o Monthly status/dashboard reports detailing the status of the project including: the initial agreed
+                upon tasks, the status of each agreed upon task, accomplishments for the month, and issues
+                noted, the anticipated completion date for each task.
+           o A written assessment detailing the current status of compliance activities within MNsure
+           o A summarization of the results of interviews with MNsure Board members, management and
+                staff, and other key stakeholders, including agency partners, to inform the assessment of
+                current status
+           o An inventory of current MNsure compliance-related documentation
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+            o     A consolidated inventory of applicable standards for MNsure, including, as appropriate,
+                  applicable statutes, regulations, rules, policies, and guidance
+    •   A report with the results of a public and private sector survey of model compliance plans, ranked by
+        Contractor’s recommendation for most suitable plan format. A draft Compliance Plan incorporating
+        initial feedback from MNsure and stakeholders;
+    •   A final, approved Compliance Plan;
+    •   A report detailing the results of the gap analysis comparing current compliance-related activities and
+        documentation to those required under approved Compliance Plan, including:
+             o A report of the prioritized gap analysis as determined by MNsure and stakeholders;
+             o A project plan that addresses the identified gaps, based on the agreed-upon prioritization.
+
+
+Work and Assignment Information
+The assignment will be completed at the MNsure offices located at 81 East 7th Street, Suite 300; St. Paul MN
+55101. Vendor team members will work Monday through Friday during normal working hours which are
+presently 8:00 a.m. – 4:30 p.m. daily.
+
+Vendor teams will be provided computer equipment, work space, access to required State networks, and
+access to MNsure SharePoint sites as appropriate.
+
+
+RFP Schedule, Submission and Question Information
+
+Solicitation Schedule
+Request for Proposals (RFP) posted on MNsure website        Friday, May 9, 2014
+Deadline for Submission of Questions                        Friday, May 16, 2014, 12:00 p.m. (noon) CT
+Questions and Answers Posted on MNsure website              Monday, May 19, 2014, 4:00 p.m. CT
+Deadline for E-mail Submission of Proposal                  Friday, May 30, 2014, 3:00 p.m. CT
+
+Notes:
+   • MNsure reserves the right to interview candidates based on responses and scores. Responders will be
+       contacted to schedule an interview.
+   • The contract is anticipated to commence on or about July 2, 2014 and expire on or about December 31,
+       2014.
+
+Proposal Submission Information
+Proposals must be submitted using e-mail. Proposals submitted using other methods WILL NOT be accepted
+and/or considered.
+
+E-mail with the .pdf Proposal file attached must be transmitted to the following e-mail address no later than
+3:00 p.m. Central Time (CT) on Friday, May 30, 2014:
+
+    E-mail Address: Kevin.Marsh@state.mn.us [Kevin Marsh, Chief Procurement Officer]
+    E-mail Subject Line: MNsure Compliance Program Vendor RFP Proposal
+
+Only one .pdf Proposal must be attached to the e-mail.
+
+Vendors submitting Proposals will receive e-mail confirmation acknowledging receipt of their Proposals.
+
+The following WILL NOT be accepted and/or considered:
+   • Late Proposals; or
+   • Proposals submitted by fax; or
+   • Proposals submitted in hard copy and mailed, expressed or personally delivered to MNsure.
+
+All costs incurred in responding to this RFP are the responsibility of the Responder.
+
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+Questions
+All questions regarding this Request for Proposals must be submitted via e-mail no later than 12:00 p.m.
+(noon) Central Time on Friday, May 16, 2014 to:
+
+    E-mail Address: Kevin.Marsh@state.mn.us [Kevin Marsh, Chief Procurement Officer]
+    E-mail Subject Line: MNsure RFP Questions
+
+Note: Other persons, regardless of position, ARE NOT authorized to discuss this RFP or its requirements with
+anyone throughout the solicitation, evaluation and awarding processes and responders should not rely on
+information obtained from non-authorized individuals. MNsure reserves the right to disqualify a proposal from
+consideration if it discovers a Responder contacted MNsure or State staff other than the individual above.
+
+
+Proposal Sections and Content Requirements
+Proposal must be separated into the following, distinguishable sections. Proposals must not include any
+information which is not requested, such as cover letters, marketing materials, etc. Including such
+information will adversely affect scores.
+
+Section 1: Cover page with only the following information
+
+                 Vendor Company Name
+                 Address
+                 City, State, Zip
+                 Company Contact Person
+                 Contact person’s direct email & phone information
+
+Section 2: Experience
+Part 1:
+In no more than one page, demonstrate you have designed, implemented, and overseen compliance
+programs at more than one organization by identifying the names of the organizations where this occurred.
+Please indicate the relationships between the organizations listed e.g. parent or subsidiary organization.
+
+In no more than one page, demonstrate your healthcare compliance experience by identifying two or more
+compliance projects/initiatives within or outside your organization in the past six calendar years, i.e. 2007-
+2013. Using the same projects identified above is permissible. For each compliance project/initiative, identify
+the project name, client, dates of project, and a brief description of the project/initiative.
+
+Part 2: In a narrative not to exceed one page, double spaced, explain why your organization can meet or
+exceed the financial demands necessary to complete the project. Submit your organization’s most recent
+financial statement.
+
+Part 3: List two references related to projects in work similar to the work described in this RFP. Include
+reference name, company, phone, direct e-mail address, and dates of projects identifying total duration.
+Responders to this RFP are encouraged to notify references that they may be contacted by MNsure.
+
+
+
+Section 3: Project Approach and Interview
+Part 1: Submit an organizational chart identifying the proposed team structure, including roles and
+responsibilities.
+
+Part 2: Identify in five pages or less, double spaced, the methodology for accomplishing the deliverables
+identified in this RFP. Identify any deliverables or work efforts not included in the RFP solicitation that
+should be included to assure success as the vendor. MNsure wants to contract with a subject matter
+expert that has recommendations to assure MNsure’s goals and objectives are met or exceeded.
+
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+Note: The State reserves the right to interview final candidates based on responses and scores. The vendor
+will be contacted to arrange a mutually-agreed upon interview time, should this be necessary.
+
+
+Section 4: Cost
+This section must be on a separate sheet of paper. The contract will be a fixed bid contract.
+
+Provide the best financial proposal to complete the work for the duration of the contract based on your
+proposed work plan. Identify any assumptions made to create your bid.
+
+Travel or other costs must be factored into the bid as no additional fees will be paid to perform this work.
+
+
+
+Section 5: Required Documents
+Submit the following forms:
+   • Affidavit of Non-Collusion (Attachment 1)
+   • Certificate Regarding Lobbying (Attachment 2)
+   • Affirmative Action Certification (Attachment 3)
+   • Veterans Preference Form, if applicable (Attachment 4)
+   • Resident Vendor Form, if applicable (Attachment 5)
+
+
+Proposal Evaluation
+All responses received by the deadline will be evaluated by the evaluation team. The evaluation team will
+evaluate the responses to determine which response provides the “best value” to the state, in determining
+“best value” the evaluation team will consider price and performance, but also other criteria, including, but not
+limited to: the quality of the vendor’s performance on previous projects; the timeliness of the vendor’s
+performance on previous projects; the level of customer satisfaction with the vendor’s performance on previous
+projects; the vendor’s record of performing previous projects on budget; the vendor’s record on previous
+projects of minimizing change orders or cost overruns; the vendor’s ability to prepare appropriate project plans;
+the vendor’s technical capabilities; the individual qualifications of the vendor’s key personnel; the vendor’s
+ability to assess and minimize risk; or the vendor’s ongoing compliance with those provisions of the Patient
+Protection and Affordable Care Act related to the provision of health insurance to their employees. MNsure
+reserves the right, based on the number of proposals received, to create a short-listing of responders who
+meet certain pass/fail criteria. MNsure also reserves the right, based on the scores of the proposals, to create
+a short-listing of responders to interview, or to conduct demonstrations/presentations and the right to seek best
+and final offers from one or more responders.
+
+
+General Requirements
+
+Affidavit of Non-Collusion (Attachment 1)
+Each responder must complete the attached Affidavit of Non-Collusion and include it in Section 5 of the
+Proposal.
+
+Conflicts of Interest
+Responder must provide a list of all entities with which it has relationships that create, or appear to create, a
+conflict of interest with the work that is contemplated in this request for proposals. The list must identify the
+name of the entity, the relationship, and a discussion of the conflict.
+
+Proposal Contents
+By submission of a proposal, Responder warrants the information provided is true, correct and reliable for
+purposes of evaluation for potential contract award. The submission of inaccurate or misleading information
+may be grounds for disqualification from the award as well as subject the Responder to suspension or
+debarment proceedings as well as other remedies available by law.
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+Disposition of Responses
+All materials submitted in response to this RFP will become property of MNsure and will become public record
+in accordance with Minnesota Statute § 13.591, after the evaluation process is completed. Pursuant to the
+statute, completion of the evaluation process occurs when the government entity has completed negotiating
+the contract with the selected vendor. If the Responder submits information in response to this RFP that it
+believes to be trade secret materials as defined by the Minnesota Government Data Practices Act, Minnesota
+Statute § 13.37, the Responder must:
+    • clearly mark all trade secret materials in its response at the time the Proposal is submitted;
+    • include a statement with its response justifying the trade secret designation for each item; and
+    • defend any action seeking release of the materials it believes to be trade secret, and indemnify and
+        hold harmless the State, its agents and employees, from any judgments or damages awarded against
+        the State in favor of the party requesting the materials, and any and all costs connected with that
+        defense. This indemnification survives MNsure’s award of a contract. In submitting a response to this
+        RFP, the Responder agrees that this indemnification survives as long as the trade secret materials are
+        in possession of MNsure.
+
+MNsure does not consider the prices submitted by the Responder to be proprietary or trade secret materials.
+
+Contingency Fees Prohibited
+Pursuant to Minnesota Statutes § 10A.06, no person may act as or employ a lobbyist for compensation that is
+dependent upon the result or outcome of any legislation or administrative action.
+
+Sample MNsure Contract (Attachment 6)
+Responders should be aware of MNsure’s standard contract terms and conditions in preparing their response
+and a sample MNsure Professional/Technical Services Contract is attached for reference.
+If you take exception to any of the terms, conditions or language in the contract, and are requesting
+modifications to the sample contract included in Attachment 6, you must indicate those exceptions by including
+a “redlined” version of the sample contract with your response to the RFP that specifically identifies the
+exceptions/modifications you are seeking.
+
+Organizational Conflict of Interest
+The responder warrants that, to the best of its knowledge and belief, and except as otherwise disclosed, there
+are no relevant facts or circumstances which could give rise to organizational conflicts of interest. An
+organizational conflict of interest exists when, because of existing or planned activities or because of
+relationships with other persons, a vendor is unable or potentially unable to render impartial assistance or
+advice to MNsure, or the vendor’s objectivity in performing the contract work is or might be otherwise impaired,
+or the vendor has an unfair competitive advantage. The responder agrees that, if after award, an organizational
+conflict of interest is discovered, an immediate and full disclosure in writing must be made to MNsure’s Chief
+Procurement Officer which must include a description of the action which the contractor has taken or proposes
+to take to avoid or mitigate such conflicts. If an organizational conflict of interest is determined to exist, MNsure
+may, at its discretion, cancel the contract. In the event the responder was aware of an organizational conflict of
+interest prior to the award of the contract and did not disclose the conflict to MNsure, MNsure may terminate
+the contract for default. The provisions of this clause must be included in all subcontracts for work to be
+performed similar to the service provided by the prime contractor, and the terms “contract,” “contractor,” and
+“contracting officer” modified appropriately to preserve MNsure’s rights.
+
+Preference to Targeted Group and Economically Disadvantaged Business and Individuals
+In accordance with Minnesota Rules, part 1230.1810, subpart B and Minnesota Rules, part 1230.1830,
+certified Targeted Group Businesses and individuals submitting proposals as prime contractors will receive a
+six percent (6%) preference in the evaluation of their proposal, and certified Economically Disadvantaged
+Businesses and individuals submitting proposals as prime contractors will receive a six percent (6%)
+preference in the evaluation of their proposal. Eligible TG businesses must be currently certified by the State of
+Minnesota’s Department of Administration Materials Management Division prior to the solicitation opening date
+and time. For information regarding certification, contact the Materials Management Division Helpline at
+
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+651.296.2600, or contact the Helpline by e-mail at mmdhelp.line@state.mn.us. For TTY/TDD communications,
+contact the Helpline through the Minnesota Relay Services at 1.800.627.3529.
+
+Veteran-Owned Preference (Attachment 4)
+In accordance with Minnesota Statutes § 16C.16, subdivision 6a(a), except when mandated by the federal
+government as a condition of receiving federal funds, the commissioner shall award up to a six percent (6%)
+preference on state procurement to certified small businesses that are majority-owned and operated by:
+    (1) recently separated veterans who have served in active military service, at any time on or after
+        September 11, 2001, and who have been discharged under honorable conditions from active service,
+        as indicated by the person's United States Department of Defense form DD-214 or by the
+        commissioner of veterans affairs; or
+    (2) veterans with service-connected disabilities, as determined at any time by the United States
+        Department of Veterans Affairs; or
+    (3) any other veteran-owned small businesses certified under section 16C.19, paragraph (d).
+In accordance with Minnesota Statutes § 16C.19 (d), a veteran-owned small business, the principal place of
+business of which is in Minnesota, is certified if it has been verified by the United States Department of
+Veterans Affairs as being either a veteran-owned small business or a service disabled veteran-owned small
+business, in accordance with Public Law 109-461 and Code of Federal Regulations, title 38, part 74.
+
+To receive a preference, the veteran-owned small business must meet the statutory requirements above by the
+solicitation opening date and time.
+
+If a Responder wishes to claim the veteran-owned preference, complete and sign Attachment 4 and include
+the Form in Section 5 of the Proposal. Only eligible veteran-owned small businesses that meet the statutory
+requirements and provide adequate documentation will be given the preference.
+
+Human Rights Requirements (Attachment 3)
+For all contracts estimated to be in excess of $100,000, responders are required to complete the attached
+Affirmative Action Data page and include it in Section 5 of the Proposal. As required by Minnesota Rule
+5000.3600, “It is hereby agreed between the parties that Minnesota Statute § 363A.36 and Minnesota Rule
+5000.3400 - 5000.3600 are incorporated into any contract between these parties based upon this specification
+or any modification of it. A copy of Minnesota Statute § 363A.36 and Minnesota Rule 5000.3400 - 5000.3600
+are available upon request from the contracting agency.”
+
+Certification Regarding Lobbying (Attachment 2)
+Federal money will be used or may potentially be used to pay for all or part of the work under the contract.
+Therefore, the Proposer must complete the attached Certification Regarding Lobbying and include it in
+Section 5 of its Proposal.
+
+Certification Regarding Debarment, Suspension, Ineligibility, and Voluntary Exclusion
+Federal money will be used or may potentially be used to pay for all or part of the work under the contract.
+Therefore, the Proposer must certify the following, as required by the regulations implementing Executive
+Order 12549.
+
+Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion -- Lower Tier
+Covered Transactions
+Instructions for Certification
+    1. By signing and submitting this proposal, the prospective lower tier participant is providing the
+        certification set out below.
+    2. The certification in this clause is a material representation of fact upon which reliance was placed when
+        this transaction was entered into. If it is later determined that the prospective lower tier participant
+        knowingly rendered an erroneous certification, in addition to other remedies available to the Federal
+        Government, the department or agency with which this transaction originated may pursue available
+        remedies, including suspension and/or debarment.
+
+
+
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+    3. The prospective lower tier participant shall provide immediate written notice to the person to which this
+       proposal is submitted if at any time the prospective lower tier participant learns that its certification was
+       erroneous when submitted or had become erroneous by reason of changed circumstances.
+    4. The terms covered transaction, debarred, suspended, ineligible, lower tier covered transaction,
+       participant, person, primary covered transaction, principal, proposal, and voluntarily excluded, as used
+       in this clause, have the meaning set out in the Definitions and Coverages sections of rules
+       implementing Executive Order 12549. You may contact the person to which this proposal is submitted
+       for assistance in obtaining a copy of those regulations.
+    5. The prospective lower tier participant agrees by submitting this response that, should the proposed
+       covered transaction be entered into, it shall not knowingly enter into any lower tier covered transaction
+       with a person who is proposed for debarment under 48 CFR part 9, subpart 9.4, debarred, suspended,
+       declared ineligible, or voluntarily excluded from participation in this covered transaction, unless
+       authorized by the department or agency with which this transaction originated.
+    6. The prospective lower tier participant further agrees by submitting this proposal that it will include this
+       clause titled “Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion--
+       Lower Tier Covered Transaction,” without modification, in all lower tier covered transactions and in all
+       solicitations for lower tier covered transactions.
+    7. A participant in a covered transaction may rely upon a certification of a prospective participant in a
+       lower tier covered transaction that it is not proposed for debarment under 48 CFR part 9, subpart 9.4,
+       debarred, suspended, ineligible, or voluntarily excluded from covered transactions, unless it knows that
+       the certification is erroneous. A participant may decide the method and frequency by which it
+       determines the eligibility of its principals. Each participant may, but is not required to, check the List of
+       Parties Excluded from Federal Procurement and Nonprocurement Programs
+    8. Nothing contained in the foregoing shall be construed to require establishment of a system of records in
+       order to render in good faith the certification required by this clause. The knowledge and information of
+       a participant is not required to exceed that which is normally possessed by a prudent person in the
+       ordinary course of business dealings.
+    9. Except for transactions authorized under paragraph 5 of these instructions, if a participant in a covered
+       transaction knowingly enters into a lower tier covered transaction with a person who is proposed for
+       debarment under 48 C.F.R. 9, subpart 9.4, suspended, debarred, ineligible, or voluntarily excluded from
+       participation in this transaction, in addition to other remedies available to the federal government, the
+       department or agency with which this transaction originated may pursue available remedies, including
+       suspension and/or debarment.
+
+Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion - Lower Tier
+Covered Transactions
+   1. The prospective lower tier participant certifies, by submission of this proposal, that neither it nor its
+        principals is presently debarred, suspended, proposed for debarment, declared ineligible, or voluntarily
+        excluded from participation in this transaction by any Federal department or agency.
+   2. Where the prospective lower tier participant is unable to certify to any of the statements in this
+        certification, such prospective participant shall attach an explanation to this proposal.
+
+Insurance Requirements
+A. Contractor shall not commence work under the contract until it has obtained all the insurance described
+   below and MNsure has approved such insurance. Contractor shall maintain such insurance in force and
+   effect throughout the term of the contract.
+B. Contractor is required to maintain and furnish satisfactory evidence of the following insurance policies:
+   1. Workers Compensation Insurance. Except as provided below, Contractor must provide Workers
+       Compensation insurance for all its employees and, in case any work is subcontracted, Contractor will
+       require the subcontractor to provide Workers’ Compensation insurance in accordance with the statutory
+       requirements of the State of Minnesota, including Coverage B, Employer’s Liability. Insurance
+       minimum limits are as follows:
+
+            $100,000 – Bodily Injury by Disease per employee
+            $500,000 – Bodily Injury by Disease aggregate
+            $100,000 – Bodily Injury by Accident
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+        If Minnesota Statute 176.041 exempts Contractor from Workers Compensation insurance or if the
+        Contractor has no employees in the State of Minnesota, Contractor must provide a written statement,
+        signed by an authorized representative, indicating the qualifying exemption that excludes Contractor
+        from the Minnesota Workers’ Compensation requirements.
+
+       If during the course of the contract the Contractor becomes eligible for Workers Compensation, the
+       Contractor must comply with the Workers’ Compensation Insurance requirements herein and provide
+       the State of Minnesota with a certificate of insurance.
+    2. Commercial General Liability Insurance. Contractor is required to maintain insurance protecting it
+       from claims for damages for bodily injury, including sickness or disease, death, and for care and loss of
+       services as well as from claims for property damage, including loss of use which may arise from
+       operations under the Contract whether the operations are by the Contractor or by a subcontractor or by
+       anyone directly or indirectly employed by the Contractor under the contract. Insurance minimum limits
+       are as follows:
+
+            $2,000,000 – per occurrence
+            $2,000,000 – annual aggregate
+            $2,000,000 – annual aggregate – Products/Completed Operations
+
+       The following coverages shall be included:
+       Premises and Operations Bodily Injury and Property Damage
+       Personal and Advertising Injury
+       Blanket Contractual Liability
+       Products and Completed Operations Liability
+       State of Minnesota named as an Additional Insured, to the extent permitted by law
+    3. Commercial Automobile Liability Insurance. Contractor is required to maintain insurance protecting
+       it from claims for damages for bodily injury as well as from claims for property damage resulting from
+       the ownership, operation, maintenance or use of all owned, hired, and non-owned autos which may
+       arise from operations under this contract, and in case any work is subcontracted the contractor will
+       require the subcontractor to maintain Commercial Automobile Liability insurance. Insurance minimum
+       limits are as follows:
+
+            $2,000,000 – per occurrence Combined Single limit for Bodily Injury and Property Damage
+
+       In addition, the following coverages shall be included:
+       Owned, Hired, and Non-owned Automobile
+    4. Professional/Technical, Errors and Omissions, and/or Miscellaneous Liability Insurance. This
+       policy will provide coverage for all claims the contractor may become legally obligated to pay resulting
+       from any actual or alleged negligent act, error, or omission related to Contractor’s professional services
+       required under the contract. Contractor is required to carry the following minimum limits:
+
+            $2,000,000 – per claim or event
+            $2,000,000 – annual aggregate
+
+        Any deductible will be the sole responsibility of the Contractor and may not exceed $50,000 without the
+        written approval of MNsure. If the Contractor desires authority from the State to have a deductible in a
+        higher amount, the Contractor shall so request in writing, specifying the amount of the desired
+        deductible and providing financial documentation by submitting the most current audited financial
+        statements so that the State can ascertain the ability of the Contractor to cover the deductible from its
+        own resources.
+
+        The retroactive or prior acts date of such coverage shall not be after the effective date of this Contract
+        and Contractor shall maintain such insurance for a period of at least three (3) years, following
+        completion of the work. If such insurance is discontinued, extended reporting period coverage must be
+        obtained by Contractor to fulfill this requirement.
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+C. Additional Insurance Conditions
+        • Contractor’s policy(ies) shall be primary insurance to any other valid and collectible insurance
+           available to the State of Minnesota with respect to any claim arising out of Contractor’s performance
+           under this contract;
+        • If Contractor receives a cancellation notice from an insurance carrier affording coverage herein,
+           Contractor agrees to notify the State of Minnesota within five (5) business days with a copy of the
+           cancellation notice, unless Contractor’s policy(ies) contain a provision that coverage afforded under
+           the policy(ies) will not be cancelled without at least thirty (30) days advance written notice to the
+           State of Minnesota;
+        • Contractor is responsible for payment of Contract related insurance premiums and deductibles;
+        • If Contractor is self-insured, a Certificate of Self-Insurance must be attached;
+        • Contractor’s policy(ies) shall include legal defense fees in addition to its liability policy limits, with
+           the exception of B.4 above;
+        • Contractor shall obtain insurance policy(ies) from insurance company(ies) having an “AM BEST”
+           rating of A- (minus); Financial Size Category (FSC) VII or better, and authorized to do business in
+           the State of Minnesota; and
+        • An Umbrella or Excess Liability insurance policy may be used to supplement the Contractor’s policy
+           limits to satisfy the full policy limits required by the Contract.
+D. MNsure reserves the right to immediately terminate the contract if the contractor is not in compliance with
+   the insurance requirements and retains all rights to pursue any legal remedies against the contractor. All
+   insurance policies must be open to inspection by the State, and copies of policies must be submitted to the
+   State’s authorized representative upon written request.
+E. The successful responder is required to submit Certificates of Insurance acceptable to MNsure as evidence
+   of insurance coverage requirements prior to commencing work under the contract.
+
+E-Verify Certification
+By submission of a proposal for services in excess of $50,000, Contractor certifies that as of the date of
+services performed on behalf of the State, Contractor and all its subcontractors will have implemented or be in
+the process of implementing the federal E-Verify program for all newly hired employees in the United States
+who will perform work on behalf of the State. In the event of contract award, Contractor shall be responsible for
+collecting all subcontractor certifications and may do so utilizing the E-Verify Subcontractor Certification Form
+available at http://www.mmd.admin.state.mn.us/doc/EverifySubCertForm.doc. All subcontractor certifications
+must be kept on file with Contractor and made available to the State upon request.
+
+Special Notices
+1. This Request for Proposal (RFP) does not obligate the State of Minnesota or MNsure to award a contract
+   or complete the proposed program and MNsure reserves the right to cancel this RFP if it is considered to
+   be in its best interest. Proposals must be clear and concise. Proposals that are difficult to follow or that do
+   not conform to the RFP format specifications may be rejected. Responding contractors must include the
+   required information identified in this RFP. MNsure reserves the right to reject a proposal if required
+   information is not provided or is not organized as directed.
+2. The contract will be a fixed-bid contract.
+3. Travel or other costs must be factored into the bid because no additional fees will be paid to perform this
+   work.
+4. The contract will be awarded on a “best value” basis and MNsure reserves the right to award a contract
+   other than to the lowest bidder.
+5. The cost proposal will not be distributed to the evaluation team until the qualifying components of the
+   Proposals are evaluated and scored.
+
+
+
+
+MNsure RFP_ Compliance Program Vendor_5/9/2014
+ATTACHMENT 1
+                                      STATE OF MINNESOTA
+                                   AFFIDAVIT OF NONCOLLUSION
+
+I swear (or affirm) under the penalty of perjury:
+
+1. That I am the Responder (if the Responder is an individual), a partner in the company (if the Responder is
+   a partnership), or an officer or employee of the responding corporation having authority to sign on its behalf
+   (if the Responder is a corporation);
+
+2. That the attached proposal submitted in response to the ________________________ Request for
+   Proposals has been arrived at by the Responder independently and has been submitted without collusion
+   with and without any agreement, understanding or planned common course of action with, any other
+   Responder of materials, supplies, equipment or services described in the Request for Proposal, designed
+   to limit fair and open competition;
+
+3. That the contents of the proposal have not been communicated by the Responder or its employees or
+   agents to any person not an employee or agent of the Responder and will not be communicated to any
+   such persons prior to the official opening of the proposals; and
+
+4. That I am fully informed regarding the accuracy of the statements made in this affidavit.
+
+
+
+Responder’s Firm Name:___________________________________________
+
+Authorized Representative (Please Print) ______________________________
+
+Authorized Signature: _____________________________________________
+
+Date: __________________
+
+
+
+
+Subscribed and sworn to me this ________ day of ___________
+
+
+Notary Public Signature: ________________________________
+
+                         My commission expires: ________
+ATTACHMENT 2
+                            CERTIFICATION REGARDING LOBBYING
+                          For State of Minnesota Contracts and Grants over $100,000
+
+
+The undersigned certifies, to the best of his or her knowledge and belief that:
+
+   (1) No Federal appropriated funds have been paid or will be paid, by or on behalf of the undersigned, to
+       any person for influencing or attempting to influence an officer or employee of any agency, a member of
+       Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection
+       with the awarding of any Federal contract, the making of any Federal grant, the making of any Federal
+       loan, the entering into of any cooperative agreement, and the extension, continuation, renewal,
+       amendment, or modification of any Federal contract, grant, loan, or cooperative agreement.
+
+   (2) If any funds other than Federal appropriated funds have been paid or will be paid to any person for
+       influencing or attempting to influence an officer or employee of any agency, A Member of Congress, an
+       officer or employee of Congress, or an employee of a Member of Congress in connection with this
+       Federal contract, grant, loan, or cooperative agreement, the undersigned shall complete and submit
+       Standard Form-LLL, Disclosure Form to Report Lobbying in accordance with its instructions.
+
+   (3) The undersigned shall require that the language of this certification be included in the award documents
+       for all subawards at all tiers (including subcontracts, subgrants, and contracts under grants, loans and
+       cooperative agreements) and that all subrecipients shall certify and disclose accordingly.
+
+This certification is a material representation of fact upon which reliance was placed when this transaction was
+made or entered into. Submission of this certification is a prerequisite for making or entering into this
+transaction imposed by 31 U.S.C. 1352. Any person who fails to file the required certification shall be subject
+to a civil penalty of not less than $10,000 and not more than $100,000 for each such failure.
+
+
+
+__________________________________________
+Organization Name
+
+__________________________________________
+Name and Title of Official Signing for Organization
+
+By: _______________________________________
+              Signature of Official
+
+_____________________________________
+                Date
+ATTACHMENT 3
+                            State Of Minnesota – Affirmative Action Certification
+
+If your response to this solicitation is or could be in excess of $100,000, complete the information requested below to determine
+whether you are subject to the Minnesota Human Rights Act (Minnesota Statutes 363A.36) certification requirement, and to provide
+documentation of compliance if necessary. It is your sole responsibility to provide this information and—if required—to apply
+for Human Rights certification prior to the due date of the bid or proposal and to obtain Human Rights certification prior to the
+execution of the contract. The State of Minnesota is under no obligation to delay proceeding with a contract until a company
+receives Human Rights certification.
+
+BOX A – For companies which have employed more than 40 full-time employees within Minnesota on any single
+working day during the previous 12 months. All other companies proceed to BOX B.
+
+Your response will be rejected unless your business:
+    has a current Certificate of Compliance issued by the Minnesota Department of Human Rights (MDHR)
+   –or–
+   has submitted an affirmative action plan to the MDHR, which the Department received prior to the date
+   the responses are due.
+Check one of the following statements if you have employed more than 40 full-time employees in Minnesota on any single
+working day during the previous 12 months:
+ We have a current Certificate of Compliance issued by the MDHR. Proceed to BOX C. Include a copy of your
+   certificate with your response.
+ We do not have a current Certificate of Compliance. However, we submitted an Affirmative Action Plan to the MDHR
+   for approval, which the Department received on __________________ (date). Proceed to BOX C.
+ We do not have a Certificate of Compliance, nor has the MDHR received an Affirmative Action Plan from our
+   company. We acknowledge that our response will be rejected. Proceed to BOX C. Contact the Minnesota
+   Department of Human Rights for assistance. (See below for contact information.)
+Please note: Certificates of Compliance must be issued by the Minnesota Department of Human Rights. Affirmative
+Action Plans approved by the Federal government, a county, or a municipality must still be received, reviewed, and
+approved by the Minnesota Department of Human Rights before a certificate can be issued.
+
+BOX B – For those companies not described in BOX A
+Check below.
+ We have not employed more than 40 full-time employees on any single working day in Minnesota within the previous
+   12 months. Proceed to BOX C.
+
+BOX C – For all companies
+By signing this statement, you certify that the information provided is accurate and that you are authorized to sign on
+behalf of the responder. You also certify that you are in compliance with federal affirmative action requirements that may
+apply to your company. (These requirements are generally triggered only by participating as a prime or subcontractor on
+federal projects or contracts. Contractors are alerted to these requirements by the federal government.)
+Name of Company:                                                          Date
+Authorized Signature:                                                     Telephone number:
+Printed Name:                                                             Title:
+For assistance with this form, contact:
+Minnesota Department of Human Rights, Compliance & Community Relations
+Mail:   The Freeman Building 625 Robert Street North, TC Metro: (651) 296-5663                        Toll Free:     800-657-3704
+        Saint Paul, MN 55155
+Web:    www.humanrights.state.mn.us                   Fax:        (651) 296-9042                      TTY:           (651) 296-1283
+Email: compliance.mdhr@state.mn.us
+                                                                               Affirmative Action Certification Page, Revised 6/11 - MDHR
+ATTACHMENT 4
+
+                                     STATE OF MINNESOTA
+                               VETERAN-OWNED PREFERENCE FORM
+In accordance with Minn. Stat. § 16C.16, subd. 6a, (a) Except when mandated by the federal government as a condition
+of receiving federal funds, the commissioner shall award up to a six percent preference in the amount bid on state
+procurement to certified small businesses that are majority-owned and operated by:
+
+    (1) recently separated veterans who have served in active military service, at any time on or after September 11,
+        2001, and who have been discharged under honorable conditions from active service, as indicated by the
+        person's United States Department of Defense form DD-214 or by the commissioner of veterans affairs;
+    (2) veterans with service-connected disabilities, as determined at any time by the United States Department of
+        Veterans Affairs; or
+    (3) any other veteran-owned small businesses certified under section 16C.19, paragraph (d).
+
+In accordance with Minn. Stat. § 16C.19 (d), a veteran-owned small business, the principal place of business of which is
+in Minnesota, is certified if it has been verified by the United States Department of Veterans Affairs as being either a
+veteran-owned small business or a service disabled veteran-owned small business, in accordance with Public Law 109-
+461 and Code of Federal Regulations, title 38, part 74.
+_________________________________________________________________________________________________
+
+To receive a preference the veteran-owned small business must meet the statutory requirements above by the solicitation
+opening date and time. When responding to a Request for Bid (RFB), the preference is applied only to the first $500,000
+of the response. When responding to a Request for Proposal (RFP), the preference is applied as detailed in the RFP.
+
+If you are claiming the veteran-owned preference, attach documentation, sign and return this form with your
+response to the solicitation. Only eligible veteran-owned small businesses that meet the statutory requirements and
+provide adequate documentation will be given the preference.
+_________________________________________________________________________________________________
+
+I HEREBY CERTIFY THAT THE FIRM LISTED BELOW:
+
+My firm is a certified small business and it is majority-owned and operated by an eligible person as defined by Minn. Stat.
+§ 16C.16, subd. 6a.
+
+___Yes ___No (must check yes or no) State the type of documentation attached: ___________________________
+
+DOCUMENTATION MUST BE PROVIDED FOR ONE OF THE FOLLOWING REQUIREMENTS:
+
+        ___ (1) recently separated veterans who have served in active military service, at any time on or after September
+11, 2001,        and who have been discharged under honorable conditions from active service, as indicated by the
+person's United States Department of Defense form DD-214 or by the commissioner of veterans affairs;
+
+          State the type of documentation attached:
+
+        ___ (2) veterans with service-connected disabilities, as determined at any time by the United States Department
+of Veterans     Affairs;
+
+          State the type of documentation attached:
+
+          ___ (3) any other veteran-owned small businesses certified under Minnesota Statute Section 16C.19, paragraph
+   (d).
+
+        State the type of documentation attached:
+Name of Company: ________________________________                 Date:      _____________________________
+Authorized Signature: ________________________________            Telephone: _____________________________
+Printed Name:         ________________________________            Title:     _____________________________
+
+IF YOU ARE CLAIMING THE VETERAN-OWNED PREFERENCE, ATTACH DOCUMENTATION, SIGN AND RETURN
+THIS FORM WITH YOUR RESPONSE TO THE SOLICITATION.
+ATTACHMENT 5
+                                               STATE OF MINNESOTA
+                                              RESIDENT VENDOR FORM
+In accordance with Laws of Minnesota 2013, Chapter 142, Article 3, Section 16, amending Minn. Stat. § 16C.02, subd. 13, a “Resident
+Vendor” means a person, firm, or corporation that:
+
+    (1) is authorized to conduct business in the state of Minnesota on the date a solicitation for a contract is first advertised or
+        announced. It includes a foreign corporation duly authorized to engage in business in Minnesota;
+    (2) has paid unemployment taxes or income taxes in this state during the 12 calendar months immediately preceding submission
+        of the bid or proposal for which any preference is sought;
+    (3) has a business address in the state; and
+    (4) has affirmatively claimed that status in the bid or proposal submission.
+
+
+To receive recognition as a Minnesota Resident Vendor (“Resident Vendor”), your company must meet each element of the statutory
+definition above by the solicitation opening date and time. If you wish to affirmatively claim Resident Vendor status, you should do so
+by submitting this form with your bid or proposal.
+
+Resident Vendor status may be considered for purposes of resolving tied low bids or the application of a reciprocal preference.
+
+
+I HEREBY CERTIFY THAT THE COMPANY LISTED BELOW:
+
+    1.   Is authorized to conduct business in the State of Minnesota on the date a solicitation for a contract is first advertised or
+         announced. (This includes a foreign corporation duly authorized to engage in business in Minnesota.)
+         ___Yes ___No (must check yes or no)
+
+    2.   Has paid unemployment taxes or income taxes in the State of Minnesota during the 12 calendar months immediately
+         preceding submission of the bid or proposal for which any preference is sought.
+         ___Yes ___No (must check yes or no)
+
+    3.   Has a business address in the State of Minnesota.
+         ___Yes ___No (must check yes or no)
+
+    4.   Agrees to submit documentation, if requested, as part of the bid or proposal process, to verify compliance with the above
+         statutory requirements.
+         ___Yes ___No (must check yes or no)
+
+BY SIGNING BELOW, you are certifying your compliance with the requirements set forth herein and claiming Resident Vendor status
+in your bid or proposal submission.
+
+Name of Company:       __________________________________________                         Date:
+                       _____________________________
+
+Authorized Signature: __________________________________________ Telephone:                   _____________________________
+
+Printed Name:          __________________________________________ Title:                  _____________________________
+
+
+
+    IF YOU ARE CLAIMING RESIDENT VENDOR STATUS, SIGN AND RETURN THIS FORM WITH YOUR BID OR PROPOSAL
+                                              SUBMISSION.
+ATTACHMENT 6
+If you take exception to any of the terms, conditions or language in the contract, you must
+indicate those exceptions in your response to the RFP. Only those exceptions indicated in
+your response to the RFP will be available for discussion or negotiation.
+                                                               Professional and
+                                                    Technical Services Contract
+                                                                                          State of Minnesota
+
+
+
+
+This Contract is between the State of Minnesota, acting through its Chief Executive Officer of Minnesota
+Insurance Marketplace [MNsure] (“State”) and [name of contractor] whose designated business address is
+_____________, an independent contractor, not an employee of the State of Minnesota (“Contractor”).
+
+Recitals
+1.   Under Minnesota Statutes §§ 15.061 and 62V.05, subdivision 1(b)(4), the State is empowered to engage
+     such assistance as deemed necessary.
+2.   The State is in need of consulting services to assist: [identify needed services].
+3.   The Contractor represents it is duly qualified and agrees to perform all services described in this
+     Contract to the satisfaction of the State.
+
+Contract
+1.   Term of Contract
+     1.1 Effective Date. [insert effective date], or the date State obtains all required signatures, whichever
+         is later. Contractor must not begin work under this Contract until this Contract is fully executed and
+         Contractor has been notified by State’s Authorized Representative to begin work.
+     1.2 Expiration Date. [insert expiration date], or until all obligations have been satisfactorily fulfilled,
+         whichever occurs first.
+     1.3 Survival of Terms. The following clauses survive the expiration or cancellation of this Contract: 8.
+         Indemnification; 9. State Audits; 10. Government Data Practices and Intellectual Property; 14.
+         Publicity and Endorsement; 15. Governing Law, Jurisdiction, and Venue; and 16. Data Disclosure.
+
+2.   Duties
+     2.1 The Contractor, who is not an employee of the State of Minnesota, shall:
+          [insert specific duties and deliverables; be specific]
+     2.2 The State shall: [identify duties of MNsure if applicable]
+
+3.   Time
+     Contractor must comply with all the time requirements described in this Contract. In the performance of
+     this Contract, time is of the essence.
+
+4.   Consideration and Payment
+     4.1 Consideration. State will pay for all services performed by Contractor under this Contract as
+         follows:
+         (a)   Compensation. Contractor will be paid [insert negotiated compensation terms].
+         (b)   Travel Expenses. Reimbursement for travel and subsistence expenses actually and
+               necessarily incurred by the Contractor as a result of this Contract will not exceed Zero Dollars
+               ($0.00).
+           (c) Total Obligation. The total obligation of State for all compensation and travel expenses to
+               Contractor under this Contract will not exceed _____Dollars ($_______.00).
+     4.2   Payment
+           (a) Invoices. State will promptly pay Contractor after Contractor presents an itemized invoice for
+               the services actually performed and State's Authorized Representative accepts the invoiced
+               services. The final invoice must be submitted within thirty (30) calendar days of the expiration
+               date.
+           (b) Retainage. Under Minnesota Statutes § 16C.08, subdivision 5(b), no more than ninety
+               percent (90%) of the amount due under this Contract may be paid until the final product of
+               this Contract has been reviewed by State’s Authorized Representative. The balance due will
+               be paid when State’s Authorized Representative determines that Contractor has satisfactorily
+               fulfilled all the terms of this Contract.
+           (c) Federal Funds. Payments under this Contract will be made from federal funds obtained by
+               State through HHS section 1311 CFDA Number 93.525 of the Patient Protection and
+               Affordable Care Act of 2010. Contractor is responsible for compliance with all federal
+               requirements imposed on these funds and accepts full financial responsibility for any
+               requirements imposed by Contractor’s failure to comply with federal requirements.
+
+5.   Conditions of Payment
+     All services provided by Contractor under this Contract must be performed to State’s satisfaction, as
+     determined at the sole discretion of State’s Authorized Representative and in accordance with all
+     applicable federal, state, and local laws, ordinances, rules, and regulations including business
+     registration requirements of the Office of the Secretary of State. Contractor will not receive payment for
+     work found by State to be unsatisfactory or performed in violation of federal, state, or local law.
+
+6.   Authorized Representative
+     6.1 The State's Authorized Representative is:
+
+           Name:
+           Address:          81 Seventh Street East, Suite 300
+                             St. Paul, MN 55101
+           Telephone:
+           E-Mail Address:
+
+           The State’s Authorized Representative, or his/her successor, has the responsibility to monitor the
+           Contractor’s performance and the authority to accept the services provided under this Contract. If
+           the services are satisfactory, State's Authorized Representative will certify acceptance on each
+           invoice submitted for payment.
+     6.2   The Contractor's Authorized Representative is:
+
+           Name:
+           Address:
+
+           Telephone:
+           E-Mail Address:
+
+           The Contractor must immediately notify the State if the Contractor’s Authorized Representative,
+           changes at any time during this Contract.
+
+7.   Assignment, Amendments, Waiver, and Contract Complete
+     7.1 Assignment. Contractor may neither assign or transfer any rights or obligations under this
+          Contract without the prior consent of State and a fully executed assignment agreement, executed
+          and approved by the same parties who executed and approved this Contract, or their successors
+          in office.
+      7.2   Amendments. Any amendment to this Contract must be in writing and will not be effective until it
+            has been executed and approved by the same parties who executed and approved the original
+            Contract, or their successors in office.
+      7.3   Waiver. If the State fails to enforce any provision of this Contract, that failure does not waive the
+            provision or its right to enforce it.
+      7.4   Contract Complete. This Contract contains all negotiations and agreements between State and
+            Contractor. No other understanding regarding this Contract, whether written or oral, may be used
+            to bind either party.
+
+8.    Indemnification
+      In the performance of this Contract by Contractor, or Contractor’s agents or employees, Contractor must
+      indemnify, save, and hold harmless State, its agents, and employees, from any claims or causes of
+      action, including attorney’s fees incurred by State, to the extent caused by Contractor’s:
+            a) Intentional, willful, or negligent acts or omissions; or
+            b) Actions that give rise to strict liability; or
+            c) Breach of contract or warranty.
+      The indemnification obligations of this section do not apply in the event the claim or cause of action is
+      the result of State’s sole negligence. This clause will not be construed to bar any legal remedies
+      Contractor may have for State’s failure to fulfill its obligation under this Contract.
+
+9.    State Audits
+      Under Minnesota Statutes § 16C.05, subdivision 5, Contractor’s books, records, documents, and
+      accounting procedures and practices relevant to this Contract are subject to examination by State and/or
+      the State Auditor or Legislative Auditor, as appropriate, for a minimum of six (6) years from the end of
+      this Contract.
+
+10.   Government Data Practices and Intellectual Property
+      10.1 Government Data Practices. The Contractor and State must comply with the Minnesota
+           Government Data Practices Act, Minnesota Statutes Chapter 13, as it applies to all data provided
+           by the State under this Contract, and as it applies to all data created, collected, received, stored,
+           used, maintained, or disseminated by the Contractor under this Contract. The civil remedies of
+           Minnesota Statutes § 13.08 apply to the release of the data governed by the Minnesota
+           Government Practices Act, Minnesota Statutes Chapter 13, by either the Contractor or the State.
+
+            If the Contractor receives a request to release the data referred to in this clause, the Contractor
+            must immediately notify and consult with the State’s Authorized Representative as to how the
+            Contractor should respond to the request. The Contractor’s response to the request shall comply
+            with applicable law.
+
+           Additionally, Contractor and State must comply with the requirements contained in Attachment 1,
+           which is incorporated by reference into this Contract.
+      10.2 Intellectual Property Rights
+           (a) Intellectual Property Rights. The State owns all rights, title, and interest in all of the
+                 intellectual property rights, including copyrights, patents, trade secrets, trademarks, and
+                 service marks in the works and documents created and paid for under this Contract. The
+                 “works” means all inventions, improvements, discoveries (whether or not patentable),
+                 databases, computer programs, reports, notes, studies, photographs, negatives, designs,
+                 drawings, specifications, materials, tapes, and disks conceived, reduced to practice, created
+                 or originated by the Contractor, its employees, agents, and subcontractors, either individually
+                 or jointly with others in the performance of this Contract. “Works” includes documents. The
+                 “documents” are the originals of any databases, computer programs, reports, notes, studies,
+                 photographs, negatives, designs, drawings, specifications, materials, tapes, disks, or other
+                 materials, whether in tangible or electronic forms, prepared by the Contractor, its employees,
+                 agents, or subcontractors, in the performance of this Contract. The documents will be the
+                 exclusive property of the State and all such documents must be immediately returned to the
+                 State by the Contractor upon completion or cancellation of this Contract. To the extent
+                 possible, those works eligible for copyright protection under the United States Copyright Act
+                 will be deemed to be “works made for hire.” The Contractor assigns all right, title, and interest
+                 it may have in the works and the documents to the State. The Contractor must, at the request
+                 of the State, execute all papers and perform all other acts necessary to transfer or record the
+                 State’s ownership interest in the works and documents.
+           (b)   Obligations
+                 (1) Notification. Whenever any invention, improvement, or discovery (whether or not
+                       patentable) is made or conceived for the first time or actually or constructively reduced
+                       to practice by the Contractor, including its employees and subcontractors, in the
+                       performance of this Contract, the Contractor will immediately give the State’s
+                       Authorized Representative written notice thereof, and must promptly furnish the State’s
+                       Authorized Representative with complete information and/or disclosure thereon.
+                 (2) Representation. The Contractor must perform all acts, and take all steps necessary to
+                       ensure that all intellectual property rights in the works and documents are the sole
+                       property of the State, and that neither Contractor nor its employees, agents, or
+                       subcontractors retain any interest in and to the works and documents. The Contractor
+                       represents and warrants that the works and documents do not and will not infringe upon
+                       any intellectual property rights of other persons or entities. Notwithstanding Clause 8,
+                       the Contractor will indemnify; defend, to the extent permitted by the Attorney General;
+                       and hold harmless the State, at the Contractor’s expense, from any action or claim
+                       brought against the State to the extent that it is based on a claim that all or part of the
+                       works or documents infringe upon the intellectual property rights of others. The
+                       Contractor will be responsible for payment of any and all such claims, demands,
+                       obligations, liabilities, costs, and damages, including but not limited to, attorney fees. If
+                       such a claim or action arises, or in the Contractor’s or the State’s opinion is likely to
+                       arise, the Contractor must, at the State’s discretion, either procure for the State the right
+                       or license to use the intellectual property rights at issue or replace or modify the
+                       allegedly infringing works or documents as necessary and appropriate to obviate the
+                       infringement claim. This remedy of the State will be in addition to and not exclusive of
+                       other remedies provided by law.
+
+11.   Workers Compensation and Other Insurance
+      11.1 Contractor shall not commence work under the Contract until Contractor has obtained all the
+           insurance described below. Contractor shall maintain such insurance in force and effect throughout
+           the term of the Contract.
+      11.2 Contractor is required to maintain and furnish satisfactory evidence of the following insurance
+           policies.
+           11.2.1 Workers Compensation Insurance. Except as provided below, Contractor must provide
+                     Workers Compensation insurance for all its employees and, in case any work is
+                     subcontracted, Contractor will require the subcontractor to provide Workers
+                     Compensation insurance in accordance with the statutory requirements of State, including
+                     Coverage B, Employer’s Liability. Insurance minimum limits are as follows:
+                          $100,000 – Bodily Injury by Disease per employee
+                          $500,000 – Bodily Injury by Disease aggregate
+                          $100,000 – Bodily Injury by Accident
+
+                    If Minnesota Statutes § 176.041 exempts Contractor from Workers Compensation
+                    insurance or if Contractor has no employees in the State of Minnesota, Contractor must
+                    provide a written statement, signed by an authorized representative, indicating the
+                    qualifying exemption that excludes Contractor from the Minnesota Workers
+                    Compensation requirements.
+
+                    If during the course of the contract Contractor becomes eligible for Workers
+                    Compensation, Contractor must comply with the Workers Compensation Insurance
+                    requirements herein and provide State with a certificate of insurance.
+               Further, Contractor certifies that it is in compliance with Minnesota Statutes § 176.181,
+               subdivision 2, pertaining to workers compensation insurance coverage. Contractor’s
+               employees and agents will not be considered State employees. Any claims that may arise
+               under the Minnesota Workers Compensation Act on behalf of these employees or agents
+               and any claims made by any third party as a consequence of any act or omission on the
+               part of these employees or agents are in no way State’s obligation or responsibility.
+     11.2.2    Commercial General Liability Insurance. Contractor is required to maintain insurance
+               protecting it from claims for damages for bodily injury, including sickness or disease,
+               death, and for care and loss of services as well as from claims for property damage,
+               including loss of use which may arise from operations under the Contract whether the
+               operations are by Contractor or by a subcontractor or by anyone directly or indirectly
+               employed by the Contractor under the Contract. Insurance minimum limits are as follows:
+                     $2,000,000 – per occurrence
+                     $2,000,000 – annual aggregate
+                     $2,000,000 – annual aggregate – Products/Completed Operations
+               The following coverages shall be included:
+                     Premises and Operations Bodily Injury and Property Damage
+                     Personal and Advertising Injury
+                     Blanket Contractual Liability
+                     Products and Completed Operations Liability
+                     State of Minnesota named as an Additional Insured, to the extent permitted by law.
+     11.2.3    Commercial Automobile Liability Insurance. Contractor is required to maintain
+               insurance protecting it from claims for damages for bodily injury as well as from claims for
+               property damage resulting from the ownership, operation, maintenance or use of all
+               owned, hired, and non-owned autos which may arise from operations under this contract,
+               and in case any work is subcontracted the contractor will require the subcontractor to
+               maintain Commercial Automobile Liability insurance. Insurance minimum limits are as
+               follows:
+                     $2,000,000 – per occurrence Combined Single limit for Bodily Injury and Property
+                     Damage
+               The following coverage shall be included:
+                     Owned, Hired, and Non-owned Automobile
+     11.2.4    Professional/Technical, Errors and Omissions, and/or Miscellaneous Liability
+               Insurance. This policy will provide coverage for all claims Contractor may become legally
+               obligated to pay resulting from any actual or alleged negligent act, error, or omission
+               related to Contractor’s professional services required under the contract.
+               Contractor is required to carry the following minimum limits:
+                     $2,000,000 – per claim or event
+                     $2,000,000 – annual aggregate
+               Any deductible will be the sole responsibility of Contractor and may not exceed $50,000
+               without the written approval of State. If Contractor desires authority from State to have a
+               deductible in a higher amount, Contractor shall so request in writing, specifying the
+               amount of the desired deductible and providing financial documentation by submitting the
+               most current audited financial statements so that State can ascertain the ability of
+               Contractor to cover the deductible from its own resources.
+
+             The retroactive or prior acts date of such coverage shall not be after the effective date of
+             this Contract and Contractor shall maintain such insurance for a period of at least three
+             (3) years, following completion of the work. If such insurance is discontinued, extended
+             reporting period coverage must be obtained by Contractor to fulfill this requirement.
+11.3 Additional Insurance Conditions
+     11.3.1 Contractor’s policy(ies) shall be primary insurance to any other valid and collectible
+             insurance available to State with respect to any claim arising out of Contractor’s
+             performance under this contract;
+     11.3.2 If Contractor receives a cancellation notice from an insurance carrier affording coverage
+             herein, Contractor agrees to notify State within five (5) business days with a copy of the
+                     cancellation notice, unless Contractor’s policy(ies) contain a provision that coverage
+                     afforded under the policy(ies) will not be cancelled without at least thirty (30) days
+                     advance written notice to State;
+           11.3.3    Contractor is responsible for payment of Contract related insurance premiums and
+                     deductibles;
+           11.3.4    Contractor’s policy(ies) shall include legal defense fees in addition to its liability policy
+                     limits, with the exception of 11.2.4 above;
+           11.3.5    Contractor shall obtain insurance policy(ies) from insurance company(ies) having an “AM
+                     BEST” rating of A- (minus); Financial Size Category (FSC) VII or better, and authorized to
+                     do business in the State of Minnesota; and
+           11.3.6    An Umbrella or Excess Liability insurance policy may be used to supplement the
+                     Contractor’s policy limits to satisfy the full policy limits required by the Contract.
+
+12.   Debarment by State, its Departments, Commissions, Agencies, or Political Subdivisions
+      Contractor certifies that neither it nor its principals is presently debarred or suspended by the State of
+      Minnesota, or any of its departments, commissions, agencies, or political subdivisions. Contractor’s
+      certification is a material representation upon which the Contract award was based. Contractor shall
+      provide immediate written notice to State’s Authorized Representative if at any time it learns that this
+      certification was erroneous when submitted or becomes erroneous by reason of changed circumstances.
+
+13.   Certification Regarding Debarment, Suspension, Ineligibility, and Voluntary Exclusion
+      Federal money will be used to pay for all or part of the work under the Contract; therefore Contractor
+      certifies that it is in compliance with federal requirements on debarment, suspension, ineligibility and
+      voluntary exclusion specified in the solicitation document implementing Executive Order 12549.
+      Contractor’s certification is a material representation upon which the Contract award was based.
+      13.1 By signing and submitting this Contract, Contractor is providing the certification set out below.
+      13.2 The certification in this clause is a material representation of fact upon which reliance was placed
+               when this transaction was entered into. If it is later determined that Contractor knowingly
+               rendered an erroneous certification, in addition to other remedies available to the Federal
+               Government, State may pursue available remedies, including suspension and/or debarment.
+      13.3 Contractor shall provide immediate written notice to State’s Authorized Representative if at any
+               time Contractor learns that its certification was erroneous when submitted or had become
+               erroneous by reason of changed circumstances.
+      13.4 The terms covered transaction, debarred, suspended, ineligible, lower tier covered transaction,
+               participant, person, primary covered transaction, principal, proposal, and voluntarily excluded, as
+               used in this clause, have the meaning set out in the Definitions and Coverages sections of rules
+               implementing Executive Order 12549.
+      13.5 Contractor agrees that upon execution of this this Contract, it shall not knowingly enter into any
+               lower tier covered transaction with a person who is proposed for debarment under 48 CFR part 9,
+               subpart 9.4, debarred, suspended, declared ineligible, or voluntarily excluded from participation
+               in this covered transaction, unless authorized by the department or agency with which this
+               transaction originated.
+      13.6 Contractor further agrees that it will include this clause titled “Certification Regarding Debarment,
+               Suspension, Ineligibility and Voluntary Exclusion--Lower Tier Covered Transaction,” without
+               modification, in all lower tier covered transactions and in all solicitations for lower tier covered
+               transactions.
+      13.7 A participant in a covered transaction may rely upon a certification of a prospective participant in
+               a lower tier covered transaction that it is not proposed for debarment under 48 CFR part 9,
+               subpart 9.4, debarred, suspended, ineligible, or voluntarily excluded from covered transactions,
+               unless it knows that the certification is erroneous. A participant may decide the method and
+               frequency by which it determines the eligibility of its principals. Each participant may, but is not
+               required to, check the List of Parties Excluded from Federal Procurement and Nonprocurement
+               Programs.
+      13.8 Nothing contained in the foregoing shall be construed to require establishment of a system of
+               records in order to render in good faith the certification required by this clause. The knowledge
+               and information of a participant is not required to exceed that which is normally possessed by a
+            prudent person in the ordinary course of business dealings.
+      13.9  Except for transactions authorized under paragraph 13.5 of these instructions, if a participant in a
+            covered transaction knowingly enters into a lower tier covered transaction with a person who is
+            proposed for debarment under 48 C.F.R. 9, subpart 9.4, suspended, debarred, ineligible, or
+            voluntarily excluded from participation in this transaction, in addition to other remedies available
+            to the Federal government, State may pursue available remedies, including suspension and/or
+            debarment.
+      13.10 Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion -
+            Lower Tier Covered Transactions
+            13.10.1 Contractor certifies, that neither it nor its principals is presently debarred, suspended,
+                      proposed for debarment, declared ineligible, or voluntarily excluded from participation in
+                      this transaction by any Federal department or agency.
+            13.10.2 Where Contractor is unable to certify to any of the statements in this certification, such
+                      prospective participant shall attach an explanation to this proposal.
+
+14.   Publicity and Endorsement
+      14.1 Publicity. Any publicity regarding the subject matter of this Contract must identify State as the
+           sponsoring agency and must not be released without prior written approval from State’s Authorized
+           Representative. For purposes of this provision, publicity includes any and all communications with
+           the media or press with respect to the program, publications, or services provided resulting from
+           this Contract, and any notices, informational pamphlets, press releases, research, reports, signs,
+           and similar public notices prepared by or for Contractor individually or jointly with others, or any
+           subcontractors, with respect to the program, publications, or services provided resulting from this
+           Contract.
+      14.2 Endorsement. Contractor must not claim that State endorses its products or services.
+
+15.   Governing Law, Jurisdiction, and Venue
+      Minnesota law, without regard to its choice-of-law provisions, governs this Contract. Venue for all legal
+      proceedings out of this Contract, or its breach, must be in the appropriate state or federal court with
+      competent jurisdiction in Ramsey County, Minnesota.
+
+16.   Data Disclosure
+      Under Minnesota Statutes § 270C.65, subdivision 3 and other applicable law, Contractor consents to
+      disclosure of its social security number, federal employer tax identification number, and/or Minnesota tax
+      identification number, already provided to State, to federal and state agencies, and state personnel
+      involved in the payment of state obligations. These identification numbers may be used in the
+      enforcement of federal and state laws which could result in action requiring Contractor to file state tax
+      returns, pay delinquent state tax liabilities, if any, or pay other state liabilities.
+
+17.   Payment to Subcontractors
+      As required by Minnesota Statutes § 16A.1245, the prime Contractor must pay all subcontractors, less
+      any retainage, within ten (10) calendar days of the prime Contractor's receipt of payment from State for
+      undisputed services provided by the subcontractor(s) and must pay interest at the rate of one and one-
+      half percent per month or any part of a month to the subcontractor(s) on any undisputed amount not paid
+      on time to the subcontractor(s).
+
+18.   Termination
+      18.1 Termination by the State. State may cancel this Contract at any time, with or without cause, upon
+           thirty (30) calendar days written notice to Contractor. Upon termination, Contractor will be entitled
+           to payment, determined on a pro rata basis, for services satisfactorily performed.
+      18.2 Termination for Insufficient Funding. State may immediately terminate this Contract if it does not
+           obtain funding from the Minnesota Legislature, or other funding sources, or if funding is not
+           received or made available at a level sufficient to allow for the payment of the services covered
+           here. Termination must be by written, e-mail or fax notice to Contractor. State is not obligated to
+           pay for any services that are provided after notice and effective date of termination. However,
+           Contractor will be entitled to payment, determined on a pro rata basis, for services satisfactorily
+           performed to the extent that funds are available. State will not be assessed any penalty if the
+           Contract is terminated because of the decision of the Minnesota Legislature, or other funding
+           sources, not to appropriate funds or to otherwise prohibit such use of or deny access to funds.
+           State must provide Contractor notice of the lack of funding within a reasonable time of State
+           receiving that notice.
+
+19.   Non-discrimination (In accordance with Minnesota Statutes § 181.59)
+      Contractor will comply with the provisions of Minnesota Statutes § 181.59 which requires:
+           “Every contract for or on behalf of the state of Minnesota, or any county, city, town, township,
+           school, school district, or any other district in the state, for materials, supplies, or construction shall
+           contain provisions by which the contractor agrees:
+                 (1) that, in the hiring of common or skilled labor for the performance of any work under any
+                 contract, or any subcontract, no contractor, material supplier, or vendor, shall, by reason of
+                 race, creed, or color, discriminate against the person or persons who are citizens of the
+                 United States or resident aliens who are qualified and available to perform the work to which
+                 the employment relates;
+                 (2) that no contractor, material supplier, or vendor, shall, in any manner, discriminate against,
+                 or intimidate, or prevent the employment of any person or persons identified in clause (1) of
+                 this section, or on being hired, prevent, or conspire to prevent, the person or persons from
+                 the performance of work under any contract on account of race, creed, or color;
+                 (3) that a violation of this section is a misdemeanor; and
+                 (4) that this contract may be canceled or terminated by the state, county, city, town, school
+                 board, or any other person authorized to grant the contracts for employment, and all money
+                 due, or to become due under the contract, may be forfeited for a second or any subsequent
+                 violation of the terms or conditions of this contract.”
+
+20.   Counterparts
+      This contract may be executed in counterparts, each of which shall be deemed to be an original, but all
+      of which, taken together, shall constitute on and the same agreement.
+
+
+
+1      STATE ENCUMBRANCE VERIFICATION
+       Individual certifies that funds have been encumbered as
+       required by Minnesota Statutes § 16A.15.
+
+
+       Signed: _____________________________________________
+
+       Date: _______________________________________________
+
+       SWIFT Contract No. _________________________________
+
+
+
+2      CONTRACTOR
+       The Contractor certifies that the appropriate person
+       has executed the contract on behalf of the Contractor as
+       required by applicable articles, bylaws, resolutions, or ordinances.
+
+       By: _________________________________________________
+
+       Title: ______________________________________________
+
+       Date: ______________________________________________
+3   MINNESOTA INSURANCE MARKETPLACE [MNsure]
+
+
+    By: _______________________________________________
+                (with delegated authority)
+
+    Title: ______________________________________________
+
+    Date: _______________________________________________
+                       CONTRACT ATTACHMENT 1 – DATA SHARING AGREEMENT
+
+This Data Sharing Agreement (“Agreement”) is by and between the Minnesota Insurance Marketplace a/k/a
+MNsure (“MNsure”) and ____________ (“Contractor”).
+
+WHEREAS, the parties have executed a Contract for ___________________;
+
+WHEREAS, MNsure is subject to the Minnesota Government Data Practices Act by Minnesota Statutes,
+section 62V.06, subd. 1, and is authorized to enter into the below agreement by Minnesota Statutes, section
+62V.05, subdivision 1(b)(5); and
+
+WHEREAS, MNsure is authorized to share protected information pursuant to Minnesota Statutes, section
+62V.06, subdivisions 5(b)(5) and 5(d).
+
+                                                    Agreement
+
+1. Term of Agreement
+      1.1    Effective date: _______, 2014, or the date the State obtains all required signatures, whichever
+             is later.
+
+       1.2     Expiration date: _______, 2014, or until all obligations have been satisfactorily fulfilled, or until
+               any applicable statutory authority expires, whichever comes first.
+
+2. Information Covered by this Agreement.
+       2.1    Under this Agreement, MNsure will be sharing with Contractor one or more types of private
+              information, collectively referred to as “protected information,” concerning individuals, employers,
+              and/or employees participating in MNsure . “Protected information,” for purposes of this Agreement,
+              may include any or all of the following:
+
+               2.1.1   Private data (as defined in Minnesota Statutes § 13.02, subd. 12), confidential data (as defined
+                       in Minn. Stat. § 13.02, subd. 3), welfare data (as governed by Minn. Stat. § 13.46), medical
+                       data (as governed by Minn. Stat. § 13.384), and other not public data governed by other
+                       sections in the Minnesota Government Data Practices Act (MGDPA), Minn. Stats. Chapter 13;
+               2.1.2   Protected health information (“PHI”) (as defined in and governed by the Health Insurance
+                       Portability Accountability Act (“HIPAA”), 45 C.F.R. § 160.103);
+               2.1.3   Federal Tax Information (“FTI”) (as defined by IRC § 6103);
+               2.1.4   Records (as defined by the Privacy Act of 1974, 5 U.S.C. § 552a; and
+               2.1.5   Other data subject to applicable State and federal statutes, rules, and regulations affecting
+                       the collection, storage, use, or dissemination of private or confidential information.
+
+3. Duties
+
+   3.1 MNsure Duties. MNsure shall:
+   (a) Only release information which it is authorized by law or regulation to share with Contractor.
+   (b) Obtain any required consents, authorizations, or other permissions that may be necessary for it to share
+       information with Contractor.
+   (c) Notify Contractor of limitations, restrictions, changes, or revocation of permission by an individual to use or
+       disclose protected information, to the extent that such limitations, restrictions, changes or revocation may
+       affect Contractor’s use or disclosure of protected information.
+   (d) Not request Contractor to use or disclose protected information in any manner that would not be permitted
+       under law if done by MNsure.
+3.2 Contractor Duties. Contractor shall:
+(a) Be responsible for ensuring proper handling and safeguarding by its employees, subcontractors, and
+    authorized agents of protected information collected, created, used, maintained, or disclosed on behalf of
+    MNsure. This responsibility includes:
+                1. conducting appropriate screening and monitoring of its employees and agents to protect
+                information privacy;
+                2. ensuring that employees and agents comply with and are properly trained regarding, as
+                applicable, the laws listed above in clause 1; and
+                3. implementing administrative, physical, and technical safeguards that reasonably and
+                appropriately protect the confidentially, integrity, and availability of any protected information at rest
+                and in transit that it creates, receives, maintains, or transmits on behalf of MNsure.
+(b) Comply with the “minimum necessary” access and disclosure rule set forth in the MGDPA. The collection,
+    creation, use, maintenance, and disclosure of protected information shall be limited to that necessary for
+    the administration and management of programs specifically authorized by the legislature or local
+    governing body or mandated by the federal government. Minnesota Statutes § 13.05 subdivision 3.
+(c) Report to MNsure any privacy or security incident regarding the information of which it becomes aware.
+    For purposes of this Agreement, “Security incident” means the attempted or successful unauthorized
+    access, use, disclosure, modification, or destruction of information or interference with system operations
+    in an information system. Security incident shall not include pings and other broadcast attacks on
+    Contractor’s firewall, port scans, unsuccessful log-on attempts, denials of service, and any
+    combination of the above when using Contractor equipment and infrastructure; so long as such
+    incidents do not result in unauthorized access, use or disclosure of MNsure’s information. “Privacy
+    incident” means violation of the Minnesota Government Data Practices Act (MGDPA) and/or the including,
+    but not limited to, improper and/or unauthorized use or disclosure of protected information, and incidents in
+    which the confidentiality of the information maintained by it has been breached. This report must be made
+    in writing and submitted to MNsure immediately and in no case more than 2 days after learning of such
+    incident.
+(d) Unless provided for otherwise in this Agreement, if Contractor receives a request to release the information
+    referred to in this Clause, Contractor must immediately notify MNsure. MNsure will give Contractor
+    instructions concerning the release of the data to the requesting party before the data is released.
+(e) Not use or further disclose protected information created, collected, received, stored, used, maintained, or
+    disseminated in the course or performance of this Agreement other than as permitted or required by this
+    Agreement or as required by law, either during the period of this Agreement or hereafter.
+(f) In accordance with Minnesota Statutes § 62V.06, subdivision 9, Contractor may not sell any data collected,
+    created, or maintained by MNsure, regardless of its classification, for commercial or any other purposes.
+(g) Consistent with this Agreement, ensure that any agents (including contractors and subcontractors),
+    analysts, and others to whom it provides protected information, agree in writing to be bound by the same
+    restrictions and conditions that apply to it with respect to such information.
+(h) To the extent that any protected information is PHI:
+            1. Comply with the minimum necessary rule and limit the collection, creation, use, maintenance,
+                and disclosure of PHI to “that necessary for the administration and management of programs
+                specifically authorized by the legislature or local governing body or mandated by the federal
+                government.” See 45 C.F.R. §§ 164.502(b) and 164.514(d).
+            2. Report any breach or security incident pursuant to the HIPAA Privacy Rule (45 C.F.R. Part 164,
+                Subpart E). This report must be in writing and sent to MNsure not more than 2 days after
+                learning of such non-permitted use or disclosure. Such a report will at least:
+                    (A) Identify the nature of the non-permitted use or disclosure;
+                    (B) Identify the PHI used or disclosed;
+                    (C) Identify who made the non-permitted use or disclosure and who received the non-
+                    permitted or violating disclosure;
+                    (D) Identify what corrective action was taken or will be taken to prevent further non-permitted
+                    uses or disclosures;
+                    (E) Identify what was done or will be done to mitigate any deleterious effect of the non-
+                    permitted use or disclosure; and
+                           (F) Provide such other information, including any written documentation, as MNsure may
+                           reasonably request.
+                           (G) Provide notice required by 45 C.F.R. §§ 164.404 through 164.408 to affected individuals,
+                           news media, and/or the Office of Civil Rights, Department of Health and Human Services,
+                           only upon direction from and in coordination with MNsure.
+                  3. In accordance with 45 C.F.R. §§ 164.502(e)(1)(ii) and 164.308(b)(2), if applicable, ensure
+                       that any subcontractors that create, receive, maintain, or transmit protected health
+                       information on behalf of the business associate agree in writing to the same restrictions,
+                       conditions, and requirements that apply to the business associate with respect to such
+                       information.
+                  4. Within ten (10) business days of a request from an individual or their designee, make
+                       available protected health information in a designated record set, consistent with Minn. Stat.
+                       § 13.04, subdivision 3, and 45 C.F.R.§ 164.524.
+                  5. Within ten (10) business days, forward any request to make any amendment(s) to protected
+                       health information in a designated record set to MNsure in order for MNsure to satisfy its
+                       obligations under Minnesota Statutes § 13.04, subdivision 3 and 45 C.F.R. §164.526.
+                  6. Document such disclosures of PHI and information related to such disclosures as would be
+                       required for MNsure to respond to a request by an individual for an accounting of
+                       disclosures of PHI in accordance with 45 C.F.R. § 164.528. Maintain and make available no
+                       later than fifteen (15) days after receipt of request from MNsure, the information required to
+                       provide an accounting of disclosures to MNsure as necessary to satisfy MNsure’s
+                       obligations under 45 C.F.R. §164.528, or upon request from MNsure respond directly to
+                       individual’s request for an accounting of disclosures.
+                  7. To the extent the business associate is to carry out one or more of MNsure’s obligation(s)
+                       under Subpart E of 45 C.F.R. Part 164, comply with the requirements of Subpart E that
+                       apply to MNsure in the performance of such obligation(s).
+                  8. Make its internal practices, books, and records available for purposes of determining
+                       compliance with the HIPAA Rules.
+                  9. Contractor may not use or disclose protected health information in a manner that would
+                       violate Subpart E of 45 C.F.R. Part 164 if done by MNsure.
+                  10. Comply with any and all other applicable provisions of the HIPAA Privacy Rule,
+                       Administrative, and Security Standards, including future amendments thereto. Develop
+                       written policies and procedures for safeguarding and securing PHI and complying with
+                       HIPAA and the HITECH Act, and other privacy laws.
+                  11. Designate a privacy official to be responsible for the development and implementation of its
+                       policies and procedures as required by 45 C.F.R. Part 164, Subpart E.
+     (i)   To the extent that any protected information is FTI, ensure that this data only be used as authorized under
+           the Patient Protection and Affordable Care Act and the Internal Revenue Code, 26 U.S.C. § 6103(C), and
+           IRS Publication 1075, and restrict from use for any other purpose.
+     (j)   Mitigate, to the extent practicable, any harmful effects known to it of a use, disclosure, or breach of security
+           with respect to protected information by it in violation of this Agreement.
+     (k)   Report and mitigate any fraudulent activities;
+     (l)   Comply with any and all other applicable provisions of the Final Exchange Privacy Rule at 45 C.F.R. §
+           155.260, including future amendments thereto.
+
+4. Disposition of Data upon Completion, Expiration, or Agreement Termination. Upon completion, expiration,
+    or termination of this Agreement, Contractor will return to MNsure or destroy all protected information received
+    or created on behalf of MNsure for purposes associated with this Agreement. A written certification of
+    destruction or return to the MNsure Authorized Representative is required. Contractor will retain no copies of
+    such protected information. If both parties agree that such return or destruction is not feasible, or if Contractor
+    is required by the applicable regulation, rule or statutory retention schedule to retain beyond the life of this
+    Agreement, Contractor will extend the protections of this Agreement to the protected information and refrain
+    from further use or disclosure of such information, except for those purposes that make return or destruction
+    infeasible, for as long as Contractor maintains the information.
+     5. Amendments
+        Any amendment to this Agreement must be in writing and will not be effective until it has been executed and
+        approved by the same parties who executed and approved the original agreement, or their successors in
+        office.
+
+ 6. Sanctions.
+     In addition to any liability under section 6 of Agreement, the parties acknowledge that violation of the laws and
+     protections described above could result in limitations being placed on future access to protected information, in
+     investigation and imposition of sanctions by the U.S. Department of Health and Human Services, Office for Civil
+     Rights, and/or in civil and criminal penalties.
+
+7.      Interpretation.
+        Any ambiguity in this Agreement shall be resolved to permit the parties to comply with HIPAA, MDGPA, and
+        other applicable state and federal statutes, rules, and regulations affecting the collection, storage, use and
+        dissemination of private or confidential information.
+
+8.      DHS Information Security Policy. Additional information regarding the handling and, as appropriate,
+        destruction (upon expiration or termination of a contract or agreement) of protected information obtained from
+        State is available at https://edocs.dhs.state.mn.us/lfserver/Public/DHS-4683-ENG.
+
+9.      Effect of statutory amendments or rule changes.
+        The Parties agree to take such action as is necessary to amend this Agreement from time to time as is
+        necessary for compliance with the requirements of the laws listed in paragraph 1 of this section or in any other
+        applicable law. However, any requirement in this Agreement or in the DHS Information Security Policy that is
+        based upon HIPAA Rules or upon other federal or state information privacy or security laws means the
+        requirement as it is currently in effect, including any applicable amendment(s), regardless of whether the
+        Agreement has been amended to reflect the amendments(s).
+
+10.     Survival.
+        The obligations of Contractor under this Attachment shall survive the termination of this Agreement
+
+     1. CONTRACTOR                                                 2. MNsure
+
+     By: _________________________________                         By: _____________________________
+              (With delegated authority)                                     (With delegated authority)
+
+     Title: _________________________________                      Title: _____________________________
+
+
+     Date: _________________________________                       Date: ____________________________
+

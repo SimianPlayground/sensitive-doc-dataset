@@ -1,0 +1,1066 @@
+Pierce County Balanced Scorecard – Software as a Service (SaaS)
+
+
+                                                                  RFP Information
+                                                                  RFP No. 1237
+                                                                  Pierce County Balanced Scorecard - Software as a Service (SaaS)
+                                                                  Issue Date: February 12, 2014
+                                                                  Closing Date: February 26, 2014
+
+                                                                  Contact
+                                                                  Lynn Julin
+                                                                  Phone: (253) 798-2906
+                                                                  Email: ljulin@co.pierce.wa.us
+
+
+                                                                  Vendor Information
+                                                                  Firm Name: __________________________________________________________
+                                                                  Contact Name: ________________________________________________________
+                                                                  Address: _____________________________________________________________
+                                                                  City: _______________________________ State ___________ Zip ___________
+                                                                  Phone: ____________________________ Fax: _____________________________
+                                                                  E-Mail: ______________________________________________________________
+
+                                                                  Return Proposals by 4:00pm, February 26, 2014 to:
+                                                                  Pierce County Purchasing
+                                                                  615 South 9th Street, Suite 100
+                                                                  Tacoma, WA 98405
+                                                                  Phone: 253-798-7456
+                                                       TABLE OF CONTENTS
+Submittal Due Date ......................................................................................................................... 3
+
+General Information ....................................................................................................................... 3
+
+Description of Project ..................................................................................................................... 3
+
+Expected Term of Resulting Agreement ......................................................................................... 3
+
+Contact ............................................................................................................................................ 3
+
+Scope of Work ................................................................................................................................. 4
+
+Timelines ......................................................................................................................................... 6
+
+Additional Requirements for Submittal .......................................................................................... 6
+
+Evaluation Criteria........................................................................................................................... 8
+
+General Terms and Conditions ....................................................................................................... 9
+
+General Conditions of Personal Service Contracts .......................Error! Bookmark not defined.11
+
+Exhibit “C”              Contract Compliance for Professional, Technical, Supply or Services................ 16
+
+Certification of Nonsegregated Facilities...................................................................................... 18
+
+Non-Collusion & Debarment Affidavit .......................................................................................... 18
+
+Subcontractors Participation Form for Professional, Technical, Supply or Service PSAs ............. 19
+
+Personnel Workforce Data Form .................................................................................................. 20
+
+Required Signature Page for Proposal .......................................................................................... 21
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                                                             2
+SUBMITTAL DUE DATE
+To be eligible for consideration, three (3) copies of a vendor's response to this Request for Proposals
+(hereafter called "response" or "proposal") must be received by the Pierce County Purchasing
+Department, 615 South 9th Street, Suite 100, Tacoma, WA 98405-4673 no later than close of business,
+4:00 PM, February 26, 2014. The response must be submitted in a sealed envelope with the vendor’s
+name, Request for Proposals Number and the due date clearly identified on the outside.
+
+
+GENERAL INFORMATION
+With a population of over 813,000 within its borders, Pierce County is the second most populous county
+in Washington State. Its total land area is 1,794 square miles and has a unique topographic profile
+ranging from sea level at Puget Sound to 14,411 feet at the peak of Mt. Rainier. The County serves over
+382,000 citizens in unincorporated regions and provides responsive services to its community to address
+current and future needs.
+
+Pierce County utilizes technology to manage information, automate business processes, serve the public
+and lower the cost of government. The technology serves 24 county departments and includes
+commercial software applications including Software-as-a-Service and custom developed software
+applications. The purpose of this RFP is to evaluate and select a balanced scorecard software system.
+The work will include software deployment, maintenance, support and project management.
+
+
+DESCRIPTION OF PROJECT
+Pierce County is seeking proposals from qualified companies interested in providing a balanced
+scorecard solution offered in a Software as a Service (SaaS) model. The successful vendor would
+provide a SaaS solution that enables Pierce County to build independent, departmental scorecards,
+dashboards, integrate strategy maps, and other similar industry standard features, while being able to use
+a “drag and drop” methodology. The solution purchased from the successful vendor will also include in
+the pricing, a) the product, b) product maintenance, c) service desk for help calls from Pierce County, and
+d) communication with Pierce County when upgrades/maintenance periods are performed so as to not
+interfere with Pierce County production.
+
+
+EXPECTED TERM OF RESULTING AGREEMENT
+The initial contract period shall be from March 21, 2014 to March 20, 2015, unless sooner terminated as
+provided elsewhere in the Agreement. The contract shall be renewed annually for four (4) additional one
+year terms, unless either party gives notice of non-renewal not less than 60 days prior to the expiration of
+any one year term.
+
+
+CONTACT
+
+Lynn Julin, IT Systems Engineer, Lead
+Information Technology Department
+        th
+615 S. 9 , Suite 300
+Tacoma, WA 98405
+Phone: 253.798.2906
+FAX: 253.798.6622
+ljulin@co.pierce.wa.us
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                        3
+SCOPE OF WORK
+
+Software Application
+This hosted software application should meet the following criteria:
+    1. Provides industry standard functionality for managing a government agency balanced scorecard
+    2. Cloud hosted, SaaS environment
+    3. Is endorsed by the Balanced Scorecard Institute
+    4. Uses terminology supported by the Balance Scorecard Institute
+    5. Has an easy to use user interface
+    6. Provides on-line training video tutorials
+    7. Provides user manual(s) (digital)
+    8. Provides step-by-step wizards to help build the scorecard
+    9. Provides multiple levels of data security
+    10. Is able to display Intra- and Internet scorecard views
+    11. An ability to import data from other platforms using vendor templates in order to migrate
+        existing data into the system and avoid re-entering data
+    12. Flexibility to create/move objectives/measures/initiatives/maps – offering drag, drop, and copy
+        capability
+    13. An ability to use weighting for auto calculations on objectives/measures/initiatives
+    14. Ability to attach , view and store documents (pdfs) about an initiative
+    15. Has reporting-query feature
+    16. An ability to build dynamic dashboards – by scorecard and can be customized; freeform canvas
+    17. Has Gantt chart view for initiatives and associated tasks
+    18. Has Email communication – ability to support Pierce County’s Outlook e-mail client rather than
+        cloud e-mail that allows alerts and the like to be sent using our client
+    19. An ability to individualize backgrounds, and import images
+    20. Administration tools that provide group permission assignments, activity logs, etc.
+    21. An ability to use strategy maps via document import and/or the use templates
+    22. Export/print functions to various file forms including but not limited to Microsoft Office formats,
+        .pdfs, .jpegs
+    23. Is supported by a “help desk” service for problem calls
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                      4
+The SaaS environment
+
+The SaaS environment and technologies should include the following:
+    1. Integration with the County’s Active Directory System will be completed using Security Assertion
+       Markup Language (SAML) for single sign-on. This authentication methodology will be available
+       before the Go Live date for the Pierce County project.
+    2. Access the Application via the Internet using HTTPS.
+    3. Application will be optimized for use with Windows 2007 and Windows Microsoft Internet
+       Explorer 8.0, 9.0, and 10.0. Vendor will ensure that supported browsers will display correctly in
+       the most current version of all common browsers including but not limited to: Internet
+       Explorer, Firefox, Safari and Chrome.
+    4. Five (5) gigabytes or more data storage for data and file attachments
+    5. Any downtime for maintenance will be scheduled after Client’s normal business hours which are
+       7:30 am to 5:30 pm PST, Monday-Friday. If maintenance must be scheduled during the County’s
+       business hours, the County will be notified one day in advance.
+    6. Software system and hosting service will provide a two second response time for system data
+       display and screen refresh.
+    7. Vendor will provide mirrored database hosting that would allow failover to the secondary
+       database in case of an outage.
+    8. Database backups will be completed hourly and industry standard data backup plans for daily,
+       weekly and monthly backups will be performed. Backups will be used to restore data in the
+       event of an outage or incident.
+    9. Vendor will implement and maintain a business continuity and disaster recovery plan that
+       provides for the continued delivery of the Service in the event of a power out, system outage or
+       other circumstances that may interrupt the normal provision of the service.
+    10. Once every month following project go-live, at no additional cost to the County, the Vendor
+        shall provide the County an electronic copy of the County’s content contained within the
+        application database. The data file will be in an agreed upon format.
+    11. If the Contract is terminated for any reason, Vendor will provide a Client database copy of the
+        current and complete database no later than 30 days after termination. There will be no charge
+        to the County. No data can be retained by Vendor in any media (including hard copies) after
+        termination of this contract.
+    12. Vendor solution’s will secure and protect county data from unauthorized access.
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                     5
+TIMELINES
+1.       Questions regarding this RFP must be submitted in writing to Lynn Julin, email:
+         ljulin@co.pierce.wa.us, not later than 4:00 p.m., February 19, 2014. Answers will be posted not
+         later than 4:00 p.m., February 20, 2014.
+
+2.       Proposals must be received by the Purchasing Department not later than 4:00 p.m., February 26,
+         2014 to be considered.
+
+3.       If interviews are determined to be necessary, they may beheld the week of March 3, 2014.
+
+4.       The estimated date of notice of intention to negotiate a contract with the selected proposer is
+         March 7, 2014.
+
+5.       The estimated date of contract execution is March 21, 2014
+
+
+
+
+REQUIREMENTS FOR SUBMITTAL
+Vendors will provide the following information in numbered order in their proposals and respond to the
+questions:
+
+1. Name, local address, and phone number of the firm proposed for this contract.
+
+2. The names and number of years the firm has been in business under current or previous names or
+   additional assumed business names.
+
+3. The name and resume of each individual assigned to this project and the individual assigned to
+   backup the primary person in his/her absence and similar information concerning each individual to
+   be provided by subcontract.
+
+4. The name and title of the person authorized to execute a contract on behalf of the firm.
+
+5. A statement outlining any exceptions to the County's requirements or clarifications to the
+   requirements.
+
+6. Provide complete pricing.
+
+7. Any additional services or software of benefit to the County not specifically required herein, which the
+   Contractor offers to provide.
+
+8. References listing customers with similar systems or volume requirements.
+
+9. The caption, cause number, Court, Counsel, and general summary of any litigation pending or
+   judgment rendered within the past 3 years against the proposer.
+
+10. Note the extent, if any, to which the firm, association or corporation or any person in a controlling
+    capacity associated therewith or any position involving the administration of federal, State or local
+    funds; is currently under suspension, debarment, voluntary exclusion, or determination of eligibility by
+    any agency; has been suspended, debarred, voluntarily excluded or determined ineligible by any
+    agency within the past 3 years; does have a proposed debarment pending; has been indicted,
+    convicted or has a civil judgment rendered against said person, firm, association or corporation by a
+    court of competent jurisdiction in any matter involving fraud or misconduct with the past 3 years.
+
+11. Vendor shall describe the proposed software solution and services as it applies to the Scope of Work.
+    Please identify any requirements that cannot be met by the system.
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                        6
+     12. Vendors shall answer the following questions:
+
+          a. Describe the process for migrating and converting data from an existing system to the proposed
+             solution.
+
+          b. Describe the system’s login, data and system security.
+
+          c.     Describe the software implementation and training process for the system. The County will be
+                 implementing the system for 24 departments.
+
+          d. Provide a timeline for the implementation of the system include data conversion, system planning,
+             design, testing, training and go-live.
+
+          e. Describe the characteristics and security of the physical data center where the services reside.
+
+     13. Costs and Compensation: Vendors shall use the following chart to document system costs.
+
+
+
+                                                 Implement                              Production
+                                                   Cost to          Year 1 -      Year 2-        Year 3 -      Year 4 -
+          CATEGORY                 Quantity      Implement        Annual Cost   Annual Cost    Annual Cost   Annual Cost
+                                                   (2014)           (2015)        (2016)          (2017)       (2018)
+     Software Installation,
+1
+      Licensing & Hosting
+
+     Software Maintenance
+2
+         and Upgrades
+          Professional
+3
+            Services
+4              Training
+
+5   Data Conversion Services
+
+6   Additional Data Storage
+
+      Additional software
+7
+            services
+          Grand Total
+
+
+
+     14. In addition to any specific requirements requested in this proposal, the following documents must
+         be completed and submitted with the proposal:
+          A.      Required Signature Page for Proposal
+          B.      Subcontractors Participation Form (Exhibit C)
+          C.      Certification of Non-segregated Facilities and Non-collusion Affidavit and Debarment Affidavit
+                  (Exhibit C)
+          D.      Personnel Workforce Data Form (Exhibit C)
+
+
+
+
+     RFP No. 1237
+     Balanced Scorecard (SaaS)
+     Rev 2/10/14                                                                                         7
+EVALUATION CRITERIA
+Matters relating to qualification to meet the County's needs will receive highest priority in evaluation.
+Matters relating to the means of meeting those needs described in the proposal will be considered
+secondary.
+
+All vendor representations, whether verbal or written will be relied on by the County in its evaluation of
+potential vendors. The County’s reliance on the vendor’s representations and represented expertise is to
+be considered as incorporated into any and all formal agreements between the Parties.
+
+It is very important to the County to reach an agreement based upon reliable and factual information.
+Vendors responding to this RFP must demonstrate their ability to faithfully execute the contract(s) based
+on known and proven capabilities, not on their potential future or planned abilities.
+
+The County is not responsible for any costs incurred by the proposer in the preparation and submission of
+the proposal, participation in the County’s due diligence process (e.g. onsite demos) or participation in the
+contract negotiations process (e.g. legal fees, statement of work development, etc.).
+
+Actual prices may be used to select successful offerors. Pricing methods and flexibility offered by a
+proposer for use in negotiation of a resulting contract may be considered in evaluation.
+
+After a proposal is selected, the County expects to negotiate the details of work to be performed based
+upon the proposal and the County's needs and appropriate pricing of selected tasks. If negotiations fail
+for any reason, including price, the County may choose to negotiate with others to obtain an appropriate
+contract for needed services.
+
+Firms will be evaluated on the following criteria:
+
+1. The ability of the firm to service this account based on the contemplated scope of work and volume of
+   business.
+
+2. The experience of the firm, length of time in business and other matters relating to relevant
+   experience.
+
+3. Experience of the individuals assigned to this account.
+
+4. Appropriateness and flexibility of pricing arrangements.
+
+5. References either submitted with the proposal or known to the County.
+
+6. The firm's approach to this work, including compliance with requirements, innovative offerings,
+   services offered and other related matters.
+
+7. Past performance with work provided to the County.
+
+8. Other information as appropriate.
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                          8
+GENERAL TERMS AND CONDITIONS
+The following terms and conditions apply to all proposals to provide services to Pierce County:
+
+1. Pierce County expressly reserves the following rights:
+   a. To reject any and/or all irregularities in the proposals submitted.
+   b. To reject any or all proposals or portions thereof.
+   c. To base awards with due regard to quality of services, experience, compliance with
+       specifications, and other such factors as may be necessary in the circumstances.
+   d. To make the award to any vendor or combination of vendors whose proposal(s), in the opinion of
+       the County, is in the best interest of the County.
+
+2. All proposals must be sealed in an envelope or appropriate packaging and addressed as requested in
+   the RFP. The name and address of the vendor must appear on the envelope. The outside must
+   state the RFP title and number and the RFP due date and time.
+
+3. The RFP must be signed with ink by an authorized individual of the company empowered to act in
+   that capacity before a contract will be negotiated.
+
+4. Any proposal or modification received after the hour and date specified may be returned unopened.
+
+5. All documents, reports, proposals, submittals, working papers, or other materials prepared by the
+   Contractor pursuant to this proposal shall become the sole and exclusive property of the County, and
+   the public domain, and not the property of the Contractor. The Contractor shall not copyright, or
+   cause to be copyrighted, any portion of said items submitted to the County because of this
+   solicitation.
+
+6. All of the items mentioned in paragraph 5 above submitted to Pierce County should be printed both
+   sides on recycled paper whenever practicable.
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                       9
+GENERAL CONDITIONS OF PERSONAL SERVICE CONTRACTS
+Substantially the following additional provisions will be incorporated into any negotiated contract resulting
+from this RFP:
+
+1. Scope of Contractor's Services:
+   The Contractor agrees to provide to the County services and any materials set forth in the project
+   narrative identified as Exhibit "A" during the Agreement period. No material, labor, or facilities will be
+   furnished by the County, unless otherwise provided for in the Agreement.
+
+2. Accounting and Payment for Contractor Services:
+   Payment to the Contractor for services rendered under this Agreement shall be as set forth in Exhibit
+   "B." Where Exhibit "B" requires payments by Pierce County, payment shall be based upon billings,
+   supported unless otherwise provided in Exhibit "B," by documentation of units of work actually
+   performed and amounts earned, including where appropriate, the actual number of days worked each
+   month, total number of hours for the month, and the total dollar payment requested. Unless
+   specifically stated in Exhibit "B" or approved in writing in advance by the official executing this
+   Agreement for Pierce County, (hereinafter referred to as the "Contracting Officer",) the County will not
+   reimburse the Contractor for any costs or expenses incurred by the Contractor in the performance of
+   this contract.
+
+    Where required, the County shall, upon receipt of appropriate documentation, compensate the
+    Contractor, no more often than monthly, through the County voucher system for the Contractor's
+    service pursuant to the fee schedule set forth in Exhibit "B."
+
+3. Assignment and Subcontracting:
+   No portion of this contract may be assigned or subcontracted to any other individual, firm or entity
+   without the express and prior written approval of the Contracting Officer.
+
+4. Labor Standards and Contract Assistance:
+   The Contractor shall comply with the provisions of Exhibit “C”, attached hereto, titled “Contract
+   Compliance For Professional, Technical, Supply or Services”.
+
+5. Independent Contractor:
+   The Contractor's services shall be furnished by the Contractor as an independent Contractor and
+   nothing herein contained shall be construed to create a relationship of employer-employee or master-
+   servant, but all payments made hereunder and all services performed shall be made and performed
+   pursuant to this Agreement by the Contractor as an independent Contractor.
+
+    The Contractor acknowledges that the entire compensation for this Agreement is specified in Exhibit
+    "B" and the Contractor is not entitled to any County benefits including, but not limited to: vacation
+    pay, holiday pay, sick leave pay, medical, dental, or other insurance benefits, or any other rights or
+    privileges afforded to Pierce County employees. The Contractor represents that he/she/it maintains a
+    separate place of business, serves clients other than the County, will report all income and expense
+    accrued under this contract to the Internal Revenue Service, and has a tax account with the State of
+    Washington Department of Revenue for payment of all sales and use and Business and Occupation
+    taxes collected by the State of Washington.
+
+    Contractor will defend, indemnify and hold harmless the County, its officers, agents or employees
+    from any loss or expense, including but not limited to settlements, judgments, setoffs, attorneys' fees
+    or costs incurred by reason of claims or demands because of breach of the provisions of this
+    paragraph.
+
+6. No Guarantee of Employment:
+   The performance of all or part of this contract by the Contractor shall not operate to vest any
+   employment rights whatsoever and shall not be deemed to guarantee any employment of the
+   Contractor or any employee of the Contractor or any subcontractor or any employee of any
+   subcontractor by the County at the present time or in the future.
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                        10
+7. Taxes:
+   The Contractor understands and acknowledges that the County will not withhold Federal or State
+   income taxes. Where required by State or Federal law, the Contractor authorizes the County to make
+   withholding for any taxes other than income taxes (i.e., Medicare). All compensation received by the
+   Contractor will be reported to the Internal Revenue Service at the end of the calendar year in
+   accordance with the applicable IRS regulations. It is the responsibility of the Contractor to make the
+   necessary estimated tax payments throughout the year, if any, and the Contractor is solely liable for
+   any tax obligation arising from the Contractor's performance of this Agreement. The Contractor
+   hereby agrees to indemnify the County against any demand to pay taxes arising from the Contractor's
+   failure to pay taxes on compensation earned pursuant to this Agreement.
+
+    The County will pay sales and use taxes imposed on goods or services acquired hereunder as
+    required by law. The Contractor must pay all other taxes including, but not limited to: Business and
+    Occupation Tax, taxes based on the Contractor's gross or net income, or personal property to which
+    the County does not hold title. The County is exempt from Federal Excise Tax.
+
+8. Regulations and Requirement:
+   This Agreement shall be subject to all laws, rules, and regulations of the United States of America,
+   the State of Washington, and political subdivisions of the State of Washington, and to any other
+   provisions set forth in Exhibit "D."
+
+9. Right to Review:
+   This contract is subject to review by any Federal or State auditor. The County or its designee shall
+   have the right to review and monitor the financial and service components of this program by
+   whatever means are deemed expedient by the Contracting Officer. Such review may occur with or
+   without notice, and may include, but is not limited to, onsite inspection by County agents or
+   employees, inspection of all records or other materials which the County deems pertinent to the
+   Agreement and its performance, and any and all communications with or evaluations by service
+   recipients under this Agreement. The Contractor shall preserve and maintain all financial records and
+   records relating to the performance of work under this Agreement for 3 years after contract
+   termination, and shall make them available for such review, within Pierce County, State of
+   Washington, upon request.
+
+10. Modifications:
+    Either party may request changes in the Agreement. Any and all agreed modifications shall be in
+    writing, signed by each of the parties.
+
+11. Termination for Default:
+    If the Contractor defaults by failing to perform any of the obligations of the contract or becomes
+    insolvent or is declared bankrupt or commits any act of bankruptcy or insolvency or makes an
+    assignment for the benefit of creditors, the County may, by depositing written notice to the Contractor
+    in the U.S. mail, postage prepaid, terminate the contract, and at the County's option, obtain
+    performance of the work elsewhere. If the contract is terminated for default, the Contractor shall not
+    be entitled to receive any further payments under the contract until all work called for has been fully
+    performed. Any extra cost or damage to the County resulting from such default(s) shall be deducted
+    from any money due or coming due to the Contractor. The Contractor shall bear any extra expenses
+    incurred by the County in completing the work, including all increased costs for completing the work,
+    and all damage sustained, or which may be sustained by the County by reason of such default.
+
+    If a notice of termination for default has been issued and it is later determined for any reason that the
+    Contractor was not in default, the rights and obligations of the parties shall be the same as if the
+    notice of termination had been issued pursuant to the Termination for Public Convenience paragraph
+    hereof.
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                        11
+12. Termination for Public Convenience:
+    The County may terminate the contract in whole or in part whenever the County determines, in its
+    sole discretion that such termination is in the interests of the County. Whenever the contract is
+    terminated in accordance with this paragraph, the Contractor shall be entitled to payment for actual
+    work performed at unit contract prices for completed items of work. An equitable adjustment in the
+    contract price for partially completed items of work will be made, but such adjustment shall not
+    include provision for loss of anticipated profit on deleted or uncompleted work. Termination of this
+    contract by the County at any time during the term, whether for default or convenience, shall not
+    constitute a breach of contract by the County.
+
+13. Defense & Indemnity Agreement:
+    The Contractor agrees to defend, indemnify and save harmless the County, its appointed and elected
+    officers and employees, from and against all loss or expense, including but not limited to judgments,
+    settlements, attorney's fees and costs by reason of any and all claims and demands upon the County,
+    its elected or appointed officials or employees for damages because of personal or bodily injury,
+    including death at any time resulting therefrom, sustained by any person or persons, and for damages
+    to property including loss of use thereof, whether such injury to persons or damage to property is due
+    to the negligence of the Contractor, his/her Subcontractors, its successor or assigns, or its or their
+    agent, servants, or employees, the County, its appointed or elected officers, employees or their
+    agents, except only such injury or damage as shall have been occasioned by the sole negligence of
+    the County, its appointed or elected officials or employees.
+
+    The preceding paragraph is valid and enforceable only to the extent of the Contractor’s negligence
+    where the damages arise out of services or work in connection with or collateral to, a contract or
+    agreement relative to construction, alteration, repair, addition to, subtraction from, improvement to, or
+    maintenance of, any building, highway, road, railroad, excavation, or other structure, project,
+    development, or improvement attached to real estate, including moving and demolition in connection
+    therewith, a contract or agreement for architectural, landscape architectural, engineering, or land
+    surveying services, or a motor carrier transportation contract and where the damages are caused by
+    or result from the concurrent negligence of (i) the County or its agents or employees, and (ii) the
+    Contractor or the Contractor’s agents or employees.”
+
+14. Insurance Requirements
+    The insurance coverages specified in this paragraph (14.) are required unless modified by
+    Attachment A of this agreement. If insurance requirements are contained in Attachment A they take
+    precedence
+
+    The Contractor shall, at the Contractor’s own expense, maintain, with an insurance carrier licensed or
+    eligible under RCW Chapter 48.15 to do business in the State of Washington, with minimum
+    coverage as outlined below, commercial automobile liability insurance, and either commercial general
+    liability insurance, or, if any services required by the contract must be performed by persons licensed
+    by the State of Washington, professional liability insurance:
+    Commercial Automobile Liability                Bodily Injury Liability and Property Damage
+                                                   Liability Insurance $1,000,000 each occurrence
+                                                   OR combined single limit coverage of
+                                                   $2,000,000, with not greater than a $1000.00
+                                                   deductible.
+
+    Commercial General Liability                   Bodily Injury Liability and Property Damage
+                                                   Liability Insurance $1,000,000 each occurrence
+                                                   OR combined single limit coverage of
+                                                   $2,000,000, with not greater than a $1000.00
+                                                   deductible.
+
+    Professional Liability Insurance               Shall include errors and omissions insurance
+                                                   providing $1,000,000.00 coverage with not
+                                                   greater than a $5,000.00 deductible for all
+                                                   liability which may be incurred during the life of
+                                                   this contract.
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                        12
+    Pierce County shall be named as an additional insured on all required policies except professional
+    liability insurance, and such insurance as is carried by the Contractor shall be primary over any
+    insurance carried by Pierce County. The Contractor shall provide a certificate of insurance to be
+    approved by the County Risk Manager prior to contract execution, which shall be attached to the
+    contract.
+
+    Pierce County shall have no obligation to report occurrences unless a claim is filed with the Pierce
+    County Auditor; nor shall Pierce County have an obligation to pay premiums.
+
+    In the event of nonrenewal or cancellation of or material change in the coverage required, thirty (30)
+    days written notice will be furnished Pierce County prior to the date of cancellation, change or
+    nonrenewal, such notice to be sent to the Pierce County Risk Manager, 955 Tacoma Ave South,
+    Suite 303, Tacoma, WA 98402.”
+
+15. Industrial Insurance Waiver
+    With respect to the performance of this Agreement and as to claims against the County, its officers,
+    agents and employees, the Contractor expressly waives its immunity under Title 51 of the Revised
+    Code of Washington, the Industrial Insurance Act, for injuries to its employees and agrees that the
+    obligations to indemnify, defend and hold harmless provided in this Agreement extend to any claim
+    brought by or on behalf of any employee of the Contractor. This waiver is mutually negotiated by the
+    parties to this Agreement.
+
+16. Venue and Choice of Law:
+    In the event that any litigation should arise concerning the construction or interpretation of any of the
+    terms of this Agreement, the venue of such action of litigation shall be in the courts of the State of
+    Washington in and for the County of Pierce. This Agreement shall be governed by the law of the
+    State of Washington.
+
+17. Withholding Payment:
+    In the event the Contracting Officer determines that the Contractor has failed to perform any
+    obligation under this Agreement within the times set forth in this Agreement, then the County may
+    withhold from amounts otherwise due and payable to Contractor the amount determined by the
+    County as necessary to cure the default, until the Contracting Officer determines that such failure to
+    perform has been cured. Withholding under this clause shall not be deemed a breach entitling
+    Contractor to termination or damages, provided that the County promptly gives notice in writing to the
+    Contractor of the nature of the default or failure to perform, and in no case more than 10 days after it
+    determines to withhold amounts otherwise due. A determination of the Contracting Officer set forth in
+    a notice to the Contractor of the action required and /or the amount required to cure any alleged
+    failure to perform shall be deemed conclusive, except to the extent that the Contractor acts within the
+    times and in strict accord with the provisions of the Disputes clause of this Agreement. The County
+    may act in accordance with any determination of the Contracting Officer which has become
+    conclusive under this clause, without prejudice to any other remedy under the Agreement, to take all
+    or any of the following actions: (1) cure any failure or default, (2) to pay any amount so required to be
+    paid and to charge the same to the account of the Contractor, (3) to set off any amount so paid or
+    incurred from amounts due or to become due the Contractor. In the event the Contractor obtains
+    relief upon a claim under the Disputes clause, no penalty or damages shall accrue to Contractor by
+    reason of good faith withholding by the County under this clause.
+
+18. Future Non-Allocation of Funds:
+    Notwithstanding any other terms of this Agreement, if sufficient funds are not appropriated or
+    allocated for payment under this contract for any future fiscal period, the County will not be obligated
+    to make payment for services or amounts after the end of the fiscal period through which funds have
+    been appropriated and allocated, unless authorized by county ordinance. No penalty or expense
+    shall accrue to the County in the event this provision applies.
+
+19. Contractor Commitments, Warranties and Representations:
+    Any written commitment received from the Contractor concerning this Agreement shall be binding
+    upon the Contractor, unless otherwise specifically provided herein with reference to this paragraph.
+    Failure of the Contractor to fulfill such a commitment shall render the Contractor liable for damages to
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                        13
+    the County. A commitment includes, but is not limited to any representation made prior to execution
+    of this Agreement, whether or not incorporated elsewhere herein by reference, as to performance of
+    services or equipment, prices or options for future acquisition to remain in effect for a fixed period, or
+    warranties.
+
+20. Patent/Copyright Infringement:
+    Contractor will defend and indemnify the County from any claimed action, cause or demand brought
+    against the County, to the extent such action is based on the claim that information supplied by the
+    Contractor infringes any patent or copyright. The Contractor will pay those costs and damages
+    attributable to any such claims that are finally awarded against the County in any action. Such
+    defense and payments are conditioned upon the following:
+    a. That Contractor shall be notified promptly in writing by County of any notice of such claim.
+    b. Contractor shall have the right, hereunder, at its option and expense, to obtain for the County the
+         right to continue using the information, in the event such claim of infringement, is made, provided
+         no reduction in performance or loss results to the County.
+
+21. Disputes
+    a. General
+        Differences between the Contractor and the County, arising under and by virtue of the Contract
+        Documents shall be brought to the attention of the County at the earliest possible time in order
+        that such matters may be settled or other appropriate action promptly taken. Except for such
+        objections as are made of record in the manner hereinafter specified and within the time limits
+        stated, the records, orders, rulings, instructions, and decisions of the Contracting Officer, shall be
+        final and conclusive.
+
+    b. Notice of Potential Claims
+       The Contractor shall not be entitled to additional compensation which otherwise may be payable,
+       or to extension of time for (1) any act or failure to act by the Contracting Officer or the County, or
+       (2) the happening of any event or occurrence, unless the Contractor has given the County a
+       written Notice of Potential Claim within 10 days of the commencement of the act, failure, or event
+       giving rise to the claim, and before final payment by the County. The written Notice of Potential
+       Claim shall set forth the reasons for which the Contractor believes additional compensation or
+       extension of time is due, the nature of the cost involved, and insofar as possible, the amount of
+       the potential claim. Contractor shall keep full and complete daily records of the Work performed,
+       labor and material used, and all costs and additional time claimed to be additional.
+
+    c.   Detailed Claim
+         The Contractor shall not be entitled to claim any such additional compensation, or extension of
+         time, unless within 30 days of the accomplishment of the portion of the work from which the claim
+         arose, and before final payment by the County, the Contractor has given the County a detailed
+         written statement of each element of cost or other compensation requested and of all elements of
+         additional time required, and copies of any supporting documents evidencing the amount or the
+         extension of time claimed to be due.
+
+22. Ownership of Items Produced
+    All writings, programs, data, public records or other materials prepared by the Contractor and/or its
+    consultants or subcontractors, in connection with the performance of this Agreement shall be the sole
+    and absolute property of the County.
+
+23. Confidentiality:
+    The Contractor, its employees, subcontractors, and their employees shall maintain the confidentiality
+    of all information provided by the County or acquired by the Contractor in performance of this
+    Agreement, except upon the prior written consent of the Pierce County Prosecuting Attorney or an
+    order entered by a court after having acquired jurisdiction over the County. Contractor shall
+    immediately give to the County notice of any judicial proceeding seeking disclosure of such
+    information. Contractor shall indemnify and hold harmless the County, its officials, agents or
+    employees from all loss or expense, including, but not limited to settlements, judgments, setoffs,
+    attorneys' fees and costs resulting from Contractor's breach of this provision.
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                         14
+24. Notice:
+    Except as set forth elsewhere in the Agreement, for all purposes under this Agreement, except
+    service of process, notice shall be given by the Contractor to the department head of the department
+    for whom services are rendered, and to the County Purchasing Agent, 615 S. 9th, Tacoma, WA
+    98405-4673. Notice to the Contractor for all purposes under this Agreement shall be given to the
+    address reflected below. Notice may be given by delivery or by depositing in the US Mail, first class,
+    postage prepaid.
+
+25. Severability:
+    If any term or condition of this contract or the application thereof to any person(s) or circumstances is
+    held invalid, such invalidity shall not affect other terms, conditions or applications which can be given
+    effect without the invalid term, condition or application. To this end, the terms and conditions of this
+    contract are declared severable.
+
+26. Waiver:
+    Waiver of any breach or condition of this contract shall not be deemed a waiver of any prior or
+    subsequent breach. No term or condition of this contract shall be held to be waived, modified or
+    deleted except by an instrument, in writing, signed by the parties hereto.
+
+27. Waiver of Non Competition:
+    Contractor irrevocably waives any existing rights which it may have, by contract or otherwise, to
+    require another person or corporation to refrain from submitting a proposal to or performing work or
+    providing supplies to Pierce County, and Contractor further promises that it will not in the future,
+    directly or indirectly, induce or solicit any person or corporation to refrain from submitting a bid or
+    proposal to or from performing work or providing supplies to Pierce County.
+
+28. Survival:
+    The provisions of paragraphs 5, 7, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25, and 26, and
+    the provisions of any non-collusion affidavit required by paragraph 4, shall survive, notwithstanding
+    the termination or invalidity of this Agreement for any reason.
+
+29. Entire Agreement: This written contract represents the entire Agreement between the parties and
+    supersedes any prior oral statements, discussions or understandings between the parties.
+
+30. Cooperative Purchasing: The Washington State Interlocal Cooperative Act RCW 39.34 provides that
+    other governmental agencies may purchase goods and services on this solicitation or contract in
+    accordance with the terms and prices indicated therein if all parties are willing. The Contract maximum
+    for this contract per annual term, or for any renewal period, is for Pierce County’s use only. Other
+    agencies may use this contract up to their contract limits, if any, exclusive of and in addition to the
+    County’s contract maximum. By ordering and providing service under terms of this contract to any
+    other governmental agency or jurisdiction, the governmental agency and the Agency agree to
+    indemnify, defend and hold harmless Pierce County and District Court from any and all obligations,
+    claims, or expenses, including attorney’s fees, arising out of such action.
+
+31. Data Ownership and Security: All data, including but not limited to scorecards, migrated from or
+    entered into the vendor’s solution, remains the sole property of the Pierce County. This data also
+    includes archived, backed-up, current, or data stored by or for Pierce County in any other form.
+    Vendor is not authorized to use, sell, resell, package, repackage, or publicly display any information
+    without the express written approval of Pierce County.
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                        15
+EXHIBIT “C” CONTRACT COMPLIANCE FOR PROFESSIONAL, TECHNICAL,
+SUPPLY OR SERVICES REVISED 1/06
+
+ It is the policy of Pierce County to foster an environment that encourages economic growth and
+ diversification, business development and retention, increases competition and reduces
+ unemployment. In support of that policy, Pierce County reaffirms its commitment to maximize
+ opportunities in public contracting for all contractors including minority and women owned business
+ enterprises.
+
+ Bidders are encouraged to utilize qualified, local businesses in Pierce County and Washington State
+ where cost effectiveness is deemed competitive. In addition, Bidders are encouraged to subcontract
+ with firms certified by the Washington State Office of Minority and Women’s Business Enterprises
+ (MWBE).
+
+A. MWBE DIRECTORY ASSISTANCE
+    A directory of MWBE firms is published quarterly by the Washington State Office of Minority and
+    Women’s Business Enterprises (OMWBE). Copies of the directory are available from the State
+                                                                                          nd
+    OMWBE (360-753-9693) or may be viewed at the Public Works Department, 2702 S 42 St Suite
+    201, Tacoma 98409, and the Tacoma Public Library, 1102 Tacoma Avenue South, Tacoma, 98402.
+    Contact the Contract Compliance Office for additional information at (253) 798-7250.
+
+B. EQUAL EMPLOYMENT OPPORTUNITY:
+    1. Upon execution of this contract, the Contractor shall comply with the Equal Employment
+       Opportunity requirements set forth below. The Contractor shall not violate any of the terms of
+       Chapter 49.60 of the Revised Code of Washington, Title VII of the Civil Rights Act of 1964, or
+       any other applicable federal, state, or local law or regulation regarding nondiscrimination.
+    2. No person or firm employed by the Contractor shall be subject to retaliation for opposing any
+       practice made unlawful by Title VII of the Civil Rights Act, the Age Discrimination in Employment
+       Act (29 U.S.C. 621 et seq.), the Equal Pay Act (29 U.S.C. 206(d), the Rehabilitation Act (29
+       U.S.C. 791 et seq.), the Americans with Disabilities Act of 1990, or for participating in any stage
+       of administrative or judicial proceedings under those statutes.
+    3. The Contractor shall take all reasonable steps to ensure that qualified applicants and
+       employees shall have an equal opportunity to compete for advertised or in-house positions for
+       employment. Applicants and employees shall be treated fairly without regard to race, color,
+       religion, sex, age, disability, or national origin. Equitable treatment shall include, but not be
+       limited to employment, upgrading or promotion, rates of pay increases or other forms of
+       compensation, and selection for training or enrollment in apprenticeship programs.
+
+
+
+C. CERTIFICATION OF NONSEGREGATED FACILITIES
+    The Contractor shall submit with its proposal a Certification of Non-segregated Facilities. All
+    requests to sublet or assign any portion of this contract, at any level, shall be accompanied by
+    evidence of this certification in all subcontract agreements.
+
+
+
+D. E-VERIFY DECLARATION
+    Pierce County requires that all businesses which contract with the County for contracts in excess of
+    $25,000 and of duration longer than 120 days, and are not specifically exempted by PCC
+    2.106.022, be enrolled in the Federal E-verify Program. The requirement extends to every
+    subcontractor meeting the same criteria. The Prime Contractor must provide certification of
+    enrollment in the Federal E-verify program to the County. The Prime Contractor will remain enrolled
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                      16
+    in the program for the duration of the contract. The Prime Contractor is responsible for verification
+    of every applicable subcontractor. The County reserves the right to require a copy of the
+    Memorandum of Understanding between the Prime or any Subcontractor and the Department of
+    Homeland Security upon request at any time during the term of the contract. Failure to provide this
+    document could result in suspension of the project.
+
+    A copy of Ordinance 2009-74 is on the Purchasing Department’s website located at
+    http://online.co.pierce.wa.us/cfapps/EDocs/ViewDocument.cfm?did=95668&dnum=
+
+    The Federal E-Verify Program is a web based application and can be accessed at
+    www.dhs.gov/everify .
+
+E. SUBMITTAL REQUIREMENTS
+    1. Certificate of non-segregated facilities: Contractor shall submit with proposal, each
+       subcontractor shall submit when work is sublet.
+    2. Professional and Technical Workforce Data Form: Contractor is encouraged to submit with
+       proposal, each Subcontractor is encouraged to submit the form when work is sublet.
+    3. Subcontractors Participation Form: Check the appropriate box indicating the firm who will
+       perform the work of the contract. Submit the completed form with the proposal documents.
+    4. E-Verify Declaration: Contractor shall submit with proposal.
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                      17
+CERTIFICATION OF NONSEGREGATED FACILITIES
+    The contractor certifies that no segregated facilities are maintained and will not be maintained during
+the execution of this contract at any of contractor's establishments.
+     The contractor further certifies that none of the contractor's employees are permitted to perform their
+services at any location under the contractor's control during the life of this contract where segregated
+facilities are maintained. The contractor certifies further that he will not maintain or provide for his
+employees any segregated facilities at any of his establishments, and that he will not permit his
+employees to perform their services at any location, under his control, where segregated facilities are
+maintained.
+     The contractor agrees that a breach of this certification is a violation of the Equal Opportunity clause
+in this contract. As used in this certification, the term "segregated facilities" means any waiting rooms,
+work area, rest rooms and wash rooms, restaurants and other eating areas, time clocks, locker rooms
+and other storage or dressing areas, parking lots, drinking fountains, recreation or entertainment areas,
+transportation, and housing facilities provided for employees which are segregated by explicit directive or
+are in fact segregated on the basis of race, creed, color or national origin, because of habit, local custom,
+or otherwise.
+    The contractor agrees that identical certifications from proposed contractors will be obtained prior to
+the award of any subcontracts. Contractor will retain a copy of any subcontractor's certification and will
+send original to Contract Compliance Division.
+
+
+NON-COLLUSION & DEBARMENT AFFIDAVIT
+State of Washington, County of
+
+     As an authorized representative of the firm of                                                     , I do
+hereby certify that said person(s), firm, association or corporation has (have) not, either directly or
+indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in
+restraint of free competitive bidding in connection with the project for which this proposal is submitted.
+     I further certify that, except as noted below, the firm, association or corporation or any person in a
+controlling capacity associated therewith or any position involving the administration of federal funds; is
+not currently under suspension, debarment, voluntary exclusion, or determination of eligibility by any
+federal agency; has not been suspended, debarred, voluntarily excluded or determined ineligible by any
+federal agency within the past 3 years; does not have a proposed debarment pending; and has not been
+indicted, convicted or had a civil judgment rendered against said person, firm, association or corporation
+by a court of competent jurisdiction in any matter involving fraud or official misconduct within the past 3
+years.
+   I further acknowledge that by signing the signature page of the proposal, I am deemed to have signed
+and have agreed to the provisions of this affidavit.
+Note:    Exceptions will not necessarily result in denial of award, but will be considered in determining
+         bidder responsibility. For any exception noted, indicate above to whom it applies, initiating
+         agency, and dates of action. Providing false information may result in criminal prosecution or
+         administrative sanctions.
+
+         "A suspending or debarring official may grant an exception permitting a debarred, suspended, or
+         excluded person to participate in a particular transaction upon a written determination by such
+         official stating the reason(s) for deviating from the Presidential policy established by Executive
+         Order 12549..." (49CFR Part 29 Section 29.215)
+
+The undersigned hereby agrees to pay labor not less than the prevailing rates of wages in accordance with
+the requirements of the special provisions for this project.
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                           18
+SUBCONTRACTORS PARTICIPATION FORM FOR PROFESSIONAL, TECHNICAL,
+SUPPLY OR SERVICE PSAS
+Check appropriate statement below:
+
+ Our firm will perform all contracted scope of work tasks.
+ Our firm will subcontract a portion of the work tasks. The following firms were contacted and will
+    be utilized in the performance of the work as indicated below.
+
+List all potential subcontracting firms. Do not mark “N/A” unless the Bidder will perform all work or provide
+all supplies or services for this contract.
+
+                                                                               Proposal        Awarded?
+     Firm Name/Address/Phone                  Work Item(s) Solicited           Amount           (yes/no)
+
+
+
+
+1. List full name, address, and phone number of each firm listed to be utilized.
+
+2. List specific work to be accomplished, supplies to be furnished and the amount proposed for each
+   subcontract.
+
+3. Contact the Pierce County Contract Compliance Officer at (253) 798-7250 if you have questions.
+
+
+
+BY: __________________________________________               DATE: __________________
+
+
+TITLE: _______________________________________               PHONE: ________________
+
+
+
+Revised (6/99)
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                       19
+  PERSONNEL WORKFORCE DATA FORM
+
+
+FIRM NAME
+
+ADDRESS
+
+CITY, STATE, ZIP
+
+PHONE
+
+PROJECT
+
+PROJECT #
+
+CONTRACT WORK HOURS (if applicable)
+
+TYPE OF SERVICE PROVIDED
+
+CONTRACTORS AGGREGATE WORK FORCE – if you need additional space, photo copy this section and attach it to
+this form.
+
+
+                    TOTAL      TOTAL       NATIVE                                               APPRENTICE/
+OCCUPATION        EMPLOYED    MINORITY    AMERCIAN        ASIAN        BLACK        HISPANIC      TRAINEE
+                   M      F   M     F      M      F      M        F   M      F      M      F     M      F
+Management
+
+Professionals
+
+Technicians
+
+Administrative
+
+Other
+
+
+
+
+TOTALS
+
+
+
+
+  RFP No. 1237
+  Balanced Scorecard (SaaS)
+  Rev 2/10/14                                                                                  20
+REQUIRED SIGNATURE PAGE FOR PROPOSAL
+
+I, the undersigned, having carefully examined the Request for Proposals, propose to furnish services in
+accordance therewith as set forth in the attached proposal.
+
+I further agree that this proposal will remain in effect for not less than sixty (60) calendar days from the
+date that proposals are due, and that this proposal may not be withdrawn or modified during that time.
+
+STATE OF__________________
+COUNTY OF_________________
+
+Being first duly sworn, on my oath, I hereby certify that this proposal is genuine and not a sham or
+collusive proposal, or made in the interests or on behalf of any person not therein named; and I have not
+directly or indirectly induced or solicited any Contractor or supplier on the above work to put in a sham
+proposal or any person or corporation to refrain from submitting a proposal; and that I have not in any
+manner sought by collusion to secure to myself an advantage over any other contractor(s) or person(s).
+
+In order to induce the County to consider this proposal, the proposer irrevocably waives any existing
+rights which it may have, by contract or otherwise, to require another person or corporation to refrain from
+submitting a proposal to or performing work or providing supplies to Pierce County, and proposer further
+promises that it will not in the future directly or indirectly induce or solicit any person or corporation to
+refrain from submitting a bid or proposal to or from performing work or providing supplies to Pierce
+County.
+
+
+____________________________                              Subscribed and sworn before me this ____ day of
+Signature                                                 ____________, 20__.
+
+                                                          ______________________________
+____________________________                              Notary Public in and for the State of ___________
+Printed Name                                              residing at ______________.
+                                                          My commission expires ______________.
+
+
+____________________________
+Firm
+
+____________________________
+Address
+____________________________
+____________________________
+____________________________
+
+UBI No:______________________
+
+_________________
+(Area Code) Phone
+THIS PAGE MUST BE SIGNED, NOTARIZED, AND RETURNED WITH THE PROPOSAL.
+RFPMASTER.DOC rev. 12/2012
+
+
+
+
+RFP No. 1237
+Balanced Scorecard (SaaS)
+Rev 2/10/14                                                                                          21
+

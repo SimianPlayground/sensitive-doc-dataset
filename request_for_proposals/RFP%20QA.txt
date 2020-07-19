@@ -1,0 +1,114 @@
+CITY OF BREMERTON
+QUESTIONS & ANSWERS
+RFP: PARKING MANAGEMENT & ENFORCEMENT TECHNOLOGY
+
+1. How many permits did the city issue in 2017? The City has the following currently active permits:
+    2,878 residential permits
+    1,921 visitors permit
+    496 monthly permits
+
+2. How many citations issue in 2017? 14,772 citations and warnings
+
+3. How many different permit types does the City manage today? 3 ‐ 4 types
+
+4. What are the renewal cycles and costs of each type of permit? Annual or monthly
+
+5. How many active permits/month does the City manage in total? Approximately 5,500
+
+6. I have just found your RFP for Parking Technology which we would like to respond to, however may I
+   ask if it may be extended another week to the 14th?
+
+    Based on the tight turnaround for the City to respond to submitted questions prior to vendors
+    shipping proposals to comply with proposal due date and the potentially large impact the answers
+    may have on ensuring vendors submit compliant responses, would the City consider a 2 week
+    proposal due date extension?
+
+    The City is extending the proposal deadline to May 10, 2018 at 5p.m. Announcements and answers
+    to questions will be posted on our website for the RFP:
+
+            http://www.bremertonwa.gov/bids.aspx?bidID=41
+
+
+7. Does the City wish to utilize their existing Security Center server to host LPR data on?
+
+    The City is operating a Genetec Security Server as host to the Synergis and Omnicast
+    packages. Whereas it is not a requirement of the RFP to host the ALPR system on Genetec, if a
+    proposal were presented that leveraged our existing resources in an effort to reduce costs, then we
+    would not be opposed to that.
+
+
+8. Has that attachment been posted to the website, or would you be able to send it via email? Can
+   Appendix A be resent? We are unable to locate the Copy of Standard Goods and Services
+   Agreement. It has been added as an addendum to the RFP.
+
+9. What is the term of the contract? 3‐5 years
+
+10. Which individuals/departments will be involved in the evaluation process? Director of Financial
+    Services, IT Manager, Court Administrator and Traffic Engineer. Other city employees may be
+    invited in the review and interview process as well.
+CITY OF BREMERTON
+QUESTIONS & ANSWERS
+RFP: PARKING MANAGEMENT & ENFORCEMENT TECHNOLOGY
+
+11. If the vendor does not include contract exceptions with its proposal, will that vendor still have the
+    opportunity to negotiate terms later in the process? The City reserves the right to negotiate or not
+    negotiate any terms.
+
+12. Does the City have a preference of a single unit issuance decide to smart phone Bluetooth printer
+    combination? No.
+
+13. Is the City planning on keeping collections in house?
+    Yes.
+
+14. Would the chosen vendor be responsible for sending any correspondence post issuance?
+    No.
+
+15. Are we able to add Addendum that doesn't count towards the 15 page limit? No. And singled‐sided
+    pages only, please.
+           a. Is the Cost Proposal a separate document? No.
+           b. Is the Cost Proposal part of the Technical Proposal? Yes.
+           c. Is the Client List part of the 15 page limit? Yes.
+           d. Can product specifications, figures and screenshots, used for purposes of demonstrating
+                software functions, be included in an Additional Information section at the end of the
+                proposal—for which the pages do not count? No.
+           e. Does a cover letter count toward the page limit? Yes
+           f. Does an executive summary count toward the page limit? Yes
+           g. Can product specifications, figures and screenshots, used for purposes of demonstrating
+                software functions, be included in an Additional Information section at the end of the
+                proposal—for which the pages do not count? No.
+
+16. How many copies of the proposal does the City desire? One.
+
+17. Once a ticket has been issued, is there an expectation for any employee at the City or the Court to
+    be utilizing Passports backend system for any post issuance ticket actions, such as adjustments to
+    prices (not escalation amounts, voids, notes on tickets)
+    Yes.
+
+18. Will images captured be sent to JIS or is the expectation that this information will live in Passports
+    backend system?
+    Currently, images reside with the citation issuing system and not JIS. Future may have images
+    residing in Laserfiche.
+
+19. Is there a need for someone utilizing JIS to know scofflaw status? For example, if someone makes a
+    payment through JIS is it required they pay all outstanding citations? Yes.
+
+20. How many handheld enforcement devices is the City looking to procure? The City currently has four
+    handheld devices.
+
+    What is the make/model of the current electronic ticketing devices and printers? Motorola M‐75A
+    with Zebra RW‐420 printers
+CITY OF BREMERTON
+QUESTIONS & ANSWERS
+RFP: PARKING MANAGEMENT & ENFORCEMENT TECHNOLOGY
+
+
+21. Should the device/s quoted be waterproof & ruggedized considering the climate in Bremerton? Yes.
+
+22. How many permits does the City anticipate selling through the chosen provider in a calendar year?
+    Approximately 5,500
+
+
+23. Can the City comment on the vehicle year, make and model the LPR cameras will be mounted to?
+    The City does not have a vehicle specification. Mounting equipment should be adaptable to
+    multiple vehicle make/models.
+

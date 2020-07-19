@@ -1,0 +1,330 @@
+                                                                                            Kenneth Crowley
+                                                                                     Assistant Superintendent
+                                                                                                 for Business
+
+
+
+
+                                            PUBLIC NOTICE
+
+
+
+The Board of Education of the Somers Central School District, Town of Somers, County of Westchester,
+hereby invites the submission of a sealed proposal on:
+
+
+                    Managed Network and Technology Support Services
+
+
+Proposal information may be obtained at the Business Office of the Somers Central School District
+located within the Somers Intermediate School, 240 Route 202, Somers, New York, 10589.
+Information on the Request for Proposal (RFP) can also be found on our website, at
+www.somersschools.org.
+
+The Proposal may be delivered in person any school day between the hours of 9:00 a.m. and 3:00 p.m.
+to the Business Office, 240 Route 202, Somers, New York, 10589 or mailed to the Business Office,
+Somers Central School District, P.O. Box 620, Lincolndale, New York 10540. The Proposal must be
+received at the Business Office no later than 2:00PM on Wednesday, March 29, 2017. Proposals shall
+be enclosed in an opaque envelope with the NAME OF THE BIDDER and the statement “ENVELOPE
+CONTAINS A SEALED PROPOSAL FOR MANAGED NETWORK AND TECHNOLOGY SUPPORT SERVICES TO
+BE OPENED ON WEDNESDAY, MARCH 29, 2017 at 2:00 PM at which time and place all proposals will
+be publicly opened and subsequently analyzed.
+
+The Board of Education reserves the right to waive any informality in proposals or to reject any proposal
+or to accept any proposal, which in the opinion of the Board of Education will be in the best interest of
+the School District.
+
+
+
+                                 SOMERS CENTRAL SCHOOL DISTRICT
+                                    SOMERS, NEW YORK 10589
+
+                               By:   Kenneth Crowley, Purchasing Agent
+                                            February 2017
+                                  SOMERS CENTRAL SCHOOL DISTRICT
+                                     SOMERS, NEW YORK 10589
+
+
+
+                                      Request for Proposal
+                                               for
+                          Managed Network and Technology Support Services
+
+
+                               Return by: Wednesday, March 29, 2017 at 2:00 PM
+                               To:     Mr. Kenneth Crowley, Assistant Superintendent Business
+
+   Company Name:
+
+   Address:
+
+
+
+
+          Year 1 (July 1, 2017 through June 30, 2018)   Amount: $
+
+
+
+Years 2 through 5 (July 1, 2018-June 30, 2022) Vendor agrees to extend price for up to four (4)
+additional one-year periods, with pricing based on Consumer Price Index (CPI). The CPI to be used is
+the figure published by the NYS Education Department for School Districts for use in determining
+budget modifications, school property tax report card and calculation of contingent budget caps.
+
+ Signature:                                                       Date:
+
+ Name (print):
+
+ Title:
+
+ Contact
+ Person:
+
+ Telephone &
+ Email Address:                                                   Email:
+
+
+                                                Page 2 of 8
+PURPOSE:     The purpose of this Request for Proposal (RFP) is to acquire managed network and
+technology support services for the Somers Central School District, Somers, New York.
+
+The Somers Central School District, located in northern Westchester County, is comprised of four
+school buildings located on two campuses. The District serves a student population of approximately
+3,050 pupils.
+
+We are a district of approximately 4,000 Windows tablets/laptops/desktops (W10), 120 Apple
+Macintosh laptops/desktops, 190 iPads (OS 10.4x-up), 25 Windows (2008/2012) servers, and two
+Apple Macintosh OS 10 servers. Our email/collaboration package is Microsoft Office 365. Our
+firewall is a Dell Sonic Wall. We filter Web content with Dell Sonic Wall. We filter email with
+Netmail. Our wireless infrastructure is Cisco (Meraki radios). We use VMware for server virtualization;
+Windows Update servers; we maintain a Window media streaming server; VPN services for secured
+remote access. We also have 7 Dell Interactive Displays, 1 Microsoft Surface Hub, 220 interactive
+whiteboards and LCD flat panels in use throughout the District’s classrooms and libraries.
+
+LENGTH OF CONTRACT: Five years, beginning on July 1, 2017 and ending on June 30, 2022.
+Pricing should be quoted for Year One (2017-2018). For Year Two and subsequent years, the price will
+be based on the quoted Year One price with an adjustment increase/decrease based on the
+Consumer Price Index (CPI). The CPI to be used is the figure published by the New York State
+Education Department for School Districts, for use in determining budget modifications, school
+property tax report card and calculation of contingent budget caps.
+
+SERVICES TO BE CONTRACTED: Vendor will provide the managed network and technical support
+services for the Somers Central School District. Services will include, but are not limited to:
+
+       1.     overseeing the overall operation of the wide area network and technology needs of
+              the District
+       2.     maintain daily infrastructure support of Somers network and related peripherals - this
+              includes other, interactive boards, and peripheral items such as wireless access points,
+              security cameras, swipe card access panels, VoIP telephones and the like.
+       3.     support and remediation of any issues for district owned client devices, peripherals
+              and network connectivity issues
+       4.     support and remediation of issues related to applications
+       5.     configuration and deployment of new hardware along with imaging and or needed
+              updates
+       6.     planning for and supervising network hardware and software upgrades
+       7.     performing network upgrades, installations and configuration/integration changes
+       8.     installing and maintaining network and desktop equipment, peripherals, and software
+       9.     maintaining Tablets, Smart Boards, LCD projectors, LCD flat panels, printers, scanners,
+              document cameras, IP video system, food service terminals, video conferencing
+              equipment, surface hubs, interactive boards, charging stations, and other peripherals
+
+                                              Page 3 of 8
+       10.    regularly scheduled patch management for all supported systems
+       11.    coordinating the removal of retired equipment
+       12.    working with District’s special education administrators/teachers and students in the
+              area of assistive technology
+       13.    maintaining a helpdesk and assigning staff to helpdesk matters
+       14.    maintaining and reporting technical support, network and help desk records, including
+              resolutions
+       15.    coordinating tasks and responsibilities of the vendors staff along with the Somers
+              technical support staff
+       16.    administration and maintenance of all network user accounts
+       17.    monitoring, maintaining and updating service and software contracts
+       18.    providing additional research on hardware, software, and services as needed
+       19.    providing yearly updates to network documentation and equipment/wiring maps and
+              diagrams
+       20.    refining and implementing network back-up, data recovery, disaster recovery planning
+              & continuity practices
+       21.    designing strategies for future development and improvements to the district network
+              where necessary, including increased security protocols
+       22.    developing recommendations for future improvements and enhancements
+       23.    partnering with Somers’ Internet service provider, the Lower Hudson Regional
+              Information Center, IEP-Direct, Finance Manager, Infinite Campus, Transfinder,
+              Nutrikids and other partners to resolve service failures and related issues
+       24.    performing robust 24/7/365 infrastructure and services monitoring, including network
+              traffic analysis, reporting, network intrusion reporting, and automated alerts
+       25.    conducting parent and student training of new tablet devices
+       26.    assisting Somers technology staff in the preparation of budgets and related documents
+       27.    providing timely support and appropriate training for Somers’ technical support staff,
+              computer aides, administrators and the like
+       28.    providing both onsite and offsite support services utilizing both individuals assigned to
+              the district and other designated personnel
+
+ONGOING NETWORK AUDIT AND REVIEW SERVICES: The vendor will provide the District annually
+(by March 1 of each year or sooner as per the District’s needs) a network audit and review covering
+the following:
+
+       1.     inventory of hardware and software
+       2.     detailed list of all maintenance contracts and warranties
+       3.     detailed network diagrams
+       4.     schedule of all supporting documentation
+       5.     plans for increased security, accessibility and data recovery
+       6.     recommendations for infrastructure performance enhancement
+       7.     reviews of security protocols and practices
+       8.     review of data storage and recovery practices
+                                             Page 4 of 8
+CURRENT STAFFING: The District currently outsources its Network and Technology Support Services.
+The current vendor staffs the District as follows:
+       1. A senior network engineer
+       2. A junior network engineer
+       3. A technology support specialist
+       4. A user experience specialist
+       5. A project manager/technology services manager who directs the above personnel and
+          interacts with District administration.
+
+The above are onsite and full time. Additional technical support is provided on an as need basis by
+home office staff.
+
+
+PROPOSAL OUTLINE:        Four (4) copies of the proposal are to be provided. Submitted proposals
+should include, at a minimum, the following information:
+
+      1.      The Firm’s history including present size, in house disciplines.
+      2.      List of names of the firm’s principals and key personnel. Indicate whether the firm is a
+              corporation, partnership or other form of organization.
+      3.      Gross sales for 2016 and estimated gross sales for 2017.
+      4.      Provide your proposed methodology for this engagement.
+      5.      Describe in detail your management plan by explaining how your firm is structured to
+              provide the support the District is looking for.
+      6.      Describe in detail your firm’s past experience in engagements of a similar, relevant
+              nature to what the District is seeking.
+      7.      Describe in detail how your firm would gather current network information to
+              provide a seamless transition from the District’s current provider of the services to
+              you firm.
+      8.      Provide a list of personnel who would be assigned to this engagement, their resumes
+              and related experience and their job tasks/responsibilities while assigned to the
+              Somers CSD.
+      9.      If there is any anticipated cost to the District for the firm to carry out the proposed
+              scope of work that is above and beyond the cost of the proposal figure submitted
+              (Specialized software, license agreements or other such expenses).
+
+CRITERIA FOR EVALUATION OF RFP: The RFP for Managed Network and Technology Support
+Services will be evaluated using the following criteria:
+
+      1.      30 % - Cost of Service – total estimated cost of all fees
+      2.      20% - Staff Experience – relevant experience/certifications of staff members who will
+              be assigned onsite
+      3.      20% - Number of On-site and Off-site Staff – assigned onsite to carry out the
+              requirements
+                                              Page 5 of 8
+      4.     5% - Technical Capacity – technical skills which are applicable
+      5.     5% - Firm Experience – length of time firm has been in business
+      6.     10% - Firm Resources – resources provided by the firm to supplement support
+             personnel
+      7.     10% - Familiarity with public school districts and other pertinent experience – prior
+             experience with public school districts and related experience with similar projects for
+             other municipal governmental units.
+OTHER:
+
+      1.     The District is not liable for any expenses incurred by vendors in the preparation of
+             their proposal or for attendance at any meeting related to the RFP.
+      2.     If it becomes necessary to revise any part of this RFP, addenda will be provided to all
+             vendors who received this RFP. All addenda will become part of this RFP.
+      3.     No charges will be allowed for federal, state, or local sales and excise taxes as the
+             District is exempt from such taxes.
+      4.     The successful vendor will be expected to supply, at its own expense, the following
+             insurances, as evidenced by a Certificate of Insurance and endorsement, usually a CG
+             2026 endorsement, naming the Somers Central School District as an additional named
+             insured:
+
+             a.     Commercial General Liability Insurance with a minimum limit of liability per
+                    occurrence of $1,000,000 for bodily injury and $100,000 property damage per
+                    occurrence, and $2,000,000 aggregate
+
+             b.     Workers’ Compensation – in compliance with the Workers’ Compensation laws
+                    of New York State.
+
+      5.     The District reserves the right to reject any and all proposals received as a result of this
+             RFP.
+      6.     If a vendor is selected, a formal contract between the parties may then be executed.
+             Please provide a sample contract for consideration by the District.
+      7.     Vendors participating in this RFP process should acquaint themselves with the
+             conditions to be found at each District location. Arrangements for this can be made
+             by contacting Kenneth Crowley, Assistant Superintendent for Business, as described in
+             the Contact Information section below.
+      8.     It is anticipated that the RFP will address such items as: number of onsite staff to be
+             assigned, their experience and certifications they hold, days/hours staff would be
+             assigned, and other relevant items.
+      9.     Any onsite staff assigned will need to comply with NYS Education Department
+             background/fingerprinting checks. This cost will be borne by the vendor.
+
+PROPOSAL DEADLINE: Proposals must be received by 2:00 PM on March 29, 2017, at the office of
+Mr. Kenneth Crowley, Assistant Superintendent for Business.
+                                              Page 6 of 8
+       Physical Address:     Somers Central School District
+                             Business Office
+                             240 Route 202
+                             Somers, NY 10589
+
+       Mailing Address:      Somers Central School District
+                             PO Box 620
+                             Lincolndale, NY 10540
+
+COMPETITIVE BID AFFIDAVIT: As required by New York State Finance Law §165-a and General
+Municipal Law §103-g(4), all proposals must include a notarized affidavit as exhibited in Appendix A.
+
+CONTACT INFORMATION: For more information and a more detailed description of the
+infrastructure, contact, Kenneth Crowley, Assistant Superintendent for Business, Somers Central
+School District, Somers, New York. kcrowley@somersschools.org (email inquiries only please).
+
+
+
+
+                                              Page 7 of 8
+                                             Appendix A
+
+Pursuant to State Finance Law §165-a, the Commissioner of General Services is required to develop a
+list of persons it determines engage in investment activities in Iran, which is defined as provision of
+goods, services or credit of $20,000,000 or more, relating to the energy sector.
+
+General Municipal Law §103-g(4) states as follows:
+
+               Every bid or proposal hereafter made to a political subdivision of the
+               state or any public department, agency or official thereof where
+               competitive bidding is required by statute, rule, regulation or local law,
+               for work or services performed or to be performed or good sold or to be
+               sold, shall contain the following statement subscribed by the bidder and
+               affirmed by such bidder as true under penalties of perjury:
+
+The below signed bidder affirms the following as true under penalties of perjury:
+
+“By submission of this bid, each bidder and each person signing on behalf of any bidder
+certifies, and in the case of a joint bid each party thereto certifies as to its own
+organization, under penalty of perjury, that to the best of its knowledge and belief that
+each bidder is not on the list created pursuant to paragraph (b) of subdivision 3 of
+Section 165-a of the state finance law.”
+
+
+                                             __________________________
+                                             Corporate or Company Name
+
+
+
+                                     By:     ___________________________
+                                             Signature
+
+                                             ___________________________
+                                             Title
+
+Sworn to before me this
+_____day of ________, 20___
+
+
+
+_________________________
+Notary Public
+
+
+
+
+                                              Page 8 of 8
+

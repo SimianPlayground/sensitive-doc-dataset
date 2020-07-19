@@ -1,0 +1,460 @@
+Terms and Definitions Commonly Used in Technical Proposals
+Note: Terms and definitions provided reflect commonly used terminology for software
+procurement and may not reflect the terminology utilized by each jurisdiction. Always defer to
+the terminology used by your procurement department.
+
+Agency Specific Contract: Agency Specific contracts are contracts where the specifications for
+a Product or a particular scope of work are described by centralized procurement to meet the
+needs of one or more specific agency's needs. These contracts are usually limited by quantities
+and delivery points. Agency specific contracts are agency term contracts for purchases made
+during a specified term period. (See also "As Specified Contracts" definition.) (New York State
+Office of General Services, 2018)
+
+Aggregated Buy: An Aggregated Buy is the process whereby an Authorized User determines
+the specific contractor and final pricing for the purchase of a product, service or system on
+behalf of more than one Authorized User. Participation in an Aggregated Buy eliminates the
+need for an Authorized User to conduct a mini-bid or a best and final negotiation. (New York
+State Office of General Services, 2018)
+
+Ancillary Product: An ancillary product is a product which is purchased or licensed on a
+restricted use basis in conjunction with the principal manufacturer's product being acquired
+(e.g., may be used only in combination, or by educational institutions for research use). (New
+York State Office of General Services, 2018)
+
+Application Programmers Interface (API): A set of documentation and services which allow
+third parties (e.g., other vendors or local IT) to interact with the system. Examples include the
+ability for external applications to query, insert, delete, and execute processes
+
+As-Specified Contract: As Specified contracts are contracts where the specifications for a
+Product or a particular scope of work are described and defined to meet one individual agency's
+needs. As specified contracts are "one time" purchases. (New York State Office of General
+Services, 2018)
+
+Best and Fi Back-Drop: Back-Drop contracts are a pool of qualified vendors who are
+contracted with the jurisdiction and eligible to participate in the secondary mini-bid award
+process. Back-drop contracts are often multiple award, centralized contracts with the
+specifications for a general scope of work or product(s) to meet the needs of contract users.
+Bids are taken either at a certain date and time or may be accepted on a continuous
+recruitment basis, as described in the bid specifications. Selection of a contractor from among
+back-drop contract holders for an actual product, project or particular scope of work may
+subsequently be made on the basis of a mini-bid among qualified backdrop contract holders, on
+a single or sole source basis where the authorized user can establish appropriate justification,
+or such other method as described in the bid document. (New York State Office of General
+Services, 2018)
+
+Best and Final Negotiations: This is the process required for an Authorized User when making
+significant purchases from brand bid or negotiated contracts, or, in some cases, any purchase
+from a limited multiple award contract. A brand bid or negotiated contract covers the full
+product line of a specific brand of product (i.e. Compaq microcomputers, Cisco networking
+hardware and software, Hewlett-Packard printers, Oracle software, Polycom video systems,
+etc.). In addition, whenever an agency is making a first time major purchase such as purchasing
+a new system, or installing software for the first time, all options available to the agency should
+be evaluated, including an agency competitive procurement or use of a centralized contract.
+When the decision is made to purchase from a centralized contract, an agency should solicit
+best and final offers, based on the agency's statement of needs. Smaller purchases can be made
+directly from these contracts, but it is required that for certain minimum size orders and
+recommended for other smaller size orders, that Users either: Draft an informal statement of
+their needs and solicit best and final offers from competitive sources; or If the user can
+document a single source procurement, negotiate with the contractor of choice to finalize a
+best value purchase. The following awards include multiple contracts awarded by region. When
+making any purchase from these awards, it is required that the Authorized User solicit best and
+final offers from all contractors for the applicable region: Electronic Key Systems and Telephone
+Equipment; Digital Centrex Equipment; and Cable (installed). Awards that include multiple
+contracts outline the required Procurement Procedures for soliciting best and final offers. (New
+York State Office of General Services, 2018)
+
+Best and Final Offer (BAFO): An invitation for the vendor to make a revised pricing
+proposal.
+
+Best Value: A Best Value award is one that optimizes quality, cost and efficiency, typically
+applies to complex services and technology contracts, and is quantifiable whenever possible.
+Costs in the case of best value are distinguished from price. Costs include conversion costs, life-
+cycle costs, etc., and embody price, which is the amount charged by the vendor for the given
+commodity or service. (New York State Office of General Services, 2018)
+
+Best Value Bid: A procurement method that emphasizes value in addition to price. The
+best value might not be the lowest cost. (NIGP: The Institute for Public Procurement,
+2018)
+
+Bid: A tender, proposal or quotation submitted in response to a solicitation from a
+contracting authority (Find RFP, 2018)
+Bidders' Conference: A meeting to discuss with potential bidders, technical,
+operational and performance specifications, and/or the full extent of financial, security
+and other contractual obligations related to a bid solicitation (Find RFP, 2018)
+
+Closing Date: The deadline for all bid submissions (Find RFP, 2018)
+
+Cloud: The cloud is a term referring to accessing computer, information technology (IT), and
+software applications through a network connection, often by accessing data centers using
+wide area networking (WAN) or Internet connectivity. Almost all IT resources can live in the
+cloud: A software program or application, a service, or an entire infrastructure. For example, if
+a business wanted to build an IT infrastructure, typically it would install the servers, software,
+and networking resources it needed, but nearly all of those services and resources are now
+accessible by going to third parties that offer them in the cloud. (SDX Central, 2018)
+
+
+
+Commercial Off the Shelf (COTS): An existing system with known functionality and
+existing install-base. Some capacity to configure (e.g., local fees, inspection checklist,
+security groups, etc.)
+
+Competitive Bidding: Offers submitted by individuals or firms competing for a contract,
+privilege or right to supply specified services or merchandise (Find RFP, 2018)
+
+Contract: Obligation between competent parties upon a legal consideration, to do or abstain
+from doing some act (Find RFP, 2018)
+
+Contract Amendment: An agreed addition to, deletion from, correction or modification of a
+contract (Find RFP, 2018)
+
+Contractor: One who contracts to perform work or furnish materials in accordance with a
+contract (Find RFP, 2018)
+
+Contractor: Any individual or business having a contract with a governmental body to
+furnish goods, services, or construction for an agreed-upon price. (NIGP: The Institute
+for Public Procurement, 2018)
+
+Database: A structured system for storing data. Commercial examples include SQL
+Server, Oracle, and DB2.
+
+Data Center: A large group of networked computer servers typically used by
+organizations for the remote storage, processing, or distribution of large amounts of
+data.
+
+Data Conversion: The practice of extracting, cleansing, mapping, and transforming
+data from an existing data system to a different data system.
+
+Direct Buy: The ability for an Authorized User to buy directly from an OGS contract using its
+standard form, format or purchase order, and which does not require a mini-bid, best and final
+negotiation, creation of a procurement record, or other required process, prior to making the
+buy. (New York State Office of General Services, 2018)
+
+
+Environmental Health Information System (EHIS): A collection of databases,
+governance policies, people, paper and electronic files, reporting system, and
+connective hardware and software that support environmental health operations for one
+or more jurisdictions. These systems can consist of, but are not limited to:
+- Geographic information systems (GIS)
+- Relational databases
+- Financial and HIPPA secured records
+- Public record search portals
+- Research and reporting operations
+- Mobile and stationary user interfaces
+- Hardware and software infrastructure required to maintain access and operation
+- Governance and management personnel
+- Every file in the environmental health office
+
+Estimated Value: Indicates the approximate value of the contract (Find RFP, 2018)
+
+Evaluation Committee/Team: A group of individuals established to conduct interviews
+and negotiations during proposal evaluation for a specific product or service. The teams
+typically represent the functional areas to be addressed in the discussions with a
+purchasing representative chairing the team. (NIGP: The Institute for Public
+Procurement, 2018)
+
+Fast Track: This process is a streamlined (New York State Office of General Services, 2018)
+
+Filed Requirements Contract: A Filed Requirements Contract is a term contract covering
+specified delivery points and estimated quantities. The intent is to guarantee a source of supply
+for a critical commodity for a specified period of time for agencies who have submitted, or
+'filed' their requirements with centralized procurement. (New York State Office of General
+Services, 2018)
+
+Invitation for Bid (IFB, IFBs): An IFB is also referred to as a sealed bid. It is usually for
+requirements over $100,000, it is competitive, and the lowest bid will win (Find RFP,
+2018)
+
+Letter of Acceptance: A Letter of Acceptance is a letter to the successful bidder(s) indicating
+acceptance of its bid in response to a solicitation. Unless otherwise specified, the issuance of a
+Letter of Acceptance forms a contract but is not an order for product, and contractor should
+not take any action with respect to actual contract deliveries except on the basis of purchase
+orders sent from authorized user(s). (New York State Office of General Services, 2018)
+
+Licensed Software: Licensed software includes ancillary products, error corrections, upgrades,
+enhancements or new releases, and any deliverables due under a maintenance or service
+contract (e.g. patches, fixes, PTFs, programs, code or data conversion, or custom programming).
+(New York State Office of General Services, 2018)
+
+Licensee: A Licensee is one or more authorized users who acquire product from contractor by
+execution of a license in accordance with the terms and conditions of the contract, provided
+that, for purposes of compliance with an individual license, the term "Licensee " shall be
+deemed to refer separately to the individual authorized user (s) on whose behalf the license
+was executed who took receipt of the product, and who shall be solely responsible for
+performance and liabilities incurred. (New York State Office of General Services, 2018)
+
+Licensor: A Licensor is a contractor who transfers rights in proprietary Product to Authorized
+Users in accordance with the rights and obligations specified in the Contract. (New York State
+Office of General Services, 2018)
+
+Life Cycle Costs: Life Cycle Costs are defined as the sum of the fees and indirect costs in the
+purchase of a commodity, service or technology. Life Cycle Costing is used for procurements
+that involve the expenditure of funds for both the fees associated with the services to be
+procured (price) and costs associated with the introduction of the services into the
+environment (indirect costs). An example of the application of the Life Cycle Cost evaluation is
+the sum cost of the acquisition of a new computer environment (offer price) and the cost of a
+systems conversion necessitated by the installation of a new computer environment (indirect
+costs). (New York State Office of General Services, 2018)
+
+Lowest Price: "Lowest Price " is the basis for awarding all commodity contracts among
+responsive and responsible offerers. (New York State Office of General Services, 2018)
+
+Mini-Bid: A mini-bid process is required in certain contracts and the exact process is clearly
+outlined in the back-drop contracts. (New York State Office of General Services, 2018)
+Mini-Bid Process: A formal mini-bid is the process whereby an Authorized User develops a
+project definition outlining their specific requirement and solicits bids from qualified back-drop
+contractors to determine the best value solution. From development of the project
+specifications to the project award takes from six to ten weeks, a fraction of the time when
+compared with the traditional RFP procurement. Project awards shall be based on "Best Value.
+(New York State Office of General Services, 2018)
+
+Mini-Bid Project Definition: A Mini-Bid Project Definition is a bid document containing project
+specific bid specifications developed by or for an authorized user which solicits bids from
+Contractors previously qualified under a back-drop contract. (New York State Office of General
+Services, 2018)
+
+Multiple Award: A Multiple Award is an award of a contract to more than one responsive and
+responsible bidder who meets the requirements of a specification, where the multiple award is
+made on the grounds set forth in the bid document in order to satisfy multiple factors and
+needs of authorized users. Those factors may include complexity of items, various
+manufacturers, differences in performance required to accomplish or produce required end
+results, production and distribution facilities, price, compliance with delivery requirements,
+geographic location or other pertinent factors. (ApB) A multiple award may be made as the
+result of a single IFB (e.g., books) or as the result of issuing a single contract for multiple IFB's
+for similar type products (e.g., PC's). (New York State Office of General Services, 2018)
+
+Negotiated Contract: A contract established by agreements reached between a contracting
+entity and a vendor in lieu of issuing a bid document. While occasionally negotiation follows a
+competitive bid when only one bid is received, such resulting contracts are considered to be
+competitive procurements. (New York State Office of General Services, 2018)
+
+Non-Responsible (Bid): A response to a bid or offer from a contractor, business entity
+or individual that does not have the ability or capability to fully perform the requirements
+of the bid or offer. A business entity or individual who does not possess the integrity and
+reliability to assure contractual performance. (NIGP: The Institute for Public
+Procurement, 2018)
+
+Non-Responsive (Bid): A response to a bid or offer that does not conform to the
+mandatory or essential requirements contained in the Invitation for Bids (IFB). Notice of
+Award: A written notification from the public entity to the successful bidder, or offeror
+stating that there is an award of a contract in accordance with a bid or proposal
+previously submitted, and that effective with receipt the vendor or contractor shall
+proceed with performance; allows work to start while contract is printed and readied for
+distribution. (NIGP: The Institute for Public Procurement, 2018)
+Notice of Intent to Award: As a result of a competitive process, a public notice is
+issued and in some instances, where local laws allow, a Notice of Intent to Award is
+issued and award will occur only upon receipt of the specified items. (NIGP: The
+Institute for Public Procurement, 2018)
+
+Offer: A response to a solicitation that, if accepted, would bind the offeror to perform the
+resulting contract. (NIGP: The Institute for Public Procurement, 2018)
+
+Offeror: The person/entity who submits a proposal in response to a Request for
+Proposals (RFP). One who makes an offer in response to a solicitation. Also see Bidder
+(NIGP: The Institute for Public Procurement, 2018)
+
+Pre-Bid Meeting: An in-person or phone meeting during which the agency reviews the
+project history, aspirations, requirements, response process, etc. Often questions are
+taken and (sometimes) answered. Often questions are answered in writing by issuing
+an addendum to the RFP.
+
+Preferred Sources: To advance special social and economic goals, certain providers have
+preferred source status under the law. The acquisition of commodities and/or services from
+preferred sources is exempted from statutory competitive procurement requirements. All
+state agencies, political subdivisions and public benefit corporations (which includes
+most public authorities), are required to purchase approved products and services
+from preferred sources. (New York State Office of General Services, 2018)
+
+Price: Price, unless otherwise specified, means the amount of money set as consideration
+for the sale of a commodity or service and may include, but is not limited to, when
+applicable and when specified in the solicitation delivery charges, installation charges and
+other costs. (New York State Office of General Services, 2018)
+
+Prime Vendor Contract: A Prime Vendor Contract is a contract that establishes a single vendor
+or multiple vendors as the source for a broad range of goods and/or services associated with a
+given purchasing sector(s). OGS has currently let Prime Vendor contracts for food and
+household supplies, and industrial and commercial supplies and equipment. (New York State
+Office of General Services, 2018)
+
+Procurement: The process of obtaining materials and services which includes the
+determination of requirements and acquisition from a supply system or by purchase from the
+trade (Find RFP, 2018)
+Proposal: An offer, submitted in response to a request from a contracting authority, that
+constitutes a solution to the problem, requirement or objective in the request (Find RFP, 2018)
+
+Proposal: A proposal is a document submitted by a vendor in response to some type of
+bid solicitation to be used as the basis for negotiations or for entering into a contract.
+(NIGP: The Institute for Public Procurement, 2018)
+
+Protest: An oral or written objection by a potential interested party to a solicitation or
+award of a contract, with the intention of receiving a remedial result. (NIGP: The
+Institute for Public Procurement, 2018)
+
+Purchase Order: A purchaser’s written document to a vendor formalizing all the terms
+and conditions of a proposed transaction, such as a description of the requested items,
+delivery schedule, terms of payment, and transportation. (NIGP: The Institute for Public
+Procurement, 2018)
+
+Request for Information (RFI): A Request for Information (RFI) provides a preliminary
+description of the program objectives and specifications and solicits input from offerers as to
+the availability of products and services to meet the agency's needs (New York State Office of
+General Services, 2018)
+
+Request for Information (RFI): Request for Information, a formal document requesting
+specific information (e.g., system capabilities and pricing) from vendors. This document
+is non-binding for the submitter.
+
+Request for Proposal (RFP): A formal method of solicitation where prospective
+suppliers are requested to submit a proposal for the provision of goods, works or
+services, based on the Specifications, Scope of Work, or Terms of Reference included
+in the solicitation documents. Normally used in cases where the requirements are
+complex; cannot be clearly or completely specified, where detailed technical evaluations
+are to be performed, and/or where pricing or cost may not be the sole basis of award.
+(United Nations, 2018)
+
+Request for Proposal (RFP, RFPs) or Request for Tender (RFTs, RFT): An RFP,
+while generally used for requirements of $25,000 or more, is often employed for
+requirements where the selection of a supplier cannot be made solely on the basis of
+the lowest price. An RFP is used to procure the most cost-effective solution based upon
+evaluation criteria identified in the RFP (Find RFP, 2018)
+Request for Quotation (RFQ, RFQs): An RFQ is normally sent out when a requisition
+is received for goods and services valued at less than $25,000. The bid documents are
+kept simple so that the contract can be awarded quickly (Find RFP, 2018)
+
+Request for Quotation (RFQ): An informal method of solicitation whereby suppliers
+are requested to submit a quotation for the provision of goods or services. Normally
+used for standard, off-the-shelf items, where the value of the procurement falls below
+the established threshold for formal methods of solicitation. (United Nations, 2018)
+
+Request for Quotation (RFQ): Request for Quote, a formal document inviting vendors
+to propose a price for a specific project.
+
+Request for Quotation (RFQ) / Letter Quote (LQ): A Request for Quotation (RFQ), also referred
+to as Letter Quote (LQ), is a type of bid document which can be used when a formal bid opening
+is not required (e.g. discretionary, sole source, single source or emergency purchases). (New
+York State Office of General Services, 2018)
+
+Requirements Matrix: The part of the request which specifies the requirements of the
+desired system. Can often be very prescriptive and technical or very vague.
+
+Responsive Bidder/Offeror: A contractor, business entity or individual who has
+submitted a bid or proposal that fully conforms in all material respects to the IFB/RFP
+and all of its requirements, including all form and substance. (NIGP: The Institute for
+Public Procurement, 2018)
+
+Responsible Bidder: Responsible Bidder is a bidder that is determined to have skill, judgment
+and integrity, and that is found to be competent, reliable, experienced and qualified financially,
+as determined by the Commissioner (OGS/PSG). (ApB) A Responsive Bidder is a bidder whose
+offer meets the specifications or requirements prescribed in the bid document or solicitation,
+as determined by the Commissioner (OGS/PSG). (New York State Office of General Services,
+2018)
+
+Scope of Work: A detailed, written description of the conceptual requirements for the
+project contained within a Request for Proposal. The scope of work should establish a
+clear understanding of what is required by the entity. (NIGP: The Institute for Public
+Procurement, 2018)
+
+Sealed Bid: A formal submission from a bidder/offeror submitted in response to an
+invitation to bid (ITB). It is submitted in a sealed envelope to prevent its contents from
+being revealed before the time and date set for the bid opening. (NIGP: The Institute for
+Public Procurement, 2018)
+
+Server: A computer that facilitates access to a centralized resource or service in a
+network.
+
+Service or Services: Service or services means, except with respect to contracts for state
+printing, the performance of a task or task and may include a material good or a quantity of
+material goods, and which is the subject of any purchase or other exchange, For the purposes
+of this article, technology shall be deemed a service. Services, as defined in this article, shall not
+apply to those contracts for architectural, engineering or surveying services, or those contracts
+approved in accordance with article eleven-b of this chapter. (SFL) Services consist of the
+performance of a task or tasks, which may include the use of a material good or a quantity of
+material goods. According to the Procurement Stewardship Act of 1995, this definition includes
+technology, which can be either a good or a service or a combination thereof (often referred to
+as bundled acquisitions). (New York State Office of General Services, 2018)
+
+Single Source: A Single Source procurement is one in which two or more vendors can supply
+the commodity, technology and/or perform the services required by an agency, but the
+state agency selects one vendor over the others for reasons such as expertise or
+previous experience with similar contracts. (New York State Office of General Services, 2018)
+
+Single Source: Single source means a procurement in which although two or more Contractors
+(or participating resellers) can supply the required product or service, the Authorized
+User, upon written findings setting forth the material and substantial reasons therefore,
+may award the order to one Contractor (or participating reseller) over the other(s).
+The Authorized User shall document in the procurement record the circumstances leading to
+the selection of the vendor, including the alternatives considered, the rationale for selecting the
+specific vendor and the basis upon which it determined the cost was reasonable. Refer to the
+Procurement Council Guidelines located at the OGS website for further information on Single
+and Sole Source. (New York State Office of General Services, 2018)
+
+Small Business Concern: Small business concern or small business means a business which is
+resident in this state, independently owned and operated, not dominant in its field and
+employs one hundred or less persons. (New York State Office of General Services, 2018)
+
+Software as a Service (SaaS): Software as a service is a software licensing and
+delivery model in which software is licensed on a subscription basis, is centrally hosted,
+and accessed using the Internet.
+
+Sole Source: A Sole Source procurement is one in which only one vendor can supply the
+commodities, technology and/or perform the services required by an agency. (PG) "Sole
+source" means a procurement in which only one Contractor is capable of supplying the required
+product or service. (New York State Office of General Services, 2018)
+Sole Source Procurement: A situation created due to the inability to obtain
+competition. May result because only one vendor or supplier possesses the unique
+ability or capability to meet the particular requirements of the solicitation. The
+purchasing authority may require a justification from the requesting agency explaining
+why this is the only source for the requirement.
+network.
+
+Sole Source Procurement: A situation created due to the inability to obtain
+competition. May result because only one vendor or supplier possesses the unique
+ability or capability to meet the particular requirements of the solicitation. The
+purchasing authority may require a justification from the requesting agency explaining
+why this is the only source for the requirement. (NIGP: The Institute for Public
+Procurement, 2018)
+
+Solicitation: An invitation for bids, a request for proposals, telephone calls or any
+document used to obtain bids or proposals for the purpose of entering into a contract.
+(NIGP: The Institute for Public Procurement, 2018)
+
+Statewide Term Contract: A Statewide Term Contract is a term contract open to all State
+agencies, political subdivisions, and all others authorized by law to participate. Though the bid
+document may define or limit authorized contract users, the norm calls for the broadest
+possible participation. (WBS) Using an Invitation for Bid (IFB) or a Request for Proposal
+(RFP) The decision as to which procurement method or model to use is at the discretion of
+the procuring agency. Generally speaking, less complex procurements for commodities, services
+and/or technology should use an IFB and more complex procurements should use an RFP. (New
+York State Office of General Services, 2018)
+
+Technology: Technology is defined as a good or a service or a combination thereof, that results
+in a technical method of achieving a practical purpose or in improvements in
+productivity. Technology may be new or used. (PG) "Technology" means either a good or a
+service or a combination thereof, that results in a technical method of achieving a practical
+purpose or in improvements in productivity. Goods may be either new or used. (New York State
+Office of General Services, 2018)
+
+Term Contract: A Term Contract is any contract covering purchases made during a specified
+time period. (New York State Office of General Services, 2018)
+Sources:
+
+NEHA Informatics Committee (not cited)
+
+Find RFP. (2018) Government Contracting Terminologies. Retrieved from
+https://www.findrfp.com/Government-Contracting/Gov Contract-Term.aspx
+
+NIGP: The Institute for Public Procurement (2018) NIGP Dictionary of Procurement Terms.
+Retrieved
+from http://www.nigp.org/home/find-procurement-resources/dictionary-of-terms
+
+New York State Office of General Services – Procurement Services. (2018). Glossary of
+Commonly Used
+Procurement Terms. Retrieved from https://nyspro.ogs.ny.gov/taxonomy-glossary-view
+
+SDX Central. (2018) Retrieved from https://www.sdxcentral.com/cloud/definitions/what-is-
+cloud/
+
+
+United Nations. (2018). UN – Procurement Practitioner’s Handbook. Glossary of Procurement
+Terms.
+Retrieved from https://www.ungm.org/Areas/Public/pph/go01.html
+

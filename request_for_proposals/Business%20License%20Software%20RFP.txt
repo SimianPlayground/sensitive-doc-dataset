@@ -1,0 +1,1034 @@
+Request for Proposal (RFP)
+
+            for
+
+Business License Software
+
+
+
+         April 1, 2019
+
+
+
+
+                             1|Page
+Table of Contents
+PROJECT OVERVIEW...................................................................................................................................... 3
+THE CITY OF TUSTIN ...................................................................................................................................... 3
+SCHEDULE OF EVENTS................................................................................................................................... 3
+PROJECT SCOPE OF WORK ............................................................................................................................ 4
+USER TRAINING ............................................................................................................................................. 5
+PROPOSAL FORMAT ...................................................................................................................................... 5
+DEFINITIONS.................................................................................................................................................. 6
+TERMS AND CONDITIONS ............................................................................................................................. 6
+ADMINISTRATION SPECIFICATIONS .............................................................................................................. 8
+
+
+
+
+                                                                                                                                              2|Page
+PROJECT OVERVIEW
+The City of Tustin (“City”) is soliciting proposals from qualified vendors to provide a Business License
+Software solution for the City that will replace the existing solution. The objective of this project is to
+identify a robust and easy to use system that’ll meet the City’s current and future needs associated with
+issuing, managing, and renewing business licenses.
+
+
+THE CITY OF TUSTIN
+Incorporated in 1927, the City of Tustin is a General Law city. The Constitution of the State of California
+establishes two types of cities: Charter and General Law. A General Law City, may exercise only those
+powers expressly given under State law. All cities begin as General Law cities, and the City of Tustin has
+chosen to remain such. Tustin is located in central Orange County and encompasses an area of 11.08
+square miles. The City is bounded on the south by the cities of Irvine and Santa Ana, on the north by the
+unincorporated portions of the County of Orange and the City of Orange, and on the east by
+unincorporated County territory and the City of Irvine. Within the context of the larger Southern
+California region, Tustin is located approximately two miles north of Orange County's John Wayne
+Airport and is transected by two major regional freeways: the I-5 (Santa Ana) Freeway, divides the City
+into north and south; and the SR-55 (Costa Mesa) Freeway, divides westerly portions of the City.
+
+
+SCHEDULE OF EVENTS
+Request for Proposal published Monday, April 1, 2019
+
+Addendums to the RFP may be distributed based on the needs of the City. Prospective bidders may
+submit questions in writing via email to the following email address stran@tustinca.org or addressed to:
+Sean Tran, 300 Centennial Way, Tustin, CA 92780, by Friday, May 3, 2019 @ 5:00 PM.
+
+A unified response to all questions will encompass the questions and answers, distributed via email to all
+bidders by Friday, May 10, 2019 @ 5:00 PM.
+
+All proposals are due Friday May 31, 2019 by 10:00 AM.
+
+Proposal evaluations will take place during June 3, 2019 and June 28, 2019 during which time the
+evaluation team may invite the top candidates to make a presentation of their proposal.
+
+The selection process will conclude with preliminary notification to occur on Monday, July 1, 2019.
+
+It is anticipated that the City Council would award the contract at its July 16 meeting.
+
+The proposed project planned to commence Thursday, August 1, 2019.
+
+The City reserves the right to reject all proposals, disqualify nonconforming or incomplete proposals at
+its sole discretion, waive deviations from the RFP, and determine whether proposers are qualified, or to
+
+                                                                                                3|Page
+make no award. The City reserves the right to issue addenda to the RFP, to modify the RFP, to modify
+the franchise agreement, or to withdraw the RFP. The City may request clarification or additional
+information from any of the proposers at any point in the RFP process. Proposals must comply fully with
+the requirements detailed in this RFP. Required supporting documentation must be included as
+attachments and be appropriately identified. All proposers should take whatever steps they believe are
+necessary to reasonably establish the actual existing service information when preparing their proposals
+
+
+
+
+PROJECT SCOPE OF WORK
+The intent of the City is to seek a Business License software solution that meet or exceed the
+specifications outlined in this Scope of Work. Currently, the City utilize a Business License software,
+Knowles-McNiff, which unable to meet its current and future requirements. In general, the City is
+seeking a software solution that provides greater usability and functionality that meets staff’s needs and
+requirements as well as business owners, the general public, and other public and private entities.
+
+The proposed software solution should meet these minimum requirements:
+
+    •   Must be updated regularly to be compliant with all State and Federal requirements as they
+        change, which includes Government Code 6254.21 & 6254.24
+    •   Ability to submit new business license application, renew existing business licenses, close
+        existing license (with restrictions), and apply for address changes online without the need for
+        the applicant/business owner to submit any document(s) either by mail or in person, unless
+        otherwise required by the City
+    •   Ability to effectively and efficiently manage business license processes, which include past due,
+        final notices, administrative citations, track code enforcement, in & out of City State License
+        Contractors, independent contractor, cosmetologist, and etc.
+    •   Ability to enter reminders and receive notifications of reminders
+    •   Ability to link independent contractors to a master license such as independent cosmetologist to
+        a Salon, Massage Establishments, etc. Ideal solution should include the ability to attach photos
+        and certifications, which are viewable in the field
+    •   Ability to tailor the requirement(s) based on the applicant’s business type
+    •   A comprehensive tool for managing, accepting, and maintaining Massage Establishment permits
+        and massage technician business licenses. Ideal solution, should have a interface with California
+        Massage Therapy Council (CAMTC)
+    •   A comprehensive tool for managing, accepting, printing, and maintaining Permits issued, which
+        include Live Entertainment, Mobil Detailing, etc.
+    •   Ability to use the software in the field for inquiry and/or to issue Notice of Violations and
+        Administrative Citations
+    •   Ability to allow citizens, businesses, and staff to lookup business licenses through a web
+        interface on the City’s website
+    •   Ability to convert Standard Industrial Classification system (SIC) codes to North American
+        Industry Classification System (NAICS) code. The solution should provide a mechanism to allow
+        the applicant to look up their NAISC code.
+    •   Ability to interface or integrate with other software solutions, which include but are not limited
+        to State websites (State Licensed Contractors, Massage Therapist, Cosmetologists, etc.), Tyler
+
+                                                                                               4|Page
+        Technology products (Energov, Munis, etc.), Accela Springbrook, State of California Franchise
+        Tax Board (FTB), etc.
+    •   Ability to route approvals electronically and it would be preferred that approvals are routed to
+        multiple approvers at the same time
+    •   Ability to block / restrict fields (like social security number, tax ID number, etc.) from being
+        viewable in the application based on security settings, including the ability to control which
+        fields are displayed on reports.
+    •   Comprehensive set of tools that can be used to manage user access, security, and track changes
+        entered into the system by user
+    •   Robust reporting capability which allow users to produce reports with the following information:
+             o New license activity
+             o License renewal activity
+             o Business listing by NAISC & SIC code
+             o Delinquent / past due
+             o Fee type activity
+             o Cash receipt detail & summary by batch and payment activity
+             o Aging report
+             o Label / mail merge export
+             o Ability to export and email reports
+             o Adhoc reporting to include reports by:
+                     ▪ License number, business name, and/or status
+                     ▪ Address range
+                     ▪ In & Out of City
+                     ▪ SIC / NAICS
+
+
+
+
+USER TRAINING
+User training – The vendor must include at least two (2) training sessions at the conclusion of the
+implementation of the software solution prior to go-live date.
+
+
+
+
+PROPOSAL FORMAT
+Section 1: INTRODUCTION
+A letter of introduction to include the history of the company and experience in the type of work being
+proposed.
+
+Section 2: EXPERIENCE
+Explanation of specific qualifications, training and years of prior experience
+
+Section 3: RECOMMENDED SOLUTION
+Detailed explanation of the software solution, which include any hardware and infrastructure
+requirements, if not included with the software solution.
+
+
+                                                                                               5|Page
+Section 4: REFERENCES
+Include five (5) reference locations/Cities in California which the proposed vendor implemented a
+Business License solution within the last five (5) years.
+
+Section 5: COSTS
+Pricing broken down into components
+
+Section 6: MAINTENANCE AND SUPPORT
+Priced annually with a two, three, and four year options. It is required that the first year be covered
+under warranty.
+
+
+
+
+DEFINITIONS
+City – is defined as the City of Tustin, a municipal government
+
+Project Manager -
+        For the City of Tustin, is defined as the person assigned by the City to oversee the project on
+        behalf of the City.
+
+        For the Vendor, is defined as the individual assigned to oversee the project on behalf of the
+        vendor.
+
+
+
+
+TERMS AND CONDITIONS
+1.1     Insurance Requirements
+The Proposer shall be required to submit proof of the required insurance prior to the award of contract.
+These minimum levels of coverage are required to be maintained for the duration of the project and
+during the maintenance thereafter:
+        1. General Liability and Automobile Liability Coverage - $1,000,000 per occurrence for bodily
+            injury and property damage. If Commercial General Liability Insurance or other form with a
+            general limit is used, either the general aggregate limit shall apply separately to this
+            project/location or the general aggregate limit shall be twice the required occurrence limit.
+        2. Professional Liability Coverage - $2,000,000 per occurrence (note: A “claims made” policy is
+            acceptable). If consultant provides “claims made” coverage, consultant shall also agree in
+            writing to either:
+        a) Purchase Tail Insurance in the amount required by the resulting agreement to cover claims
+            made within five years of completion of vendor’s services under the agreement.
+        b) Maintain professional liability insurance coverage with the same carrier, or with an
+            equivalent carrier in the amount required by the resulting agreement five years after
+            completion of vendor’s services under the agreement.
+        3. Worker’s Compensation Coverage - State statutory limits.
+
+
+
+                                                                                                 6|Page
+            Deductibles, Self-Insurance Retentions, or Similar Forms of Coverage Limitations or
+            Modifications, must be declared to and approved by the City of Tustin, which reserves the
+            right to deny authorization to use such limitations.
+
+            The Proposer is encouraged to contact its insurance carriers during the proposal stage to
+            ensure that the insurance requirements can be met if selected for negotiation of a contract
+            agreement. All insurance shall be endorsed to be primary and the City's insurance shall not
+            be contributory. The City shall be named as Additional Insured and no policy may be
+            modified or cancelled prior to thirty (30) days written notice.
+
+            Certificates of insurance and insurer endorsements evidencing the required insurance shall
+            be provided. The worker's compensation policy shall be endorsed to waive subrogation
+            rights against the City and its officials, officers, employees, and agents.
+
+
+1.2      Standard Form of Agreement
+The vendor will enter into an agreement with the City based upon the contents of the RFP and the
+vendor's proposal. The City’s standard form of agreement is included as Attachment A. The Proposer
+shall carefully review the agreement, and include with the proposal a description of any exceptions
+requested to the standard contract. If there are no exceptions, a statement to that effect shall be
+included in the proposal.
+
+1.3      Disclaimer
+This RFP does not commit the City to award a contract, or to pay any costs incurred in the preparation of
+the proposal. The City reserves the right to extend the due date for the proposal, to accept or reject any
+or all proposals received as a result of this request, to negotiate with any qualified vendor, or to cancel
+this RFP in part or in its entirety. The City may require the selected vendor to participate in negotiations
+and to submit such technical, fee, or other revisions of their proposals as may result from negotiations.
+
+1.4       Assigned Representatives
+The City will assign a responsible representative to administer the contract, and to assist the vendor in
+obtaining information. The vendor also shall assign a responsible representative (project manager) and
+an alternate, who shall be identified in the proposal. The vendor’s representative will remain in
+responsible charge of the vendor’s duties from the notice-to-proceed through project completion. If the
+vendor’s primary representative should be unable to continue with the project, then the alternate
+representative identified in the proposal shall become the project manager. The City’s representative
+shall first approve any substitution of representatives or subcontractors identified in the proposal in
+writing. The City reserves the right to review and approve/disapprove all key staff and subcontractor
+substitution or removal, and may consider such changes not approved to be a breach of contract.
+
+1.5      City Business License
+A city business license will be required of the vendor and any subcontractors for services performed in
+connection with any agreement entered into through this RFP process.
+
+
+
+
+                                                                                                7|Page
+ADMINISTRATION SPECIFICATIONS
+2.1      The City of Tustin’s Rights to Proposals
+All proposals, upon submission to the City of Tustin shall become its property for use as deemed
+appropriate. By submitting a proposal, the Proposer covenants not to make any claim for or have any
+right to damages because of any misinterpretation or misunderstanding of the specification, or because
+of any misinformation or lack of information. The City of Tustin reserves the right to take one or more
+of the following actions as determined in the best interest of the organization:
+     1. to accept or reject in whole or in part any or all proposals;
+     2. to cancel this RFP in whole or in part without prior notice. Thereafter, City may issue a
+         solicitation for new proposals;
+     3. City makes no guarantee as to the usage of the services by City;
+     4. to waive, at its discretion, any minor errors, informalities or irregularities, which the City deems
+         correctable or otherwise not warranting rejection of the RFP;
+     5. to correct any arithmetic errors in any or all proposals submitted;
+     6. to negotiate with any Proposer(s) as necessary to serve the best interest of the City and to
+         negotiate the final contract(s) with the most responsive, responsible Proposer
+     7. to investigate the qualifications of any Proposer under consideration;
+     8. to disqualify a proposal upon evidence of collusion with the intent to defraud or other illegal
+         practices on the part of the Proposer;
+     9. to require confirmation of information furnished by the Proposer;
+     10. to award one contract for the total SYSTEM, or make multiple awards if it is in the best interest
+         of the City.
+     11. to utilize any or all the ideas from proposals submitted;
+     12. to change the proposal’s due date upon appropriate notification;
+     13. to adopt any or all of a vendor’s proposal; and
+     14. to negotiate modifications to the scope and fee with selected Proposer(s) prior to contract
+         award.
+
+2.2      Interviews/On-Site Demonstrations/Equipment Testing
+City reserves the right to conduct interviews, and/or to require on-site demonstrations and/or product
+testing with some or all of the Proposers at any point during the evaluation process. However, City may
+determine that interviews/on-site demonstrations/equipment testing are not necessary. In the event
+interviews/on-site demonstrations/equipment testing are conducted, information provided during the
+interview/on-site demonstrations/equipment testing shall be taken into consideration when evaluating
+the stated criteria. City shall not reimburse the Proposer for the costs associated with the interview/on-
+site demonstrations/equipment testing process. Equipment testing will be held at a time and place
+specified by the City. The Proposer's key project team members will be invited to attend the interview
+and/or on-site demonstrations and/or equipment testing. The Proposers should be prepared to discuss
+at the interview, their specific experience providing services and equipment similar to those described in
+this RFP, project approach, estimated work effort, available resources, and other pertinent things
+distinguishing the Proposer from others.
+
+2.3      Proposal Instructions
+Deadline for submitting proposals Friday May 31, 2019 by 10:00 AM. Hand delivery to City Hall, City
+Clerk’s Office, 300 Centennial Way, Tustin, CA 92780. Five (5) copies of each submission are required
+along with one electronic copy on flash drive. All submissions must be sealed in a package with
+
+                                                                                                 8|Page
+reference to "RFP for Business License Software" on the outside. Proposals received after the deadline
+will be returned, unopened, to the Proposer.
+
+2.4      Addendum and Supplements to the RFP
+If it becomes necessary to revise any part of this RFP, an addendum or revision will be transmitted to all
+prospective vendors by email and will be posted on the City’s website. Questions concerning the RFP
+document must be submitted in writing to City of Tustin, Attn: Sean Tran, 300 Centennial Way, Tustin,
+CA 92780, or email at stran@tustinca.org. Questions will be received through Friday, May 10, 2019, by
+5:00 PM. Responses to all questions will be distributed in writing via email to all known Proposers and
+will be posted on the City of Tustin’s website (www.tustinca.org) as an addendum by 5:00 PM on Friday
+May 10, 2019. Proposers are cautioned that any statements made by the contact person that materially
+change any portion of the RFP shall not be relied upon unless subsequently ratified by a formal written
+amendment to this RFP.
+
+2.5      Award of Contract
+The City reserves the right to reject any and all Proposals. A formal contract award is anticipated for the
+best overall vendor as determined by the Evaluation Committee and approved by City Council as a result
+of this RFP. The City reserves the right, in its sole discretion, to waive minor irregularities in proposals. A
+minor irregularity is a variation of the RFP, which does not affect the funding request, or gives one party
+an advantage or benefit not enjoyed by the other parties, or adversely impacts the interest of the City.
+Waivers, when granted, shall in no way modify the RFP requirements or excuse the party from full
+compliance with the RFP specifications and other contract requirements, if the party is awarded the
+contract.
+
+2.6    False or Misleading Statements
+Any submittals containing, in the opinion of the City, false or misleading statements will be rejected.
+
+2.7     Prospective Vendor Costs
+Costs for developing submittals are entirely the responsibility of the vendor and shall not be chargeable
+in any manner to the City.
+
+2.8      Evaluation Process
+The City will form an Evaluation Committee to review all submittals received by the deadline. Any
+submittal failing to meet any of the qualifications documented in this RFP may be rejected. The purpose
+for the Evaluation Committee is to recommend which vendor is best able to provide, install, maintain
+and support the SYSTEM, to the City’s requirements, and within the City’s budget. A submission in
+response to this RFP indicates your acceptance of the City’s evaluation criteria.
+
+ORGANIZATION BACKGROUND
+   • Company’s demonstrated capabilities and local staffing levels to meet the project’s needs,
+      service requirements and the company’s safety record
+
+RECOMMENDED SOLUTION
+   • Understanding of requirements
+   • Project management methodologies
+   • Proposed approach
+   • Quality assurance plan
+
+
+                                                                                                   9|Page
+TECHNICAL COMPETENCE AND EXPERIENCE
+   • Project Manager and key personnel’s demonstrated experience and expertise
+   • Meets technical system requirements as outlined in the Request for Proposal
+
+REFERENCES
+   • Vendor has completed three projects similar in scope, scale, and budget
+
+COST
+   •    The cost proposal is comprehensive and realistic to complete the project
+
+2.9     Clarification of Proposals
+The City reserves the right to obtain clarification information on any item in any vendor’s submittal or to
+obtain additional related information necessary to properly evaluate the submittal. Failure of a vendor
+to respond to a request for more information may result in the proposal being rejected.
+
+2.10 Confidential Information
+All responses to this RFP become the property of City and will be kept confidential until such time as
+recommendation for award of contract has been announced. Thereafter, proposals are subject to public
+inspection and disclosure under the California Public Records Act (Cal. Government Code Section 6250,
+et seq.). If a vendor believes that any portion of its proposal is exempt from public disclosure, such
+portion may be marked "confidential." City will use reasonable means to ensure that such confidential
+information is safeguarded but will not be held liable for inadvertent disclosure of such materials, data
+and information. Proposals marked "confidential" in their entirety will not be honored and City will not
+deny public disclosure of all or any portion of proposals so marked. By submitting information with
+portions marked "confidential", the Proposer represents it has a good faith belief that such material is
+exempt from disclosure under the California Public Records Act and agrees to reimburse the City for,
+and to indemnify, defend and hold harmless City, its officials, officers, employees and agents from and
+against: (a) any and all claims, damages, losses, liabilities, suits, judgments, fines, penalties, costs and
+expenses including, (collectively, "Claims") arising from or relating to City’s non-disclosure of any such
+designated portions of a proposal if disclosure is deemed required by law or court order. Additionally,
+City may request that the Proposer directly defend any action for disclosure of any information marked
+confidential.
+
+2.11 City Use of RFP Ideas
+The City reserves the right to use any and all service and product ideas presented from prospective
+vendors. Selection or rejection of a vendor does not affect this right.
+
+2.12 Copyrights and Patents
+The vendor shall hold the City of Tustin and its officers, agents, servants, and employees harmless from
+liability of any nature or kind because of any copyrighted information, secret or proprietary process,
+patented or unpatented invention, disclosed or used in response to this RFP, and agrees to defend, at its
+own expense, any and all actions brought against the City of Tustin or its officers, agents, servants, or
+employees or the Vendor alleging or arising from unauthorized use of such information, process or
+invention.
+
+
+
+
+                                                                                               10 | P a g e
+2.13 Reliance on Information
+VENDORS MAY RELY ONLY UPON WRITTEN INFORMATION AND/OR INSTRUCTIONS FROM THE CITY
+GIVEN HEREIN OR SUBSEQUENT TO THE ISSUANCE OF THIS RFP. VENDOR MAY NOT RELY ON ANY ORAL
+INFORMATION AND/OR INSTRUCTIONS GIVEN WITH REGARD TO THIS RFP.
+Any City response to a question or request for clarification by a vendor will be made in the form of an
+addendum to the RFP, which will be sent via email to all parties to whom the RFP has been issued not
+later than five (5) business days prior to the due date for receipt of the Proposal and will become part of
+the RFP.
+
+2.14 Replacement of Incompatible Staff
+The City reserves the right to request and receive a replacement for any vendor staff member whom the
+City, in its sole and absolute discretion, determines is not working effectively with the City’s staff
+assigned to this project, or who is inadequately qualified to perform the services to be provided, or who
+is unsuitable to be performing services in secure areas.
+
+2.15 Security Check
+All vendor personnel and subcontractors may be required to pass an extensive security background
+check before they are allowed to perform any services for the City. The vendor or individual employees
+of the vendor may be excluded from providing services based on the results of the background checks,
+in the sole and absolute discretion of the City. All proposals should acknowledge this fact, and project
+timelines should reflect this fact.
+
+
+
+
+                                                                                               11 | P a g e
+                    PROFESSIONAL SERVICES AGREEMENT
+
+       This Agreement for Professional Services (herein "Agreement"), is made and
+entered into this DATE ("Effective Date"), by and between the CITY OF TUSTIN, a
+municipal corporation ("City"), and CONTRACTOR, a California Corporation
+("Contractor").
+
+      WHEREAS, the City desires to retain CONTRACTOR to provide a Business
+License Software for the City;
+
+        WHEREAS, Contractor submitted to City a proposal, dated DATE, a copy of
+which is attached hereto as Exhibit "A" (“Proposal”), and which is incorporated herein
+by this reference;
+
+      WHEREAS, Contractor is qualified to provide the necessary services and has
+agreed to provide such services; and
+
+       WHEREAS, City desires to retain Contractor to provide the necessary
+services subject to the terms and conditions of this Agreement.
+
+               NOW, THEREFORE, in consideration of the promises and mutual
+agreements contained herein, and other valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, City and Contractor agree as follows:
+
+
+            1.   SERVICES OF CONTRACTOR
+
+               1.1   Scope of Services. In compliance with all terms and conditions
+of this Agreement, Contractor shall provide those services specified in the Proposal
+(the "Services" or the "Work"). Contractor warrants that all Services shall be
+performed in a competent, professional, and satisfactory manner in accordance with
+all standards prevalent in the industry. In the event of any inconsistency between the
+terms contained in Proposal and specific terms set forth in the main body of this
+Agreement, the terms set forth in the main body of this Agreement shall govern.
+
+              1.2    Compliance with Law. All Services rendered hereunder shall
+be provided in accordance with all laws, ordinances, resolutions, statutes, rules, and
+regulations of the City of Tustin and of any federal, state or local governmental
+agency of competent jurisdiction.
+
+            1.3     Licenses and Permits. Contractor shall obtain at its sole cost
+and expense such licenses, permits and approvals as may be required by law for the
+performance of the Services required by this Agreement.
+
+              1.4   Familiarity with Work. By executing this Contract, Contractor
+warrants that Contractor (a) has thoroughly investigated and considered the Work to
+be performed, (b) has investigated the site of the Work and become fully acquainted
+
+                                          1
+1253025.1
+with the conditions there existing, (c) has carefully considered how the Work should
+be performed, and (d) fully understands the facilities, difficulties and restrictions
+attending performance of the Work under this Agreement. Should the Contractor
+discover any latent or unknown conditions materially differing from those inherent in
+the Work or as represented by the City, Contractor shall immediately inform City of
+such fact and shall not proceed with any Work except at Contractor's risk until written
+instructions are received from the Contract Officer.
+
+               1.5   Care of Work. Contractor shall adopt and follow reasonable
+procedures and methods during the term of the Agreement to prevent loss or damage
+to materials, papers or other components of the Work, and shall be responsible for
+all such damage until acceptance of the Work by City, except such loss or damages
+as may be caused by City's own negligence.
+
+               1.6   Additional Services. Contractor shall perform services in
+addition to those specified in the Proposal when directed to do so in writing by the
+Contract Officer, provided that Contractor shall not be required to perform any
+additional services without compensation. Any additional compensation not
+exceeding ten percent (10%) of the original contract sum must be approved in writing
+by the Contract Officer. Any greater increase must be approved in writing by the City
+Manager.
+
+            2.   COMPENSATION
+
+              2.1    Compensation of Contractor. For the Services rendered
+pursuant to this Agreement, the Contractor shall be compensated and reimbursed
+only for such Services and such amounts as are expressly prescribed in the
+Proposal, in an amount not to exceed AMOUNT (AMOUNT).
+
+THE MAXIMUM AMOUNT OF CITY’S OBLIGATION UNDER THIS AGREEMENT
+IS THE AMOUNT SPECIFIED IN THIS SECTION. IF THE CITY’S MAXIMUM
+OBLIGATION IS REACHED BEFORE THE CONTRACTOR’S SERVICES
+UNDER THIS AGREEMENT ARE COMPLETED, CONTRACTOR WILL
+NEVERTHELESS COMPLETE THE SERVICES WITHOUT LIABILITY ON THE
+CITY’S PART FOR FURTHER PAYMENT BEYOND THE MAXIMUM AMOUNT.
+
+               2.2     Method of Payment. In any month in which Contractor wishes
+to receive payment, Contractor shall, no later than the first working day of such
+month, submit to City in the form approved by City's Director of Finance, an invoice
+for Services rendered prior to the date of the invoice. City shall pay Contractor for all
+expenses stated thereon which are approved by City consistent with this Agreement,
+no later than the last working day of said month.
+
+               2.3    Changes. In the event any change or changes in the Work is
+requested by City, the parties hereto shall execute an addendum to this Agreement,
+setting forth with particularity all terms of such addendum, including, but not limited
+to, any additional Contractor's fees. Addenda may be entered into:
+
+                                           2
+1253025.1
+                     A.     To provide for revisions or modifications to documents or
+other work product or work when documents or other work product or work is required
+by the enactment or revision of law subsequent to the preparation of any documents,
+other work product or work;
+
+                     B.      To provide for additional services not included in this
+Agreement or not customarily furnished in accordance with generally accepted
+practice in Contractor's profession.
+
+           2.4    Payment for Changes. Changes approved pursuant to an
+Addendum shall be compensated at the personnel hourly rates prescribed in the
+Proposal.
+
+            3.   PERFORMANCE SCHEDULE
+
+            3.1      Time of Essence. Time is of the essence in the performance of
+this Agreement.
+
+            3.2   Schedule of Performance. All Services rendered pursuant to
+this Agreement shall be performed within any time periods prescribed in the
+Proposal.
+
+               3.3    Force Majeure. The time for performance of Services to be
+rendered pursuant to this Agreement may be extended because of any delays due
+to unforeseeable causes beyond the control and without the fault or negligence of
+the Contractor, including, but not restricted to, acts of God or of a public enemy, acts
+of the government, fires, earthquakes, floods, epidemic, quarantine restrictions, riots,
+strikes, freight embargoes, and unusually severe weather if the Contractor shall
+within ten (10) days of the commencement of such condition notify the Contract
+Officer who shall thereupon ascertain the facts and the extent of any necessary
+delay, and extend the time for performing the Services for the period of the enforced
+delay when and if in the Contract Officer's judgment such delay is justified, and the
+Contract Officer's determination shall be final and conclusive upon the parties to this
+Agreement.
+
+                3.4   Term. Unless earlier terminated in accordance with Sections
+7.6 or 7.7 of this Agreement, this Agreement shall continue in full force and effect
+until satisfactory completion of the services but not exceeding AMOUNT from the
+date hereof for one year, unless extended by mutual written agreement of the parties.
+
+
+
+            4.   COORDINATION OF WORK
+
+
+
+
+                                           3
+1253025.1
+             4.1    Representative of Contractor. The following Principal of the
+Contractor is hereby designated as being the principal and representative of
+Contractor authorized to act in its behalf with respect to the Work specified herein
+and make all decisions in connection therewith: NAME
+
+                     It is expressly understood that the experience, knowledge,
+capability and reputation of the foregoing Principal is a substantial inducement for
+City to enter into this Agreement. Therefore, the foregoing Principal shall be
+responsible during the term of this Agreement for directing all activities of Contractor
+and devoting sufficient time to personally supervise the Services hereunder. The
+foregoing Principal may not be changed by Contractor without the express written
+approval of City.
+
+              4.2     Contract Officer. The Contract Officer shall be the Director of
+Finance. The Co-Contract Officer shall be the Deputy Director of Finance –
+Administrative Services. It shall be the Contractor's responsibility to keep the
+Contract Officer, or the Co-Contract Officer in the Contract Officer's absence, fully
+informed of the progress of the performance of the Services and Contractor shall
+refer any decisions, which must be made by City to the Contract Officer. Unless
+otherwise specified herein, any approval of City required hereunder shall mean the
+approval of the Contract Officer or the Co-Contract Officer.
+
+               4.3     Prohibition Against Subcontracting or Assignment.         The
+experience, knowledge, capability and reputation of Contractor, its principals and
+employees were a substantial inducement for the City to enter into this Agreement.
+Therefore, Contractor shall not contract with any other entity to perform in whole or
+in part the Services required hereunder without the express written approval of the
+City. In addition, neither this Agreement nor any interest herein may be assigned or
+transferred, voluntarily or by operation of law, without the prior written approval of
+City.
+
+               4.4    Independent Contractor. Neither the City nor any of its
+employees shall have any control over the manner, mode or means by which
+Contractor, its agents or employees perform the Services required herein, except as
+otherwise set forth herein. Contractor shall perform all Services required herein as
+an independent contractor of City and shall remain at all times as to City a wholly
+independent contractor with only such obligations as are consistent with that role.
+Contractor shall not at any time or in any manner represent that it or any of its agents
+or employees are agents or employees of City. Contractor shall be solely responsible
+for compliance with State and Federal Law with respect to the wages, hours, benefits,
+and working conditions of its employees, including requirement for payroll deductions
+for taxes. Employees or independent contractors of Contractor are not City
+employees.
+
+
+
+
+                                           4
+1253025.1
+            5.    INSURANCE / INDEMNIFICATION
+
+                  5.1     Insurance Requirements
+
+                      A.    Types of Required Coverages.        Contractor shall
+maintain in full force and effect during the term of this Agreement the following
+insurance policies:
+
+                           (1)   Commercial General Liability: Commercial General
+            Liability Insurance which affords coverage at least as broad as Insurance
+            Services Office “occurrence” form CG 00 01, with minimum limits of at least
+            $1,000,000 each occurrence, and if written with an aggregate, the
+            aggregate shall be double the each occurrence limit.
+
+                          (2)    Products-Completed Operations: Contractor shall
+            procure and submit to City evidence of insurance for a period of at least
+            three (3) years from the time that all Work under this contract is completed.
+
+                         (3)   Automobile Liability Insurance: Automobile Liability
+            Insurance with coverage at least as broad as Insurance Services Office
+            Form CA 0001 covering “Any Auto” (Code 1) with minimum limits of
+            $1,000,000 each accident.
+
+                         (4)     Professional Liability: Professional Liability insurance
+            with minimum limits of $2,000,000 each claim. Covered Professional
+            Services shall specifically include all Work to be performed under the
+            contract and delete any exclusion that may potentially affect the Work to be
+            performed.
+
+                          (5)   Workers’ Compensation: Workers’ Compensation
+            Insurance, as required by the State of California and Employer’s Liability
+            Insurance with a limit of not less than $1,000,000 each accident for bodily
+            injury and $1,000,000 each employee for bodily injury by disease.
+
+                          B.     Endorsements
+
+                     Insurance policies shall not be in compliance if they include
+any limiting provision or endorsement that has not been submitted to the City for
+approval.
+
+                          (1)    The insurance coverages required by Section (1)
+            Commercial General Liability; and (3) Automobile Liability Insurance shall
+            contain the following provisions or be endorsed to provide the following:
+
+                                (a)   Additional Insured: The City, its elected officials,
+                  officers, employees, volunteers, boards, agents and representatives
+
+
+                                              5
+1253025.1
+              shall be additional insureds with regard to liability and defense of
+              suits or claims arising out of the performance of the Contract.
+
+                            Additional Insured Endorsements shall not:
+
+                            i.     Exclude “Contractual Liability”
+                            ii.    Restrict coverage to the “Sole” liability of
+                                   contractor
+                            iii.   Exclude “Third-Party-Over Action”
+                            iv.    Contain any other exclusion contrary to the
+                                   Contract
+
+                             (b)   Primary Insurance: This insurance shall be
+              primary and any other insurance whether primary, excess, umbrella
+              or contingent insurance, including deductible, or self-insurance
+              available to the insureds added by endorsement shall be in excess
+              of and shall not contribute with this insurance.
+
+                           (c)    The policy or policies of insurance required by
+              Section (5) Workers’ Compensation shall be endorsed, as follows:
+
+                            i.     Waiver of Subrogation: A waiver of subrogation
+                                   stating that the insurer waives all rights of
+                                   subrogation against the indemnified parties.
+
+                     C.     Notice of Cancellation
+
+                   Required insurance policies shall not be cancelled or the
+coverage reduced until a thirty (30) day written notice of cancellation has been
+served upon the City except ten (10) days shall be allowed for non-payment of
+premium.
+
+                     D.     Evidence of Insurance
+
+                    The Contractor, concurrently with the execution of this
+Agreement, and as a condition precedent to the effectiveness thereof, shall deliver
+either certified copies of the required policies, or original certificates and
+endorsements on forms approved by the City. The certificates and endorsements
+for each insurance policy shall be signed by a person authorized by that insurer to
+bind coverage on its behalf. At least fifteen (15) days prior to the expiration of any
+such policy, evidence of insurance showing that such insurance coverage has
+been renewed or extended shall be filed with the City. If such coverage is
+cancelled or reduced, Contractor shall, within ten (10) days after receipt of written
+notice of such cancellation or reduction of coverage, file with the City evidence of
+insurance showing that the required insurance has been reinstated or has been
+provided through another insurance company or companies.
+                     E.     Deductible or Self-Insured Retention
+
+
+                                          6
+1253025.1
+                     Any deductible or self-insured retention must be approved in
+writing by the City and shall protect the indemnified parties in the same manner
+and to the same extent as they would have been protected had the policy or
+policies not contained a deductible or self-insured retention.
+
+                     F.     Contractual Liability
+
+                    The coverage provided shall apply to the obligations assumed
+by the Contractor under the indemnity provisions of this contract.
+
+                     G.     Failure to Maintain Coverage
+
+                     Contractor agrees to suspend and cease all operations
+hereunder during such period of time as the required insurance coverage is not in
+effect and evidence of insurance has not been furnished to the City. The City shall
+have the right to withhold any payment due Contractor until Contractor has fully
+complied with the insurance provisions of this Contract.
+
+                     In the event that the Contractor’s operations are suspended
+for failure to maintain required insurance coverage, the Contractor shall not be
+entitled to an extension of time for completion of the Work because of production
+lost during suspension.
+
+                     H.     Acceptability of Insurers
+
+                     Each such policy shall be from a company or companies with
+a current A.M. Best’s rating of no less than A:VII and authorized to do business in
+the State of California, or otherwise allowed to place insurance through surplus
+line brokers under applicable provisions of the California Insurance Code or any
+federal law. Any other rating must be approved in writing in accordance with the
+City.
+
+                     I.     Claims Made Policies
+
+                     If coverage is written on a claims-made basis, the retroactive
+ date on such insurance and all subsequent insurance shall coincide or precede
+ the Effective Date of the initial Contractor’s Contract with the City and continuous
+ coverage shall be maintained or an extended reporting period shall be exercised
+ for a period of at least three (3) years from termination or expiration of this
+ Contract.
+
+                     Upon expiration or termination of coverage of required
+ insurance, Contractor shall procure and submit to City evidence of “tail” coverage
+ or an extended reporting coverage period endorsement for the period of at least
+ three (3) years from the time that all Work under this contract is completed.
+
+                     J.     Insurance for Subcontractors
+
+                    Contractor shall be responsible for causing Subcontractors to
+purchase the same types and limits of insurance in compliance with the terms of
+this Agreement, including adding the City as an Additional Insured to the
+Subcontractor’s policies.
+
+
+                                         7
+1253025.1
+                 K.   Insurance Obligations of Contractor
+
+                      The insurance obligations under this Agreement shall be: (1)
+all the insurance coverage and/or limits carried by or available to the Contractor;
+or (2) the minimum insurance coverage requirements and/or limits shown in this
+Agreement; whichever is greater. Any insurance proceeds in excess of or broader
+than the minimum required coverage and/or minimum required limits, which are
+applicable to a given loss, shall be available to the City. No representation is made
+that the minimum insurance requirements of this Agreement are sufficient to cover
+the obligations of the Contractor under this contract.
+
+
+                5.2   Indemnification. The Contractor shall defend, indemnify and
+hold harmless the City, its officers and employees, from and against any and all
+actions, suits, proceedings, claims, demands, losses, costs, and expenses, including
+legal costs and attorneys' fees, for injury to or death of person or persons, for damage
+to property, including property owned by City, arising from errors and omissions of
+Contractor, its officers, employees and agents, or arising out of or related to
+Contractor's performance under this Agreement, except for such loss as may be
+caused by City's sole negligence.
+
+                      The Contractor shall also defend, indemnify and hold the City
+harmless from any claims or liability for City health and welfare, retirement benefits,
+or any other benefits of part-time or fulltime City employment sought by Contractor’s
+officers, employees, or independent contractors, whether legal action, administrative
+proceeding or pursuant to State statue.
+
+                       Such indemnity shall extend, but not be limited to, claims,
+damages and liabilities arising from injuries or damages to persons or property and
+to workers' compensation claims and award of attorney's fees. Such indemnity shall
+not apply to any injuries to persons or property, which result in the sole negligence of
+Contractor.
+
+
+            6.   RECORDS AND REPORTS
+
+              6.1    Reports. Contractor shall periodically prepare and submit to the
+Contract Officer such reports concerning the performance of the Services required
+by this Agreement as the Contract Officer shall require.
+
+               6.2   Records. Contractor shall keep such books and records as
+shall be necessary to properly perform the Services required by this Agreement and
+enable the Contract Officer to evaluate the performance of such Services. The
+Contract Officer shall have full and free access to such books and records at all
+reasonable times, including the right to inspect, copy, audit and make records and
+transcripts from such records.
+
+
+
+                                           8
+1253025.1
+               6.3    Ownership of Documents. All drawings, specifications, reports,
+records, documents and other materials prepared by Contractor in the performance
+of this Agreement shall be the property of City and shall be delivered to City upon
+request of the Contract Officer or upon the termination of this Agreement, and
+Contractor shall have no claim for further employment or additional compensation as
+a result of the exercise by City of its full rights or ownership of the documents and
+materials hereunder. Contractor may retain copies of such documents for its own
+use. Contractor shall have an unrestricted right to use the concepts embodied
+therein.
+
+              6.4     Release of Documents. All drawings, specifications, reports,
+records, documents and other materials prepared by Contractor in the performance
+of Services under this Agreement shall not be released publicly without the prior
+written approval of the Contract Officer.
+
+            7.   ENFORCEMENT OF AGREEMENT
+
+                7.1   California Law. This Agreement shall be construed and
+interpreted both as to validity and to performance of the parties in accordance with
+the laws of the State of California. Legal actions concerning any dispute, claim or
+matter arising out of or in relation to this Agreement shall be instituted in the Superior
+Court of the County of Orange, State of California, or any other appropriate court in
+such county, and Contractor covenants and agrees to submit to the personal
+jurisdiction of such court in the event of such action.
+
+                7.2     Disputes. In the event of any dispute arising under this
+Agreement, the injured party shall notify the injuring party in writing of its contentions
+by submitting a claim therefor. The injured party shall continue performing its
+obligations hereunder so long as the injuring party cures any default within ninety
+(90) days after service of the notice, or if the cure of the default is commenced within
+thirty (30) days after service of said notice and is cured within a reasonable time after
+commencement; provided that if the default is an immediate danger to the health,
+safety and general welfare, the City may take immediate action under Section 7.6 of
+this Agreement. Compliance with the provisions of this Section shall be a condition
+precedent to any legal action, and such compliance shall not be a waiver of any
+party's right to take legal action in the event that the dispute is not cured.
+
+             7.3    Waiver. No delay or omission in the exercise of any right or
+remedy of a non-defaulting party on any default shall impair such right or remedy or
+be construed as a waiver. No consent or approval of City shall be deemed to waive
+or render unnecessary City's consent to or approval of any subsequent act of
+Contractor. Any waiver by either party of any default must be in writing and shall not
+be a waiver of any other default concerning the same or any other provision of this
+Agreement.
+
+              7.4   Rights and Remedies are Cumulative. Except with respect to
+rights and remedies expressly declared to be exclusive in this Agreement, the rights
+
+                                            9
+1253025.1
+and remedies of the parties are cumulative and the exercise by either party of one or
+more of such rights or remedies shall not preclude the exercise by it, at the same or
+different times, of any other rights or remedies for the same default or any other
+default by the other party.
+
+              7.5    Legal Action. In addition to any other rights or remedies, either
+party may take legal action, in law or in equity, to cure, correct or remedy any default,
+to recover damages for any default, to compel specific performance of this
+Agreement, to obtain injunctive relief, a declaratory judgment or any other remedy
+consistent with the purposes of this Agreement.
+
+               7.6     Termination Prior to Expiration of Term. The City reserves the
+right to terminate this Agreement at any time, with or without cause, upon thirty (30)
+days written notice to Contractor, except that where termination is due to the fault of
+the Contractor and constitutes an immediate danger to health, safety and general
+welfare, the period of notice shall be such shorter time as the City’s Contract Manager
+in his or her sole discretion determines is appropriate. Upon receipt of the notice of
+termination, Contractor shall immediately cease all Services hereunder except such
+as may be specifically approved by the Contract Officer. Contractor shall be entitled
+to compensation for all Services rendered prior to receipt of the notice of termination
+and for any Services authorized by the Contract Officer thereafter.
+
+                7.7    Termination for Default of Contractor. If termination is due to
+the failure of the Contractor to fulfill its obligations under this Agreement, City may
+take over the Work and prosecute the same to completion by contract or otherwise,
+and the Contractor shall be liable to the extent that the total cost for completion of the
+Services required hereunder exceeds the compensation herein stipulated, provided
+that the City shall use reasonable efforts to mitigate damages, and City may withhold
+any payments to the Contractor for the purpose of set-off or partial payment of the
+amounts owed to City.
+
+            8.   CITY OFFICERS AND EMPLOYEES; NON-DISCRIMINATION
+
+                8.1   Non-Liability of City Officers and Employees. No officer or
+employee of City shall be personally liable to the Contractor, or any successor-in-
+interest, in the event of any default or breach by the City or for any amount which
+may become due to the Contractor or its successor, or for breach of any obligation
+of the terms of this Agreement.
+
+               8.2     Covenant Against Discrimination. Contractor covenants that,
+by and for itself, its heirs, executors, assigns, and all persons claiming under or
+through them, that there shall be no discrimination or segregation in the performance
+of or in connection with this Agreement regarding any person or group of persons on
+account of race, color, creed, religion, sex, gender, sexual orientation, marital status,
+national origin, or ancestry. Contractor shall take affirmative action to insure that
+
+
+
+                                           10
+1253025.1
+applicants and employees are treated without regard to their race, color, creed,
+religion, sex, gender, sexual orientation, marital status, national origin, or ancestry.
+
+            9.     MISCELLANEOUS PROVISIONS
+
+               9.1    Notice. Any notice, demand, request, consent, approval, or
+communication either party desires or is required to give to the other party or any
+other person shall be in writing and either served personally or sent by pre-paid, first-
+class mail to the address set forth below. Either party may change its address by
+notifying the other party of the change of address in writing. Notice shall be deemed
+communicated forty-eight (48) hours from the time of mailing if mailed as provided in
+this Section.
+
+            To City:                                To Contractor:
+
+            CITY OF TUSTIN                          NAME
+            300 Centennial Way                      ADDRESS
+            Tustin, CA 92780                        ADDRESS
+            Attention: Deputy Director of Finance   Attention: NAME
+
+
+            9.2    Integrated Agreement. This Agreement contains all of the
+agreements of the parties and cannot be amended or modified except by written
+agreement.
+
+             9.3    Amendment. This Agreement may be amended at any time by
+the mutual consent of the parties by an instrument in writing.
+
+                9.4   Severability. In the event that any one or more of the phrases,
+sentences, clauses, paragraphs, or sections contained in this Agreement shall be
+declared invalid or unenforceable by valid judgment or decree of a court of competent
+jurisdiction, such invalidity or unenforceability shall not affect any of the remaining
+phrases, sentences, clauses, paragraphs, or sections of this Agreement, which shall
+be interpreted to carry out the intent of the parties hereunder.
+
+              9.5     Corporate Authority. The persons executing this Agreement on
+behalf of the parties hereto warrant that they are duly authorized to execute this
+Agreement on behalf of said parties and that by so executing this Agreement the
+parties hereto are formally bound to the provisions of this Agreement.
+
+
+
+
+                                             11
+1253025.1
+        IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first written above.
+
+                                   "City"
+
+Dated:                             CITY OF TUSTIN, a municipal corporation
+
+
+                                   By:
+                                            Matthew S. West
+                                            Acting City Manager
+APPROVED AS TO FORM:
+
+
+David E. Kendig
+City Attorney
+                                   "Contractor"
+
+                                   NAME
+                                   COMPANY NAME
+                                   ADDRESS
+                                   ADDRESS
+
+
+                                   By:
+
+
+
+
+                                     12
+1253025.1
+            Exhibit A
+
+            Proposal
+
+
+
+
+               13
+1253025.1
+

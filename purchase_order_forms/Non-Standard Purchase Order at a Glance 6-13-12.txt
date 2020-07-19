@@ -1,0 +1,48 @@
+                  NON-STANDARD PURCHASE ORDER
+                             (PO20)
+The Non-Standard Purchase Order is when you need an immediate check. This is usually in the
+event of conference registrations, any travel advance or reimbursement; reimburse employees for
+expenditures to be charged to a Federal fund or grant, or invoices when the merchandise is not
+ordered through the RQ 10 process. It is also used for purchasing anything purchased from Dell
+except software.
+
+ENTERING A NS-PO:
+
+   1.  In Lawson, open PO20 screen
+   2.  Leave “PO number” blank
+   3.  Click on the dropdown for Vendor and search for the vendor.
+   4.  Leave “Purchase From” blank.
+   5.  “Print To” is your location number (school location)
+   6.  Invoice date will be the day you are entering the PO; type “T” and tab, system will enter
+       the current date
+   7. “Asset Item” will be left as is unless you are ordering equipment from Dell. Then click
+       the dropdown and change it to “Has Asset Items.” If you are ordering an asset, you
+       must assign an Asset Template in the blue section at the bottom for each item.
+   8. The lines section is done just like a regular requisition except the “Dlvr” should be the
+       same date as the PO date
+   9. Line Detail: You must put something in the “Description” field. If it is for conference
+       fees, enter the conference name and location or the person attending if not in the lines
+       section.
+   10. Account code: Fund, Account (accounting unit), Object (6497, 6411, etc)
+                         Activity (activity code); Account Category (same as object)
+   11. Next line is for any other information you want to include.
+   12. If you are ordering an asset, click on the “Activity, Asset” tab and enter the Asset
+       Template.
+   13. You must do Steps 9 – 12 for each line. If you put “Y” in the “Rpt. GL” space of the first
+       line, you do not have to reenter the account code information in future lines unless you
+       change to a different account, i.e., on travel reimbursements, object code 6411 for actual
+       travel expenses, 6497 for registration fees.
+   14. Once you have all the information on the form, click “ADD”.
+   15. When the PO is processed and a PO number is assigned, click the dropdown by “Inquire”
+       on the far right side. Choose “Release” and click on it when it appears in the blank.
+   16. Once the PO is released, click on the dropdown again, choose “Print” and click on it
+       when it appears in the blank. The purchase order will not print until you do this step.
+   17. Have principal sign the purchase order. Make a copy of purchase order and all backup
+       for your records
+   18. Send the purchase order and all backup to:
+                 Regular Budget Accounts: Accounts Payable
+                 Federal Funds:                 Gloria Gallegos, Special Programs
+                 Grants:                        Appropriate Supervisor
+   19. If it is something that you need the check sent back to you, be sure to note that in red on
+       the purchase order in the “Special Instructions” section.
+

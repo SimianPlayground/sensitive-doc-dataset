@@ -1,0 +1,620 @@
+      Request for Proposal (RFP)
+    Server and Storage Infrastructure
+
+
+
+
+Excelsior Springs Technology Department
+              300 Broadway
+      Excelsior Springs, MO 64024
+
+
+
+
+           January 14, 2020
+Summary and Background           3
+
+Proposal Guidelines              3
+
+Budget                           4
+
+Evaluation Criteria              4
+
+Pricing Schedule                 5
+
+REQUIREMENT SUMMARY              8
+
+TECHNICAL REQUIREMENTS           9
+
+PROJECT REQUIREMENTS             12
+
+PROJECT RESPONSE                 13
+
+Goods & Services Declaration     14
+
+Felony Conviction Notification   15
+
+
+
+
+2
+Summary and Background
+
+The Excelsior Springs School District (ESSD) is soliciting proposals to purchase servers, storage
+equipment, backup appliance, installation, service, and support for a complete turnkey virtual
+environment with disaster recovery. The system should be scalable at the convenience of the
+District.
+
+The ESSD is a public K-12 school district located in Excelsior Springs, Missouri, comprised of
+one high school, one middle school, and three elementary schools. Total enrollment for all schools
+is 2,967, with a certified staff of 274. From more information visit https://essd40.com .
+
+
+
+Proposal Guidelines
+
+This Request for Proposals represents the requirements for an open and competitive process.
+
+Proposals will be accepted until 2:00 p.m. Central Standard Time, February 7, 2020.
+
+Submit proposals to:
+                                     Lynnette Procopio
+                                   Director of Technology
+                                       300 Broadway
+                                Excelsior Springs, MO 64024
+          Submit proposals in a sealed package plainly marked 2020-T001-Servers.
+
+Request for information
+
+Bidders during the RFP process and winning vendor will direct any questions in writing to:
+                                     Lynnette Procopio
+                                       300 Broadway
+                                Excelsior Springs, MO 64024
+                                 lprocopio@ga.essd40.com
+Timeline
+
+
+                           Event                                           Date
+
+ Last date for questions                                 January 31, 2020 at 2:00 p.m. CST
+
+ Proposals due                                           February 7, 2020 at 2:00 p.m. CST
+
+ Evaluation Period                                       February 10 thru February 14, 2020
+
+ Selection decision approved by Board of Education       March 9, 2020
+
+
+
+3
+Budget
+
+All proposals must include proposed costs to complete the tasks described in the project scope.
+Cost will be stated as on-time or non-recurring costs (NRS) or monthly recurring costs (MRC).
+
+All costs and fees must be clearly described in each proposal.
+
+
+
+Evaluation Criteria
+
+No commitment will be made to select a bidder’s proposal solely on the basis of cost. ESSD will
+evaluate all proposals based on the following criteria.
+
+
+ Cost of products and/or services: bidders will be evaluated on the cost of the             30
+ solution(s) based on the work to be performed in accordance with the scope of this
+ project
+
+ Implementation Cost: proposed solution(s) will be evaluated on any additional              15
+ cost to ESSD40 to implement the proposed solution(s)
+
+ Design and technical bid submission: proposed solution(s) must meet the                    15
+ scope and needs included herein and be presented in a clear and organized
+ manner
+
+ Organizational Experience: bidders will be evaluated on their experience as it             15
+ pertains to the scope of this project
+
+ Previous Work: Bidders will be evaluated on examples of their work pertaining to           5
+ the scope of this project and any previous experience, if any, with ESSD40
+
+ Technical Expertise and Experience: bidders must provide descriptions a                    10
+ documentation of staff technical expertise and experience
+
+ Financial Stability: bidders will be evaluated on the financial stability of the           10
+ organization
+
+
+ESSD reserves the right to reject any or all RFP’s for irregularities, informalities, or technicalities
+that is in the best interest of the District. The Excelsior Springs School District also reserves the
+right to waive any or all RFP’s for irregularities, informalities or technicalities that is in the best
+interest of the District.
+
+Bidders may withdraw their RFP prior to the stated time of opening, but may not be withdrawn
+for a period of thirty days thereafter, unless required by law.
+
+ESSD reserves the right to accept any offer in part or in whole, to request a new RFP, or to award
+any of the items specified herein as it deems to be in its best interest of the school district. By
+quoting, the vendor specifically agrees that the decision of the ESSD is final and binding.
+4
+ESSD reserves the right to be the sole determining party as to which vendor is awarded this
+project.
+
+ESSD will select the lowest and best proposal that will fulfill requirements set forth by this RFP.
+Should the bidder take exception to any terms, conditions, or specifications stated herein, such
+exception must be so stated in writing on company letterhead and submitted prior to the RFP
+opening. Written exceptions may or may not be honored by ESSD.
+
+By quoting on this proposal, the vendor agrees to all contents of this RFP. Failure to deliver as
+guaranteed, or any other material breach or default by the awarded vendor, may result in the
+disqualification of the vendor from future RFP’s. In the case of default by the awarded vendor,
+ESSD will procure from the second ranked vendor, and hold the first vendor responsible for any
+excess cost associated therein.
+
+Bidders will utilize the contact indicated in the RFP as the sole representative for ALL information
+regarding this RFP. Bidders who contact any other District employee or representative without
+the approval of the contact indicated in the RFP are subject to disqualification from this RFP.
+
+
+
+Pricing Schedule
+
+Provide a pricing matrix similar to those provided below. ESSD reserves the right to purchase all
+or some of the proposed solution. Proposals shall include all costs deemed necessary to cover
+all contingencies essential to the supply and installation of the specified components and services.
+These costs include, but are not limited to, hardware, installation, power supplies, virtual
+technology, software, patch cables, handsets, labor, required permits, licenses, or any other fees
+or charges that may be imposed in order to complete the project.
+
+(However, a manufacturer’s multi-year warranty for a period up to five years that is provided as
+an integral part of an eligible component, without a separately identifiable cost, may be (included
+in the cost of the component.)
+
+Any cost encountered which is not specifically itemized in the proposal shall not be incurred
+without the express written consent of the District. No additional compensation will be paid for
+extra work incurred on the part of the Contractor due to the failure to discover or acknowledge
+existing condition which may cause additional labor costs. (Please note: To ensure that the
+instructional day is not compromised, work cannot always be scheduled during normal business
+hours. Please include the cost of any additional compensation required for work performed in the
+evenings and on Saturdays.)
+
+Hardware, Software, and Licenses – all items should be itemized
+
+
+ Item   Description                              Quantity Unit Price              Total
+
+5
+ 1
+
+ 2
+
+ 3
+
+
+
+Labor- Cost of Implementation
+ Item    Description                              #of         Hourly Rate         Total
+                                                  Hours
+
+ 1
+
+ 2
+
+ 3
+
+
+
+Training - also indicate training that will be at no additional charge
+ Item    Description                              Quantity Unit Price             Total
+
+ 1
+
+ 2
+
+ 3
+
+
+Maintenance and Support
+
+If discounts are available for multi-year support agreements, please provide this information
+regarding the length of term and the net discount percentage. The maintenance cost should
+include the all‐ inclusive hourly charge rates (during specified hours), any travel expenses to be
+reimbursed, the percentage of markup on any materials.
+
+Maintenance quote requirements—Warranty and graduated maintenance proposal with year 1
+to year 10 pricing and specifications; i.e., monitoring, labor, and equipment. (Maintenance is to
+be quoted separately unless the warranty is not a separately identifiable cost. In this case, the
+warranty should be noted for information purposes.)
+
+
+ Item   Description                                       Discount   Length of   Total
+                                                                     Term
+
+ 1      Full maintenance: supporting hardware and
+        software 7am‐ 6pm Mon‐ Fri with 4-hour
+        onsite response
+
+ 2      Full maintenance: supporting hardware and
+
+6
+       software seven (7) days a week, 24 hours a
+       day, with four (4) hour onsite response
+
+ 3     What is your plan for emergency response
+       in case of critical failure? Do you have an
+       emergency response plan with one (1) hour
+       or less response? If so please explain and
+       include pricing. If not, so indicate.
+
+ 4     If ESSD chooses time and materials
+       coverage, what is the rate for standard
+       business hours and after hours? State your
+       definition of business hours.
+
+ 5     Will your company support a maintenance
+       contract that covers core components only
+       (e.g. servers, software, switch’s and
+       common control cards) with no peripherals,
+       or station sets?
+
+ 6     Propose the maintenance you believe
+       would best serve ESSD
+
+ 7
+
+
+Other Costs Respondent must list any and all charges, expenses, and/or costs to be incurred by
+ESSD that are not included in this section. Failure to specifically and thoroughly enumerate
+such items may be a cause for disqualification.
+
+
+
+
+7
+                    Server and Storage Infrastructure Upgrade Specifications
+
+
+
+REQUIREMENT SUMMARY
+The Excelsior Springs School District is soliciting proposals to purchase servers, storage
+equipment, backup appliance, installation, service, and support for a complete turnkey virtual
+environment with disaster recovery. The system should be scalable at the convenience of the
+District.
+
+General
+
+    1. ESSD requires a high availability system installed at both on-site data centers. The server,
+       storage, and backup targets should be able to support the district independently from
+       either data center to maintain business continuity. These data centers are the Early
+       Childhood Center (ECC) and Excelsior Springs High School (ESHS), which are connected
+       via multiple fiber optic. The data centers are physically 3 miles apart and the backup
+       location 10 miles from the data centers.
+
+    2. The district is accepting bids for new Lenovo, Dell, or HP equipment. Consider the
+       following specifications as recommended and minimum.
+
+           a. Quantity 4 - Dell R630 1U Server. Intel 12 Core E5-2650V4 2.2GHz, 30MB Cache.
+              192GB RAM, iDRAC8 Enterprise, PERC H730 Mini 1GB NV Cache, Redundant
+              750W Power Supplies, 4 - 300GB 10K SAS 12GB/s, Dell Sliding Rails, Intel X710-
+              DA2 Dual Port 10GB SFP PCI-e, Intel I350 Quad Port 1GB PCI-e
+
+           b. Quantity 2 - Dell Equallogic PS6210X Storage Array. 24 - 1.2TB 10K SAS, 26.4TB
+              Total Capacity with RAID 6, Redundant 10GbE/SFP+ Controller - 16GB NV
+              Cache, Redundant Power Supplies
+
+           c. All other parts and pieces necessary for a complete and working system must be
+              included.
+
+    3. The virtual environment will consist of virtual host servers running Microsoft Hyper-V on
+       Windows Server 2019 at Early Childhood Center and identically configured host servers
+       at Excelsior Springs High School, a Storage Area Network at Early Childhood Center, an
+       identically configured Storage Area Network at Excelsior Springs High School for disaster
+       recovery, a single backup appliance at Elkhorn Elementary School.
+
+    4. ECC has an existing Dell VRTX with 3 VMware hosts running 16 Windows servers. The
+       new solution will have two physical hosts at each location connected to a centralized
+       storage via iSCSI.
+
+
+
+8
+    5. The Vendor shall provide all equipment specified in the bid requirements including any
+       wire management, cables, miscellaneous parts and labor for a complete and operational
+       network.
+
+    6. ESSD provided asset tags must be placed in a visible area on all equipment.
+
+    7. Awarded Vendor will provide a detailed testing methodology used to ensure the
+       system/Project is functioning to manufacturer specifications with its response. Other tests,
+       specific to installed equipment, may be required to ensure functionality.
+
+    8. Bidders must include a Bill of Material (BOM), along with line item pricing for all
+       components proposed. Failure to provide the BOM with line item pricing will result in the
+       disqualification of the bid proposal.
+
+    9. The vendor should include in their response the benefits that their system will provide
+       including, the unique feature set and the increased efficiencies that staff will realize. The
+       project will be properly engineered and designed to meet the technical requirements listed
+       below.
+
+
+
+TECHNICAL REQUIREMENTS
+
+Summary of Work
+
+    1. Establish design for a distributed architecture to ensure local survivability. Core
+       redundancy (Early Childhood Center and Excelsior Springs High School) with complete
+       failover must be provided to ensure maximum availability. The system should be able to
+       completely failover from one internal data center to the other with minimal disruption of
+       service. The servers should allow for the balancing of load between the two data centers
+       during normal operation.
+
+    2. A storage area network at Excelsior Springs High School will be configured identically to
+       that of Early Childhood Center.
+
+    3. A backup appliance for the purpose of backing up mission-critical district services.
+
+    4. Hyper-V host servers at Early Childhood Center and Excelsior Springs High School to run
+       the virtual environment.
+
+    5. Option to migration current VMware VMs to Hyper-V VMs.
+
+
+Virtual Infrastructure
+
+
+
+9
+The vendor will be responsible for working with ESSD Technology to make any configuration
+changes to the existing network infrastructure required to support the virtualized server
+infrastructure.
+
+1. Host Servers must consist of the following:
+    ● The Host servers basis of design is the Dell PowerEdge Server but can be Dell, HP or
+       Lenovo.
+    ● Option to migrate from VMware ESX to Microsoft Hyper-V.
+    ● Four (4) identical Host Servers (2 in the Early Childhood Center and 2 in the Excelsior
+       Springs High School ) running a Microsoft Hyper-V environment.
+    ● Must support remote access such as iDRAC, iLO or equivalent.
+    ● All infrastructure components will be mounted in existing four-post racks unless otherwise
+       stated by the district.
+    ● The system will include 5 years of software/hardware maintenance options for:
+           a. The ability to contact the manufacturer directly for support at a minimum of 24x7
+               phone support and 4-hour mission-critical on-site support.
+           b. The ability to contact the manufacturer directly for support at a minimum of 8X5
+               phone support and next business day on-site support.
+
+SAN Storage Requirements
+
+ESSD currently has one Dell VRTX with three server blades, built in storage and one added DAS
+unit located at the Early Childhood Center.
+
+     1. Provide pricing for a replacement of the existing SAN Storage System with two new SAN
+        systems with 26TB of usable space each. The units may be a hybrid array, including
+        some solid-state drives for caching.
+     2. The systems will be located in the ECC data center and the ESHS data center (1 per site)
+     3. Fully integrated with VEEAM 9.5 or higher required including the ability to create and
+        restore storage snapshots that can be used to complete backup and replication
+        operations.
+     4. 10 Gb fiber Ethernet capable
+     5. Scalable to add additional storage as needed in the future
+            a. All infrastructure components will be mounted in existing four-post racks unless
+                otherwise stated by the district.
+            b. The system will include 5 years of software/hardware maintenance including the
+                ability to contact the manufacturer directly for support.
+
+Backup Target Requirements
+
+     1. Backup procedures currently use Veeam on backup servers and disk space on the
+        existing SAN.
+     2. One backup target, separate from primary storage, is required at Elkhorn Elementary
+        School.
+
+
+10
+     3. ESSD intends to repurpose the existing Dell VRTX and drive shelf to keep 30 days of
+        backups available at Elkhorn Elementary.
+
+
+Power Environment
+
+There is 208 and 110 power available at both the ECC data center and at the ESHS data center.
+Both data centers have an APC Symmetra LX UPS that provides backup power at the facilities.
+
+
+
+
+11
+PROJECT REQUIREMENTS
+
+Single Point of Responsibility
+
+ESSD expects to have a single point of contact, i.e. a single point of authority and a single
+contracting entity for this project. ESSD will not enter into any agreement that does not provide a
+single point of accountability for the installation of the system. If the vendor utilizes any
+subcontractors for any part of the system architecture, design, planning, installation or support it
+should be understood that the successful respondent will be the sole responsible party for all
+activities. It is the intent of this Request for Proposal that the responder provides a complete, end
+to end solution for the installation. The vendor shall provide design, planning, system architecture,
+installation, network analysis, training, and post-installation support for the project. The ESSD
+Technology Department will act as the consultant and Single Point of Responsibility for ESSD.
+
+Training
+
+The technical support staff will receive training from the vendor as part of “knowledge transfer”
+during and after implementation of virtualized server and storage infrastructure. Training to
+become self-sufficient in the configuration and operation of the virtualized server and storage
+infrastructure should be included for two Server Administrators.
+
+At the completion of the implementation, provide full system documentation including a full
+inventory of all products, licenses, configuration, and design. This should include the location of
+equipment/license, description/specifications, model, and serial number.
+
+Include the following training:
+• Hardware and software management training
+• Storage platform training
+• Backup target platform training
+
+
+Inventory
+
+An inventory of all deployed hardware to include serial number, ESSD barcode (as appropriate)
+and the location is required. A template will be provided at the appropriate time by the ESSD
+Technology Department.
+
+
+
+
+12
+PROJECT RESPONSE
+
+     1. Describe the overall architecture of the system.
+           a. Provide diagrams of the major system components. How will they connect to the
+               existing ESSD network?
+           b. Provide any hardware/software requirements for servers to support the virtualized
+               server infrastructure.
+           c. Indicate your inability to furnish a feature listed in this document by highlighting it
+               in your response.
+           d. Indicate any additional features that are not noted, but are included in the
+               recommended system as well as any that set your virtualized server infrastructure
+               and/or storage components apart from your competitor’s products and services.
+           e. Provide all necessary documentation of the system including product literature,
+               and spec sheets.
+
+     2. Provide a full system quote based on the requirements listed in this document.
+           a. The vendor is welcome to provide a quote for all or a portion of the requirements
+               as desired.
+           b. ESSD reserves the right to purchase equipment/services from more than one
+               vendor as is advantageous to the district.
+
+     3. Implementation
+           a. Provide a project plan to transition existing virtual infrastructure and storage
+              infrastructure to the new virtual infrastructure and storage infrastructure. This plan
+              needs to include a minimum amount of downtime.
+           b. Provide pricing for the “turnkey” implementation service where all tasks are
+              completed by the vendor.
+           c. Provide pricing for engineering, project management, and other critical, high-level
+              services with some work provided by ESSD Engineers.
+
+     4. Maintenance and Support.
+           a. Provide pricing for any other optional maintenance and support contracts/services
+           b. Note if the maintenance contract is partner/manufacturer maintenance or direct
+              manufacturer maintenance
+           c. Does the vendor offer any “value-adds” such as regular system checkups, system
+              upgrades, or any type of preventative maintenance?
+           d. For any items/services outside of the service contract, provide your company’s
+              time and materials charge.
+                  i.  Does that charge differ outside of normal business hours?
+                 ii.  What is your company’s definition of normal business hours?
+                iii.  Does your company charge for travel time for services?
+           e. Provide any ongoing maintenance costs to be incurred by the District.
+
+
+
+
+13
+Goods & Services Declaration
+
+Submit this signed Declaration along with your response.
+
+The vendor hereby declares understanding and agreement to provide the goods and services, at
+the prices quoted, in accordance with all terms and conditions, requirements, and specifications
+in this Request for Proposals. The Vender further agrees that upon receipt of an authorized
+purchase order from the District or when a Notice of Award is signed and issued by the District,
+a binding contract shall exist between the Vendor and the Districts. A signature is required below
+confirming understanding of this statement.
+
+                                        DECLARATION
+
+
+
+ Doing Business as (DBA) Name:                    Legal Name of Entity/Individual Filed with IRS
+                                                  for this TaxID No.
+
+
+
+ Mailing Address                                  IRS Form 1099 Mailing Address
+
+
+
+
+ City, State, Zip Code                            City, State, Zip Code
+
+
+
+
+ Contact Person                                   Email Address
+
+
+
+
+ Phone Number                                     Fax Number
+
+
+
+
+ Authorized Signature                             Date
+
+
+
+
+14
+ Printed Name                                        Title
+
+
+
+
+Felony Conviction Notification
+
+The person or business entity entering into an agreement with this school district must give
+advance notice to the District if the person or an owner or operator of the business entity has
+been convicted of a felony. The notice must include a general description of the conduct resulting
+in the conviction of a felony.
+
+The District may terminate this agreement with a person or business entity if the District
+determines that the person or business entity failed to give notice by the next preceding
+subsection or misrepresent the conduct resulting in the conviction. The District will compensate
+the buyers or business entity for services performed before the termination fof the agreement.
+
+By submitting this offer and signing this certificate, this bidder
+
+     ●   Certifies that the owner/operator has not been convicted of a felony, except as indicated
+         on a separate attachment to this offer, and
+     ●   Certifies that no employee who will enter school buildings or potentially have contact with
+         school children has been convicted fo any felony or misdemeanor involving violence or
+         sexual contact of sexual abuse. It shall be the duty of the vendor to conduct the appropriate
+         background checks on its employees, and the vendor agrees to share this information with
+         the District upon request.
+
+
+
+ Vendor Name
+
+
+
+
+ Mailing Address                                             City, State, Zip Code
+
+
+
+
+ Telephone Number                                            Fax Number
+
+
+
+
+15
+Authorized Signature   Date
+
+
+
+
+Printed Name           Title
+
+
+
+
+16
+

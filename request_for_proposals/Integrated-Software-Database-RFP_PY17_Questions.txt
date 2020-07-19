@@ -1,0 +1,341 @@
+Integrated	  Services	  Database	  Software	  RFP	  Questions	  and	  Answers	  
+	  
+       1. Is	  the	  total	  contract	  amount	  for	  the	  initial	  contract	  period	  (July	  1,	  2018	  –	  June	  30,	  2020)	  
+          $2,400,000	  (1,200,000	  year)?	  
+          	  
+          The	  initial	  contract	  will	  be	  awarded	  for	  a	  2-­‐year	  period	  (July	  1,	  2018	  through	  June	  30,	  2020)	  for	  a	  
+          total	  amount	  up	  to	  $2,400,000	  (up	  to	  $1,200,000	  per	  program	  year).	  	  The	  total	  amount	  of	  the	  
+          initial	  contract	  will	  not	  exceed	  the	  $2,400,000.	  	  This	  amount	  will	  be	  dependent	  upon	  WIOA	  
+          funding	  from	  the	  USDOL	  and	  may	  be	  subject	  to	  change.	  	  Please	  note	  that	  the	  amounts	  listed	  
+          above	  are	  “maximum”	  amounts	  and	  are	  subject	  to	  negotiations.	  	  Proposals	  from	  respondents	  of	  
+          this	  RFP	  and/or	  any	  contract	  resulting	  from	  this	  RFP	  may	  be	  less	  than	  the	  “maximum”	  amounts	  
+          noted	  above.	  
+          	  
+       2. Are	  hardware	  costs	  to	  be	  included	  in	  the	  price	  proposal?	  
+          	  
+          Yes,	  hardware	  costs	  are	  to	  be	  included	  in	  the	  proposal	  amount.	  	  Hardware	  should	  be	  itemized	  as	  
+          to	  what	  is	  needed.	  	  It	  may	  be	  subject	  to	  negotiations.	  
+          	  
+       3. What	  systems	  will	  the	  Integrated	  Services	  Database	  software	  replace?	  
+
+          The	  requested	  Integrated	  Services	  Database	  software	  will	  replace	  the	  Alabama	  JobLink	  system	  
+          for	  Wagner-­‐Peyser,	  Trade	  Act	  (TAA	  and	  R/TAA),	  Worker	  Profiling	  and	  Reemployment	  Services	  
+          (RESEA),	  Jobs	  for	  Veterans	  State	  Grants	  (JVSG),	  Food	  Assistance	  Employment	  and	  Training	  
+          Program,	  Temporary	  Assistance	  to	  Needy	  Families	  (TANF)	  JOBS	  program,	  Case	  Management	  for	  
+          WIOA,	  Unemployment	  Compensation	  work	  test,	  Self	  Service	  jobseeker	  and	  employer	  services,	  
+          the	  AlaWorks	  system	  for	  Adults,	  Dislocated	  Workers,	  Youth,	  and	  WIOA	  Reporting.	  	  It	  will	  also	  
+          replace	  the	  Integrated	  Electronic	  Linkage	  System	  (IELS).	  
+          	  
+       4. What	  remaining	  systems	  will	  the	  Integrated	  Services	  Database	  software	  need	  to	  interface?	  
+                 a. What	  is	  the	  frequency	  and	  expected	  size	  of	  each	  interface	  
+	  
+          Currently	  the	  Workforce	  Development	  Division	  (WDD)	  receives	  data	  files	  from	  the	  Alabama	  
+          JobLink	  System	  on	  a	  nightly	  basis	  that	  is	  downloaded	  into	  the	  AlaWorks	  system.	  	  WDD	  receives	  
+          data	  files	  from	  partner	  agencies,	  the	  Alabama	  Department	  of	  Rehabilitation	  Services,	  the	  Adult	  
+          Education	  Division	  of	  the	  Community	  College	  System,	  the	  Department	  of	  Human	  Resources,	  
+          SNAP	  and	  TANF	  programs,	  and	  those	  data	  files	  are	  downloaded	  into	  the	  IELS	  System	  on	  a	  
+          routine	  schedule.	  	  The	  only	  direct	  interface	  with	  AlaWorks	  is	  the	  IELS	  system.	  	  However,	  the	  
+          Alabama	  Joblink	  System	  has	  the	  Unemployment	  Insurance,	  New	  Hire	  and	  the	  TAA	  system	  
+          interface	  and	  with	  the	  Alabama	  Department	  of	  Human	  Resources	  for	  the	  Food	  Assistance	  
+          Employment	  and	  Training	  Program	  and	  for	  the	  Temporary	  Assistance	  to	  Needy	  Families	  (TANF)	  
+          JOBS	  program.	  	  Alabama	  Joblink	  interfaces	  are	  daily.	  
+          	  
+       5. Is	  the	  state	  requesting	  a	  vendor	  hosted	  or	  State	  hosted	  environment?	  
+          	  
+   The	  Department	  of	  Commerce,	  Workforce	  Development	  Division	  and	  our	  partners	  are	  
+   requesting	  a	  vendor	  hosted	  system.	  	  However,	  a	  State	  hosted	  system	  is	  an	  allowable	  option	  and	  
+   should	  be	  spelled	  out	  in	  the	  proposal.	  	  This	  will	  be	  subject	  to	  negotiations.	  
+   	  	  
+6. Is	  labor	  exchange	  functionality	  (create	  job	  orders,	  create	  resumes,	  job	  matching)	  to	  be	  included	  
+   in	  the	  Integrated	  Services	  Database	  software?	  	  	  
+
+   Yes,	  the	  labor	  exchange	  functionality	  is	  to	  be	  included	  in	  the	  Integrated	  Services	  Database	  
+   software.	  	  The	  labor	  exchange	  is	  a	  vital	  part	  of	  the	  services	  that	  are	  provided	  by	  the	  Alabama	  
+   Career	  Center	  System	  and	  should	  be	  accessible	  online	  365/24/7	  by	  self-­‐service	  jobseekers	  and	  
+   employers,	  as	  well	  as	  in	  the	  physical	  Career	  Center	  location.	  
+   	  
+   	  
+7. Please	  provide	  an	  estimated	  number	  of	  users	  for	  the	  following	  categories	  
+        a. Staff	  
+
+      Approximately	  150	  staff	  in	  Workforce	  Development	  Division	  and	  the	  Alabama	  Career	  Center	  
+      System	  use	  AlaWorks	  system.	  	  Approximately	  50	  staff	  in	  Workforce	  Development	  Division,	  the	  
+      Department	  of	  Human	  Resources,	  the	  Department	  of	  Rehabilitation	  Services,	  and	  the	  Alabama	  
+      Career	  Center	  System	  use	  the	  IELS	  system.	  Alabama	  JobLink	  has	  923	  active	  Case	  Manager	  
+      accounts.	  
+
+       a. Jobseekers	  
+              Zero	  for	  AlaWorks	  and	  IELS;	  Alabama	  JobLink	  has	  1,107,960	  jobseeker	  accounts.	  
+       b. Employers	  
+              Zero	  for	  AlaWorks	  and	  IELS;	  Alabama	  JobLink	  has	  92,637	  employer	  accounts.	  
+              	  
+       	  
+8. Please	  provide	  current	  database	  records	  counts	  for	  conversion	  estimation	  
+       a. Unique	  jobseekers:	  JobLink	  1,107,960;	  Alaworks	  76,656;	  IELS	  319,797	  
+       b. Jobseeker’s	  activities	  records	  JobLink	  -­‐	  	  
+                       i. 1,135,422	  resume	  records	  
+                      ii. 1,625,472	  job	  referrals	  
+                    iii. 455,193	  job	  placements	  
+                     iv. 614,780	  client	  notes	  
+                      v. 1,020,153	  program	  notes	  
+                     vi. 7,353,645	  services	  
+                    vii. 8,022,318	  wage	  records	  
+                   viii. 14,601	  scanned	  documents	  records,	  	  8,919,896	  kb,	  608	  GB	  data	  in	  use	  
+                     ix. 43,077	  test	  scores	  
+                      x. 92.2	  GB	  archived	  data	  
+                     xi. 283	  GB	  reporting	  data	  
+                    xii. 185	  GB	  production	  DB	  
+       c. Job	  Orders	  JobLink	  1,588,608;	  Alaworks	  nor	  IELS	  have	  these	  
+       d. Employers	  JobLink	  92,637;	  Alaworks	  nor	  IELS	  have	  these	  
+              	  
+9. The	  RFP	  file	  provided	  appears	  to	  contain	  the	  RFP	  twice.	  Please	  confirm	  that	  the	  RFP	  ends	  on	  
+    page	  17	  and	  that	  there	  is	  no	  additional	  or	  different	  information	  in	  pages	  18	  through	  31.	  	  
+    	  
+    The	  RFP	  that	  is	  currently	  available	  on	  the	  STAARS	  system	  has	  a	  duplicate	  copy	  of	  the	  RFP	  
+    included.	  	  The	  original	  and	  correct	  version	  of	  the	  RFP	  is	  page	  1	  –	  17.	  	  Pages	  18	  –	  31	  are	  
+    duplicates.	  	  Please	  disregard	  Pages	  18	  -­‐	  31.	  	  There	  is	  no	  additional	  or	  revised	  information	  
+    included	  on	  those	  pages.	  	  A	  copy	  of	  the	  RFP	  is	  also	  listed	  on	  the	  www.madeinalabama.com	  
+    website.	  	  	  
+    	  
+10. Do	  the	  Alabama	  Department	  of	  Commerce	  and	  its	  partners	  prefer	  or	  require	  a	  vendor	  hosted	  or	  
+    remote-­‐hosted	  solution?	  	  
+    	  
+    The	  Department	  of	  Commerce,	  Workforce	  Development	  Division	  and	  our	  partners	  are	  
+    requesting	  a	  vendor	  hosted	  system.	  	  However,	  a	  State	  hosted	  system	  is	  an	  allowable	  option	  and	  
+    should	  be	  spelled	  out	  in	  the	  proposal.	  	  This	  will	  be	  subject	  to	  negotiations.	  
+    	  
+11. Are	  the	  workforce	  partners	  listed	  in	  the	  RFP	  open	  to	  using	  a	  single,	  fully-­‐integrated	  system	  if	  
+    that	  system	  meets	  the	  RFP	  requirements?	  
+    	  
+    The	  Alabama	  Department	  of	  Commerce,	  Workforce	  Development	  Division	  and	  the	  Alabama	  
+    Department	  of	  Labor	  which	  are	  responsible	  for	  WIOA	  Title	  I	  and	  III	  services	  are	  primary	  
+    recipients	  of	  the	  single,	  integrated	  system.	  	  The	  Alabama	  Community	  College	  System,	  Adult	  
+    Education	  Division,	  WIOA	  Title	  II,	  and	  the	  Alabama	  Department	  of	  Rehabilitation	  Services,	  WIOA	  
+    Title	  IV,	  currently	  have	  their	  own	  proprietary	  data	  systems	  and	  are	  not	  included	  in	  this	  
+    integrated	  system	  RFP.	  	  However,	  partners	  will	  be	  provided	  any	  information	  should	  the	  
+    integrated	  system	  have	  their	  program	  requirements	  included.	  	  This	  should	  be	  spelled	  out	  as	  an	  
+    option	  but,	  the	  proposals	  should	  specifically	  address	  the	  services	  and	  requirements	  for	  Adults,	  
+    Dislocated	  Workers,	  Youth,	  Labor	  Exchange,	  and	  TAA	  programs.	  	  	  
+    	  	  	  
+12. Would	  the	  combination	  of	  an	  existing	  system	  and	  a	  portal	  solution	  be	  considered?	  	  
+    	  
+    Yes,	  this	  option	  would	  be	  considered.	  	  The	  current	  AlaWorks	  and	  IELS	  systems	  are	  not	  internet	  
+    based	  and	  are	  an	  ORACLE	  platform.	  	  The	  Alabama	  Department	  of	  Commerce,	  Workforce	  
+    Development	  Division	  currently	  has	  a	  contract	  to	  perform	  the	  maintenance	  on	  these	  two	  
+    systems.	  	  The	  Alabama	  Joblink	  System	  is	  an	  internet	  based	  system.	  The	  Alabama	  Department	  of	  
+    Labor	  currently	  has	  a	  contract	  with	  AJLA	  for	  the	  Joblink	  System.	  	  This	  option	  would	  need	  to	  
+    specifically	  address	  how	  it	  would	  complement,	  change	  or	  replace	  the	  current	  data	  systems.	  
+    	  
+13. Which	  partners’	  existing	  systems	  does	  this	  RFP	  seek	  to	  replace?	  	  
+    	  
+    The	  requested	  Integrated	  Services	  Database	  software	  will	  replace	  the	  Alabama	  Joblink	  system	  
+    for	  Labor	  Exchange	  at	  the	  Alabama	  Department	  of	  Labor,	  the	  AlaWorks	  system	  for	  Adults,	  
+    Dislocated	  Workers,	  Youth,	  and	  WIOA	  Reporting.	  	  It	  will	  also	  replace	  the	  Integrated	  Electronic	  
+    Linkage	  System	  (IELS).	  	  The	  AlaWorks	  and	  the	  IELS	  systems	  are	  not	  internet	  based.	  These	  
+    systems	  are	  at	  the	  Alabama	  Department	  of	  Commerce,	  Workforce	  Development	  Division.	  
+    	  
+14. On	  page	  6,	  section	  A.	  it	  states,	  “All	  of	  the	  above	  services	  and	  others	  should	  be	  included	  in	  the	  
+    software	  package	  chosen	  by	  the	  Alabama	  Workforce	  Development	  System.”	  Please	  specify	  
+    which	  “other”	  services	  should	  be	  included.	  Does	  this	  include	  Vocational	  Rehabilitation	  services?	  	  	  
+    	  
+    Other	  services	  may	  include	  state	  funded	  programs	  such	  as	  the	  Alabama	  Apprenticeship	  Program	  
+    or	  discretionary	  grants	  or	  other	  workforce	  grants	  or	  programs.	  	  This	  may	  also	  include	  services	  or	  
+    programs	  initiated	  as	  a	  result	  of	  cooperative	  agreements	  between	  Human	  Resources,	  Senior	  
+    Services,	  or	  others.	  	  This	  does	  not	  include	  the	  Vocational	  Rehabilitation	  Services	  as	  they	  are	  
+    under	  the	  Alabama	  Department	  of	  Rehabilitation	  Services	  and	  have	  their	  own	  proprietary	  data	  
+    system.	  	  	  
+    	  
+15. July	  1,	  2018	  is	  referred	  to	  both	  as	  the	  Contract	  Effective	  Date	  and	  the	  Program	  Implementation	  
+    date.	  Please	  clarify	  whether	  July	  1,	  2018	  is	  the	  date	  the	  project	  should	  commence,	  or	  the	  date	  
+    the	  selected	  solution	  should	  “go	  live.”	  	  
+    	  
+    July	  1,	  2018	  is	  the	  beginning	  of	  the	  WIOA	  Program	  Year	  which	  means	  that	  funding	  for	  this	  RFP	  
+    will	  be	  available	  on	  this	  date	  and	  since	  the	  funding	  will	  be	  available,	  the	  contract	  will	  be	  
+    awarded	  for	  the	  effective	  date,	  July	  1,	  2018.	  	  WDD	  does	  not	  expect	  that	  the	  selected	  software	  
+    solution	  will	  “go	  live”	  until	  later	  in	  Program	  Year	  2018.	  	  The	  Program	  Years	  run	  from	  July	  1	  
+    through	  June	  30.	  
+    	  
+16. Please	  specify	  the	  desired	  “go	  live”	  date	  for	  the	  selected	  solution.	  	  
+    	  
+    WDD	  is	  unable	  to	  determine	  a	  specific	  “go	  live”	  date	  at	  this	  time.	  	  It	  will	  depend	  on	  a	  number	  of	  
+    variables	  to	  include	  negotiations,	  records	  conversion,	  testing.	  	  It	  is	  expected	  that	  the	  system	  will	  
+    “go	  live”	  no	  later	  than	  March	  31,	  2019.	  
+    	  
+17. Section	  VI.C.	  Proposal	  Content	  and	  Organization,	  page	  15,	  indicates	  that	  proposals	  must	  include	  
+    a	  response	  to	  mandatory	  and	  desired	  technical	  specifications.	  Please	  clarify	  where	  in	  the	  RFP	  
+    the	  mandatory	  and	  desired	  technical	  specifications	  are	  listed.	  Are	  they	  on	  page	  8	  and	  9,	  sections	  
+    F.1	  (“The	  expected	  outcomes	  include…”)	  and	  F.2	  Additional	  Elements	  of	  Integrated	  Technology	  
+    Solutions?	  
+    	  
+    The	  technical	  specifications	  that	  are	  required	  would	  be	  the	  USDOL	  Reporting	  requirements	  for	  
+    the	  Adult,	  Dislocated	  Workers,	  Youth,	  Dislocated	  Worker	  Grants,	  Labor	  Exchange,	  and	  Trade	  
+    Adjustment	  Act.	  	  These	  specifications	  are	  listed	  in	  the	  PIRL,	  TEGLs	  and	  other	  Reporting	  
+    documents	  issued	  by	  the	  USDOL.	  	  	  
+    	  
+18. Where	  is	  Attachment	  A	  –	  Transmittal	  Document	  available	  for	  download	  and	  completion?	  	  
+    	  
+    The	  wording	  “Attachment	  A”	  should	  have	  been	  deleted.	  	  The	  Transmittal	  document	  is	  a	  letter	  
+    that	  provides	  information	  in	  VI.	  E.	  a.	  i–iv.	  that	  identifies	  the	  submitting	  organization,	  person	  
+    authorized	  by	  the	  organization	  to	  negotiate	  and	  contract	  for	  the	  organization.	  
+    	  
+19. Where	  is	  the	  Cost	  Response	  Form	  available	  for	  download	  and	  completion?	  
+    	  
+    There	  is	  not	  a	  Cost	  Response	  Form.	  	  The	  wording	  should	  have	  been	  changed	  to	  Cost	  Proposal	  to	  
+    read	  the	  same	  as	  it	  is	  in	  other	  places	  in	  the	  RFP.	  
+           	  
+       20. Depending	  on	  the	  length	  of	  the	  proposal,	  can	  it	  be	  bound	  in	  a	  three-­‐ring	  binder	  instead	  of	  
+           stapled	  or	  clipped	  in	  the	  upper	  left	  corner?	  	  
+           	  
+           Yes,	  a	  three-­‐ring	  binder	  is	  acceptable.	  	  	  
+           	  	  
+       21. Is	  item	  (k)	  Other	  Supporting	  Material	  Including	  Technical	  System	  Documentation	  in	  Section	  6.E	  
+           (p.	  16)	  required	  to	  be	  included	  in	  the	  proposal?	  If	  so,	  please	  specify	  what	  type	  of	  other	  
+           supporting	  material	  and/or	  technical	  system	  documentation	  is	  desired/required.	  	  
+           	  
+           It	  will	  not	  count	  against	  the	  proposal	  if	  left	  unanswered.	  	  If	  there	  are	  materials	  that	  support	  the	  
+           proposal	  that	  would	  not	  fit	  into	  the	  other	  items,	  it	  may	  be	  included	  here.	  
+           	  
+       22. In	  Section	  V.A	  Cost	  Proposal,	  please	  clarify	  what	  is	  meant	  by	  (12)	  Updates	  to	  supplemental	  files,	  
+           perhaps	  by	  providing	  an	  example.	  	  
+           	  
+           Updates	  to	  supplemental	  files	  would	  be	  providing	  data	  files	  to	  partner	  agencies,	  Adult	  
+           Education,	  Department	  of	  Rehabilitation	  Services,	  Department	  of	  Human	  Resources,	  Job	  Corps,	  
+           etc.	  on	  a	  regular	  basis	  in	  order	  to	  share	  participant	  data.	  	  	  
+	  
+       23. Sections	  G.2	  Proposal	  Content	  (p.	  10)	  and	  VI.E	  Proposal	  Organization	  (p.	  15)	  do	  not	  match.	  For	  
+           example,	  the	  order	  of	  the	  Executive	  Summary	  and	  Table	  of	  Contents	  are	  reversed.	  Please	  clarify	  
+           the	  section	  titles	  desired	  in	  the	  proposal	  and	  the	  order	  in	  which	  they	  should	  appear.	  
+           	  
+           Page	  10	  is	  incorrect.	  	  Page	  15	  is	  correct.	  	  The	  order	  should	  be	  Table	  of	  Contents	  then	  the	  
+           Executive	  summary.	  
+           	  
+       24. Should	  the	  response	  to	  Technical	  Requirements/Specifications	  be	  its	  own	  section	  or	  included	  in	  
+           G.2.e.	  Narrative	  to	  include	  budget?	  	  
+	  
+           It	  can	  be	  its	  own	  section	  or	  it	  may	  be	  included	  in	  the	  narrative	  section.	  	  Author’s	  discretion	  may	  
+           be	  used	  to	  determine	  the	  best	  fit	  for	  the	  proposal.	  
+           	  
+       25. Please	  clarify	  whether	  “budget”	  in	  G.2.e	  Narrative	  to	  include	  budget	  and	  G.2.e	  Completed	  Cost	  
+           Response	  Form	  are	  the	  same	  or	  different.	  If	  the	  budget	  is	  not	  the	  same	  as	  the	  cost	  response,	  
+           please	  clarify	  what	  budget	  information	  is	  desired	  in	  the	  narrative.	  	  
+	  
+           The	  wording	  should	  be	  changed	  to	  Cost	  Proposal	  to	  read	  the	  same	  as	  it	  is	  in	  other	  places	  in	  the	  
+           RFP.	  	  There	  is	  not	  a	  separate	  Cost	  Response	  Form.	  	  	  
+           	  	  
+       26. Please	  specify	  the	  content	  requirements	  for	  G.2.d	  Demonstrated	  Ability	  and	  Past	  Performance.	  	  
+	  
+             This	  section	  should	  demonstrate	  the	  organization’s	  ability	  to	  provide	  a	  proven	  and	  tested	  
+             software	  solution	  for	  an	  integrated	  participant	  data	  and	  case	  management	  and	  reporting	  
+             system.	  	  Past	  performance	  should	  indicate	  the	  software	  product/solution	  works	  effectively	  and	  
+             efficiently.	  	  Include	  examples	  of	  past	  successes	  and	  names	  of	  agencies,	  companies,	  etc.	  
+             	  
+             	  
+       27. Please	  specify	  the	  content	  requirements	  for	  G.2.f.	  Qualifications	  and	  References.	  How	  many	  
+           references	  are	  required?	  	  	  
+           	  
+           References	  are	  not	  required,	  although	  they	  are	  recommended.	  	  If	  references	  are	  not	  available,	  
+           indicate	  that	  in	  this	  section.	  
+           	  
+	  
+       28. Please	  clarify	  G.2.i	  Copy	  of	  completed	  E-­‐Verify	  to	  include	  signature	  page.	  Where	  is	  this	  located?	  	  
+	  
+           This	  is	  the	  link	  to	  register	  with	  E-­‐Verify:	  https://www.uscis.gov/e-­‐verify.	  	  	  Once	  a	  company	  is	  
+           registered,	  the	  document	  is	  electronically	  signed;	  and	  a	  copy	  of	  The	  E-­‐Verify	  Memorandum	  of	  
+           Understanding	  for	  Employers	  can	  be	  printed,	  which	  may	  be	  a	  total	  of	  17	  pages	  -­‐	  +/-­‐.	  
+           	  
+       29. In	  what	  section	  of	  the	  proposal	  should	  the	  “Detailed	  description	  of	  Vendor’s	  firm”	  (VI.C.b,	  p.	  15)	  
+           be	  included?	  The	  Executive	  Summary,	  the	  Narrative	  to	  include	  budget,	  or	  somewhere	  else?	  	  	  
+	  
+             It	  should	  be	  included	  in	  the	  Executive	  Summary	  section.	  	  	  
+	  
+       30. The	  Alabama	  Dept.	  of	  Commerce/Workforce	  Development	  Commission	  comprises	  7	  different	  
+           regions	  with	  various	  roles	  and	  responsibilities.	  	  Do	  you	  envision	  training	  conducted	  in	  one	  
+           location	  in	  each	  of	  the	  seven	  regions,	  one	  central	  location	  (such	  as	  Montgomery),	  or	  separate	  
+           WIOA	  training	  events	  at	  each	  of	  the	  offices	  responsible	  for	  managing	  the	  program?	  	  	  This	  will	  
+           help	  estimate	  the	  training	  duration	  and	  timeline.	  	  
+	  
+           It	  is	  expected	  that	  training	  would	  be	  provided	  at	  the	  Workforce	  Development	  Division’s	  office	  in	  
+           Montgomery.	  	  Any	  training	  that	  may	  be	  done	  in	  the	  Career	  Centers	  or	  Local	  Areas	  will	  be	  done	  
+           by	  WDD	  and	  partner	  staff.	  	  	  
+           	  
+       31. Do	  you	  propose	  that	  the	  winning	  offeror	  provide	  defined	  “Train	  the	  Trainer”	  Training	  for	  a	  
+           specific	  number	  of	  Alabama	  WIOA	  staff,	  who	  will	  then	  train	  their	  staff	  on	  the	  new	  system,	  or	  
+           training	  that	  encompasses	  all	  WIOA	  staff	  in	  the	  state?	  
+           	  
+           The	  winning	  contract	  recipient	  will	  be	  expected	  to	  provide	  “Train	  the	  Trainer”	  training	  for	  WDD	  
+           and	  partner	  staff.	  	  It	  will	  be	  the	  responsibility	  of	  the	  WDD	  staff	  to	  train	  the	  Local	  Area	  and	  Career	  
+           Center	  staff.	  	  	  
+	  
+       32. In	  direct	  correlation	  to	  the	  above	  question,	  what	  is	  the	  total	  number	  of	  staff	  users	  to	  be	  trained?	  
+           This	  would	  be	  the	  normal	  agency	  user	  who	  would	  use	  the	  system	  to	  work	  with	  any	  part	  of	  the	  
+           WIOA	  program	  participant	  process,	  such	  as	  setting	  up	  a	  user	  account,	  entering	  data,	  
+           documenting	  services	  provided,	  etc.	  
+	  
+             The	  total	  number	  of	  staff	  to	  be	  trained	  would	  be	  approximately	  35	  WDD	  and	  partner	  staff.	  	  Of	  
+             these,	  approximately	  12	  WDD	  and	  partner	  staff	  would	  be	  the	  trainers	  for	  the	  Career	  Center	  and	  
+             Local	  area	  staff.	  
+	  
+       33. Pages	  18-­‐31	  appear	  to	  be	  duplicates	  of	  pages	  4-­‐17.	  	  Please	  clarify	  if	  there	  is	  additional	  
+           information	  that	  was	  intended	  to	  be	  included	  on	  pages	  18-­‐31.	  
+
+           The	  RFP	  that	  is	  currently	  available	  on	  the	  STAARS	  system	  has	  a	  duplicate	  copy	  of	  the	  RFP	  
+           included.	  	  The	  original	  and	  correct	  version	  of	  the	  RFP	  is	  page	  1	  –	  17.	  	  Pages	  18	  –	  31	  are	  
+           duplicates.	  	  Please	  disregard	  Pages	  18	  -­‐	  31.	  	  There	  is	  no	  additional	  or	  revised	  information	  
+           included	  on	  those	  pages.	  	  A	  copy	  of	  the	  RFP	  is	  also	  listed	  on	  the	  www.madeinalabama.com	  
+           website.	  	  	  
+           	  
+       34. Page	  10,	  item	  2.	  Proposal	  Content	  –	  item	  “a”	  references	  Transmittal	  Document	  (Attachment	  A),	  
+           but	  there	  is	  no	  Attachment	  A	  included	  in	  the	  RFP.	  
+           	  
+           The	  wording	  “Attachment	  A”	  should	  be	  deleted.	  	  The	  Transmittal	  document	  is	  a	  letter	  that	  
+           provides	  information	  in	  VI.	  E.	  a.	  i–iv.	  that	  identifies	  the	  submitting	  organization,	  person	  
+           authorized	  by	  the	  organization	  to	  negotiate	  and	  contract	  for	  the	  organization.	  
+           	  
+       35. Page	  14,	  V.	  Cost	  Proposal.	  	  Item	  (2)	  Data	  Conversion	  –	  please	  provide	  details	  on	  the	  data	  to	  be	  
+           converted,	  including	  data	  sources,	  amount	  of	  data.	  
+	  
+           Please	  refer	  to	  question	  8.	  	  	  
+           	  
+       36. Page	  8,	  Section	  F	  –	  Can	  you	  provide	  more	  details	  on	  “replacing	  existing	  systems”	  and	  
+           “connectivity	  among	  other	  existing	  State	  IT	  systems	  and	  databases”?	  
+
+           The	  requested	  Integrated	  Services	  Database	  software	  will	  replace	  the	  Alabama	  Joblink	  system	  
+           for	  Labor	  Exchange	  at	  the	  Alabama	  Department	  of	  Labor,	  the	  AlaWorks	  system	  for	  Adults,	  
+           Dislocated	  Workers,	  Youth,	  and	  WIOA	  Reporting.	  	  It	  will	  also	  replace	  the	  Integrated	  Electronic	  
+           Linkage	  System	  (IELS).	  	  The	  AlaWorks	  and	  the	  IELS	  systems	  are	  not	  internet	  based.	  	  These	  
+           systems	  are	  at	  the	  Alabama	  Department	  of	  Commerce,	  Workforce	  Development	  Division.	  
+           	  
+       37. Page	  13,	  Section	  D.5	  indicates	  that	  “The	  vendor	  should	  be	  able	  to	  provide	  a	  plan	  for	  disaster	  
+           recovery	  and	  restoration	  including	  but	  not	  limited	  to	  data	  recovery	  and	  system	  
+           restoration.”	  	  Should	  this	  plan	  be	  provided	  as	  part	  of	  this	  proposal	  or	  is	  the	  intention	  to	  provide	  
+           it	  after	  the	  contract	  is	  executed?	  
+	  
+           The	  proposal	  should	  indicate	  that	  the	  organization	  has	  the	  ability	  to	  develop	  and	  provide	  a	  plan	  
+           for	  disaster	  recovery	  and	  restoration.	  	  A	  plan	  specific	  to	  WDD	  and	  partner	  agencies	  would	  be	  
+           developed	  after	  the	  contract	  is	  executed	  as	  one	  of	  the	  deliverables.	  	  	  
+           	  
+       38. The	  proposal	  references	  a	  “Completed Cost Response Form,” but there is no form included in the
+           RFP.	  
+
+             There	  is	  not	  a	  Cost	  Response	  Form.	  	  The	  wording	  should	  have	  been	  changed	  to	  Cost	  Proposal	  to	  
+             read	  the	  same	  as	  it	  is	  in	  other	  places	  in	  the	  RFP.	  
+             	  
+       39. The	  page	  10	  list	  of	  the	  proposal	  content	  differs	  from	  page	  15	  E	  Proposal	  Organization	  (for	  
+           example,	  the	  Table	  of	  Contents	  and	  Executive	  Summary	  are	  reversed).	  How	  should	  the	  proposal	  
+           be	  organized?	  
+           	  
+           Page	  10	  is	  incorrect.	  	  Page	  15	  is	  correct.	  	  The	  order	  should	  be	  Table	  of	  Contents	  then	  the	  
+           Executive	  summary.	  
+	  
+       40. Page	  6	  (and	  in	  the	  first	  paragraph	  on	  page	  11)	  states	  that	  the	  contract	  is	  two	  years	  with	  option	  
+           to	  renew	  for	  another	  5	  years,	  but	  then	  on	  page	  16,	  under	  contract	  term,	  the	  RFP	  states	  contract	  
+           is	  for	  five	  years.	  What	  is	  the	  duration	  of	  the	  contract?	  
+           	  
+           The	  awarded	  contract	  will	  begin	  July	  1,	  2018	  and	  end	  June	  30,	  2020	  for	  a	  period	  of	  2	  years.	  	  
+           WDD	  may	  extend	  the	  maintenance	  contract	  annually	  up	  to	  an	  additional	  five	  (5)	  years	  provided	  
+           the	  entity	  is	  performing	  well	  and	  subject	  to	  available	  funding.	  	  The	  total	  period	  covered	  by	  this	  
+           RFP	  would	  be	  potentially	  seven	  (7)	  years.	  
+           	  
+	  
+	  
+

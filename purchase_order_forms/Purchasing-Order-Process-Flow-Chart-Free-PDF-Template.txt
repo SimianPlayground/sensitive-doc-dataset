@@ -1,0 +1,63 @@
+                            Purchase Order Process Flowchart
+
+                                               Department
+                                 Initiator gathers order details and sends                Purchasing
+                                            order request to the                      Determines Standard
+                                    Budget Administrator for Approval                  or Blanket PO and
+                                      (A PO Request Form can be used.)                     Processes
+
+
+
+
+                       No
+                                            Department                                 Accounting Director
+                                         Budget Administrator                        Signs/Approves purchase
+                                     Approves the order Yes or No?                            Order
+
+
+
+
+                                                           Yes
+
+
+
+                                              Department                                   Purchasing
+                                             Admin. Assistant                         Mails, scans or faxes the
+      Purchasing                  Checks for appropriate approval                     PO to the vendor
+     Requisition is               Enters a requisition in the system                  Retains a PO copy
+     cancelled and                Sends any attachments to Purchasing                 Forwards a PO copy to the
+     Department is                Services                                            Department
+       notified.                  Keeps a packet of all order materials on
+                                  hand for audit purposes
+
+
+                                                                                            Department
+                                                                                     Receives goods/services from
+                                                                                     Vendor
+                                                                                     Signs and dates a PO copy
+                                                                                     Attaches packing slip (if
+                                               Purchasing                            applicable) indicating that the
+                                           Runs a Batch Report                       order has been received and
+                                      1. Is account code correct?                    sends to Purchasing.
+                                     2. Is there budget capacity for
+                                                purchase?
+                            No                                               Yes
+                                                                                        Purchasing
+                                                                                      Matches receiving copy of
+                                                                                      PO to the invoice.
+ Color Legend                                                                         Receives goods/services
+                                                                                      online.
+                                                                                      Makes any needed
+Accounting Director                                                                   adjustments to the PO.
+                                                                                      Forwards to AP for payment
+                               Purchase Order                                         processing
+    Purchasing
+                                    Legend
+                      Symbol           Description
+   Department
+                                         Process
+                                                                                         Accounts Payable
+                                         Decision                                  Pays invoice and files payment
+ Accounts Payable
+                                        Start/End                                      packet in vendor file.
+

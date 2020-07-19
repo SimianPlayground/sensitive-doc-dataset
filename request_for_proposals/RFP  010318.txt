@@ -1,0 +1,606 @@
+                                     REQUEST FOR PROPOSAL
+                                  IV Workflow Management Software
+                                        RFP# 18-724872-BJ
+
+
+
+Date Issued:01/5/17                                 *QUESTION DUE DATE: 01/18/18
+Buyer Contact: Benjamin Joseph                      *SUBMITTAL DUE DATE: 02/06/18 , 3:00PM PST
+Tel # (916) 734 4364
+E-mail: bmjoseph@ucdavis.edu
+
+
+
+                                            Return Response to:
+
+                                                 Via email
+                   Subject line : IV Workflow Management Software , RFP#18-724872-BJ
+                                        Email: bmjoseph@ucdavis.edu
+
+
+                                          Purchasing Department
+                               University of California, Davis, Health System
+                                        4800 2nd Avenue, Suite 3010
+                                          Sacramento, CA 95817
+
+           The University of California Davis, Medical Center Web address for downloading this
+                        Document and any updates until the submittal due date is:
+                                  http://www.ucdmc.ucdavis.edu/matmgt/
+REQUEST FOR PROPOSAL CONTENTS
+  • I.     Introduction
+  • II.    Statement of Work
+  • III.   Bidder Inquiries
+  • IV.    Proposal Submittal Instructions
+  • V.     RFP Process Timelines
+  • VI.    Pricing and Term
+  • VII.   Addendum or Supplement to Request for Proposal
+  • VIII   Basis of Award
+  • IX.    Bid Acceptance
+  • X.     Proposal Conditions
+  • XI.    Terms and Conditions
+  • XII.   General Information / Certification
+  • XIII. Offshoring of Services
+
+    Attachments
+   • Attachment 1 Mandatory Qualifications (Tier 1)
+   • Attachment 2 Technical Qualification (Tier 2)
+   • Attachment 3 Pricing proposal
+   • Attachment 4a Software License Agreement
+   • Attachment 4b University of California Terms and Conditions
+   • Attachment 5 Appendix HIPAA BAA
+   • Attachment 6 Data Security and Privacy Appendix
+   • Documents to review, not necessary to complete until Demo phase and will be required of the top 1 to 3 candidates (See
+        Section VI. Basis of Award,
+         a. Attachment 7.1 - Technology Evaluation Checklist.pdf
+         b. Attachment 7.2 - Technology Questionnaire v2.4.docx
+         c. Attachment 7.3 - IT Evaluation Security Questionnaire v2.xlsx
+
+
+
+Deviations from specifications: Any deviation from the specifications shall be identified and fully described. The right is
+reserved to accept or reject quotations on each item separately, or as a whole, and to waive any irregularities in the
+quotation; irregularities may, however, render the quotation non-responsive.
+
+Public disclosure: Responses to Become Public Records: All materials submitted in response to this solicitation become a
+matter of public record and shall be regarded as public record.
+
+Designation of Confidential Information:
+The Regents will recognize as confidential only those elements in each response, which are trade secrets as that term is
+defined in the law of California and which are clearly marked as ‘TRADE SECRET, ’’CONFIDENTIAL,’ or
+‘PROPRIETARY.’ Vague designations and blanket statements regarding entire pages or documents are insufficient and
+shall not bind The Regents to protect the designated matter from disclosure.
+
+The California Public Records Act limits The Regents’ ability to withhold prequalification and bid data to trade secrets or
+records, the disclosure of which is exempt or prohibited pursuant to federal or state law. If a submittal contains any trade
+secrets that a Contractor does not want disclosed to the public or used by The Regents for any purpose other than evaluation
+of the Contractor’s eligibility, each sheet of such information must be marked with the designation “Confidential.” The
+Regents will notify the submitter of data so classified of any request to inspect such data so that the submitter will have an
+opportunity to establish that such information is exempt from inspection in any proceeding to compel inspection.
+The Regents Not Liable for Required Disclosure:
+The Regents shall not in any way be liable or responsible for the disclosure of any records if they are not plainly marked
+‘TRADE SECRET,’ CONFIDENTIAL,’ or ‘PROPRIETARY,’ or if disclosure is required by law or by an order of the
+court.
+I.      INTRODUCTION
+
+University of California at Davis Health Profile
+
+The University of California, Davis Health (UCDH) provides the organizational framework that enables the
+University of California, Davis to fulfill teaching, research, patient-care and public service missions. It consists of
+the School of Medicine (SOM), the UC Davis Medical Center (UCDMC), the UC Davis Medical Group and several
+specific centers, such as the UC Davis Cancer Center, the UC Davis Children’s Hospital and the UC Davis M.I.N.D.
+Institute. Together they deliver primary, secondary and tertiary care throughout inland Northern California. The UC
+Davis Medical Group, the health system’s physician network, includes over 500 physicians and 150 areas of medical
+specialty geographically dispersed in 25 locations.
+
+UCDH is one of five teaching hospitals operated by The Regents of the University of California. UCDMC is a 619-
+bed, fully accredited hospital, which serves as the main clinical education site for the UCD School of Medicine.
+Prior to its acquisition by The Regents in 1973, the hospital was owned and operated by Sacramento County and
+served as the primary provider of health care to Sacramento’s medically indigent population.
+
+UCDH is the sole Level 1 trauma center serving the Sacramento-Sierra area and the primary tertiary care referral
+center for a 32-county area of more than five million residents. Each year UCDH admits approximately 33,000
+inpatients, while its 150-plus clinics log more than 828,000 outpatients and emergency visits.
+
+UCDH consists of the Medical Center with a Level I Trauma Center, as stated above, hospital campus based clinics,
+along with outlying clinics, known as the Patient Care Network (PCN).
+
+Thank you for your interest in the University of California, Davis Health. (UCDH)
+
+
+II. Statement of Work
+
+ UC Davis Health is pursuing the acquisition of a software for the management of the IV workflow from
+ commercial providers of IV workflow management software and seeks to improve its pharmacy performance,
+ minimize pharmacist time, improve productivity and provide higher level of medication safety in the IV sterile
+ compounding process. The primary goal of this acquisition is to provide the solution, services and training
+ necessary for the department of pharmacy for use in all areas where sterile and non-sterile compounding occurs.
+ We require vendor to be live in minimum of 10 sites on EPIC EMR.
+
+Requirement #1
+    • IV Workflow Software that has ability to integrate with EPIC EMR system for use in all sterile and Non-
+       Sterile compounding, .
+           a) The number of required resources indicated below is an estimate for requirements at UCDH for
+                locations where software will be used.
+                      • Sterile Compounding Locations-3
+                      • Sterile Compounding Hoods-12
+           b) Non-Sterile Compounding Locations 3
+
+Requirement #2
+    • Live in 10 facilities utilizing EPIC EMR System
+           a) Provide 3 reference sites
+Requirement #3
+   • The IV Workflow solution shall provide photo verification of medication dose prepared prior to and after
+       admixture with capability for remote verification by pharmacists of each IV medication prepped without
+       the use of proprietary equipment.
+
+The IV Workflow solution shall achieve the technical objectives(refer Technical Qualifications-Attachment 2) to
+achieve a high degree of confidentiality, integrity, reliability and availability in accordance with the industry
+standards.
+
+The solution shall offer the necessary redundancy, resiliency, and contingency capabilities to ensure service
+availability that meets Department of Pharmacy current and future needs.
+
+III.    BIDDER INQUIRES
+
+Questions or requests for clarification regarding the RFP must be submitted to UC Davis Health, Benjamin Joseph,
+via email: bmjoseph@ucdavis.edu no later than 01/18/18 by 3:00 pm PST. Individual questions will not be
+answered directly to submitter. All questions submitted shall be responded to as an Addendum to this RFP. The
+Addendum will be provided to each qualified responder of record and posted on the UCDH Purchasing web site at:
+http://www.ucdmc.ucdavis.edu/matmgt/. The identity of the submitter of any particular question will not be
+disclosed. Inquiries and questions regarding this RFP will not be entertained after 1/18/18. Answers will be posted
+at the above Purchasing web site by 01/23/18.
+
+ It is Supplier’s responsibility to read the entire RFx document, including any attachments, references and
+amendments, and to comply with all requirements listed herein.
+
+IV.     PROPOSAL SUBMITTAL INSTRUCTIONS
+
+All proposals submitted must be received in the UCDH Purchasing Department no later than 3:00 PM 02/06/18 via
+Email to Benjamin Joseph, bmjoseph@ucdavis.edu. Please put “RFP# 18-724872-BJ/ IV Workflow Management
+Software” in the subject line.
+NOTICE: UCDH Purchasing Department will not accept proposal responses received after the due date and time.
+
+V.      RFP PROCESS TIMELINE
+Bidders interested in submitting proposals in response to this RFP should do so according to the following schedule.
+A Bidder may be disqualified for failing to adhere to the dates and times for performance specified below; please
+note that dates are subject to change at UC’s discretion.
+
+         Release of Request for Proposal                                                          01/05/17
+         Deadline for Submission of Written Questions or Request for                              01/18/18
+         Clarifications
+         Response back to vendors with answers for clarification                                  01/23/18
+         Deadline for receipt of Vendors’ Proposals by 3 PM, PST                                  02/06/18
+         *Demos if requested and IT Evaluation                                                        TBD
+         *Expected execution of contract                                                              TBD
+         *Awardee commencement of project                                                             TBD
+VI.       PRICING AND TERM
+
+The University desires to enter into an agreement with the successful Bidder for an initial term of three (3)- five (5)
+years, with the option to renew in one year increments for an additional two (2) years. The anticipated
+commencement date is to be in 2018.
+Bidder must present its best and final pricing, including a complete description of any additional value Bidder will
+add. Bidder must fully complete the pricing proposals.
+
+
+VII.      ADDENDUM OR SUPPLEMENT TO REQUEST FOR PROPOSAL
+
+UCDH may modify this RFP prior to the RFP due date by issuance of amendments sent by email, facsimile,
+overnight courier or mail to all vendors who receive a copy of this RFP from UCDH. Amendments will be clearly
+marked as such. Each amendment will be numbered consecutively and will become part of this RFP. Any vendor
+who fails to receive such amendments shall not be relieved of any obligation under this quotation as submitted.
+SPECIFICATIONS OR RFP REQUIREMENTS MAY BE REVISED ONLY THROUGH WRITTEN NOTICE OF
+ADDENDUM ISSUED BY ROSHNI PRATAP, UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER,
+PURCHASING DEPARTMENT. CHANGES BY ANY OTHER INDIVIDUAL ARE NOT AUTHORIZED.
+
+VIII.     BASIS OF AWARD
+
+Award will be made to the overall best responsive, responsible Bidder whose proposal, in the sole opinion of UCDH
+is deemed best able to serve the needs of UCDH contained in this RFP and who have demonstrated the ability to
+perform the required service in an acceptable manner. In addition to the questions listed in the RFP, Proposals will
+be evaluated using a two-tier evaluation. Responses shall initially be evaluated for factors listed in Tier 1
+Qualification Statement, Attachment 1. To be eligible to advance to Tier 2 Technical Qualification,
+Attachment 2 a Bidder must meet the minimum requirements and receive at least seventy (70%) of the available
+Tier 1 quality points. Those Bidders receiving less than (seventy) 70% of the total quality points in the Tier 1
+evaluation shall be eliminated from further consideration. Qualified Bidders must also receive at least 70% of
+available points in the Tier 2 evaluation to be considered for contract award.
+
+To determine the lowest cost per quality point, each Bidder’s quoted fee, as specified in the Cost Proposal,
+Attachment 3, will be divided by the total quality points awarded to that particular Bidder’s response for Tier 2
+Technical Proposal and, if necessary, vendor presentations for atleast the top two (2) candidates. More than
+one person may evaluate responses and if such will be the case, an average of all the quality points awarded per
+category will be used.
+
+Presentations may be requested of two (2) or more Bidders having the lowest cost per quality point scores. After the
+individual presentations are completed, if any, the cost per quality point will be re-calculated to include the points
+awarded in Tier 2.
+
+Please see attached Technology Evaluation documents. Only the top one (1) or two (2) bidders will be required fill
+out the IT questionaires and will go through the IT Evaluation process. Successful passing of the UCDH IT
+Evaluation Process is mandatory prior to contract negotiations.
+
+      •   Attachment 7.1 - Technology Evaluation Checklist.pdf
+      •   Attachment 7.2 - Technology Questionnaire v2.4.docx
+      •   Attachment 7.3 - Security Questionnaire v2.xls
+
+The UCDH IT Evaluation Process is a set of activities and procedures referring to the acquisition of new
+applications, technology, or technology devices. It is the goal of the UC Davis Health to ensure new applications,
+technology, and devices adhere to current Information Technology, Clinical Engineering, and Security standards to
+safeguard patient privacy, enable organizational efficiencies, and provide overall protection of health systems assets.
+The Bidder with the lowest cost per quality point and IT evaluation approval shall be given the opportunity to enter
+into contractual negotiations with UCDH if the cost is within the project funding allotment and Bidder's proposal is
+in compliance with all terms and conditions expressed within this RFP document. If UCDH and Bidder are unable
+to come to satisfactory terms, UCDH reserves its right to pursue other alternatives, including, but not limited to,
+awarding the opportunity to negotiate with the next lowest cost per quality point Bidder.
+
+IX. BID ACCEPTANCE
+The bid submission must be complete, submitted on the forms provided or in the format indicated, and comply with
+all specifications and legal requirements set in this Request for Proposal.
+The University reserves the right to reject any submittals that are:
+     • Incomplete or non-responsive
+     • Generally unprofessional
+     • Late (late bids are immediately rejected)
+
+UCDH reserves the right to set the criteria for and make this determination independently in each case.
+UCDH reserves the right to accept, reject or waive any irregularities in any proposaland the right to reject all
+responses received in response to this request.
+
+An agreement shall be entered into only after it has been determined that prices are reasonable. The University
+reserves the right to have the Bidder provide supporting documentation justifying Bidder’s pricing and Bidder’s
+ability to meet proposed University agreement obligations prior to issuance of an award or agreement. Any proposal
+that appears to have unrealistically low prices or other implausible terms may be rejected, in the University’s sole
+discretion. There is no appeal.
+
+
+X.      PROPOSAL CONDITIONS
+
+        1. Notwithstanding any other provision of the RFP, Bidders are hereby advised that this RFP is a
+           solicitation of proposals only and is not to be construed as an offer to enter into any contract or
+           agreement. Thus, UCDH reserves the unqualified right to reject any or all proposals for any reason.
+
+        2. UCDH shall have the unconditional and unqualified right to withdraw, cancel, or amend this RFP at any
+           time. Bidders will bear all costs incurred in the preparation and submission of the Proposal and related
+           documentation, including bidder’s presentations to UC. UCDH, in its sole discretion, reserves the right
+           to determine whether any Bidder meets the minimum qualification standards, to determine whether a
+           proposal is responsive, and to select a proposal which best serves the health system’s objectives. UCDH
+           reserves the right to negotiate a contract with the selected Bidder.
+
+        3. All proposals shall be firm for a period of 180 days following the proposal submission due date.
+
+        4. Termination due to Non-Funding. Bidder understands that the obligation of University to proceed is
+           conditioned upon the appropriation of state, federal and other sources of funds not controlled by
+           University ("Funding"), that in the event that through no action or inaction on the part of University, the
+           Funding is withdrawn, University shall have the right to withdraw the RFP without damage, penalty,
+           cost, or further obligation.
+        5. Responses to this RFP should be made according to the instructions contained herein. Failure to adhere
+           to RFP instructions may be cause for rejection of the proposal. A proposal, which contains conditions or
+           limitations set up by the Bidder, may be deemed irregular and subsequently rejected by UCDH. There is
+           no right to appeal.
+6. False, incomplete, or unresponsive statements in the proposal response may be cause for its rejection.
+   The evaluation and determination of the fulfillment of the RFP requirements will be UCDH's
+   responsibility and its judgment shall be final. There is no right to appeal.
+
+7. UCDH reserves the right to interpret or change any provision of this RFP at any time prior to the
+   proposal submission date. Such interpretation or change shall be in the form of a written addendum to
+   this RFP. Such addendum will become part of this RFP and any resultant contract. Such addendum shall
+   be made available to each company that has received an RFP. Should such addendum require additional
+   information not previously requested, a Bidder's failure to address the requirements of such addendum in
+   the proposal response might result in the proposal not being considered.
+
+8. UCDH has, at its sole discretion, the unconditional and unqualified right to determine that a time
+   extension is required for submission of proposals, in which case, a written RFP addendum issued by
+   UCDH shall indicate the new submission date for proposals. This action may be taken by UCDH up to
+   and until it has formally awarded the contract.
+
+9. Prior to the final submission date, any Bidder may retrieve their proposal to make additions or
+   alterations. Such retrieval, however, shall not extend the final submission date.
+
+10. Bidders wishing to submit proposals in response to this request do so entirely at their own expense, and
+    submission of a proposal indicates acceptance of the conditions contained in the RFP unless clearly and
+    specifically noted otherwise.
+
+11. PUBLIC INFORMATION AND TRADE SECRETS--The California Public Records Act limits
+    UCDH's ability to withhold pre-qualification and bid data to trade secrets or records, the disclosure of
+    which is exempt or prohibited pursuant to federal or state law. If a submittal contains any trade secrets
+    that Bidder does not want disclosed to the public or used by UCDH for any purpose other than
+    evaluation of the Bidder's eligibility, each sheet of such information must be marked with the
+    designation "Confidential." UCDH will notify the Bidder of any request, by another party, to inspect
+    such confidential information. Bidder will have an opportunity to establish that such information is
+    exempt from inspection in any proceeding to compel inspection.
+
+12. All computer programs and data made available by UCDH to Bidders hereunder shall remain the
+    property of the UCDH and shall be maintained, used, and disseminated in accordance with the
+    California Information Practices Act of l911, Civil code Sections 1798 through 1798.76, and the
+    California Public Records Act, Government Code Section 6250 through 6260. All listings and all copies
+    of listings that reveal names or identification numbers of individuals (i.e., employees, patients, etc.) shall
+    be destroyed or returned to UCDH.
+13. Bidders may not distribute any announcement or news release regarding this RFP project without
+    written approval by the University of California Davis Health. Any materials to be provided to
+    regulatory agencies, other entities, or to the public shall be submitted to the UCDH for review and
+    distribution unless otherwise directed by a UCDH representative.
+14. All agreements resulting from this RFP shall be construed and enforced in accordance with the laws of
+    the State of California.
+15. Collusion among Suppliers is not allowed. If there is proof of collusion among Suppliers, UC will reject
+    all proposals involved in the collusive action.
+16. Piggyback: The University of California Davis Health (UCDH) grants other University of California
+    (UC) entities the right to acquire the properties and/or services from a resulting contract based on this
+    competitively bid Request for Proposal (RFP). By submitting an RFP that results in a contract, the
+    Contractor agrees to make the same bid terms and price, exclusive of freight and transportation fees,
+    available to other University of California entities. UCDH will not be responsible for any problems or
+    issues, which may arise between UC entities and the Contractor as a result of any sales and/or purchases
+    made.
+XI.       TERMS AND CONDITIONS (this is in conjunction with UC Terms and Conditions, Attachment 4.)
+
+      a) University of California, Davis Health, Software License Agreement (Attachment 4a) incorporating:
+         Standard University Terms and Conditions for Purchase (Attachment 4b), HIPAA BAA (Attachment 5) and
+         Data Security & Privacy (Attachment 6) will be the Master Agreement for this engagement.
+      b) Payments for University purchases for services for any future Agreement shall not be subject to any late or
+         interest charges.
+      c) If awarded a contract, Supplier must name UC as an additional insured and furnish a certificate of insurance
+         acceptable to UC as outlined in the Terms and Conditions set forth in the RFP. Mm
+      d) Any order resulting from this Request for Proposal shall be subject to the examination and audit by the
+         California State Auditor for a period of three years after final payment under this order. The examination
+         and audit shall be confined to those matters connected with the performance of the contract, including, but
+         not limited to, the cost of administering the contract.
+      e) Supplier shall exercise extreme care and due diligence to prevent any action or conditions which could result
+         in conflict with the best interest of the University and the UC Regents.
+      f) Throughout the term of any subsequent Agreement, Supplier shall not accept any employment or engage in
+         any work, which creates a conflict of interest with the University or in any way compromises the work to be
+         performed under this RFP or subsequent Agreement.
+      g) Supplier and/or its employees shall not offer gifts, entertainment, payment, loans, or other gratuities or
+         consideration to University employees, their families, other Suppliers, subcontractors, or other third (3rd)
+         parties for the purpose of influencing such persons to act contrary to the University’s interest or for personal
+         gain. Supplier shall immediately notify the University of any and all such violations of this clause upon
+         becoming aware of such violations.
+
+ XII.          GENERAL INFORMATION / CERTIFICATION
+
+The Bidder shall not maintain or provide racially segregated facilities for employees at any establishment under the
+Bidder’s control. The Bidder agrees to adhere to the requirements set forth in Executive Orders 11246 and 11375,
+and with respect to activities occurring in the State of California, to the California Fair employment and Housing Act
+Government Code section 2900 et seq.). Expressly, the Bidder shall not discriminate against any employee or
+applicant for employment because of race, color, religion, sex, national origin, ancestry, medical condition, marital
+status, age, physical and mental handicap in regard to any position for which the employee or applicant for
+employment is qualified, or because he or she is a disabled veteran or veteran of the Vietnam era. The Bidder shall
+further specifically undertake an outreach effort in regards with the hiring, promotion and treatment of minority
+group persons, women, the handicapped, and disabled veterans and veterans of the Vietnam era. The Bidder shall
+communicate this policy in both English and Spanish to all people as concerned within its company, with outside
+recruiting services and the minority community at large. The Bidder shall provide the University, upon request, a
+breakdown of it labor force by groups, specifying the above characteristics within job categories, and shall discuss
+with the University its policies and practices relating to its programs.
+
+XIII. OFFSHORING OF SERVICES
+
+Supplier must do one of the following in its bid:
+       1. Certify under penalty of perjury that the services will be performed solely with workers within the United
+           States, including any services that Supplier would provide using a subsupplier; or
+       2. Describe in its bid any parts of the services that will be performed by workers outside of the United States.
+Please complete the vendor contact information requested below:
+
+
+   Company Name
+   Federal Employer Identification #      _____________________________________________________
+   Contact Person/Title-
+   Address
+
+
+   Telephone Number                       _________________________            Fax - ____________________
+
+
+ I certify that I am authorized to sign on behalf of the organization I represent for this offer, and agree to all terms
+ and conditions described herein.
+ _______________________________________                                               ____________
+ Authorized Signature                                                                  Date
+_______________________________________
+ Printed Name
+ATTACHMENT 1 -PRE-QUALIFICATION QUESTIONS
+
+
+NOTE: YOUR PROPOSAL RESPONSE MUST INCLUDE A REPSONSE TO EVERY QUESTION AND SECTION THAT
+REQUESTS INFORMATION. FAILURE TO RESPOND TO ANY QUESTION MAY BE GROUNDS FOR
+DISQUALIFICATION.   PLEASE REFER TO THE SECTION AND ITEM NUMBER (i.e. RESPONSE TO
+REQUIREMENTS) IN YOUR REPONSE.
+
+
+A. Mandatory Requirements
+The following represents pre-qualification criteria. Responses of “NO” or that are incomplete and/or do not meet the
+University’s expectations, basic requirements, and standards of performance may/shall be disqualified and the bid
+rejected. The University reserves the right to set the criteria for and make the determination independently in each
+case. Please indicate YES or NO to each question below.
+
+    1. EMR Integration – YES                NO
+         a. Solution must have fast, integrated solution with EPIC that allows for HIPAA compliant interface
+             for transmission of orders and ADT information.
+
+    2. Live in 10 EPIC facilities –    YES            NO
+
+    3. The IV Workflow solution shall provide photo verification of medication dose prepared prior to and after
+       admixture with capability for remote verification by pharmacists of each IV medication prepped without the
+       use of proprietary equipment to view. YES              NO
+Attachment 2 -- Technical Qualication
+Briefly describe your approach to supporting the listed functionalities with your software and hardware
+application. Provide your score (0-3) for each of the items below.
+
+Vendor Scoring
+3 = Yes, can fully meet requirement with basic configuration. No customization.
+__________
+2 = Partially meets requirement with basic configuration. May require minimal customization by the vendor (please
+explain).
+__________
+1 = Requires customization by the vendor (please explain).
+__________
+0 = No. Functionality is not available at this time.
+
+Note: For all 1 and 2 scores, vendors must provide supporting details.
+                                                                    Vendor
+                                                                                 Vendor Solution
+#    Criteria          Description                                  Scoring *                      Vendor Comments
+                                                                                 Module Name
+                                                                    (0 thru 3)
+1    General/Base      Ability to source equipment through
+     Functionality     UCD purchasing and have maintenance
+                       done by UC Davis IT department.
+
+2    General/Base      No Monthly Equipment Support Fees
+     Functionality
+
+
+4    General/Base      Cloud Based Information Storage
+     Functionality     Solution. No UCDH Servers required for
+                       storage
+5    General/Base      Ability for Image Capture and ability to
+     Functionality     search past images taken as needed with
+                       no limitations or additional cost based on
+                       storage time
+6    General/Base      Utilizes Product Verification Barcode
+     Functionality     Scanning to validate correct product
+                       being used to prepare product
+7    General/Base      Has ability to incorporate required
+     Functionality     tasks/activities for compounding
+                       including cleaning and testing into user
+                       workflow
+8    General/Base      Has ability to capture and track staff
+     Functionality     training for sterile compounding
+
+9    General/Base      Dose tracking designed for use by
+     Functionality     pharmacy department to reduce missing
+                       medication doses by tracking each patient
+                       specific medication using scan points
+                       across health system
+10   General/Base      Ability to integrate with EPIC to provide
+     Functionality     dose tracking for nursing to view status
+                       of medications and delivery location
+11   General/Base      Ablity to produce real time tracking
+     Functionality     analytics to distinguish problem points in
+                       the medication preparation and
+                       distribution process.
+                                                                  Vendor
+                                                                               Vendor Solution
+#    Criteria        Description                                  Scoring *                      Vendor Comments
+                                                                               Module Name
+                                                                  (0 thru 3)
+12   General/Base    Capability to store lot numbers,
+     Functionality   expiration dates and preparation
+                     instructions.
+
+
+
+
+13   General/Base    KLAS Leader for IV Workflow Software
+     Functionality   in at least one of past 3 years
+
+14   General/Base    Active Directory Integration for all users
+     Functionality
+
+15   General/Base    Ability to incorporate gravimetrics for
+     Functionality   certain designated preparations.
+
+16   General/Base    Ability to transmit NDC and waste back
+     Functionality   to EPIC
+
+17   Support         The Vendor shall provide 24 hours, 7
+                     days a week support
+18   Reports         Ability to run Quality Analytics and
+                     Reports including but not limited to
+                     workload reports, user activity logs and
+                     dispensing reports.
+19   Miscellaneous   List and provide details to any additional
+                     features/functionalities not captured
+                     above.
+C. Supporting Information [Provide supporting documents with RFP submission and or complete the respective
+section below]
+
+#        Criteria          Description                                           Vendor Answer
+24       Implementation    Attach a Sample Implementation Plan
+25       Implementation    Is Implementation conducted onsite or remote?
+26       Implementation    Is implementation of each department
+                           simultaneous or by location?
+27       Implementation    Will customization be done by vendor or vendor's
+                           partner?
+28       Implementation    If customization required, what will your testing
+                           methodology be to confirm application is fully
+                           operational?
+29       Implementation    Estimated Implementation timeline & duration
+                           (including training)
+30       Implementation    List resources required for implementation.
+                           Clarify staffing type and time commitment
+                           required for Vendor, UCDH IT, and Customer
+                           during implementation and training.
+31       Implementation    Training model (vendor trains all, vendor train the
+                           trainer, UCDH trains)
+32       Implementation    Training location (on site at UCDH?)
+33       Implementation    Training documentation (does vendor provide &
+                           customize to UCDH process)
+34       Architecture      Is the system offered as SaaS? Explain SaaS
+                           environment.
+35       Architecture      If SaaS is offered, is there hardware requirement
+                           from UCDH (VPN server, web server, database,
+                           etc.)?
+36       Architecture      If SaaS, what is the data center's location? Is
+                           there a DR facility?
+37       Architecture      If installed on premise, does the application
+                           support virtual servers?
+38       Architecture      What are server requirements to have TEST, DR,
+                           and Production environments?
+39       Architecture      UCDH's data center is located in Quincy, WA.
+                           Can your application tolerate a 21ms latency
+                           round trip delay.
+40       Maintenance and   Number of Training / Support Staff you have.
+         Support
+41       Maintenance and   Physical location of Training / Support Staff
+         Support
+         Maintenance and   Support Availability (hours, days of week,
+         Support           phone/ticket submission system, etc.)
+43       Maintenance and   Do you have a Service Level Agreement that
+         Support           defines a minimum response time? Provide
+                           details.
+44       Maintenance and   What level of UCDH staff support does this
+         Support           system require. Clarify staffing type and
+                           anticipated time commitment.
+45       Maintenance and   What qualifications should that staff need to
+         Support           have?
+46       Maintenance and   Who performs system upgrades (Vendor, IT,
+         Support           System Admin)?
+47       Maintenance and   How many upgrades per year should we
+         Support           anticipate?
+48       Maintenance and   What are the future plans for additional features
+         Support           or platform migration?
+#    Criteria              Description                                          Vendor Answer
+49   Maintenance and       Does the system require downtime to run data
+     Support               back-ups?
+50   Maintenance and       How is data saved and is it backed up?
+     Support
+51   Agreement             Do you agree to UC Terms and Conditions of
+                           Purchase with no exceptions (Attachment 4)?
+52   Agreement             Do you Agree to HIPAA BAA with no
+                           exceptions.
+                           (Attachment 5)
+53   Agreement             Do you agree to UC Data Security and Privacy
+                           with no exceptions. (Attachment 6)?
+54   References            Company name:
+     Add three             Type of company or institution:
+     references from the   Brief description of system:
+     past three years of   Contact name:
+     similar size and      Contact number:
+     capacity.             Contact email:
+
+55   References            Company name:
+                           Type of company or institution:
+                           Brief description of system:
+                           Contact name:
+                           Contact number:
+                           Contact email:
+56   References            Company name:
+                           Type of company or institution:
+                           Brief description of system:
+                           Contact name:
+                           Contact number:
+                           Contact email:
+57   Offshoring            Certify under penalty of perjury that the services
+                           will be performed solely with workers within the
+                           United States, including any services that
+                           Supplier would provide using a subsupplier; or
+
+58   Offshoring            Describe whether any parts of the services will be
+                           performed by workers outside of the United
+                           States.
+

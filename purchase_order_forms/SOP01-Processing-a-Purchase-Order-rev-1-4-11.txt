@@ -1,0 +1,355 @@
+     PERALTA CCD                                                Document #:               SOP01
+     PURCHASING DEPARTMENT                                      Revised Date:            01/04/11
+     STANDARD OPERATING PROCEDURE                               Supersedes Revised Date: 03/05/10
+
+                                     Processing a Purchase Order
+
+1.   PURPOSE
+     To provide procedures for processing a Purchase Order to be used in conjunction with the
+     District’s Board approved Purchasing Procedures.
+
+2.   SCOPE
+     This procedure applies to the personnel in the District Purchasing and Warehouse Departments.
+     This procedure also sets the authorized signature thresholds for Purchase Orders.
+
+3.   OVERVIEW
+     Peralta’s Purchasing Procedures follow the Board approved Purchasing Procedures, including the
+     Public Contract Code, the Education Code, and the laws of the State of California. All bids must
+     be awarded to the lowest responsive, responsible bidder. The District's purchasing activities must
+     pass State audits and other required reviews, and therefore must be conducted in an efficient,
+     systematic, and professional businesslike manner at all times.
+
+4.   REFERENCES
+     4.1  Peralta Community College District—Purchasing Procedures
+     4.2  Board Policy Section 6.31—Procurement of Supplies, Equipment, Furniture,
+          Construction Repairs, and Maintenance Services
+     4.3  PowerPoint Presentation—Overview of Purchasing Policies & Procedures
+     4.4  State of California Public Contract Code–Sections 20650-20660
+     4.5  State of California Education Code–Part 49 Commencing with Section 81000
+     4.6  Business Process Document—Dispatching POs in the PROMT System
+     4.7  Business Process Document—Adding Vendors in the PROMT System
+     4.8  Procurement Checklist (for formal bids)
+
+5.   DEFINITIONS AND ABBREVIATIONS
+     • A/P – Accounts Payable
+     • Buyer – District personnel working in the Purchasing Department whose formal job title is
+        “Buyer” or “Assistant Buyer” (Personnel working at the campuses are not Buyers)
+     • Bid Recap – A Bid Recapitulation is a sheet used to summarize the quotes received by a
+        Requestor.
+     • ICC – Independent Contractor/Consultant Service Contract. A contract used in lieu of a
+        formal contract for services over $600.
+     • PO – Purchase Order
+     • PROMT – Peralta Real-time Online Management Technologies (PeopleSoft computer
+        system).
+     • Requestor – District/College personnel authorized to initiate a purchase requisition.
+
+
+
+
+                                                Page 1 of 7
+     PERALTA CCD                                                 Document #:               SOP01
+     PURCHASING DEPARTMENT                                       Revised Date:            01/04/11
+     STANDARD OPERATING PROCEDURE                                Supersedes Revised Date: 03/05/10
+
+6.   AUTHORIZED SIGNATURES FOR POs AND REQUIRED DOCUMENTATION
+     Only the following personnel (Buyers and Purchasing Management) have the authority to sign on
+     Purchase Orders (POs), providing all the required backup documentation is attached to the back
+     of the PO. No Buyer is to sign off on any PO without the required backup documentation.
+
+     Purchase Orders      Authorized Signature               Required Backup Documentation
+
+     Under $2,500         Buyer                              •     Verbal or Written Quote (as required
+                                                                    by Purchasing Procedure)
+                                                             •     Copy of ICC (if applicable)
+                                                             •     Copy of the Change Order (if
+                                                                    applicable)
+                                                             •     Copy of the Measure A Procurement
+                                                                   Request Form (only for Measure A
+                                                                   items)
+                                                             •     Copy of Sole Source Letter (if
+                                                                   applicable)
+                                                             •     Board Approval (if applicable)
+
+     Between $2,500       Buyer                              •     One Written Quote (as required by
+     and under $10,000                                              Purchasing Procedure)
+                                                             •     If you choose to obtain more than one
+                                                                    written quote, you must select the
+                                                                    vendor with the lowest price quote
+                                                                    and complete a Bid Recapitulation
+                                                                    Sheet which summarizes the quotes.
+
+                                                             All other requirements are the same as
+                                                             above.
+     Over $10,000 and     Purchasing Compliance              •     Three Written Quotes (as required
+     up to $78,900 (or    Manager                                  by Purchasing Procedure)
+     the current bid      [For Construction POs and          •     Bid Recapitulation Sheet (signed by
+     threshold)           Change Orders (that were                 College/Department and Buyer)
+                          generated by the Department of     •     For purchases over $25,000 must
+                          General Services), forward
+                                                                   check both the Federal Debarment
+                          them to Vice Chancellor of
+                          General Services for signature.]         Exclude Parties List System at:
+                                                                   https://www.epls.gov/,and the
+                                                                   State Debarment list at:
+                                                                   http://www.dir.ca.gov/dlse/debar.h
+                                                                   tml
+
+                                                             All other requirements are the same as
+                                                             above.
+
+
+
+
+                                              Page 2 of 7
+     PERALTA CCD                                                  Document #:               SOP01
+     PURCHASING DEPARTMENT                                        Revised Date:            01/04/11
+     STANDARD OPERATING PROCEDURE                                 Supersedes Revised Date: 03/05/10
+
+
+     Purchase Orders      Authorized Signature                Required Backup Documentation
+
+     Over $78,900 (or     Vice Chancellor of General          •     Requires Board Approval
+     the current bid      Services                            •     Must use the Procurement Checklist
+     threshold)           (For POs over $78,900 that                to ensure the procurement file
+                          were not generated by the                 properly and completely documents
+                          Department of General                     all activities associated with the
+                          Services, forward them to the             purchase.
+                          Purchasing Compliance
+                          Manager, along with the
+                          required backup documentation       All other requirements are the same as
+                          for him to initial and forward to   above.
+                          Vice Chancellor for signature.)
+
+7.   BUYER’S ROLE AND PURCHASING’S GOAL
+     7.1  Buyer’s Role
+          To provide excellent customer service by assisting the Requestor throughout the
+          purchasing process, from requisition to delivery of product. The Buyer is to ensure goods
+          and services are obtained at competitive prices, guaranteed fairness in the selection of
+          vendors, and to minimize opportunities for corruption. There are two categories of
+          purchases that the Buyers will issue POs for. They are Goods and Services, and Public
+          Work Projects. Different rules and dollar thresholds apply to each; however the
+          processing of the PO is the same. Please review the Peralta Community College
+          District—Purchasing Procedures for the dollar thresholds and specific bid requirements
+          for each category of purchase.
+     7.2  Purchasing’s Goal in Processing POs
+          The Goal of the Purchasing Department is to process all POs within ten (10) business
+          days of receipt of the PO. POs which have a valid budget and the proper backup
+          documentation should be processed within three (3) business days of receipt of the PO,
+          and all other POs which do not have proper backup documentation or valid budgets,
+          should be processed within a ten (10) day time period.
+
+8.   PROCEDURE (PROCESSING A PO)
+     8.1  Overview of the procedures for the issuance of a Purchase Order.
+
+            8.1.1   Prior to the issuance of a PO, the Requestor may contact the Purchasing
+                    Department for assistance in finding qualified vendors. The Buyer is to review
+                    the District’s Database and the Internet, and provide the Requestor with qualified
+                    vendors who can provide the item/service to be purchased. If the Requestor is
+                    unable to obtain the required quotes, the Buyer is to solicit the required quotes
+                    per the District’s Purchasing Procedure.
+            8.1.2   Once the Requestor has obtained the required quotes and generated a Purchase
+                    Requisition in PROMT, the PROMT system will forward the requisition for
+                    approval, and then on to Purchasing for the issuance of a PO.
+            8.1.3   Upon receipt of a PO in PROMT, the Buyer is to review the PO to determine
+                    what required backup documentation is required, and contact the Requestor to
+                    request the backup documentation (if the Requestor has not already forwarded it
+
+                                               Page 3 of 7
+PERALTA CCD                                              Document #:               SOP01
+PURCHASING DEPARTMENT                                    Revised Date:            01/04/11
+STANDARD OPERATING PROCEDURE                             Supersedes Revised Date: 03/05/10
+
+              to the Buyer). If the order is under $2,500 and does not require backup
+              documentation, the Buyer is to go ahead and process the order within three days
+              of receipt of the PO.
+
+
+8.2   Buyer’s Processing of the PO
+      Before the Buyer processes any PO, the Buyer will need to verify that the proper backup
+      documentation has been forwarded to the Purchasing Department so that it can be
+      attached to the back of the PO. The required backup documentation necessary for each
+      PO is listed in the table in the above AUTHORIZED SIGNATURES FOR POs AND
+      REQUIRED DOCUMENTATION section.
+
+      For step-by-step procedures on how to Dispatch a PO in the PROMT system, refer to the
+      Business Process Document—Dispatching POs in the PROMT System, listed in the
+      REFERENCES section.
+
+      8.2.1   The Buyer is to process all POs within 10 days of receiving an approved PO in
+              the PROMT system as follows:
+      8.2.2   Review the quote to make sure the quote received is still valid. (If the quote is
+              over $2,500, make sure the quote is a written quote). If the quote has expired, the
+              Buyer must contact the vendor to obtain an updated quote. For all quotes over 30
+              days old, the Buyer should contact the vendor to confirm the quote.
+      8.2.3   For orders that require backup documentation (or have a budget error), the Buyer
+              is to contact the Requestor (or vendor) to obtain the backup documentation, and
+              must make a note in the PROMT system, in the PO Comment field, as to what
+              documentation was required, and on what date the information was requested,
+              and from whom. The Buyer is to initial all comments placed in the Comment
+              field. The Buyer then must send an email to the Requestor with a copy to the
+              College Business Manager (or the District Manager) notifying them that the PO
+              cannot be processed as submitted, and request the proper backup documentation,
+              or that they fix the budget error. It is imperative that the Buyer follow-up with
+              the Requestor within 3 days of receipt of the PO, so that the PO can be processed
+              with 10 days of receipt in PROMT.
+      8.2.4   Verify the quote includes the proper Alameda County Sale and Use Taxes, when
+              applicable.
+      8.2.5   Verify the quote matches the PO figures and quantity.
+      8.2.6   Verify any Shipping charges and verify the items are going to be shipped to the
+              District Warehouse. All items should be shipped to the District Warehouse
+              unless special circumstances exist and arrangements have been made with the
+              vendor and the District Warehouse Supervisor. Only hazardous materials (which
+              the District cannot legally transport), live specimens, and extremely heavy items
+              (requiring a large forklift to move) are allowed to be shipped directly to the
+              colleges, with prior coordination with the Warehouse Supervisor. If the item is
+              going to be shipped directly to the campus, the Buyer must notify the Warehouse
+              Supervisor and inform the Requestor that once the items have been received by
+              the campus, the Requestor is to notify the Warehouse Supervisor so that the
+              Warehouse can mark the items as received in the PROMT system.
+      8.2.7   If there are specific shipping deadlines, the Buyer is to confirm shipping dates.
+
+                                         Page 4 of 7
+PERALTA CCD                                              Document #:               SOP01
+PURCHASING DEPARTMENT                                    Revised Date:            01/04/11
+STANDARD OPERATING PROCEDURE                             Supersedes Revised Date: 03/05/10
+
+     8.2.8   Verify the vendor’s fax number is correct. This is the number where the PO will
+             be faxed to.
+     8.2.9   For POs over $10,000 and under the formal bid threshold, verify the Bid
+             Recapitulation sheet is attached, three valid quotes are attached, and that the
+             Business Manager at the College or District Manager has signed the Bid Recap
+             sheet. The Buyer is to sign the Bid Recap sheet, to indicate they have reviewed
+             the required quotes and that the quotes are valid.
+     8.2.10 For purchases over $25,000 must check both the Federal Debarment
+            Exclude Parties List System at: https://www.epls.gov/, and the State
+             Debarment list at: http://www.dir.ca.gov/dlse/debar.html. Attach a copy
+             of the debarment verification to the back of the purchase order. If during
+             the debarment checks, the vendor is on the Debarment list, the District will
+             not be able to issue a PO to the vendor, and you must find an alternative
+             source for the product or service.
+     8.2.11 For POs for an ICC, verify the ICC is approved by the College President/Vice
+            Chancellor, the Vice Chancellor of Financial Services, and the Chancellor, and
+            verify it is for the current fiscal year. A new ICC is required for each fiscal year
+            for services over $600. If the ICC is over $25,000, for general funds purchase,
+            and over $78,900 (or adjusted annually by the Price Deflation Index), for bond
+            fund purchases, then the ICC will need Board approval. Buyer must verify the
+            Board has approved the ICC before processing the PO. The Buyer must contact
+            the Chancellor’s office to get a copy of the Board approval minutes for the ICC
+            and attach it as part of the backup documentation for the PO.
+     8.2.12 For Measure A POs, forward the PO in the PROMT system to the Measure A
+            Buyer to process and contact, via email, the Requestor to let them know you have
+            forwarded the PO to the Measure A Buyer. All Measure A equipment purchases
+            will require a Measure A form approved by the Vice Chancellors and the
+            Chancellor before the PO can be processed. The Measure A Buyer will need to
+            verify that the proper documentation exists before the PO can be processed. In
+            addition to the normal documentation needed for a PO, the Measure A Buyer
+            must verify that at least one of the following Measure A approval forms is
+            attached to the PO:
+
+             •   Instruction Furniture & Equipment Procurement Request Form (to be used
+                 by the Colleges)
+
+             •   Equipment & Furniture Needs Procurement Request Form (to be used by the
+                 District)
+
+             •   Construction Project Request Form (for construction projects that were not
+                 part of the Short Term project that the Board approved on January 16, 2007)
+     8.2.13 For Open Account (Blanket) POs, will require the same documentation as a
+            normal PO. No Open Account PO will be processed for over $10,000 without
+            the required three quotes. If a Requestor is requesting an Open Account PO for
+            more than $10,000, the Buyer works with the Requestor to get competitive
+            quotes to substantiate the issuance of an Open Account PO. Some item such as
+            text books and library books are exempt from requiring competitive quotes, and
+            can have Open Account POs issued for greater than $10,000. See the Peralta
+
+
+                                         Page 5 of 7
+PERALTA CCD                                              Document #:               SOP01
+PURCHASING DEPARTMENT                                    Revised Date:            01/04/11
+STANDARD OPERATING PROCEDURE                             Supersedes Revised Date: 03/05/10
+
+             Community College District—Purchasing Procedures listed in the
+             REFERENCES section, for detail as to which items are exempt from formal
+             competitive quotes.
+     8.2.14 For POs over $78,900 (or the current bid threshold) for Goods and Services,
+            the Buyer will need to verify that a formal bid was conducted for these
+            purchases, and that Board has approved the purchase, prior to processing the PO.
+            The buyer must use the Procurement Checklist to ensure the procurement file
+            properly and completely documents all activities associated with the
+            purchase. The Buyer must contact the Chancellor’s office to get a copy of the
+            Board approval minutes for the purchase, and attach it to the backup
+            documentation for the PO.
+     8.2.15 For Construction POs over $15,000, the Buyer will need to verify that a formal
+            bid was conducted for construction services, and that Board has approved this
+            transaction, prior to processing the PO. The Buyer must contact the Chancellor’s
+            office (or the Department of General Services) to get a copy of the Board
+            approval minutes for the purchase, and attach it to the backup documentation for
+            the PO.
+     8.2.16 For Sole Source POs, the Buyer will need to verify if the purchase is a valid sole
+            source prior to processing the PO. If a particular item is available from only one
+            source, a letter stating that the vendor is the sole source of such goods or services
+            must be obtained and attached to the purchase order. The letter must be specific
+            in describing the goods required, including the name of the product, model
+            numbers, and any other relevant information justifying the sole source purchase.
+            Further, the letter must specify all of the reasons justifying the circumstances and
+            details regarding the basis and nature of why and how the product is sole source
+            and why such product, or a similar product cannot be purchased elsewhere.
+
+             The Buyer is to review the letter and verify that the items are truly a sole source.
+             This will require searching for the items on the internet and talking to the vendor
+             to confirm it truly cannot be purchased from another vendor. Once the Buyer has
+             reviewed the documentation, and done their initial search, the Buyer is to forward
+             all documentation to the Purchasing Manager, who will make the final
+             determination if the items are truly a sole source. If the items are truly a sole
+             source, the Purchasing Manager will approve the sole source letter by signing
+             “approved” on the letter. The Buyer can then process the PO.
+     8.2.17 For Change Order POs, the Buyer must obtain a Request for Change Order
+            Form from the requestor (or the department) and attach it as backup
+            documentation before processing the PO. No verbal change orders are allowed.
+            The Change Order Form should clearly state the nature of the change requested
+            and which line items are affected. Once the Buyer receives the Request for
+            Change Order, the Buyer must immediately contact the vendor to notify them of
+            the change and make every effort to minimize and change or cancellation
+            charges.
+     8.2.18 The Buyer is to sign and date all POs within their signing authority and forward
+            the PO and all the required backup documentation to the Purchasing Staff
+            Assistant. For POs above the Buyers signing authority, the Buyer is to forward it
+
+
+                                         Page 6 of 7
+     PERALTA CCD                                           Document #:               SOP01
+     PURCHASING DEPARTMENT                                 Revised Date:            01/04/11
+     STANDARD OPERATING PROCEDURE                          Supersedes Revised Date: 03/05/10
+
+                  to the appropriate purchasing management listed in the AUTHORIZED
+                  SIGNATURE FOR POs AND REQUIRED DOCUMENTATION section.
+     8.3   Purchasing Staff Assistant’s Role
+           8.3.1 If the vendor is not already in the PROMT system, the Staff Assistant is to
+                 email/fax a vendor application and W-9 form to the vendor, and setup the vendor
+                 in the system. See Business Process Document—Adding Vendors in the PROMT
+                 System for step-by-step procedure on how to enter a vendor in the PROMT
+                 system.
+           8.3.2 Upon receipt of the PO and the backup documentation for the Buyer, the
+                 Purchasing Staff Assistant will review the Bid Recap sheet (if attached) for the
+                 fax number to fax the PO to, and attach a cover sheet (if the Buyer has not
+                 already done so) and fax out the PO. If no fax number was provided, the Staff
+                 Assistant is to check the PROMT system for the fax number on file, and verify
+                 with the vendor the fax number is still valid, and fax out the PO with a
+                 coversheet.
+           8.3.3 File the PO and all backup documents in the central file in the Purchasing
+                 Department.
+           8.3.4 Forward any invoices received to Accounts Payable.
+     8.4   Warehouse’s Role
+           8.4.1 Verify receipt of the products against the PO.
+           8.4.2 Notify the vendor, enduser and the Buyer of damage/short shipment.
+           8.4.3 Process the receiving transaction in PROMT.
+           8.4.4 Deliver the items to the Campuses and the District.
+
+9.   ATTACHMENTS
+     None.
+
+
+
+
+                                            Page 7 of 7
+

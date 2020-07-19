@@ -1,0 +1,77 @@
+Comprehensive completion instructions for the ADA Dental Claim Form are found in Section 6 of the ADA Publication titled CDT-2007/2008. Key extracts from that section
+of CDT-2007/2008 follow:
+
+GENERAL INSTRUCTIONS
+   A. The form is designed so that the Primary Payer’s (primary insurance company) name and address (Item 3) are visible in a standard #10 window envelope. Please
+      fold the form using the ‘tick-marks’ printed in the margin.
+   B. In the upper-right of the form, a blank space is provided for the convenience of the payer or insurance company, to allow the assignment of a claim or control
+      number.
+   C. All Items in the form must be completed unless it is noted on the form or in the comprehensive instructions that completion is not required.
+   D. When a name and address field is required the full name of an individual or a business, address and zip code must be entered.
+   E. All dates must include the four-digit year.
+   F. If the number of procedures reported exceeds the number of lines available on one claim form, the remaining procedures must be listed on a separate, fully
+      completed claim form.
+
+COORDINATION OF BENEFITS (COB)
+   When a claim is being submitted to a secondary payer, complete the form in its entirety and attach the primary payers Explanation of Benefits (EOB) showing the
+   amount paid by the primary payer. You may indicate the amount the primary carrier paid in the “Remarks” field (Item # 35).
+
+ITEMS OF NOTE
+    39. Number of Enclosures (00 to 99): This item is completed whether or not radiographs, oral images, or study models are submitted with the claim. If no enclosures are
+        submitted, enter 00 in each of the boxes to verify that nothing has been sent and therefore no possible attachments are missing.
+        When supplementary material is sent with the claim, the number of each type is entered in the appropriate box, using two digits. If less than 10, use 0 in the first
+        position. ‘Oral Images’ include digital radiographic images and photographs and are reported by the number of images.
+    43. Replacement of Prosthesis?: This Item applies to Crowns and all Fixed or Removable Prostheses (e.g. bridges and dentures). Please review the following three
+        situations in order to determine how to complete this Item.
+          a) If the claim does not involve a prosthetic restoration check “NO” and proceed to Item 45.
+          b) If the claim is for the initial placement of a crown, or a fixed or removable prosthesis, check “NO” and proceed to Item 45.
+          c) If the patient has previously had these teeth replaced by a crown, or a fixed or removable prosthesis, or the claim is to replace an existing crown, check the
+              “YES” field and complete section 44.
+    53. Certification: Signature of the treating or rendering dentist and the date the form is signed. This is the dentist who performed procedures indicated by date for the
+        patient. If the claim form is being used to obtain a pre-estimate or pre-authorization, it is not necessary for the dentist to sign the form. Dentists should be aware that
+        they have an ethical and legal obligation to refund fees for services that are paid in advance but are not completed.
+
+PROVIDER TAXONOMY CODES
+   58. Treating Provider Specialty: Enter the code that indicates the type of dental professional who delivered the treatment. Available codes describing treating dentists are
+       listed below. The general code listed as ‘Dentist’ may be used instead of any other dental practitioner code.
+                                                        Category / Description Code                                                                           Code
+ Dentist / A dentist is a person qualified by a doctorate in dental surgery (DDS) or dental medicine (DMD) licensed by the state to                       122300000X
+ practice dentistry, and practicing within the scope of that license.
+ General Practice / Many dentists are general practitioners who handle a wide variety of dental needs.                                                   1223G000IX
+ Dental Specialty / Other dentists practice in one of the nine specialty areas recognized by the American Dental Association.                      Various (see following list)
+ Dental Public Health                                                                                                                                    1223D000IX
+ Endodontics                                                                                                                                             1223E0200X
+ Orthodontics                                                                                                                                            1223X0400X
+ Pediatric Dentistry                                                                                                                                     1223P0221X
+ Periodontics                                                                                                                                            1223P0300X
+ Prosthodontics                                                                                                                                          1223P0700X
+ Oral & Maxillofacial Pathology                                                                                                                          1223P0106X
+ Oral & Maxillofacial Radiology                                                                                                                          1223D0008X
+ Oral & Maxillofacial Surgery                                                                                                                            1223S0112X
+ Dental provider taxonomy codes listed above are a subset of the full code set that is posted at http://www.wpc-edi.com/codes/codes.asp
+DATE OF INCURRED LIABILITY
+A service shall be deemed to have been incurred and the total cost for that service subject to applicable deductible, co-payment percentage, maximum benefit, and limitations
+shall be applied to the contract year during which the service was incurred, irrespective of the contract year during which the service is completed, according to the following:
+
+PLEASE NOTE
+Although the “Procedure Date” column should indicate the date treatment was initiated (in accordance with Northeast Delta Dental’s definition of “Date of Incurred
+Liability”), payment should never be requested until the procedure is completed.
+
+     A. Restorative Crowns. Total cost for crowns and jackets shall be incurred on the date that the tooth is prepared to receive said appliance.
+     B. Fixed Bridge (Abutment Crowns and Pontics). Total cost for fixed bridges shall be incurred on the date that the first tooth is prepared to receive said appliance.
+     C. Removable Bridgework (Removable Dentures). Total cost for removable bridgework (dentures) shall be incurred on the date that the final impressions are taken for
+        said appliance.
+     D. Endodontics. Total cost for endodontic treatment shall be incurred when the pulp chamber of the tooth is opened for the root canal.
+     E. Implants. Total cost for an allowance toward a prosthesis used in conjunction with an implant shall be incurred on the date that the impression is taken for said
+        prosthesis.
+
+COMPLETION OF TREATMENT
+Northeast Delta Dental does not make payment for incomplete treatment unless terminated due to death of patient. To qualify as a covered service, a service must be
+completed and, if applicable, “delivered” to the patient.
+
+FRAUD NOTICE
+MAINE: It is a crime to knowingly provide false, incomplete, or misleading information to an insurance company for the purpose of defrauding the company. Penalties may
+include imprisonment, fines, or denial of insurance benefits. NEW HAMPSHIRE: Any person who, with a purpose to injure, defraud, or deceive any insurance company,
+files a statement of claim containing any false, incomplete, or misleading information is subject to prosecution and punishment for insurance fraud, as provided in NH RSA
+638:20.
+

@@ -1,0 +1,581 @@
+ RFP Best Practices for Subscriber Units Procurement Toolkit
+
+
+
+
+Request for Proposal (RFP) and
+ Request for Information (RFI)
+   Development Timeline for
+   Land Mobile Radio (LMR)
+ Subscriber Units Procurement
+
+Joint SAFECOM and National Council of Statewide
+     Interoperability Coordinators (NCSWIC)
+           Technology Policy Committee
+
+
+                     February 2019
+Introduction
+Overseeing and writing a Request for Proposal (RFP) or Request for Information (RFI) can be complex and
+challenging, especially for those unfamiliar with the RFP/RFI process or with Land Mobile Radio (LMR)
+subscriber units. This document clarifies the process by identifying and explaining essential RFP and RFI
+phases for public safety agencies and entities looking to procure LMR subscriber units. Using feedback
+gathered from public safety officials within SAFECOM and the National Council of Statewide
+Interoperability Coordinators (NCSWIC), this document outlines elements of a typical RFP and/or RFI and
+captures important factors, constraints, and decisions that impact the RFP development process.
+
+While this document presents a general overview of the RFP and RFI process, it does not replace existing
+RFP policies or statutes, nor does it attempt to solve all issues associated with RFP development. Agencies
+and entities at the state, local, tribal, territorial, or regional levels should use this resource alongside
+governing procurement policies and other available resources.
+
+
+
+
+Terms and Definitions
+
+     Terms                         Definition
+
+     Procurement                   The business process of obtaining new capabilities, such as
+                                   purchasing new equipment
+     Proposal                      A written offer or bid produced by the manufacturer/vendor in
+                                   response to a RFP; the proposal includes pricing information and
+                                   requirements details
+     Requirements                  Technical preferences, standards, or mandatory requirements
+     Subscriber Units              LMR end-user devices, including portable and mobile radios
+     Vendors / Manufacturers       The companies that engineer, produce, and/or sell equipment to
+                                   public safety communications users
+     Request for Proposal          Document that outlines the capabilities, services, or technologies a
+                                   government agency or entity is seeking to procure
+     Request for Information       Document that solicits information from vendors/manufacturers
+                                   regarding existing or developing technologies or capabilities
+
+
+                                                RFP and RFI Development Timeline for LMR Subscriber Units Procurement   |1
+Document Overview
+
+ Section                Description                              Content
+
+ RFP Development        Overview of the RFP development          - RFP process overview
+ Overview               process and key considerations prior     - Determining the need for an RFI
+                        to RFP development                       - General considerations
+ RFP Development        More detailed walkthrough of RFP         - RFP timeline graphic
+ Timeline               phases and considerations for RFP        - RFP phases and key milestones
+                        process steps and decision               - Considerations for each phase and
+                        milestones                                 milestone
+ RFI Development        Walkthrough of the RFI process           - RFI timeline graphic
+ Timeline (Optional)    steps and decision points                - RFI development and release
+                                                                   recommendations
+                                                                 - RFI timeline considerations
+
+
+
+RFP Best Practices Toolkit
+This document is the third part of the SAFECOM-NCSWIC Joint Technology Policy Committee’s RFP Best
+Practices for LMR Subscriber Units Procurement Toolkit, which was developed to assist users in procuring
+subscriber units. For more information on subscriber units and RFP best practices, other documents in the
+toolkit can be found at: https://www.dhs.gov/technology
+
+
+                       RFP Best Practices for LMR Subscriber Units Toolkit
+
+
+       RFP Best Practices for LMR Subscriber    Describes subscriber units RFP best practices,
+       Units Procurement ("Do’s and Don’ts")    including lists of "Do's" and "Don’ts"
+
+
+       RFP and RFI Development Timeline for     Outlines the timeline and significant steps in the
+       LMR Subscriber Units Procurement         process of developing an RFP or RFI
+
+
+
+
+                                           RFP and RFI Development Timeline for LMR Subscriber Units Procurement   |2
+      RFI and RFP Roles and Responsibilities      Describes the various roles within RFP and RFI
+      for LMR Subscriber Units Procurement        development, along with associated responsibilities
+
+
+      RFP and RFI Sample Language and             Provides sample content structure and language,
+      Resources for LMR Subscriber Units          along with a list of general user resources, for
+      Procurement                                 developing subscriber unit RFPs and RFIs
+
+
+
+
+RFP Development Overview
+This section explores all phases of RFP development, beginning with the first conversations about
+the need for new subscriber units and ending with equipment implementation. Overall, the
+complete RFP process should be expected to take anywhere between 9 months to 3 years to
+complete. Budget cycles, grants, and other factors will likely impact the length of time to develop
+and release an RFP, as well as collect and evaluate responses and award a contract.
+
+
+
+
+                    Figure 1 - RFP HIGH-LEVEL TIMELINE STAGES AND DECISION POINT MILESTONES
+
+
+
+
+                                             RFP and RFI Development Timeline for LMR Subscriber Units Procurement   |3
+Procurement Phases
+Figure 1 shows the phases of RFP development. Each phase involves distinct activities (see Figure
+2) that prepare the RFP developers for the Decision Point Milestones. Although each phase can
+be broken into smaller decision points, for the sake of adaptability and simplicity, the phases are
+intentionally presented broadly. Additionally, the RFI — though a phase in itself — is treated
+separately, given it is not a required step for all subscriber unit procurements (see Figure 3). Also,
+agencies and entities should note that governing procurement policies may place priority on
+certain phases of development which alter the sequence of the timeline.
+
+
+
+Determining Need for an RFI
+The Planning and Development phase may include developing and releasing an RFI. While it may be
+recommended to issue an RFI, this is an optional step that is not needed in all situations.
+
+
+ What is a Request for Information (RFI)?
+
+ •       A segment of the standard procurement process whose purpose is to collect written information
+         about the capabilities of various manufacturers – a “see what’s out there” approach to
+         understanding available technologies and associated costs
+ •       A document outlining what an agency or entity wants to accomplish/the technical needs to be met
+         by acquiring new capabilities or equipment, and requests information from vendors concerning
+         those needs
+ •       A tool used during a solicitation to identify a base of potential vendors
+ •       An opportunity to ask vendors questions about capabilities prior to RFP release, proposal review,
+         and contract award/negotiation
+
+
+When approaching the need to procure new equipment, agencies and entities sometimes have various
+challenges or questions that an RFI could fitfully address. Some of these include, but are not limited to,
+the following:
+     •    The agency or entity lacks knowledge or awareness of existing or developing technologies,
+          capabilities, or services, and how those capabilities will meet the agency's or entity's needs
+     •    The range of potentials vendors is unknown
+
+                                                RFP and RFI Development Timeline for LMR Subscriber Units Procurement   |4
+   •   The agency or entity is unable to accurately estimate the costs of replacing, updating, or
+       purchasing additional subscriber units
+   •   The operability or interoperability of various subscriber units is a concern to the agency or entity,
+       and the agency or entity desires to understand how different features and functions across vendors
+       may work in the field or how vendors could address those needs
+   •   The decision makers need more information to justify proceeding with an RFP
+   •   The agency has general questions for vendors that require open conversations between the parties
+       (during certain phases of the RFP process, communications between agencies/entities and vendors
+       may be restricted)
+
+If an RFI is needed, please see the section "RFI Development Timeline" for more details on the RFI process.
+
+
+
+General RFP Considerations
+Before initiating the RFP planning process, users should be aware of various user-identified
+considerations that impact the RFP and RFI processes.
+
+System vs. Subscriber Unit Only Procurement
+Many agencies or entities choose to include subscriber unit procurement as part of a system procurement
+or implementation, while other agencies or entities choose to keep subscriber unit procurement separate
+from system procurement. Also, most contracts include Maintenance and Replacement clauses which allow
+for individual subscriber units to be obtained or replaced through the currently contracted vendor.
+Agencies and entities should consult such contract terms before deciding to issue an RFI or RFP.
+
+Legal, Statutory, and Ethical Compliance
+During the procurement process, users should be mindful of all legal, statutory, or ethical requirements.
+Project managers should consider the following activities throughout the process:
+   •   Consult an attorney or agency legal counsel during the process to ensure that legal compliance
+       and statutory deadlines (as applicable) are being met
+   •   Keep record of any documentation received from vendors
+   •   Document the decision-making process, including scoring and evaluation
+   •   Follow all existing federal, state, or agency-specific procurement policies and procedures
+   •   Be aware of appropriate times to communicate with vendors
+
+
+
+                                            RFP and RFI Development Timeline for LMR Subscriber Units Procurement   |5
+Additional User-Provided Considerations
+
+
+
+
+Adaptation and Generalization
+Although this RFP timeline guide is intended to reach a broad community of users, agencies and entities
+should recognize that not all steps or actions discussed in this document apply to agencies at every level.
+Factors such as size of the agency or entity, user needs, budget, laws, existing subscriber unit or system
+vendors, and geopolitical circumstances impact the RFP process significantly, and as a result produce a
+wide range of variation among agencies and entities. This document also does not address every user
+need regarding subscriber units or subscriber unit procurement and should not be seen as comprehensive.
+Consulting subject matter experts (SMEs), experienced users, or lawyers will be critical in identifying key
+issues that affect the RFP process for individual agencies or entities. Agencies and entities should be
+willing to adapt the RFP timeline presented in this document in accordance with their needs.
+
+
+                                             RFP and RFI Development Timeline for LMR Subscriber Units Procurement   |6
+RFP Development Timeline
+
+
+
+
+                Figure 2 - RFP DEVELOPMENT TIMELINE DECISION POINT MILESTONES BY ACTIVITY
+
+
+                                                            RFP and RFI Development Timeline for LMR Subscriber Units Procurement   |7
+RFP Phases and Decision Point Milestones
+For the purpose of organizing major events in the RFP process, groups of activities are delineated into
+"RFP phases" and "RFP milestones" and assigned to highlight when all ongoing activities need to be
+completed in order to move along in the process (see "Ongoing Activities" below). These ongoing
+activities typically progress simultaneously — and sometimes independent of each other — but must come
+together by the following milestones:
+    •   Milestone A: RFP Release
+    •   Milestone B: Notification of Intent to Award
+    •   Milestone C: Contract Award
+
+Ongoing Activities
+Several ongoing activities occur concurrently or span the entire RFP and/or RFI development process.
+Although some activities must occur before others may begin, oftentimes the processes vary between
+agencies and entities, and the timelines for different activities may be flexible according to the operational,
+political, or regulatory environment (e.g., budget may need to be appropriated).
+
+As agencies or entities progress from Planning and Development into later phases of the RFP and RFI
+processes, they should be aware that multiple processes may be occurring at the same time. It is
+recommended the procuring agency appoint a project manager to oversee the development process and
+ensure all applicable tasks are completed in their entirety and in accordance with the established RFP
+development schedule.
+
+
+
+Phase 1: Planning and Development
+In this phase, all preparations and decision points prior to issuing the RFP are executed. This includes
+developing and releasing an RFI (as applicable), and writing the RFP document.
+
+
+
+ Key Developments
+
+ Funding and Budget            • Establish initial budget for RFP development and team
+                               • Develop a budget for the RFP and for projected subscriber unit costs
+                               • Identify possible funding sources for subscriber unit procurement (e.g.,
+                                   grants, budgetary allocation)
+                                             RFP and RFI Development Timeline for LMR Subscriber Units Procurement   |8
+Key Developments
+
+                         • Prepare initial forecasts for funding needs
+                         • Determine actual funding source(s)
+                         • Approve funding source selection
+Project Administration   • Identify the project champion/executive sponsor
+                         • Assign project manager
+                         • Identify RFI/RFP team, including contractor support
+                         • Engage stakeholders, including potential vendors
+                         • Consult existing subscriber unit or system contracts to see if
+                           Maintenance and Replacement clause(s) of those contracts allow for
+                           purchase of new subscriber units
+                         • Verify or obtain (through the frequency manager or designated
+                           personnel) proper spectrum band licensing from the Federal
+                           Communications Commission (FCC), noting that licensing will take 90 to
+                           120 days, at minimum
+Requirements             • Identify need for new equipment
+Development              • Determine need to issue RFI for requirements gathering
+                         • Develop RFI per base user requirements (as applicable)
+                         • Consider sponsoring an RFI “industry day”
+                         • Release RFI (as applicable)
+                         • Develop baseline user requirements
+                         • Identify spectrum management considerations by ensuring radio units
+                           can manage spectrum usage to support operable/interoperable
+                           communications in a mutual aid situation
+                         • Solicit vendor test equipment for end user testing evaluation
+                         • Consult relevant standards (e.g., P25, Telecommunications Industry
+                           Association (TIA), state code)
+Writing, Editing, and    • Draft RFP per RFI responses (as applicable)
+Recording                • Develop evaluation/scoring criteria and detailed requirements
+                         • Prepare RFP written document for release
+
+
+
+                                      RFP and RFI Development Timeline for LMR Subscriber Units Procurement   |9
+ Key Developments
+
+ Vendor Relations              • Identify potential vendors—perform research, if necessary, to list
+                                  available manufacturers
+                               • Consider sponsoring an “industry day” (optional)
+                               • Appoint a point of contact for vendors, either from the procurement
+                                  team or the agency (or both, if applicable)
+
+
+
+Time Range
+The Planning and Development phase of the RFP timeline has a broad range of timeframes for each piece
+of development. The size of an agency/entity, quantity and scope of the subscriber units being procured,
+relevant procurement policies, budget or funding procedures, and quantity and expertise of available
+personnel contribute to the time it takes to plan and release an RFP.
+
+
+Involving Third-Party Support
+Agencies and entities may need to hire contractors to support RFP development efforts. The following
+guidelines can help with the decision to evaluate and hire secondary/external support:
+   •   Agency or entity does not have necessary expertise
+   •   Process would be slowed significantly due to low number of available and qualified staff
+   •   Contracted personnel would be more cost-effective than using in-house expertise
+
+
+Grants and Other Government Funding
+Agencies and entities should research opportunities for utilizing federal or state grant funding:
+   •   Federal or state grants may be available to agencies and entities for LMR systems
+   •   Some grants contain rules which may restrict an agency's or entity's ability to implement subscriber
+       units or interoperate across adjacent systems, agencies, or entities
+   •   Grants will include timeframe provisions, meaning that funds may need to be used within a certain
+       timeframe or by a certain date
+   •   Grants may also contain documentation requirements as prerequisites for submitting the grant
+       application.
+
+
+
+                                           RFP and RFI Development Timeline for LMR Subscriber Units Procurement   | 10
+Budget Categories and Costs Planning
+When considering the expense of procurement, three categories (only two categories, if not releasing an
+RFI) of budgets should be considered:
+   1. Costs associated with developing, writing, releasing, and evaluating the RFP
+   2. Costs associated with developing and releasing the RFI
+   3. Budget associated with the actual procurement of the subscriber units (i.e., the cost of the
+       subscriber units)
+
+The differences between the three budget categories and the costs associated with the various activities
+(namely, the RFP, RFI, and procurement costs) should be considered from both a budgeting and
+administrative perspective when initiating the RFP process.
+
+
+Writing the RFP
+The RFP document should follow an organized and consistent style and format. Legal counsel and/or
+procurement officers or department should be sought to formalize any language which has statutory or
+compliance mandates. Multiple versions of the RFP may be drafted before the final RFP document is
+published and sent to vendors.
+
+
+P25 Standards for Subscriber Units
+To maintain compliance with industry standards for interoperability, agencies and entities are encouraged
+to consult the Project 25 (P25) standards (http://www.project25.org/index.php) during requirements
+development.
+
+
+
+Milestone A: RFP Release
+At Milestone A, the RFP document is published and sent to the vendors. The period to receive proposals
+from vendors is opened. Below is a checklist of items that must be completed to reach Milestone A.
+
+
+ Milestone A Checklist
+
+
+ ☐        Funding secured and approved for RFP development and release
+
+
+ ☐        Funding approved for subscriber units
+
+                                          RFP and RFI Development Timeline for LMR Subscriber Units Procurement   | 11
+ ☐         All technical requirements recorded
+
+
+ ☐         RFP document drafted, edited, and approved for publication
+
+
+
+
+Phase 2: Proposal Evaluation
+The Proposal Evaluation phase involves receiving and evaluating vendor proposals.
+
+
+Note: The Phase 2 and Phase 3 sections do not seek to guide users as to how vendor selection is
+conducted, or to be all-inclusive to the decision-making process. Rather, these and subsequent sections
+outline key steps in the phases of proposal evaluation, vendor selection, and contract execution as
+pertaining to the procurement of subscriber units. This is done to demonstrate that the work of the
+agency/entity and procurement team is not completed at RFP release, but happens in stages prior to
+release.
+
+
+
+ Key Developments
+
+  •   Period to receive proposals from vendors is OPENED
+  •   Questions from vendors during the open period have been addressed (see "Talking to Vendors"
+      section below)
+  •   Period to received proposals from vendors is CLOSED
+  •   Vendors may not be allowed to communicate with the agency until Notification of Intent to Award
+      (see "Talking to Vendors" section below)
+  •   Evaluate and/or score the vendor proposals (only those received during the open response period)
+      using predetermined methodology/criteria
+  •   Record the analysis and conclusions
+  •   Publish announcement of record and intent to award
+
+
+
+
+                                            RFP and RFI Development Timeline for LMR Subscriber Units Procurement   | 12
+Talking to Vendors
+Due to the unique legal and political environment of each agency or entity, the rules regarding interfacing
+with vendors after the RFP is released can vary significantly. Although this document does not intend to
+answer all procurement-related vendor relations questions, this section addresses several common
+practices that the user community identified. Agencies/entities may employ one or more of these
+practices, according to governing procurement policies.
+   •   Contact with Procurement Officer Only* — Many agencies/entities alight with or designate a
+       procurement officer (who typically operates outside of the agency and the requirements team) who
+       remains the sole point of contact (POC) after the RFP is released. All vendor RFP-related questions
+       would be sent directly to the procurement officer. No communications would be permitted
+       between the other members of the agency/entity and the vendor.
+   •   "Cone of Silence"* — Procurement specialists often refer to the period of no contact between
+       agencies and vendors as the “cone of silence.” This period begins at different stages of the RFP
+       process, depending on procurement policy. However, agencies should be aware that a “cone of
+       silence” should exist in the procurement process at some point in time after the RFP is released
+       and the contract is awarded.
+   •   Written Questions and Responses Only — Many agencies/entities only allow agency-vendor
+       communications after RFP Release and before Notification of Intent to Award to be in writing. The
+       procurement team or agency will only accept written questions and will send all question responses
+       to all vendors.
+   •   RFP Amendment — Along with the Written Questions and Responses Only approach, agencies will
+       publish all responses to vendor questions in the form of an RFP addenda, appendix, amendment, or
+       notification. This documentation will then be sent to all vendors to whom the RFP was released, not
+       just to the agency who requested additional information.
+   •   Pre-Proposal Conference — Pre-proposal conferences give all interested vendors an opportunity to
+       meet with agencies or the procurement teams altogether in one place at the same time. Any
+       questions regarding RFP language, conditions, or requirements can then be addressed. Results from
+       the pre-proposal conference can be published and sent to vendors as an RFP amendment.
+
+
+   * Note: Be aware that some exceptions may apply; consult procurement policy in these instances.
+
+
+
+
+                                          RFP and RFI Development Timeline for LMR Subscriber Units Procurement   | 13
+Milestone B: Notification of Intent to Award
+At Milestone B, the vendors are notified that the proposal evaluation period has resulted in a selection of
+a vendor(s). A contract is not signed at this time. Below is a checklist of items that must be completed to
+reach Milestone B.
+
+
+ Milestone B Checklist
+
+
+ ☐        Period for receiving proposals has been opened and closed
+
+
+ ☐        Proposals have been reviewed and evaluated and/or scored
+
+
+ ☐        Pricing/cost analysis has been completed
+
+
+ ☐        Vendor(s) has been selected
+
+
+ ☐        Language for Notification of Intent to Award has been drafted and sent to the winning vendor
+
+
+
+
+Phase 3: Contract Negotiation
+The Contract Negotiation phase involves finalizing the terms and language of the acquisition contract.
+
+
+ Key Developments
+
+  •   Allow time for possible award protests from vendors
+  •   Negotiate the terms, conditions, and prices of the contract
+  •   Have a legal team review the contract language and terms
+  •   Document the negotiation process in anticipation of award protests
+  •   Finalize and sign the contract
+
+
+
+Award Protests
+When negotiating and executing a contract, keep in mind that vendors may contest the outcome of the
+agency's vendor selection. Contracts that are larger in scale (e.g., high number of subscriber units, high
+costs, long term) are particularly vulnerable to award protests. When writing the RFP, agencies and entities
+                                           RFP and RFI Development Timeline for LMR Subscriber Units Procurement   | 14
+may want to include details about award protest protocol and timelines. When evaluating and scoring
+vendor proposals, agencies and entities should ensure compliance to all ethical standards and best
+practices, as well as document any decision points or methodology relevant to vendor selection. Protest
+protocols are typically defined by procurement policies and are usually required to include in the RFP.
+
+
+
+
+Milestone C: Award Contract
+At Milestone C, the agency and the selected vendor(s) enter into a contract. The contract is signed at this
+time. Below is a checklist of items that must be completed to reach Milestone C.
+
+
+ Milestone C Checklist
+
+
+ ☐        Contract terms and conditions negotiated, documented, and made clear and final
+
+
+ ☐        Budget/costs properly appropriated or defined
+
+
+ ☐        Timeline for implementation established
+
+
+ ☐        Contract signed
+
+
+
+
+Phase 4: Post Award and Implementation
+The Post Award and Implementation phase involves steps defined in the contract required to progress
+from signing the contract to implementing the new subscriber units in the field.
+
+
+ Key Developments
+ •   Factor in amount of time to train or educate field operators (as necessary)
+ •   Implement the new equipment in the system
+
+
+
+
+                                           RFP and RFI Development Timeline for LMR Subscriber Units Procurement   | 15
+RFI Development Timeline
+
+
+
+
+                           Figure 3 - RFI DEVELOPMENT TIMELINE
+
+
+                                                   RFP and RFI Development Timeline for LMR Subscriber Units Procurement   | 16
+RFI Development and Release
+Preparing and Releasing the RFI
+   •   Describe the high-level needs of the subscribers, including known requirements
+   •   Determine the timeframe/deadline of question and answer period
+   •   Consider known range of vendors as well as adjacent/similar agencies or entities which may have
+       similar needs or requirements
+   •   Release the RFI to the vendor/subscriber unit user community
+   Note: Many of the principles included in RFP development are also applicable to RFI preparation
+
+
+Key Developments for RFI release
+   •   Perform preliminary base end-user requirements research
+   •   Determine need to issue RFI
+   •   Identify potential vendors/other users
+   •   Release RFI to vendor community
+   •   Allow time for question/answer period with potential vendors
+   •   Organize an “industry day” for vendors to demonstrate technologies (optional)
+   •   Close response period and evaluate RFI responses
+   •   Modify RFP language per RFI responses
+
+
+Reviewing RFI Submissions
+   •   Track information gathered from RFI responses for future reference (e.g., build an information
+       database)
+   •   Transfer useful information, terms, or requirements to the RFP under development
+   •   As necessary, ask vendors follow-up questions
+
+
+Timeline
+User input suggests that the preparation, release, and response period for an RFI can be executed in a few
+weeks, depending on the flexibility of resources and governing policies of the agency. Given that the RFI is
+an exploratory phase for the agency, project overseers should not expect to spend too much time or
+resources on developing an RFI, especially if the agencies or entities know what types of capabilities will
+be addressed in the RFP.
+
+                                           RFP and RFI Development Timeline for LMR Subscriber Units Procurement   | 17
+

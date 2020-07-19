@@ -1,0 +1,1556 @@
+REQUEST FOR PROPOSAL (RFP)
+
+SPECIFICATIONS/REQUIREMENTS
+             FOR:
+
+  A CIVIC SERVICES SYSTEM
+
+       # C-2020-0076
+
+
+    PROPOSAL DEADLINE
+
+
+        JULY 7, 2020
+
+       3:00 PM (CST)
+
+
+
+
+           Page 1
+                                                        Table of Contents
+
+ Section Description                                                                                                   Page Number
+
+
+Notice to Bidders ……………………………………………..………………………………………………………………………. 3
+Proposal of Bidders …………………………………………………………………………………………..……………………… 4
+Timeline …………………………………………………………………………………………………………………………………... 6
+General Conditions …………………………………………………………………………………………………………….…….. 7
+Scope of Work ………………….……………………………………………………………………………………………….…..... 12
+Scope of Services ……………………………………………………………………………………………........................... 14
+Application Specification & Capabilities (Exhibit A.1 & B.1 & C.1) .…………………………………….…….... 18
+Pricing Spreadsheet (Exhibit D) ..………………………………………………………………………..…………………….. 19
+Project Delivery Lifecycle (Exhibit E) ………………………………………………………………..................….…… 19
+Attachment A Reponses Format …………………………………………………………………………..................……. 20
+Attachment B Hardware Specifications ………………………………………………………………..…................... 21
+Attachment C Deliverable Documentation ……………………………………………..................……............... 23
+Sample Documentation …………………. ………………………………………………………….....................…………. 24
+Attachment D Non-Collusion Affidavit ……………………………………………………………………….................. 28
+Attachment E Existing System’s Data To Be Migrated ……………………………………………………….......... 29
+Special Conditions …………………………………………………………………………………………….......................... 30
+Agreement by Bidder...................................................................................................................... 32
+Insurance Requirement ………………………………………………………………………………………....................... 34
+Insurance Requirement Affidavit …................................................................................................ 36
+Reference ………………………………………………………………………………………………………............................ 37
+Conflict of Interest Questionnaire …………………………………………………….………………………................. 38
+Certificate of Interested Parties ………………………………………………………………………………................... 41
+Contractors Bid Bond …………………………………………………………………………………………………................ 43
+Performance Bond …………………………………………………………………………………………….......................... 44
+
+
+
+
+                                                                          Page 2
+                                            NOTICE TO BIDDERS
+
+                  The terms “bid” and “RFP” used in this document have the same meaning.
+Sealed RFPs will be received by the Woodlands Township at the office of William Pham, Director of Information
+Technology, 2801 Technology Forest Blvd, The Woodlands, Texas 77381 or via email to the Director of Information
+Technology, provided a digital signature is included, until the hour 3:00 PM on the 7th day July 2020; at which
+time proposals duly postmarked, submitted or delivered will be considered for supplying the following:
+                                    RFP FOR A CIVIC SERVICES SYSTEM
+                                             # C-2020-0076
+
+Any request for proposals received after stated closing time will be returned unopened. If request for proposals
+are sent by mail to the Director of Information Technology, the proposer shall be responsible for actual delivery
+of the request for proposal to the Director of Information Technology before the advertised date and hour for
+opening of request for proposals. The Township will require temperature screening of any delivery personnel.
+Any personnel with a temperature above 100.4F will not be allowed entry. If mail is delayed by the postal
+service, courier service, an ISP – internet service provider or in the internal mail system of the Woodlands
+Township beyond the date and hour set for the request for proposal opening, request for proposals thus
+delayed will not be considered and will be returned unopened.
+
+Information concerning the proposal specifications may be obtained by emailing William Pham at
+wpham@thewoodlandstownship-tx.gov
+
+Information on the RFP process/procedures may be obtained from William Pham, Director of Information
+Technology, at 281-210-3845 or wpham@thewoodlandstownship-tx.gov
+
+Until the final award by the Woodlands Township, the Township reserves the right to reject any and/or all proposals,
+to waive technicalities, to re-advertise, or to proceed otherwise when the best interests of the Township will be
+realized thereby. Proposals will be submitted sealed and plainly marked with the date and time of delivery.
+
+
+
+
+Publication Dates: June 1, 2020
+
+Closing Date: July 7, 2020
+
+Mandatory Pre-Proposal Meeting: June 11, 2020
+
+
+
+
+                                                       Page 3
+                                          PROPOSAL OF BIDDERS
+All:
+The following RFP is made for furnishing the materials/services for the Woodlands Township, Texas.
+
+The undersigned declares that the amount and nature of the materials/services required is understood and that
+this proposal is in strict accordance with the requirements of the RFP and is a part of this bid, and that there will
+at no time be a misunderstanding as to the intent of the specifications or conditions to be overcome or pleaded
+after the proposals are tendered.
+
+The undersigned hereby proposes to furnish any supplies or equipment necessary for this bid/RFP, F.O.B. The
+Woodlands, Texas, freight pre-paid at the unit prices quoted herein after notice of bid award. The undersigned
+affirms that they are duly authorized to execute this contract that this company, corporation, firm, partnership
+or individual and has not prepared this bid in collusion with any other bidder, and that the contents of this bid
+as to prices, terms or conditions of said bid have not been communicated by the undersigned nor by any
+employee or agent to any other person engaged in this type of business prior to the official opening of this type
+of business prior to the official opening of this bid.
+
+
+
+
+                                         PROPOSAL OF BIDDERS
+
+C-2020-0076
+REQUEST FOR PROPOSAL FOR
+CIVIC SERVICES SYSTEM
+
+
+
+                                                                Respectfully Submitted,
+
+PLEASE PROVIDE A COPY OF
+YOUR W-9
+                                                                SIGNATURE
+
+
+                                                                DATE
+
+
+PRINTED NAME                                                    TITLE
+
+
+COMPANY NAME                                          CONTACT PERSON
+
+
+MAILING ADDRESS                               CITY                      STATE           ZIP
+
+
+PAYMENT ADDRESS                                       CITY                      STATE         ZIP
+
+
+                                                       Page 4
+PHONE NUMBER                                                             FAX NUMBER
+
+
+E-MAIL ADDRESS                                                 WEB PAGE
+
+HUB Vendor Status             YES (attach certification)     ________ NO ____________
+
+
+HUB VENDORS: HUB Vendors (Historically Underutilized Business) are Vendors whose company is owned by either a minority or
+
+woman. If you are classified as a HUB Vendor and have certification to prove this, please respond below and attach a copy of your
+
+certification. If you would like to read the Texas bid statute, which references HUB Vendors, please follow this link
+
+http://www.statutes.legis.state.tx.us/SOTWDocs/LG/htm/LG.252.htm
+
+
+
+NO BIDS:          If response is not received in the form of a “BID” or “No BID” bidder will be removed from
+                  bid list. Please give a specific reason as to why you are unable to bid, i.e.: we do not sell the
+                  required product/service.
+
+
+                     REQUEST FOR PROPOSAL FOR A CIVIC SERVICES SYSTEM
+
+                                                             TIMELINE
+
+                                                 THE WOODLANDS TOWNSHIP
+
+
+The estimated RFP timeline is as follows:
+
+         Advertise
+
+         RFP Release/Available on website June 1, 2020
+
+         Pre-Proposal Meeting                         June 11, 2020
+
+         Deadline for Questions                       June 18, 2020
+
+         Deadline for Response to Questions June 24, 2020
+
+         Deadline for Proposals                       July 7, 2020
+
+         Proposal Analysis                            July 9, 2020
+
+         Interviews with Finalists                    July 15, 2020
+
+         Board of Directors Authorization                                TBD
+
+                                                                Page 5
+Contract Negotiation                    TBD
+
+Expected Start of Operations            Will be determined during contract negotiations
+
+First Module Go Live                    Will be determined during contract negotiations
+
+
+
+
+                               Page 6
+                                              GENERAL CONDITIONS
+ADDENDA
+It is the responsibility of the Vendor to check for addenda. Addenda will be posted to the Township’s website:
+http://www.thewoodlandstownship-tx.gov/bids.aspx
+
+ASSIGNMENT OF REQUEST FOR PROPOSAL/CONTRACT
+The successful proposer may not assign their rights and duties under and award without the written consent of the
+Township’s Director of Information Technology. Such consent shall not relieve the assignor of liability in event of
+default by their assignee.
+
+REQUEST FOR PROPOSAL CONSIDERATION / TABULATION
+After request for proposals are opened and publicly read, the request for proposals will be tabulated for comparison
+on the basis of the request for proposal prices and quantities (lowest responsible Vendor) or by the best value
+method shown in the Proposal. Until final award of the Contract, the Township reserves the right to reject any or
+all request for proposals, to waive technicalities, and to re-advertise for new request for proposals, or proposed to
+do the work otherwise in the best interests of the Township.
+The following items will be considered when an award is based on the following criteria
+   •   Ability to provide requested specifications                                             25%
+   •   Customer Support (to include conversation, staff training, and ongoing support)         25%
+   •   Price (to include start up, training, any server hosting, maintenance, and annual fees) 20%
+   •   Navigation is uncomplicated and straightforward                                         15%
+   •   Previous Experience (provide current client list for municipalities with like departments of
+       comparable size)                                                                        15%
+
+REQUEST FOR PROPOSALS SUBMISSION
+Request for Proposals may be submitted in person, electronically or by mail.
+   •   To submit a Request for Proposal electronically, all documents must be returned and a digital signature
+       provided on the proposal to submitters form.
+   •   SUBMIT REQUEST FOR PROPOSALS VIA EMAIL TO WPHAM@THEWOODLANDSTOWNSHIP-TX.GOV
+   •   Submit request for proposals via mail to 2801 Technology Forest Blvd, The Woodlands, TX 77381
+   •   Proposals must be marked on the outside of the packaging, “Response to #C-2020-0076
+   •   To submit a request for proposal via mail, all documents must be returned and an original signature
+       provided on the proposal to submitters sheet.
+   •   Request for proposals will not be accepted in either format without a signature.
+   •   The Township is not responsible for mail service.
+
+
+
+
+                                                       Page 7
+BRAND NAMES
+If items for which request for proposals have been called for have been identified by a “brand name or equal”
+description, such identification is intended to be descriptive, but not restrictive, and is to indicate the quality and
+characteristics of products that will be satisfactory. Request for proposals offering “equal” products will be
+considered for award if such products are clearly identified in the request for proposals and are determined by the
+Director of Information Technology and requesting Department to be equal in all material respects to the brand
+name products referenced. Unless the proposer clearly indicates in their request for proposal that they are
+offering an “equal product”, their request for proposal shall be considered as offering a brand name product
+referenced in the Proposal Schedule.
+
+CANCELLATION OF REQUEST FOR PROPOSALS
+Request for proposals may be cancelled with 60 days written notice with good cause.
+
+CHANGES OR ALTERATIONS
+No part of this request for proposal may be changed/altered in any way. Vendors must submit written requests to
+change any specifications/conditions with their proposal. Changes made without submission of a written request
+to this request for proposal will result in disqualification.
+
+COMPLETING INFORMATION
+Proposer must fill in all information asked for in the blanks provided under each item. Failure to comply may result
+in rejection of the Request for Proposal at the Township’s option.
+
+CONTRACT CLAUSE
+All proposers understand and agree that the Vendor’s request for proposal response will become a legally
+binding contract upon acceptance in writing by the Township. This contract may be superseded only if replaced
+with a more extensive contract that is agreed to by both parties.
+
+DEFAULT
+In case of default of the successful proposer, the Woodlands Township may procure the articles from other sources
+and hold the proposer responsible for any excess cost occasioned thereby.
+
+DELIVERY
+The Township reserves the right to demand bond or penalty to guarantee delivery by the date indicated. If order
+is given and the Proposer fails to furnish the materials by the guaranteed date, the Township reserves the right to
+cancel the order without liability on its part. All prices are to be F.O.B. The Woodlands, Texas all freight prepaid.
+
+
+DELIVERY DATE
+Delivery date is an important factor to the Township and may be required to be a part of each request for
+proposal. The Woodlands Township considers delivery time to be that period elapsing from the time the
+individual order is placed until that order or work thereunder is received by the Township at the specified
+delivery location. The delivery date indicates a guaranteed delivery at The Woodlands, Texas. Failure of the
+proposer to meet guaranteed delivery dates or service performance could affect future Township orders.
+Whenever the Contractor encounters any difficulty which is delaying or threatens to delay timely performance
+(including actual or potential labor disputes), the Contractor shall immediately give notice thereof in writing to the
+                                                        Page 8
+Director of Information Technology, stating all relevant information with respect thereto. Such notice shall not in
+any way constitute a basis for an extension of the delivery or performance schedule or be construed as a waiver by
+the Township of any rights or remedies to which it is entitled by law or pursuant to provisions herein. Failure to
+give such notice, however, may be grounds for denial of any request for an extension of the delivery or performance
+schedule because of such delivery.
+
+INDEMNIFICATION
+IN CASE ANY ACTION IN COURT IS BROUGHT AGAINST THE TOWNSHIP, OR ANY OFFICER OR AGENT OF THE
+TOWNSHIP, FOR THE FAILURE, OMISSION, OR NEGLECT OF THE VENDOR TO PERFORM ANY OF THE
+COVENANTS, ACTS, MATTERS, OR THINGS BY THIS CONTRACT UNDERTAKEN; OR FOR INJURY OR DAMAGE
+CAUSED BY THE ALLEGED NEGLIGENCE OF THE VENDOR OR HIS SUBCONTRACTORS OR HIS OR THEIR AGENTS,
+OR IN CONNECTION WITH ANY CLAIM BASED ON LAWFUL DEMANDS OF SUBCONTRACTORS, WORKMEN,
+MATERIALMEN, OR SUPPLIERS THE VENDOR SHALL INDEMNIFY AND SAVE HARMLESS THE TOWNSHIP AND
+ITS OFFICERS AND AGENTS, FROM ALL LOSSES, DAMAGES, COSTS, EXPENSES, JUDGMENTS, OR DECREES
+ARISING OUT OF SUCH ACTION.
+
+INSURANCE
+Deductibles, of any type, are the responsibility of the Vendor/contractor
+
+MISCELLANEOUS
+Except as to any supplies or components which the specifications provide need not be new, all supplies and
+components to be provided under this contract shall be new (not used or reconditioned, and not of such age or so
+deteriorated as to impair their usefulness or safety), of current production and of the most suitable grade for the
+purpose intended. If at any time during the performance of this contract the Contractor believes that the furnishing
+of supplies or components, which are not new, is necessary or desirable, they shall notify the Director of Information
+Technology immediately, in writing, including the reasons therefore and proposing any consideration, which will
+flow to the Township if authorization to use supplies or components is granted.
+The Township will consider special Vendor pricing on discounts in exchange for Township’s willingness to participate
+in new product testing or promotion including ability of Vendor to bring other potential customers to Township job
+sites to demonstrate product. The amount of product discount in exchange for these services should be clearly
+stated in the request for proposal document. Any promotional strategies should be discussed with the Director of
+Information Technology and approved by the appropriate Township Official(s) before submission of the request for
+proposal.
+Successful proposer(s) agrees to extend prices to all entities that have entered into or will enter into joint purchasing
+inter-local cooperation agreements with the Woodlands Township. As such, the Woodlands Township has
+executed an inter-local agreement with certain other governmental entities authorizing participation in a
+cooperative purchasing program. The successful Vendor may be asked to provide product/services, based upon
+the request for proposal price, to any other participant in the forum.
+The Township operates on a fiscal year that ends on December 31st. State law mandates that a municipality may
+not commit funds beyond a fiscal year; this request for proposal is subject to cancellation if funds for this commodity
+are not approved in the next fiscal year.
+
+
+
+
+                                                         Page 9
+PAYMENT TERMS & CONDITIONS
+All request for proposals shall specify terms and conditions of payment, which will be considered as part of, but not
+control, the award of request for proposal. Township review, inspection, and processing procedures ordinarily
+require thirty (30) days after receipt of invoice, materials or service. Request for proposals which call for payment
+before 30 days from receipt of invoice, or cash discounts given on such payment, will be considered only if in the
+opinion of the Director of Information Technology the review, inspection and processing procedures can be
+completed as to the specific purchases within the specified time.
+It is the intention of the Woodlands Township to make payment on completed orders within thirty (30) days of
+receiving invoicing unless unusual circumstances arise. Invoices shall be fully documented as to labor, materials
+and equipment provided. Orders will be placed by the Information Technology Department and must be given a
+Purchase Order Number to be valid. No payments shall be made on invoices not listing a Purchase Order Number.
+No partial payment will be made.
+Payment will not be made by the Township until the Vendor has been given a Purchase Order Number, has
+furnished proper invoice, materials, or services, and otherwise complied with Township Purchasing procedures,
+unless this provision is waived by the Township.
+
+PROVISIONAL CLAUSES
+The Woodlands Township will not enter into any contract where the cost is provisional upon such clauses as are
+known as “escalator” or “cost-plus” clauses.
+
+REJECTION OF REQUEST FOR PROPOSALS
+The Township reserves the right to reject any or all request for proposals or to waive technicalities at its option
+when in the best interests of said Township.
+Request for proposals will be considered irregular if they show any omissions, alteration of form, additions, or
+conditions not called for, unauthorized alternate request for proposals or irregularities of any kind. However, the
+Township reserves the right to waive any irregularities and to make the award in the best interests of the Township.
+The Township reserves the right to reject any or all request for proposals, and all request for proposals submitted
+are subject to this reservation. Request for proposals may be rejected, among other reasons, for any of the
+following specific reasons:
+   •   Request for proposals received after the time limit for receiving request for proposals as stated in the
+       advertisement.
+   •   Proposal containing any irregularities.
+   •   Unbalanced value of any items.
+Proposers may be disqualified and their request for proposals not considered, among other reasons, for any of the
+following specific reasons:
+   •   Reason for believing collusion exists among the Proposers.
+   •   Reasonable grounds for believing that any Proposer is interested in more than one Proposal for the work
+       contemplated.
+   •   The Proposer being interested in any litigation against the Township.
+   •   The Proposer being in arrears on any existing contract or having defaulted on a previous contract.
+   •   Lack of competency as revealed by a financial statement, experience and equipment, questionnaires, etc.
+
+
+                                                      Page 10
+   •   Uncompleted work, which in the judgment of the Township will prevent or hinder the prompt completion
+       of additional work if awarded.
+
+REQUEST FOR NON-CONSIDERATION
+Request for proposals deposited with the Township cannot be withdrawn prior to the time set for opening request
+for proposals. Request for non-consideration of request for proposals must be made in writing to the Director of
+Information Technology and received by the Township prior to the time set for opening request for proposals. After
+other request for proposals are opened and publicly read, the Proposal for which non-consideration is properly
+requested may be returned unopened. The Proposal may not be withdrawn after the request for proposals have
+been opened, and the Proposer, in submitting the same, warrants and guarantees that this request for proposal
+has been carefully reviewed and checked and that it is in all things true and accurate and free of mistakes and that
+such request for proposal will not and cannot be withdrawn because of any mistake committed by the Proposer.
+
+SALES TAX
+The total for each request for proposal submitted must include any applicable taxes. Although the Township is
+exempt from most Township, State, or Federal taxes, this is not true in all cases. It is suggested that taxes, if any,
+be separately identified, itemized, and stated on each request for proposal. The Township cannot determine for
+the proposer whether or not the request for proposal is taxable to the Township. The proposer through the
+proposer’s attorney or tax consultant must make such determination. Bills submitted for taxes after the request
+for proposals are awarded will not be honored.
+
+
+
+
+                                                       Page 11
+                                         REQUEST FOR PROPOSAL
+                                       FOR A CIVIC SERVICES SYSTEM
+                                                SCOPE OF WORK
+
+The scope of work shall be finalized upon the selection of the Vendor. The respondent’s submission shall have
+accurately described your understanding of the objectives and scope of the requested products and services
+with a provided outline of your process to implement the requirements of the Scope of Work and Services. This
+Request for Proposal (RFP) contains the information and requirements necessary for Vendors to prepare and
+submit proposals. The Vendor shall outline their intended work plan to meet the objectives and requirements
+of this proposal including an estimate of the timeframe for system orientation. The Vendor shall provide
+proposal costs in an itemized form and clearly identify any requirements that they are not able to meet.
+Software systems currently in use will be replaced as a result of this RFP.
+Project Background: The Woodlands Township is interested in soliciting proposal from qualified providers of
+municipal software whose product offerings meet or exceeds current Township requirements and whose
+complete product offering provides a robust solution set that will allow the Township to continue to leverage
+this investment well into the future as the needs of the Township grow and evolve.
+A goal of this project is to streamline operational processes, increase efficiency in the workplace, and decrease
+the use of paper in daily activities. The use of a GIS based Civic Services System; reduces the time and energy
+needed to complete everyday tasks, allows for ease of access to materials while in the field, mobility, offers
+integration of previously separated systems, and has the potential to eliminate the use of paper in the long-
+term.
+Project Current Environment: The Woodlands Township currently has a population of approximately 117,305.
+Located north of the Houston area, the Woodlands Township is a vibrant corporate and residential community.
+The Township's location and business cost advantages attract and support a diverse local economy with over
+7,500 businesses calling The Woodlands home. Residents are drawn to the Township for its high quality of life,
+abundant parks, schools and safe neighborhoods. The Woodlands Township is the governmental service
+provider for residents and businesses, providing enhanced law enforcement services, fire protection,
+environmental      services,   parks    and    recreation,    economic      development      and      more.
+
+The Township staff and publicly elected Board of Directors are committed to public safety and exceptional
+levels of customer service. Together, they responsibly fulfill the governance needs of the community while
+promoting the economic development of The Woodlands and providing services that enhance property
+values. The Community Services departments currently utilizing this software includes Parks and Recreation and
+the Covenant Administration.
+
+
+
+
+                                                    Page 12
+Project Vision: The Township wishes to capitalize on updated technology and capabilities to realize their vision
+of improved productivity and services and provide the system infrastructure that includes the capability of a
+completely paperless operation within the department. The new system is also envisioned to improve and
+optimize operational performance, provide a high-availability and maintainable system while maximizing the
+utilization of existing information technology resources and infrastructure within the Township.
+The Township has budgeted to replace the existing Work Order/Service Request & CRM and Asset Management
+(Phase I) System in 2020. The Township has proposed to replace the existing Land Management System in 2021
+(Phase 2).
+
+
+
+
+                                                    Page 13
+                                               SCOPE OF SERVICES
+The selected Vendor will be responsible for the design, development, and testing of all software, hardware, and
+network components required to support the implementation of the Work Order, Asset Management and
+Service Request & CRM . The Vendor will coordinate with the Township IT department for procurement and
+installation activities. The Vendor will provide Key Services as described. Vendor will also be assisting through
+the completion of the conversion and the first several months after going live. The Vendor is to provide customer
+support.
+
+KEY SERVICE NEEDS
+A.    PROJECT MANAGEMENT SERVICES
+Upon creation of Statement of Work, a Project Manager from the Vendor will be identified and available to work
+with the Township’s Information Technology Department (IT). The Vendor’s Project Manager will have
+responsibility to partner with the Township’s IT PM and follow their project delivery cycle. Vendor will establish
+a project management portal. Please see Exhibit C Project Delivery Lifecycle.
+B.    SYSTEM STANDARDS
+The selected Vendor will be responsible for the design, development, configuration and implementation of the
+System’s software and application database. The Township will consider only Vendors who use an industry
+standard database (e.g., MSSQL). The vendor will be required to provide a data dictionary that identifies the
+meaning, usage, and relationship of data fields and tables. The selected Vendor will also be responsible for
+providing documentation for the continued maintenance of the application database after implementation.
+The Vendor’s recommendation for all infrastructure needed (e.g., workstations, printers, scanners, network
+devices, and servers) should be included in the response. The selected Vendor will be required to work with the
+Township’s IT department to purchase, install and configure all infrastructures as needed.
+The Vendor should provide recommendations for storage needed for the new system and forecasted estimates
+for five years after system implementation.
+If Cloud or SaaS:
+The Vendor shall provide the knowledge necessary to operate and maintain the software. The vendor shall
+also provide a cloud focused escrow solution (such as NCC Groups SaaS Assured services or other software
+escrow service). The Vendor shall provide specifics to sufficiently ensure that all Township data will be stored
+in the United States.
+If Cloud or Premise:
+The Vendor shall escrow all source code necessary to operate the application and integrated software to meet
+the business needs of the Customer.
+C.    SYSTEM INTEGRATION/INTERFACE SERVICES
+The required integrations and interfaces that the Vendor is responsible for providing are listed in Exhibit A.1
+Application Specifications & Capabilities. In addition to the aforementioned, a key component of the Vendor’s
+responsibilities is to provide a bi-directional application-programming interface (API) to allow other systems to
+interface with the Vendor’s software. The Vendor should provide a schema and a listing of the API’s capabilities.
+The API should be well documented and include examples for its usage. In addition, the API should have any
+functionality and schema changes documented and described in the application’s release notes.
+D.     DATA MIGRATION SERVICES
+                                                     Page 14
+The selected Vendor will be responsible for the design and development of the data migration from the existing
+system to the Vendor’s system. In addition, the vendor will be required to assist in the mapping of data from
+the existing system to the Vendor’s system. The data migration must be tested with a sampling of the Township’s
+existing data. The Vendor will be responsible for adjusting the data migration method to ensure successful data
+migration. Existing systems are identified in Attachment F “Existing Systems’ Data to be migrated.”
+Vendors should describe the methodology to migrate historical data into the proposed system and identify the
+associated costs in Exhibit B “Price Sheets.”
+E.      SYSTEM TRAINING
+The Vendor must provide training to designated users within the Township, training staff and other staff
+responsible for training to achieve an understanding of the new system, services, or release. The training will
+incorporate a train-the-trainer model so that participants can, in turn, provide training to additional users. Users
+must become proficient in using and viewing information in the Vendor’s solution in order to ensure effective
+and efficient business operations and service delivery. Training materials and instruction is preferred in English
+and Spanish. The Vendor must describe their approach to meet each of the detailed training requirements
+defined in table below.
+
+     1.   The Vendor shall update training materials when changes occur.
+     2.   The Vendor shall collaborate with the Woodlands Township to finalize a training
+          schedule.
+     3.   The Vendor shall maintain and update the training environment with training data
+          to use during user training.
+     4.   The Vendor shall provide train-the-trainer sessions for Woodlands Township
+          resources or designated Woodlands Township resources and other staff responsible
+          for training.
+     5.   The Vendor shall utilize a variety of delivery methods to best meet the training
+          objectives. Examples include online self-paced training presentations, in-person
+          classroom setting, written material, and demonstrations.
+     6.   The Vendor must provide training necessary to support new functionality and/or
+          major software releases that materially change the user interaction.
+     7.   The Vendor shall provide training to Woodlands Township staff and other
+          designated module Vendors on the overall data management strategy and
+          investigating data or process issues related to module integration.
+     8.   The Vendor shall develop and maintain electronic training guides and materials to
+          support the Train the Trainer instruction.
+     9.   The Vendor's training materials shall be offered in accessible formats consistent
+          with requirements of the Americans with Disabilities Act.
+
+
+
+
+                                                      Page 15
+   F. PROJECT DELIVERABLES
+The selected Vendor will be required to prepare and submit the deliverables described in Attachment C:
+Deliverable Documentation. The schedule for deliverables submission will be determined during contract
+negotiations. The selected Vendor will also be required to prepare presentation materials and participate in
+community meetings and technical interchange meetings, as needed, and provide progress updates to
+interested parties throughout the life of the project.
+
+
+APPLICATION SPECIFICATIONS
+The selected Vendor will be responsible for demonstrating their product’s ability to meet or exceed the specific
+business requirements as outlined in Exhibit A.1 , B.1 and C.1 Application Specifications and Capabilities.
+       System Interfaces: It will be incumbent on the Vendor to declare and demonstrate their ability to provide
+       robust, sustainable interface and/or integration with the external systems indicated in the See System
+       Capabilities as listed in EXHIBIT A.1., B.1 and C.1
+        1.0   Independent Verification and Validation
+              Township may choose to utilize the services of a third party Vendor to provide Independent
+              Verification and Validation (IV&V) services to ensure that all software, hardware and network
+              components have been properly installed, configured, documented, and are working according
+              to specifications. The selected Vendor will be required to provide all documentation and
+              assistance deemed necessary by the IV&V Vendor to conduct this independent assessment.
+       2.0    Vendor Qualifications and Experience
+              The Vendor's proposed project team must meet the minimum qualifications outlined below. The
+              qualifications, experience (specifying number of years), educational background, and any
+              certifications achieved/maintained, must be provided for each member of the proposed project
+              team (resume format preferred).
+       3.0    Financial Stability and Resources
+              The Vendor shall provide a description of the company history and financial stability with certified
+              financial statements for the last two (2) years. The application must be stable and mature with
+              multiple installations completed. It is preferred that installations exist in Texas.
+       4.0    Client References
+              The Vendor shall provide a list of all installations similar to the proposed system, indicating
+              modules purchased, the date of initiation of installation and the date all components went live.
+              Organizations no longer using the system must also be included.
+       5.0    Procurement Restrictions
+              Vendors shall not, under the penalty of law, offer any gratuities, favors or anything of monetary
+              value to any officer, employee or Agent of the Township in connection with this competitive
+              procurement. Failure to observe these restrictions will result in the disqualification of a Vendor
+              from continuing any involvement in the procurement process. This restriction does not preclude
+              discussions between affected parties for the purpose of discussing business not related to this
+              RFP. All materials submitted as a part of a Vendor's response will be confidential until the process
+              procurement has concluded, after which time such materials will become a matter of public
+              record to the extent permitted under Texas law.
+
+
+
+                                                    Page 16
+6.0   Selection Process
+      6.0.1 Selection and award shall be made based on demonstrated competence and
+      qualifications to perform the services for a fair and reasonable price. In evaluating a Proposal,
+      the Township reserves the right to accept or reject all or part of any Proposal, waive minor
+      technicalities, and award the contract to best serve the interests of the Township. Vendors should
+      include any additional information that may indicate superior services.
+      6.0.2 A Project Team will review the Proposals using these evaluation criteria to determine
+      which Proposal provides the best value to the Township. The Township may conduct
+      simultaneous discussions with finalist Vendors regarding scope, terms and conditions, cost and
+      other issues. The Township Board of Directors will approve the ultimate selection.
+      6.0.3 After a Proposal has been selected as the finalist, the Township will enter into
+      negotiations with the selected Vendor to execute the project contract. The selected Vendor must
+      negotiate in a timely manner and in good faith with the Township. The Township reserves the
+      right to discontinue negotiations with a particular Vendor if it determines that it is in the best
+      interests of the Township.
+7.0   Contract Award Process
+      Contract award will be made with reasonable promptness to the Vendor who’s Proposal and
+      qualifications best conform to the specifications in this RFP and will be most advantageous to the
+      Township. An award may be made to other than the lowest priced Proposal.
+
+
+
+
+                                           Page 17
+   EXHIBIT A.1
+                          SEE EXHIBIT A.1 SPREADSHEET
+              WORK ORDER APPLICATION SPECIFICATIONS & CAPABILITIES
+The purpose of Exhibit A.1 is to evaluate the Vendor responses as to the breadth of the proposed system.
+Any capability marked as “Comply” or “Partial Comply” must be included in the pricing presented. Vendors
+should indicate capabilities which are included in the proposed systems (and installed in a release currently
+being used in production); indicate capabilities which can be added at no additional cost; and indicate which
+capabilities are not available, and therefore, not included in the pricing provided. All capability indications
+should be noted in the comment column.
+
+
+                                                 EXHIBIT B.1
+                                    SEE EXHIBIT B.1 SPREADSHEET
+          LAND MANAGEMENT APPLICATION SPECIFICATIONS & CAPABILITIES
+The purpose of Exhibit B.1 is to evaluate the Vendor responses as to the breadth of the proposed system.
+Any capability marked as “Comply” or “Partial Comply” must be included in the pricing presented. Vendors
+should indicate capabilities which are included in the proposed systems (and installed in a release currently
+being used in production); indicate capabilities which can be added at no additional cost; and indicate which
+capabilities are not available, and therefore, not included in the pricing provided. All capability indications
+should be noted in the comment column.
+
+                                                 EXHIBIT C.1
+                                    SEE EXHIBIT C.1 SPREADSHEET
+                      CRM APPLICATION SPECIFICATIONS & CAPABILITIES
+The purpose of Exhibit C.1 is to evaluate the Vendor responses as to the breadth of the proposed system.
+Any capability marked as “Comply” or “Partial Comply” must be included in the pricing presented. Vendors
+should indicate capabilities which are included in the proposed systems (and installed in a release currently
+being used in production); indicate capabilities which can be added at no additional cost; and indicate which
+capabilities are not available, and therefore, not included in the pricing provided. All capability indications
+should be noted in the comment column.
+
+
+
+
+                                                   Page 18
+EXHIBIT D
+                              SEE EXHIBIT D PRICING SPREADSHEET
+
+Vendor Name: ____________________________________________________
+
+The Vendor must respond using the excel spreadsheet listed as Exhibit A.1., B.1 and C.1 The Vendor must
+include the subtotal price for each major section and a total for the entire project The price for services should
+be reflected as totals for each member of the Vendor's proposed project team (i.e. indicate the hourly rate,
+estimated number of hours, and total estimated price for each member of the proposed project team). Travel
+costs should be broken down into transportation, hotel and meals per diem.
+
+                                                  EXHIBIT E
+                          SEE EXHIBIT E. PROJECT DELIVERY LIFECYCLE
+
+
+
+
+                                                     Page 19
+                                            ATTACHMENT A
+                                           RESPONSE FORMAT
+All responses should be formatted as follows:
+
+Volume I Technical and Management Response
+
+I.     Transmittal Letter: This document should contain the date of the Proposal and the period for which it is
+       valid in letterform on original company letterhead, signed by a representative of the Vendor's company
+       who is authorized to bind the Vendor to the Proposal. Any other pertinent information the Vendor
+       deems appropriate to the Proposal may be included. If any portion of the Proposal, to include the entire
+       Proposal, is deemed by the Vendor to be proprietary or confidential for purposes of public disclosure,
+       this should be stated here. The Vendor must include the name, address, INTERNET electronic mail
+       address, telephone number, and FAX number of a contact person who is able to respond to inquiries
+       from the Township
+
+II.    Table of Contents
+
+III.   Vendor's Understanding of the Scope of Work
+
+IV.    Vendor Qualifications and Experiences
+
+V.     Financial Stability and Resources
+
+VI.    Client References
+
+VII.   Exceptions to the Specifications and Requirements in the RFP (including a detailed explanation of any
+       and all deviations to the Scope of Work, and any Standard Terms and Conditions delineated in Exhibit A-
+       1 to which the Vendor takes exception)
+
+Submittal Requirements:
+
+The Vendor must submit one (1) original, one (1) electronic and seven (7) copies of the Proposal if submitting
+hard copies. Each printed response volume must be separately bound with a method to delineate each section.
+The electronic copy should be placed inside binder of the original copy. DO NOT SEND three RING BINDERS.
+
+
+
+
+                                                   Page 20
+                                            ATTACHMENT B
+                                   HARDWARE SPECIFICATIONS
+
+General Specifications
+The Vendor may submit more than one cost response to accommodate different components and
+configurations. The Vendor should include 4 and 5-year maintenance options for all components, unless
+otherwise specified. Vendor must state all hardware assumptions in the RFP response.
+
+
+Workstation and Mobile Device Specifications
+The Woodlands Township requires the software Vendor to provide the optimal workstation configuration to be
+procured for the project. The workstation must support a 4 year lifespan. Major brands are preferred. Proposed
+specifications:
+       Processor: _________________
+       Intel Chip Sets: _________________
+       Memory: _________________
+       Hard Drive: _________________
+       CDRW and/or DVDRW: _________________
+       Monitor: _________________
+       Video Card: _________________
+       NIC: _________________
+       Operating System: _________________
+       Applications: _________________
+       Anti-Virus Software: _________________
+       Warranty: 4 Year Parts and Labor
+       Note: Each computer must have a unique serial number
+
+
+
+
+                                                   Page 21
+Server Specifications
+   The Woodlands Township requires the software Vendor to provide the optimal server configuration to be
+   procured for the project the server must support a 4 year lifespan. Major brands are preferred Provide the
+   following specifications for each server:
+       Purpose:______________________
+       Processor(s) : _________________ Cores per processor __________
+       Intel Chip Sets: _________________
+       Memory: _________________
+       Hard Drive (RAID ____ ) : _________________
+       CDRW / DVDRW: _________________
+       Tape Drive: _________________
+       NIC: _________________
+       Warranty: 4 Year Parts and Labor
+       Operating System with CALS: _________________
+       Backup Software: _________________
+Network Specification
+The selected Vendor will work with the Township IT department for the design, procurement, installation and
+configuration of Vendor’s recommended network.
+
+   Provide the following specifications for each component:
+       Optical Network Switches: _________________
+       Fiber Backbone Switches: _________________
+       Fiber Network Extension Switches: _________________
+       Network Switches: _________________
+       Firewall / Routers / Router: _________________
+       Wireless Bridges: _________________
+       Distance Wireless Locations: _________________
+       Network Management: _________________
+
+
+
+
+                                                  Page 22
+                                           ATTACHMENT C
+                                 DELIVERABLE DOCUMENTATION
+   Project Management Plan
+   Project Resource Plan
+   Status Reports/Meetings at regular intervals as requested by Township
+   Risk Management Plan
+   Maintenance and Support Plan (including service levels)
+   Technical Review Meeting Material and Minutes
+   System Requirement Specification
+   System Design Description
+   Database Design Description
+   Data Dictionary
+   Application Software
+   Physical Database
+   Commercial Software and Licenses
+   Conversion/Migration Plan
+   Conversion Modules
+   Version Description Document
+   System Test Plan and Procedures
+   System Test Report
+   System Installation Plan
+   Configuration Audit Report
+   Software User Manual
+   Report Design Manual
+   Training Plan
+   Training Material
+   Third-party Vendor Documentation (e.g., CDs and manuals for Software and Hardware Components)
+   Network Design Document
+   Hardware/Network Configuration Drawings, Tables and Component List
+   Hardware/Network Maintenance Manual(s)
+   Computer User Manual
+Any deviations from the templates must receive approval from the Township’s assigned Project Manager.
+
+
+                                                  Page 23
+                                 Sample Documentation
+
+
+Project Management Plan
+
+1.0 Introduction
+
+   This section of the PMP shall provide an overview of the project and the product, a list of project
+   deliverables, the plan for development and evolution of the PMP, reference materials for the PMP, and
+   definitions and acronyms used within the PMP.
+
+      1.1 Project Overview
+
+         This subsection of the PMP shall provide a concise summary of the project objectives, the product to
+         be delivered, major work activities, major work products, major milestones, required resources, and
+         master schedule and budget. The project overview shall also describe the relationship of this project
+         to other projects, as appropriate.
+
+      1.2 Project Deliverables
+
+         This subsection of the PMP shall list all of the items to be delivered to the customer, the delivery
+         dates, delivery locations, and quantities required to satisfy the terms of the project agreement. This
+         list of project deliverables shall not be construed as an official statement of project requirements.
+         Where a deliverable contains multiple copies, then show the number of copies, e.g., Status Reports.
+         Both a hardcopy and software copies of the deliverables are required. The PMP will indicate the
+         number of copies that are to be provided for each deliverable.
+
+      1.3 Reference Materials
+
+         This subsection of the PMP shall provide a complete list of all documents and other sources of
+         information referenced in the PMP. Each document should be identified by title, report number, date,
+         author, and publishing organization. Other sources of information, such as electronic files, shall be
+         identified in an unambiguous manner using identifiers such as date and version number. Any
+         deviations from referenced standards or policies shall be identified and justifications shall be
+         provided.
+
+
+
+
+                                                   Page 24
+       1.4 Definitions and Acronyms
+
+          This subsection of the PMP shall define, or provide references to, the definition of all terms and
+          acronyms required to properly interpret the PMP.
+
+2.0 Project Organization
+
+    This section of the PMP shall specify the process model for the project, describe the project organizational
+    structure, identify organizational boundaries and interfaces, and define individual responsibilities for the
+    various project elements.
+
+       2.1 Staffing Plan
+
+          This subsection of the PMP shall specify the numbers and types of personnel required to conduct the
+          project. Required skill levels, start times, duration of need, and methods for obtaining, training,
+          retaining, and phasing out of personnel shall be specified.
+
+3.0 Managerial Process
+
+    This section of the PMP shall specify management objectives and priorities; project assumptions,
+    dependencies, and constraints; risk management techniques; monitoring and controlling mechanisms to be
+    used; and the staffing plan.
+
+       3.1 Assumptions, Dependencies, and Constraints
+
+          This subsection of the PMP shall state the assumptions on which the project is based, the external
+          events the project is dependent upon, and the constraints under which the project is to be conducted.
+
+       3.2 Risk Management
+
+          This subsection of the PMP shall identify and assess the risk factors associated with the project. This
+          subsection shall also prescribe mechanisms for tracking the various risk factors and implementing
+          contingency plans. Risk factors that should be considered include contractual risks, technological
+          risks, risks due to size and complexity of the product, risks in personnel acquisition and retention, and
+          risks in achieving customer acceptance of the product.
+
+     3.3 Monitoring and Controlling Mechanisms
+
+          This subsection of the PMP shall define the reporting mechanisms, report formats, information flows,
+          review and audit mechanisms, and other tools and techniques to be used in monitoring and
+
+                                                     Page 25
+       controlling adherence to the PNIP. Project monitoring should occur at the level of work packages. The
+       relationship of monitoring and controlling mechanisms to the project support functions shall be
+       delineated in this subsection of the PMP.
+
+4.0 Technical Process
+
+This section of the PMP shall specify the technical methods, tools, and techniques to be used on the project.
+In addition, the plan for software documentation shall be specified, and plans for project support functions
+such as quality assurance, configuration management, and verification and validation may be specified.
+
+   4.1 Methods, Tools, and Techniques
+
+       This subsection of the PMP shall specify the computing system(s), development methodology(s),
+       team structure(s), programming language(s), and other notations, tools (number of licenses and
+       designated users), techniques, and methods to be used to specify, design, build, test, integrate,
+       document, deliver, modify or maintain or both (as appropriate) the project deliverables. In addition,
+       the technical standards, policies, and procedures governing development, modification, or both of
+       the work products and project deliverables shall be included, either directly or by reference to other
+       documents.
+
+   4.2 Project Support Functions
+
+       This subsection of the PMP shall contain, either directly or by reference, plans for the supporting
+       functions for the project. These functions may include, but are not limited to, configuration
+       management; quality assurance, and change control. Plans for project support functions shall be
+       developed to a level of detail consistent with the other sections of the PMP. In particular, the
+       responsibilities, resource requirements, schedules and budgets for each supporting function shall be
+       specified. The nature and type of support functions required will vary from project to project;
+       however, the absence of a quality assurance or configuration management shall be explicitly justified
+       in project plans that do not include them.
+
+5.0 Work Packages, Schedule, and Budget
+
+This section of the PMP shall specify three major measurement control mediums that will be required on a
+regular basis. These are:
+
+   •   Project Plan (Project Schedule showing planned versus actuals)
+
+
+                                                   Page 26
+      •   Cost versus Schedule plan (Burn rate profile showing planned versus actuals)
+
+      •   Labor versus Schedule plan (Staffing profile showing planned versus actuals)
+
+
+    6.0 Additional Components
+    Certain additional components may be required. These may be included by appending additional sections
+    or subsections to the PMP. However, the numbering scheme for the required sections and subsections must
+    adhere to the format specified in this standard. Additional items of importance on any particular project
+    may include user help plans, subcontractor management plans, security plans, independent verification and
+    validation plans, training plans, hardware procurement plans, facilities plans, installation plans, data
+    migration plans, system transition plans, or the product maintenance. If present, additional components
+    must be developed in a format and to a level of detail consistent with the required sections of the PMP.
+
+      6.1 Index
+
+          An index to the key terms and acronyms used throughout the PMP is optional but recommended to
+          improve usability of the PMP.
+
+      6.2 Appendices
+
+          Appendices may be included, either directly or by reference, to provide supporting details that could
+          detract from the PMP if included in the body of the PMP.
+
+Regular Status Reports as required by the Township
+
+   The format for this deliverable will be finalized during the Project Initiation phase. The Status Reports should
+   include at least the following:
+
+    A current update of the work plan including the Gantt chart.
+
+    A description of the overall completion status such as percent completion per task
+
+    A description of upcoming weekly activities
+
+    A status of all deliverables with percentage of completion and timeframe
+
+    A Risk Register identifying potential and actual problems and issues encountered, proposed and actual
+      resolutions
+
+
+
+                                                     Page 27
+                                                  ATTACHMENT D
+                                         NONCOLLUSION AFFIDAVIT
+
+
+
+STATE OF______________________________}
+
+
+
+COUNTY OF____________________________}
+
+
+
+___________________________________________________, of lawful age, being first duly sworn, on oath says that
+(s)he is the agent authorized by the bidder to submit the attached bid. Affiant further states that the bidder has not been
+a part of any collusion among bidders in restraint of freedom of competition by agreement to bid at a fixed price or to
+refrain from bidding; or with any Township official or employee as to quantity, quality, or price in the prospective contract,
+or any other terms of the prospective contract; or any other discussions between bidders and any Township official
+concerning exchange of money or other thing of value for special consideration in the letting of a contract.
+
+
+
+                                                  ___________________________________
+
+
+
+
+Subscribed and sworn before me this _________________day of __________________________2020.
+
+
+
+                                                  ____________________________________
+
+
+
+                                                  Notary Public, Commission No._________
+
+
+
+My Commission Expires:
+
+
+
+____________________________________
+
+
+
+
+                                                          Page 28
+                          ATTACHMENT E
+
+                     EXISTING SYSTEMS’
+                    DATA TO BE MIGRATED
+
+
+
+               Software                             Department Using
+
+Accela Civic Platform-Land Management,    Parks and Recreation Department
+Service Request, Work Orders, Asset
+                                          Covenant Administration Department
+Management, Accela GIS
+
+
+
+Accela CRM                                All departments
+
+
+
+
+                                Page 29
+                                          SPECIAL CONDITIONS
+
+THESE TERMS APPLY TO AND BECOME PART OF THE TERMS AND CONDITIONS OF BID. ANY EXCEPTION MUST
+BE IN WRITING.
+
+
+   1. Contractor shall provide all materials and equipment necessary to complete this project. All material is to
+      be delivered by Vendor and coordinated with the Township.
+
+
+   2. Contractor shall have a minimum of five (5) years’ experience in supplying a work order and asset system.
+
+
+   3. Contractor shall be required to submit a list of three (3) verifiable references. Please use pages in this RFP
+      to submit references. Vendors should provide a minimum of three (3) municipal customer references
+      with preference for (but not limited to) the Houston metro area and Texas based customers. Included in
+      the reference information should be customer contact information, modules implemented (if
+      applicable), duration of business relationship, and the status of business relationship (new contract,
+      onboarding, fully implemented, etc.).
+
+
+   4. The RFP will be evaluated based on the following criteria:
+      Ability to provide requested specifications………….………………………………..………...............… 25%,
+      Customer Support (to include conversation, staff training and ongoing support) ……….….. 25%,
+      Price (to include start up, training, server hosting, maintenance and annual fees) ……...... 20%,
+      Navigation is uncomplicated and straightforward……………................................................ 15%,
+      Previous Experience (provide current client list for municipalities of comparable size) ..... 15%.
+
+
+   5. The proposal should clearly demonstrate how the firm can best satisfy the requirements of the
+      Woodlands Township. The Woodlands Township shall reserve the right to enter into an agreement with
+      the firm with the highest overall grade and who presents the proposal that is most advantageous to the
+      Woodlands Township.
+
+
+   6. All pages of this bid document must be provided in your response. Please submit seven paper copies (7)
+      of your proposal and mark one (1) as the “ORIGINAL”. Please also provide (1) digital copy sent via
+
+
+
+                                                      Page 30
+   email. Both digital and printed copies are required. Please submit electronic copy if not via email then
+   on a USB. CD’s will not be accepted.
+
+
+7. The Township is requesting a Bid Bond and a Performance Bond please factor those costs into your RFP
+   response. The Township will require that you use the standard Township forms for both bonds, and
+   copies are included in this bid package.
+
+
+8. All responders must submit a Bid Bond on the Township form based on 5% of your bid total
+
+
+9. A Performance Bond (in the full amount of your winning award) and insurance will be required of the
+   winner. Please factor these costs into your proposal. A copy of a Performance Bond is provided, and the
+   insurance minimums are included in this bid.
+
+
+10. Insurance Requirement Affidavit should be submitted as part of the proposal. (Requirements are
+   listed on page 36). This form is simply a confirmation from your insurance company that you will be
+   able to provide the insurance requirements should you be the chosen company.
+
+
+11. Insurance Certificate must be submitted and issued with the Township listed as the certificate holder
+   within 10 days of notice of award. See general terms and conditions for detailed insurance
+   requirements.
+
+
+12. By signing the proposal sheet, the representative has read and understands all plans, specifications,
+   and general design standards involved with this project.
+
+
+
+
+                                               Page 31
+                                       AGREEMENT BY BIDDER
+THESE TERMS APPLY TO AND BECOME PART OF THE TERMS AND CONDITIONS OF BID. ANY EXCEPTION MUST
+BE IN WRITING.
+   1. Bids must be submitted on the attached form only. Each bid must be placed in a separate envelope.
+      Each envelope must be completely and properly identified and sealed, showing the date of bid opening
+      and the subject advertised.
+   2. The Woodlands Township reserves the right to reject any and all bids, to waive any technicalities in the
+      bidding, and to award each item to different bidders or all items to a single bidder.
+   3. No bidder may withdraw his bid within a period of thirty (30) days after the date and hour set for the
+      opening of bids. A bidder may withdraw his bid at any time prior to the time fixed for the opening of
+      bids.
+   4. All bids must be accompanied by bidder’s bond or cashier’s check in the amount of 5% of the proposed
+      total pricing amount. This amount may be retained by the Woodlands Township as liquidated damages
+      in the event the successful bidder (or bidders) fails to comply with the terms of this bid. The Township
+      accounting department will return the deposits to the unsuccessful bidders after the contract has been
+      awarded.
+   5. All prices shall be quoted F.O.B. The Woodlands, Texas, and delivery to Woodlands Township location
+      shall be without additional charges unless otherwise stated in specifications.
+   6. The bidder shall attach the manufacturer’s name of the equipment or materials to be furnished, type,
+      model numbers, manufacturer’s descriptive bulletins and specifications. All guarantees and warranties
+      must be clearly stated. This data shall be in sufficient detail to describe accurately the equipment or
+      material to be furnished. Manufacturer’s specifications in respect to the successful bidder shall be
+      considered as part of his contract with the Woodlands Township.
+   7. The bidder shall show in the bid both the unit prices and total amount, where required, of each item
+      listed. In the event of error or discrepancy in the mathematics, the unit prices shall prevail.
+   8. Any exceptions to these items or conditions or deviations from written specifications shall be shown in
+      writing and attached to the bid form in section A-1.
+   9. In the event cash discounts are offered by the bidder, the discount date should begin with the date of
+      invoice or the date of receipt of all material covered by the purchase order.
+   10. The bidder’s attention is directed to the fact that the purchase of certain items of equipment or material
+       by the Woodlands Township is exempt from Federal Excise Tax. In such cases, the bidder shall quote
+       prices, which do not include Federal Excise Tax. The Woodlands Township will execute exemption
+       certificates upon presentation by the bidder at the time of purchase.
+   11. Information to bidders and specifications are on file in the office of the Township Secretary and copies
+       may be obtained from the Woodlands Township, Texas.
+   12. Bids must show number of days required for delivery under normal conditions. Failure to state delivery
+       time obligates bidder to complete delivery in fourteen (14) calendar days. Unrealistically short or long
+                                                    Page 32
+      delivery promises may cause bid to be disregarded. Bidder must keep Purchase Department advised at
+      all times of status of order. Default in promised delivery or failure to meet specifications authorizes the
+      Woodlands Township to purchase bid items elsewhere and charge full increase of cost and handling to
+      defaulting contractor. Consistent failure to meet delivery promises without valid reason may cause
+      removal from bid list.
+   13. BIDDER AGREES TO DEFEND AND SAVE THE WOODLANDS TOWNSHIP HARMLESS FROM AND AGAINST
+       ALL DEMANDS, CLAIMS, SUITS, COSTS EXPENSES, DAMAGES AND JUDGMENTS BASED UPON
+       INFRINGEMENT OF ANY PATENT RELATING TO GOODS SPECIFIED IN THIS ORDER OR THE ORDINARY
+       USE OR OPERATION OF SUCH GOODS BY THE TOWNSHIP OR USE OR OPERATION OF SUCH GOODS IN
+       ACCORDANCE WITH BIDDER’S DIRECTION.
+   14. Bidder may bid on one or all items, but bids may not be tied together unless specifically stated in
+       specifications.
+   15. The specifications are complete as written. No oral representation made by any agent or employee of
+       the Township, or its affiliate agencies, shall be of any force or effect unless reduced to writing and
+       submitted to all prospective bidders at least 24 hours in advance of the bid opening.
+   16. Any protest of the award of this proposed contract by a bidder on the contract shall be in writing, shall
+       specify the grounds for the protest in specific terms and shall be received by the Township within three
+       (3) business days after the award of the contract by the governing body. All other provisions of these
+       specifications shall also apply.
+   17. The Woodlands Township is tax exempt from state and local sales taxes, and a tax-exempt certificate
+       will be provided to the awarded Vendor. No state or local sales taxes should be charged to the Township
+       for products or services in compliance with this contract.
+   18. Each bidder when affixing his signature to the “Invitation for Sealed Bids” states that he has not, directly
+       or indirectly, entered into any agreement, express or implied, with any other bidder or bidders, having
+       for its object the controlling of the price, or amount of such bids, the limiting of the bids of bidders or
+       the paying to any one any money for promotion expenses. the parceling or farming out to any bidder or
+       bidders or other persons of any part of the contract or any part of the subject matter of the bid or the
+       profits thereof.
+   19. No bidder shall divulge the information in his sealed bid to any person whomsoever, except those having
+       a partnership or other financial interest with him in said bid, until after the sealed bids are opened.
+A VIOLATION OF ANY ONE OF THE FOREGOING PROVISIONS ON THE PART OF A BIDDER SHALL BE SUFFICIENT
+REASON FOR THE REJECTION OF HIS BID OR MAKING VOID ANY CONTRACT MADE BY HIM WITH THE
+TOWNSHIP BASED UPON SUCH BID.
+
+
+
+
+                                                     Page 33
+                                 INSURANCE REQUIREMENTS
+
+A.   Before commencing work, Bidder shall, at its own expense, procure, pay for and maintain during the
+     term of this Agreement the following insurance written by companies approved by the state of Texas
+     with an A.M. Best rating of at least A and acceptable to the Township. Bidder shall furnish to the
+     Woodlands Township Information Technology Department certificates of insurance executed by the
+     insurer or its authorized agent stating coverages, limits, expiration dates and compliance with all
+     applicable required provisions. Certificates shall reference the project/contract number. Subscriber has
+     the right to a copy of the full policy. The Woodlands Township shall be listed as an additional insured
+     under all liability policies except for professional & automobile liability policies.
+
+     1.     Commercial General Liability insurance, including, but not limited to Premises/Operations,
+            Personal & Advertising Injury, Products/Completed Operations, Continuing Operations,
+            Independent Contractors and Contractual Liability, with minimum combined single limits of
+            $1,000,000 per-occurrence, $1,000,000 Products/Completed Operations Aggregate and
+            $1,000,000 general aggregate. Coverage must be written on an occurrence form. The General
+            Aggregate shall apply on a per project basis.
+
+     2.     Workers’ Compensation insurance with statutory limits; and Employers’ Liability coverage with
+            minimum limits for bodily injury: a) by accident, $100,000 each accident, b) by disease, $100,000
+            per employee with a per policy aggregate of $500,000.
+
+     3.     Business Automobile Liability insurance covering owned, hired and non-owned vehicles, with a
+            minimum combined bodily injury and property damage limit of $1,000,000 per occurrence.
+
+     4.     Professional Liability (Errors and Omissions Liability) and Cyber Risk Insurance (including
+            professional oversight liability), covering acts, errors, and omissions arising out of Mark43’s
+            operations or services with minimum limits of $1,000,000 per occurrence, $2,000,000 annual
+            aggregate.
+
+     NOTE: If the insurance is written on a claims-made form, coverage shall be continuous (by renewal or
+           extended reporting period) for not less than thirty-six (36) months following completion of the
+           contract and acceptance by the Woodlands Township.
+
+B.   With reference to the foregoing required insurance, the consultant shall endorse applicable insurance
+     policies as follows:
+
+     1.     A waiver of subrogation endorsement shall be added to Bidder’s workers’ compensation policies
+     to eliminate the potential that the workers’ compensation insurer will subrogate against the
+     Township, its officials, employees, and officers and shall be contained in the Workers’ Compensation
+     insurance policy.
+
+     2.     The Woodlands Township, its officials, employees and officers shall be named as additional
+     insureds on the Commercial General Liability policy, by using endorsement CG2026 or broader.
+
+
+
+                                                 Page 34
+       3.     All insurance policies shall be endorsed to the effect that Woodlands Township will receive at
+       least thirty (30) days notice prior to cancellation, non-renewal, termination, or material change of the
+       policies.
+
+C.     All insurance shall be purchased from an insurance company that meets a financial rating of at least A
+or better.
+
+
+Other Insurance Provisions
+1.     The Township is to be named as an additional insured on the Commercial General Liability Insurance policy.
+       These insurance policies shall contain the appropriate additional insured endorsement signed by a person
+       authorized by the insurer to bid coverage on its behalf.
+2.     Insurance is to be placed with insurers with a Best rating of no less than A. The company must also be duly
+       authorized to transact business in the State of Texas.
+3.     Workers' Compensation and Employers' Liability Coverage: Statutory. The insurer shall agree to waive all
+       rights of subrogation against the Township, its officials, employees and volunteers for losses arising from
+       the activities under this contract.
+4.     Certificates of Insurance and Endorsements effecting coverage required by this clause shall be forwarded
+       to the Director of Information Technology upon award of the contract(s).
+5.     Insurance Certificate must be submitted and issued with the Township listed as the certificate holder.
+6.     During the duration of any agreed contract, the contractor shall maintain, at its sole cost and expense,
+       Professional E&O Liability insurance with a minimum policy limit of $1,000,000. The insurance policy
+       must name the Woodlands Township as an additional insured. A certificate of insurance evidencing such
+       coverage shall be furnished to the Township prior to the commencement of any work for the Township.
+
+
+
+
+                                                    Page 35
+                        THIS FORM MUST BE TURNED IN WITH YOUR BID
+
+                            INSURANCE REQUIREMENT AFFIDAVIT
+
+TO BE COMPLETED BY APPROPRIATE INSURANCE AGENT.
+
+I, the undersigned agent, certify that the insurance requirements contained in this bid document have been
+reviewed by me with the Vendor identified below. If the Vendor identified below is awarded this contract by
+the Woodlands Township, I will be able, within ten (10) working days after being notified of such award, to
+furnish a valid insurance certificate to the TOWNSHIP meeting all of the requirements contained in this bid.
+
+
+
+Agent Signature                                    Printed Name
+
+
+
+Name of Insurance Carrier
+
+
+Address of Agency                                  City                  State             Zip
+
+
+Phone #                             Fax #                         Email Address
+
+
+Vendor / Contractor Name
+
+Acknowledgement
+
+Subscribed ad Sworn before me by the above named
+
+On this        day of                              , 2020.
+
+(seal)
+
+
+                                                   Notary Public in and for the State of
+
+NOTICE TO THE AGENT
+
+If this time requirement is not met, the Township has the right to declare this Vendor non-responsible and
+award the contact the next lowest/responsible bidder meeting the specifications. If you have any questions
+concerning these requirements, please contact, Director of Information Technology at 281-210-3845.
+
+
+                                                   Page 36
+                                                         REFERENCES
+
+Please list at least three (3) references of governments, individuals or companies that have used your work
+order and assets management software. Use additional pages as needed. Additional consideration will be
+given to governmental references. Vendors should provide a minimum of three municipal customer
+references with preference for (but not limited to) the Houston metro area and Texas based customers.
+Included in the reference information should be customer contact information, modules implemented (if
+applicable), duration of business relationship, and the status of business relationship (new contract,
+onboarding, fully implemented, etc.).
+
+
+1.
+     COMPANY NAME OR CONTACT PERSON
+
+
+
+     STREET ADDRESS                                   City                        STATE                ZIP
+
+
+
+     CONTACT PERSON                                                               TELEPHONE NUMBER
+
+
+
+     PRODUCTS/SERVICES USED/MODULES IMPLEMENT.DURTAION OF BUINESS RELATIONSHIP/STATUS OF RELATIONSIP
+
+
+
+
+2.
+     COMPANY NAME OR CONTACT PERSON
+
+
+
+     STREET ADDRESS                                   City                        STATE                ZIP
+
+
+
+     CONTACT PERSON                                                               TELEPHONE NUMBER
+
+
+
+     PRODUCTS/SERVICES USED/MODULES IMPLEMENT.DURTAION OF BUINESS RELATIONSHIP/STATUS OF RELATIONSIP
+
+
+
+
+3.
+     COMPANY NAME OR CONTACT PERSON
+
+
+
+     STREET ADDRESS                                   City                        STATE                ZIP
+
+
+
+     CONTACT PERSON                                                               TELEPHONE NUMBER
+
+
+
+     PRODUCTS/SERVICES USED/MODULES IMPLEMENT.DURTAION OF BUINESS RELATIONSHIP/STATUS OF RELATIONSIP
+                                                                Page 37
+                             CONFLICT OF INTEREST QUESTIONNAIRE
+Effective January 1, 2006, Chapter 176 of the Texas Local Government Code went into effect which requires that
+any Vendor or person considering doing business with a local government entity disclose in the Questionnaire
+Form CIQ, the Vendor or person’s affiliation or business relationship that might cause a conflict of interest with
+a local government entity. By law, this questionnaire must be filed with the Township Secretary of the
+Woodlands Township not less than the seventh business day after the person becomes aware of facts that
+require the statement to be filed.
+
+       The conflict of Interest Questionnaire must be completed and returned with your bid if a Vendor or its
+       agent has a conflict pursuant to Chapter 176.
+
+It is the responsibility of every Vendor filling out and returning this bid to determine if there is a conflict meeting
+the parameters listed above. If so, the Woodlands Township requires that this Questionnaire be completed
+and turned in with your bid. If there is no conflict, or if the amount of the conflict is less than $23,500, then you
+are not required to submit the Questionnaire with your bid. In addition to the foregoing, after the submission
+of a bid a Vendor must file a questionnaire if the Vendor becomes aware of facts or an event that would
+constitute a conflict pursuant to state law, or if the facts or event would make a statement in a previously filed
+questionnaire incomplete or inaccurate.
+
+See Section 176.006, Local Government Code which reads, “A person commits an offense if the person violated
+Section 176.006, Local Government Code. An offense under this section is:
+(1) A Class C misdemeanor if the contract amount is less than $1 million or if there is no contract amount for
+the contract;
+(2) A Class B misdemeanor if the contract amount is at least $1 million but less than $5 million; or
+(3) A Class A misdemeanor if the contract amount is at least $5 million.
+The governing body of a local governmental entity may, at its discretion, declare a contract void if the
+governing body determines that a Vendor failed to file a conflict of interest questionnaire required by Section
+176.006.
+
+
+
+
+                                                       Page 38
+Page 39
+Page 40
+                             CERTIFICATE OF INTERESTED PARTIES
+A new law in the state of Texas went into effect on January 1, 2016, which requires your firm to submit a Form
+1295 (Certificate of Interested Parties attached) through the Texas Ethics Commission's website, and a
+notarized original form as printed from the website to the Town prior to approval of the contract. More
+information is found at the following link:
+
+https://www.ethics.state.tx.us/whatsnew/elf_info_form1295.htm
+
+
+https://www.ethics.state.tx.us/whatsnew/FAQ_Form1295.html
+
+
+Once bid evaluations take place by Township staff, you will be notified that an award to your company is
+pending and that this form is mandatory. You will need to provide this form to the Township before
+Township Board approval can be considered.
+
+
+You complete the form online, get a certificate number, and that number goes in the upper right box.
+
+
+
+
+                                                   Page 41
+Page 42
+                                       CONTRACTOR’S BID BOND
+
+
+
+KNOW ALL MEN BY THESE PRESENTS,
+
+That we ,                                           Principal, and                                       ,     a
+corporation duly organized under the laws of the State of        , and authorized to issue surety bonds in the
+State of Texas, Surety herein, are held and firmly bound unto the Woodlands Township, owner, in the sum
+of       5% of amount bid           dollars ($                    ) for the payment of which sum we will bind
+ourselves, our heirs, executors, administrators, successors, and assigns, jointly and severally, firmly by these
+presents.
+
+WHEREAS, Principal has submitted or is about to submit a bid to Owner on a contract for
+
+                                       RFP FOR A CIVIC SERVICES SYSTEM
+
+NOW, THEREFORE, if the Owner shall accept the bond of the Principal and the Principal shall enter into a contract
+with the Owner in accordance with the terms of such bid, and give such bond or bonds as may be specified in
+the bidding or contract documents with good and sufficient surety for the faithful performance of such contract
+and for the prompt payment of labor and material furnished in the prosecution thereof, or in the event of the
+failure of the Principal to enter such contract and give such bond or bonds, then this obligation shall be null and
+void, otherwise to remain in full force and effect and the amount hereof shall be paid to and retained by Owner
+as liquidated damages for Principal’s failure to do so.
+
+IN WITNESS WHEREOF, the duly authorized representatives of the Principal and the Surety have executed this
+instrument.
+
+Signed and sealed this               day of                             , 2020.
+
+
+
+                                                    Principal
+
+                                                    By:
+
+                                                    Title:
+
+
+                                                    (NAME OF SURETY)
+
+                                                    By:
+
+                                                    Title:
+
+
+
+
+                                                     Page 43
+                                            PERFORMANCE BOND
+
+STATE OF TEXAS       §
+                     §
+COUNTY OF MONTGOMERY §
+
+
+
+KNOW ALL MEN BY THESE PRESENTS: That                                            of the Woodlands Township, County of
+                 , and State of                                   , as principal, and                     authorized
+under the laws of the State of Texas to act as surety on bonds for principals, are held and firmly bound unto the
+Woodlands Township, Texas (Owner), in the sum of dollars ($          TO BE DETERMINED ) as an appropriate measure
+of liquidated damages for the payment whereof, the said Principal and Surety bind themselves, and their heirs,
+administrators, executors, successors and assigns, jointly and severally, by these presents:
+
+
+WHEREAS, the Principal has entered into a certain written contract with the Owner, dated the day of
+
+                 , 2020, for C-2020-0076 RFP FOR A CIVIC SERVICES SYSTEM, which contract is hereby referred
+
+to and made a part hereof as fully and to the same extent as if copied at length herein.
+
+
+NOW, THEREFORE, THE CONDITION OF THIS OBLIGATION IS SUCH, that if the Principal shall faithfully perform the
+work in accordance with the plans, specifications, and contract documents and shall fully indemnify and save
+harmless Owner from all costs and damages which Owner may suffer by reason of Principals default, and reimburse
+and repay Owner all outlay and expense which Owner may incur in making good such default, then this obligation
+shall be void; otherwise to remain in full force and effect.
+
+
+PROVIDED, HOWEVER, that this bond is executed pursuant to the provisions of Chapter 2253 of the Texas
+Government Code, as currently amended, and all liabilities on this bond shall be determined in accordance with the
+provisions of said statute to the same extent as if it were copied at length herein.
+
+
+
+
+                                                        Page 44
+Surety, for value received, stipulates and agrees that no change, extension of time, alteration or addition to the
+terms of the contract, or to the work performed thereunder, or the plans, specification, or drawings accompanying
+the same, shall in any way affect its obligation on this bond, and it does hereby waive notice of any such change,
+extension of time, alteration or addition to the terms of the contract, or to the work to be performed thereunder.
+The surety company must have a minimum rating of A VII.
+
+
+IN WITNESS WHEREOF, the said Principal and Surety have signed and sealed this instrument this
+            day of                    , 2020.
+
+
+
+
+Principal                                             Surety
+
+By:                                             By:
+
+Title:                                                Title:
+
+Address:                                              Address:
+
+
+
+
+The name and address of the Resident Agent of Surety is:
+
+
+
+
+                                                      Page 45
+

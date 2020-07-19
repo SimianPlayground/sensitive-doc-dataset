@@ -1,0 +1,43 @@
+            Physical Plant            Purchase Order
+                                    Change Request Form
+Original Purchase Order
+ PO#                                                     Version / CO#
+
+ PO Date                                                 WO#('s)
+
+ Orginal PO
+  Amount
+ Building                                                 Vendor
+
+
+
+Change Order
+Change
+Description
+
+
+
+
+              The original (first) Purchase Amount was                          $ 0.00
+
+              Net change by the previously authorized Change Orders
+
+              The Purchase Amount prior to this Change Order was                $ 0.00
+
+              The Purchase Order will be increased by this Change Order in
+              the amount of
+
+              The new Purchase Amount including this Change Order will be $ 0.00
+
+              New Version / CO#
+
+Comments
+
+
+
+
+Requestor                                                                Date
+Director Approval                                                        Date
+
+Required: Attach Proposed Change Order Quotes
+

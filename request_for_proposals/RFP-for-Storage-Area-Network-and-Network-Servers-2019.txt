@@ -1,0 +1,222 @@
+                               TAHOE REGIONAL PLANNING AGENCY
+                                  INFORMATION TECHNOLOGY
+                                 REQUEST FOR PROPOSALS (RFP)
+                                        SAN & SERVERS
+                                          RFP 20001
+
+Announcement:          October 22, 2019
+
+Project Description:   TRPA is interested in acquiring a Storage Area Network (SAN) and between 2
+                       and 4 servers, based on cost.
+
+
+
+Evaluation:            Proposals will be evaluated on price and meeting minimum system
+                       requirements.
+
+Deadline:              November 5th – deadline for submission of RFPs
+
+
+
+Questions:             All questions should be submitted in writing to the RFP Coordinator:
+
+                       Christopher Keillor, Finance Director
+                       Tahoe Regional Planning Agency
+                       PO Box 5310
+                       128 Market Street
+                       Stateline, NV 89449
+                       775.589.5222
+                       ckeillor@trpa.org
+                         SECTION 1: GENERAL BACKGROUND AND SCHEDULE
+Introduction:
+
+TRPA is interested in obtaining new hardware to support our data center operations. We will require
+a) a Storage Area Network (SAN) and b) two or more servers. “Project Description” below has more
+details. TRPA may choose to purchase both from a single vendor, or to procure each separately. Bids
+should be based on independent purchases, but bidders are free to offer a discount for a combined
+purchase. Each bidder for servers should submit a price for two, three, and four units.
+
+TRPA Background Information:
+
+Established in 1969, by a Federally sponsored, interstate compact between California and Nevada,
+TRPA is a Governmental Agency authorized under California law (California Government Code sections
+66800 through 66801), Nevada law (NRS 277.190 through 277.200), and Federal law (PL 96-551).
+
+The mission of TRPA is to “lead the cooperative effort to preserve, restore, and enhance the unique,
+natural, and human environment of the Lake Tahoe Region.” TRPA is the leading partner for plans and
+actions to preserve the environment of the Tahoe region. TRPA establishes transportation and land
+use policy and works with local, regional, state, and Federal organizations and governments to
+facilitate a cooperative approach in implementing these plans and programs. The TRPA Regional Plan
+is designed to maintain a healthy natural environment, meet adopted environmental thresholds,
+maintain social and economic health, and allow orderly growth in the Region.
+
+PUBLIC RECORDS
+The documents submitted in response to this RFP should be considered public information and subject
+to FOIA disclosure. Restrictions on any information submitted will render a bid non-responsive.
+
+TRPA assumes no contractual obligation to enforce any exemption on behalf of a respondent to the
+RFP.
+
+RFP COORDINATOR:
+
+Upon release of this RFP, all communications concerning this proposal request should be directed to
+the RFP Coordinator listed below. All written questions and requests for clarification must be received
+by the deadline on the RFP schedule listed below. Email shall have the subject stating: “RFP INQUIRY –
+RFP 20001 SAN and Servers.” Responses will be posted to the website
+http://www.trpa.org/document/rfps/ in accordance with the RFP schedule listed below. The
+respondent should rely only on written statements issued by the RFP Coordinator.
+
+        Chris Keillor, Finance Director
+        Tahoe Regional Planning Agency
+        PO Box 5310
+        128 Market Street, Suite 3A
+        Stateline, NV 89449
+        775.589.5222
+
+
+                                                                                                 Page 2
+REQUEST FOR PROPOSAL SCHEDULE:
+TRPA anticipates the following schedule, which is subject to change:
+
+         Date of Announcement:                                            10/22/2019
+         Deadline for Proposal Submissions:                               11/5/2019
+         Sealed Proposals Opened:                                         11/7/2019
+         Vendor Interviews (if necessary):                                11/11/2019
+         Anticipated Award of Contract:                                   11/15/2019
+         Commencement of Work:                                            On acceptance
+
+Late proposal submissions will not be considered.
+PROPOSAL SUBMISSION:
+
+Proposals must be submitted electronically to bids@trpa.org. Electronic submittals and supporting
+documentation (Microsoft Word or PDF) must be emailed with the subject line “DO NOT OPEN –
+RFP 20001 SAN and Servers” to bids@trpa.org
+
+Address written proposals to:            Tahoe Regional Planning Agency
+                                         Attention: Chris Keillor
+                                         128 Market Street, Suite 3A
+                                         PO Box 5310
+                                         Stateline, NV 89449-5310
+
+Address electronic proposals to:         Bids@trpa.org
+                                         Subject Line: “DO NOT OPEN – RFP 20001 SAN and Servers”
+
+All opened proposals and accompanying documentation become the property of TRPA and will not be
+returned. Any late proposals will be returned unopened.
+
+TERMS AND CONDITIONS:
+
+    •   TRPA reserves the right to amend the RFP schedule or issue amendments to the RFP at any time.
+        TRPA also reserves the right to cancel or reissue the RFP, to reject any or all proposals, to waive
+        any irregularities or informalities in the selection process, and to accept or reject any item or
+        combination of items. TRPA reserves the right to request clarification of information from any
+        bidder or to request supplemental material deemed necessary to assist in the evaluation of the
+        proposal. TRPA reserves the right to accept any agreement deemed by the agency to be in its
+        best interest. This RFP does not obligate the TRPA to accept or contract for any expressed or
+        implied services.
+
+    •   In the event that the bidder to whom any services are awarded does not execute a contract
+        within thirty (30) calendar days after TRPA approval, TRPA may give notice to such bidder of
+        intent to award the contract to the next most qualified bidder or to call for new proposals and
+        may proceed to act accordingly.
+
+
+
+
+                                                                                                    Page 3
+   •   TRPA will not reimburse any bidder for any of the costs involved in the preparation and
+       submission of responses to this RFP or in the preparation for and attendance at subsequent
+       interviews.
+
+   •   Bidders should include their purchase agreement or standard contract in their proposal. TRPA
+       may request edits to the proposed purchase agreement.
+
+   •   The Consultant or its employees may be subject to the provisions of Article III (a)(5) of the Tahoe
+       Regional Planning Compact (P.L. 96-551, 94 Stat. 3233, Cal. Gov’t Code Section 66801, N.R.S.
+       277.200), which requires disclosure of any defined economic interest and prohibits such persons
+       from attempting to influence Agency decisions affecting certain economic interests.
+
+   •   Bidder must certify to the best of its knowledge and belief that it and its principals are not
+       presently debarred, suspended, proposed for debarment, declared ineligible, or voluntarily
+       excluded from covered transactions by any federal department or agency. TRPA will verify
+       bidders’ status by checking the SAM system.
+
+   •   All subcontractors, if any, used by the selected consultant will require prior written consent of
+       TRPA and will be subject to all provisions stipulated in the TRPA Consultant Services Agreement.
+
+   •   This contract will be funded by federal and state grant awards and is subject to federal and state
+       grant award requirements including, but not limited to, cost principles and administrative
+       regulations including but not limited to travel and per diem rates, mileage rates, and allowable
+       cost requirements.
+
+
+
+                                    SECTION 2: SCOPE OF SERVICES
+
+PROJECT DESCRIPTION:
+
+This RFP covers two, potentially independent purchase:
+
+   1. A Storage Area Network (SAN). The baseline requirement is 10 TB of SSD drives and 35 TB of raid
+      spin drives (10K RPM or higher). This should include 10GB external connections (fiber and
+      ethernet) and be compatible with a fiber backbone. Please include the pricing for ongoing
+      maintenance. The SAN is critical to agency operations. We expect drive replacements installed
+      within a maximum of 24 hours of a reported failure. A six (6) hour turn around is preferred.
+
+   2. Up to 4 physical servers. These should include 16 core 3 GHz processors, 256 GB memory,
+      500GB of SSD drives and 14 TB of RAID spin drives. Each server is expected to host 15 or more
+      Virtual Machines. VMWare is the preferred management software.
+
+
+   1. Budget – the contractor will identify and cost all components of their response
+
+   2. Consultant Requirements – Vendors must pass a SAM search for Government contracts.
+
+
+
+
+                                                                                                   Page 4
+                          SECTION 3: Proposal Contents and Selection Process
+
+MINIMUM REQUIRED PROPOSAL CONTENTS:
+
+All proposal responses should address the following matters:
+    1. Identify the specific manufacturer, model name/number, and configuration being proposed.
+       Specifically identify any additional hardware or software not included in your offering. TRPA
+       will provide all cabling to connect to our network. Bidders are free to propose alternative
+       configurations in addition to their baseline proposal.
+
+    2. Total price and proposed annual service contract amounts. In the case of the servers, please
+       submit prices for 2, 3, and 4 servers.
+
+    3. Projected delivery date.
+
+
+NOTIFICATION AND SELECTION PROCESS:
+
+The process for selecting the Applicant is as follows:
+    1. General proposal evaluation criteria will include content of the proposal, understanding of
+       our needs, independent reviews of the hardware being offered, cost, service availability,
+       and timing.
+
+    2. An initial screening of applicants will determine level of knowledge, experience, and
+       qualifications. Only responses from qualified applicants will be evaluated further.
+
+    3. Qualified applicants may be invited to an interview.
+    4. Should the selected applicant and TRPA be unable to agree to the terms of a contract within
+       thirty (30) calendar days after TRPA approval, TRPA will reserve the right to disqualify the
+       consultant and select another qualified applicant. Should this process not result in the hiring of
+       a consultant, the RFP may be reissued.
+    5. TRPA agrees to make a good faith effort to contract with small, minority, and women owned
+       business enterprises. Accordingly, the TRPA strongly encourages small, minority, and women
+       owned businesses to reply to this RFP and submit DBEWE Certification as an attachment to this
+       RFP.
+
+TRPA will contract with the party that will best accomplish the project objectives for the best value
+and in the best interests of the Agency.
+
+
+
+
+                                                                                                     Page 5
+

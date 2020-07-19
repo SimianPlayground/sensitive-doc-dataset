@@ -1,0 +1,1422 @@
+         Long Term Agreement
+for the provision of IT services
+
+        Request for Proposal (RFP)
+   Reference Number: RFP-2015-01
+
+
+
+
+            Information Management Division
+                             Information Technology
+TABLE OF CONTENTS
+TABLE OF CONTENTS .......................................................................................................................... 2
+
+1.      INTRODUCTION ........................................................................................................................... 4
+        1.1 Objective of the RFP .......................................................................................................... 4
+        1.2 Characteristics of the bidder............................................................................................. 4
+             1.2.1   Status ................................................................................................................... 4
+             1.2.2   Accreditations ....................................................................................................... 4
+             1.2.3   Previous experience ............................................................................................. 4
+             1.2.4   Logistic capacity ................................................................................................... 4
+             1.2.5   Staffing ................................................................................................................. 4
+        1.3 Work to be performed........................................................................................................ 5
+             1.3.1   Key requirements.................................................................................................. 5
+             1.3.2   Reporting requirements......................................................................................... 9
+             1.3.3   Finance and accounting requirements ................................................................... 9
+             1.3.4   Performance monitoring ........................................................................................ 9
+             1.3.5   Further Capacities ................................................................................................ 9
+
+2.      INSTRUCTIONS TO BIDDERS ................................................................................................... 10
+        2.1 Language of the Proposal and other Documents .......................................................... 10
+        2.2 Intention to Bid ................................................................................................................ 10
+        2.3 Cost of Proposal .............................................................................................................. 10
+        2.4 Contents of the Proposal ................................................................................................ 10
+        2.5 Joint Proposal.................................................................................................................. 10
+        2.6 Communications during the RFP Period ........................................................................ 11
+        2.7 Proposal structure ........................................................................................................... 11
+             2.7.1    Proposal Submission Form ................................................................................. 11
+             2.7.2    Information of Firm/Organization submitting Proposal.......................................... 11
+             2.7.3    Technical Proposal ............................................................................................. 12
+             2.7.4    Financial Proposal .............................................................................................. 14
+        2.8 Format and Signing of Proposals ................................................................................... 15
+        2.9 Period of Validity of Proposals ....................................................................................... 15
+        2.10 Closing Date for Submission of Proposals .................................................................... 15
+        2.11 Modification and Withdrawal of Proposals..................................................................... 16
+        2.12 Receipt of Proposals from Non-invitees......................................................................... 16
+        2.13 Amendments of the RFP ................................................................................................. 16
+
+3.      OPENING AND EVALUATION OF PROPOSALS ....................................................................... 17
+        3.1 Opening of Proposals...................................................................................................... 17
+        3.2 Clarification of Proposals................................................................................................ 17
+        3.3 Preliminary Examination of Proposals ........................................................................... 17
+        3.4 Technical Evaluation of Proposals ................................................................................. 17
+        3.5 Financial Proposal Evaluation ........................................................................................ 18
+        3.6 Bidders' Presentations .................................................................................................... 18
+
+4.      AWARD OF CONTRACT ............................................................................................................ 19
+        4.1 Award Criteria, Award of Contract .................................................................................. 19
+            4.1.1    Right to modify Scope or Requirements during the Proposal Process .................. 19
+            4.1.2    Right to Extend/Revise Scope or Requirements at Time of Award ....................... 19
+            4.1.3    Right to enter into Contract Price Negotiations .................................................... 19
+        4.2 Signing of the Contract ................................................................................................... 19
+        4.3 United Nations Procurement Harmonization and Cooperation ..................................... 20
+
+
+
+
+                                                                                                                                Page 2 of 29
+5.   GENERAL AND CONTRACTUAL CONDITIONS........................................................................ 21
+     5.1 Conditions of Contract .................................................................................................... 21
+     5.2 Responsibility .................................................................................................................. 21
+     5.3 Source of Instructions ..................................................................................................... 22
+     5.4 Warranties ........................................................................................................................ 22
+     5.5 Legal Status ..................................................................................................................... 22
+     5.6 Relation Between the Parties .......................................................................................... 23
+     5.7 Waiver of Breach ............................................................................................................. 23
+     5.8 Liability............................................................................................................................. 23
+     5.9 Assignment ...................................................................................................................... 23
+     5.10 Officials not to Benefit..................................................................................................... 23
+     5.11 Indemnification ................................................................................................................ 23
+     5.12 Contractor's Responsibility for Employees.................................................................... 24
+     5.13 Subcontracting ................................................................................................................ 24
+     5.14 Place of Performance ...................................................................................................... 24
+     5.15 Language ......................................................................................................................... 24
+     5.16 Confidentiality.................................................................................................................. 24
+     5.17 Title Rights....................................................................................................................... 25
+     5.18 Termination and Cancellation ......................................................................................... 25
+     5.19 Force Majeure .................................................................................................................. 25
+     5.20 Surviving Provisions ....................................................................................................... 26
+     5.21 Use of UNAIDS and WHO name and emblem ................................................................. 26
+     5.22 Successors and Assignees............................................................................................. 26
+     5.23 Payment ........................................................................................................................... 26
+     5.24 Title to Equipment ........................................................................................................... 26
+     5.25 Insurance and Liabilities to Third Parties ....................................................................... 26
+     5.26 Settlement of Disputes .................................................................................................... 27
+     5.27 Observance of the Law.................................................................................................... 27
+     5.28 Authority to Modify .......................................................................................................... 27
+     5.29 Privileges and Immunities ............................................................................................... 27
+     5.30 No Terrorism or Corruption ............................................................................................ 27
+     5.31 Personnel ......................................................................................................................... 28
+          5.31.1 Approval of Contractor Personnel ....................................................................... 28
+          5.31.2 Project Managers................................................................................................ 28
+          5.31.3 Foreign Nationals................................................................................................ 29
+          5.31.4 Compliance with UNAIDS Policies ...................................................................... 29
+          5.31.5 Ethical Behaviour ................................................................................................ 29
+          5.31.6 Engagement of Third Parties and use of In-house Resources ............................. 29
+
+
+
+
+                                                                                                                               Page 3 of 29
+1.            INTRODUCTION
+1.1           Objective of the RFP
+The purpose of this Request for Proposal (RFP) is to enter into a Long Term Agreement (LTA) with
+successful bidders and select suitable contractors to carry out the on-going IT outsourcing needs of the
+UNAIDS for a duration of two years starting in April 2015 with a potential extension of one additional year.
+
+UNAIDS is seeking functional and technical skills in the following areas of Information Technology:
+
+         Open Source development (Drupal/PHP, Django/Python, Google scripting/Google App engine)
+         System and database administration (MySQL and Linux)
+         Project Management
+         Business Analysis
+
+UNAIDS is an organization that is dependent on the budgetary and extra-budgetary contributions it
+receives for the implementation of its activities. Bidders are therefore requested to propose the best and
+most cost-effective solution to meet UNAIDS requirements, while ensuring a high level of service.
+
+For more information about UNAIDS please consult our website www.unaids.org.
+
+
+1.2           Characteristics of the bidder
+
+1.2.1     Status
+               The provider shall be a public institution or company operating in the field of Information
+                Technology, with proven expertise in software development, project management and
+                analysis.
+
+1.2.2     Accreditations
+               Legally established company or organization in their country of origin for at least 5 years
+                before the launch date of this RFP.
+
+1.2.3     Previous experience
+               Proven experience in providing resources similar to the roles outlined under section 1.3.
+               Previous experience working with international organizations an asset.
+
+1.2.4     Logistic capacity
+               Confirm electronic communication capability at their place of work and ability to respond to
+                established response times based on Geneva time zone;
+               Have the capability to obtain visas in a timely manner for any onshore work or reviews in
+                UNAIDS HQ in Geneva. The bidder will be fully responsible for visa/permit applications to
+                meet assignments at UNAIDS HQ in Geneva.
+
+1.2.5     Staffing
+
+               University degree required for all staff assigned to UNAIDS, related to the roles they are
+                providing.
+               Single focal point/account manager needs to interface with UNAIDS with response of queries
+                provided within 2 working days.
+               All resources provided need to be able to communicate and work in English.
+
+
+
+
+                                                                                                  Page 4 of 29
+1.3       Work to be performed
+The responsibilities of the IT Department within UNAIDS is to lead, guide and standardize the
+development and provision of all UNAIDS Information & Communications Technology infrastructure,
+systems and services.
+
+The IT Department is also responsible for standardizing and integrating all information management and
+information technology activities across the UNAIDS Secretariat. This ensures that these activities are
+delivered in a coherent way and are compatible with the wider information management work of UNAIDS.
+
+Due to limited resources, the IT Department focuses on critical development projects and some requests
+from divisions within UNAIDS are not receiving an adequate and timely response. To respond to current
+business needs in terms of application development and initiating new projects, the IT Department
+requires external support.
+
+1.3.1     Key requirements
+1.3.1.1       Purpose of the Long Term Agreement
+The UNAIDS IT Department is looking to establish Long Term Agreements (LTA) with multiple vendors to
+facilitate the outsourcing of work.
+
+UNAIDS will issue, based on internal demand, specific contracts with pre-determined terms of reference
+for contractors under LTA. It is anticipated that UNAIDS will issue contracts with a duration of between 2
+weeks and 6 months.
+
+Multiple simultaneous contracts could be issued to the same or different companies.
+
+UNAIDS IT is seeking functional and technical skills in the following areas of Information Technology:
+
+               Software development skills (open source and mobile technologies)
+               System and database administration skills (open source - Linux/MySQL)
+               Project management and business analysis skills
+
+The expectation is that most of the resources obtained through this agreement will need to start the
+activity within a maximum of three weeks of the original UNAIDS request. The prompt availability of
+qualified staff is critical to the success of this agreement.
+
+1.3.1.2       Description of required resources
+The following are the specific roles which are required by this RFP. A role is the job function that the
+bidder’s resource is required to perform for UNAIDS. Bidder’s resources may be qualified to perform
+multiple roles. Each role is described below. These are to guide the bidder with the preparation of their
+proposal.
+
+
+               Junior Developer
+
+                    o   2-5 years specific development experience with open source technologies which
+                        includes Drupal/PHP, Django/Python, MySQL, Javascript/JQuery, Google
+                        scripting/Google App Engine, HTML/CSS/XML/JSON, iPhone App development
+
+                    o   Optional: experience in Health Information Systems (DHIS2, DevInfo, etc.)
+
+               Senior Developer
+
+
+
+
+                                                                                               Page 5 of 29
+                o   5+ years specific development experience with open source technologies which
+                    includes Drupal/PHP, Django/Python, MySQL, Javascript/JQuery, Google
+                    scripting/Google App Engine, HTML/CSS/XML/JSON, iPhone App development
+
+                o   Optional: experience in Health Information Systems (DHIS2, DevInfo, etc.)
+
+           System and Database Administrator
+
+                o   3-5 years specific experience with managing MySQL databases
+
+                o   3-5 years specific experience with managing Linux servers
+
+                o   Experience with MySQL programming language
+
+                o   Experience with Linux programming language
+
+           Project Manager
+
+                o   5+ years of project management for any size projects
+
+                o   Experience with managing projects from beginning to end
+
+                o   Experience with developing full-scale project plans and associated communications
+                    documents
+
+                o   Experience with estimation of necessary resources and participants needed to
+                    achieve project goals
+
+                o   Experience with developing and delivering progress reports, proposals, requirements
+                    documentation and presentations
+
+                o   Experience with coaching, mentoring and supervising project teams and contractors,
+                    to influence them to take positive action
+
+                o   Prince2 certification is preferred
+
+           Business Analyst
+
+                o   5+ years specific expertise in requirements engineering, analysing complex business
+                    processes, usability design and testing
+
+                o   Experience with collecting data and information, and analysing the project’s business
+                    requirements and translating into technical requirements
+
+                o   Experience of preparing accurate and detailed functional and non-functional
+                    requirement specifications documents & user manuals
+
+                o   Experience communicating effectively with external clients and internal teams to
+                    deliver product’s functional requirements like GUI designs, and manage basic user
+                    trainings
+
+In order for this LTA to be successful and in the interest of both UNAIDS and the selected companies, it is
+primordial for UNAIDS to ensure that the selected bidders have a legitimate and substantial expertise in
+the technologies/functions mentioned above. All bidders must provide CVs of proposed staff to confirm
+the availability of resources for the different roles. The bidders are not required to have staff for all
+different roles.
+
+
+
+
+                                                                                              Page 6 of 29
+1.3.1.3   Scenario within the LTA
+There are two scenarios under which work will be carried out under this agreement. They are defined
+below as Model A & Model B:
+
+1.3.1.3.1 Model A – Resources for “Time & Materials” contracts
+Overview
+The IT Department has resource or expertise gaps that require external technical or functional resources
+to work within UNAIDS technical teams on specific development or project tasks, on a time and materials
+basis. In this case, day to day project management will reside with UNAIDS IT project manager. The
+resource(s) supplied by the bidder shall report on a day-to-day basis to the project lead/manager, based
+at UNAIDS HQ in Geneva.
+
+Approach
+   1. The IT Department will request the chosen vendors to provide resources for specific activities
+      within a project, indicating the required roles and specific experience and expertise required.
+   2. The vendors will confirm the availability of suitable resources within two working days and provide
+      profiles of corresponding candidates matching the requirements in this RFP.
+   3. If necessary, the IT Department will interview the proposed candidate(s) within three working
+      days and confirm or reject the candidate.
+   4. A Statement of Work (SoW) based on “time and materials” will be issued for the selected
+      company using the agreed rates in the LTA. For each contract, the standard conditions set out in
+      this agreement will apply.
+Required lead times
+It is expected that the selected resource will be available to start work within 2 weeks after finalization of
+the SoW.
+Working hours
+In this model, it is key for both UNAIDS and the vendor to work closely. It is expected that the selected
+resource will work 8 hours in common with UNAIDS HQ i.e. between 7:00AM to 7:00PM Geneva time.
+Physical presence is not required in Geneva, but for the purpose of close cooperation immediate
+communication with the resource is required.
+
+1.3.1.3.2 Model B - Resources for “fixed price” contracts
+Overview
+The IT Department has some projects in which the deliverables can be clearly defined upfront. In these
+cases a fixed price contract will be used. The resource(s) supplied by the bidder will have defined
+deliverables and will need to coordinate with the project manager assigned by UNAIDS.
+
+
+Approach
+   1. The IT Department will supply the selected vendors with a list of requirements that contains
+      essential information about the background and Terms of Reference (TOR) of the project.
+   2. The vendors will propose their technical solutions and estimate the resources required. This
+      information shall be submitted as a Technical and Financial Offer.
+   3. The Technical and Financial Offer must be calculated using the agreed rates in the LTA.
+   4. The IT Department will review all submissions, will interview any prospective resources and
+      select the most appropriate offer.
+   5. The IT Department will issue a “fixed-price” Statement of Work (SoW) to the selected vendor.
+   6. The UNAIDS project lead and other internal resources will work with the vendor resources as
+      defined in the SoW. It is stressed that the vendor is responsible for quality and on-time delivery
+      within the agreed budget.
+
+
+
+
+                                                                                                  Page 7 of 29
+Required lead times
+It is expected that the selected resource is available to start work within 2 weeks after finalization of the
+SoW.
+Working hours
+In this model, it is key for both UNAIDS and the vendor to work closely. It is expected that the selected
+project manager will work 8 hours in common with UNAIDS HQ i.e. between 7:00AM to 7:00PM Geneva
+time.
+Specific Requirements
+The selected bidder is expected to have project management skills and experience and use consistent
+estimating efforts, developing project schedule and staffing plans.
+For software development, the selected bidder must ensure source integrity and use the appropriate tools
+recommended by UNAIDS.
+
+1.3.1.4   Tenure and Performance of Staff/Resources
+After the Statement of Work (“SoW”) has been issued, the bidder is expected to commit to keep
+successful candidates working with the IT Department for the duration of SoW. Any replacement should
+be subject to mutual agreement between the IT Department and the bidder. For each mutually agreed
+replacement, the IT Department may carry out interviews. Frequent removal of resources during a SoW in
+progress will be regarded negatively by the IT Department and may prevent UNAIDS from assigning
+future work to the vendor.
+
+As mentioned earlier, it is vital for the vendor to ensure expertise within the areas of work needed by
+UNAIDS. Contacting external consultants / third party company or partners which are not explicitly
+mentioned in the LTA will be regarded negatively by the IT Department and may prevent UNAIDS
+assigning future work to the vendor.
+
+The performance of each particular candidate will be periodically assessed the IT Department. The result
+of the assessment may trigger replacement of the resource or influence the acceptance of the resource
+by the IT Department for future projects.
+
+1.3.1.5   Work permits/ Visa Application
+In case of physical presence required for specific engagement, the bidder will be fully responsible for
+visa/permit applications. Unreasonable delays in having staff on-site due to permit/visa issues will be
+considered as grounds for cancelling a contract.
+
+1.3.1.6   Working on premises
+The majority of the work will be carried out remotely. However, in some cases, it might be necessary for
+the selected resource to perform the work in the UNADS Secretariat in Geneva or in a particular office in
+the field (Regional office or country office). In these situations, the bidder will be requested to include as
+part of the financial offer for the specific TOR all related travel expenses (including accommodation and
+insurance) and this amount will be considered to determine the most favourable offer for UNAIDS for the
+specific assignment.
+
+1.3.1.7   Duration of the Agreement
+UNAIDS anticipates entering into non-exclusive LTAs with suppliers for a term of two (2) years with an
+option to renew for one (1) additional year, expected to start in April 2015.
+
+1.3.1.8   Prices
+The fixed daily rates for the skills quoted by the vendors (submitted for this RFP) will be valid for the
+duration of this agreement and can only be re-negotiated at the moment of renewal of the whole
+agreement.
+
+
+
+
+                                                                                                  Page 8 of 29
+1.3.1.9       Estimated Resource Requirements
+Based on the current outsourcing of IT activities, the IT Department estimates that the total workload from
+all selected vendors for providing the skills under these agreements should be 1000 person days per
+year.
+
+1.3.2     Reporting requirements
+1.3.2.1       Statement of Work - proposal
+               The bidder will provide CVs of suitable candidates.
+               For Resources for “fixed price” contracts, the bidder will also provide a proposal including (but
+                not limited to) a technical solution, an estimate of the resources required, a price quote and
+                timelines.
+
+1.3.2.2       Statement of Work - completion
+               A final technical report needs to be submitted by the bidder as specified in the contract.
+               Any source code or product developed need to be delivered as part of the technical report.
+
+1.3.2.3       Annual reporting
+          The contractors will be required to provide as a minimum annual summary of engagements and
+          the total amount contracted under the LTA each year. UNAIDS may require under exceptional
+          circumstances a summary of the current cumulative amount of engagements in a given year to be
+          provided for monitoring purposes.
+
+1.3.3     Finance and accounting requirements
+The bidder will be responsible for the submission of timely and accurate invoices indicating the SoW
+number, title of the document, rate(s) applied and total amount exclusive of VAT. The invoice should be
+issued within 30 days of completion of the assigned work.
+
+1.3.4     Performance monitoring
+The IT Department focal point will monitor the quality and timeliness of resources being supplied, together
+with quality of deliverables in a timely manner within the defined budget. A formal review may be
+conducted annually to understand the performance of the bidder and their supplied resources.
+
+1.3.5     Further Capacities
+No additional capacity
+
+
+
+
+                                                                                                   Page 9 of 29
+2. INSTRUCTIONS TO BIDDERS
+Bidders should follow the instructions set forth below in the submission of their proposal to UNAIDS.
+
+
+2.1         Language of the Proposal and other Documents
+The proposal prepared by the bidder, and all correspondence and documents relating to the proposal
+exchanged between the bidder and UNAIDS shall be written in the English language.
+
+
+2.2         Intention to Bid
+No later than 27 February 2015, the bidder is requested to complete and return by email to UNAIDS:
+
+        1. The enclosed RFP_Acknowledgement.doc form signed as confirmation of the bidder's
+           intention to submit a bona fide proposal and designate its representative to whom
+           communications may be directed, including any addenda; and
+
+
+        2. The enclosed RFP_Confidentiality.doc form signed. (If the bidder does not announce its
+           intention to bid, this document is required to be part of the final submission)
+
+             Email for submissions of acknowledgement: Bids@unaids.org
+             Email Subject: Intention to bid for RFP-2015-01
+
+Please note that the Intention to Bid is not a requirement to submit a proposal, however UNAIDS
+will be able to better identify potential bidders announcing their intention to bid, and communicate
+with them in case of changes to the RFP or clarifications to questions asked.
+
+
+2.3         Cost of Proposal
+The bidder shall bear all costs associated with the preparation and submission of the proposal, including
+but not limited to the possible cost of discussing the proposal with UNAIDS, making a presentation,
+negotiating a contract and any related travel.
+UNAIDS will in no case be responsible or liable for those costs, regardless of the conduct or outcome of
+the selection process
+
+
+2.4         Contents of the Proposal
+Proposals must offer services for the total requirement. Proposals offering only part of the requirement
+may be rejected.
+
+The bidder is expected to examine all corresponding instructions, forms, terms and specifications
+contained in this RFP. Failure to follow the instructions provided, terms and specifications and/or to
+submit the forms requested will be at the bidder’s risk and may affect the evaluation of the proposal.
+
+
+2.5         Joint Proposal
+Two or more entities may form a consortium and submit a joint proposal offering to jointly undertake the
+work. Such a proposal must be submitted in the name of one member of the consortium - hereinafter the
+“lead organization". The lead organization will be responsible for undertaking all negotiations and
+
+
+                                                                                            Page 10 of 29
+discussions with, and be the main point of contact for UNAIDS. The lead organization and each member
+of the consortium will be jointly and severally responsible for the proper performance of the contract
+
+
+2.6      Communications during the RFP Period
+A prospective bidder requiring any clarification on technical, contractual or commercial matters may notify
+UNAIDS via email at the following address:
+
+Email for submissions of all queries: Bids@UNAIDS.org
+Subject: Bid Ref. RFP-2015-01
+
+UNAIDS will respond in writing (email only) by a consolidated document to any request for clarification of
+the RFP that it receives prior to 27 February 2015.
+
+The consolidated document of UNAIDS's response to all questions (including an explanation of the query
+but without identifying the source of enquiry) will be made available to all prospective bidders on the
+UNAIDS website, Request for Proposals section after the date indicated above. Questions are to be
+submitted in the format "Paragraph Number - Question."
+
+There shall be no individual presentation by or meeting with bidders until after the closing date. From the
+date of issue of this RFP to the final selection, contact with UNAIDS officials concerning the RFP process
+shall not be permitted, other than through the submission of queries at the indicated email address above
+and/or through a possible presentation or meeting called for by UNAIDS, in accordance with the terms of
+this RFP.
+
+
+
+2.7      Proposal structure
+
+2.7.1   Proposal Submission Form
+The bidder's proposal must be accompanied by a Proposal Submission Form, in the form attached hereto
+as Annex 1, signed by a duly authorized representative of the bidder, stating:
+        That the proposal meets the requirements of the RFP,
+        That the bidder undertakes, on its own behalf and on behalf of its possible partners and
+            contractors, to provide the goods/services in accordance with the terms of the Request for
+            Proposal (RFP), and its accompanying documents, for the amount set forth in the attached
+            Financial Proposal,
+        The number of days the proposal is valid (from the date of closing of the RFP).
+
+2.7.2    Information of Firm/Organization submitting Proposal
+
+        In case of companies bidding, the following information must be provided in order to ascertain
+        capabilities to deliver the work proposed.
+
+
+
+
+                                                                                            Page 11 of 29
+ Information of Firm/Organization submitting Proposal
+ 1     Company Information
+ 1.1     Corporate information
+ 1.1.1    Company mission statement (if applicable)
+ 1.1.2    Quality Assurance / Quality Control mechanisms in place at the company
+ 1.1.3    Organization structure
+ 1.1.4    Geographical presence
+ 1.2     Staffing information
+ 1.2.1    Number and Geographical distribution of staff
+ 1.2.2    Number of consultants employed on similar projects in each of the past three years
+ 1.3     Audited financial statements for the past three (3) years
+ 1.4     Legal information
+ 1.4.1    History of Bankruptcy
+ 1.4.2    Pending major lawsuits and litigations in excess of USD 100,000 at risk (indicate particularly those by
+          licensees or patent infringement)
+ 1.4.3    Pending Criminal/Civil lawsuits
+ 1.5     Contractual relationships
+ 1.5.1    Contractual programmes (with other UN agencies or International Organizations)
+ 1.5.2    Company Certifications and certification status
+ 1.6     Proposed sub-contractor arrangements including company information (as above for each sub-
+          contractor)
+ 2     Experiences and Reference Contact Information (list and provide up to five (5) detailed examples of
+          relevant experience gained within the past five years of the issuance of this RFP that demonstrate the
+          contractor's ability to deliver a solution that substantially demonstrates the functional and technical
+          requirements of this RFP)
+ 2.1     Project Name (project one)
+ 2.1.1    Project Description including but not limited to project starting date and duration, project and contract
+          value, and total FTE involved form the company
+ 2.1.2    Status (under development/implemented)
+ 2.1.3    Reason for Relevance (provide reason why this project can be seen as relevant to this RFP)
+ 2.1.4    Roles and responsibilities (list and clearly identify the roles and responsibilities for each participating
+          Organization)
+ 2.1.4.1     Client Role and Responsibility
+ 2.1.4.2     Contractor Role and Responsibility. Previous contractor role in project
+ 2.1.4.3     Third party contractors Role and Responsibility. Previous specified 3rd party role in project.
+ 2.1.5    Team members (indicate relevant members of the team from the project that will be used in the
+          performance of services)
+
+Bidders will be excluded if;
+         they are bankrupt or being wound up, are having their affairs administered by the courts,
+             have entered into an arrangement with creditors, have suspended business activities, are the
+             subject of proceedings concerning those matters, or are in any analogous situation arising
+             from a similar procedure provided for in national legislation or regulations;
+         they have been convicted of an offence concerning their professional conduct by a judgment
+             which has the force of res judicata; have been subject of a judgment which has the force of
+             res judicata for fraud, corruption, involvement in a criminal organization or any other illegal
+             activity;
+         it becomes apparent to UNAIDS that they are guilty of misrepresentation in supplying, or if
+             they fail to supply, the information required under this RFP and/or as part of the bid
+             evaluation process ; or
+         they give rise to a conflict of interest.
+
+2.7.3   Technical Proposal
+        The bidder should include in this section all relevant information for UNAIDS to evaluate the
+        proposal, including information relating to coverage of UNAIDS needs and requirements, as
+        specified in section 1, proposed timeline, resources dedicated partially or fully to the project.
+
+
+
+
+                                                                                                      Page 12 of 29
+IMPORTANT: The Technical Proposal shall contain no price or cost information.
+
+The Technical Proposal must include the following sections:
+
+a)      Understanding of the Requirements for Services, including Assumptions
+Include any assumptions as well as comments on the services as indicated in the Technical
+Specifications, or as the bidder may otherwise believe to be necessary.
+
+b)      Proposed Approach
+Any comments or suggestions on the technical specifications, as well as the bidder's detailed
+description of the manner in which it would respond to the technical specifications.
+The bidder needs to details how available resources would be identified and mobilized to meet
+UNAIDS requirements.
+
+Describe its strategy to ensure that expertise is kept in house:
+
+    o     Recruitment process
+    o     Retention strategy (including training approach)
+    o     How many years does IT staff typically (average) stay with the bidder’s organization?
+    o     Strategy and vision to build expertise on the technologies mentioned in this RFP
+
+Describe how staff reports on their work:
+
+    o     What process does the bidder use for monitoring the work of their staff on client’s site.
+    o     Is there an account manager in contact with their staff?
+    o     What support mechanism exists if the staff is unable to carry out the required work?
+    o     What is the escalation process from UNAIDS’ perspective?
+
+c)       Quality of IT staff
+Provide specific information about the staff in the bidder’s organization related to the skills defined
+in section1.3.1.2.
+
+The bidders are requested to populate the table below:
+
+ Expertise               Number        Experience in this     3 main recent projects
+                         of staff      area (# of years)      (name, client, year)
+
+ Drupal
+
+ Django
+
+ Google
+ scripting/API
+
+ Project
+ management
+
+ Business analysis
+
+ MySQL admin
+
+ Linux admin
+
+ iPhone App
+
+
+
+
+                                                                                        Page 13 of 29
+         Health Information
+         Systems (optional)
+
+
+
+
+2.7.4    Financial Proposal
+
+        The bidder's separate sealed price component must contain an overall quotation in a single
+        currency, either in US Dollars or in the currency of the bidder's country of incorporation or
+        registration. If the bidder opts for the latter and for evaluation purposes only, its proposal will be
+        converted into US dollars using the United Nations rate of exchange in effect on the closing date
+        for the submission of proposals.
+
+        The Financial Proposal shall be accompanied by a cover letter signed by a duly authorized
+        representative of the bidder, confirming the following:
+               (a)      the price; and
+               (b)      the period of validity of the bid.
+
+        In addition, the Financial Proposal must cover all the goods or services to be provided and must
+        itemize the following costs:
+        a)       Design concepts, development, typesetting, amends and artwork costs
+        b)       Printing costs
+        c)       Delivery costs
+        d)       Travel and Per Diem costs
+        e)       Other costs, if any (indicating nature and breakdown).
+
+        The Financial Proposal must contain a summary of total cost for the services proposed as well as
+        a proposed schedule of payments, all of which must be expressed and will be made in the
+        currency of the proposal.
+
+        In preparing Financial Proposals, bidders should carefully note the following provisions regarding
+        UNAIDS policies on limitations on advance payments, retention, performance bonds, etc.
+
+        UNAIDS' general policy is to pay for the performance of contractual services rendered or to effect
+        payment upon the achievement of specific milestones described in the contract.
+
+        Please note that UNAIDS’ policy is to make an advance payment up to a maximum of 25 per cent
+        upon signature of a contract, whether a private firm, NGO or a government or other entity.
+        UNAIDS, at its discretion, may however determine that such payment is not warranted or
+        determine the conditions under which such payment would be made. In any case where an
+        advance payment for $50,000 or more is requested and subsequently approved, UNAIDS will
+        normally require a bank guarantee or other suitable security arrangement. Further information
+        may be requested by UNAIDS at the time of finalizing contract negotiations with the selected
+        bidder.
+
+        Any request for an advance payment is to be justified and documented and must be submitted
+        with the financial proposal. This justification shall explain the need for the advance payment,
+        itemize the amount requested and provide a time-schedule for utilization of said amount. In
+        addition, the bidder must submit documentation regarding its financial status, e.g. audited
+        financial statements at 31 December of the previous year, and include this documentation with its
+        financial proposal. Further information may be requested by UNAIDS at the time of finalizing
+        contract negotiations with the selected bidder.
+
+
+
+
+                                                                                               Page 14 of 29
+          UNAIDS Travel Policy is to cover and reimburse air tickets only in Economy Class using the most
+          direct route available. UNAIDS does not cover Per Diem cost exceeding that defined by the
+          United Nations at the time of the travel for the specific destination of the travel.
+
+
+2.8           Format and Signing of Proposals
+The bidder shall submit the proposal in two separate emails.
+
+This first email must contain the complete technical proposal. Each complete technical proposal should
+include the following:
+
+               The proposal (as specified in section 2.7.3) and supporting documents (marked clearly Bid
+                Ref RFP RFP-2015-01)
+               Signed proposal submission Form (See Annex 1 to this RFP)
+
+This second email must contain the financial proposal and its cover letter as specified in section 2.7.4.
+
+Please also note the following instructions for preparation of the Proposal:
+      1) All pages of the proposal shall be numbered in the format 'Page X of Y'.
+      2) The electronic copy of the proposal and supporting documents should be in PDF, or MS Office
+         compatible format (Word, Excel, Power Point or MS Project). The responses to the functional
+         requirements should be submitted in the structure provided in this RFP. The proposed timeline
+         project plan should be either in MS Project MPP, XLS or PDF format.
+
+The "Technical Proposal" shall be forwarded to TechnicalBids@unaids.org and the “Financial Proposal”
+forwarded separately to FinancialBids@unaids.org.
+
+There will be no automatic confirmation of receipt as the proposals are only opened after the closing date.
+The email subject must include the bid reference number available on the first page of this RFP and on
+the UNAIDS website. Due to email size limitation, multiple emails can be send as the bidder submission.
+
+
+
+2.9           Period of Validity of Proposals
+The offer outlined in the proposal must be valid for a minimum period of 120 calendar days after the
+closing date. A proposal valid for a shorter period may be rejected by UNAIDS. In exceptional
+circumstances, UNAIDS may solicit the bidder’s consent to an extension of the period of validity. The
+request and the responses thereto shall be made in writing. Any bidder granting the request will not be
+required nor permitted to modify its proposal.
+
+
+2.10          Closing Date for Submission of Proposals
+Proposals must be received at UNAIDS at the address specified in section 2.8 no later than 08
+March 2015 at 23:59 Geneva time.
+
+UNAIDS may, at its own discretion, extend this closing date for the submission of proposals by notifying
+all bidders thereof in writing.
+
+Any proposal received by UNAIDS after the closing date for submission of proposals may be rejected.
+
+
+
+
+                                                                                             Page 15 of 29
+2.11        Modification and Withdrawal of Proposals
+The bidder may withdraw its proposal any time after the proposal’s submission and before the opening
+date, provided that written signed notice of the withdrawal (by a duly authorized representative of the
+bidder) via email is received by UNAIDS prior to the closing date.
+
+The bidder’s withdrawal notice shall be prepared and dispatched to be received before the closing date in
+accordance with section 2.10.
+
+            Email for withdrawal of proposal: Bids@UNAIDS.org
+
+However, if you submitted your technical and financial proposals using the option for Electronic
+Submission in section 2.8, then your withdrawal notice must also be submitted to these email addresses
+with the reference number and the word WITHDRAWAL clearly indicated in the subject line.
+
+No proposal may be modified after the closing date for submission of proposals, unless UNAIDS has
+issued an amendment to the RFP allowing such modifications (see section 2.13).
+
+No proposal may be withdrawn in the interval between the opening date and the expiration of the period
+of proposal validity specified by the bidder in the proposal.
+
+
+2.12        Receipt of Proposals from Non-invitees
+UNAIDS may, at its own discretion, extend the RFP to bidders that were not included in the individual
+invitation list if this is necessary and in the interest of UNAIDS. RFPs published by UNAIDS on the
+UNAIDS website are open for all qualified bidders.
+
+
+2.13        Amendments of the RFP
+At any time prior to the closing date for submission of proposals, UNAIDS may, for any reason, whether
+on its own initiative or in response to a clarification requested by a bidder, modify the RFP by
+amendment. Amendments could include modification of project scope or requirements, project timeline
+expectations or extension of the closing date for submission.
+
+All prospective bidders that have received the RFP will be notified in writing of all amendments to the
+RFP. In addition, all amendments will be posted on the UNAIDS website in the Request for Proposals
+section and in any other website used by UNAIDS directly for publishing the Request for Proposals.
+
+
+
+
+                                                                                           Page 16 of 29
+3.         OPENING AND EVALUATION OF PROPOSALS
+
+3.1        Opening of Proposals
+UNAIDS will open the technical proposals in the presence of a Committee formed by UNAIDS at the
+Headquarters office in Geneva, Switzerland on a date fixed after the closing of the tendering period.
+Each technical proposal will be opened during the session with each bidder announced. Financial
+proposals will be opened only after the technical evaluation of the proposals.
+
+There will not be a public opening of bids.
+
+
+3.2        Clarification of Proposals
+UNAIDS may, at its discretion, ask any bidder for clarification of any part of its proposal to assist in the
+examination, evaluation and comparison of proposals. The request for clarification and the response shall
+be in writing. No change in price or substance of the proposal shall be sought, offered or permitted during
+this exchange.
+
+
+3.3        Preliminary Examination of Proposals
+UNAIDS will examine the proposals to determine whether: (i) they are complete, (ii) any computational
+errors have been made, (iii) the documents have been properly signed, and (iv) the proposals are
+generally in order.
+
+Please note that UNAIDS is not bound to select any of the firms/institutions submitting proposals.
+Furthermore, since a contract would be awarded in respect of the proposal which is considered most
+responsive to the needs of the project concerned, due consideration being given to UNAIDS’ general
+principles, including economy and efficiency, UNAIDS does not bind itself in any way to select the
+firm/institution offering the lowest price.
+
+
+3.4        Technical Evaluation of Proposals
+
+A two-stage procedure will be utilized in evaluating the proposals, with technical evaluation of the
+proposal being completed prior to any evaluation of the Financial Proposal.
+
+The technical evaluation of proposals will be accomplished by a selection panel. The selection panel will
+evaluate all proposals which have passed the preliminary examination of proposals according to:
+
+         the quality of the overall proposal (20 Points);
+         the appropriateness of the proposed approach / ability to meet UNAIDS requirements (30 Points);
+         the experience of the firm in carrying out related projects and technologies (30 Points);
+         the qualifications and competence of the personnel proposed (20 Points);
+
+The obtainable number of points specified for each evaluation criterion indicates the relative significance
+or weight of the item in the overall evaluation process. The points allocated to the technical proposal
+correspond to 60% of the total obtainable points.
+
+
+
+
+                                                                                             Page 17 of 29
+3.5      Financial Proposal Evaluation
+The financial proposal will only be evaluated if the technical proposal achieves a minimum of 60% of the
+total allocable points for the technical evaluation. Proposals failing to obtain this minimum threshold will
+not be eligible for further consideration.
+
+The maximum number of points for the price component is 40% of the total obtainable points.
+
+This maximum number of points will be allocated to the lowest price proposal. All other price proposals
+will receive points in inverse proportion according to the following formula:
+
+Points for the price component of a proposal being evaluated = ([Maximum number of points for the price
+component] x [Lowest price]) / [Price of proposal being evaluated]
+
+Historically UNAIDS has awarded contracts for an estimated 60% of developer’s days and 40% of
+analyst’s days while in the future UNAIDS expects this proportion to be 70% for developer and 30% for
+Analysts, financial offers will be analyzed with this proportion.
+
+3.6      Bidders' Presentations
+At the discretion of UNAIDS, selected bidders may be invited to supply additional information on the
+contents of their proposal during the evaluation period. Such bidders could be asked to give a
+presentation of their proposal (possibly with an emphasis on a topic of UNAIDS's choice) followed by a
+question and answer session. If UNAIDS determines that there is such a need, the presentation will be
+held at UNAIDS Headquarters in Geneva, or by videoconference/Internet. Bidders will be given
+reasonable time to prepare for the presentation.
+
+NOTE: Presentations or other individual contact is expressly prohibited before the closing date for
+proposal submission.
+
+
+
+
+                                                                                             Page 18 of 29
+4.       AWARD OF CONTRACT
+
+4.1      Award Criteria, Award of Contract
+UNAIDS reserves the right to:
+a)  Award the contract to a bidder of its choice, even if its bid is not the lowest;
+b)  Award separate contracts for parts of the work, components or items, to one or more bidders of its
+    choice, even if their bids are not the lowest;
+c)  Accept or reject any proposal, and to annul the solicitation process and reject all proposals at any
+    time prior to award of contract, without thereby incurring any liability to the affected bidder or
+    bidders and without any obligation to inform the affected bidder or bidders of the grounds for
+    UNAIDS' action;
+d)  Award the contract on the basis of UNAIDS’ particular objectives to a bidder whose proposal is
+    considered to be the most responsive to the needs of the Organization and the activity concerned;
+e)  Not award any contract at all.
+
+UNAIDS has the right to eliminate bids on technical or other reasons throughout the evaluation/selection
+process. UNAIDS shall not in any way be obligated to reveal, or discuss with any bidder, how a proposal
+was assessed, or to provide any other information relative to the evaluation/selection process or to state
+the reasons for elimination to any bidder
+
+NOTE: UNAIDS is acting in good faith by issuing this RFP. However, this document does not
+obligate UNAIDS to contract for the supply of any products or services.
+
+4.1.1   Right to modify Scope or Requirements during the Proposal Process
+UNAIDS reserves the right to, at any time during the proposal process, modify the scope of services and
+goods specified in the RFP. At any time in the selection process, UNAIDS reserves the right to issue an
+amendment to the RFP detailing the change which should be notified only to bidders who have not been
+officially eliminated due to technical reasons at that point in time.
+
+4.1.2   Right to Extend/Revise Scope or Requirements at Time of Award
+UNAIDS reserves the right, at the time of award of contract, to extend/revise the scope of services and
+goods specified in the RFP without any change in the base price of services and goods or other terms
+and conditions offered by the selected bidder.
+
+4.1.3   Right to enter into Contract Price Negotiations
+UNAIDS reserves the right to enter into negotiations, with one or more bidders that have not been
+eliminated during the evaluation process, including but not limited to negotiations of the terms of the
+proposal(s), the price quoted in such proposal(s) and/or the deletion of certain parts of the work,
+components or items called for under this RFP..
+
+
+4.2      Signing of the Contract
+Within 30 days of receipt of the contract the successful bidder shall sign and date the contract and return
+it to UNAIDS according to the instructions provided at that time. If the bidder does not accept the contract
+terms without changes, then UNAIDS has the right not to proceed with the selected bidder and instead
+contract with another bidder of its choice.
+
+The award of contract will be published in the UNAIDS public website, after all internal clearances and
+acceptance of the contract by the selected bidder.
+
+
+
+
+                                                                                             Page 19 of 29
+4.3      United Nations Procurement Harmonization and Cooperation
+Bidders are informed that UNAIDS, in the spirit of United Nations Procurement Harmonization, may at its
+discretion share details of the contract(s) resulting from this RFP with any other UN Entity without
+requesting the prior approval of the Contractor. For the purposes of this paragraph, “UN Entity” means the
+United Nations, any subsidiary organ of the United Nations established in accordance with Articles 22 or
+29 of the Charter of the United Nations, and any organization of the Specialized Agencies of the United
+Nations System, within the meaning of Articles 57 and 63 of the Charter of the United Nations
+
+
+
+
+                                                                                           Page 20 of 29
+5. GENERAL AND CONTRACTUAL CONDITIONS
+The contract between UNAIDS and the selected bidder ("the Contract") will, unless otherwise explicitly
+agreed in writing, include the provisions as set forth in this section, and will otherwise inter alia address
+the following issues:
+          Responsibilities of the selected bidder(s) (“The Contractor(s)”) and UNAIDS;
+          clear deliverables, timelines and acceptance procedures;
+          payment terms tied to the satisfactory completion of the work;
+          notices.
+
+The prices payable by UNAIDS for the work to be performed under the Contract shall be fixed for the
+duration of the Contract and shall be in a UN convertible currency (preferably US Dollars), based on the
+UN exchange rate of the date of invoice.
+
+The total amount payable by UNAIDS under the Contract may be either a lump sum or a maximum
+amount. If the option for payment of a lump sum applies, that lump sum is payable in the manner
+provided, subject to satisfactory performance of the work. If the option for payment of a maximum amount
+applies:
+- the Contract shall include a detailed budget;
+- the Contractor shall be held to submit a financial statement together with each invoice;
+- any advance payments by UNAIDS shall be used by the Contractor exclusively for the work in
+    accordance with the budget and any unspent balance shall be refunded to UNAIDS;
+- payment by UNAIDS shall be subject to satisfactory performance and the acceptance of the
+    Contractor's financial statements; and
+- all financial reports shall be subject to audit by or on behalf of UNAIDS, including examination of
+    supporting documentation and relevant accounting entries in the Contractor's books. In order to
+    facilitate financial reporting and audit, the Contractor shall keep systematic and accurate accounts
+    and records in respect of the work.
+
+Unless otherwise specified in the Contract, UNAIDS shall have no obligation to purchase any minimum
+quantities of goods or services from the Contractor, and UNAIDS shall have no limitation on its right to
+obtain goods or services of the same kind, quality and quantity as described in the Contract, from any
+other sources at any time..
+
+
+5.1      Conditions of Contract
+Any and all of the Contractor's (general and/or special) conditions of contract are hereby explicitly
+excluded from the Contract, i.e., regardless of whether such conditions are included in the Contractor's
+offer, or printed or referred to on the Contractor's letterhead, invoices and/or other material,
+documentation or communications.
+
+
+5.2      Responsibility
+The Contractor will be responsible to ensure that the work performed under the Contract meets the
+agreed specifications and is completed within the time prescribed. The Contractor shall facilitate the
+operational audit related to the execution of the work and the compliance with the obligations set forth in
+the Contract, by persons so designated by UNAIDS. In this regard, the Contractor shall make all relevant
+operational information, without restriction, available to persons so designated by WHO and provide
+satisfactory explanations to all queries arising in connection therewith.
+
+
+
+
+                                                                                              Page 21 of 29
+5.3      Source of Instructions
+The Contractor shall neither seek nor accept instructions from any authority external to UNAIDS in
+connection with the performance of its services under this Contract. The Contractor shall refrain from any
+action which may adversely affect UNAIDS and shall fulfill its commitments with the fullest regard to the
+interests of UNAIDS.
+
+
+5.4      Warranties
+The Contractor will warrant and represent to UNAIDS as follows:
+1) The deliverables shall meet the specifications and shall function in a manner which is fully adequate
+   to meet its intended purpose. The Contractor furthermore warrants that the deliverables shall be
+   error-free, in that the Contractor shall correct any errors in the deliverables, free of charge, within
+   fifteen days after their notification to the Contractor, during a period of at least six months after
+   completion of the work. It is agreed, however, that errors and other defects, which have been caused
+   by modifications to the deliverables made by UNAIDS without agreement of the Contractor are not
+   covered by this paragraph.
+2) The deliverables shall, to the extent it is not original, only be derived from, or incorporate, material
+   over which the Contractor has the full legal right and authority to use it for the proper implementation
+   of this Contract. The Contractor shall obtain all the necessary licenses for all non-original material
+   incorporated in the deliverables including, but not limited to, licenses for UNAIDS to use any
+   underlying software, application, and operating deliverables included in the deliverables or on which it
+   is based, so as to permit UNAIDS to fully exercise its rights in the deliverables and the software
+   without any obligation on UNAIDS’s part to make any additional payments whatsoever to any party.
+3) The deliverables shall not violate any copyright, patent right, or other proprietary right of any third
+   party and be delivered to UNAIDS free and clear of any and all liens, claims, charges, security
+   interest and any other encumbrances of any nature whatsoever.
+4) The Contractor, its employees and any other persons and entities used by the Contractor shall not
+   violate any intellectual property rights, confidentiality, right of privacy or other right of any person or
+   entity whomsoever..
+5) Except as otherwise explicitly provided in this Contract, the Contractor shall at all times provide all the
+   necessary on-site and off-site resources to meet its obligations hereunder. The Contractor shall only
+   use highly qualified staff, acceptable to UNAIDS, to perform its obligations hereunder.
+6) The Contractor shall take full and sole responsibility for the payment of all wages, benefits and
+   monies due to all persons and entities used by it in connection with the implementation and execution
+   of the Contract, including, but not limited to, the Contractor’s employees, permitted subcontractors
+   and suppliers.
+The Contractor furthermore warrants and represent that the information provided by it to UNAIDS in
+response to the RFP and during the bid evaluation process is accurate and complete. The Contractor
+understands that in the event The Contractor has failed to disclose any relevant information which may
+have impacted UNAIDS' decision to award the Contract to The Contractor, or has provided false
+information, UNAIDS will be entitled to rescind the contract with immediate effect, in addition to any other
+remedies which UNAIDS may have by contract or by law
+
+5.5      Legal Status
+The Contractor shall be considered as having the legal status of an independent contractor vis-à-vis
+UNAIDS, and nothing contained in or relating to the Contract shall be construed as establishing or
+creating an employer/employee relationship between UNAIDS, on the one hand, and the Contractor or
+any person used by the Contractor in the performance of the work, on the other hand.
+
+
+                                                                                               Page 22 of 29
+Thus the Contractor shall be solely responsible for the manner in which the work is carried out. UNAIDS
+shall not be responsible for any loss, accident, damage or injury, suffered by the Contractor or persons or
+entities claiming under the Contractor, arising during or as a result of the implementation or execution of
+the Contract, including travel, whether sustained on UNAIDS premises or not.
+
+The Contractor shall obtain adequate insurance to cover such loss, accident, injury and damages, before
+commencing work on the Contract. The Contractor shall be solely responsible in this regard and shall
+handle any claims for such loss, accident, damage or injury.
+
+
+5.6      Relation Between the Parties
+The Contract does not constitute a partnership between the Parties or does not constitute either Party as
+the agent of the other.
+
+
+5.7      Waiver of Breach
+The waiver by either Party of any provision or breach of the contract shall not prevent subsequent
+enforcement of such provision or excuse further breaches.
+
+
+5.8      Liability
+The Contractor hereby indemnifies and holds UNAIDS harmless from and against the full amount of any
+and all claims and liabilities, including legal fees and costs, which are or may be made, filed or assessed
+against UNAIDS at any time and based on, or arising out of, breach by the Contractor of any of its
+representations or warranties under the Contract, regardless of whether such representations and
+warranties are explicitly incorporated here in or are referred to in any attached Appendices.
+
+
+5.9      Assignment
+The Contractor shall not assign, transfer, pledge or make other disposition of this Contract or any part
+thereof, or any of the Contractor's rights, claims or obligations under this Contract except with the prior
+written consent of UNAIDS.
+
+
+5.10     Officials not to Benefit
+The Contractor warrants that no official of UNAIDS has received or will be offered by the Contractor any
+direct or indirect benefit arising from this Contract or the award thereof. The Contractor agrees that
+breach of this provision is a breach of an essential term of this Contract.
+
+
+5.11     Indemnification
+The Contractor shall indemnify and hold UNAIDS harmless, from and against the full amount of any and
+all claims and liabilities, including legal fees and costs, which are or may be made, filed or assessed
+against UNAIDS at any time and based on, or arising out of, the acts or omissions of the Contractor, or
+the Contractor's employees, officers, agents, partners or sub-contractors, in the performance of the
+Contract. This provision shall extend, inter alia, to claims and liabilities in the nature of workmen's
+compensation, product liability and liability arising out of the use of patented inventions or devices,
+copyrighted material or other intellectual property by the Contractor, its employees, officers, agents,
+servants, partners or sub-contractors.
+
+
+
+
+                                                                                            Page 23 of 29
+5.12     Contractor's Responsibility for Employees
+The Contractor shall be responsible for the professional and technical competence of its employees and
+will select, for work under this Contract, reliable individuals who will perform effectively in the
+implementation of this Contract, respect the local customs, and conform to a high standard of moral and
+ethical conduct.
+
+
+5.13     Subcontracting
+Any intention to subcontract aspects of the Contract must be specified in detail in the proposal submitted.
+Information concerning the subcontractor, including the qualifications of the staff proposed for use must
+be covered with same degree of thoroughness as for the prime contractor. No subcontracting will be
+permitted under the Contract unless it is proposed in the initial submission or formally agreed to by
+UNAIDS at a later time. In any event, the total responsibility for the Contract remains with the Contractor.
+
+The Contractor shall be responsible for ensuring that any and all subcontracts shall be fully consistent
+with the Contract, and shall not in any way prejudice the implementation of any of its provisions.
+
+
+5.14     Place of Performance
+The place of performance of the work under the Contract shall be in the premises of the contractor and, if
+required by the project, in UNAIDS offices (HQ or field)
+
+
+5.15     Language
+The communications relating to the Contract and/or performance of the work there under shall be in
+English.
+
+
+5.16     Confidentiality
+1) Except as explicitly provided in the Contract, the Contractor shall keep confidential all information
+   which comes to its knowledge during, or as a result of, the implementation and execution of the
+   Contract. Accordingly, the Contractor shall not use or disclose such information for any purpose other
+   than the performance of its obligations under the Contract. The Contractor shall ensure that each of
+   its employees and/or other persons and entities having access to such information shall be made
+   aware of, and be bound by, the obligations of the Contractor under this paragraph. However, there
+   shall be no obligation of confidentiality or restriction on use, where: (i) the information is publicly
+   available, or becomes publicly available, otherwise than by any action or omission of the Contractor,
+   or (ii) the information was already known to the Contractor (as evidenced by its written records) prior
+   to becoming known to the Contractor in the implementation and execution of this Contract; or (iii) the
+   information was received by the Contractor from a third party not in breach of an obligation of
+   confidentiality.
+2) The Contractor, its employees and any other persons and entities used by the Contractor shall
+   furthermore not copy and/or otherwise infringe on copyright of any document (whether machine-
+   readable or not) to which the Contractor, its employees and any other persons and entities used by
+   the Contractor have access in the performance of this Contract.
+3) The Contractor may not communicate at any time to any other person, Government or authority
+   external to UNAIDS, any information known to it by reason of its association with UNAIDS which has
+   not been made public except with the authorization of UNAIDS; nor shall the Contractor at any time
+   use such information to private advantage.
+
+
+
+
+                                                                                             Page 24 of 29
+5.17      Title Rights
+1) All rights pertaining to any and all deliverables under the Contract and the original work product
+   leading thereto, as well as the rights in any non-original material incorporated therein as referred in
+   section 5.4.2 above, shall be exclusively vested in UNAIDS..
+2) UNAIDS reserves the right to revise the work, to use the work in a different way from that originally
+   envisaged or to not use the work at all.
+3) At UNAIDS's request, the Contractor shall take all necessary steps, execute all necessary documents
+   and generally assist UNAIDS in securing such proprietary rights and transferring them to UNAIDS in
+   compliance with the requirements of applicable law.
+
+
+5.18      Termination and Cancellation
+UNAIDS shall have the right to cancel the Contract (in addition to other rights, such as the right to claim
+damages):
+
+    1) In the event the Contractor fails to begin work on the date agreed, or to implement the work in
+       accordance with the terms of the Contract; or
+    2) In the event the progress of work is such that it becomes obvious that the obligations undertaken
+       by the Contractor and, in particular, the time of fulfillment, will not be respected.
+In addition, UNAIDS shall be entitled to terminate the Contract (or part thereof), in writing:
+    1) At will with the provision of thirty (30) days prior notice in writing
+    2) With immediate effect (in addition to other rights, such as the right to claim damages), if, other
+       than as provided in the paragraph above, the Contractor is:
+            a. In breach of any of his material obligations under the Contract and fails to correct such
+               breach within a period of thirty (30) days after having received a written notification to that
+               effect from UNAIDS; or
+            b. Adjudicated bankrupt or formally seeks relief of his financial obligations.
+
+5.19      Force Majeure
+No party to the Contract shall be responsible for a delay caused by force majeure, that is, a delay caused
+by reasons outside such party's reasonable control , it being agreed, however, that UNAIDS shall be
+entitled to terminate the Contract (or any part of the Contract) forthwith if the implementation of the work is
+delayed or prevented by any such reason for an aggregate of thirty (30) days. Such termination shall be
+subject to payment of an equitable part of the Contract sum and/or other reasonable charges. In the event
+of such termination, the Contractor shall, in accordance with the ownership rights referred to in section
+5.17 Title rights, deliver to UNAIDS all work products and other materials so far produced.
+
+In the event of and as soon as possible after the occurrence of any cause constituting force majeure, the
+Contractor shall give notice and full particulars in writing to UNAIDS, of such occurrence or change if the
+Contractor is thereby rendered unable, wholly or in part, to perform its obligations and meet its
+responsibilities under this Contract. The Contractor shall also notify UNAIDS of any other changes in
+conditions or the occurrence of any event which interferes or threatens to interfere with its performance of
+this Contract. The notice shall include steps proposed by the Contractor to be taken including any
+reasonable alternative means for performance that is not prevented by force majeure. On receipt of the
+notice required under this Article, UNAIDS shall take such action as, in its sole discretion, it considers to
+be appropriate or necessary in the circumstances, including the granting to the Contractor of a
+reasonable extension of time in which to perform its obligations under this Contract.
+
+
+
+                                                                                                 Page 25 of 29
+5.20      Surviving Provisions
+
+Those rights and obligations of the Parties as set forth in section 5 that are intended by their nature to
+survive the expiration or earlier termination of the Contract shall survive indefinitely. This includes, but is
+expressly not limited to, any provisions relating to UNAIDS' right to financial and operational audit,
+conditions of contract, warranties, legal status and relationship between the parties, breach, liability,
+indemnification, subcontracting, confidentiality, title rights, use of the UNAIDS and WHO name and
+emblem, successors and assignees, insurance and liabilities to third parties, settlement of disputes,
+observance of laws, privileges and immunities, no terrorism or corruption, foreign nationals and
+compliance with UNAIDS policies
+
+
+5.21      Use of UNAIDS and WHO name and emblem
+Without UNAIDS’s prior written approval, the Contractor shall not, in any statement of an advertising or
+promotional nature, refer to the Contract or its relationship with UNAIDS and/or the World Health
+Organization (WHO) (which provides the administration of UNAIDS, including its secretariat). In no case
+shall the Contractor use the name or the emblem of UNAIDS and/or WHO, or any abbreviation thereof, in
+relation to its business or otherwise.
+
+
+5.22      Successors and Assignees
+The Contract shall be binding upon the successors and assignees of the Contractor and the Contract
+shall be deemed to include the Contractor’s successors and assignees, provided, however, that nothing
+in the Contract shall permit any assignment without the prior and written approval of UNAIDS.
+
+
+
+5.23      Payment
+Payment will be made against presentation of an invoice in a UN convertible currency (preferably US
+Dollars) in accordance with the payment schedule contained in the Contract and subject to UNAIDS’s
+acceptance of satisfactory performance of work. Any payments by UNAIDS to the Contractor shall reflect
+any tax exemptions to which UNAIDS is entitled by reason of the immunity it enjoys. UNAIDS is exempt
+from all direct taxes, customs duties and the like and the Contractor shall consult with UNAIDS so as to
+avoid the imposition of such charges. As regards duties and other indirect taxes, the Contractor shall list
+such charges on invoices as a separate item and, to the extent required, cooperate with UNAIDS to
+enable reimbursement thereof.
+
+
+5.24      Title to Equipment
+Title to any equipment and supplies that may be furnished by UNAIDS shall rest with UNAIDS and any
+such equipment shall be returned to UNAIDS at the conclusion of this Contract or when no longer needed
+by the Contractor. Such equipment, when returned to UNAIDS, shall be in the same condition as when
+delivered to the Contractor, subject to normal wear and tear. The Contractor shall be liable to compensate
+UNAIDS for equipment determined to be damaged or degraded beyond normal wear and tear.
+
+
+5.25      Insurance and Liabilities to Third Parties
+The Contractor shall provide and thereafter maintain:
+
+
+
+                                                                                                Page 26 of 29
+(i) insurance against all risks in respect of its property and any equipment used for the execution of this
+Contract.
+
+(ii) all appropriate workmen's compensation insurance, or its equivalent, with respect to its employees to
+cover claims for personal injury or death in connection with this Contract.
+
+(iii) liability insurance in an adequate amount to cover third party claims for death or bodily injury, or loss
+of or damage to property, arising from or in connection with the performance of work under the Contract
+or the operation of any vehicles, boats, airplanes or other equipment owned or leased by the Contractor
+or its agents, servants, employees partners or sub-contractors performing work in connection with the
+Contract.
+
+Except for the workmen's compensation insurance, the insurance policies under this section shall:
+        a) Name UNAIDS as additional insured;
+        b) Include a waiver of subrogation of the Contractor's rights to the insurance carrier against
+           UNAIDS;
+        c) Provide that UNAIDS shall receive written notice from the Contractor’s insurance carrier not
+           less than thirty (30) days prior to any cancellation or material change of coverage.
+The Contractor shall, upon request, provide UNAIDS with satisfactory evidence of the insurance required
+under this section.
+
+
+5.26      Settlement of Disputes
+Any dispute relating to the interpretation or application of the contract shall, unless amicably resolved, be
+subject to conciliation. In the event of failure of the latter, the dispute shall be settled by arbitration. The
+arbitration shall be conducted in accordance with the modalities to be agreed upon by the parties or, in
+the absence of agreement, with the rules of arbitration of the International Chamber of Commerce. The
+parties shall accept the arbitral award as final.
+
+
+5.27      Observance of the Law
+The Contractor shall comply with all laws, ordinances, rules, and regulations bearing upon the
+performance of its obligations under the terms of the Contract.
+
+
+5.28      Authority to Modify
+No modification or change in the Contract, no waiver of any of its provisions or any additional contractual
+relationship of any kind shall be valid and enforceable unless signed by a duly authorized representative
+of both parties.
+
+
+5.29      Privileges and Immunities
+Nothing in or relating to this Contract shall:
+- be deemed a waiver of any of the privileges and immunities of UNAIDS and/or the World Health
+   Organization in conformity with the Convention on the Privileges and Immunities of the Specialized
+   Agencies approved by the General Assembly of the United Nations on November 21, 1947 or
+   otherwise under any national or international law, convention or agreement.
+- Be construed as submitting UNAIDS and/or WHO to any national jurisdiction
+
+
+5.30      No Terrorism or Corruption
+
+
+                                                                                                 Page 27 of 29
+The Contractor warrants that:
+(i) it is not and will not be involved in, or associated with, any person or entity involved in terrorism, that it
+will not make any payment to any such person or entity and that it will not enter into any employment or
+subcontracting relationship with any such person or entity; and
+
+(ii) it shall not engage in any illegal, corrupt, fraudulent, collusive or coercive practices in connection with
+execution of the Contract.
+
+The Contractor agrees that breach of this provision is a breach of an essential term of the Contract.
+
+Any payments used by the Contractor for the promotion of any terrorist activity or any illegal, corrupt,
+fraudulent, collusive or coercive practice shall be repaid to UNAIDS without delay
+
+
+5.31      Personnel
+
+5.31.1 Approval of Contractor Personnel
+UNAIDS reserves the right to approve any employee, subcontractor or agent furnished by the Contractor
+and Contractor's consortium partners for the performance of the work under the Contract (hereinafter
+jointly referred to as "Contractor Personnel").. All Contractor Personnel must have appropriate
+qualifications, skills and levels of experience and otherwise be adequately trained to perform the work.
+UNAIDS reserves the right to undertake an interview process as part of the approval of Contractor
+Personnel.
+
+The Contractor acknowledges that the qualifications, skills and experience of the Contractor personnel
+proposed to be assigned to the project are material elements in UNAIDS’s engaging the Contractor for
+the project. Therefore, in order to ensure timely and cohesive completion of the project, both parties
+intend that Personnel initially assigned to the project continue through to project completion. Once an
+individual has been approved and assigned to the project, such individual will not, in principle, thereafter
+be taken off the project by the Contractor to other duties. Circumstances may arise, however, which
+necessitate that Personnel be substituted in the course of the work e.g. in the event of promotions,
+termination of employment, sickness, vacation or other similar circumstances, at which time a
+replacement of comparable qualifications, skills and experience may be assigned to the project, subject to
+approval of UNAIDS.
+
+UNAIDS may refuse access to or require replacement of any Contractor Personnel if such individual
+renders, in the sole judgment of UNAIDS, inadequate or unacceptable performance, or if for any other
+reason UNAIDS finds such individual does not meet its his/her security or responsibility requirements.
+The Contractor shall replace such an individual within fifteen (15) business days of receipt of written
+notice from UNAIDS. The replacement will have the required qualifications, skills and experience and will
+be billed at a rate that is equal to or less than the rate of the individual being replaced.
+
+5.31.2 Project Managers
+Each party shall appoint a qualified project manager (“Project Manager”) who shall serve as such party’s
+primary liaison throughout the course of the project. The Project Manager shall be authorized by the
+respective party to answer all questions posed by the other party and convey all decisions made by such
+party during the course of the project and the other party shall be entitled to rely on such information as
+conveyed by the Project Manager.
+
+The Project Managers shall meet on regular basis in order to review the status of the project and provide
+UNAIDS with reports. Such reports shall include detaile time distribution, information in the form
+requested by UNAIDS and shall cover problems, meetings, progress and status against the
+implementation timetable.
+
+
+
+
+                                                                                                  Page 28 of 29
+5.31.3 Foreign Nationals
+The Contractor shall verify that all Contractor Personel is legally entitled to work in the country or
+countries where the work is to be carried out. UNAIDS reserves the right to request the Contractor to
+provide UNAIDS with adequate documentary evidence attesting this for each Contractor Personel. Each
+party hereby represents that it does not discriminate against individuals on the basis of race, gender,
+creed, national origin, citizenship.
+
+5.31.4 Compliance with UNAIDS Policies
+The Contractor shall at all times comply with and ensure that the Contractor and each of its
+subcontractors and their employees and agents comply with any applicable laws and regulations and any
+UNAIDS policies and reasonable written direction and procedures relating to: (i) occupational health and
+safety, (ii) security and administrative requirements, including, but not limited to computer network
+security procedures, (iii) sexual harassment, (iv) privacy, (v) general business conduct and disclosure, (vi)
+conflicts of interest and (vii) business working hours and official holidays.
+
+In the event that the Contractor becomes aware of any violation or potential violation by the Contractor, its
+subcontractor or any of their employees or agents, of any laws, regulations, UNAIDS policies or of other
+UNAIDS reasonable written directions and procedures, the Contractor shall immediately notify UNAIDS of
+such violation. UNAIDS, in it sole discretion, shall determine the course of action to remedy such violation
+or prevent such potential violation, in addition to any other remedy available to UNAIDS under the
+Contract or otherwise.
+
+5.31.5 Ethical Behaviour
+UNAIDS, the Contractor and each of the Contractor’s partners, subcontractors and their employees and
+agents shall adhere to the highest ethical standards in the performance of the Contract. In this regard, the
+Contractor shall also ensure that neither Contractor nor its partners, subcontractors, agents or employees
+will engage in activities involving child labor, trafficking in arms, promotion of tobacco or other unhealthy
+behavior, or sexual exploitation or discrimination.
+
+5.31.6 Engagement of Third Parties and use of In-house Resources
+The Contractor acknowledges that UNAIDS may elect to engage third parties to participate in or oversee
+certain aspects of the project and that UNAIDS may elect to use its in-house resources for the
+performance of certain aspects of the project. The Contractor shall at all times cooperate with and ensure
+that the Contractor and each of its partners, subcontractors and their employees and agents cooperate, in
+good faith, with such third parties and with any UNAIDS in-house resources.
+
+
+
+
+                                                                                              Page 29 of 29
+

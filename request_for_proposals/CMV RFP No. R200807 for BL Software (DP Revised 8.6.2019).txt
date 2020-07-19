@@ -1,0 +1,2470 @@
+                            REQUEST FOR PROPOSALS
+
+                                       FOR
+
+                  BUSINESS LICENSE SOFTWARE SYSTEM
+
+                                 RFP NO. R200807
+
+                      RFP ISSUE DATE: AUGUST 5, 2019
+
+                  PROPOSAL DUE DATE AND TIME:
+                OCTOBER 2, 2019, 2:00 P.M. PACIFIC TIME
+
+                                       TO
+
+    FINANCE AND ADMINISTRATIVE SERVICES DEPARTMENT,
+                   PURCHASING SECTION
+                      ATTN: Ann Mehta
+                 500 Castro Street, Second Floor
+                          P.O. Box 7540
+                Mountain View, CA 94039-7540
+
+
+  POINT OF CONTACT FOR QUESTIONS REGARDING THIS RFP:
+
+                                     Ann Mehta
+                               Telephone: 650-903-6324
+                            ann.mehta@mountainview.gov
+
+
+
+
+AM/6/ASD/502-08-02-19F010
+                                              TABLE OF CONTENTS
+
+
+I.     INTRODUCTION ............................................................................................................ 1
+II.    RFP PROCESS .................................................................................................................. 1
+III.   STANDARD TERMS AND CONDITIONS ............................................................... 13
+IV.    CONTRACTOR RESPONSIBILITIES ......................................................................... 22
+ATTACHMENTS:
+
+ATTACHMENT A—SPECIFICATIONS AND SCOPE OF SERVICES
+ATTACHMENT B—PROPOSAL COVER PAGE
+ATTACHMENT C—PRICE PROPOSAL
+ATTACHMENT D—REFERENCES
+ATTACHMENT E—FUNCTIONAL REQUIREMENTS MATRIX
+ATTACHMENT F—CITY OF MOUNTAIN VIEW ORDINANCE NO. 17.18
+
+
+
+
+AM/6/ASD/502-08-02-19F010
+I.    INTRODUCTION
+
+      The City of Mountain View (City), incorporated in 1902, is a full-service charter
+      city with a City Council/City Manager form of government and over 600
+      employees representing 12 departments. It is a municipal corporation of the State,
+      located in Santa Clara County, California. The City is just over 12 square miles
+      with a population of approximately 82,000 and has a General Operating Fund
+      budget for Fiscal Year 2019-20 of approximately $136 million.
+
+      A.   PROJECT OVERVIEW
+
+           The City requires a new Business License solution to replace its current
+           Business License software from DataNow. The City has passed a new
+           ordinance for business licenses that uses employee headcount and other
+           parameters to calculate the business tax, which the current system is not
+           capable of supporting.
+
+           The City’s new ordinance, 17.18 (Attachment F) takes effect on January 1,
+           2020. The system must be operational by January 1, 2020 to accept new
+           business license registrations.
+
+      B.   SPECIFICATIONS/SCOPE OF WORK SUMMARY
+
+           This project will require a new business license software, including
+           configuration, implementation, and maintenance to support the City of
+           Mountain View’s ordinance for business licenses. The detailed requirements
+           are identified in Attachment A, Specifications and Scope of Services, and
+           Attachment E, Functional Requirements Matrix (Matrix).
+
+      C.   OBJECTIVE
+
+           The objective of this Request for Proposals (RFP) is to make an award to a
+           Contractor (selected proposer) who delivers best overall value to the City
+           considering the evaluation factors provided herein.
+
+II.   RFP PROCESS
+
+      A.   INVITATION TO RESPOND
+
+           The City is hereby soliciting proposals for a Business License Software System
+           in accordance with the terms, conditions, and instructions as set forth in this
+           RFP.
+
+
+AM/6/ASD                                                                City of Mountain View
+502-08-02-19F010                          1 of 22     RFP for Business License Software System
+     B.    ISSUING OFFICE
+
+           The Finance and Administrative Services Department, Purchasing Section, is
+           the issuing office for the City. Proposers who do not notify the City with this
+           information when contacting the City assume complete responsibility in the
+           event that they do not receive communications prior to the closing date.
+
+     C.    QUESTIONS
+
+           Please e-mail the Point of Contact (POC) Ann Mehta via e-mail at
+           ann.mehta@mountainview.gov if there are any questions regarding the RFP
+           solicitation and process. Respondents and individuals associated with their
+           firm shall not contact City employees, their Contractors, or elected City
+           officials outside of the process identified.
+
+           1.      Proposers are responsible for reading carefully and understanding fully
+                   the terms and conditions of this RFP. Please e-mail any requests for
+                   clarification or additional information to the POC by the date listed in
+                   the RFP Schedule. Requests should contain “Questions: MV Business
+                   License RFP No. R200807” in the subject line. It is incumbent upon
+                   proposers to verify City receipt of their questions.
+
+           2.      All questions will be answered in writing. Both questions and answers
+                   will be distributed, without identification, to all proposers who are on
+                   record with the City as having received this RFP via an addendum. No
+                   oral communications can be relied upon for this RFP.
+
+           3.      To the extent that a question causes a change to any part of this RFP, an
+                   addendum will be issued addressing such changes.
+
+     D.    ROLES OF THE CITY’S PURCHASING AGENT AND CONTRACT
+           ADMINISTRATOR
+
+           The City’s Purchasing and Support Services Manager (Purchasing Agent) is
+           the City’s authorized representative for all matters related to this RFP.
+           Throughout the duration of the contract, the Purchasing Agent will be the
+           individual with authority to modify any provisions of the contract, including,
+           without limitation, the Specifications or Scope of Work, pricing, or any other
+           sections in accordance with the applicable terms of the RFP.
+
+           The City’s Contract Administrator or designee shall be the principal interface
+           on behalf of the City for post-award technical matters and shall have the
+           authority to explain and provide further details regarding the City’s
+
+AM/6/ASD                                                                  City of Mountain View
+502-08-02-19F010                             2 of 22    RFP for Business License Software System
+           expectations concerning the work to be performed hereunder and/or the
+           items to be provided herein.
+
+     E.    PROPOSED SCHEDULE
+
+           The following table outlines the City’s planned schedule of activities related
+           to the RFP. All times referenced are in Pacific Time. The City reserves the
+           right to amend the schedule as necessary.
+
+           RFP Issued                               August 5, 2019
+
+           Preproposal Conference                   August 27, 2019 at 10:00 a.m.
+                                                    Conference Call
+           Deadline for Questions, Clarifications   September 3, 2019 by 5:00 p.m.
+
+           City Response/Clarifications             September 18, 2019
+           Provided
+
+           Proposals Due                            October 2, 2019 by 2:00 p.m.
+
+           Proposer Interviews or         Product October 10 to 11, 2019
+           Demonstration (if required)
+
+           Selection and Negotiation                Week of October 14, 2019
+
+           Contract Awarded                         October 24, 2019
+
+           Project Kick-Off Meeting/                November 4, 2019
+           Commencement of Work
+
+           System Go Live                           November 20, 2019
+
+           Project Completion                       January 17, 2020
+
+
+
+
+AM/6/ASD                                                                City of Mountain View
+502-08-02-19F010                          3 of 22     RFP for Business License Software System
+     F.    PREPROPOSAL CONFERENCE
+
+           A mandatory preproposal conference will be held on August 27, 2019 at
+           10:00 a.m. The conference will be held via conference call. Information for
+           the call will be provided to proposers who register on the City’s website or
+           contact the POC.
+
+           1.      The purpose of the preproposal conference will be to review, in detail,
+                   the proposed contract intent, requirements, administration, and other
+                   relevant information. Interested proposers are required to attend this
+                   preproposal conference.
+
+           2.      Proposers should estimate duration of the preproposal conference to be
+                   approximately two (2) hours.
+
+     G.    SUBMISSION OF PROPOSALS
+
+           1.      Proposals must be:
+
+                   a.   Submitted in the format set forth herein.
+
+                   b.   Made in the official name of the firm or individual under which the
+                        proposer’s business is conducted (including the official business
+                        address).
+
+                   c.   Signed, using the cover page, by a person duly authorized to
+                        submit a proposal.
+
+                   d.   Submitted in envelopes clearly marked with the assigned RFP title
+                        and closing date/time referenced on the outside of the envelope
+                        (lower left corner).
+
+                   e.   Addressed to the POC, as identified in this RFP.
+
+                   f.   Submit one (1) original and three (3) hard copies of the proposal,
+                        including all attachments. In addition, one (1) electronic copy of
+                        the proposer’s entire presentation is required on a USB flash drive.
+                        The electronic copy should be in a format that supports text
+                        searches to enable quick access.
+
+           2.      Proposal Format:
+
+                   a.   Section 1—Cover Page, provided in Attachment B.
+
+AM/6/ASD                                                                   City of Mountain View
+502-08-02-19F010                             4 of 22     RFP for Business License Software System
+                   b.   Section 2—Proposal Summary, including highlights, key features,
+                        and distinguishing points of the proposal.
+
+                   c.   Section 3—Firm Profile, including organization structure, financial
+                        stability, lawsuits and pending litigation for previous five (5) years,
+                        firm capacity, and resources.
+
+                   d.   Section 4—Firm Qualifications, including brief description of
+                        similar projects undertaken within the past five (5) years, summary
+                        of work performed, total project cost, and time period. Include a
+                        brief statement of firm’s adherence to schedule and budget for the
+                        referenced project. Identify the Project Manager and the project
+                        team. Include their CV with proposal.
+
+                   e.   Section 5—Implementation Work Plan, including staffing and
+                        schedule. Provide a well-conceived service plan establishing
+                        understanding of City’s requirements and proposer’s ability to
+                        satisfy the requirements, schedule, customer service component,
+                        and approach in providing the services. Proposer may also suggest
+                        technical, procedural innovations, or new concepts that have been
+                        used successfully on other engagements and which may provide
+                        the City with better service delivery.
+
+                        Include proposed approach to implement Business License
+                        Software System. Proposals should outline the following details of
+                        proposed operations:
+
+                        •    Implementation Plan and Timeline, including phasing and go-
+                             live, business process reviews and tasks, and activities for
+                             configuring FootPrints environments for both development
+                             and production.
+
+                        •    Key deliverables (and how they relate to the implementation
+                             approach and activities).
+
+                        •    Proposed project management services, including role of the
+                             project manager, on-site presence, and proposed quality
+                             assurance procedures.
+
+                        •    Proposed staff assigned to project with key roles, their
+                             qualifications and responsibilities, and approximate
+
+
+AM/6/ASD                                                                    City of Mountain View
+502-08-02-19F010                              5 of 22     RFP for Business License Software System
+                             dedication of each resource and approximate time work will
+                             be completed on-site versus off-site.
+
+                        •    Overview of proposed testing plan/strategy, specifying how
+                             and when testing is to be completed.
+
+                        •    Explain roles and responsibilities the City is expected to
+                             provide.
+
+                        •    Provide a sample project plan.
+
+                        •    Include a training program for both system administrators
+                             and agents. Describe how on-site training will be provided to
+                             staff and if any training will be done remotely.
+
+                   f.   Section 6—Proposal Costs, on form provided, Attachment C.
+                        Include the proposed costs to provide the services desired as well
+                        as any other cost and price information with a not-to-exceed
+                        amount. The hourly rates may be used for pricing the cost of
+                        additional services outlined in the Scope of Work. The City does
+                        not pay for services before it receives them. Therefore, do not
+                        propose contract terms that call for up-front payments or deposits.
+
+                   g.   All travel time, mileage, and per diem shall be included in the
+                        submitted proposal price. No additional reimbursements for
+                        travel, food, or other expenses shall be made by the City.
+
+                   h.   Section 7—References, minimum of three (3) from projects of
+                        similar scope, on form provided, Attachment D.
+
+                   i.   Section 8—Exceptions, on form provided, Attachment D. Discuss
+                        any exceptions or requested changes to the RFP requirements and
+                        conditions. If no exceptions are noted, it is assumed the proposer
+                        will accept all conditions and requirements of the RFP.
+
+                   j.   Section 9—Insurance Certificate, copy of evidence of insurance as
+                        requested in RFP Standard Terms and Conditions, Section III,
+                        Paragraph L on Page 15.
+
+                   k.   Section 10—Copy of any agreements that City would be required to
+                        sign, including any applicable maintenance and support
+                        agreements.
+
+
+AM/6/ASD                                                                  City of Mountain View
+502-08-02-19F010                            6 of 22     RFP for Business License Software System
+     H.    CLOSING DATE
+
+           Proposals must arrive at the location, date, and time identified on the Cover
+           Page of this RFP in the format set forth herein. There will be no public
+           opening of the proposals. The names of proposers will not be released until
+           announcement of award.
+
+     I.    LATE SUBMISSIONS
+
+           If mailing proposals, please allow sufficient mail delivery time to ensure
+           timely receipt by the issuing office. Delivery of the proposal to the specified
+           location by the prescribed time and date is the sole responsibility of
+           proposers. Any proposal, modifications to proposals, request for withdrawal
+           of proposals, or Best and Final Offers (BAFO) arriving after the closing date
+           and time are late and will not be considered unless the Purchasing Agent
+           determines that accepting the late proposal would not unduly delay the
+           acquisition, and:
+
+           1.      If it was transmitted through an electronic commerce method authorized
+                   by the solicitation, it was received at the initial point of entry to the
+                   City’s infrastructure not later than the specified time; or
+
+           2.      There is acceptable evidence to establish that it was received at the City
+                   location designated for receipt of proposals and was under the City’s
+                   control prior to the time set for receipt of proposals; or
+
+           3.      It was the only proposal received.
+
+     J.    ECONOMY OF PREPARATION
+
+           Proposers will prepare each proposal simply and economically, providing a
+           straightforward, concise description of the proposers’ offer and capabilities to
+           satisfy the requirements of this RFP. Emphasis should be on completeness
+           and clarity of content.
+
+     K.    FIRM PRICES
+
+           All quotes will be held firm for a minimum of sixty (60) days after the
+           proposal due date listed above to allow adequate time for the City to consider
+           each proposal and make an award. All blanks for unit price and total price
+           shall be completed. Any discrepancy between the unit price and the
+           extended or total price shall be determined by taking the lower price. Upon
+           receipt of this proposal by the City, the Contractor shall be presumed to be
+
+AM/6/ASD                                                                   City of Mountain View
+502-08-02-19F010                             7 of 22     RFP for Business License Software System
+           thoroughly familiar with all the aspects of this proposal, including
+           installation sites and all specifications and requirements of this proposal. The
+           failure or omission to examine any location, equipment, form, instrument, or
+           document shall in no way relieve Contractor from any obligation in respect to
+           this RFP. After award, pricing shall be held firm through the duration of the
+           agreement.
+
+     L.    PROPRIETARY/CONFIDENTIAL INFORMATION
+
+           Any information submitted with a proposal is a public record subject to
+           disclosure unless a specific exemption applies. If a proposer submits
+           information clearly marked proprietary or confidential, it will be treated with
+           the confidentiality to the extent permitted by law. However, it is the
+           proposer’s obligation and expense to defend any legal challenges seeking to
+           obtain said information. The City will incur no liability due to release of
+           information from a proposer labeled “proprietary” or “confidential.”
+
+     M.    PROPOSAL MATERIAL OWNERSHIP
+
+           All material submitted regarding and in response to this RFP becomes the
+           property of the City and will only be returned to the proposer at the City’s
+           option. Any person may request and review proposals submitted after final
+           award has been made. The City has the right to use any or all information
+           presented in reply to this request, subject to limitations outlined above in
+           “Proprietary/Confidential Information.” Disqualification of a proposer does
+           not eliminate this right.
+
+     N.    MULTIPLE/ALTERNATIVE PROPOSALS
+
+           Proposers may submit more than one (1) proposal to reflect alternative
+           business solutions, software packages, or hardware platforms. However,
+           only one (1) proposal should be identified as the proposer’s “Primary
+           Proposal” and all others should be identified as “Alternative Proposal.” To
+           facilitate evaluation, all proposals submitted must follow the format listed
+           herein. Alternative approaches will be given consideration if the approach
+           clearly offers increased benefits to the City.
+
+     O.    ACCEPTABILITY OF PROPOSALS
+
+           The Purchasing Agent will determine which proposers have met the
+           requirements of the RFP. Failure to comply with any mandatory requirement
+           will disqualify a proposal. The Purchasing Agent will have the sole authority
+           to determine whether any deviation from the requirements of this RFP is
+
+AM/6/ASD                                                                City of Mountain View
+502-08-02-19F010                          8 of 22     RFP for Business License Software System
+           substantial in nature. The Purchasing Agent may waive or permit to be cured
+           minor irregularities or minor informalities in proposals that are immaterial or
+           inconsequential in nature, whenever it is determined to be in the City’s best
+           interest.
+
+           The City may accept other than the lowest-priced offer. The City may
+           conduct discussions with proposers in any manner deemed necessary to best
+           serve the interests of the City. The Purchasing Agent may limit the
+           competitive range to firms highly rated technically and whose prices are
+           considered to be reasonable by the City for purposes of efficiency. The
+           Purchasing Agent may reject in whole or in part any and all proposals if such
+           is in the City’s interest.
+
+           Upon award, the contents of the response of the successful proposal will
+           become contractual obligations. Failure of the proposer to accept these
+           obligations in a subsequent purchase agreement, purchase order, or contract
+           may result in cancellation of further negotiations.
+
+     P.    CLARIFICATIONS
+
+           The City reserves the right to obtain clarification of any point in a proposer’s
+           submittal or to obtain additional information necessary to properly evaluate a
+           particular response. Failure of a proposer to respond to such a request for
+           additional information or clarification may result in rejection of the
+           proposer’s proposal.
+
+     Q.    PROPOSAL EVALUATION AND SELECTION
+
+           The City will evaluate proposals and may select one (1) Contractor or
+           multiple Contractors to provide the requested services. The contract award
+           will be made to the responsible Contractor(s) whose proposal(s) is (are)
+           determined to provide the overall best value to the City, considering the
+           evaluation criteria, including price. The various qualitative and quantitative
+           criteria that will be used by the evaluation committee to review and rate
+           proposals includes, but is not limited to, the following:
+
+           1.      General requirements, quality, and completeness of response.
+
+           2.      Work plan or technical requirements.
+
+           3.      Qualifications and experience, including past performance, litigation,
+                   references, customer service.
+
+
+AM/6/ASD                                                                    City of Mountain View
+502-08-02-19F010                            9 of 22       RFP for Business License Software System
+           4.      Implementation approach.
+
+           5.      Adherence to the requirements of the RFP.
+
+           6.      Proposed timeline.
+
+           7.      Warranty of hardware.
+
+           8.      Support and maintenance offered.
+
+           9.      Total cost.
+
+           10.     Product demonstration.
+
+           11.     Any other factors as solely determined by the City to be in the City’s
+                   best interest.
+
+           The City’s evaluation team may request site visits for the purpose of
+           evaluating proposal solutions at an installed location. The City’s evaluation
+           team may request additional technical assistance from any source.
+
+     R.    ORAL PRESENTATIONS AND SITE VISITS
+
+           Proposers should be prepared to discuss and substantiate any of the areas of
+           the proposal submitted, as well as its qualifications to furnish the specified
+           product and/or services. Please be advised that there is the possibility for a
+           request of an interview, demonstration, presentation, or site visit to other
+           comparable operations. However, the proposer shall not rely on the
+           possibility of such a request and must submit a complete and comprehensive
+           written response to this RFP. The City will not be charged any fees associated
+           with the proposer’s cost to give requested presentations, demonstrations, or
+           conducting of site visits.
+
+           Proposers will be required to perform a presentation and product
+           demonstration which can be done on-site or remotely via Webex or other
+           remote presentation software, to include the following items:
+
+           1.      Presentation on company should include:
+
+                   •    Company background
+
+                   •    Implementation experience
+
+
+AM/6/ASD                                                                 City of Mountain View
+502-08-02-19F010                            10 of 22   RFP for Business License Software System
+                   •   Number of employees dedicated to support
+
+                   •   Description of implementation methodology
+
+           2.      Summary of proposed services for implementing based on the City’s
+                   requirements as stated in the RFP, including:
+
+                   •   Project management
+
+                   •   Strategic planning sessions and workshops
+
+                   •   Training
+
+                   •   “Go live” support
+
+           3.      Product Demonstration:
+
+                   •   In-person or web-based demonstration of the                proposer’s
+                       application supporting business license functionality.
+
+     S.    NEGOTIATIONS
+
+           The City may accept the proposal which it determines to serve the best
+           interest of the City, as submitted, without discussion or negotiation.
+           Proposers should, therefore, not rely on the ability or opportunity to discuss,
+           negotiate, and/or adjust their proposal. The Purchasing Agent may advise
+           proposers selected as finalists to submit a Best and Final Offer (BAFO) for
+           consideration.
+
+     T.    EVIDENCE OF RESPONSIBILITY
+
+           Prior to the award of a contract pursuant to this RFP, the City may require the
+           proposer to submit such additional information bearing upon the proposer’s
+           ability to perform the contract as the City deems appropriate. The City may
+           also consider any information otherwise available, but not limited to price,
+           technical, and qualifications relative to ability, capacity, integrity, ethics,
+           performance record, and experience of the proposer.
+
+
+
+
+AM/6/ASD                                                                 City of Mountain View
+502-08-02-19F010                            11 of 22   RFP for Business License Software System
+     U.    SUBMITTALS REQUIRED UPON PROVISIONAL AWARD
+
+           Failure to provide the required submittals upon provisional award, within
+           the time period specified, may be cause for the provisional award to be
+           voided and the proposal to be rejected as nonresponsive.
+
+           1.      Insurance requirements as specified in Section III, Paragraph L.
+
+           2.      City of Mountain View Business License, per Section III, Paragraph S.
+
+           3.      Completed IRS Form (W-9), if not currently on file.
+
+     V.    INCURRED EXPENSES
+
+           The City will not be responsible for any expenses incurred by proposers in
+           preparing and submitting a proposal to this RFP, or associated actions (e.g.,
+           attendance to preproposal conference, interviews, demonstrations,
+           presentations, etc.).
+
+     W.    CITY’S RIGHTS
+
+           The City reserves the right to cancel this RFP, in whole or in part, or reject any
+           or all proposals submitted in response to this RFP when such action is
+           determined to be in the best interest to the City as determined solely by the
+           City. The City also reserves the unilateral right to award a contract in whole
+           or in part; to award a contract to one (1) or more proposers; to waive or
+           permit cure of minor irregularities; and to conduct discussions with
+           proposers in any manner necessary.
+
+     X.    NEWS RELEASES/ADVERTISING
+
+           News releases and/or advertising pertaining to this procurement or any part
+           of the subject shall not be made without prior written approval of the City.
+
+     Y.    CONFIDENTIALITY—CITY INFORMATION
+
+           Contractor shall instruct its employees and the employees of any
+           subcontractors to keep as confidential information concerning the business of
+           the City, its financial affairs, its relations with its citizens, and its employees,
+           as well as any other information which may be specifically classified as
+           confidential by the City.
+
+
+
+
+AM/6/ASD                                                                   City of Mountain View
+502-08-02-19F010                            12 of 22     RFP for Business License Software System
+III. STANDARD TERMS AND CONDITIONS
+
+     The City’s standard terms and conditions will be included in any final agreement.
+     These terms do not represent the complete terms of a potential agreement that
+     might be negotiated with a Contractor selected to proceed to that phase of the
+     project; however, terms and conditions that would be included, but not limited to,
+     such an agreement, are as follows:
+
+     A.    PAYMENT TERMS
+
+           The City’s payment terms are, at a minimum, net thirty (30) days after
+           acceptance of service or delivery of goods and receipt of an accurate invoice,
+           whichever occurs later. The Contractor’s invoice must match the unit prices
+           listed in the Purchase Order (PO) and must include the City-authorized PO
+           number. Proposers may offer discounted payment terms, and those should
+           be listed on the proposer’s response which the City may accept at its
+           discretion.
+
+     B.    TIME OF DELIVERY/COMPLETION
+
+           Time is of the essence. The Contractor shall deliver all goods or complete all
+           services called for under this RFP within the number of working/calendar
+           days or by the date specified for completion in this RFP, unless the delays are
+           caused by the City or by acts of God. Failure to deliver on time shall be
+           grounds for termination.
+
+     C.    FREIGHT AND TAX
+
+           Prices quoted shall include all freight costs and ownership transfers to the
+           City at the City’s location and are freight on board (F.O.B.) destination to the
+           designated locations. Freight shall be prepaid and added to the invoice with
+           ownership transferring to the City when delivery is completed to the City’s
+           location. Freight or shipping charges (separate from handling) as well as
+           California sales or use tax, if applicable, must be shown on the invoice as a
+           separate line item.
+
+     D.    FIRM PRICES
+
+           All proposed prices will be held firm for a minimum of sixty (60) days after
+           the proposal due date listed above to allow adequate time for the City to
+           consider each proposal and make an award. Any discrepancy between the
+           unit price and the extended or total price will be determined by taking the
+           lower price. Upon receipt of the proposal by the City, the Contractor will be
+
+AM/6/ASD                                                                City of Mountain View
+502-08-02-19F010                          13 of 22    RFP for Business License Software System
+           presumed to be thoroughly familiar with all aspects of this RFP, including
+           sites, specifications, and all requirements of this RFP. The failure or omission
+           to examine any location, equipment, form, instrument, or document will in no
+           way relieve Contractor from any obligation with respect to this RFP. After
+           award, pricing shall be held firm through the duration of the agreement.
+
+     E.    INSPECTION; ACCEPTANCE OF GOODS AND SERVICES
+
+           All goods and services are subject to final inspection and acceptance by City.
+           City may reject any goods and services which are not in accordance with the
+           City-authorized PO. Acceptance of all goods and services shall occur only
+           after City has had a reasonable time for inspection following delivery of
+           goods or completion of services.
+
+     F.    OWNERSHIP       AND     COLLUSION/FINANCIAL             INTEREST       BY    CITY
+           EMPLOYEES
+
+           The Contractor confirms, by signing the proposal, that he/she has not,
+           directly or indirectly, been collusive with any other Contractor or anyone else
+           interested in this RFP. Pursuant to Section 706 of the City of Mountain View
+           Charter, no City officer or employee shall have a financial interest, either
+           directly or indirectly, in any contract, sale, purchase, or lease to which the
+           City is a party.
+
+     G.    ASSIGNMENT
+
+           This Agreement, nor any part of this Agreement, may be assigned without
+           the written consent of the City.
+
+     H.    TERMINATION
+
+           Any PO issued as a result of this RFP may be terminated by the City at any
+           time with ten (10) days’ written notice to Contractor. The City will only pay
+           for any goods or services ordered and accepted by the City. Any payments
+           made in advance will be returned to the City on a prorated basis. In no event
+           shall said fees exceed the maximum compensation established in the PO.
+
+     I.    APPROPRIATION OF FUNDS
+
+           Any PO issued as a result of this RFP may be terminated every June 30 based
+           upon the City Council not funding the purchase of goods or services to be
+           provided in this RFP after each July 1.
+
+
+AM/6/ASD                                                                City of Mountain View
+502-08-02-19F010                          14 of 22    RFP for Business License Software System
+     J.    NONDISCRIMINATION
+
+           Contractor will afford equal employment opportunities for all persons
+           without discrimination because of race, color, religion, sex, sexual orientation,
+           political affiliation, national origin, ancestry, age, marital status, physical or
+           mental disability, military or veteran status, gender identity or expression, or
+           genetic information.
+
+     K.    APPLICABLE LAWS AND ATTORNEYS’ FEES
+
+           This Agreement will be construed and enforced pursuant to the laws of the
+           State of California. Should any legal action be brought by a party for breach
+           of this Agreement or to enforce any provision herein, the prevailing party of
+           such action shall be entitled to reasonable attorneys’ fees, court costs, and
+           such other costs as may be fixed by the court. Reasonable attorneys’ fees of
+           the City Attorney’s Office, if private counsel is not used, shall be based on
+           comparable fees of private attorneys practicing in Santa Clara County.
+
+     L.    INSURANCE REQUIREMENTS
+
+           1.      Commercial General Liability Insurance. Contractor shall obtain and
+                   maintain Commercial General Liability insurance in a minimum amount
+                   of Two Million Dollars ($2,000,000) per occurrence. If a general
+                   aggregate limit is used, either the general aggregate limit shall apply
+                   separately to this Agreement or the general aggregate limit shall be
+                   twice the required occurrence limit. Contractor’s insurance coverage
+                   shall be written on an occurrence basis.
+
+           2.      Automobile Liability Insurance. Contractor shall obtain and maintain
+                   Automobile Liability insurance in a minimum amount of One Million
+                   Dollars ($1,000,000) per occurrence.
+
+           3.      Workers’ Compensation Insurance.
+
+                   ☒   Required       ☐    Not Required
+
+                   If required, Contractor shall obtain and maintain statutory Workers’
+                   Compensation insurance and Employer’s Liability insurance in a
+                   minimum amount of One Million Dollars ($1,000,000) per accident.
+
+
+
+
+AM/6/ASD                                                                  City of Mountain View
+502-08-02-19F010                           15 of 22     RFP for Business License Software System
+                   Or
+
+                   ☐    Required       ☒    Not Required
+
+                   If not required, Contractor is an individual or a company that has
+                   entered, or will be entering, into an agreement with City to provide
+                   goods or services.
+
+                   Contractor is familiar with the Workers’ Compensation laws of
+                   California (generally contained in Section 3700 of the Labor Code),
+                   including those provisions which provide for specific exemptions from
+                   the requirement that all employers must carry Workers’ Compensation
+                   insurance, and Contractor maintains they are exempted under the law
+                   from the requirement to maintain Workers’ Compensation insurance
+                   coverage.
+
+                   In addition, during the term of any work for City under said Agreement:
+                   (1) Contractor will not employ any person in any manner so as to
+                   become subject to the Workers’ Compensation laws of California; or (2)
+                   should Contractor become subject to the Workers’ Compensation
+                   provisions of Section 3700 of the Labor Code for any reason, Contractor
+                   shall forthwith comply with those provisions and send evidence of
+                   financial compliance to City.
+
+           4.      Technology Professional Liability or Errors and Omissions Insurance.
+
+                   Contractor shall obtain and maintain Technology Professional Liability
+                   or Errors and Omissions Liability insurance in a minimum amount of
+                   Two Million Dollars ($2,000,000) per occurrence or claim.
+
+                   Coverage shall be sufficiently broad to respond to the duties and
+                   obligations as are undertaken by Contractor in this Agreement and shall
+                   include, but not be limited to, claims involving infringement of
+                   intellectual property, including, but not limited to, infringement of
+                   copyright, trademark, trade dress, invasion of privacy violations,
+                   information theft, damage to or destruction of electronic information,
+                   release of private information, alteration of electronic information,
+                   extortion, and network security. The policy shall provide coverage for
+                   breach response costs as well as regulatory fines and penalties and credit
+                   monitoring expenses with limits sufficient to respond to these
+                   obligations. Technology Professional Liability or Errors and Omissions
+                   insurance must be maintained, and evidence of insurance shall be
+
+
+AM/6/ASD                                                                   City of Mountain View
+502-08-02-19F010                             16 of 22    RFP for Business License Software System
+                   provided to CITY for at least five (5) years after completion of work
+                   under this Agreement.
+
+           5.      Cyber Liability Insurance.
+
+                   Contractor shall obtain and maintain Cyber Liability insurance in a
+                   minimum amount of Two Million Dollars ($2,000,000) per occurrence or
+                   claim, Two Million Dollars ($2,000,000) aggregate.
+
+                   Coverage shall be sufficiently broad to respond to the duties and
+                   obligations as is undertaken by Contractor in this Agreement and shall
+                   include, but not be limited to, claims involving infringement of
+                   intellectual property, including, but not limited to, infringement of
+                   copyright, trademark, trade dress, invasion of privacy violations,
+                   information theft, damage to or destruction of electronic information,
+                   release of private information, alteration of electronic information,
+                   extortion, and network security. The policy shall provide coverage for
+                   breach response costs as well as regulatory fines and penalties and credit
+                   monitoring expenses with limits sufficient to respond to these
+                   obligations.    Cyber Liability insurance must be maintained, and
+                   evidence of insurance shall be provided to CITY for at least five (5) years
+                   after completion of work under this Agreement.
+
+           6.      Acceptability of Insurers. Insurance is to be placed with insurers with a
+                   current A.M. Best’s Rating of A:VII unless otherwise acceptable to City.
+
+           7.      Verification of Coverage. Insurance, deductibles, or self-insurance
+                   retentions shall be subject to City’s approval. Original Certificates of
+                   Insurance with endorsements shall be received and approved by City
+                   before work commences, and insurance must be in effect for the
+                   duration of the Agreement. The absence of insurance or a reduction of
+                   stated limits shall cause all work on the project to cease. Any delays
+                   shall not increase costs to City or increase the duration of the project.
+
+           8.      Other Insurance Provisions.
+
+                   a.   If Contractor maintains broader coverage and/or higher limits than
+                        the minimums shown above, City requires and shall be entitled to
+                        the broader coverage and/or the higher limits maintained by
+                        Contractor. Any available insurance proceeds in excess of the
+                        specified minimum limits of insurance and coverage shall be
+                        available to City.
+
+
+AM/6/ASD                                                                   City of Mountain View
+502-08-02-19F010                             17 of 22    RFP for Business License Software System
+                   b.   The City of Mountain View, its officers, officials, employees, and
+                        volunteers are to be covered as an additional insured by an
+                        endorsement at least as broad as ISO Form CG 20 10 11 85 or, if not
+                        available, through the addition of both CG 20 10, CG 2026, CG 20
+                        33, or CG 20 38 and CG 20 37 if a later revision is used or other
+                        endorsement approved by City’s Risk Manager for Commercial
+                        General and Automobile Liability coverage.
+
+                   c.   For any claims related to Contractor’s services pursuant to this
+                        Agreement, Contractor’s insurance coverage shall be primary
+                        coverage at least as broad as ISO CG 20 01 04 13 with respect to
+                        City, its officers, officials, employees, and volunteers.          Any
+                        insurance or self-insurance maintained by City, its officers, officials,
+                        employees, and volunteers shall not contribute to it.
+
+                   d.   Contractor grants City a waiver of any rights to subrogation which
+                        any insurer of Contractor may acquire against City by virtue of the
+                        payment of any loss under such insurance (ISO CG 24 04 for CGL)
+                        and an endorsement to the Workers’ Compensation policy. This
+                        provision applies regardless of whether or not City has received a
+                        waiver of subrogation endorsement from the insurer.
+
+                   e.   Contractor shall provide thirty (30) days’ notice to City in the event
+                        of cancellation or modification to the stipulated insurance coverage.
+
+                   f.   In the event Contractor employs subcontractors as part of the work
+                        covered by this Agreement, it shall be the responsibility of
+                        Contractor to ensure that all subcontractors comply with the same
+                        insurance requirements as stated in this Agreement.
+
+                   g.   Approval of the insurance by City or acceptance of the Certificate
+                        of Insurance by City shall not relieve or decrease the extent to
+                        which Contractor may be held responsible for payment of damages
+                        resulting from Contractor’s services or operations pursuant to this
+                        Agreement, nor shall it be deemed a waiver of City’s rights to
+                        insurance coverage hereunder.
+
+                   h.   If, for any reason, Contractor fails to maintain insurance coverage
+                        that is required pursuant to this Agreement, the same shall be
+                        deemed a material breach of Agreement. City, at its sole option,
+                        may terminate this Agreement and obtain damages from
+                        Contractor resulting from said breach. Alternately, City may
+                        purchase such required insurance coverage, and without further
+
+AM/6/ASD                                                                    City of Mountain View
+502-08-02-19F010                             18 of 22     RFP for Business License Software System
+                     notice to Contractor, City may deduct from sums due to Contractor
+                     any premium costs advanced by City for such insurance.
+
+     M.    HOLD HARMLESS
+
+           To the fullest extent permitted by law, Contractor shall defend, indemnify,
+           and hold City, its officers, employees, agents, and volunteers, harmless from
+           any liability for damage or claims of same, including, but not limited to,
+           personal injury, property damage, and death, which may arise from
+           Contractor or Contractor’s contractors, subcontractors, agents, or employees’
+           operations under this Agreement. City shall cooperate reasonably in the
+           defense of any action, and Contractor shall employ competent counsel,
+           reasonably acceptable to the City Attorney.
+
+     N.    WARRANTY
+
+           The delivered or installed goods, equipment, or services shall be warranted to
+           be free from defects in material and workmanship. The warranty period shall
+           begin upon acceptance by the City. As a minimum, all goods, equipment,
+           and services shall be warranted to operate satisfactorily in accordance with
+           the requirements of these specifications, representations of the Contractor,
+           and the published specifications of the manufacturer(s) for a period of at least
+           one (1) year. Any defective goods, equipment, or services shall be replaced or
+           repaired quickly at the City’s location during the warranty period at no
+           expense to the City. If repairs cannot be made at the City’s location,
+           Contractor shall transport/ship the equipment to a repair facility. All repairs
+           must be completed and the equipment returned to the City within seventy-
+           two (72) hours of a call for service. If the Contractor fails to have the
+           equipment repaired within seventy-two (72) hours, the Contractor shall
+           provide an equal “loaner” piece of equipment until the City’s equipment is
+           returned in operating condition.
+
+     O.    SDS
+
+           General Industrial Safety Order 5194 requires Safety Data Sheets (SDS) be
+           supplied, for all applicable items, with the initial delivery.
+
+     P.    RELIANCE UPON PROFESSIONAL SKILL
+
+           It is mutually agreed by the parties that City is relying upon the professional
+           skill of Contractor, and Contractor represents to City that its work shall
+           conform to generally recognized professional standards in the industry.
+
+
+AM/6/ASD                                                                City of Mountain View
+502-08-02-19F010                          19 of 22    RFP for Business License Software System
+           Acceptance of Contractor’s work by City does not operate as a release of
+           Contractor’s said representation.
+
+     Q.    INDEPENDENT CONTRACTOR
+
+           It is agreed that Contractor is an independent contractor and all persons
+           working for or under the direction of Contractor are Contractor’s agents and
+           employees, and said persons shall not be deemed agents or employees of
+           City.
+
+     R.    SUBCONTRACTORS
+
+           The City prefers a proposal with a single or primary Contractor. If you
+           propose a multi-Contractor or subcontracted approach, clearly identify the
+           responsibilities of each party and the assurances of performance you offer.
+           The Contractor is the prime contractor and is solely responsible for all of the
+           Contractor’s subcontractors.
+
+     S.    BUSINESS LICENSE
+
+           For any work done within the City of Mountain View, Contractor shall
+           obtain, prior to issuance of a Purchase Order, and maintain a valid business
+           license from City. Business license applications are available online at
+           http://mountainview.gov/depts/fasd/forms.asp or at City Hall, 500 Castro
+           Street, Second Floor, Finance Lobby.
+
+     T.    ATTACHMENTS OR EXHIBITS
+
+           Except as expressly referenced herein, no portion of any terms or conditions
+           included in any attachments or exhibits shall be a part of this Agreement, and
+           they shall have no force or effect. If the attachments or exhibits to this
+           Agreement, if any, are inconsistent with this Agreement, this Agreement shall
+           control.
+
+     U.    WAIVER
+
+           The failure of City to insist upon a strict performance of any of the terms,
+           conditions, and covenants contained herein shall not be deemed a waiver of
+           any rights or remedies that City may have and shall not be deemed a waiver
+           of any subsequent breach or default in the terms, conditions, and covenants
+           contained herein.
+
+
+
+
+AM/6/ASD                                                                City of Mountain View
+502-08-02-19F010                          20 of 22    RFP for Business License Software System
+     V.    HEADINGS
+
+           The headings in this Agreement are inserted for convenience purposes only
+           and shall not affect the terms of this Agreement.
+
+     W.    PUBLIC RECORDS
+
+           The parties recognize and acknowledge that City is subject to the California
+           Public Records Act, California Government Code Section 6250 and following.
+           Public records are subject to disclosure.
+
+     X.    SEVERABILITY
+
+           If any provision of this Agreement is found by a court of competent
+           jurisdiction to be void, invalid, or unenforceable, the same will either be
+           reformed to comply with applicable law or stricken if not so conformable, so
+           as not to affect the validity or enforceability of this Agreement.
+
+     Y.    NOTICES
+
+           Any notice given under this Agreement shall be in writing and shall be given
+           by delivering the same to such party in person, by delivering the same to
+           such party by reputable overnight courier or express service, or by sending
+           the same to such party by registered or certified mail, return receipt
+           requested, with postage prepaid. The address(es) of each party for the giving
+           of notices hereunder are, until changed as hereinafter provided, the
+           following:
+
+           To City:       Purchasing and Support Services Manager
+                          City of Mountain View
+                          500 Castro Street
+                          P.O. Box 7540
+                          Mountain View, CA 94039-7540
+
+           To Vendor:     Proposer’s Address listed on Proposal Cover Sheet,
+                          Attachment B
+
+           Any notice will be deemed given on the date of delivery, on the date of
+           refusal to accept delivery, or when delivery is first attempted but cannot be
+           made due to a change of address for which no notice was given. A party may
+           change its notice address(es) at any time by giving written notice of such
+           change to the other party in the manner provided herein. Notice given by
+           counsel shall be deemed given by the party represented by such counsel.
+
+AM/6/ASD                                                               City of Mountain View
+502-08-02-19F010                         21 of 22    RFP for Business License Software System
+     Z.    AUTHORITY TO EXECUTE
+
+           The persons executing this Agreement on behalf of the parties warrant that
+           they are duly authorized to execute this Agreement.
+
+     AA. ENTIRE AGREEMENT
+
+           This Agreement contains the entire understanding between the parties with
+           respect to the subject matter herein.           There are no representations,
+           agreements, or understandings (whether oral or written) between or among
+           the parties relating to the subject matter of this Agreement which are not fully
+           expressed herein.
+
+     BB. CHANGE ORDER
+
+           Contractor will secure prior approval from the City’s Designated Project
+           Manager and Purchasing Division for any change orders which may impact
+           project price and schedule. The Contractor agrees to waive his/her rights of
+           any claim if any out-of-scope work is carried out without an approved change
+           order signed by the City’s Designated Project Manager. If the City initiates a
+           change order, a detailed cost breakdown proposal shall be submitted by
+           Contractor within seven (7) calendar days for City’s approval. Contractor
+           shall verify all code requirements and include these requirements in the total
+           price. The changes, if any, caused by Building Code requirements will not
+           qualify for a cost change order.
+
+IV. CONTRACTOR RESPONSIBILITIES
+
+     A.    The City assumes no responsibility for loss of or damage to materials or
+           equipment owned or operated by the Contractor, his/her agents, or
+           employees. All work damaged due to vandalism or any other cause prior to
+           acceptance of the work by the City shall be repaired or replaced by the
+           Contractor at the Contractor’s own expense.
+
+     B.    The Contractor shall comply with all applicable State and local laws,
+           ordinances, codes, and regulations.         All safety orders, rules, and
+           recommendations of the Division of Industrial Relations of the State of
+           California and OSHA, applicable to all the work performed under this
+           contract, shall be obeyed and enforced by the Contractor.
+
+     C.    The regular working hours are between 7:00 a.m. and 5:00 p.m. from Monday
+           to Friday. Work on weekends may be allowed with prior approval.
+
+AM/6/ASD                                                                City of Mountain View
+502-08-02-19F010                          22 of 22    RFP for Business License Software System
+ATTACHMENTS
+           ATTACHMENT A—SPECIFICATIONS AND SCOPE OF WORK
+
+The selected Contractor shall provide Business License Software system, including
+implementation and maintenance support in accordance with the requirements listed
+herein. For detailed requirements, see Functional Requirements Matrix (Matrix),
+Attachment E. The system must support the City’s business license tax calculation
+rules as defined in Mountain View Ordinance 17.18., Attachment F.
+
+The Matrix identifies all functionality desired by the City.
+
+Proposers must respond to each of the requirements for the applications being
+proposed with one of the following response codes:
+
+            Meets requirement with current version of software with no customization
+     Y
+            required
+   N        Does not meet requirement
+   F        Planned for future release
+  W/C       Workaround proposed or customization needed to meet requirement
+   T        Third-party solution to meet requirement
+
+Response Codes “Y” and “N” do not require written responses unless the proposers
+wish to present additional benefits or opportunities related to their solution and the
+requirement. However, response codes “F”, “W/C,” and “T” do require written
+responses. For these response codes, proposers must describe how the requirement will
+be met and when. Proposers must also provide a statement assuring any customization
+will be completed by the associated phase go-live and any associated cost (one-time and
+ongoing) in the Price Proposal. Any third-party solution must include information
+regarding how and by whom the installation and interface will be completed.
+
+
+
+
+AM/6/ASD                                                                 City of Mountain View
+502-08-02-19F010                           1 of 1      RFP for Business License Software System
+           ATTACHMENT B—COVER PAGE: PROPOSER’S INFORMATION
+               (Please include this as part of your proposal submittal.)
+
+
+PROPOSER
+
+Company:                                 Name:
+                                                                       [PRINT OR TYPE]
+Federal Tax I.D. No.
+                                         Signature*
+Street Address:
+                                         Title
+City:
+                                         Date
+State:                 Zip Code:
+                                         * Authorized Signature: The signer declares under penalty of
+Tel. No.                  Fax No.          perjury that she/he is authorized to sign this document and bind
+E-Mail                                     the company or organization to the terms of this agreement. The
+                                           signer further understands and agrees that the conditions set
+                                           forth in the instructions to vendors, the terms and conditions
+                                           and the specifications, together with the RFP, its attachments
+                                           and amendments, proposal, and any other documents submitted
+                                           in response to the foregoing, shall form a part of and be
+                                           construed with the PO.
+
+
+
+
+ ADDENDA
+
+ To assure that all proposers have received each addendum, check the appropriate
+ box(es) below. Failure to acknowledge receipt of addendum/addenda may be
+ considered an irregularity in the proposal:
+
+ Addendum number(s) received: ☐ 1       ☐ 2        ☐ 3
+
+ Or, ☐ No addendum/addenda were received
+
+
+
+
+ AM/6/ASD                                                               City of Mountain View
+ 502-08-02-19F010                      1 of 1         RFP for Business License Software System
+                       ATTACHMENT C—PRICE PROPOSAL
+
+
+On-Premise Solution:
+
+For systems that are installed on-premise and run on City hardware systems:
+
+1.   Site/server license
+
+2.   License cost per named user with full access
+
+3.   License cost per concurrent user with full access
+
+4.   License cost per named user with read-only access
+
+5.   License cost per concurrent user with read-only access
+
+6.   Annual maintenance fee
+
+Hosted Solutions:
+
+For systems that are hosted/cloud-based:
+
+1.   Annual site license
+
+2.   License cost per named user with full access
+
+3.   License cost per concurrent user with full access
+
+4.   License cost per named user with read-only access
+
+5.   License cost per concurrent user with read-only access
+
+If there are one-time installation, configuration, or data loading charges for the
+system, costs must be identified on the Price Proposal.
+
+
+
+
+AM/6/ASD                                                               City of Mountain View
+502-08-02-19F010                           1 of 1    RFP for Business License Software System
+      ATTACHMENT D—REFERENCES, SUBCONTRACTORS, EXCEPTIONS
+
+Please provide a minimum of three (3) references where work of a similar size and
+nature was performed within the past five (5) years.
+
+I.   References:
+
+The proposer is required to provide a minimum of three (3) references where work of a
+similar size and nature was performed within the last three (3) years. This will enable
+the City of Mountain View to judge the responsibility, experience, skill, and business
+standing of the proposer.
+
+Client Name:                             Contact Name:
+Address:                                 Phone Number:
+                                         Fax Number:
+                                         E-mail:
+Date of Project (when was work performed):
+Describe what product or service was provided:
+
+
+
+
+Client Name:                             Contact Name:
+Address:                                 Phone Number:
+                                         Fax Number:
+                                         E-mail:
+Date of Project (when was work performed):
+Describe what product or service was provided:
+
+
+
+
+AM/6/ASD                                                              City of Mountain View
+502-08-02-19F010                         1 of 2     RFP for Business License Software System
+Client Name:                             Contact Name:
+Address:                                 Phone Number:
+                                         Fax Number:
+                                         E-mail:
+Date of Project (when was work performed):
+Describe what product or service was provided:
+
+
+
+
+II.   Subcontractors:   List any subcontractors that will be performing any of the
+      services.
+
+           Work to be Performed                   Subcontractor’s Name and Address
+
+1.
+
+
+2.
+
+
+
+III. Exceptions or Clarifications: If you have any exceptions or clarifications to this
+     RFP, please state them here.
+
+
+
+
+AM/6/ASD                                                               City of Mountain View
+502-08-02-19F010                         2 of 2      RFP for Business License Software System
+                                                 CMV RFP No. 200807                                        Attachment E
+                                            Business License Software System
+
+City of Mountain View
+Business License Tax Requirements Matrix
+
+                                                                                        Response
+  Section        Detail   Req. #                    Requirement                                    Response/Comments
+                                                                                          Code
+User Interface              1      Provides a browser-based user interface
+
+                                   Supports mobile technologies (e.g. smartphones,
+User Interface              2
+                                   tablets) including Android and iOS
+                                   Provides the ability to drill-down and drill-
+User Interface              3      across from a transaction view to the supporting
+                                   source data and documents
+                                   Provides fully integrated functionality such that
+                                   data is entered only one-time and available
+User Interface              4      throughout the system and available in real-time
+                                   (single-points of data entry) in all related
+                                   modules
+                                   Provides organized screen layouts that are
+User Interface              5
+                                   customizable
+                                   Provides consistent use of icons, colors and
+User Interface              6
+                                   menus across all modules
+                                   Provides shortcuts for frequently accessed
+User Interface              7
+                                   processes, screens, reports, etc.
+                                   Provides open ended search capabilities (e.g.
+User Interface              8      partial/full word and/or number) that search
+                                   across all modules and attachments
+                                   Provides online help that is context sensitive and
+User Interface              9      content appropriate with manuals also available
+                                   for download
+                                         CMV RFP No. 200807
+                                    Business License Software System
+
+                           Provides integrated workflow management
+                           including generation, routing, notification and
+                           approval of forms, reports, other documents and
+Workflow              10   processes (e.g. payable processing, purchase
+                           orders, GL transactions, HR transactions, payroll
+                           processing, budgeting, personnel action forms,
+                           etc.) for all modules
+                           Provides ability to establish multiple approval
+                           levels based on user-defined criteria (e.g. dollar
+Workflow              11
+                           amounts, types of items purchased, document
+                           types, etc.)
+                           Provides support to allow out of office approval
+Workflow              12
+                           delegation
+                           Provides the ability for workflow not approved
+                      13   in a defined period of time to move to another
+                           approver
+                           Provides multiple attributes to define which
+                           users participate in which steps of the workflow
+Workflow              14   processes (e.g. GL number segments, unique
+                           groupings, project/task codes, object/spend
+                           category codes, consideration of roles, etc.)
+                           Integrates with the email system to assist in the
+                           notification/request of approvals, reject,
+Workflow              15
+                           corrections, and approval through/from email
+                           and mobile devices
+                           Allows document attachment to be available for
+Workflow              16
+                           review through all workflow approval levels
+                           Provides fields for notes and/or comments from
+Workflow              17
+                           approvers with date/time stamps
+Reporting
+                           Provides a reporting toolset that is consistent
+   and      General   18
+                           across all modules
+Dashboard
+                                             CMV RFP No. 200807
+                                        Business License Software System
+                               Provides modeling tools to do ‘what if’ analysis
+Reporting and                  and forecasting (i.e. analysis of
+                General   19
+ Dashboard                     revenue/expenditure trends and the ability to
+                               develop forecast projections)
+Reporting and                  Provides real-time access to data and data is
+                General   20
+ Dashboard                     immediately available for inquiry and reporting
+
+Reporting and                  Allows users to drilldown from reports and
+                General   21
+ Dashboard                     inquiries to source transaction and attachments
+                               Provides full integration with MS Excel for all
+                               modules (e.g. worksheet export to Excel, data
+Reporting and
+                General   22   imported from Excel, etc.) and allows users to
+ Dashboard
+                               export reports to Excel that include
+                               formulas/formatting
+Reporting and                  Provides the ability to copy and customize
+                General   23
+ Dashboard                     standard reports
+
+Reporting and                  Provides the ability for reports to access data
+                General   24
+ Dashboard                     across all modules
+                               Provides the ability to create report notification
+Reporting and
+                General   25   groups and inform/alert groups a new report is
+ Dashboard
+                               available
+                               Provides the ability to choose a format when
+Reporting and
+                General   26   exporting a report (e.g. Excel, Adobe, flat file,
+ Dashboard
+                               delimited, etc.)
+                               Provides the ability for a dashboard/scorecard
+Reporting and                  to include, at a minimum, user defined metrics,
+                General   27
+ Dashboard                     key performance indicators (KPIs), reports,
+                               charts, etc.
+
+Reporting and                  Provides the ability for reporting to be based on
+                General   28
+ Dashboard                     user security setting
+
+Reporting and                  Provides the ability to save and “publish” ad hoc
+                General   29
+ Dashboard                     reports for use by others
+                                                CMV RFP No. 200807
+                                           Business License Software System
+
+Reporting and                     Provides the ability to query and report on any
+                 General     30
+ Dashboard                        field within any module
+
+Reporting and                     Allows for multiple output options (e.g. display,
+                 General     31
+ Dashboard                        print, email, etc.)
+
+                                  Provides the ability to run standard and/or
+Reporting and
+                 General     32   customized reports automatically on a schedule
+ Dashboard
+                                  for distribution to a group or individuals.
+
+Reporting and                     Allows dashboard to extract and display
+                 General     33
+ Dashboard                        information from all modules
+
+Reporting and                     Provides the ability to define report period (e.g.
+                 General     34
+ Dashboard                        from – to)
+
+ Reporting                        Provides daily cash reports to prepare deposit
+    and         Cashiering   35   slips, track cash receipted in by denomination,
+ Dashboard                        check, electronic deposits, by cashier, etc.
+                                  Provides the ability to track and report all
+Reporting and
+                Cashiering   36   monthly cash (and cash equivalents) receipted in
+ Dashboard
+                                  and disbursed out
+                                  Provides the ability to track and report specific
+                                  types of transactions by certain time frame. For
+Reporting and
+                Cashiering   37   example, number of EFT in a specific month or
+ Dashboard
+                                  number of ACH’s executed during year, number
+                                  of deposits on a specific date, etc.
+                                  Ability to format a report (integrate) to upload
+Reporting and
+                Cashiering   38   check deposit information to Bank of America
+ Dashboard
+                                  remote desktop deposit.
+                                  Ability to manage the payment collection and
+Reporting and
+                Cashiering   39   processing activities via a single
+ Dashboard
+                                  payment/screen window (GUI).
+                                                CMV RFP No. 200807
+                                           Business License Software System
+
+                                  The screen (GUI) should be user-definable,
+                                  scrollable, and sizable to display the following
+Reporting and                     areas of information: (1) payment class area(s)
+                Cashiering   40
+ Dashboard                        showing the revenue distribution of each
+                                  payment; and (2) tender area showing the
+                                  amount and type of each tender collected.
+                                  Ability to process cash, credit card, check, EFT,
+Reporting and
+                Cashiering   41   electronic bank file transactions in an on-line or
+ Dashboard
+                                  batch mode.
+                                  Ability to provide ODBC to CIS application for
+Reporting and
+                Cashiering   42   real-time business license account inquiry and
+ Dashboard
+                                  account update. (If third-party application)
+
+Reporting and                     Ability to provide an audit trail showing the
+                Cashiering   43
+ Dashboard                        source of payments, walk-in, mail, etc.
+
+Reporting and                     Ability to make on-line corrections of misapplied
+                Cashiering   44
+ Dashboard                        transactions.
+
+Reporting and                     Provide on-line account number validation for
+                Cashiering   45
+ Dashboard                        payments.
+                                  Ability to apply payments to a customer's
+Reporting and                     account(s) in a user-defined hierarchy which is
+                Cashiering   46
+ Dashboard                        parameter-driven and easy to modify (pay in
+                                  full, underpay, overpay).
+                                  Immediately reflect payments received from on-
+                                  line cash on the customer's business license
+Reporting and
+                Cashiering   47   account as a pending payment. Overnight or
+ Dashboard
+                                  end-of-day batch processing should not be
+                                  required to view the most recent transaction.
+                                  Ability to apply a single payment to multiple
+Reporting and
+                Cashiering   48   accounts or payments paying with a single check
+ Dashboard
+                                  or other tender type.
+                                                CMV RFP No. 200807
+                                           Business License Software System
+
+                                  Ability to post payments to accounts that have
+Reporting and                     been charged-off. Transfer payments from one
+                Cashiering   49
+ Dashboard                        account to another, process payment
+                                  adjustments on-line or in batch mode.
+
+Reporting and                     Ability to provide a printed receipt for each
+                Cashiering   50
+ Dashboard                        transaction processed.
+
+Reporting and                     Ability to print balance due when partial
+                Cashiering   51
+ Dashboard                        payments are made on receipt.
+
+Reporting and                     Ability to void or cancel a receipt through
+                Cashiering   52
+ Dashboard                        proper security levels.
+                                  Ability to process payment transactions on-line
+Reporting and
+                Cashiering   53   or in batch mode utilizing bar code scanning or
+ Dashboard
+                                  OCR scanning technology.
+                                  Ability to balance cash drawer daily and
+                                  produce a reconcilable, consolidated, end-of-day
+Reporting and
+                Cashiering   54   balancing report that includes all payment
+ Dashboard
+                                  processing transactions by all users in both
+                                  summary and detail format.
+Reporting and                     Ability to support a variety of Cash Drawer
+                Cashiering   55
+ Dashboard                        models, receipt printers, and OCR readers.
+                                  Ability to interface with credit or debit/ATM
+Reporting and                     card authorizing/processing software
+                Cashiering   56
+ Dashboard                        applications, to facilitate automatic on-line
+                                  authorization for all major credit cards.
+                                  Ability to establish a date in advance or arrears
+                                  of the actual current default date for payment
+Reporting and                     posting that will allow finance charges to accrue
+                Cashiering   57
+ Dashboard                        by the selected payment date, not the date
+                                  processed. Auto penalty and interest
+                                  calculations by batch processed date.
+                                                CMV RFP No. 200807
+                                           Business License Software System
+                                  Ability to transfer comments related to
+Reporting and                     miscellaneous City Payments to the Central
+                Cashiering   58
+ Dashboard                        Square ONESolution General Ledger module
+                                  through an interface.
+                                  Ability to upload/populate General Ledger
+Reporting and                     account numbers from the Central Square
+                Cashiering   59
+ Dashboard                        ONESolution General Ledger module into the
+                                  Cashiering application through an interface.
+                                  Ability to accommodate a General Ledger
+Reporting and
+                Cashiering   60                         xxxxxx-xxxxx or
+                                  account number as follows:
+ Dashboard
+                                  xxxxxx-xxxxx/xxxxxxx-xxxxxx
+Reporting and                     Ability to access, search and print archived cash
+                Cashiering   61
+ Dashboard                        batches at the detail level.
+
+Reporting and
+                Cashiering
+ Dashboard
+                                  Supports the ability to attach multiple media
+ Document                         formats (e.g. audio, video, image, etc.) and file
+                             62
+Management                        types (e.g. Excel, Word, PDF, etc.) to transactions
+                                  in all modules
+                                  Provides the ability to support retention policies
+ Document
+                             63   with respect to documents managed by the
+Management
+                                  system
+                                  Offers drill-down/drill across features for users
+ Document
+                             64   to view documents associated with financial,
+Management
+                                  payroll, and personnel transactions
+                                  Integrates with the existing document
+                                  management solution.
+ Document
+                             65   Provide in the “Response/Comments” section a
+Management
+                                  list of all document management vendors your
+                                  solution has built integrations.
+                                CMV RFP No. 200807
+                           Business License Software System
+
+                  Provides the ability to create, store, and retrieve
+                  electronic images (e.g. purchase orders, payroll
+ Document
+             66   checks, accounts payable invoices, etc.) that are
+Management
+                  attached to the appropriate transaction record
+                  for all modules
+
+                  Supports document scanning and attachment,
+                  and makes documents accessible throughout all
+ Document
+             67   modules (i.e. requisition, purchase order,
+Management
+                  packing slips, accounts payable, budget,
+                  onboarding, leave, etc.)
+                  Allows the system administrator to:
+Audit and            -Define a minimum length password
+             68
+Sercurity            -Define a password expiration timeframe
+                     -Prohibit reusing of passwords
+
+                  Allows the system administrator to:
+                     -Configure control access to the application,
+                  modules, transactions, data and reports
+                     -Define access rights (e.g. create, read,
+                  update, delete) by user ID or functional role
+Audit and            -Define functional access rights (e.g.
+             69
+Sercurity         processes, screens, fields, and reports) by user ID
+                  or functional role
+                     -Restrict access to sensitive data elements (e.g.
+                  social security numbers, banking data, etc.) by
+                  user ID, user groups or functional role
+                                 CMV RFP No. 200807
+                            Business License Software System
+                   Maintains audit logging to record access activity
+                   with date/time stamps:
+                      -Login/logout attempts by user and
+                   workstation
+Audit and
+              70      -User submitted transactions
+Sercurity
+                      -Initiated processes
+                      -System overrides
+                      -Additions, changes, or deletes to application
+                   maintained data
+                   Supports online applications and renewals,
+ Business
+              71   including payment of taxes and printing of
+License Tax
+                   certificate from a secure portal
+ Business          Provides mobile application for field staff to
+              72
+License Tax        perform inquiry on business tax data
+                   Provides ability to flag businesses requiring
+ Business          background checks, fingerprinting, drug and
+              73
+License Tax        alcohol tests, inspections, contractor’s license,
+                   etc. before issuance
+                   Provides electronic workflow approval routing
+                   and / or notification distribution to multiple
+ Business
+              74   departments based on business type and related
+License Tax
+                   rules. Automatic notification to Finance
+                   Department upon approval by Planning
+
+
+                   Provides ability to calculate multiple taxes
+                   and/or prorate taxes utilizing a user-defined tax
+                   structure based on factors including number of
+                   employees, gross receipts, number of residential
+ Business
+              75   units, number of commercial square feet, flat
+License Tax
+                   dollar amount, non-profit status, downtown
+                   location, start date etc. See two attatchments:
+                   City of Mountain View Ordinance 17.18 and
+                   Business Improvement Area Map & Rate Sheet.
+                                 CMV RFP No. 200807
+                            Business License Software System
+                   Provides bar code functionality to capture
+                   customer billing information (including amount
+ Business
+              76   due), with bar code appearing on bills, and
+License Tax
+                   ability to scan and retrieve customer billing
+                   information.
+ Business          Provides the ability to create custom reports
+              77
+License Tax        using fields within the module
+ Business          Provides ability to calculate late penalties after
+              78
+License Tax        prescribed time period
+                   Provides multiple application periods (i.e.
+ Business
+              79   annual, quarterly, etc.) based on either calendar
+License Tax
+                   or date of application
+                   Provides automated process for annual renewal
+ Business          notification, including electronic (email)
+              80
+License Tax        notification capabilities and/or printing
+                   notifications
+                   Fully integrated with general ledger and
+ Business
+              81   cashiering modules for posting of revenue and
+License Tax
+                   reporting
+                   Robust query and reporting including query
+ Business          capability on all data entry fields and statistical
+              82
+License Tax        reporting of businesses by type, by date range,
+                   etc.
+ Business          Provides unlimited user defined business
+              83
+License Tax        classifications and types
+                   Provides the ability to generate custom late and
+                   final notices including labels for mailing (mail
+                   merge). Notice template should include City
+ Business
+              84   logo, forwarding balance, account number,
+License Tax
+                   customer number, itemized charges & late fees
+                   & penalties, an area for additional comments,
+                   and payment coupon.
+
+                   System-generated account number and customer
+ Business
+              85   number. New account number must follow current
+License Tax
+                   City sequential number.
+                                  CMV RFP No. 200807
+                             Business License Software System
+                   Ability to provide the following status of an account:
+ Business          open, closed, in-City, out of City, delinquent, date
+              86
+License Tax        business started in Mountain Vew, business license
+                   expiration date
+ Business          Ability to transfer customer/business data from one
+              87
+License Tax        location to another.
+
+ Business
+              88   Ability to let customer/business register for multiple
+License Tax
+                   business types in one business location
+ Business
+              89
+License Tax        Ability to modify charges or payments manually
+ Business
+              90
+License Tax        Ability to calculate 2-year backbilling or 3-year credit
+
+ Business
+              91   Ability to transfer all current City business license
+License Tax
+                   database to new system including comments fields.
+
+ Business
+              92   Ability to record business names with punctuation
+License Tax
+                   marks, and allow unlitimited number of characters
+
+
+ Business          Ability to cross reference entire database and notify
+              93   operator of delinquent status, same name, same FEIN,
+License Tax
+                   previous business location, etc. when customer
+                   applies for new business license.
+ Business          Ability to add $4.00 mandated State Fee AB1379 to all
+              94
+License Tax        new business licenses until 12-31-2023.
+                   Ability to run custom and system-generated reports
+ Business          including, but not limited to: reports by business type,
+              95   location, start date, aging, GIS, owner, address, e-mail
+License Tax
+                   address, size, history by location, by owner, by type,
+                   EIN, SSN, etc.
+                                                                                        Attachment F
+
+
+
+                                          ORDINANCE NO. 17.18
+
+
+                            AN ORDINANCE OF THE PEOPLE OF THE
+                  CITY OF MOUNTAIN VIEW AMENDING CHAPTER 18
+                   OF THE MOUNTAIN VIEW CITY CODE REGARDING
+                           BUSINESS REGISTRATION AND LICENSE TAX
+
+
+
+
+          THE PEOPLE OF THE CITY OF MOUNTAIN VIEW DO HEREBY ORDAIN AS
+FOLLOWS:
+
+
+          Section 1.
+                 Chapter 18 of the Mountain View City Code is hereby repealed as of
+October 1, 2019 and replaced in its entirety, to read as follows:
+
+                                        Article I. - Business Licenses.
+
+
+SEC. 18. 1. - Purpose.
+
+
+        This chapter is enacted for the purpose of registering those persons operating a
+business in the city and to generate revenues to provide critical services and
+infrastructure for the benefit of the business and residential communities within the city
+through a business license tax.
+
+
+Sec. 18. 2. - Definitions.
+
+
+      For the purposes of this chapter, the following words and phrases shall have the
+meaning respectively ascribed to them by this section unless the context plainly
+requires otherwise:
+
+
+
+
+          Appeals hearing board. The city manager or any person or body he or she may
+appoint to hear one ( 1) or more appeals under this chapter.
+
+
+          Business. Any commercial or industrial enterprise, trade, profession,
+occupation, vocation, calling or livelihood, but not including the services rendered by
+an employee to his/ her employer. Independent contractors, the self-employed and sole
+proprietors are also engaged in a business as defined here.
+
+
+          Business          operator.   A person who transacts,     maintains,   manages,     operates,
+
+controls, engages in, conducts, carries on and/ or owns a business regulated under this
+chapter.
+
+
+
+
+          CPI Index.          The Consumer Price Index -All Urban Consumers for All Items for
+the San Francisco -Oakland -Hayward Area or any successor to that index designated by
+the federal Bureau of Labor Statistics or the city council.
+
+          Employee.          Any person who works for or under the direction of, or on behalf of
+or as an agent of a business operator.
+
+
+          Fixed place of business.          The premises occupied for the particular purpose of
+operating a business.
+
+          Manager.          Any person who, as agent of the business operator, is in charge of the
+operation of a business.           The manager shall serve as the city' s contact person for the
+business.
+
+
+          Owner. Every person having more than a ten percent (                   10%)   interest, legal,
+equitable or otherwise, in any business or business premises.
+
+
+KB/ 2/ ORD
+015 -06 -26 -18o -E- 1 -                              1-
+          Person.Any natural individual, firm, partnership, joint venture, association,
+corporation, limited liability company, estate, trust, receiver, syndicate or other group
+or combination acting as a unit and includes the plural as well as the singular number.
+
+          Tax administrator.              The finance and administrative services director of the City
+of Mountain View, or successor position or his or her designee.
+
+
+SEC. 18. 3 - Registration and license application procedures.
+
+
+          a. All licenses required by this chapter shall be subject to the procedures of
+this chapter and administrative guidelines promulgated by the tax administrator
+consistent with this chapter.
+
+
+          b.         All applications for licenses shall be accompanied by the business license
+tax, as set forth in this chapter.
+
+
+SEC. 18.4. - Exemptions.
+
+
+          a.   Except as may be otherwise specifically provided in this chapter, the terms
+hereof shall not be deemed or construed to apply to qualified nonprofit organizations,
+institutions, corporations or associations; persons or entities exempt from city taxation
+under state or federal law; or any person when imposition of the tax upon that person
+would violate the Constitution of the United States or that of the State of California. The
+
+burden of proof of exempt status is on the person claiming the exemption. Acceptable
+documentation must be provided to support the claimed exemption.
+
+
+          b.         No public utility making franchise payments to the city shall be subject to
+the provisions of this chapter.
+
+
+          C.         Business         operators   whose   annual   gross   receipts   from   such business
+operations
+                   city are five thousand ($ 5, 000) dollars or
+                   in        the                                                         less.   Acceptable
+documentation must be provided to support the claimed exemption.
+
+
+SEC. 18. 5. - Application.
+
+
+          a.
+                     Every business operator required to have a license under the provisions of
+this chapter shall submit an application to the tax administrator and register his or her
+business on a form established by the tax administrator that contains or is accompanied
+by the following information:
+
+                        1)
+                     The type of ownership of the business, i.e., whether individual,
+partnership, a corporation or otherwise. If the applicant is a corporation, the name of
+the corporation shall be set forth exactly as shown in its articles of incorporation;
+
+                      2)           The name under which the business is to be conducted;
+
+
+                      3)
+                    The primary address of the business and the addresses of all
+business locations operating in the city;
+
+                      4)           The name, address and contact information of the manager of the
+business;
+
+
+                      5)           Number of employees of the business;
+
+
+                        6)         Business license tax due; and
+
+
+                        7)         Such other information as the tax administrator deems necessary.
+
+
+KB/ 2/ ORD
+015- 06- 26- 180- E- 1 -                                  2-
+          b.         Each applicant for a license shall properly fill in one (            1)   of   such
+
+
+applications, sign the same and certify, under penalty of perjury, that the contents
+thereof are true and correct. The completed application shall be submitted to the tax
+
+administrator, who shall verify the proper amount of the business license tax due and
+shall issue the appropriate license on payment of such amount.
+
+
+          C.         An application shall not be deemed complete until all the information
+
+required by this section has been provided to the tax administrator and the business
+license tax has been paid.
+
+
+SEC. 18. 6. - Denial, suspension or revocation.
+
+
+       An application for a license may be denied and a license issued pursuant to this
+chapter may be suspended or revoked by the tax administrator upon any of the
+following grounds identified herein:
+
+           1)        A false statement of fact or omission of a fact required to be revealed in an
+
+application for the license, or in any amendment or report or other information required
+to be made thereunder;
+
+
+           2) The premises in which the licensed activity will occur or the proposed use
+for which the license is sought is in violation of any building, zoning, health, safety, fire,
+police or other provision of this code or of county, state or federal law which
+substantially affects the public health, welfare or safety;
+
+           3)        Violation of the terms and conditions of the license, or other requirements
+
+of this chapter or the Mountain View city code.
+
+SEC. 18. 7. - Notice of decision.
+
+
+          a.         Upon determining the existence of any of the grounds for denial,
+suspension or revocation of a license in accordance with Sec. 18. 6, the tax administrator
+
+may issue to the licensee a notice of decision to deny, suspend or revoke the license.
+
+          b.         The notice of decision shall state all the grounds and reasons upon which
+the denial, suspension or revocation is based.
+
+
+          C.         The notice   of decision   shall    advise   that the   denial,   suspension     or
+
+revocation shall become final unless the applicant or licensee files a written request for
+
+hearing before the tax administrator within the time period specified in Sec. 18. 26
+ Procedure for hearing before the tax administrator).
+
+          d.         The notice of decision shall specify the effective date of the denial,
+suspension or revocation of such license.
+
+
+SEC. 18. 8. - Issuance; Contents.
+
+
+       It shall be the duty of the tax administrator to prepare and issue a license under
+this chapter for every person liable to pay such business license tax, the period of time
+covered thereby, the name of the person to whom issued, the business licensed and the
+location or place where such business is to be operated.
+
+
+SEC. 18. 09. - Expiration date.
+
+
+          Unless otherwise established by resolution of the council, all business licenses
+shall expire on December 31 of each year.
+
+
+
+KB/ 2/ ORD
+015- 06- 26- 180- E- 1 -                            3-
+SEC. 18. 10. - Time and manner of payment.
+
+
+       The annual business license taxes shall be due and payable to the city on the first
+ 1st) day of January of each year, unless otherwise established by resolution of the city
+council. All business license taxes under this chapter shall be paid by the due date in the
+legal currency of the United States at the office of the tax administrator.
+
+SEC. 18. 11. - Renewal of license.
+
+
+          No license may be renewed unless:
+
+          a.         An application for renewal of the business license, together with the
+payment         of   the   applicable   annual    business   license   tax, is   filed   with   the   tax
+administrator prior to the expiration date of the current license; and
+
+
+          b.         The licensee meets all of the requirements of this chapter.
+
+
+          C.         If such application for renewal is not filed, or the annual business license
+tax is not paid prior to the expiration date of a license, the license shall be deemed
+suspended until such time as the application for renewal is filed, the annual business
+license tax and, if applicable, penalties paid and a new license has been issued.
+
+
+SEC. 18. 12. -       Penalty for late renewal.
+
+          a.  Original delinquency. Any person who is subject to the business license
+tax who fails to remit any amount imposed by this chapter within the time required
+shall pay a penalty of ten percent ( 10%) of the amount of the business license tax owed
+in addition to the amount due.
+
+
+          b.    Continued delinquency. Any person who is subject to the business
+license tax who fails to remit any delinquent remittance on or before a period of thirty
+  30) days following the date on which the remittance first became delinquent shall pay
+a second delinquency penalty of ten percent ( 10%) of the amount of the business
+license tax owed in addition to the amount of the tax and the ten percent (10%) penalty
+first imposed.
+
+
+          C. Fraud. If the tax administrator determines that the nonpayment of any
+remittance due under this chapter is due to fraud, a penalty of twenty-five percent
+ 25%) of the amount of the business license tax shall be added thereto in addition to
+the penalties stated in subparagraphs a. and b. of this section.
+
+
+
+          d.Interest. In addition to the penalties imposed, any person engaged in a
+business who fails to remit any business license tax imposed by this chapter shall pay
+interest at the rate of one percent ( 1%)        per month or fraction thereof on the amount of
+the business license tax, exclusive of penalties, from the date on which the remittance
+first became delinquent until paid.
+
+
+          e.
+                     Penalties merged with tax. Every penalty imposed and such interest as
+accrues under the provisions of this section shall become a part of the business license
+tax herein required to be paid.
+
+
+SEC. 18. 13. - Exhibition of license.
+
+
+       Every person shall keep any license issued pursuant to this chapter exhibited in a
+public and readily accessible place and shown to any police officer, city inspector or
+other person upon request while business is operated in the city under that license.
+
+KB/ 2/ ORD
+015 -06 -26 -18o -E- 1 -                             4-
+SEC. 18.14. -       Transferability.
+
+          a.         If a licensed business moves to another location, the original license shall
+be presented to the tax administrator, together with a statement of such proposed
+
+relocation. The tax administrator may approve the transfer of the license to the new
+location.
+
+
+          b.
+           No license granted or issued under any provisions of this chapter shall be
+in any manner transferred or assigned or authorize any person other than is therein
+mentioned or named to do business. Rather, a new application for license in the name of
+the proposed transferee shall be presented to the tax administrator, who shall consider
+the application as provided in this chapter.
+
+
+SEC. 18. 15. - Issuance of duplicates; Errors.
+
+
+          The tax administrator shall charge for each duplicate license issued to replace
+any license issued under the provisions of this chapter which has been lost or
+destroyed. Such charge shall be in an amount set from time to time by resolution of the
+city council. In no case shall any error in stating the amount of the business license tax
+prevent or prejudice the collection by the city of what shall be actually due from anyone
+carrying on a business subject to a license under this chapter.
+
+SEC. 18. 16. - License tax imposed; Method of calculation.
+
+
+          a.         From and after the date specified in paragraph c. of this section below,
+
+unless otherwise specifically provided for in this chapter, every business operator in the
+city shall pay an annual business registration and license tax based on the average
+number of employees of the business in the city, in the most recent four ( 4) quarters
+completed before the date the payment as set forth herein. The average number of
+employees          of       the   business   shall   be   the    number   of   employees   reported    to    the
+Employment Development Department. The average number of employees of the
+
+business may also be disclosed in a manner as approved by the tax administrator.
+
+                 Number                                         Authorized Maximum
+               of Employees                          Business Registration and License Tax
+
+                        1               75
+
+                    2- 25               75 + $ 5/ employee for each employee over 1
+
+                   26- 50               195 + $ 10/ employee for each employee over 25
+
+                  51- 500               445 + $ 75/ employee for each employee over 50 employees
+
+                 501- 1, 000            34, 195 + $ 100/ employee for each employee over
+                                       500 employees
+
+                1, 001- 5, 000          84, 195 + $ 125/ employee for each employee over 1, 000
+
+                  5, 001+               584,195 + $ 150/ employee for each employee over 5, 000
+
+
+
+          b.  The provisions of this chapter shall apply to business operators having
+no fixed place of business within the city whose employees come into the city for the
+purpose of conducting a business or rendering services when such employees come
+into the city for these purposes six ( 6) or more days during any calendar year. The
+business tax payable by such business operators shall be the business registration and
+license tax, as apportioned in the table below.
+
+
+                     For purposes of this paragraph b., "           operating a business in the city"       shall
+
+
+include every person entering into a contract with the city, including,                               without
+
+limitation, contracts for public works, consultant services and franchise agreements.
+
+KB/ 2/ ORD
+015- 06- 26- 180- E- 1 -                                    5-
+                                          Out -of -Town Businesses
+
+                                    Business Registration and License Tax
+
+                           6- 64 days                65- 129 days              130+ days
+
+                             25%                        50%                      100%
+
+
+
+          C.         The due date of the business registration and license tax under this section
+shall be as follows:
+
+
+                      1)
+                    Persons operating businesses with fifty (50) employees or less shall
+pay the business registration and license tax owed in subsections a. and b. above
+beginning January 1, 2020;
+
+                      2)
+                     Persons operating businesses with fifty-one ( 51) employees or more
+shall pay a phased -in tax as follows:
+
+                             i.         January 1,    2020:     One-third ( 1/ 3)     of the total business
+registration        and    license      tax owed (   rounded up to the nearest whole dollar)             in
+subsections a. and b. above;
+
+
+                             ii.        January 1,    2021:     Two- thirds ( 2/ 3)   of the total business
+registration        and    license      tax owed (   rounded up to the nearest whole dollar)             in
+subsections a. and b. above; and
+
+
+                             iii.       January 1,    2022 and thereafter:       The full amount of the
+business registration and license tax owed in subsections a. and b. above.
+
+
+                      3)
+                     Business operators who apply for a new business license between
+October 1, 2019 and December 31, 2019 shall pay a prorated business license tax based
+on the tax that was in effect as of January 1, 2019.
+
+SEC. 18. 17. - Annual adjustments for inflation.
+
+
+       Subject to approval of the city council, the business license tax may be adjusted
+annually, commencing on January 1, 2021 and every year thereafter, if the cost of living
+in the city has increased over the preceding base period as shown by the CPI Index. The
+CPI Index will be set in December of each year or as established in the administrative
+
+guidelines promulgated by the tax administrator in accordance with this Chapter.
+
+SEC. 18. 18. - Refunds and proration.
+
+
+          a.         All licenses shall be issued from the date set forth in the license and no
+licensee shall be entitled to the refund of any portion of the tax paid by reason of the
+termination of such licensed activity before the license expires.
+
+          b. Any business required to cease activity within the city as the result of
+public acquisition of the premises by any governmental agency shall be entitled to a
+refund of an amount prorated as to the time remaining under the license when the
+business activity ceases. Such licensee shall file a verified claim with the tax
+administrator stating the date of and reason for cessation of business activity.
+
+          C. The business license tax may be prorated in accordance with the
+administrative guidelines promulgated by the tax administrator.
+
+
+
+
+KB/ 2/ ORD
+015 -06 -26 -18o -E- 1 -                                   6-
+SEC. 18. 19. -      Collection of taxes by court action.
+
+       The amount of any business license tax imposed by this chapter shall be deemed
+a debt to the city, and any business operating without having a license from the city so
+to do shall be liable to an action in the name of the city in any court of competent
+jurisdiction for the amount of the business license tax imposed on such business,
+
+together with all penalties and interest then due thereon in any such action, and any
+cost the city reasonably incurs to collect the tax, including attorneys' fees which, if
+judgment is recovered, shall be included and assessed as recoverable costs in such
+action.
+
+
+
+
+SEC. 18. 20. - Powers and duties of tax administrator.
+
+
+          The tax administrator shall have the power and duty, and is hereby directed, to
+enforce each and all of the provisions of this chapter. The tax administrator shall have
+the power to promulgate administrative guidelines consistent with the provisions of
+
+this chapter for the purpose of carrying out and enforcing the provisions of this chapter.
+A copy of any such administrative guidelines shall be on file and available for public
+examination in the tax administrator' s office and posted to the city' s website.
+
+SEC. 18. 21. - Enforcement of chapter.
+
+
+        All city enforcement officers and enforcement officials, including, but not limited
+to, police officers and code enforcement officers, are hereby appointed inspectors of
+licenses and are hereby authorized to examine all places of business and persons in the
+city liable to pay a business license tax to see that such business licenses are taken out;
+and shall have and exercise the following powers and duties:
+
+          a.
+                     To issue citations for the violation of any of the provisions of this chapter.
+
+          b.  To enter free of charge, at any time, any place of business for which a
+license is required by this chapter and to demand the exhibition of such license for the
+current term by any person engaged or employed in the transaction of such business,
+and if such person shall then and there fail to exhibit such license, such person shall be
+
+liable for the penalties provided by this code and other applicable law for a violation of
+this chapter.
+
+
+SEC. 18. 22. -      Liability of permittee or licensee.
+
+          a.
+            The licensee shall be liable for every violation of the requirements of this
+chapter committed by the licensee, or the licensee' s manager or employee.
+
+          b.         In the case of a violation of a requirement of this chapter by an employee,
+the tax administrator shall have the discretion to take enforcement action against the
+licensee, the employee of the licensee, the manager who was present at the premises at
+the time the employee committed the violation or against any combination of them.
+
+          C.  In the case of a violation of a requirement of this chapter by a manager,
+the city shall have the discretion to take enforcement action against the licensee, the
+manager or both.
+
+
+SEC. 18. 23. - Cumulative remedies.
+
+
+          This chapter provides for administrative enforcement of its provisions, which are
+
+in addition to all other legal remedies, administrative, criminal or civil, which may be
+pursued by the city to address any violation of this chapter provided only that the city
+may not recover any sum due under this chapter more than once.
+
+
+KB/ 2/ ORD
+015- 06- 26- 180- E- 1 -                             7-
+SEC. 18. 24. -      Procedure for hearing before the tax administrator.
+
+          With regard to a license issued by the tax administrator:
+
+          a.   The written request for a hearing before the tax administrator must be
+received by the tax administrator within ten ( 10) calendar days of the date of service of
+the notice of decision to deny, suspend or revoke the license.
+
+          b.   The tax administrator shall schedule a hearing which shall be held no later
+than sixty (60) calendar days after receipt of a timely request for hearing.
+
+          C.   The tax administrator shall serve a notice of hearing on the applicant or
+licensee not later than ten (10) calendar days prior to the scheduled date of the hearing.
+
+          d.  At the hearing before the tax administrator, the applicant or licensee shall
+be given the opportunity to present witnesses and documentary evidence.
+
+          e.
+               The hearing will be conducted informally and the technical rules of
+evidence shall not apply. Any and all evidence which the tax administrator deems
+reliable, relevant and not unduly repetitious may be considered.
+
+SEC. 18.25. - Decision of the tax administrator.
+
+
+          a.
+              Within thirty (30) calendar days after the hearing, the tax administrator
+shall serve a written decision sustaining, reversing or modifying his or her decision on
+the applicant or licensee. If the licensed business involves expressive conduct protected
+
+by the First Amendment to the United States Constitution and comparable provisions of
+state law, the decision shall be rendered within five (5) business days of the hearing.
+
+          b. The decision by the tax administrator after hearing shall become final
+unless the applicant or licensee files an appeal before the appeals hearing board within
+the time period specified in Sec. 18. 26.
+
+
+SEC. 18. 26. -      Appeal to appeals hearing board.
+
+          a.         If an applicant or licensee is dissatisfied with the written decision of the
+
+tax administrator, he or she may file an appeal to the appeals hearing board.
+
+          b. The appeal must be in writing on a form provided by the appeals hearing
+board and received by the appeals hearing board within fifteen (15) calendar days of the
+date of the tax administrator' s decision.
+
+
+          C.
+              The appeal hearing shall be conducted in accordance with the rules and
+regulations of the appeals hearing board as set forth in the administrative guidelines.
+
+          d. The written decision of the appeals hearing board shall be final when
+served on the appellant and shall be the final decision of the city, subject to judicial
+review pursuant to Code of Civil Procedure Sec. 1094. 5.
+
+
+
+
+          The tax administrator shall have the right to audit records of the businesses
+subject to the business license tax to ensure compliance with this chapter. Businesses
+
+shall retain records pertaining the business license tax for a period of three ( 3) years
+from the end of each calendar year, and shall allow the city access to such records, with
+appropriate notice and at a mutually agreeable time, to monitor compliance with the
+requirements of this chapter. Where a business does not maintain or retain adequate
+records documenting the number of its employees or does not allow the city reasonable
+KB/ 2/ ORD
+015- 06- 26- 180- E- 1 -                           8-
+access to such records, the city' s calculation of the number of employees of the business
+shall be presumed to be accurate, absent clear and convincing evidence otherwise.
+
+SEC. 18.28. -        Constitutionality and legality; Gann limit.
+
+          a.
+             This tax is intended to be applied consistently with the United States and
+California Constitutions, state law and the city charter. The tax shall not be applied so
+as to cause an undue burden upon interstate commerce, a violation of the equal
+protection and due process clauses of the Constitutions of the United States or the State
+
+of California, to constitute a special tax, or to cause a violation of any other provision of
+applicable law.
+
+
+          b.         Pursuant to California Constitution, Article XIII B, the appropriation limit
+
+for the city is hereby increased to the maximum extent over the maximum period of
+time allowed under law by the amount of the revenues generated by the tax."
+
+          Section 2.          Amendment of Ordinance.
+                                               This Ordinance may be repealed or
+amended by the City Council without a vote of the People in any manner which does
+not constitute a tax increase as that term is defined in Government Code Section 53750.
+In particular, and without limitation, the City Council may adopt a lower tax rate or
+amount under this ordinance and raise it again to the level authorized by this
+Ordinance without further voter approval.
+
+
+          Section 3.
+                 Severability. If any section, sentence, clause, phrase, or portion of this
+Ordinance is held to be invalid or unenforceable by a court of competent jurisdiction for
+any reason, the remaining sections, sentences, clauses, phrases, or portions of this
+Ordinance shall nonetheless remain in full force and effect.    The People of the City of
+Mountain View hereby declare that they would have adopted each section, sentence,
+clause, phrase, or portion of this Ordinance, irrespective of the fact that any one ( 1) or
+more sections, sentences, clauses, phrases, or portions of this Ordinance be declared
+invalid        or   unenforceable     and, to   that end, the   provisions   of this Ordinance are
+severable.
+
+
+
+
+          Section 4.         General Tax.
+                                  The tax imposed by this Ordinance is a general tax for
+general governmental purposes.
+                                    The proceeds from the tax imposed by this Ordinance
+shall be for unrestricted general revenue purposes of the City and shall be accounted for
+in the General Fund of the City. Nothing in this Ordinance shall constitute the tax
+imposed under this Ordinance as a special tax, or bind the City to use the proceeds for
+any specific purpose or function; the City Council shall retain discretion to expend the
+proceeds of the tax for any lawful purpose of the City.
+
+          Section 5.
+                 Majority Approval and Effective Date. If a majority of voters casting
+votes on the question are in favor of the ballot measure regarding this Ordinance, this
+Ordinance shall be adopted upon the date the vote therefor is declared by the City
+Council and shall go into effect October 1, 2019.                 Upon the effective date of this
+Ordinance, the Tax Administrator shall record in a separate account all revenue raised
+
+by this Ordinance. A yearly independent audit of the funds collected pursuant to this
+Ordinance will be conducted.
+
+
+       Section 6. California Environmental Quality Act Requirements. The tax imposed
+by this Ordinance is a general tax which may be used for any legitimate governmental
+purpose, including funding future unspecified projects. The City is not committed to
+undertake any specific project, however. The tax in this context is not a project within
+the meaning of CEQA because it involves " government funding mechanisms or other
+government fiscal activities which do not involve any commitment to any specific
+project which may result in a potentially significant physical impact on the
+environment" (             CEQA Guidelines Section 15378( b)(4)).    If revenue from the tax were
+
+
+
+KB/ 2/ ORD
+015 -06 -26 -18o -E- 1 -                              9-
+used for a future project that would have such effect, the City would undertake the
+required CEQA review for the particular project at that time.
+
+
+          Section 7.       Execution of Ordinance.
+                                         The People of the City of Mountain View
+hereby authorize the Mayor and City Clerk of the City to execute this Ordinance to
+reflect its adoption at the November 6, 2018 election.
+
+
+
+
+       I hereby certify that the foregoing Ordinance was adopted by the voters of the
+City of Mountain View at the November 6, 2018 election.
+
+
+
+LEONARD M. SIEGEL
+MAYOR
+
+
+
+
+ATTEST:
+
+
+
+
+LISA NATUSCH
+CITY CLERK
+
+
+
+
+KB/ 2/ ORD
+015 -06 -26 -18o -E- 1 -                             10-
+

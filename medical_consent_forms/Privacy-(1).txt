@@ -1,0 +1,131 @@
+Minnesota Medical Records Privacy
+What laws govern the privacy of                                        What are the basic requirements
+medical records?                                                       of the MHRA?
+In Minnesota, the collection, protection, and sharing of               MHRA requirements fall into three broad categories:
+health information are primarily governed by the Minnesota
+Health Records Act and the Health Insurance Portability and            Patient rights
+Accountability Act (HIPAA).                                            The MHRA generally grants patients with the right to access their
+• The Minnesota Health Records Act, or MHRA, protects data             health records upon request. Additionally, providers must provide
+  contained in medical records of individual patients that is          written notice of their health records practices and written notice
+  collected by healthcare providers, such as doctors, dentists,        of patients’ rights to access their records.
+  psychotherapists, nurses, health care facilities, and other
+  licensed healthcare professionals. MHRA addresses the                Disclosure of health records
+  sharing of this recorded data but does not control how it is to      Under the MHRA, health records may only be disclosed to a third
+  be protected or how it is to be transmitted electronically.          party with a signed and dated consent or as a result of a specific
+                                                                       authorization in law. The signed and dated consent is generally
+• The Health Insurance Portability and Accountability Act
+                                                                       valid for one year unless otherwise specified.
+  (HIPAA) and associated Privacy Rule set the standards for the
+  collection, protection, and sharing of individually-identifiable
+  health information for covered entities.                             Penalties
+                                                                       Minnesota providers may face licensing action or civil liability
+                                                                       for failure to comply with the MHRA. MHRA violations may be
+What is HIPAA?                                                         grounds for disciplinary action by the Board of Medical Practice.
+The Health Insurance Portability and Accountability Act of 1996,
+                                                                       Additionally, a physician may be liable for damages, costs, and
+commonly referred to as HIPAA, is a federal law that consists of
+                                                                       attorney fees if a physician releases medical records in violation of
+five separate titles encompassing a wide array of health-related
+                                                                       the MHRA.
+issues, including the privacy and security of individually-
+identifiable health information. HIPAA also includes two
+administrative rules, commonly referred to as the Privacy Rule         Who can access a patient’s health record?
+and the Security Rule, that set the specific health privacy and        Under the MHRA, upon request, a patient may have access to
+security standards that must be followed. These rules apply            complete and current information possessed by the provider or
+to health plans, health care clearinghouses, and health care           physician concerning the diagnosis, treatment, and prognosis of
+providers (i.e., covered entities) that transmit certain health care   the patient in terms and language that the patient can reasonably
+data electronically. HIPAA is enforced by the U.S. Department of       be expected to understand. In addition to the patient him- or
+Health and Human Services Office for Civil Rights. Patients do         herself, the following individuals also have the same access rights
+not have a right to sue their health care provider under HIPAA         afforded to the patient:
+for failing to follow HIPAA regulations.                               • The surviving spouse and parents of a deceased patient
+                                                                       • A person appointed in writing by the patient as representative
+What is the Minnesota Health Records Act?
+The current Minnesota Health Records Act (MHRA) was                    • A health care agent, unless the agent’s authority has been limited
+enacted by the Minnesota Legislature in 2007 and regulates the           by the principal’s health care directive
+use and disclosure of health records in Minnesota. The MHRA
+                                                                       • A minor patient’s parent, guardian, or person acting as a parent
+applies to all Minnesota-licensed physicians. Providers that
+                                                                         or guardian, unless the minor has received certain health
+violate the MHRA are subject to recourse from their licensing
+                                                                         services for which parental consent is not required
+board and patients may sue providers that violate the MHRA
+in certain circumstances. Covered entities in Minnesota
+must comply with both the MHRA and HIPAA. HIPAA sets                   Is consent always required to share a
+minimum standards that must be followed by covered entities,           patient’s health records?
+while the MHRA sets out additional protections for Minnesota           Patient health care information is considered confidential and
+patients. The MHRA is more stringent than HIPAA in several             may be released only in accordance with a health care information
+respects.
+                                                                                                                   (continued on next page)
+Minnesota Medical Records Privacy
+(continued from previous page)
+
+disclosure policy developed by the physician or clinic and other         Are mental health records treated
+applicable state and federal laws.
+                                                                         differently than other health records?
+In addition to the requirements under the HIPAA Privacy Rule,            Health records relating to the treatment of a patient’s mental
+Minnesota law prohibits a provider or a person who receives              health are treated the same as other types of information in the
+health records from a provider from releasing a patient’s health         medical record under Minnesota law, including psychotherapy
+records to any person without (1) a signed and dated consent             notes. Psychotherapy notes, as defined in federal regulations,
+from the patient or the patient’s legally authorized representative      are notes that are recorded by a health care provider who is a
+authorizing the release; (2) specific authorization in law; or (3)       mental health professional that document or analyze the contents
+a representation from a provider that holds a signed and dated           of conversations during a counseling session and are separate
+consent from the patient authorizing the release.                        from the rest of the patient’s medical record. Unlike other states,
+                                                                         Minnesota law considers psychotherapy notes to be part of the
+Health records may only be released without consent: (1) for a
+                                                                         patient’s health record and, therefore, patients have the right to
+medical emergency when the provider is unable to obtain the
+                                                                         access these notes in the same way that they may access the rest
+patient’s consent due to the patient’s condition or the nature of
+                                                                         of their health record. Unless information in the psychotherapy
+the medical emergency; (2) to other providers within related
+                                                                         notes is “detrimental to the physical or mental health of the
+health care entities when necessary for the current treatment of
+                                                                         patient, or is likely to cause the patient to inflict self harm, or to
+the patient; or (3) to a health care facility in certain circumstances
+                                                                         harm another,” a provider may not withhold psychotherapy notes
+when a patient is returning to a healthcare facility and is unable
+                                                                         from a patient.
+to provide consent.
+In 2007, revisions to the Minnesota Health Records Act                   Where can I find additional information?
+(MHRA) were passed by the Minnesota legislature. One of
+the key provisions passed at that time was a mandate for the             • American Medical Association: Principles of Medical Ethics
+Minnesota Department of Health to develop a standard consent               Chapter 3: Opinions on Privacy, Confidentiality & Medical
+form to access health records. This form complies with the                 Records
+consent requirements of the MHRA and any patient or legal                • U.S. Department of Health and Human Services: HIPAA FAQs
+representative of a patient, health care provider, or organization         for Professionals
+can use this form. The Standard Consent Form does not
+replace organizations’ existing consent forms to release health          • Centers for Medicare & Medicaid Services: Covered Entity
+information, but an organization can adopt the form in whole or            Guidance Tool
+in part. In addition, if a person elects to use the form to request      • Minnesota Health Information Clearinghouse: Medical
+the release of his or her health records and completes it properly,        Records Information
+it is a legally enforceable request and organizations must honor it.
+                                                                         • Minnesota Access to Health Records Notice of Rights
+May a parent access his or her child’s                                   • Minnesota Health Records Act: §§144.291-144.34
+medical records?                                                         • Minnesota Board of Medical Practice: Patients’ Access to their
+Under the Minnesota Health Records Act, a parent may access                Medical Records
+his or her child’s medical records, unless the child is receiving
+a select subset of services for which parental consent is not            • Medicare Learning Network Health Care Professionals’ Privacy
+required. These services include any personal medical services to          Guide
+a child that has been married or has given birth, services relating
+to pregnancy, venereal disease, substance use disorder treatment,        Disclaimer
+abortion, emergency services, and Hepatitis B vaccination.               The information in this document is intended to provide general education only,
+                                                                         and does not provide specific legal advice. This document does not create an
+                                                                         attorneyclient relationship and is not a substitute for the advice of an attorney. It
+Following the death of a patient, who can                                is always best practice to obtain legal advice from an attorney with expertise in the
+access the patient’s medical record?                                     relevant subject matter and jurisdiction. Contract law varies from state-to-state, and
+                                                                         this document is not intended to address each state’s laws. The Minnesota Medical
+Under state law, the surviving spouse and parents of a deceased          Association makes no guarantee as to the completeness of the information in this
+patient have the same rights under the Minnesota Health                  document.
+Records Act as the patient him- or herself. The patient’s personal
+representative, such as the executor or estate administrator, also       For more information, contact:
+                                                                         Becca Branum, JD
+has the right to access the deceased patient’s medical record.           Policy Counsel
+Additionally, a provider may release a deceased patient’s health         Minnesota Medical Association
+care records to another provider for the purposes of diagnosing          PHONE: 612-362-3738
+
+or treating the deceased patient’s surviving adult child.                EMAIL: bbranum@mnmed.org
+
+
+
+                                                                                                                                              December 2017
+

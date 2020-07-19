@@ -1,0 +1,1090 @@
+                         www.blacklinegroup.com
+
+
+
+
+RFP Guide and Template
+Source-to-Pay (S2) Technology RFP
+August 12, 2019
+Table of Contents
+
+
+I.       Introduction and Use of the Guide                   3
+II.      Market Context – S2P Technology                     3
+III.     RFP Preparation & Prework                           4
+IV.      Request for Proposal – S2P Technology               7
+V.       Supporting RFP Materials                           21
+VI.      RFP Close-Out                                      23
+VII.     About Blackline Group                              24
+
+
+
+
+                                                 Page │ 2 of 24
+ I.      Introduction and Use of the Guide
+      The Blackline RFP guide and template is intended to assist Procurement professionals in the
+      creation and execution of a wide range RFPs across industries and Procurement spend categories.
+      Although organizational needs vary, the guide is a useful starting point from which to configure
+      and customize to meet your specific needs.
+
+      Sections 1-3 are intended to assist in understanding current market context and developing the
+      approach, strategy and framework for executing a successful RFP.
+
+      Section 4 and 5 are the RFP template itself and supporting materials and Section 6 close-out and
+      wrap-up activities.
+
+II.      Market Context – S2P Technology
+      Through the early 2010’s, integrated S2P suites were the norm and viewed as the desired end-
+      state solution for companies looking to automate and integrate up and down-stream procurement
+      functions. Ariba/SAP and Emptoris mostly dominated the landscape with emerging cloud-only
+      players like Coupa, Ivalua and Bravo built to be more flexible and less expensive and time
+      consuming to implement. Fewer companies were investing in continuing to maintain or upgrade
+      cumbersome and expense ERP modules.
+
+      In the past 5 years, in contrast with earlier trends, we have seen the advent of many new best-of-
+      breed cloud providers enter the market-up place with niche solutions focused on specific
+      capabilities. For instance, ScoutRFP and Bonfire in e-Sourcing and RFx capabilities and Concord
+      and Apttus in CLM. Modern cloud architecture, leveraging defined APIs has thwarted the
+      migration to end-to-end solutions.
+
+      The improvement in data architecture in general will also likely change the dynamic with regards
+      to solution consolidation. The ease in which data can be aggregated and disaggregated will likely
+      enable niche and focused solutions to continue to thrive as independent players while forcing the
+      larger players to compete on a best-of-breed basis.
+
+      Automation is another significant trend that will impact the S2P space in coming years. Robotic
+      process automation (RPA) helps to eliminate manual tasks following simple business rules for well
+      defined processes. Unlike RPA, machine learning algorithms can identify patterns in data and are
+      may be suitable for tasks that previously required some form of judgement like spend
+      classification.
+
+      Cited Sources:
+
+      ATKearney, “The Future of Procurement Technology: Mediocrity is No Longer Acceptable”
+      McKinsey & Company, “A road map for digitizing source-to-Pay”
+
+
+
+
+                                                                                           Page │ 3 of 24
+III.      RFP Preparation & Prework
+       A) Internal Spend and Supplier Analysis
+
+          1) Spend Analysis:
+
+              An analysis of the category and supplier spend profile(s) will ensure your organization is
+              able to fully maximize the value of the RFP regarding leveraging internal spend trends both
+              past and current.
+
+              a) Prior three year spend trend with incumbent and/or related category supplier(s) to
+                 identify all relevant business stakeholders
+              b) Category spend analysis to recognize all relevant current suppliers and opportunities
+                 to consolidate where appropriate
+
+          2) Current Supplier(s) Review:
+
+              Understand capabilities and performance of the existing supplier base as an input when
+              determining utilization of existing suppliers and their future utilization
+
+              a) Supplier analysis modeling used to identify bottleneck suppliers
+
+              b) Quarterly/annual business reviews analysis
+
+              c) Supplier risk assessments (Finance &IT)
+
+              d) Existing contract structure (MSA, SOWs, NDAs, etc.)
+
+          3) Opportunities & Organizational Synergies
+
+              Many organizations have several active suppliers who can provide additional services
+              beyond the current engagement(s). Understanding those synergies will allow for financial
+              and organizational synergies and benefits.
+
+              a) Leverage cross-category incumbent supplier base
+              b) Cross-functional business unit coordination and alignment of business requirements
+                 and objectives
+
+       B) Market Researching & Intelligence
+
+          1) Suppliers:
+
+              Analyzing the applicable supplier base outside of your organization can lead to identifying
+              best-in-class suppliers who can provide value to your organization.
+
+              a)   Research industry supplier rankings
+              b)   Asses feedback provided by peers and past/existing customer reviews
+              c)   Financial risk assessments for new and existing suppliers proposed for the RFP
+              d)   Cross-referencing external suppliers with any existing spend to ensure proper
+                   conversations are made prior to and during the RFP event
+
+
+
+
+                                                                                           Page │ 4 of 24
+      e) Work with applicable business units and suppliers alike to ensure there are no conflicts
+         or competitive interest
+
+   2) Market Trends:
+
+      Understanding market trends can provide invaluable information of the current landscape
+      which assists in creating the RFP, understanding proper length of engagement, pricing, and
+      service models.
+
+      a)   Outsourced vs in-house
+      b)   On-shore / off-shore
+      c)   On-site / off-site
+      d)   Technology advancements
+      e)   Total cost considerations
+      f)   Common SLAs and metrics
+      g)   Contractual opportunities and pitfalls
+
+C) Partnering & Communications
+
+   1) Partnering with Business Units Roles & Responsibilities:
+
+      a) Business Stakeholders: Ensure thorough understanding and inclusion of all
+         stakeholders and their requirements
+
+           (i)     Roles and responsibilities
+           (ii)    Identify subject matter experts
+           (iii)   Understand and communicate RFP process timelines and expectations for all
+                   parties
+           (iv)    Comprehensive understanding of service requirements
+           (v)     GAP analysis of existing and future state (services, cost, agreements, etc.)
+
+      b) Technology: Engage IT early in the process to ascertain requirements for the RFP. In
+         doing so, appropriate lead time is provider for IT analysis and information security
+         assessments.
+
+           (i)     Security assessments
+           (ii)    Level of effort expectations and roadmap alignment
+           (iii)   Expense forecasts for integrations, supplier changes, etc.
+
+      c) Legal: Legal engagement early in the process will allow for efficiencies later in the
+         contracting process.
+
+           (i)     Draft master service agreement, statement of work, and non-disclosure
+                   agreements established early and incorporated in to the RFP process
+           (ii)    Define level-of-effort during RFP cycle
+           (iii)   Risk assessments
+
+   2) Supplier Partnering & Communications:
+
+
+
+
+                                                                                    Page │ 5 of 24
+a) Communicating with the targeted supplier base for the RFP early and often will greatly
+   increase supplier engagement and support timely responses
+b) Incumbent supplier(s): partner with the applicable business unit(s) to ensure continuity
+   of service, enhance partnership, and foster healthy communication channels both
+   internal to the organization and with the supplier
+c) Legal: Ensuring existing non-disclosure agreements are up to date and active with both
+   existing and new suppliers
+d) Messaging: Provide a positive and partnering message to all suppliers to increase
+   engagement and competitive bidding among suppliers
+
+
+
+
+                                                                            Page │ 6 of 24
+IV.      Request for Proposal – S2P Technology
+      A) Company Overview:
+
+         Overview Insight [delete italics and replace with your information]
+
+         Provide a brief overview of your organization providing relevant context for participating suppliers.
+
+         1)   Corporate mission
+         2)   Portfolio of products/services
+         3)   Employee count
+         4)   Geographical footprint
+         5)   Company culture
+         6)   Principles and values
+
+         Sample:
+
+         [Company] is the world's largest service provider with more than 80 million members in 100
+         countries and territories around the globe.
+
+         Our mission: Create mutually beneficial opportunities for every one of our customers. Our customers
+         get access to [list all services] helping you be successful. [Company] started out in the garage of our
+         co-founder John Doe in [enter date] and has grown to the size of [enter detail].
+
+         John Doe is the CEO, and the company's management team is made up of seasoned executives who
+         share a common vision and end-goal. [Company] has a diversified business model with revenues
+         coming from several different services and products.
+
+      B) Objective:
+
+         Objective Insight [delete italics and replace with your information]
+
+         Thoroughly describe the objective of this RFP with as many pertinent details as possible to ensure a
+         clear and comprehensive vision is shared with suppliers. Adding all applicable details including
+         historical and forecasted data, impacted business units, timelines, and expectations will reduce the
+         number of questions suppliers have following the dissemination of the RFP.
+
+         Sample:
+
+         [Company]’s Procurement organization is responsible for managing the entire Supply Management
+         Lifecycle for all procured goods and services used by all Lines of Business (LOBs) across the company.
+         Procurement serves its LOB partners serves with the following primary functions: Strategic Sourcing,
+         Contract Management, Procure-to-Pay and Supplier Management.
+
+           Category               Strategic           Contract             Procure-to-          Supplier
+          Management              Sourcing           Management               Pay              Management
+
+
+         In addition, the shared services team provides project management, technology and process support,
+         analytics, as well as compliance and reporting. The shared services team also manages [Company]’s
+         supplier diversity program and procure-to-pay services.
+
+
+
+                                                                                                 Page │ 7 of 24
+   Internal compliance requires that that we: have documented selection policies and procedures,
+   exercise proper due diligence in identifying and selecting third-party providers, maintain written
+   contracts that outline duties, obligations, and responsibilities of the parties involved, and exercise
+   ongoing oversight of the third parties and third-party activities. The technology solutions that we use
+   should be supportive of both our business requirements and compliance obligations.
+
+   The platform or aggregate use of multiple platforms should offer a simple, intuitive and modern user
+   interface that includes (but is not limited) to the following functionality: sourcing, contracting, spend
+   analysis, supplier portal, supplier relationship and risk management, purchase order and invoice
+   processing.
+
+C) Background:
+
+   Background Insight [delete italics and replace with your information]
+
+   Provide a wide-ranging history of desired [enter service/product] to offer suppliers an understanding
+   of where your company has been and how you arrived at your current [service/product] state of
+   requirements. Where possible, omit all current negative service levels to protect the organization
+   from predatory bidding and to ensure strong partnering and continuity of supply with the incumbent
+   supplier.
+
+   Background Sample
+
+   Procurement is seeking a S2P technology to enable fully integrated procurement, purchase-to-pay,
+   supplier interaction and management processes. The successful bidder should provide a solution that
+   is:
+
+   1) Simple to use and provides a great end-user experience
+   2) Has a modern interface that allows users to do all their work from one screen
+   3) Provides clearly defined APIs in order to share data and information between multiple technology
+      solutions
+   4) Scalable, flexible and configurable platform capable of evolving with our processes
+   5) Capable of supporting e-Signature functionality and contains additional internal/external
+      collaboration solutions integrated throughout platform
+   6) Capable of supporting mobile functionality for key processes and approvals
+   7) Able to connect with existing [Company] solutions (e.g. Salesforce, DocuSign, and Workday)
+
+D) Requirements:
+
+   Service Requirements Insight [delete italics and replace with your information]
+
+   Provide a list of requirements suppliers can turn to for an easy go-to list to ensure all components are
+   considered when submitting bids.
+
+   Requirements Sample
+
+   1) Supplier Portal, Supplier Management, and PO Automation
+
+       The S2P solution should have a highly configurable supplier self-service portal that enables self-
+       registration and reporting by suppliers. Suppliers should be able to upload documentation,
+
+
+                                                                                             Page │ 8 of 24
+   certifications and invoices as required. On the [Company] facing side, the module should provide
+   a supplier master data view (a comprehensive view of the supplier’s relationship with [Company])
+   as well as support proactive risk and performance management. The solution should be capable
+   of automatically generating purchase orders based on contract terms and allow suppliers to
+   submit invoices directly against those purchase orders. [Company] is looking for support for the
+   following capabilities.
+
+   a)   Supplier Portal / Vendor Registration
+   b)   Supplier Master Functionality
+   c)   Supplier Management
+   d)   Invoice / Purchase Order Automation
+
+2) Strategic Sourcing
+
+   The sourcing module of the solution should support online collaboration with suppliers and
+   [Company] associates both within Procurement and the broader enterprise. The solution should
+   have the full range of functionality with respect to creating various solicitations (RFI, RFP, RFQ,
+   and online auctions). The solution should enable streamlined response analysis with solutions
+   embedded in the solution (e.g. RFx scorecards, pricing templates).
+
+   a) Business and Market Intelligence
+
+        (i)     Market Intelligence
+        (ii)    Analytics and Strategy
+
+   b) RFx Process Management
+
+        (i)     Project Set Up
+        (ii)    RFx Development
+        (iii)   RFx Release
+        (iv)    RFx Response Management, Collaboration, and Scoring
+        (v)     e-Negotiation
+        (vi)    Event Archiving
+
+3) Contract Management
+
+   The contracting module of the solution should be capable of tightly integrating with MS
+   Word and enable streamlined contract creation. The solution should be capable of flowing
+   contract terms to a purchase order or invoice. The solution should contain hierarchical
+   functionality and users should be able to search for stored contract documents using
+   intuitive, straight forward parameters.
+
+   a)   Contract Drafting
+   b)   Word Plug In
+   c)   Searching
+   d)   Researching
+   e)   Contract Record Metadata Fields
+
+
+
+
+                                                                                       Page │ 9 of 24
+    4) Spend Visibility
+
+        a) Spend Upload
+        b) Spend Classification/ Categorization
+
+    5) Reporting/Analysis
+
+        a)   General Reporting
+        b)   Supplier Diversity Reporting
+        c)   Contracts Reporting
+        d)   Sourcing Reporting
+
+
+E) Questionnaire:
+
+    Questionnaire Insight [delete italics and replace with your information]
+    Deliver the most comprehensive list of questions possible for Procurement and key decision makers to
+    adeptly understand the suppliers, their approach, and service deliveries in a side-by-side model which
+    promotes specificity, organization, and decision making in the RFP bid analysis process.
+
+    Questionnaire sample:
+
+
+ Company                    1. Please describe your organization and management structure,
+ Information:                  particularly with respect to your [service/product]. Please include
+                               primary locations and key contacts who will be supporting
+                               [Company].
+                            2. Are there any changes or modifications to the current business
+                               model and offering which would alter delivery of [services/product]
+                               to [Company]?
+                            3. Please provide your Dun & Bradstreet number:
+                            4. How does your company provide an operational competitive
+                               advantage over your competitors?
+                            5. Describe any significant relationships your company can offer
+                               regionally with reference to the scope of this RFP.
+                            6. Please outline any innovative strategies your company has
+                               implemented in the past three (3) years and what innovations are
+                               in pipeline for the coming three (3) years.
+                            7. Is your company currently or expecting to be involved in any
+                               mergers or acquisitions which will have any impact
+                               [service/product] offering?
+                            8. Is your company categorized as a small or diverse business?
+                            9. How does your company weigh the satisfaction of its employees to
+                               operational results and failures? Please provide detailed examples.
+
+ REQUIREMENTS:
+
+ For the below requirements, provide a response of 1-6 according to the values below. Please insert
+ relevant comments as appropriate to substantiate or clarify your response.
+
+
+
+                                                                                                Page │ 10 of 24
+1 = Available as part of standard solution
+2 = Available with configuration
+3 = Available with code change (customization required/allowed)
+4 = Available through a technology partner (if selected please name the partner in your response)
+5 = Not currently available, will be a roadmap item (provide details i.e. anticipated release date)
+6 = Not available
+Supplier Portal,          1. The solution must give [Company] the ability to send a supplier an
+Supplier                      invitation to register.
+Management, and           2. Suppliers must have the ability to update their profile information
+PO Automation                 in the system.
+                          3. The solution must have a mechanism that will prevent duplicate
+                              suppliers from registering.
+                          4. The solution must provide the capability to administer category
+                              specific registration surveys to suppliers based on expressed
+                              business interests or other parameters.
+                          5. The solution must assign a unique ID to every supplier that
+                              registers.
+                          6. The solution must allow suppliers to be linked or grouped together
+                              (e.g. Parent Company/Subsidiary).
+                          7. The system must be capable of ingesting supplier records from
+                              external sources.
+                          8. 8. The solution must give [Company] end users the ability to pull
+                              supplier information from the supplier master database for use
+                              throughout the system, including, but not limited to, sourcing
+                              projects, contract records, etc.
+                          9. The solution must allow suppliers to upload documents into the
+                              portal.
+                          10. The solution must allow two-way interactions between a supplier
+                              and [Company].
+                          11. The solution must give [Company] the ability to create customized
+                              forms that can be filled out by suppliers.
+                          12. The solution must give [Company] the ability to create electronic
+                              scorecards.
+                          13. The solution must give [Company] the ability to capture site
+                              assessments.
+                          14. The solution must give [Company] the ability to capture risk
+                              assessments.
+                          15. The solution must give [Company] the ability to group various
+                              third-party management activities.
+                          16. The solution must have the ability to assign third party
+                              management tasks.
+                          17. The solution must allow [Company] to auto-generate a purchase
+                              order (PO) from contract terms.
+                          18. The solution must allow suppliers to submit/manage invoices
+                              through the supplier portal.
+                          19. The solution must provide a mechanism so that invoices can be
+                              approved in the system.
+
+
+                                                                                           Page │ 11 of 24
+                     20. The solution must give suppliers the ability to flip a PO into an
+                         invoice.
+Strategic Sourcing   1. The successful solution must provide visibility into organizational
+                         spend as defined in the Spend Visibility & Analysis requirements.
+                     2. The solution provides access to historical sourcing events for the
+                         reuse of work product? Please provide details.
+                     3. The solution is capable of allowing users to automatically add
+                         suppliers from the supplier portal, providing them with the ability
+                         to create a supplier list for the sourcing event? Please provide
+                         details.
+                     4. Users are able to create RFx sections, sub sections, and questions
+                         without the use of templates, libraries, or a central Sourcing
+                         Administrator.
+                     5. The solution provides templates and libraries that allow users to
+                         create RFx sections, sub sections, and questions.
+                     6. Creation of new templates is controlled at the "super user" level
+                         (e.g., Administrators and Sourcing Administrators).
+                     7. The solution provides automated method(s) to upload the RFx
+                         content from a spreadsheet or other document template.
+                     8. The solution has robust search functionality allowing users to
+                         search the database for previous and/or existing sourcing projects
+                         (e.g., search by project title, participant, timeframe, etc.).
+                     9. The solution allows prerequisites to be built in the RFx preventing
+                         bidders from viewing RFx content until the prerequisites are
+                         satisfied (e.g., acceptance of a non-disclosure agreement, general
+                         terms).
+                     10. The solution allows definition of specific answer formats (e.g., text,
+                         numeric, specific list of choices, attachments, etc.).
+                     11. The solution allows definition of specific answer character length
+                         (e.g. one line vs multi line answers).
+                     12. The solution allows definition of specific answer character length
+                         (e.g. one line vs multi line answers).
+                     13. The solution allows definition of field input validation rules (e.g.
+                         text, currency, numerical) to ensure that the response is properly
+                         formatted or is within a valid range.
+                     14. The solution allows attachment of electronic files and URL links to
+                         specific questions within the event for reference purposes (and
+                         limited to line items designated by the user).
+                     15. The solution gives a [Company] user to preview the RFx as a bidder
+                         would see it before sending it out to bidders (without requiring a
+                         test RFx to be published or released).
+                     16. The solution has export capabilities that will enable offline review
+                         of the RFx document.
+                     17. The solution enables restriction of access (read, write, etc.) by user
+                         level.
+                     18. The solution allows users to identify potential bidders based on
+                         criteria specific to the event.
+
+
+
+                                                                                     Page │ 12 of 24
+19. The solution must support the release process This includes the
+    following: submission rules & timing, communication with bidders
+    (pre and post release), prebid meetings, demonstrations, etc.
+20. The solution must be capable of allowing a user to modify an RFx
+    before, during and after a release (e.g. timing, content, bidders,
+    team member, etc.). (This must be accomplished without having to
+    submit a separate or new event and should not result in data loss
+    outside of the areas being revised.)
+21. The solution must support collaboration (internal & external to
+    [Company]), response management, and evaluation of the bidders
+    being considered. Internal collaboration includes core RFx teams,
+    RFx stakeholders, and [Company] leadership. External
+    collaboration includes potential bidders, bidders, and other
+    external parties (e.g. third party consultants, existing partners).
+22. The solution must support management all supplier interaction
+    including: prebid meetings, bidder presentations, site visits, etc.
+23. The solution must enable users to easily and effectively review,
+    compare, and evaluate all bidder responses.
+24. The solution must be capable of easily exporting all data related to
+    RFx responses (response, scores, comments, evaluator’s comments)
+    for review outside of solution (e.g. in spreadsheet or text document
+    formats).
+25. The solution must be capable of generating RFx specific scorecards
+    based on the bidder responses.
+26. The solution must be able to create a comparison view of all bidder
+    responses.
+27. The solution must have automated scoring/grading functionality.
+28. The solution must be capable of creating scoring weighting by
+    section, subsection, and/or question.
+29. The solution must allow scoring criteria to be defined for sections,
+    subsections and questions.
+30. The solution must support bidding components that increase or
+    decrease in the same event.
+31. The solution must allow user defined competitive visibility (what
+    the bidder sees) for each auction.
+32. The solution must support use of established/standard templates
+    and libraries as well as user created templates (including the use of
+    previous events as a template).
+33. The solution must enable [Company] users to establish a minimum
+    allowable bid change/decrease by event.
+34. The solution must contain bid rules that prevent bidders from
+    decreasing their bid by an unreasonable amount (i.e. by mistake).
+35. The solution must support bid amounts up to four decimal places.
+36. The solution must support user developed lots for creating
+    severable award components.
+37. The solution must have the ability to (automatically) migrate
+    bidder content from a prior RFx and incorporate it into a current
+    auction.
+
+
+                                                               Page │ 13 of 24
+              38. The solution must support multi-currency, multi-language and time
+                  zone conversions.
+              39. The solution must be capable of supporting several concurrent
+                  [Company] participants logged on to an event.
+              40. The solution must prevent bidders from seeing competitor's bids.
+              41. The solution must be capable of allowing an auction administrator
+                  to stop the auction before the predetermined time.
+              42. The solution must be capable of allowing an auction administrator
+                  to create manual time extensions during an event.
+              43. The solution must be capable of allowing an auction administrator
+                  to pause an event.
+              44. The solution must allow a bidder to attach a document (s) to the
+                  event.
+              45. The solution must include customizable workflows for process
+                  approval/management (including documentation review). This
+                  solution must have standard workflows as well as event specific
+                  workflow capabilities. Users must have the ability to override
+                  workflows as necessary.
+              46. The solution must have the ability to archive all required sourcing
+                  event documentation for compliance with [Company] policies and
+                  procedures as well as for knowledge base development and re-use
+                  of historical work product.
+              47. The solution must give [Company] the ability to restrict 'edit'
+                  privileges once a sourcing project is completed. For example,
+                  [Company] must be able to vary who is allowed to edit and delete
+                  sourcing projects. The ability to delete finalized sourcing records
+                  should be locked down to users with Administrative rights only.
+
+Contracting   1. [Company] must have the ability to upload multiple contract
+                 templates into the system which end users would be able to
+                 download (end users should only be able to download the most
+                 recent version of the template that has been approved by legal).
+                 The ability to upload contract templates should be restricted to
+                 users with certain access rights.
+              2. [Company] must have the ability to build out an alternate clause
+                 library that would give end users the ability to insert alternate
+                 clauses into either: their downloaded [Company] contract
+                 templates or third party contract templates.
+              3. The solution must provide a mechanism for handling third party
+                 contract templates.
+              4. The solution must give [Company] the ability to create separate
+                 processes (lifecycles) for different types of contracts (i.e.,
+                 Procurement vs Non-Disclosure Agreement).
+              5. The solution must give end users the ability to compare redlined
+                 versions of contracts including the ability to compare any two
+                 versions regardless of whether the versions are sequential (i.e.,
+                 Version 1 to Version 10 or Version 4 to Version 6).
+
+
+
+                                                                           Page │ 14 of 24
+6. Upon completion of a contract, [Company] requires all versions
+    except for the final version to be purged from the system.
+7. The solution must give [Company] the ability to create dynamic
+    workflows that would allow end users, at their discretion, to send
+    contracts for review/escalation to other internal departments (e.g.,
+    compliance, legal, information assurance).
+8. [Company] structures most of its contracts so that there is a
+    Master Agreement (parent) and a Statement of Work/Sub-
+    Agreement (child). When dealing with contract amendments,
+    [Company] requires a specific way to handle amendments that
+    would not require the creation of a child contract record. We must
+    have the ability to edit metadata attributes and store an amended
+    contract document within the original contract record. [Company]
+    does not want to be required to create a child contract record for
+    each contract amendment. Is your system capable of supporting
+    this requirement?
+9. [Company] requires the ability for multiple end users to amend the
+    same contract record at the same time (i.e., User A is working on
+    Amendment 4 and User B is working on Amendment 5).
+10. [Company] would like to have the ability to create a Contract
+    Summary document that would capture and summarize the details
+    of the contract record. This Contract Summary would provide an
+    executive summary of the contract, highlight risks, and detail the
+    terms of the contract. [Company] must be able to extract this
+    contract summary into a visually appealing Word or PDF
+    document. Is your system capable of supporting this requirement?
+11. The solution must offer a Microsoft Word plug-in that would allow
+    end users to draft and edit their contract documents from within
+    Microsoft Word. All Microsoft Word functionality, including by not
+    limited to formatting, review, and view options must be available to
+    end users and not restricted by your solution. Is your system
+    capable of supporting this requirement?
+12. Can information contained in metadata fields within the system be
+    auto-populated into a [Company] contract template and vice versa
+    (“smart” data fields)?
+13. End users must have the ability to drag and drop clauses from an
+    alternate clause library into their Word document (if using a
+    [Company] template or third party contract template).
+14. End users must be able to "check in" (upload) a contract to the
+    system from within Microsoft Word without requiring a manually
+    upload from their desktop into the system.
+15. The solution must give [Company] the ability to control which end
+    users and/or user groups have the ability to create certain types of
+    contracts (i.e., Procurement vs Non-Disclosure Agreement).
+16. [Company] must have the ability to copy metadata fields from a
+    parent contract record to a child contract record upon creation of
+    the child contract record.
+
+
+
+
+                                                              Page │ 15 of 24
+17. If metadata fields can be copied from a parent contract record to a
+    child contract record, [Company] wants to specify which fields can
+    be copied (in lieu of all metadata fields being copied). If metadata
+    fields are copied from a parent contract record to a child contract
+    record, can the end user vary the metadata field for the child
+    contract if it varies from the parent contract record?
+18. The solution must allow users to conduct in-document text
+    searching. If your solution has this functionality, please describe
+    how this works. Does the end user have the download the contract
+    to search within the contract? For example, if the end user searches
+    "XYZ" will the solution find every contract where "XYZ" appears in
+    the document?
+19. The solution must allow users to conduct BOOLEAN searches (the
+    ability to perform searches combining keywords with AND, NOT,
+    and OR operators).
+20. The solution must give end users the ability to perform searches by
+    typing text into a search bar as opposed to being required to specify
+    exactly what field to search (e.g., supplier name, contract name).
+21. The solution must offer smarter/faster search capabilities that
+    would predict what an end user is typing, show results as a user is
+    typing, and return results quickly.
+22. The solution must offer smarter/faster search capabilities that
+    would predict what an end user is typing, show results as a user is
+    typing, and return results quickly.
+23. [Company] requires there to be a direct linkage to a contract
+    record from a sourcing event.
+24. [Company] must have the ability to create a contract record from a
+    sourcing event upon award. If your solution offers this capability,
+    there must be controls that [Company] can put in place that would
+    only allow a contract user to create a contract from a sourcing
+    project.
+25. [Company] must have the ability to successfully keep track of
+    supplier name changes (formerly known as names and/or supplier
+    acquisitions) and locate contracts that are archived under a
+    previous entity name.
+26. The solution must automatically update contract term and
+    contract status metadata fields (i.e., Calculate a new expiration
+    date when a contract auto renews, update the contract status from
+    Active to Expired upon contract expiration).
+27. [Company] must have the ability customize various
+    processes/workflows for different user groups as well as create
+    custom approval workflows.
+28. The solution must give [Company] the ability to restrict 'edit'
+    privileges once a contract record is completed. For example,
+    [Company] must be able to vary who is allowed to edit and delete
+    contract records. The ability to delete finalized contract records
+    should be locked down to users with Administrative rights only.
+
+
+
+
+                                                               Page │ 16 of 24
+                       29. The solution must provide reporting and expiration notification
+                           features to support contract record maintenance (i.e., contract
+                           expiration 60 days out or contract renewal 30 days out).
+                       30. [Company] must have the ability to customize any notifications
+                           that are generated from the system.
+
+Spend Visibility and 1. [Company] must be able to upload files into the solution from
+Analysis                external sources.
+                       2.  The solution must be able to support multiple currencies.
+                       3.  The database structure must support a preview mode.
+                       4.  The solution must be able to categorize spend data.
+                       5.  The solution must allow suppliers to be tagged (e.g., diverse, women
+                           owned, etc.).
+                       6. The solution must have a process to enrich data (e.g., categorize
+                           spend, provide global parentage information).
+                       7. The solution must allow [Company] to create reports that contain
+                           comprehensive views of suppliers (e.g., spend, contracts, sourcing,
+                           etc.).
+                       8. [Company] end users must have the ability to create and save
+                           reports in the solution.
+                       9. The solution must be able to produce comprehensive reports that
+                           will allow [Company] users to pull data from different modules (e.g.,
+                           sourcing, contracting, etc.) into one single view/report.
+                       10. The solution must allow [Company] to pull data on cycle times for
+                           each module (i.e., Pull reports on a contract lifecycle detailing
+                           exactly how long a contract was in each phase of the life cycle).
+                       11. The solution must give [Company] the ability to pull reports on the
+                           number of contracts that are 'In Process' by User as well as the
+                           number of contracts 'Completed' by each user.
+                       12. The solution must give [Company] the ability to pull reports on the
+                           number of sourcing projects that are 'In Process' by User as well as
+                           the number of sourcing projects 'Completed' by each user.
+                       13. The solution must give [Company] the ability to create reports
+                           using supplier registration information.
+                       14. The solution must be capable of allowing administrators or
+                           reporting "super users" to create reports that can be pushed and/or
+                           made available to other end users.
+
+Integration and        1. The solution must have the ability to interface with other platforms
+graphical user            outside your system.
+interface              2. The solution must bi-directionally interface with Salesforce.
+                       3. The solution must integrate with our procurement helpdesk (a
+                          Salesforce tool).
+                       4. The solution must allow information collected during
+                          contracting/sourcing process to flow to and from Salesforce.
+                       5. The solution must allow information collected during supplier set
+                          up process to flow to and from Salesforce.
+
+
+                                                                                      Page │ 17 of 24
+                          6. The solution must bi-directionally interface with DocuSign.
+                          7. Documents must be passed between the solution and DocuSign
+                              automatically without users having to manually download them
+                              from your system and upload them into DocuSign?
+                          8. Fully executed documents from DocuSign can be passed to the
+                              solution automatically without users having to manually extract
+                              them from DocuSign and upload them into your solution for
+                              archival?
+                          9. The Supplier Portal must integrate with DocuSign allowing for
+                              [Company] to obtain signatures and/or internal approvals on
+                              supplier due diligence documentation. Documents should easily
+                              transfer between the Supplier Portal and DocuSign without
+                              needing to be manually downloaded/uploaded as well as
+                              information contained in metadata fields.
+                          10. The solution must provide [Company] users with the ability to view
+                              the ENTIRE DocuSign Envelope Summary from within the solution
+                              including the current Envelope Status (In Process, Complete, etc.)
+                              and the complete routing order (who has signed/viewed the
+                              envelope, who the envelope is currently sitting with, and who still
+                              needs to sign).
+                          11. The solution must bi-directionally interface with Workday;
+                              particularly the HR module.
+                          12. The solution must integrate with [ERP].
+                          13. Metadata fields from the solution must automatically flow
+                              automatically to and from [ERP].
+
+
+F) Pricing/Rate Sheet:
+
+   Pricing/Rate Sheet Insight [delete italics and replace with your information]
+   Set a specific rate sheet can be beneficial for suppliers to provide bids. This is also advantageous to
+   the key decision makers at it provides a side-by-side costing analysis of services. An approach to
+   consider: eliminate a rate sheet and allow for suppliers to provide a cost structure which they believe
+   will be a best fit for the organization. In this approach, ensure normalization of bids is possible.
+
+   Pricing/Rate Sheet Sample
+
+
+   S2P%20Solution%20
+       Pricing.xlsx
+
+
+G) Timeline
+
+   Timeline Insight [delete italics and replace with your information]
+
+   Create an in-depth RFP timeline with coordination from all stakeholders (BU, IT, Legal, etc.). This will
+   provide significant advantages in maintaining timeliness, strong engagement and project
+   management.
+
+
+
+                                                                                          Page │ 18 of 24
+   Timeline Sample
+   Please review the RFP timeline (below) and contract [RFP owner] with any questions or concerns.
+
+        Action                                             Date                      Accountability
+        NDA signed and returned
+        RFP Document Issued
+        Intention to Participate
+        RFP clarification Deadline for Vendor
+        questions Q&A’s received
+        Q&A Calls
+        RFP Submission Date
+        Supplier Presentations – On/Off Site
+        Down Selection of Shortlist Vendors
+        Discussions with Shortlist Vendors
+        (potential requirement for site visits)
+        Contract and Pricing Negotiation
+        Award
+        Planning
+        Kick-Off Implementation
+        Go-Live
+
+H) Terms and Conditions
+
+       Work with your Legal department on a comprehensive list of terms and conditions for RFPs to
+       ensure all liabilities are covered. [delete italics and replace with your information]
+
+   1) This RFP is for discussion and evaluation purposes of the contemplated transaction only.
+      Submission of a response to this RFP is expressly conditioned upon Partners’ agreement to the
+      terms set forth herein. For clarity, this RFP or any response from Partner to this RFP shall not
+      constitute a binding agreement until Partner and Company have duly executed one or more
+      definitive agreements. Company and the Partner shall be bound by the terms of the mutual
+      confidentiality and non-disclosure agreement entered between the parties.
+
+   2) Company reserves the right to accept other than the apparent lowest priced proposal and to
+      accept or reject any proposal in whole or in part or reject all proposals with or without notice or
+      reasons. Company may amend, supplement, or withdraw the RFP at any time.
+
+   3) All answers to this proposal should be numbered as per the corresponding number of each
+      question and should follow the same format as this RFP.
+
+   4) Quantities stated in this RFP are for informational purposes only and shall not be binding on
+      Company. Such information supplied by Company is for the convenience of the respondents only
+      and Company makes no warranty regarding the accuracy of any data or information provided.
+
+   5) Any costs incurred by a respondent to this RFP in connection with the preparation or submission
+      of a response or any other expenses attendant thereto are the sole responsibility of that
+
+
+                                                                                          Page │ 19 of 24
+    respondent and neither Company nor any of its business units, affiliates or subsidiaries has any
+    obligation, under any circumstances, to reimburse or otherwise compensate the respondent for
+    expenses so incurred.
+
+6) Respondent shall not issue or cause the issuance of any press release or other publication of the
+   existence of this RFP without the prior consent of Company.
+
+7) Respondent shall not publish photographs or articles, make speeches about, or publicize the
+   existence or scope of any agreement resulting from this RFP without first obtaining prior written
+   consent from Company.
+
+8) The preparation of a response to this RFP shall serve as evidence of the respondent’s acceptance
+   of the terms contained herein.
+
+9) If a respondent should decline to offer a proposal, all materials and information received
+   pursuant to this RFP shall be promptly returned to Company and any copies made thereof shall
+   be immediately destroyed.
+
+10) This RFP, all information contained herein, and all Company specifications and samples provided
+    herewith shall be considered Company confidential information and subject to the mutual
+    confidential disclosure agreement by and between respondent and Company.
+
+11) All suppliers receiving such documents shall use them solely for responding to this RFP.
+
+12) The information contained or referred to in the RFP is not to be used, disclosed or released for
+    any other use or purpose and should be returned to Company or destroyed when requested.
+
+
+
+
+                                                                                      Page │ 20 of 24
+V.      Supporting RFP Materials
+     A) Supplier List
+
+        Enter suppliers in the tracker (below). Organizing suppliers and their profiles will assist with
+        supplier communications as well as on-going negotiations throughout the RFP.
+                          Supplier   Contact                     NDA      Current     Current       BUs
+          ID   Supplier                        Contact Email
+                          Contact     Phone                     Signed    Supplier     Spend     Supported
+         1
+         2
+         3
+
+
+     B) Communications
+
+        1) RFP Participation & Communication
+
+        Build a strong partnership with all applicable suppliers to assist in providing significant value
+        and engagement during the RFP process. Each supplier should feel as though they’re a partner
+        of your organization. Striking the tone of partnership at the outset of the engagement can
+        create valuable tone and structure through the sourcing event.
+
+        Subject:
+
+        You’ve Been Selected to Participate in an Upcoming RFP from [Insert Company name]
+
+        Body:
+
+        Dear Supplier,
+
+        [Company] has selected your company to participate in [title of RFP] RFP as we believe you’re
+        an industry leader in the [specific service/product pursuant to RFP] and believe your company
+        has the potential of being a strategic partner. Please review the RFP documentation attached
+        as this will outline scope, timelines, questionnaires, and RFP terms and conditions. Please
+        direct all questions to [name, phone, email].
+
+        Thank you for your consideration and participation!
+
+        Sender
+
+        2) RFP Awarded Supplier
+
+        When sending the RFP Award email, ensure you’re capturing both the stakeholder’s
+        viewpoints as well as ensuring the status of contractual and pricing engagements. It should be
+        clear to the supplier they should continue to engage in negotiations in the same manner as
+        before receiving the award.
+
+        Subject:
+
+        Intent to Award [enter RFP]
+
+        Body:
+
+
+
+                                                                                          Page │ 21 of 24
+   Dear Supplier,
+
+   It is our pleasure to inform you, after careful consideration and analysis of your RFP bid,
+   [Company] has selected [Supplier] for the award of [enter RFP title]. We want to thank you for
+   all the time and dedication you have put into the proposal and sourcing process and we
+   sincerely look forward to this partnership.
+
+   This award does not represent an executed agreement or purchase order. It is the assumption,
+   based on the communications of this RFP cycle, [Supplier] will continue to negotiate the [enter
+   agreement name] and pricing in good faith.
+
+   Sincerely,
+
+   Sender
+
+   3) RFP Non-Awarded Supplier(s)
+
+   The RFP bid-rejection email should be concise but conscious the supplier has invested time
+   and money into the RFP. Provide a straightforward message with an opening to future
+   business opportunities.
+
+   Subject:
+
+   [RFP title]
+
+   Body:
+
+   Dear Supplier,
+
+   After careful evaluation and analysis of your RFP submission, we regret to inform you
+   [Company] will be moving forward with another supplier. We’re thankful for your
+   participation and look forward to your inclusion and partnership regarding future business
+   opportunities with [Company]. If you have any questions or concerns, please contact [RFP
+   manager].
+
+   Thank You Again,
+
+   Sender
+
+C) RFP Assessment
+
+   Partner with all key decision makers to determine scoring criteria and associated weights.
+   Aggregate scoring from all stakeholders and present the findings. This will provide talking
+   points, maintain engagement and generate an award output for the supplier who scores the
+   highest which will greatly assist in the decision-making process. The worksheet (below) is
+   preconfigured for an assessment.
+
+
+
+      Assessment
+     Worksheet.xlsx
+
+
+
+
+                                                                                  Page │ 22 of 24
+VI.      RFP Close-Out
+      A) Stakeholder Review
+
+         Engage with all stakeholders to ensure approvals are met with all objectives and requirements
+         of the RFP.
+
+         1) Supplier relationship management
+         2) SLA/KPI/Metric governance reviews
+         3) Future RFP cycle
+
+      B) Legal Review
+
+         Consult with your Legal team to ensure all agreements are in place and no other action is
+         needed.
+
+         1) Full Legal review and approval
+         2) Note and identify any necessary future amendments required
+            a) Note coming potential laws which may impact the existing agreement
+         3) Communication to stakeholders of potential Legal risks to consider moving forward
+            a) Providing stakeholders with a schedule of items to consider and when provides an
+                excellent opportunity to continue to partner with the stakeholder and set-up the
+                organization for success
+
+      C) IT Security Review
+
+         Partner with IT Security on closing-out all action items. Ensure Legal and IT agree on and
+         document applicable amendments.
+
+         1) All pertinent IT riders have been sent to Legal for attachment to agreement
+         2) All IT entities have reviewed and approved supplier capabilities
+
+      D) Post RFP Team Reviews and To-Do’s
+
+         Review and document all RFP actions, findings, and outcomes. This will provide significant
+         value not only to the Procurement organization but to all applicable BUs as well.
+
+         1) Lessons learned
+         2) Negotiating techniques and results
+            a) This will not only benefit the next specific RFP but also insight into other sourcing
+               activities
+         3) Storage of all documents for reference
+
+
+
+
+                                                                                         Page │ 23 of 24
+VII.   About Blackline Group
+       Blackline Group is a specialty services firm which focuses solely on Procurement.
+
+       We offer steady-state back-office services which blend spend analytics, sourcing automation,
+       and seasoned Procurement resources to lift your team’s performance.
+
+       Easy to consume, our services are delivered side by side with your team as a subscription-
+
+       based model with sustained momentum — no more project fatigue.
+
+
+
+       To discuss your needs, please contact Blackline for a confidential discussion:
+
+
+
+                              Andy Brown
+                              Principal
+
+                              Blackline Group, Inc.
+                              abrown@blacklinegroup.com
+                              (206) 861-1455 mobile
+                              (206) 866-9810 Office
+
+
+
+
+                              David Auffert
+                              Sr. Manager
+
+                              Blackline Group, Inc.
+                              dauffert@blacklinegroup.com
+                              (720) 431-1665 mobile
+                              (206) 866-9810 Office
+
+
+
+
+                                                                                        Page │ 24 of 24
+
