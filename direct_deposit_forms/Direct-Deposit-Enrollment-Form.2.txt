@@ -1,0 +1,68 @@
+     Employee Direct Deposit Enrollment Form
+       Payroll Manager—Please complete this section and enter data into your Payroll system for employee enrollment.
+                                                     (Please print.)
+
+       Company Code: _______ Company Name: Franklin Co. Fiscal Court                Date: _________________________
+
+
+       Payroll Mgr. Name: _____________________________ Payroll Mgr. Signature: _______________________
+
+
+To enroll in Full Service Direct Deposit, simply fill out this form and give it to your payroll manager. Attach a voided check for
+each checking account – not a deposit slip. If depositing to a savings account, ask your bank to give you the Routing/Transit
+Number for your account. It isn’t always the same as the number on a savings deposit slip. This will help ensure that you are
+paid correctly.
+
+Below is a sample check MICR line, detailing where the information necessary to complete this form can be found.
+
+                  Memo
+
+                   u:012345678u: 123456789" 0101
+
+
+          Routing/Transit #                                                                     Check #
+      (A 9-digit number always                Checking Account #                  (this number matches the number in
+     between these two marks)                                                     the upper right corner of the check—
+                                                                                         not needed for sign-up)
+
+
+
+                           Important! Please read and sign before completing and submitting.
+   I hereby authorize Employer, either directly or through its payroll service provider, to deposit any amounts owed
+me, by initiating credit entries to my account at the financial institution (hereinafter “Bank”) indicated on this form.
+Further, I authorize Bank to accept and to credit any credit entries indicated by Employer, either directly or through
+its payroll service provider, to my account. In the event that Employer deposits funds erroneously into my account,
+I authorize Employer, either directly or through its payroll service provider, to debit my account for an amount not to
+exceed the original amount of the erroneous credit.
+   This authorization is to remain in full force and effect until Employer and Bank have received written notice from me
+of its termination in such time and in such manner as to afford Employer and Bank reasonable opportunity to act on it.
+
+Employee Name: ________________________________________ Social Security #: __________________________
+
+Employee Signature: ___________________________________________________ Date: ______________________
+
+                                                       Account Information
+The last item must be for the remaining amount owed to you. To distribute to more accounts, please complete another form.
+Make sure to indicate what kind of account, along with amount to be deposited, if less than your total net
+paycheck.
+
+
+1.   Bank Name/City/State: _____________________________________________________________________________
+     Routing/Transit #: _______________________________ Account Number: __________________________________
+     ___Checking         ___Savings      ___ Other       ___ I wish to deposit: $ ______________ or Entire Net Amount ___
+
+
+
+2.   Bank Name/City/State: _____________________________________________________________________________
+
+     Routing/Transit #: _______________________________ Account Number: __________________________________
+     ___Checking         ___Savings      ___ Other      ___ I wish to deposit: $ ______________ or Entire Net Amount___
+
+
+
+3.   Bank Name/City/State: _____________________________________________________________________________
+
+     Routing/Transit #: _______________________________ Account Number: __________________________________
+
+     ___Checking         ___Savings      ___ Other       ___ I wish to deposit: $ ______________ or Entire Net Amount ___
+
