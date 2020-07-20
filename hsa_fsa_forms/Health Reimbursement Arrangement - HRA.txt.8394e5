@@ -1,0 +1,371 @@
+Health Reimbursement Arrangement (HRA)                                Wednesday, April 1, 2020
+
+
+Health Reimbursement Arrangement (HRA)
+Slide 1 of 20 - Health Reimbursement Arrangement (HRA) Introduction
+
+
+
+
+Slide notes
+Welcome to the Health Reimbursement Arrangement (HRA) course.
+
+
+
+
+Page 1 of 20
+Health Reimbursement Arrangement (HRA)                                                Wednesday, April 1, 2020
+
+Slide 2 of 20 - Disclaimer
+
+
+
+
+Slide notes
+While all information in this document is believed to be correct at the time of writing, this Computer Based
+Training (CBT) is for educational purposes only and does not constitute official Centers for Medicare and
+Medicaid Services (CMS) instructions for the MMSEA Section 111 implementation. All affected entities are
+responsible for following the instructions found at the following link: GHP Web Page Link.
+
+
+
+
+Page 2 of 20
+Health Reimbursement Arrangement (HRA)                                              Wednesday, April 1, 2020
+
+Slide 3 of 20 - Course Overview
+
+
+
+
+Slide notes
+This learning module describes what an HRA is versus a Flexible Spending Account (FSA) or Health Savings
+Account (HSA), and HRA reporting requirements and examples, including timeframes, new enrollees,
+Termination Dates, annual benefit values, and Coverage Type.
+
+
+
+
+Page 3 of 20
+Health Reimbursement Arrangement (HRA)                                              Wednesday, April 1, 2020
+
+Slide 4 of 20 - Health Reimbursement Arrangement (HRA)
+
+
+
+
+Slide notes
+Health reimbursement arrangements, also known as “health reimbursement accounts” or “personal care
+accounts,” are a type of health insurance plan that reimburses employees for qualified medical expenses.
+HRAs consist of funds set aside by employers to reimburse employees for qualified medical expenses, just as an
+insurance plan will reimburse covered individuals for the cost of services incurred.
+HRAs are considered to be Group Health Plans (GHPs) and thus HRA coverage is subject to Section 111 Medicare
+Secondary Payer (MSP) Reporting.
+
+
+
+
+Page 4 of 20
+Health Reimbursement Arrangement (HRA)                                                  Wednesday, April 1, 2020
+
+Slide 5 of 20 - Flexible Spending Account (FSA)
+
+
+
+
+Slide notes
+Flexible Spending Accounts or FSAs, also called cafeteria plans or 125 plans, should not be confused with HRAs.
+FSAs are employer-established benefit plans that reimburse employees for specified medical expenses as they
+are incurred.
+The employee contributes funds to the account through a salary reduction agreement and is able to withdraw
+the funds set aside to pay for medical bills. Any funds contributed to the plan that remain unspent at the end of
+the year are forfeited.
+An FSA is not considered to be a GHP thus it is not to be reported under Section 111.
+
+
+
+
+Page 5 of 20
+Health Reimbursement Arrangement (HRA)                                              Wednesday, April 1, 2020
+
+Slide 6 of 20 - Health Savings Account (HSA)
+
+
+
+
+Slide notes
+Health Savings Accounts (HSAs), also known as Medical Savings Accounts or MSAs should also not be confused
+with HRAs.
+HSAs or MSAs are savings accounts used to pay for current and future medical expenses. HSAs are used by
+individuals that are covered by a high deductible health plan.
+These accounts can accumulate tax-deferred interest similar to individual retirement accounts. Funds in the HSA
+are fully vested, they are not subject to forfeiture.
+HSAs are not reportable under Section 111 as long as Medicare beneficiaries do not make a current year
+contribution to an HSA or did not make a contribution during the time he/she was a Medicare beneficiary.
+
+
+
+
+Page 6 of 20
+Health Reimbursement Arrangement (HRA)                                                 Wednesday, April 1, 2020
+
+Slide 7 of 20 - HRA Reporting Requirements
+
+
+
+
+Slide notes
+HRA coverage may exist in addition to a standard GHP. HRA coverage must be reported in addition to any other
+applicable GHP coverage. A Responsible Reporting Entity (RRE) may need to submit two MSP Input File Detail
+Records for an individual.
+A RRE may need to submit two MSP Input File Detail Records for an individual.
+Two records are required when the RRE provides both standard GHP coverage and an HRA.
+Section 111 RREs who receive RX 07 error codes when submitting drug records for beneficiaries who have not
+yet enrolled in a Medicare Part D plan can resubmit records that received this error on your first file submission
+of the next calendar year or monitor the individual’s Medicare Part D enrollment status by logging in to the
+Section 111 COBSW portal and using the Beneficiary Lookup Tool.
+Please make note that there are Special Enrollment Periods (SEPs) that can make a Medicare beneficiary qualify
+for Part D. It is the RRE's responsibility to ensure correct reporting.
+
+
+
+
+Page 7 of 20
+Health Reimbursement Arrangement (HRA)                                              Wednesday, April 1, 2020
+
+Slide 8 of 20 - HRA Reporting Requirements Cont.
+
+
+
+
+Slide notes
+RREs are required to include HRA coverage in Section 111 reporting. The Effective Date submitted on the HRA
+MSP Input File Detail Record should be the HRA’s plan anniversary or renewal date.
+Retroactive reporting of HRA coverage is not required.
+All HRAs, including ICHRAs, qualified small employer health reimbursement arrangements (QSEHRAs), and
+excepted benefit HRAs, are subject to the applicable MSP provisions regardless of whether or not they have an
+end-of-year carry-over or roll-over feature (Section 727 ).
+
+
+
+
+Page 8 of 20
+Health Reimbursement Arrangement (HRA)                                                 Wednesday, April 1, 2020
+
+Slide 9 of 20 - HRA Reporting Requirements Cont. 2
+
+
+
+
+Slide notes
+Here are two examples. If an HRA Plan year begins on January 1, 2011, the Effective Date submitted should be
+January 1, 2011. This coverage should be reported in the RRE’s regular quarterly MSP Input File due in the first
+quarter of 2011.
+This coverage should be reported in the RRE’s regular quarterly MSP Input File due in the first quarter of 2011.
+If the HRA’s Plan year begins July 1, 2011, the Effective Date submitted should be July 1, 2011 and the coverage
+should be reported in the RRE’s regular quarterly MSP Input File due in the third quarter of 2011.
+As mentioned on the previous slide, retroactive reporting is not required.
+
+
+
+
+Page 9 of 20
+Health Reimbursement Arrangement (HRA)                                               Wednesday, April 1, 2020
+
+Slide 10 of 20 - HRA Reporting Requirements
+
+
+
+
+Slide notes
+This final example involves an RRE that is reporting HRA coverage where the Plan year starts November 1, 2010.
+If the RRE’s regular reporting month is October, they cannot report the record in the October report because the
+Effective Date of November 1, 2010 would be a future date. Future Effective Dates are not permitted.
+The RRE should report the HRA coverage record with the MSP Input File they submit in their first Quarter of
+2011.
+If the RRE’s regular 4th Quarter reporting month is either November or December, the HRA coverage should be
+reported with their 4th Quarter report.
+
+
+
+
+Page 10 of 20
+Health Reimbursement Arrangement (HRA)                                                Wednesday, April 1, 2020
+
+Slide 11 of 20 - HRA Reporting Requirements New Enrollees
+
+
+
+
+Slide notes
+New enrollees should be reported as soon as possible after their Effective Date.
+Recall however, CMS does not consider a record to be submitted late if the Effective Date of the HRA plan is
+within the 45-day period prior to the RRE’s assigned submission period and the record is not reported in that
+period.
+The record may be submitted in the next scheduled Benefits Coordination & Recovery Center (BCRC) assigned
+reporting period.
+
+
+
+
+Page 11 of 20
+Health Reimbursement Arrangement (HRA)                                                 Wednesday, April 1, 2020
+
+Slide 12 of 20 - HRA Reporting Requirements New Enrollees
+
+
+
+
+Slide notes
+Assume an RRE’s assigned submission period is Group 9 (3rd Month, Dates 1 - 7). The employer hires several
+new employees on February 1st.
+Since a 45-day grace period is allowed these individuals can be, but are not required to be, included in the MSP
+Input File that is submitted in the first week of March.
+If they are not included in that file, they must be submitted on the next file which is due between June 1st and
+June 7th.
+
+
+
+
+Page 12 of 20
+Health Reimbursement Arrangement (HRA)                                               Wednesday, April 1, 2020
+
+Slide 13 of 20 - HRA Reporting Requirements Termination Dates
+
+
+
+
+Slide notes
+Termination Dates are to be submitted when the covered individual loses or cancels coverage, or when the
+annual benefit value is exhausted, and no additional funds will be added to the HRA's current benefit coverage
+term.
+Notice of Termination is to be provided to the BCRC by including it in the RRE’s next regularly scheduled MSP
+Input File Submission. The RRE may also call the BCRC Call Center, at 1-855-798-2627 (TTY/TDD: 1-855-797-
+2627), with notice of the termination.
+The coverage record should remain open as the HRA will be replenished the following year. Do not send a
+Termination Date at the end of the plan year. If reportable HRA coverage continues year to year, then the record
+may be reported with an open-ended Termination Date as is done with non-HRA GHP coverage reporting. A
+Termination Date should not be reported unless the HRA coverage is not continued or not renewed in the
+subsequent year.
+
+
+
+
+Page 13 of 20
+Health Reimbursement Arrangement (HRA)                                              Wednesday, April 1, 2020
+
+Slide 14 of 20 - HRA Reporting Requirements Termination Dates
+
+
+
+
+Slide notes
+Assume we have a beneficiary who is age 66. Medicare is the secondary payer under the Working Aged
+provisions. The beneficiary enrolls in his employer’s HRA effective January 1, 2011.
+The HRA has a $5,000 plan limit which is exhausted on August 30, 2011. Even though benefits are exhausted, a
+Termination Date should not be submitted. The record should remain open.
+When the plan year starts over again on January 1, 2012, a new $5,000 is available for the beneficiary to use.
+We will assume the beneficiary exhausts this second $5,000 on April 30, 2012. Again, a Termination Date is not
+submitted as the coverage remains in effect. The beneficiary then retires from his employer on June 15, 2012.
+Since Medicare becomes the primary payer upon retirement, a Termination Date of June 15, 2012 should be
+submitted.
+
+
+
+
+Page 14 of 20
+Health Reimbursement Arrangement (HRA)                                            Wednesday, April 1, 2020
+
+Slide 15 of 20 - HRA Reporting Requirements Annual Benefit Value
+
+
+
+
+Slide notes
+HRAs with an annual benefit amount of less than $5,000 are exempt from reporting. Only HRA coverage that
+reflects an annual benefit value of $5,000 or more must be reported.
+
+
+
+
+Page 15 of 20
+Health Reimbursement Arrangement (HRA)                                                 Wednesday, April 1, 2020
+
+Slide 16 of 20 - HRA Reporting Requirements Annual Benefit Value
+
+
+
+
+Slide notes
+Due to carry-over or roll-over options in an HRA, if the value of the HRA starts at less than $5,000 but grows to
+meet or exceed $5,000, the HRA must be reported when the increase to $5,000 or more occurs.
+
+
+
+
+Page 16 of 20
+Health Reimbursement Arrangement (HRA)                                                Wednesday, April 1, 2020
+
+Slide 17 of 20 - HRA Reporting Requirements Annual Benefit Value
+
+
+
+
+Slide notes
+In this example, assume an HRA first becomes effective on January 1, 2011. The annual benefit value of the HRA
+is $4,750. Since the value of the HRA is under $5,000, it does not have to be reported.
+During 2011, none of the $4,750 is used. As of January 1, 2012, due to a roll-over option, all $4,750 from 2011
+becomes available for use in 2012. On January 1, 2012, another $4,750 is added to the HRA.
+As of January 1, 2012, the total value of the HRA is now $9,500. Since the total value of the HRA now meets or
+exceeds $5,000, it must be reported.
+
+
+
+
+Page 17 of 20
+Health Reimbursement Arrangement (HRA)                                                 Wednesday, April 1, 2020
+
+Slide 18 of 20 - HRA Reporting Requirements Coverage Type
+
+
+
+
+Slide notes
+HRA coverage is to be reported using a value of ‘R’ in Coverage Type (Field 8) in MSP Input File Detail Records. It
+is critical that the proper Coverage Type be associated with HRA plans.
+
+
+
+
+Page 18 of 20
+Health Reimbursement Arrangement (HRA)                                             Wednesday, April 1, 2020
+
+Slide 19 of 20 - Conclusion
+
+
+
+
+Slide notes
+You have completed the HRA course. Information in this course can be referenced by using the GHP User Guide’s
+table of contents and any subsequent alerts.
+These documents are available for download at the following link: GHP Web Page Link.
+
+
+
+
+Page 19 of 20
+Health Reimbursement Arrangement (HRA)                                               Wednesday, April 1, 2020
+
+Slide 20 of 20 - Survey
+
+
+
+
+Slide notes
+If you have any questions or feedback on this material, please go the following URL: GHP Training Survey Link.
+
+
+
+
+Page 20 of 20
+
