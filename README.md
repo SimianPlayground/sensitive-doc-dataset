@@ -20,7 +20,7 @@ Content categories:
 - [x] purchase order forms
 - [x] request for proposals
 - [x] direct deposit forms
-- [ ] loan application forms
+- [x] loan applications
 - [ ] credit card authorization
 - [ ] expense reimbursement forms
 - [ ] insurance verification forms
