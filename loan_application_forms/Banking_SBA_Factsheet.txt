@@ -1,0 +1,433 @@
+A GUIDE TO SMALL BUSINESS LOANS
+                                                                                                        April 2020
+
+
+
+
+                                      I. PURPOSE
+  CONTENTS:                           This guide provides information on the financial supports, in the form of loans, for
+                                      small businesses proposed in the CARES Act, which was enacted into law on March
+  I.   Purpose                    1
+                                      27, 2020. The guide provides details on who qualifies for the loans, how much
+  II. Legislation Background      1   funding is available, what expenses can be covered by the loans, qualifications, and
+                                      how to apply.
+  III. 	CARES Act Loan Program   1
+         Creation                     II. LEGISLATION BACKGROUND
+                                      In the face of the economic and social disruption caused by the Coronavirus,
+  IV. CARES Act Expansions        4   Congress has already passed three significant response packages to address
+      For Existing SBA                health sector needs and to support American families. On March 19, Senate
+      Loan Proams                     Majority Leader Mitch McConnell (R-KY) released the Senate Republican draft of
+                                      the Phase 3 stimulus package, known as the Coronavirus Aid, Relief, and Economic
+  V. CARES Act Subsidies for      6
+                                      Security (CARES) Act. With a $2 trillion-dollar price tag, this third package is one of
+     Certain Loan Payments
+                                      the largest and most significant stimulus packages in American history.
+  VI. Other Avaiable SBA          6
+      Loan Options                    The Phase 3 CARES Act includes provisions that aim to support small businesses
+                                      through expanded loan programs. The Act includes $10 billion for SBA emergency
+  VII. Federal Reserve            7   grants of up to $10,000 to provide immediate relief for small business operating
+                                      costs, $17 billion for SBA to cover 6 months of payments for small businesses
+  VIII. Unknowns Moving Forward   7   with existing SBA loans, making rent, mortgage and utility costs eligible for SBA
+                                      loan forgiveness, and adding a retention tax credit for employers to encourage
+                                      businesses to keep workers on payroll during the crisis.
+
+                                      On March 25, Senate leaders and the Trump Administration announced that
+                                      they have reached a deal on the massive economic relief package. After a few
+                                      delays, the Senate unanimously approved the package shortly before midnight
+                                      on Wednesday, March 25. On Friday, March 27, the House passed the CARES Act,
+                                      giving Congress’ final approval to the package. The House approved the measure
+                                      by voice vote, after leaders in both parties deflected an effort by Rep. Thomas
+                                      Massie, a Kentucky Republican with a penchant for using procedural maneuvers
+                                      to try to block legislation, to force a recorded vote requiring lawmakers to register
+                                      their positions individually. The President signed the bill into law later that day
+                                      (Public Law 116-136).
+
+                                      This guide provides details of the Small Business Administration (SBA) loan
+                                      programs addressed in the Senate’s final version of the CARES Act.
+
+                                      III. CARES ACT LOAN PROGRAM CREATION
+                  clarkhill.com       The bill amends the Small Business Act (SBA), which, among other things, generally
+                                      authorizes the Small Business Administration to make loans to small businesses for
+
+
+
+A GUIDE TO SMALL BUSINESS LOANS                                                                                               1
+certain purposes. The SBA allows the Administration to provide                                 What’s the maximum loan available?
+loans directly or in cooperation with the private sector through                               For businesses, the maximum loan available is whatever option
+agreements to participate on an immediate or deferred/                                         is the lesser amount:
+guaranteed basis. The CARES Act amends section 7(a) of the                                     •	2.5 times the average total monthly payroll costs incurred
+SBA to create the Paycheck Protection Program, which allows                                         in the one-year period before the loan is made; 1
+certain businesses to receive loans up to $10 million from                                     •	(For new businesses that did not exist on February 15,
+local SBA lenders through the Small Business Administration’s                                       2019 through June 30, 2019 – 2.5 times the average
+existing 7(a) loan guarantee program.                                                               total monthly payroll payments from January 1, 2020 to
+                                                                                                    February 29, 2020); or
+Paycheck Protection Program (PPP) – Established                                                · $10 million.
+Through 7(a) Loans
+The legislation sets aside significant resources for the relief                                In practice, if the businesses’ payroll costs incurred in the
+of small businesses, entrepreneurial programs, and use by                                      one-year period before the loan is made total less than $10
+the Minority Business Development Agency. This relief is                                       million, then that amount will be the maximum loan available.
+predominantly provided in the form of the Paycheck Protection                                  Otherwise, the loan is capped at $10 million.
+Program, which expands the existing 7(a) loan program to
+create forgivable loans to maintain employers’ payroll. The                                    What are the borrower requirements?
+legislation expands the maximum loan amount, expands who                                       In order to receive the loan, borrowers must make a “good
+qualifies, and amends borrower requirements.                                                   faith certification” that they have been impacted by COVID-19,
+                                                                                               and that they will use the funds to retain workers and maintain
+Who qualifies?                                                                                 payroll and other debt obligations. Borrowers also must keep
+In addition to “small business concerns” as currently defined under                            an average monthly number of full-time equivalent employees
+current the Small Business Act, the Act expands the number of                                  that is the same number of employees used to determine the
+eligible businesses that can participate in the PPP to include:                                loan maximum. For example, if the business calculated its total
+•	Any business concern, 501(c)3 nonprofit (excluding                                          monthly payroll cost based on the full-time employment of
+     those that receive Medicaid funds), a 501(c)(19) veterans’                                20 employees, then borrowers must continue to employee 20
+     organization, or Tribal business concern described in                                     employees with the money received from the loan.
+     section 31(b)(2)(C) of the Small Business Act if the entity
+     employs the greater of                                                                    Borrowers cannot receive both a 7(a) loan and an Economic
+     o	If the applicable size standard is revenue-based, not                                  Injury Disaster Loan (EIDL) loan through the SBA for the same
+           more than 500 employees; or                                                         purpose.2 The bill waives the borrower fee for participation.
+     o	If the applicable size standard is employee-based, the
+           size standard in number of employees established                                    What expenses can the loan cover?
+           by the Administration for the industry in which the                                 Payroll Costs: Businesses can use the loans for payroll costs,
+           business concern, nonprofit organization, or veterans’                              which includes compensation to employees, like salaries and
+           organization operates. This tool from the SBA allows                                wages, paid leave, and severance payments. The loan can also
+           businesses to assess their size standard.                                           cover payment for group health benefits (including insurance
+•	Sole proprietors, independent contractors, and eligible                                     premiums, retirement benefits, and state and local payroll
+     self-employed individuals (as defined in Congress’s last                                  taxes). The loan can cover compensation to sole proprietors
+     COVID-19 bill, the Families First Coronavirus Response Act)                               or independent contractors (including commission-based
+     also may receive PPP loans.                                                               compensation), but with a maximum of $100,000 in one year,
+•	Restaurant, hotel and hospitality business (i.e., falls within                              prorated for the covered period.
+     the “accommodation and food services” sector (Sector 72)
+     under the North American Industry Classification System                                   The loan cannot be used to compensate individual employees
+     (NAICS) with more than one location, if it employs 500 or                                 for amounts above $100,000 per year, prorated for the
+     less employees per physical location.                                                     covered period, or certain federal taxes. The loan cannot
+•	The SBA is also suspending its “affiliation rules” for                                      cover compensation to employees whose principal place of
+     restaurant, hotel and hospitality businesses (i.e., falls within                          residence is outside of the U.S.
+     the “accommodation and food services” sector (Sector 72)
+     under the North American Industry Classification System                                   Health Care: Businesses may use the loans for group health
+     (NAICS) with less than 500 employees, as well as certain                                  care benefits during periods of paid sick, medical, or family
+     franchises and small business investment companies.                                       leave, and insurance premiums. However, businesses cannot
+
+1 For seasonal employers, it’s the average monthly payroll costs for the 12 weeks beginning on February 15, 2019, or from March 1, 2019 to June 30, 2019.
+2 If a business already has a SBA disaster loan from the period between February 15, 2020 and March 31, 2020, it may still seek relief under this program. A borrower may apply for a PPP
+  loan, with an option to refinance that loan into the PPP loan
+
+
+
+
+A GUIDE TO SMALL BUSINESS LOANS                                                                                                                                                              2
+use the loans to cover sick and family leave wages made                                       Borrowers can defer 7(a) loan payments for at least six months
+available under the Families First COVID-19 relief package.                                   and no more than one year, and the SBA is expected to publish
+                                                                                              guidance to lenders on this deferment process within the next
+Other Uses: Businesses may use the loans to cover salaries,                                   month.3 The maximum interest rate is four percent.
+commissions, or similar compensations, mortgage and rent
+payments, and utilities. The loans can also cover interest on any                             The SBA must provide a lender with a process fee for servicing
+other debt obligations incurred before the covered period.                                    the loan, and lender compensation fees are set at five percent
+                                                                                              for loans of not more than $350,000; three percent for loans
+What are the lender requirements?                                                             of more than $350,000 and less than $2,000,000; and one
+The bill allows the Treasury Secretary to grant new private                                   percent for loans of not less than $2,000,000.
+sector players (beyond those already eligible under the
+SBA) the authority to make 7(a) loans. Participating lenders                                  The bill also removes a requirement that small businesses
+are entitled to reimbursement of 5% of the balance of the                                     show they can’t get credit elsewhere before turning to the SBA
+financing outstanding at the time of disbursement of the loan.                                for the credit, as well as the collateral and personal guarantee
+Under the bill, both current and new 7(a) lenders receive                                     requirements. The bill waives the lender fee for participation.
+delegated authority from the SBA to make determinations on
+borrower eligibility and creditworthiness without going through                               How to apply?
+all of the SBA’s channels.                                                                    Though the Administration has yet to release explicit guidance
+                                                                                              on the Paycheck Protection Program, because the program
+Instead of lenders determining loan eligibility based on                                      was created through the existing 7(a) program, one can
+repayment ability (which is not possible during this crisis),                                 assume that the application process will be similar to the
+lenders must determine whether:                                                               current process for 7(a) loans.
+•	A business was operational on February 15, 2020
+•	Had employees for whom it paid salaries and payroll taxes                                  Once a business has decided to apply for a loan guaranteed
+•	Is an independent contractor                                                               by the SBA, the applicant will need to collect the appropriate
+•	Has been impacted by the COVID-19.                                                         documents for their application. The SBA does not provide
+                                                                                              direct loans. The process starts with the applicant’s local lender,
+                                                                                              working within SBA guidelines. To apply, applicants will need
+                                                                                              the below materials and submit to an SBA Participating Lender,
+                                                                                              found here.
+
+                                                                                              The checklist below can help applicants in ensuring they have
+                                                                                              everything the lender will ask for to complete the application.
+                                                                                              Once the loan package is complete, the applicant’s lender will
+                                                                                              submit it to the SBA.
+                                                                                              1.	SBA Loan Application – To begin the process, the applicant
+                                                                                                   will need to complete an SBA loan application form. Access
+                                                                                                   the most current form here (Borrower Information Form –
+                                                                                                   SBA Form 1919)
+                                                                                              2.	Personal Background and Financial Statement –
+                                                                                                   To assess eligibility, the SBA also requires completion of the
+                                                                                                   following forms:
+                                                                                                   •	   Statement of Personal History - SBA Form 912
+                                                                                                   •     Personal Financial Statement - SBA Form 413
+                                                                                              3. 	Business Financial Statements – To submit a strong
+Loans made cannot exceed current interest rates provided by                                        application and demonstrate an ability to repay the loan,
+the 7(a) loan program, and borrowers may not be charged any                                        prepare and include the following financial statements:
+prepayment fees. The bill increases the government guarantee                                       •	Profit and Loss (P&L) Statement – This must be
+of 7(a) loans to 100 percent through December 31, 2020. After                                             current within 180 days of the applicant’s application.
+that date, guarantee percentages will return to 75 percent for                                            Also include supplementary schedules from the last
+loans exceeding $150,000 and 85 percent for loans equal to or                                             three fiscal years.
+less than $150,000.                                                                                •	Projected Financial Statements – Include a detailed,
+
+3B
+  usinesses that were operating on February 15, 2020 and that have a pending or approved loan application under this program also qualify for payment deferment relief for up to
+ a year; lenders allow deferred payments during the covered period (if secondary market investors decline to approve a lender’s deferral request, the Administration must purchase
+ the loan).
+
+
+
+
+A GUIDE TO SMALL BUSINESS LOANS                                                                                                                                                      3
+            one-year projection of income and finances and                                     Amounts forgiven may not exceed the principal amount of
+            attach a written explanation as to how you expect to                               the loan, and the amount forgiven will decrease proportionally
+            achieve this projection.                                                           if employees are let go (compared to the prior year), or if
+4.	Ownership and Affiliations – Include a list of names and                                   employee pay is reduced by more than 25 percent compared
+     addresses of any subsidiaries and                                                         to prior year’s compensation. This does not apply to borrowers
+     affiliates, including concerns in which the applicant holds                               who re-hire workers they previously laid off, as they will not be
+     a controlling interest and other concerns that may be                                     penalized for having a reduced payroll at the beginning of the
+     affiliated by stock ownership, franchise, proposed merger                                 period. The bill allows forgiveness for additional wages paid to
+     or otherwise.                                                                             tipped workers.
+5.	Business Certificate/License – The applicant’s original
+     business license or certificate of doing business. If the                                 Borrowers will verify through documentation to lenders their
+     applicant’s business is a corporation, stamp a corporate                                  payments during the period.4 A safe harbor protects lenders
+     seal on the SBA loan application form.                                                    from liability. Lenders will report expected loan forgiveness
+6.	Loan Application History – Include records of any loans the                                amounts for a loan or pool of loans to the SBA, and the SBA will
+     applicant may have applied for in the past.                                               purchase such amount of the loan from the lender.
+7.	Income Tax Returns – Include signed personal and
+     business federal income tax returns of your business’
+     principals for previous three years.
+8.	Résumés – Include personal résumés for each principal.
+9.	Business Overview and History – Provide a brief history of
+     the business and its challenges. Include an explanation
+     of why the SBA loan is needed and how it will help
+     the business.
+10.	Business Lease – Include a copy of the business’ lease, or
+     note from the landlord, giving terms of proposed lease.
+11.	If You are Purchasing an Existing Business – The following
+     information is needed for purchasing an existing business:
+     •	Current balance sheet and P&L statement of business
+            to be purchased
+     •	Previous two years federal income tax returns of the
+            business
+     •	Proposed Bill of Sale including Terms of Sale
+     •	Asking price with schedule of inventory, machinery                                     IV. CARES ACT EXPANSIONS FOR EXISTING SBA
+            and equipment, furniture and fixtures                                              LOAN PROGRAMS
+                                                                                               The other specific loan programs addressed in the bill are
+Loan Forgiveness                                                                               Economic Injury Disaster Loans (EIDL) and Express Loans. The
+Borrowers are eligible for loan forgiveness that equals the                                    legislation expands the maximum loan amount, expands who
+amount spent on payroll costs, rent/lease payments, or interest                                qualifies, and amends borrower requirements.
+payments on mortgages incurred prior to February 15, 2020,
+or utility payments for services that began before February 15,                                Economic Injury Disaster Loans (EIDL)
+2020, in the 8 weeks after the loan’s origination date.                                        The SBA will work directly with state governors to provide
+                                                                                               targeted, low-interest loans to small businesses and non-
+Forgiveness on a covered loan is equal to the sum of the                                       profits that have been severely impacted by the Coronavirus
+following payroll costs incurred during the covered 8-week                                     (COVID-19). The SBA’s Economic Injury Disaster Loan program
+period compared to the previous year or time period,                                           provides small businesses with working capital loans of up to
+proportionate to maintaining employees and wages:                                              $2 million that can provide vital economic support to small
+                                                                                               businesses to help overcome the temporary loss of revenue
+Payroll costs plus any payment of interest on any covered mortgage                             they are experiencing. These loans intend to assist through
+obligation (which shall not include any prepayment of or payment                               the disaster recovery period and can be used to pay off
+of principal on a covered mortgage obligation) plus any payment on                             outstanding debts, payroll and any other bills they are unable
+any covered rent obligation + and any covered utility payment.                                 to pay.
+
+
+4 Canceled indebtedness resulting from this section will not be included in the borrower’s taxable income.
+
+
+
+
+A GUIDE TO SMALL BUSINESS LOANS                                                                                                                                    4
+The CARES Act also allows applicants for disaster loans during         to determine what the business could have paid if the disaster
+the covered period to request an advance payment of up to              would not have occurred. The loan funds will not provide for
+$10,000, which does not have to be repaid, even if the loan            lost sales.
+application is later denied.
+                                                                       The SBA is available to assist all small businesses across the
+Who qualifies?                                                         nation and does not have a total cap on the loan amounts;
+In general, eligibility is based on what a business does to receive    each qualifying small business can apply for a loan of up to
+its income, the character of its ownership, and where the              $2M to assist with economic recovery. There is no state or
+business operates. Businesses must meet size standards, be             territory limit.
+able to repay, and have a sound business purpose. In the case
+of COVID-19, small business must show a loss effective from            The CARES Act establishes an Emergency Grant program that
+January 31, 2020 until now and/or in the future, compared to           allows an eligible entity who has applied for an EIDL loan to
+their 2019 financials. The SBA expects lenders to provide a full       request an advance on that loan, of not more than $10,000.
+list of eligibility requirements for the loans.                        The SBA must distribute the advanced payment within 3 days.
+
+The CARES Act deems all states and their subdivisions to have          What are the borrower requirements?
+enough economic damage to small business concerns to                   Applicants are not required to repay the new advance
+qualify for assistance under this loan program (rather than the        payments proposed in the CARES Act, even if subsequently
+current state declaration and certification approach).                 denied for an EIDL loan. Advance payments must be
+                                                                       considered when determining loan forgiveness if the applicant
+In addition to current eligible entities, the CARES Act expands        transfers into the SBA’s 7(a) loan program.
+EIDL loan access to:
+•	Startups with 500 or fewer employees;                               EIDL repayment is deferred for twelve months. Interest accrues
+•	Sole proprietorships and independent contractors;                   during this period. Further, SBA offers loans with long-term
+•	Cooperatives with 500 or fewer employees; and                       repayments to keep payments affordable, up to a maximum of
+•	ESOPs with 500 or fewer employees.                                  30 years. Terms are determined on a case-by-case basis, based
+                                                                       upon each borrower’s ability to repay.
+The CARES Act also makes the following additional changes to
+the SBA disaster loan program during the covered period:               What expenses can the loan cover?
+•	Waives rules related to personal guarantees on advances             The EIDL program provides small businesses with working
+    and loans of $200,000 or less;                                     capital loans of up to $2 million that can provide vital economic
+•	Waives the “1 year in business prior to the disaster”               support to small businesses to help overcome the temporary
+    requirement;                                                       loss of revenue they are experiencing. These loans are intended
+•	Waives the requirement that an applicant be unable to find          to assist through the disaster recovery period and can be used
+    credit elsewhere; and                                              to pay off outstanding debts, payroll and any other bills they are
+•	Allows lenders to approve applicants based solely on credit         unable to pay.
+    scores (no tax return submission required) or “alternative
+    appropriate methods to determine an applicant’s ability            The advanced payment option proposed in the CARES Act s
+    to repay.”                                                         ays that the advance payment may be used for providing
+                                                                       paid sick leave to employees, maintaining payroll, meeting
+There is not a certain time period that the business needs to be       increased costs to obtain materials, making rent or mortgage
+in operation to qualify for an EIDL loan, but businesses will need     payments, and repaying obligations that cannot be met due to
+the appropriate business and financial documentation required          revenue losses.
+that shows it is a viable business.
+                                                                       What are the lender requirements?
+Applicants must show the ability to repay the loan, and                The SBA currently has the sole authority to offer EIDL loans.
+collateral is required for all EIDL loans over $25,000. SBA takes
+real estate as collateral when it is available. SBA will not decline   How to apply?
+a loan for lack of collateral, but SBA will require the borrower to    Businesses can apply online for an SBA disaster assistance loan.
+pledge collateral that is available.                                   It’s a three-step process, which is detailed in a graphic here.
+
+What’s the maximum loan available?                                     Businesses must submit the completed loan application before
+The maximum loan available is $2 million, with interest rates of       September 30, 2020.
+3.75% for small businesses and 2.75% for non-profits (subject
+to any pending legislative change), with repayment plans that          Express Loan Program
+can stretch up to 30 years, as determined on a case-by-case            Under the Express Loan Program, the maximum loan amount
+basis. The SBA will look at the last three years of information        would increase to $1 million from $350,000 through December
+
+
+A GUIDE TO SMALL BUSINESS LOANS                                                                                                         5
+31, 2020 after which the maximum amount is changed to              •	For loans made before this bill is enacted not on deferment,
+$350,000. It provides loans up to $1 million for no more than 7       for the six-month period beginning with the next payment
+years with an option to revolve.5 There is a turnaround time of       due;
+36 hours for approval or denial of a completed application. The    •	For loans made before this bill is enacted that are on
+use of proceeds is the same as the standard 7(a) loan.                deferment, for the six-month period beginning with the
+                                                                      next payment due after deferment; and
+How to apply?                                                      •	For loans made within six months of enactment of this bill,
+There are multiple application forms that must be completed           and for six months after the first payment is due.
+by both the lender and the borrower to apply for an express
+loan. These forms include:                                         The bill also instructs the Administrator to work with the
+• SBA Form 1920 Lender’s Application for Loan Guaranty.           FDIC, OCC, and state banking regulators to not force lenders
+    This form is completed by the lender.                          to increase their reserves based on payments received from
+• SBA Form 1919 SBA 7(a) Borrower Information Application         the SBA. The bill waives statutory limits on maximum loan
+    Form. This form is completed by each owner with 20% or         maturities for the loans described above; and extends lender
+    more owner of the company and kept in the lender’s file        site visit requirements to account for volume increases, travel
+    after review for any adverse information.                      restrictions, etc., during the COVID-19 emergency.
+• IRS Form 4506-T Request for Transcript of Tax Return. Keep
+    a copy in your file and comment on verification results in     VI. OTHER AVAILABLE SBA LOAN OPTIONS
+    your lender memorandum.                                        Apart from the loans amended in the CARES Act, the SBA
+• Loan Authorization. This file details the Lender’s              has certain other loan programs available to support small
+    commitment to the borrower and SBA’s guaranty                  businesses, including the Community Advantage, 504, and
+    commitment to the Lender. It is completed and signed by        Microloan programs.
+    the Lender on behalf of SBA.
+                                                                   Community Advantage (CA) Loan Pilot Program
+All Express applications must be submitted to SBA via E-Tran/      The Community Advantage (CA) loan pilot program
+Capital Access Financial System.                                   allows mission-based lenders to assist small businesses in
+                                                                   underserved markets with a maximum loan size of $250,000.
+                                                                   The uses of proceeds are the same as the standard 7(a) loan.
+
+                                                                   How to apply?
+                                                                   The CA loan guaranty application process is a four-part process,
+                                                                   which is outlined in this document.
+
+                                                                   504 Loan Program
+                                                                   The 504-loan program is designed to foster economic
+                                                                   development and job creation and/or retention. The eligible
+                                                                   use of proceeds is limited to the acquisition or eligible refinance
+                                                                   of fixed assets.
+
+                                                                   How to apply?
+                                                                   I.	Find A Loan Expert: A Certified Development Company
+                                                                        (CDC) is a nonprofit organization set up to administer the
+                                                                        504-loan program.
+                                                                   II.	Submit form: This form is to be completed by the loan
+V. CARES ACT SUBSIDIES FOR CERTAIN LOAN PAYMENTS                        applicant and the Certified Development Company (CDC).
+For 7(a) (including Community Advantage), 504, or microloan             The information is used to review the small business loan
+products, the Administration is encouraging lenders to provide          applicant’s eligibility, its indebtedness, creditworthiness, and
+payment deferments when appropriate. Paycheck Protection                certain other disclosures. SBA also uses the information to
+Program (PPP) loans are not covered. Lenders are also                   assess the CDC’s request for guarantee of the debenture.
+encouraged to extend the maturity of covered loans to avoid             The loan applicant submits the requested information to
+balloon payments or any requirement for increases in debt               the CDC. The CDC will forward the information to SBA’s
+payments resulting from payment deferments provided by                  local Loan Processing Center.
+lenders during the COVID-19-declared emergency.
+                                                                   Microloan Program
+Additionally, for these loans, the Administration will cover the   The Microloan program involves making loans through
+principal, interest, and any associated fees owed in a regular     nonprofit lending organizations to underserved markets.
+servicing status:                                                  Authorized use of loan proceeds includes working capital,
+
+
+A GUIDE TO SMALL BUSINESS LOANS                                                                                                        6
+supplies, machinery & equipment, and fixtures (does not             •   Lending facilities:
+include real estate). The maximum loan amount is $50,000 with           o	On March 17, the Fed relaunched the Commercial
+the average loan size of $14,000.                                           Paper Funding Facility (CPFF) and the Primary Dealer
+                                                                            Credit Facility, two crisis-era facilities for short-term
+How to apply?                                                               loans.
+Microloans are available through certain nonprofit, community-          o	On March 18, it also established the Money Market
+based organizations that are experienced in lending and                     Mutual Fund Liquidity Facility, or MMLF, and the
+business management assistance. If a business applies for SBA               Federal Reserve Bank of Boston will make loans
+microloan financing, the applicant may be required to fulfill               available to eligible financial institutions. To do so,
+training or planning requirements before the loan application               the Fed had to obtain the approval of the Treasury
+is considered. This business training is designed to help                   Secretary to invoke emergency lending authority
+applicants’ launch or expand your business.                                 under Section 13(3) of the Federal Reserve Act.
+                                                                            Commercial paper is a $1.2 trillion market in which
+To apply for a Microloan, applicants must work with an                      firms issue unsecured short-term debt to certain
+SBA approved intermediary in their area. Approved                           money market funds and others, to finance day-to-
+intermediaries make all credit decisions on SBA microloans.                 day operations.
+For more information, applicants can contact your local                 o	On March 23, the Fed established two facilities
+SBA District Office or view the list of Participating Microloan             to support credit to large employers, and also
+Intermediary Lenders.                                                       established the Term Asset-Backed Securities
+                                                                            Loan Facility (TALF), to support the flow of credit to
+                                                                            consumers and businesses. The TALF will enable the
+                                                                            issuance of asset-backed securities (ABS) backed
+                                                                            by student loans, auto loans, credit card loans, loans
+                                                                            guaranteed by the Small Business Administration
+                                                                            (SBA), and certain other assets.
+
+                                                                    VIII. UNKNOWNS MOVING FORWARD
+                                                                    Pelosi and her team reiterated that they will continue to fight
+                                                                    for many proposals they were not able to include in the CARES
+                                                                    Act, noting there will be opportunities in the fourth stimulus
+                                                                    bill Congress is all-but certain to craft. Speaker Pelosi has said
+                                                                    on several occasions since the passage of the CARES Act she
+                                                                    wants a future 4th COVID-19 stimulus to include stronger paid
+                                                                    leave provisions, a pension fix, additional worker protections,
+                                                                    and a focus on infrastructure investment.
+
+                                                                    In pronouncement made today the President pledged to
+VII. FEDERAL RESERVE                                                work with Congress on a large infrastructure package, though
+As small businesses continue to suffer and a recession              members of the President’s party in Congress have been less
+becomes inevitable, the Federal Reserve has stepped in and          enthusiastic for another round of stimulus.
+enacted multiple policies to support the flow of credit to
+households and business. In terms of measures that directly
+impact small businesses, the Fed is:
+•	Encouraging banks to lend: As of March 16, the Fed
+     is temporarily relaxing regulatory requirements. It
+     eliminated banks’ reserve requirement—the percent of
+     deposits that banks must hold as reserves to meet cash
+     demand—though this is largely irrelevant because banks
+     currently hold far more than the required reserves. It is
+     also encouraging banks to dip into their regulatory capital
+     and liquidity buffers so they can increase lending during
+     the downturn. The reforms instituted after the 2008 crisis
+     require banks to hold additional loss-absorbing capital to
+     prevent future bailouts, but these capital buffers can be
+     utilized during a downturn to stimulate lending, and the
+     Fed is encouraging that now. (To preserve capital, big banks
+     also are suspending buybacks of their shares.)
+
+
+A GUIDE TO SMALL BUSINESS LOANS                                                                                                         7
+Clark Hill is an international law firm with multidisciplinary
+practices that draw on our attorneys’ industry and policy
+knowledge, our deeply held shared values, and a global
+network of premier firms and advisors to provide innovative
+legal solutions and client service excellence worldwide.
+As one of the largest law firms in the United States with
+over 650 attorneys and professionals in 25 offices,
+spanning the United States as well as Dublin and Mexico City,
+Clark Hill is everywhere its clients require high quality legal
+representation. Please visit our website at www.clarkhill.com
+or follow us on Twitter @ClarkHillLaw.
+
+
+
+
+                                                                  clarkhill.com
+

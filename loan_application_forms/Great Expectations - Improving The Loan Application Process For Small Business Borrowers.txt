@@ -1,0 +1,682 @@
+GREAT EXPECTATIONS
+IMPROVING THE LOAN APPLICATION PROCESS FOR
+SMALL BUSINESS BORROWERS
+
+
+
+
+AUTHORS
+
+Oliver Wyman
+Coulter King, Engagement Manager
+Peter Carroll, Partner
+
+Fundera
+Meredith Wood, VP of Content
+Brayden McCarthy, VP of Strategy
+EXECUTIVE SUMMARY
+The small business segment is a significant source of profit for financial institutions, and
+lending is an important offering to deepen customer relationships. Oliver Wyman and
+Fundera surveyed small business owners in late 2016 to better understand the preferences,
+behaviors and experiences of this segment. Our research identified several areas in which
+lenders of all types fall short of what borrowers told us they want. Borrowers said that the
+search1 and application processes are complicated and time consuming, loan pricing and
+terms are difficult to understand, and comparison shopping is arduous because it requires
+multiple applications and comparison of inconsistently presented offers. These largely
+unaddressed customer needs create opportunities for lenders to differentiate themselves.
+
+In addition, our research confirmed that banks generally lag behind FinTech lenders
+in creating a satisfying borrowing experience across factors like application length,
+communication of next steps, and time to approve loan applications. Indeed, borrowers
+from traditional institutions were about twice as likely to be frustrated by these aspects of
+the application process as borrowers from alternative lenders. However, alternative lenders’
+high cost of funds leads to higher pricing that frustrates borrowers. If alternative lenders
+begin to develop stable, low cost funding sources, banks might need to shore up their
+relative weakness across most elements of customer experience. Even if this threat does not
+materialize, banks should want to invest in customer experience improvements to gain an
+advantage over their peers.
+
+
+
+
+1 The “search” process can include activities like identifying lenders and assessing their reputation, evaluating potential loan products,
+  and so on
+
+
+
+                                                                                                                                             4
+                                INTRODUCTION
+                                The small business segment accounts for about half of GDP in the United States2 and
+                                presents a significant opportunity for financial institutions. In relation to the banking sector,
+                                Oliver Wyman estimates that the small business segment represents $36 BN in annual,
+                                pre-tax accounting profit.3 While small business lending is often not a major profit source
+                                for banks through the credit cycle, for many small businesses it is an essential offering that
+                                complements other basic banking services (e.g., checking, deposits) and highly profitable
+                                offerings like credit cards and merchant services. Indeed, two-thirds of small businesses
+                                surveyed in 2014 reported that access to credit is important in choosing a primary bank, and
+                                half of small businesses reported being likely to switch banks if denied credit.4
+
+
+                                Exhibit 1: Size of consumer and small business banking profit pools
+                                THROUGH-THE-CYCLE, PRE-TAX ACCOUNTING PROFIT
+
+
+
+                                Small business banking            $36 BN
+                                                                                                   Consumer accounts
+                                                                                                     of SB customers
+                                                                                                                                            Consumer banking
+                                                                                                                                            customers only
+                                     Consumer banking                         $76 BN                      $23 BN         $99 BN
+
+                                                                                                                                            Small business customers
+
+                                Note: Profits calculated with Oliver Wyman assumptions for small businesses with <250 employees
+                                Source: Oliver Wyman Survey of Small Business Owners (Q2 2014), Oliver Wyman Survey of Consumer Finances (Q2 2015)
+
+
+
+
+                                Banks dominate the small business customer base in providing loans and other banking
+                                products, but they face increased competition from FinTech online lenders.5 These relatively
+                                new entrants have built a competitive advantage focused on speed and a streamlined
+                                application process. The earliest FinTechs in small business lending – most notably CAN
+                                Capital – preceded the 2007-2008 financial crisis. OnDeck, Kabbage, Funding Circle and
+                                many others emerged in the wake of the crisis, buoyed in part by historically low rates and
+                                a pullback in lending by banks and credit unions. These challengers argued not only that
+                                they addressed a shortfall in lending to segments of the market but also that they could
+                                provide a superior borrower experience. Alternative lenders command only a small fraction
+                                of the market, but they have demonstrated the potential for streamlined and digitized
+                                application processes, faster underwriting, next-day funding and other customer experience
+                                improvements.6 Meanwhile, banks have been slow to evolve their offerings or exploit their
+                                advantages in full.
+
+                                Despite their innovative approaches, alternative lenders have struggled to gain major
+                                traction in this customer segment – in large part because their costs of funds are
+                                2 US Small Business Administration
+                                3 This segment represents $59.1 BN in annual, through-the-cycle, pre-tax accounting profit including the consumer accounts of small
+                                  business banking customers
+                                4 Oliver Wyman Survey of small business Owners (Q2 2014), Oliver Wyman Consumer Profit Pools. Through-the-cycle profits calculated
+                                  with Oliver Wyman assumptions for Small Businesses with <250 employees
+                                5 Though our survey used the term “online lender”, we use the terms “FinTech lender”, “alternative lender”, and “online lender”
+                                  interchangeably in this paper
+                                6 Innovative approaches to underwriting have helped to drive many of these customer experience improvements
+Copyright © 2017 Oliver Wyman
+substantially higher than those of deposit-taking institutions. To the extent that alternative
+lenders develop stable and low cost sources of capital, they will be able to price loans more
+competitively and reduce the advantage currently held by banks. We therefore anticipate
+that banks will need to compete more energetically on customer experience. Banks will
+retain some powerful advantages – including a larger existing customer base, broader name
+recognition (at least for regional and national players) and a physical distribution network
+that many customers value. However, we anticipate that they will face more pressure to
+modernize the customer experience than they have to date.
+
+Against this backdrop, Oliver Wyman and Fundera surveyed nearly 400 small business
+owners in late 2016 to better understand the preferences, behaviors and experiences of this
+important segment. Our survey focused specifically on the lending experience and included
+small business owners both from the Fundera customer base and the broader population
+(via a market research company).
+
+Our research confirmed that banks generally lag behind FinTech lenders in creating a
+satisfying borrowing experience. More interestingly, we identified several areas in which all
+lenders fall short of what borrowers told us they want. These unmet needs are opportunities
+for differentiation.
+
+
+A HIGH FRICTION EXPERIENCE
+Only one quarter of respondents said they were dissatisfied with their recent borrowing
+experience. However, they did not seem to be unduly impressed either. Just 22% said that
+their loan application experience “exceeded expectations”. In particular, respondents
+suggested that traditional lenders have lagged in creating a strong customer experience.
+Borrowers expressed three related types of complaints:
+1. Obtaining a loan takes too long
+2. Lenders have not digitized the process sufficiently
+3. The process remains high friction
+
+1. OBTAINING A LOAN TAKES TOO LONG
+Many borrowers said the process of obtaining a loan was lengthy. They reported spending a
+lot of time on loan search, application and documentation compilation processes.
+
+Small business lenders have proliferated, so borrowers must choose from a wide range of
+products. Perhaps as a result, over two-thirds of business owners reported spending at least
+three hours searching for information on their most recent business loan, and over one-third
+spent more than six hours. This includes simply the time spent to find a reputable provider
+and compare loan products, not any part of the application process itself.
+
+Borrowers also reported that applying was time consuming. Close to a quarter of borrowers
+from traditional lenders called the application length “frustrating” or “very frustrating”.
+In addition, borrowers spent a large amount of time collecting documentation: half of
+borrowers reported that it took over two hours just to collect the necessary documents,
+and one-third said it took at least five hours. We observe that many institutions have not
+                                                                                                 6
+                                streamlined their application processes to request only the information and documentation
+                                they truly need, resulting in onerous documentation gathering requirements.
+
+                                Finally, most respondents said it took days to receive approval after submitting an
+                                application and then to receive funds after approval.7 Online lenders tend to complete these
+                                steps much more quickly with more automated underwriting processes.8
+
+                                2. LENDERS HAVE NOT DIGITIZED THE PROCESS SUFFICIENTLY
+                                While most banks and credit unions allow small businesses to complete some of the loan
+                                application process online or over the phone, they lag behind online lenders in offering these
+                                capabilities. The majority of borrowers from national banks reported that they were unable
+                                to complete the entire application process online (i.e., they needed to visit a branch or mail
+                                physical documents). Borrowers from smaller banks and credit unions reported that those
+                                institutions were even less likely to have developed these processes.
+
+
+                                Exhibit 2: Reported ability for borrowers to complete loan application online or by phone
+                                                      79%
+
+
+
+
+                                                                                                                           46%
+                                         43%
+                                                                                    38%
+                                                                                                                    31%                            Online lenders
+                                                                             26%
+                                                17%                                       18%                                                      Regional/local banks
+                                                                                                                                                   and credit unions
+                                                                                                                                  3%
+                                                                                                                                                   National banks
+                                    Able to complete loan             Able to complete some but              Not able to complete any of
+                                  application entirely online          not all of loan application                loan application
+                                       and over phone                   online and over phone                   online or over phone
+
+
+                                Source: Oliver Wyman and Fundera Small Business Borrowing Experience Survey
+
+
+
+                                This is an important shortcoming in the borrower experience with traditional lenders. While
+                                some borrowers prefer to use the branch to apply, we saw a strong preference for digital
+                                channels across many aspects of the application process. Unsurprisingly, younger borrowers
+                                were the most likely to prefer these digital solutions. For example, nearly all borrowers under
+                                the age of 35 expressed a preference for submitting documents online,9 rather than by mail
+                                or at a branch.
+
+                                Given these borrower preferences, lenders should enable customers to use these channels.
+                                In addition, lenders that have digitized parts of the application process should continue to
+                                improve the experience by allowing customers to do even more online.
+
+                                7 Oliver Wyman has found that the end-to-end process can take weeks, even for smaller and less complex loans
+                                8 The Federal Reserve likewise has found that the loan application process is time consuming. Firms spend an average of 24 total hours
+                                  applying for credit, according to the 2014 Joint Small Business Credit Report produced by the Federal Reserve Banks of New York, Atlanta,
+                                  Cleveland, and Philadelphia
+                                9 This included options for transmission through the lender’s website, via email or by granting one-time permission to the lender to
+                                  retrieve information directly
+Copyright © 2017 Oliver Wyman
+3. THE PROCESS REMAINS HIGH FRICTION
+Even for minor aspects of the borrowing experience, online lenders tended to outperform
+traditional lenders. For example, borrowers from online lenders were half as likely to report
+being frustrated by not understanding next steps in the loan application process, navigating
+the application website or completing signature requirements.
+
+
+Exhibit 3: Borrowers reporting aspect of obtaining a small business loan was frustrating or
+very frustrating
+
+
+                                                                                      49%
+    Cost of loan offered                                                                          Traditional lenders outperforming
+                                                         21%
+
+
+
+     Filling out separate                                                  34%
+             applications                                           28%
+
+
+
+         Understanding                                              28%                             Inconclusive or no advantage
+         loan’s fine print                                         27%
+
+
+
+      Availability of live                       13%
+         loan specialist                          14%
+
+
+
+    Gathering required                                       23%
+           documents                                                 29%
+
+
+
+          Wet signature                6%
+          requirements                           12%
+
+
+
+             Navigating                6%
+    application website                          12%
+
+
+
+                                            9%
+    Time from approval                                                                              Online lenders outperforming
+      to funds received                                18%
+
+
+
+Understanding stage in                       11%
+process and next steps                                   21%
+
+
+
+                                             11%
+   Length of application
+                                                             22%
+
+
+
+  Time from application                     10%
+                                                                                                                  Traditional lenders
+            to approval                                        24%
+
+                                                                                                                  Online lenders
+
+Note: “Filling out separate applications” refers to completing a new loan application, either for each lender or for each loan product from
+the same lender
+Source: Oliver Wyman and Fundera Small Business Borrowing Experience Survey
+
+                                                                                                                                              8
+                                   However, several opportunities clearly remain for FinTechs and bank lenders alike to
+                                   improve their customer experience: completing separate applications is a common source
+                                   of frustration for customers of both online and traditional lenders, loan specialists are not
+                                   always available when borrowers want to speak with them and understanding the loan offer
+                                   is a challenge across lenders. Many of these relate to improving transparency and openness,
+                                   which we discuss in the following section.
+
+
+                                   THE NEED FOR TRANSPARENCY
+                                   Borrowers wanted not only a better process but also clearer and more accessible
+                                   information. These findings are consistent with those of the Federal Reserve’s Small Business
+                                   Credit Survey, which found that lack of transparency was a leading reason for dissatisfaction
+                                   even among successful applicants.
+
+
+Exhibit 4: Reasons for dissatisfaction among employer firms dissatisfied with lender
+
+                                                                                                                                                      High interest rate
+
+                                                                                                                                                      Unfavorable
+            48%                                          47%                                         49%                                              repayment terms
+                   44% 44%                                            45%
+                                                               42%
+
+                                                                                                                                33%                   Long wait for
+                                                                                                                                                      credit decision
+                                                                                                            26%
+
+                                                                                                                  17% 19%                             Difficult application
+                                                                                                                                                      process
+                                 6%     6%
+                                                                             3%     3%
+                                                                                                                                                      Lack of
+                                                                                                                                                      transparency
+                      Large bank                                  Small bank                                 Online lender
+
+Note: Large banks were characterized as those with at least $10 BN in total deposits, and online lenders were defined as nonbank alternative and marketplace lenders, such as
+Lending Club, OnDeck, CAN Capital and PayPal Working Capital. Note that this survey analyzed employer firms only, so the population is not directly comparable to that which
+we surveyed
+Source: Federal Reserve Small Business Credit Survey 2016 (April 2017)
+
+
+
+
+                                   There were two themes to the transparency challenge. First, customers sometimes struggled
+                                   to understand the terms of individual offers. Second, they encountered friction when trying
+                                   to obtain and compare offers from multiple lenders.
+
+
+                                   READING THE FINE PRINT
+                                   Many borrowers reported that it was difficult to understand the terms of an offer of credit.
+                                   For example, understanding the total cost of a loan can be challenging, given the many
+                                   drivers of cost: interest rate, origination fees, guaranty fees,10 and prepayment penalties,
+                                   to name a few examples. As a result, respondents strongly favored (85%) a standardized
+                                   disclosure to help them understand a given loan’s cost and terms, and also help them
+                                   compare multiple offers.
+
+
+                                   10 For loans backed by the Small Business Administration. Lenders may choose to pass this cost onto the borrower
+Copyright © 2017 Oliver Wyman
+The availability of knowledgeable loan specialists improved the experience. 90% of
+borrowers reported interacting with a loan specialist during the application process, and
+only 15% would have preferred a loan process that did not require interacting with a human
+loan specialist. Younger borrowers were more likely than others to prefer a process that did
+not require such interaction, but even they were divided. It seems that while many borrowers
+prefer online options for much of the application process, access to human specialists
+remains valuable.
+
+
+SHOP ’TIL YOU DROP
+Across lenders and age groups, borrowers shopped for multiple offers. More than 60% of
+borrowers from traditional financial institutions and 79% of those borrowing from online
+lenders said that they considered at least two loan offers.11 Many seemed to do so because
+it was difficult to compare lenders during the search process. Four in ten respondents said it
+was “difficult” or “very difficult” to find a lender that offered the best terms.
+
+Yet searching and completing multiple applications were time consuming activities. Nearly
+half of those who applied for multiple loans spent over six hours searching for information
+alone, and over one-third spent more than five hours applying for loans. Borrowers then
+struggled to compare offers, since lenders present terms differently.12 Inconsistency in offer
+presentation may contribute to respondents’ broadly positive perception of brokers, who
+can help customers interpret loan offers.
+
+As a result of these challenges, nearly all borrowers who applied for multiple loans said that
+standardized applications and offer presentations would be valuable.
+
+
+PRICING AS A COMPETITIVE LYNCHPIN
+Although alternative lenders are widely perceived to offer a superior customer
+experience, they fall short in pricing. Several factors may contribute to the higher costs of
+alternative lenders:
+•• Most importantly, alternative lenders have a higher cost of capital because they lack
+   access to the stable, low cost deposits that banks and credit unions can use to fund their
+   loans. The average cost of funds for a bank is around 0.06%,13 while OnDeck reported a
+   5.9% cost of funds rate in the company’s Q1 2017 financial results.14
+•• Alternative lenders serve many borrowers who struggle to access credit through banks
+   (e.g., based on industry). These borrowers may find only higher cost loan options (no
+   matter the lender) but borrow more frequently from alternative lenders.
+•• Businesses that apply for credit from the still-new, FinTech lenders may be higher risk
+   borrowers than those who apply for credit from other lenders or through other channels
+   (consistent with the experience of credit card issuers in the early years of allowing online
+   applications). Alternative lenders would need to price this risk into loans they originated.
+11 This is consistent with research by the Federal Reserve (Federal Reserve Small Business Credit Survey 2016) that indicated that 61% of
+   employer firms submitted at least two applications, and over one-third submitted three or more
+12 These include the factor rate, simple interest rate, annual percentage rate, total or monthly interest payments, total loan cost (including
+   interest costs but also origination fees and closing fees) and other terms and conditions
+13 Based on the FDIC’s simple average of rates paid on savings by depository institutions
+14 “OnDeck Reports First Quarter 2017 Financial Results.” OnDeck Capital (May 8, 2017)
+                                                                                                                                                 10
+                                The results of our survey reflect the large disparity in loan pricing. Only 11% of borrowers
+                                from a bank or credit union reported that the rate was higher than expected, and twice
+                                as many said it was lower than anticipated. By contrast, 58% of those who borrowed
+                                from online lenders said that the cost of borrowing was higher than expected. Those who
+                                borrowed from an online lender were far more likely to describe the cost of the loan offered
+                                as “frustrating” or “very frustrating,” and cost was by far the most frequent source of
+                                complaint for these consumers (see Exhibit 3).
+
+
+                                Exhibit 5: Respondents’ perceptions of loan cost relative to expectations
+                                                                       77%
+
+
+                                                                                                         58%
+                                            50%
+                                                                                                                              47%
+                                                                                                   40%
+                                      36%                                                                                            37%
+                                                                                                                                                  Higher than expected
+
+                                                   14%           15%                                                   17%
+                                                                                                                                                  Same as expected
+                                                                               8%
+                                                                                            2%
+                                                                                                                                                  Lower than expected
+                                      National banks         Regional/local banks           Online lenders                   Other
+                                                               and credit unions
+
+                                Source: Oliver Wyman and Fundera Small Business Borrowing Experience Survey
+
+
+
+
+                                Many borrowers nonetheless borrow from FinTech lenders. Alternative lenders often provide
+                                credit more quickly than banks or credit unions, lend to businesses that would be unable
+                                to access credit through the banks15 and provide a more pleasant customer experience.
+                                However, alternative lenders’ high cost of funds impedes their ability to compete with
+                                incumbents and is a major driver of customer frustration.16 If alternative lenders begin
+                                to develop stable, low cost funding sources, banks might need to shore up their relative
+                                weakness in customer experience.17
+
+
+                                IMPROVING THE LENDING EXPERIENCE
+                                Although the challenges faced by banks and FinTechs vary, some of the root causes of poor
+                                customer experience are common across many types of lenders. We have identified several
+                                key areas for financial institutions to improve the borrower experience, ranging from features
+                                and products to back-end processes.
+
+
+
+
+                                15 For example, the Federal Reserve’s 2016 Small Business Credit Survey (April 2017) found that smaller-revenue employer firms had
+                                   higher approvals at smaller banks (60% success) and online lenders (59% success) than at large banks (45% success)
+                                16 In addition, Oliver Wyman has observed some alternative lenders charge significantly higher rates than can be explained just by cost of
+                                   funding. However, this survey focused on borrower perceptions, rather than addressing actual differences in pricing
+                                17 This compares banks and alternative lenders as categories. Even if this threat does not materialize, banks may need to invest in
+                                   customer experience improvements to keep up with their peers
+
+
+
+Copyright © 2017 Oliver Wyman
+CREATE TRUST THROUGH TRANSPARENCY
+Borrowers want greater transparency in the form of lower barriers to comparison shopping
+and clearer information about loan offers. Opportunities for lenders span the products,
+application process and the offer presentation. We suggest to:
+1. Disclose loan terms clearly and consistently
+2. Simplify the product suite
+3. Streamline and standardize the application process
+
+1. DISCLOSE LOAN TERMS CLEARLY AND CONSISTENTLY
+The simplest and most obvious way to improve transparency is to ensure customers
+understand the terms of their loan offers. Nearly one-third of borrowers indicated that
+understanding their loan’s fine print and terms is “frustrating” or “very frustrating.” As noted
+earlier, 85% of respondents said that a standardized disclosure for the cost of loans (i.e.,
+lenders showing repayment terms and charges in a consistent manner) would help them
+better understand and compare loans.
+
+Many alternative lenders have taken steps in that direction, developing and submitting
+themselves to standards designed to protect borrowers. In late 2015, a network of lenders,
+brokers and advocates formed the Responsible Business Lending Coalition with a “Small
+Business Borrowers’ Bill of Rights” to combat abusive practices in small business lending.
+Signatories attested that they would comply with (or in the case of non-lenders, endorse) the
+requirements of the bill of rights, which range from pricing transparency to fair collections.18
+
+In 2016, lenders focused more specifically on pricing disclosure. Fundera launched a
+disclosure box initiative to promote pricing transparency.19 Then the Innovative Lending
+Platform Association (which began with the three largest US online small business
+lending platforms: OnDeck, Kabbage and CAN Capital) and Association for Enterprise
+Opportunity introduced a “pricing disclosure and comparison tool focused on empowering
+small businesses to better assess and compare finance options.”20 Their SMART Box
+(“Straightforward Metrics Around Rate and Total cost”) is a supplemental disclosure to
+create standards around pricing metrics.
+
+Small business lending lacks many of the disclosure requirements that exist for consumer
+credit. The Truth in Lending Act does not impose disclosure requirements on credit extended
+to businesses, and small business lending lacks the required disclosures of some forms of
+consumer credit like credit cards (i.e., the “Schumer box”). Absent these requirements,
+lenders can build trust by helping borrowers better understand their loan terms voluntarily.
+
+
+
+
+18 Small Business Borrowers’ Bill of Rights website, produced by the Responsible Business Lending Coalition
+19 Peter Renton, “Fundera Disclosure Box Initiative Promotes Responsible Small Business Lending.” Lend Academy (September 13, 2016)
+20 “Nation’s Top Online Small Business Lending Platforms Unveil SMART Box™.” OnDeck (October 24, 2016)
+
+
+
+                                                                                                                                      12
+                                2. SIMPLIFY THE PRODUCT SUITE
+                                Small business owners face a plethora of credit and financing options, including term loans,
+                                SBA loans,21 lines of credit, invoice financing, equipment loans and personal loans used
+                                for a business purpose. The proliferation of products creates optionality, and lenders and
+                                financing companies often try to help match borrowers to appropriate products. However,
+                                product proliferation comes with certain costs from borrower friction (it can be challenging
+                                for borrowers to evaluate so many different credit and financing options, particularly when
+                                lenders and financing companies use different names to describe the same products) to
+                                reduced secondary market activity, so it requires justification.
+
+                                We contend that small business credit and financing (excluding real estate) typically falls
+                                into one of three basic forms, so much of the product proliferation may be only incrementally
+                                valuable to borrowers:
+                                1. Term loans in which businesses borrow a lump sum, receive the principal at once and
+                                   pay it back over a specific period of time. Some of these loans are asset-based (such as
+                                   equipment loans), while others are unsecured.
+                                2. Lines of credit that allow borrowers to utilize and pay only for the amount of credit that
+                                   is needed. Credit automatically renews as debts are paid off, and lines of credit can be
+                                   asset-based (as in the case of inventory financing) or not.
+                                3. Merchant cash advances that solve for temporary liquidity shortages by allowing
+                                   business owners to sell a portion of their future card transactions. Merchant cash
+                                   advances differ from secured lines of credit in several key respects: they tend to be
+                                   small dollar and high APR, are repaid daily and require a distinct financing
+                                   administration platform.
+
+                                As a result, we believe that lenders can standardize product types and terms to make it easier
+                                for borrowers to understand and compare their small business credit and financing options,
+                                just as lenders increasingly have standardized terms for residential mortgages over time.
+
+                                3. STREAMLINE AND STANDARDIZE THE APPLICATION PROCESS
+                                Finally, many borrowers reported that comparing offers is important, but not all complete
+                                multiple applications. This may be because varying application forms and documentation
+                                requirements make applying for credit at multiple financial institutions difficult.
+
+                                Platforms like Fundera and Credit Karma help to address this challenge by prequalifying
+                                customers for offers from a range of lenders. In addition, lenders should standardize the
+                                application process to make it easier for borrowers to apply. For example, Fannie Mae and
+                                Freddie Mac produced the Uniform Residential Loan Application (known as Form 1003 by
+                                Fannie Mae and Form 65 by Freddie Mac). Mortgage lenders have widely adopted the 1003
+                                as a standard application form.
+
+                                Though there is less impetus to standardize small business credit, this example
+                                demonstrates how the industry can converge around standards that can create transparency
+                                for borrowers, secondary market participants and more. And while standardization
+
+
+                                21 The Small Business Administration participates in a number of loan programs designed for business owners who may have trouble
+                                   qualifying for a traditional bank loan
+Copyright © 2017 Oliver Wyman
+requires coordination among lenders, lenders also can unilaterally simplify their own loan
+applications to lower the costs of applying.
+
+
+DIGITIZE THE PROCESS – BUT WITH CARE
+Digitization presents opportunities for banks and FinTech lenders alike to improve
+the customer experience and lower costs (e.g., through lower customer service
+utilization and the reduction of manual loan fulfillment processes). Though digitization
+opportunities in lending could be the subject of an entire separate paper, we identify a few
+basic opportunities:
+•• Invest in customer-facing digital solutions that reduce friction – Individually
+   incremental additions like remote document capture or clearer updates as to the status
+   of an application can significantly improve the experience in the aggregate.
+•• Automate the underwriting of lower risk loans – Banks can underwrite low-risk loans
+   automatically to provide businesses with quicker access to capital and free up resources
+   to evaluate higher risk loans. The use of merchant account and/or DDA (demand deposit
+   account) cash flow patterns to derive risk insights can facilitate this, and alternative
+   lenders like OnDeck Capital now use this data in their underwriting process.22
+•• Recognize when digitization is not the solution – In updating their approach to the
+   small business segment, lenders should resist the temptation to treat every business
+   owner like a “digital native.” For example, a minority of borrowers preferred an
+   application process that eliminated interaction with a human loan specialist entirely.23
+
+
+ADDRESS THE LESS OBVIOUS DRIVERS OF
+CUSTOMER EXPERIENCE
+Lenders addressing customer experience issues might focus on the parts of the process that
+are most visible to customers. However, cosmetic changes alone are insufficient and may
+mask the root causes of a poor borrower experience. New FinTech players can define the
+customer experience upfront and develop a supporting infrastructure that accommodates
+this vision. Banks and credit unions often face legacy infrastructure, processes and cultures
+that impede this execution. Though the specific challenges vary by lender, some of these
+hidden barriers to better customer experience include:
+•• Technical entropy – Traditional financial institutions often struggle to adapt because
+   of legacy technology that is ill equipped to meet new business needs. Banks’ back-end
+   systems are encumbered by disparate “spaghetti” systems, incongruent processes and
+   poor scaling to growth and demand, all of which generate friction and inhibit innovation.
+•• Legacy processes – Many institutions’ processes are inefficient and result in worse
+   service provided to borrowers. Challenges can include exacting documentation
+   requirements (sometimes coupled with manual collection), lack of automation or too
+   frequent manual reviews and time consuming underwriting approaches.
+•• Limited dedicated resources – Within banks, the small business organization tends
+   to lack the dedicated staff and other resources that the Consumer or Commercial
+   businesses maintain. For example, banks sometimes leverage product development or
+22 Peter Carroll and Ben Hoffman, “Financing Small Businesses: How ‘New-Form Lending’ Will Reshape Banks’ Small Business Strategies.”
+   Oliver Wyman (2013)
+23 Nearly all borrowers over the age of 45 had no preference or preferred to speak with a human loan specialist. Those under 45 were
+   about evenly split between those who would have or would not have preferred a process where they avoided speaking with a human
+   loan specialist. Lenders will need to adapt to evolving preferences as this segment becomes an increasing share of the small business
+   lending market. However, even that borrower group is by no means homogenous                                                             14
+                                     other resources from other businesses, rather than maintain their own small business
+                                     capabilities. This can contribute to small business borrowing excessively from the
+                                     Consumer and Commercial businesses, even when that is not appropriate.
+
+                                Lenders first must recognize where they fall short in the customer experience they create.
+                                But equally importantly, they should understand the barriers to change, many of which
+                                the borrower never sees. Although these issues are most pronounced at banks and credit
+                                unions, some FinTech lenders are susceptible to these challenges, as well.
+
+                                                                                               *****
+
+                                The small business lending experience represents an important opportunity for lenders from
+                                banks to FinTech companies. For retail banks, lending is a relationship anchor for acquiring
+                                and retaining small business customers. Although many retail banks struggle to profit from
+                                small business loans, these offerings can attract higher profit card, merchant services,
+                                checking and deposits opportunities. While banks benefit greatly from their lower cost of
+                                capital, their pricing moat will become less durable if alternative lenders acquire more stable
+                                funding sources, so customer experience will become a more important part of their value
+                                propositions.24
+
+                                For lenders in the FinTech space, delighting the customer is necessary to overcome the
+                                advantages of traditional lenders. Incumbent financial institutions count among their
+                                advantages cost, brand recognition, physical distribution networks and existing customer
+                                relationships. True differentiation in customer experience is essentially a prerequisite for
+                                FinTech lenders to overcome these advantages and compete effectively with one another.
+                                Since some borrowers’ needs remain unmet by any lender, these opportunities clearly exist.
+
+
+
+
+                                24 Recent applications by SoFi and Square to become industrial loan companies represent early efforts by FinTech companies to develop
+                                   such funding sources
+
+
+
+Copyright © 2017 Oliver Wyman
+ABOUT OLIVER WYMAN
+Oliver Wyman is a global leader in management consulting that combines deep industry knowledge with specialized
+expertise in strategy, operations, risk management, and organization transformation.
+
+ABOUT FUNDERA
+Fundera is an online marketplace for small business loans that allows small business owners to apply to 30 lenders with
+one easy common application. Small business owners can come to Fundera for any of their financing needs, from credit
+cards to SBA loans and everything in between.
+
+Fundera replaces small business loan brokers with software and algorithms, making the process faster and easier to
+navigate. Since launching in 2014, Fundera has raised $20 MM in equity financing. To date, Fundera has helped over
+5,500 small business owners secure over $350 MM in financing on its platform.
+
+
+ABOUT THE AUTHORS
+Coulter King, Engagement Manager, Oliver Wyman
+coulter.king@oliverwyman.com
+
+Peter Carroll, Partner, Oliver Wyman
+peter.carroll@oliverwyman.com
+
+Meredith Wood, VP of Content, Fundera
+meredith@fundera.com
+
+Brayden McCarthy, VP of Strategy, Fundera
+brayden@fundera.com
+
+
+
+www.oliverwyman.com
+
+
+
+
+Copyright © 2017 Oliver Wyman
+All rights reserved. This report may not be reproduced or redistributed, in whole or in part, without the written permission of Oliver Wyman and
+Oliver Wyman accepts no liability whatsoever for the actions of third parties in this respect.
+The information and opinions in this report were prepared by Oliver Wyman. This report is not investment advice and should not be relied on for such
+advice or as a substitute for consultation with professional accountants, tax, legal or financial advisors. Oliver Wyman has made every effort to use
+reliable, up-to-date and comprehensive information and analysis, but all information is provided without warranty of any kind, express or implied.
+Oliver Wyman disclaims any responsibility to update the information or conclusions in this report. Oliver Wyman accepts no liability for any loss
+arising from any action taken or refrained from as a result of information contained in this report or any reports or sources of information referred
+to herein, or for any consequential, special or similar damages even if advised of the possibility of such damages. The report is not an offer to buy
+or sell securities or a solicitation of an offer to buy or sell securities. This report may not be sold without the written consent of Oliver Wyman.
+

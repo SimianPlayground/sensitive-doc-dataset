@@ -1,0 +1,681 @@
+                                                                      Lender’s Application for Loan Guaranty                                       OMB Control No.: 3245-0348
+                                                                            For all 7(a) Loan Programs                                              Expiration Date: 07/31/2020
+
+
+
+
+ The purpose of this form is to collect identifying information about the Lender, information about the loan guaranty request, sources and uses of
+ funds, the proposed structure (which includes pricing and the loan term), the Small Business Applicant, and compliance with SBA Loan Program
+ Requirements. Submission of the requested information is required for SBA or the Lender to make a determination regarding eligibility for financial
+ assistance and the appropriate processing method (delegated or non-delegated). Failure to submit the information would affect those determinations.
+
+ Instructions for Lenders:
+                     •      For all loans submitted to the 7(a) Loan Guaranty Processing Center (“LGPC”), by Delegated and Non-Delegated Lenders: This form is to
+                            be completed, in its entirety, signed and dated prior to electronic submission to the LGPC. The original of this form must be retained in
+                            your loan file.
+                            Submission instructions are provided at https://www.sba.gov/sites/default/files/forms/LGPC_Submission_Instructions.pdf.
+                     •      For all loans processed under delegated authority (PLP, SBA Express, Export Express, PLP–EWCP, and Community Advantage delegated
+                            authority): This form is to be completed, in its entirety, signed and dated, and retained in your loan file.
+
+
+ A. Processing Method                                                                     Processing Options (if applicable)
+                                              7(a) Small Loan ($350,000 or less with an acceptable credit score)
+              7(a) Non-Delegated                              CAPLINE Program                                     SBA Express                          Export Express
+                   Processing                      Working Capital             Builders                  Revolving                            Revolving
+                                                   Seasonal                    Contract                  Term Loan                            Term Loan
+                                               International Trade Loan                    Export Working Capital Program (EWCP) Loan
+                                              Community Advantage (CA) Pilot Program ($250,000 or less with an acceptable credit score)
+                     7(a) Delegated
+                       Processing              Other (Explain):
+
+   B.                                                                            Applicant Business Information
+                      Startup Business (Not opened yet)  Existing Business (more than 2 years old)          Date Business Established:
+                      New Business (2 years or less)     Change of Ownership                       Date Current Ownership Established:
+Applicant Business
+
+
+
+
+                      Applicant Business Legal Name:                                               Check if EPC          NAICS Code:
+                                                    DBA:                                                                                Business Tax ID:
+                                       Applicant Address:                                                    City, ST, Zip:
+                         Business Location:  Rural      Urban                        Legal Structure:        Sole Proprietor  Partnership  Corp  LLC  Other
+                              Applicant Primary Contact:                                                  Primary Contact Phone:    (       )      -
+                         # of employees prior to this loan:        # of jobs created because of this loan:                # of jobs retained because of this loan:
+                                OC /  Co-Applicant:                                                          Sole Proprietor  Partnership  Corp  LLC  Other
+Other
+
+
+
+
+                                   Co-Applicant Address:                                                                                Business Tax ID:
+                                            City, ST, Zip:                                                                              Date Established:
+                                                                      *Use a separate sheet if more than two Applicants
+
+   C.                                                                                   Lender Information
+                                        Lender Name:                                                                                      Lender ID:
+                                             Address:                                             City:                                  ST:             Zip:
+                                      Lender Contact:                                          Ph:    (       )    -                Cell or Ext: (        )     -
+                                       Contact Email:                                                                     Title:
+                        Alternate Contact Information ( Check if this contact will be the primary contact for loan processing information)
+            Alternate Name (if other than Lender):                                          Contact Type:  Lender Employee  LSP
+                                   Alternate Contact:                                          Ph:    (       )    -                Cell or Ext: (        )     -
+                             Alternate Contact Email:                                                                     Title:
+
+
+
+
+ SBA Form 1920 (01/18)                                                                  P a g e |1
+D.                                                                Loan Structure Information
+Amount of Loan Request:          $                    Guarantee %:           %     Loan Term in # of Months:                Payment:    $
+
+
+         Rate Structure (rates may have one rate for the full loan amount or separate rate structures for the guaranteed and unguaranteed portions)
+Period         Rate Type         Which Part of Loan                                Base Rate                           Base Rate      Spread %     Full Rate
+         Variable  Full  Guaranteed             Prime  SBA LIBOR  SBA Peg Rate
+     1                                                                                                                                              0.000
+         Fixed                    Un-Guaranteed  Fixed Base Rate  Other (explain in Credit Memo)
+         Variable  Full  Guaranteed             Prime  SBA LIBOR  SBA Peg Rate
+   2                                                                                                                                                0.000
+         Fixed                    Un-Guaranteed  Fixed Base Rate  Other (explain in Credit Memo)
+Frequency that Rate will Adjust:  Monthly  Quarterly  Calendar Quarter  Annually  Other (explain in Credit Memo)
+When will first adjustment occur: (see SOP 50 10 “SBA requirements for SBA Note”)
+
+E.                             Complete Project Information (Round to dollars & must be supported in lender credit memo)
+Use of Proceeds (Sources and Uses)                                  SBA 7(a) Loan        Other Financing        Borrower Injection          Total for Line
+Land Acquisition (  with or  without improvements)               $                     $                     $                        $                    0
+ New Construction  Expansion  Renovations                       $                     $                     $                        $                    0
+Leasehold Improvements to property owned by others                 $                     $                     $                        $                    0
+Machinery & Equipment                                              $                     $                     $                        $                    0
+Furniture & Fixtures                                               $                     $                     $                        $                    0
+Inventory Purchase                                                 $                     $                     $                        $                    0
+Working Capital                                                    $                     $                     $                        $                    0
+Acquire Business ( Asset or  Ownership Interest)                 $                     $                     $                        $                    0
+Pay off SBA Loan ( SID /  Other Lender /  Both)                 $                     $                     $                        $                    0
+Pay Notes Payable ( SID /  Other Lender /  Both)                $                     $                     $                        $                    0
+Pay Accounts Payable                                               $                     $                     $                        $                    0
+SBA Guarantee Fee                                                  $                     $                     $                        $                    0
+Other (explain):                                                   $                     $                     $                        $                    0
+Other (explain):                                                   $                     $                     $                        $                    0
+Total (sum of last column should match sum of first 3 across):     $                   0 $                 0 $                        0 $                    0
+Will more than $10,000 of the loan proceeds be used for construction/renovation? (If “Yes,” SBA Form 601 must be completed.)              Yes       No
+F. Fees paid to others
+         Has the Applicant paid or committed to pay a fee to the Lender or a third party to assist in the preparation of the loan
+         application or application materials, or has the Applicant or Lender paid or committed to pay a referral agent or broker a      Yes        No
+         fee?
+
+         •    If “Yes,” SBA Form 159(7a) must be completed, signed by all parties and a copy provided to SBA’s fiscal and transfer agent after initial
+              disbursement in accordance with SOP 50 10.
+
+G. General Eligibility (If either of the questions below are answered “No,” the request is not eligible for an SBA guaranty.)
+         •    Small Business Applicant is (1) an operating business (except for loans to Eligible Passive Companies, discussed
+              below), (2) organized for profit, (3) located in the United States and its territories or possessions, (4) small (as       Yes         No
+              defined by 13 CFR Part 121), and (5) able to demonstrate a need for the desired credit.
+
+
+         •    The Small Business Applicant’s products and/or services are available to the general public.                               Yes         No
+
+H. Credit Not Reasonably Available Elsewhere
+         •    Lender has assessed the Small Business Applicant’s access to credit outside of this SBA-guaranteed loan and
+              determined that such credit is not available elsewhere on reasonable commercial terms from non-Federal sources.
+              The Lender’s loan file contains documentation that specifically identifies the factors in the present financing that       Yes        No
+              meet the credit elsewhere test and the Lender’s credit memorandum includes the credit elsewhere analysis and
+              supporting documentation to substantiate Lender’s determination.
+
+
+SBA Form 1920 (01/18)                                                       Page | 2
+I.   Size Analysis
+If the Applicant is an existing business that is applying for a SBA loan to acquire another business, the two businesses are combined to determine
+whether or not the Small Business Applicant is small. If an application is for an EPC/OC, refer to the size determinations under the EPC rule in the
+current SOP 50 10. If the Small Business Applicant has Affiliates, please provide a list, including Affiliate name and tax ID #, and discuss possible
+bases of affiliation. If an affiliation exists complete a Size Analysis for each affiliate.
+                                                                                                                            Use this size standard 
+Primary Industry
+NAICS Code
+Average annual receipts over the last three completed fiscal years per Federal Tax Return (exclude affiliates)               $
+SBA Size Standard based on NAICS (The standards are found in 13 CFR 121.201)
+Number of Employees
+                                                            OR                                                 Use the Alternative size standard 
+Tangible Net Worth is (not in excess of $15 million) and                                                                   $
+Average net income after Federal Income Taxes (excluding any carry over losses) for preceding 2 completed fiscal
+                                                                                                                             $
+years is not in excess of $5.0 million. (The alternative size standard is found at §3(a) of the Small Business Act.)
+The combined size calculation of applicant and its affiliates meets the size standard for the applicant’s primary industry or the size      True
+standard for the primary industry of the applicant and its affiliates, whichever is higher (13 CFR 121.104);
+                                                            OR
+The combined size calculation of applicant and its affiliates meets the alternative size standard.                                          True
+If size standard is exceeded by no more than 25%, Applicant agrees to use the loan proceeds within a labor surplus area.                    True
+
+J. Required Guarantors
+     •    All owners with an interest of 20% or more in the Small Business Applicant will guarantee the loan. The 20% threshold includes a
+          spouse owning 5% or more when the combined ownership of both spouses is 20% or more. Only ESOPs and/or eligible 401(k)
+          Trusts are excluded from this requirement. (If a person will be executing the note as a borrower in an individual capacity, that person
+          does not also have to execute a personal guarantee.)                                                                               True
+
+K. Associates of the Applicant
+Character
+      Lender has verified that on SBA Form 1919, Question 17 (or C.2.e on EIB-SBA Form 84-1 for EWCP loans) is not                         True
+          answered “Yes,” otherwise the loan is not eligible.
+         If, on SBA Form 1919, Question 19 (or C.2.e on EIB-SBA Form 84-1 for EWCP loans) is answered “Yes,” answer the
+          following:
+                Lender has verified that the individual who answered “Yes” to Question 19 is currently not on parole or probation.
+                    If the answer to this statement cannot be answered “True,” the loan is not eligible.
+                                                                                                                                            True
+
+          •    The applicant meets ONE of the following criteria below (if cannot be answered “True”, the loan is not eligible):
+
+                Lender has retained the supporting information and court documentation, including the original SBA Form 912, in
+                    its loan file and determined that all disclosed crimes were misdemeanors fully dispositioned by the court more than     True
+                    6 months ago and there were no convictions for crimes against minors.
+
+                Lender submitted SBA Form 912 and all supporting documentation to the SBA field office serving the territory
+                    where the Small Business Applicant is located and has subsequently received written clearance of the character
+                    issue(s) from SBA headquarters through the SBA field office.                                                            True
+                    OR
+
+                Loan is being processed on a delegated basis and the SBA Form 912 and all supporting documentation has been
+                    submitted directly to SBA headquarters and Lender has subsequently received written clearance of the character          True
+                    issue(s) from SBA headquarters through the SBA field office.
+
+
+
+
+SBA Form 1920 (01/18)                                                   Page | 3
+L. Types of Ineligible Businesses (check the SOP and CFR for current guidance)
+     Lender has reviewed the Small Business Applicant and has determined it is not an ineligible business:                                      True
+     1.    A non-profit Business (for-profit subsidiaries are eligible)
+     2.    A financial business primarily engaged in the business of lending, e.g. banks, life Insurance companies (independent agents may be
+           eligible), finance companies, factoring companies, investment companies and other businesses whose stock in trade is money and which
+           are engaged in financing.
+                 a. A pawn shop where more than 50% of its revenue for the previous year was from interest on loans.
+                 b. A mortgage service company where any loans funded are not sold within 14 days of loan closing.
+     3.    A passive business owned by developers or landlords that do not actively use or occupy the assets acquired or improved with the loan
+           proceeds that is not an Eligible Passive Company (discussed below).
+                 a. A motel, recreational vehicle park, campground, marina or similar type of business that derives more than 50% of its gross
+                      annual revenue from transients who stay for periods of time exceeding 30 days.
+                 b. A business primarily engaged in sub-dividing real property into lots and developing it for resale on its own account or in
+                      owning or purchasing real estate and leasing it for any purpose.
+     4.    A business located in a foreign country or owned by undocumented (illegal) aliens.
+     5.    A pyramid sale distribution plan.
+     6.    A business involved in any illegal activity.
+     7.    A business principally engaged in teaching, instructing, counseling or indoctrinating religion or religious beliefs, whether in a religious or
+           secular setting. If the Applicant appears to be connected, associated, or affiliated with a religious organization or to have a religious
+           component, the Lender must complete SBA Form 1971, Religious Eligibility Worksheet.
+     8.    A business that earns 1/3 or more of its gross annual revenue from packaging SBA loans.
+     9.    A business that derives directly or indirectly more than 5% of its gross revenue through the sale of products or services, or the
+           presentation of any depiction or displays, of a prurient sexual nature or that presents any live performances of a prurient nature.
+     10.   A business primarily engaged in political or lobbying activities.
+     11.   A speculative business (such as mining, and research & development).
+     12.   A business that derives more than 1/3 of gross annual revenue from legal gambling, or is a racetrack, casino or otherwise has gambling as
+           its primary reason for being.
+     13.   A private club or business that limits the number of memberships for reasons other than capacity.
+     14.   A Government-owned entity (except for businesses owned or controlled by a Native American tribe, but is a separate legal entity from the
+           tribe).
+
+
+M.        Employee Stock Ownership Plan (“ESOP”) - Complete if the Small Business Applicant is a Qualified Employee Trust or
+             equivalent trust. (All questions below must be answered as TRUE to be eligible.)
+     •     The Qualified Employee Trust (or equivalent trust) meets the requirements and conditions for an ESOP prescribed in all
+           applicable IRS, Treasury and Department of Labor regulations AND the small business will provide the funds needed by the             True
+           trust to repay the loan and will provide adequate collateral.
+
+     •     Loan will help finance the growth of the Qualified Employee Trust’s employer’s small business or will purchase ownership
+                                                                                                                                                True
+           or voting control of the employer.
+
+     •     Loan proceeds will be used to purchase: 1) qualified employer securities; or 2) a controlling interest (51% or more) in the
+                                                                                                                                                True
+           employer (ownership and control will vest in the trust by the time the loan is repaid).
+
+
+N. Citizenship
+The Small Business Applicant is at least 51% owned and controlled by US citizens and/or by persons who meet one of the following conditions
+(if neither applies, the loan is not eligible).
+      o     The business is at least 51% owned by individuals who are  U.S. citizens and/or who have  Lawful Permanent Resident
+            (LPR) status, whose status the lender has verified with the USCIS through the SBA, AND will control the management and
+            daily operations of the business;                                                                                                   True
+            OR
+      o     The business is at least 51% owned by aliens with an alien status other than LPR, which the lender has verified with the
+            USCIS through the SBA; the lender has determined that continual and consistent management of the business has been
+            provided by a U.S. citizen or by an LPR, whose status lender has verified with the USCIS through the SBA, for at least one          True
+            year and will continue indefinitely; AND collateral within the jurisdiction of the U.S. is pledged that meets the requirements
+            of SOP 50 10. (Businesses less than one year old do not meet these requirements.)
+
+
+
+SBA Form 1920 (01/18)                                                    Page | 4
+O.     Change of Ownership – Complete this section for all changes of ownership (including between existing owners) to
+           determine type of business valuation needed and eligibility.
+If part of the Use of Proceeds will be used to fund or refinance a change in ownership:
+     •    The change will promote the sound development or preserve the existence of the Applicant business.
+          (If “No,” the loan is not eligible.)
+                                                                                                                                      Yes    No
+
+     •    The change is between existing owners of the small business and will result in 100% ownership by the remaining
+          owner(s) or is the purchase of 100% of a business resulting in a new owner and meets the requirements provided in           Yes    No
+          the SOP 50 10. (If “No,” the loan is not eligible.)
+     •    The loan proceeds will not pay off an SBA-guaranteed loan of the seller with the same lender.
+          (If “No,” application may not be processed under delegated authority.)
+                                                                                                                                      Yes    No
+
+     •    The loan proceeds will not finance any amount in excess of the business valuation. (If “No,” the loan is not                Yes    No
+          eligible.)
+     •    A business broker will receive a commission from the sale of the business paid by the Applicant.                            Yes    No
+If “Yes,” Name of Business Broker Firm:                                                           Representative:
+                           Firm Address:                                                                        Commission $
+
+P. Type of Business Valuation Requirements – (use worksheet to determine what type of business valuation is required)
+                                                             Total Purchase Price to be paid to seller per purchase contract:    $
+                                                                                          Less down payment paid to Seller:     -$
+  Source & Type of Injection:                                                                          Less buyer injection :   -$
+                                         Total Amount being Financed (including 7(a), 504, Seller or Other financing) (A):       $                  0
+                       Appraised Value of Commercial Real Estate being financed in purchase of /or with the business (B):       -$
+                                         Appraised Value of equipment being financed in the purchase of the business (C):       -$
+                                                           Value of intangible assets to be Financed (A) – (B) – (C) = (D):      $                  0
+     If the value of (D) above is $250,000 or less AND there is not a close relationship between Buyer & Seller, you have included an
+     internally prepared business valuation that supports the value being paid for the business?                                              
+     OR
+     If the value of (D) above is over $250,000 OR there is a close relationship between Buyer & Seller, you have obtained an
+     independent business valuation from a qualified source that supports the value being paid for the business? (For loans processed         
+     under lender’s delegated authority, the independent business valuation has been or will be obtained prior to closing/disbursement.)
+
+Q. Franchise/License/Jobber/Membership or Similar Agreement
+     •    Does the applicant business operate under a Franchise/License/Jobber/Membership or similar Agreement?                       Yes    No
+     Tradename under the Agreement:                                                        Franchise Identifier Code (if applicable):
+     Please answer the following statements (if the answer to any statement below is “no,” the loan is not eligible):
+         Applicant’s brand is eligible for SBA financial assistance and either (a) it meets the FTC definition of                    Yes    No
+          a franchise and is included on the SBA Franchise Directory, or (b) does not meet the FTC definition of
+          a franchise.
+
+         If Applicant operates under multiple agreements, Lender has determined that all of Applicant’s brands                       Yes    No
+          are eligible, and those brands that meet the FTC definition of a franchise are on the SBA Franchise
+          Directory.
+
+         For non-delegated loans, if the Applicant’s brand is not on the SBA Franchise Directory, Lender has                         Yes    No
+          determined that the brand does not meet the FTC definition of a franchise, but is eligible for SBA
+          financial assistance. Lender has explained its determination in its credit memorandum and submitted
+          the agreement and any other documentation required by the brand to the LGPC with its application.
+
+         For delegated loans, if the Applicant’s brand is not on the SBA Franchise Directory, Lender has                             Yes    No
+          determined that the brand does not meet the FTC definition of a franchise, but is eligible for SBA
+          financial assistance. Lender has explained its determination in its credit memorandum and retained all
+          supporting documentation in its file.
+
+
+
+SBA Form 1920 (01/18)                                                  Page | 5
+R.       Loan is to an Eligible Passive Company (“EPC”) If any statement cannot be answered “True,” the loan is not eligible.
+     •   The EPC will use the loan proceeds to acquire or lease, and/or improve or renovate real or personal property (including         True
+         eligible refinancing) that it leases 100% to one or more OCs for conducting the OC's business, or to finance a change of
+         ownership between existing owners of the EPC.
+     •   The OC is an eligible small business and the proposed use of proceeds would be an eligible use if the OC were obtaining the     True
+         financing directly.
+     •   The EPC (with the exception of a trust) and the OC each are small under SBA’s size standards.                                   True
+     •   The EPC is eligible as to type of business, other than being passive.                                                           True
+     •   The lease between the EPC and OC will be in writing, will have a remaining term at least equal to the terms of the loan
+         (including options to renew exercisable solely by the OC), will be subordinated to SBA’s lien on the property and the rents     True
+         will be assigned as collateral for the loan. The rent or lease payments will not exceed the amount necessary to make the
+         loan payment to the Lender, and an additional amount to cover the EPC’s direct expenses of holding the property. (Lender
+         must obtain an executed copy of the lease prior to any disbursement.)
+
+     •   The OC will be a guarantor or a co-borrower. (If loan proceeds include working capital or assets to be owned by the OC, the
+                                                                                                                                         True
+         OC will be a co-borrower.)
+     •   Each 20% or more owner of the EPC and each 20% or more owner of the OC will guarantee the loan.                                 True
+     •   The aggregated amount of the SBA portions for this application and for all outstanding loans to the EPC, the OC, and their
+         affiliates does not exceed $3,750,000. ($4,500,000 for International Trade (IT) and EWCP loans - The amount guaranteed          True
+         for working capital for the IT loan combined with any other outstanding 7(a) loan for working capital cannot exceed
+         $4,000,000.)
+     •   Neither the EPC nor the OC is a trust, or SBA requirements regarding trusts are met.                                            True
+
+S. Delegated Processing: If any statement is answered “True,” the application is not eligible for processing under PLP, SBA
+   Express, Export Express, PLP-EWCP, or delegated CA authority.”
+     •   Lender is aware that the application was previously submitted to SBA under any SBA program, including SBA Express,
+         Export Express, PLP, 7(a) Small Loan, Community Advantage or Standard 7(a).
+         (Loan is not eligible to be submitted under delegated authority unless the LGPC Director has waived this prohibition
+         because the application was preliminary or incomplete when previously submitted, or has changed materially since the
+         previous submission. If the applicant does not receive an acceptable credit score on a 7(a) Small Loan, non-delegated
+                                                                                                                                         True
+         lenders may submit a Standard 7(a) loan application to the LGPC (following the procedures for loans over $350,000),
+         while delegated lenders may process using their delegated authority (following the procedures for loans over $350,000), or,
+         if the lender is an SBA or Export Express lender, as an Express application.)
+
+     •   Lender has made or will make a personal loan to an individual for the purpose of providing an equity injection into the
+                                                                                                                                         True
+         business.
+
+     •   Loan will finance the sale of the participating lender’s Other Real Estate Owned (OREO). (If “Yes,” loan is not eligible for
+                                                                                                                                         True
+         delegated processing and must contain the additional documentation and information required by SOP 50 10.)
+
+     •   Loan will be collateralized by commercial property that will not meet SBA’s environmental requirements OR that will
+                                                                                                                                         True
+         require use of a non-standard indemnification agreement.
+
+T. Prior Loss to Government/Delinquent Federal Debt: If any statement is answered “True,” loan is not eligible, unless
+   waived by SBA for good cause.
+     •   Applicant business previously defaulted on a Federal loan or Federally-assisted financing that resulted in the Federal
+         government, or any of its departments or agencies, sustaining a loss, including any compromise agreement with any such          True
+         agency/department.
+
+     •   Another business owned or controlled by any Associate of the Small Business Applicant or guarantor defaulted on a
+         Federal loan (or guaranteed a loan which was defaulted) and caused the Federal government, or any of its agencies, or           True
+         departments to sustain a loss in any of its programs, including any compromise agreement with any such
+         agency/department.
+
+     •   An Associate of the Small Business Applicant or guarantor is currently delinquent on any Federal debt.                          True
+
+
+
+
+SBA Form 1920 (01/18)                                                  Page | 6
+U. Program Specific Requirements/Limitations
+ Community Advantage (loan amount is $250,000 or lower)
+      •      If the loan is being processed through Community Advantage, SBA Form 2449, Community Advantage Addendum,
+                                                                                                                                           Yes      No
+             must be completed and attached to SBA Form 1919, Borrower Information Form.
+
+      •      Applicant meets the minimum credit score requirement for Community Advantage loans. (If no, loan must be
+                                                                                                                                           Yes      No
+             submitted under Standard 7(a) guidelines for loans over $350,000.)
+
+ 7(a) Small Loan (loan amount is $350,000 or lower)
+      •      Applicant meets the minimum credit score requirement for 7(a) Small loans. (If the applicant does not receive an
+             acceptable credit score, non-delegated lenders may submit a Standard 7(a) loan application to the LGPC (following
+             the procedures for loans over $350,000), while delegated lenders may process using their delegated authority                  Yes      No
+             (following the procedures for loans over $350,000), or, if the lender is an SBA or Export Express lender, as an
+             Express application.)
+      Lender’s Credit Memorandum includes:                                                                                                 Yes      No
+      •      A brief description of the history of the business and the management team of the company; Owner/Guarantor analysis; confirmation of
+             Lender’s collection of business tax returns, and verification and reconciliation of the applicant’s financial data against income tax
+             transcripts received from the IRS; a determination that equity and pro-forma debt-to-worth are acceptable based on Lender’s written
+             policies and procedures for similarly-sized, non-SBA guaranteed commercial loans; a list of collateral and its estimated value (if secured);
+             and the impact any affiliates may have on the applicant’s repayment ability.
+
+ CAPLine - If the loan is a CAPLine, please complete the following:
+  Seasonal   Applicant qualifies under standard 7(a), has been in operation for at least 12 calendar months and is able to
+                                                                                                                                           Yes      No
+                       demonstrate a definite pattern of seasonal activity.
+
+     Builders         Applicant qualifies under standard 7(a), is a construction contractor or homebuilder under NAICS codes
+                       236220, 236115, 236116, or 236118 with a demonstrated managerial and technical ability in profitable
+                       construction or renovation, will either perform the construction/renovation work or manage the job with at
+                       least one supervisory employee on the job site during the entire construction phase, will conduct prompt
+                       and significant renovations, as defined in SOP 50 10, and has demonstrated a successful performance                 Yes      No
+                       record in bidding and completing construction/renovation at a profit within the estimated construction
+                       period, is able to demonstrate prior prompt payments to suppliers and subcontractors, and the prior
+                       successful performance have been of comparable type and size to the proposed project.
+
+     Contract         Applicant qualifies under standard 7(a), is able to demonstrate an ability to operate profitably based upon
+                       the prior completion of similar contracts, possesses the overall ability to bid, accurately project costs,
+                       perform the specific type of work required by the contract(s), and has the financial capacity and technical         Yes      No
+                       expertise to complete the contract on time and at a profit.
+
+     Working          Applicant qualifies under standard 7(a) and generates accounts receivable (not notes receivable) and/or has
+                                                                                                                                           Yes      No
+          Capital      inventory.
+
+V. Leasing and Leasehold Improvements
+   Leasing part of new construction to another business
+          Some of the Use of Proceeds are for construction of (or the refinancing of the construction for) a new building. If checked, answer the
+         following questions: (If any of the questions below cannot be answered as “TRUE,” then the loan is not eligible.)
+
+      •      If building will contain rental space, Applicant (or Operating Companies) will permanently occupy at least 60% of the
+             rentable property for the term of the loan; lease long term no more than 20% of the rentable property to one or more tenants;
+             plans to occupy within three years some of the remaining rentable property not immediately occupied or leased long term;
+                                                                                                                                                True
+             and plans to occupy within ten years all of the rentable property not leased long term.
+      •      Community improvements do not exceed 5% of the loan amount.                                                                        True
+      •      If refinancing a construction loan, the construction loan is not with the same lender. If this question cannot be answered
+             “True,” then loan may not be processed under delegated authority.
+                                                                                                                                                True
+      •      Loan proceeds will not be used to remodel or convert any rental space in the property.                                             True
+      Leasing part of an existing building to another business
+         To provide funds for the acquisition of land or existing building or for renovation or reconstruction of an existing building.
+          If checked, answer the following questions: (If any of the questions below cannot be answered as “TRUE,” then the loan is not eligible.)
+      •      Applicant (or Operating Companies) will occupy at least 51% of the rentable property.                                             True
+      •      Loan proceeds will not be used to remodel or convert any rental space in the property.                                            True
+
+SBA Form 1920 (01/18)                                                         Page | 7
+    Leasehold Improvements made to a building owned by an unrelated third party
+       To provide funds for or refinance leasehold improvements. If checked, answer the following questions:
+    •      Loan proceeds will be used to improve space occupied 100% by Applicant. (If not “True,” loan is not eligible.)                  True
+    •      The building where improvements will be made is owned by any principals of the Operating Company. (If “True,” the loan
+           is only eligible if structured as an EPC/OC loan unless building and business are both owned as a sole proprietorship.)
+                                                                                                                                           True
+
+W. Export Loan Programs
+    •      Applicant business is an exporter, projected export sales supported by this loan? $                                          Yes    No
+ Export Express
+    •      The applicant business has been operating, although not necessarily in exporting, for at least 12 full months. If less
+           than 12 months, the applicant’s key personnel have clearly demonstrated export expertise and substantial previous
+           successful business experience, AND the lender processes the Export Express loan using conventional commercial
+                                                                                                                                        Yes    No
+           loan underwriting procedures and does not rely solely on credit scoring or credit matrices to approve the loan. For
+           non-bank lenders that do not have a conventional loan portfolio, a written approval from the Office of Credit Risk
+           Management for their underwriting procedures has been has been obtained prior to making the Export Express loan.
+    •      Applicant has demonstrated to lender that loan proceeds will enable it to enter a new export market or expand an             Yes    No
+           existing export market.
+
+    •      Loan proceeds will be used for an export development activity as defined in the SOP 50 10.                                   Yes    No
+    •      If proceeds are being used to finance indirect exports, the applicant has provided certification to lender from the
+           applicant’s domestic customer (typically in the form of a letter, invoice, order or contract) that the goods or services     Yes    No
+           are in fact being exported.
+
+    •      Proceeds will not be used to finance overseas operations, except for the marketing and/or distribution of                    Yes    No
+           products/services exported from the U.S.
+
+    •      If proceeds are being used to finance specific export transactions (including indirect exports), lender has determined
+           that U.S. companies are authorized to conduct business with the proposed country(ies) to which the goods or services
+           will be shipped and has reviewed the Ex-Im Bank Country Limitation Schedule (CLS) to verify that the U.S.                    Yes    No
+           Government has not restricted trade with any foreign country that the applicant does business with (i.e., no country is
+           identified on the CLS by Note #7).
+    •      Loan is an Export Express loan and will not refinance an existing SBA-guaranteed loan.                                       Yes    No
+ To provide funds to guarantee or support a standby letter of credit. (If checked, answer the following questions.) (If both are “No,” the
+    loan is not eligible.)
+    •      Loan is an Export Express loan                                                                                               Yes    No
+    •      Loan is an EWCP loan                                                                                                         Yes    No
+
+ Export Working Capital Program (EWCP) - In addition to EIB-SBA Form 84-1, Joint Application for Export Working Capital
+    Guarantee, the following questions must be answered. If “No,” loan is not eligible for EWCP.
+    •      Applicant has been in business for at least 12 months.                                                                       Yes    No
+    •      If Applicant is an export management company (EMC) or export trading company (ETC), the EMC or ETC will take
+           title to the goods or services being exported and the EMC or ETC has no bank ownership.
+                                                                                                                                        Yes    No
+
+ International Trade Loan (IT) (If any question below is answered “No,” loan is not eligible for IT.)
+    •      The loan proceeds will be used solely for the purpose of 1) financing the acquisition, construction, renovation,
+           modernization, improvement, or expansion of productive facilities or equipment to be used in the United States in the
+           production of goods and services involved in international trade; 2) the refinancing of existing indebtedness that is not
+           structured with reasonable terms and conditions, including any debt that qualifies for refinancing under the Debt
+                                                                                                                                        Yes    No
+           Refinance section below; or 3) working capital [of up to $4,000,000 guaranteed amount] when IT loan is for working
+           capital.
+    •      The small business concern is either 1) in a position to expand existing export markets or develop new export
+           markets; or 2) is confronting increased competition with foreign firms in the relevant market and is injured by such         Yes    No
+           competition.
+    •      Lender will 1) take a first lien on the fixed assets financed (or re-financed) with this loan or on other assets of the
+           small business concern; or 2) take a second lien on the fixed assets financed (or re-financed) with this loan or on other
+           assets of the small business concern and Lender has determined that the second lien provides adequate assurance of
+                                                                                                                                        Yes    No
+           the payment of the loan.
+    •      Collateral is located in the United States, its territories and possessions.                                                 Yes    No
+SBA Form 1920 (01/18)                                                      Page | 8
+ International Trade Loan (IT) (If any question below is answered “No,” loan is not eligible for IT.)
+     •    Lender has reviewed the Ex-Im Bank Country Limitation Schedule (CLS) to verify that the U.S. Government has not
+          restricted trade with any foreign country that the applicant does business with (i.e., no country is identified on the         Yes         No
+          CLS by Note #7).
+
+X. Debt Refinancing - for each debt being refinanced.
+    Include a COMPLETE BUSINESS DEBT SCHEDULE that matches the most current interim business financial                                        
+    statement.                                                                                                                            Included
+    Include a copy of all supporting documentation for each debt to be refinanced (e.g., note, security agreement, lease).
+    For credit card debt provide a copy of the most recent credit card statement evidencing the name the debt is in and                       
+    the current balance. (Lenders must follow the procedures as outlined in the current SOP50 10 for documenting their            Included for each debt
+    files completely for any debt being refinanced.)                                                                                 being refinanced
+
+    •    Demonstrate that refinancing will provide a substantial benefit to Applicant of at least 10% needed
+         improvement to cash flow. If more than one debt is refinanced, the new debt will have at least a 10% cash flow
+         improvement over the combined cash flow of the debt being refinanced. (This does not apply if the refinanced                         
+         debt is a demand note, involves a balloon payment, credit card obligation used for business related purposes, or         Included for each debt
+         revolving line of credit (short term or long-term)). (For CA loans the lender must demonstrate either: a 10%                being refinanced
+         improvement in cash flow, or that the CA loan exceeds the amount being refinanced by at least $5,000 or 25%,
+         whichever is greater.)
+                                                                         AND
+                                                                                                                                              
+    •    Existing debt no longer meets the needs of the Applicant.                                                                Included for each debt
+                                                                                                                                     being refinanced
+
+    •    Proceeds will not pay a creditor in a position to sustain a loss causing a shift to SBA of all or part of a potential loss from an        True
+         existing debt.
+    •    The application is being processed under SBA Express and the transaction is the purchase of an existing business that has an              True
+         existing SBA loan that is not with the requesting SBA Express lender.
+    •    The application is a Working Capital CAPLine, the debt is an existing SBA-guaranteed line of credit that is not with the
+         requesting lender and all other requirements of debt refinancing in SOP 50 10 are met (if the existing SBA-guaranteed line of
+                                                                                                                                                   True
+         credit is same institution debt, the lender’s credit exposure will not be reduced and the loan cannot be processed using
+         delegated authority, but must be submitted to the LGPC in accordance with SOP 50 10).
+    •    The application is being processed under 7(a) Small Loan, Standard 7(a), PLP, or the CA Pilot Program, the debt is an
+         existing SBA-guaranteed loan that is not same institution debt and the lender or borrower has obtained evidence that the                  True
+         lender currently holding the debt is unwilling or unable to modify the current payment terms or provide an increase or a
+         second loan.
+For Same Institution Debt (“SID”) Refinancing, if the debt being refinanced is between the Applicant and the requesting SBA lender meets one of
+the following conditions:
+     This application is being processed under SBA Express and the debt has been current (no payment beyond 29 days past due)                     True
+         for at least the last 36 months AND the new loan will not reduce the lender’s existing credit exposure to the borrower.
+
+     This application is being processed under PLP and the debt is either an interim loan that has been made for other than real
+         estate construction purposes and was approved by the lender within 90 days prior to the issuance of a PLP loan number, or                 True
+         the debt is a construction loan that has not been disbursed.
+
+     This application is being processed under 7(a) Small Loan or Standard 7(a) and the lender has provided a transcript of
+         account for the past 36 months or the life of the loan, whichever is less and the lender has explained any late payments and/or           True
+         late charges that have occurred during the last 36 months.
+
+     The loan is being processed under the CA Pilot Program and the lender has provided a transcript showing due dates and 6
+         months of timely payments for the most recent six-month period. (If there are any late payments (payments beyond 29 days                  True
+         of the due date) in the most recent 6 month period, the debt may not be refinanced with a CA loan.)
+
+     The application is being processed under 7(a) Small Loan, Standard 7(a) or the CA Pilot Program, the debt is an existing
+         SBA-guaranteed loan that is same institution debt that has been sold on the secondary market and the investor is unwilling to             True
+         agree to modified terms (such applications cannot be processed under PLP authority or a CA Lender’s delegated authority).
+
+
+
+
+SBA Form 1920 (01/18)                                                   Page | 9
+Other Debt Refinancing Questions:
+    •    Loan will not refinance debt to a Small Business Investment Company (SBIC).                                                          True
+    •    Loan will not refinance an existing 504 loan unless it meets the requirements of debt refinancing in Subpart B, Chapter 2 of
+         SOP 50 10 and either: 1) both the Third Party Loan and the 504 loan are being refinanced; or 2) the Third Party Loan has
+         been paid in full and the 504 loan needs to be refinanced as part of a larger transaction to provide funding for expansion of or     True
+         renovations to the Project property. (Any applicable 504 prepayment penalties apply and refinancing a 504 loan may not be
+         processed under delegated authority.)
+    •    Loan will not repay third party financing for any existing 504 project.                                                              True
+    •    Loan will not repay delinquent IRS withholding taxes, sales taxes or similar funds held in trust.                                    True
+    •    Loan will not refinance any seller take-back financing of less than 24 months following the change of ownership.                     True
+    •    Loan will refinance seller take-back financing that is and has been current for the past 24 months.                                  True
+
+
+
+                  SBA Certification to Financial Institution under Right to Financial Privacy Act (12 U.S.C. 3401)
+
+By signing SBA Form 1919, Borrower Information Form in connection with this application for an SBA-guaranteed loan, the applicant certifies that
+it has read the Statements Required by Law and Executive Order, which is attached to SBA Form 1919. As such, SBA certifies that it has complied
+with the applicable provisions of the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401) and, pursuant to that Act, no further certification is
+required for subsequent access by SBA to financial records of the applicant/borrower during the term of the loan guaranty.
+
+                             Statement Regarding Lobbying (applicable only to loans exceeding $150,000)
+If any funds have been paid or will be paid to any person for influencing or attempting to influence an officer or employee of any agency, a Member
+of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with this commitment providing for the
+United States to guarantee a loan, the Lender will complete and submit Standard Form LLL, “Disclosure of Lobbying Activities,” in accordance with
+13 CFR Part 146. Lender acknowledges submission of this disclosure is a prerequisite for making or entering into this transaction imposed by
+Section 1352, Title 31, U.S. Code, and that any person who fails to file or amend a declaration required to be filed or amended will be subject to a
+civil penalty in the amounts set forth in 13 CFR §146.400.
+
+
+
+                                                              Lender Certification
+
+
+On behalf of my Lending Institution,
+
+•   I certify that my institution has complied and is familiar with SBA Loan Program Requirements, that we have accurately and correctly
+    completed the Lender’s Application for Guaranty for All 7(a) Programs on behalf of the Lender, that the above information is true and correct,
+    to the best of our knowledge, and that we have exercised due diligence to obtain the true and correct information.
+•   I approve this application to SBA subject to the terms and conditions stated in this and the attached documents. Without the participation of
+    SBA, to the extent applied for, we would not be willing to make this loan, and, in our opinion, the financial assistance approved is not
+    otherwise available on reasonable terms.
+•   I certify that the Small Business Applicant is an eligible business and lender’s credit file contains the documentation that supports the Lender’s
+    determination of eligibility per SOP 50 10.
+•   For applications submitted under delegated authority, I am aware and acknowledge that SBA will not review eligibility prior to issuing an SBA
+    loan number and that if an SBA loan number is assigned and SBA later learns that the loan is not eligible, SBA may deny liability on its
+    guarantee.
+•   For loans with a Change of Ownership (including existing owners)
+              o    All Seller financial information has been signed and dated by the Seller and has been verified against IRS tax transcripts as set out
+                   in SOP 50 10. Where there is an acquisition of a division or a segment of an existing business, other forms of verification may
+                   be used in lieu of the 4506-T (e.g., Sales tax payment records);
+•   I approve and certify that the Applicant is a small business according to the standards in 13 CFR Part 121, the loan proceeds will be used for
+    an eligible purpose, and the owners and managers of the applicant business are of good character.
+
+
+
+
+SBA Form 1920 (01/18)                                                 Page | 10
+•   I certify that:
+    •    None of the Lender’s Associates*, including but not limited to its employees, officers, directors, or substantial stockholders (more than
+         10%) has a financial interest in the Applicant.
+    •    No Lender or Associate of Lender has a real or apparent conflict of interest with Applicant, any of Applicant’s Associates, or any of the
+         close relatives of Applicant’s Associates.
+    •    No Lender or Associate or close relative of an Associate of the lender has a significant direct or indirect financial or other interest in the
+         applicant, or has had such an interest within 6 months prior to the date of the application.
+    •    No Associate of a Lender is incarcerated, on parole, or on probation or is a convicted felon or has an adverse final civil judgment (in a case
+         involving fraud, breach of trust, or other conduct) that would cause the public to question the Lender’s business integrity.
+    •    No Lender or any Associate of Lender has accepted funding from a source that restricts, prioritizes, or conditions the types of small
+         businesses that Lender may assist under an SBA program or that imposes any conditions or requirements upon recipients of SBA assistance
+         inconsistent with SBA’s loan programs or regulations.
+    •    Neither the Applicant, an Associate of Applicant, close relative nor household member** of an Associate of Applicant is required to invest
+         in Lender.
+    •    None of the loan proceeds will be used to acquire space in a project for which lender has issued a real estate forward commitment.
+
+
+
+    *   Associate of a Lender is an officer, director, key employee, or holder of 20% or more of the value of the Lender’s stock or debt instruments.
+    ** A “household member” of an SBA employee includes: a) the spouse of the SBA employee; b) the minor children of said individual; and c)
+       the blood relatives of the employee, and the blood relatives of the employee’s spouse who reside in the same place of abode as the employee.
+       [13 CFR § 105.201(d)]
+
+
+
+           Authorized Lender Official:                                                                       Date:
+                                                                  Signature
+
+                      Type or Print Name:                                                                    Title:
+
+
+FOR PLP SUBMISSIONS ONLY (in addition to above):
+
+•   I approve and certify that the applicant is a small business according to the standards in 13 CFR Part 121, the loans proceeds will be used for an
+    eligible purpose, and the owners and managers of the applicant business are of good character.
+
+
+
+
+           Authorized Lender Official:                                                                       Date:
+                                                                  Signature
+
+                      Type or Print Name:                                                                    Title:
+
+
+    NOTE: According to the Paperwork Reduction Act, you are not required to respond to this collection of information unless it displays a
+    currently valid OMB Control Number. The estimated burden for completing this form, including time for reviewing instructions, gathering data
+    needed, and completing and reviewing the form is 25 minutes per response. Comments or questions on the burden estimates should be sent to
+    U.S. Small Business Administration, Director, Records Management Division, 409 3rd St., SW, Washington DC 20416, and/or SBA Desk
+    Officer, Office of Management and Budget, New Executive Office Building, Rm. 10202, Washington DC 20503. PLEASE DO NOT SEND
+    FORMS TO THESE ADDRESSES.
+
+
+
+
+SBA Form 1920 (01/18)                                                   Page | 11
+

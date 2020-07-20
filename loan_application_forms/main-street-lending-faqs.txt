@@ -1,0 +1,734 @@
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+
+
+                       Main Street Lending Program
+                                           Frequently Asked Questions
+This document is intended to address frequently asked questions (FAQs) about the Main Street
+Lending Program (Main Street or Program), including the Main Street New Loan Facility
+(MSNLF), the Main Street Priority Loan Facility (MSPLF), and the Main Street Expanded Loan
+Facility (MSELF). The Federal Reserve will periodically update these FAQs. Please check the
+Board’s website for new FAQs or revisions to previously issued FAQs.
+
+CONTENTS
+A. Purpose and Design .............................................................................................................4
+A.1.      Why is the Federal Reserve establishing the Program? ................................................................. 4
+A.2.      How is the Department of the Treasury supporting the Program? ................................................ 4
+A.3.      Are loans that are originated or upsized in connection with the Program forgivable? ................... 4
+A.4.      What are the differences between the MSNLF, the MSPLF, and the MSELF? ................................ 4
+A.5.      How long will the Program be in effect? ....................................................................................... 5
+A.6.      Is there a limit to the size of the Program? ................................................................................... 6
+A.7.      What are the differences between the Program and the Payroll Protection Program and Primary
+          Market Corporate Credit Facility? ................................................................................................ 6
+B.     MSNLF Loans .......................................................................................................................6
+B.1.      How does the MSNLF work? ......................................................................................................... 6
+B.2.      What are the terms of MSNLF loans? ........................................................................................... 7
+B.3.      What is the effect of the requirement that MSNLF Loans not be “contractually subordinated in
+          terms of priority” to other loans or debt instruments? ................................................................ 7
+C.     MSPLF Loans........................................................................................................................7
+C.1.      How does the MSPLF work? ......................................................................................................... 7
+C.2.      What are the terms of MSPLF loans? ............................................................................................ 8
+D. MSELF Upsized Tranches .....................................................................................................8
+D.1.      How does the MSELF work? ......................................................................................................... 8
+D.2.      What are the terms of MSELF Upsized Tranches? ......................................................................... 8
+D.3.      Under the MSELF, can an Eligible Lender sell a participation in an upsized tranche of a loan that
+          was originated as part of a multi-lender facility? ......................................................................... 9
+E.     Borrower Eligibility ..............................................................................................................9
+E.1.      Which entities are eligible to borrow under the Program? ........................................................... 9
+
+
+                                                                      1
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+E.2.     How is “Business” defined? ........................................................................................................ 10
+E.3.     How should a Business count employees for purposes of determining eligibility under the
+         Program? .................................................................................................................................. 10
+E.4.     How should a Business calculate 2019 revenues for purposes of determining eligibility under the
+         Program? .................................................................................................................................. 11
+E.5.     Which entities are a Business’s affiliates for purposes of the employee and revenue eligibility
+         criteria? ..................................................................................................................................... 11
+E.6.     Are non-profit organizations eligible to borrow under the Program? .......................................... 11
+E.7.     Will an alternative underwriting metric be developed for asset-based borrowers?..................... 12
+F.     Application Process ...........................................................................................................12
+F.1.     How can I apply for a Program loan? .......................................................................................... 12
+F.2.     Is a Business eligible to borrow if it receives a PPP loan? ............................................................ 12
+F.3.     Do Eligible Borrowers qualify automatically for a loan under the Program? ................................ 12
+G. Terms and Conditions........................................................................................................12
+G.1.     How will adjusted 2019 EBITDA be calculated? ........................................................................... 12
+G.2.     How will “existing outstanding and undrawn available debt” be calculated? .............................. 13
+G.3.     Why are Program loans based on LIBOR rather than SOFR?........................................................ 13
+G.4.     When do I need to start paying interest on my loan? ................................................................. 13
+G.5.     How will principal be amortized after the first year? .................................................................. 13
+G.6.     Is collateral required for Main Street loans? ............................................................................... 14
+G.7.     Are there fees associated with Main Street loans? ..................................................................... 14
+G.8.     What constitutes “commercially reasonable efforts” to maintain payroll and retain employees?14
+G.9.     Can an Eligible Borrower receive more than one Main Street loan? ............................................ 15
+H. Certifications and Covenants .............................................................................................15
+H.1.     Are the required certifications and covenants under the three Main Street facilities the same? . 15
+H.2.     What compensation, stock repurchase and capital distributions restrictions apply? ................... 15
+H.3.     What restrictions are placed on the Eligible Borrower’s ability to repay existing debt? ............... 15
+H.4.     Is an Eligible Lender permitted to accept partial repayment of an Eligible Borrower’s existing line
+          of credit with the Eligible Lender? ............................................................................................. 16
+H.5.     What restrictions are placed on an Eligible Lender’s ability to cancel or reduce any existing
+         committed lines of credit outstanding? ..................................................................................... 16
+H.6.     What is the Eligible Lender’s role in verifying certifications and covenants? ............................... 16
+I.     Lender Information ...........................................................................................................17
+I.1.     Which financial institutions are eligible to make loans under the Program? ............................... 17
+
+                                                                           2
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+I.2.      How should an Eligible Lender evaluate an Eligible Borrower’s creditworthiness? ...................... 17
+J.     Loan Participation .............................................................................................................17
+J.1.      What loan documentation is required to sell a participation to the Main Street SPV under the
+          Program? .................................................................................................................................. 17
+J.2.      What loan-level information will the SPV collect for credit monitoring purposes? ...................... 17
+J.3.      Is there a limit to the volume of participations the Main Street SPV can purchase from a single
+           Eligible Lender? ......................................................................................................................... 18
+K.     Regulatory Treatment .......................................................................................................18
+K.1.      What is the regulatory capital treatment for the interest in a Main Street loan retained by an
+          Eligible Lender? ......................................................................................................................... 18
+L.     Operational Details ...........................................................................................................18
+L.1.      How will the Federal Reserve administer the Program?.............................................................. 18
+L.2.      What information will the Federal Reserve disclose regarding the Main Street facilities? ........... 19
+
+
+
+
+                                                                          3
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+
+A. Purpose and Design
+  A.1. Why is the Federal Reserve establishing the Program?
+The spread of COVID-19 has harmed communities and substantially disrupted economic activity
+in many sectors of the economy. In general, the availability of credit has contracted for small
+and medium-sized businesses while, at the same time, the disruptions to economic activity
+have heightened the need for such companies to obtain financing. Small and medium-sized
+businesses are integral to the U.S. economy and create jobs for a large share of the U.S.
+workforce.
+Main Street is designed to provide support to small and medium-sized businesses and their
+employees across the United States during the current period of financial strain by supporting
+the provision of credit to such businesses. The availability of additional credit is intended to
+help companies that were in sound financial condition prior to the onset of the COVID-19
+pandemic maintain their operations and payroll until conditions normalize.
+  A.2. How is the Department of the Treasury supporting the Program?
+The Department of the Treasury (Treasury Department) will make a $75 billion equity
+investment in a Special Purpose Vehicle (Main Street SPV) in connection with the Program. The
+funds invested by the Treasury Department were appropriated to the Exchange Stabilization
+Fund under section 4027 of the Coronavirus Aid, Relief, and Economic Security Act (CARES Act).
+  A.3. Are loans that are originated or upsized in connection with the Program
+       forgivable?
+No. Main Street loans are full-recourse loans and are not forgivable. Under section 4003(d)(3)
+of the CARES Act, the principal amount of a Main Street loan cannot be reduced through loan
+forgiveness.
+  A.4. What are the differences between the MSNLF, the MSPLF, and the MSELF?
+Main Street includes three facilities, each of which was authorized by the Federal Reserve
+Board under section 13(3) of the Federal Reserve Act. All three facilities use the same Eligible
+Lender and Eligible Borrower criteria, and have many of the same features, including the same
+maturity, interest rate, deferral of principal and interest for one year, and ability of the
+borrower to prepay without penalty.
+Other features of the loans extended in connection with each facility differ. The loan types also
+differ in how they interact with the Eligible Borrower’s existing outstanding debt, including with
+respect to the level of pre-crisis indebtedness an Eligible Borrower may have incurred.
+   •   MSNLF: Eligible Lenders extend new loans to Eligible Borrowers ranging in size from
+       $500,000 to $25 million. The maximum size of a loan made in connection with the
+       MSNLF cannot, when added to the Eligible Borrower’s existing outstanding and undrawn
+
+                                                4
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+       available debt, exceed four times the Eligible Borrower’s adjusted 2019 earnings before
+       interest, taxes, depreciation, and amortization (EBITDA). The loans must not be, at the
+       time of origination or at any time during the term of the Eligible Loan, contractually
+       subordinated in terms of priority to any of the Eligible Borrower’s other loans or debt
+       instruments. The unique features of loans originated in connection with the MSNLF
+       (MSNLF Loans) are provided in the MSNLF term sheet.
+   •   MSPLF: Eligible Lenders extend new loans to Eligible Borrowers ranging in size from
+       $500,000 to $25 million. The maximum size of a loan made in connection with the
+       MSPLF cannot, when added to the Eligible Borrower’s existing outstanding and undrawn
+       available debt, exceed six times the Eligible Borrower’s adjusted 2019 EBITDA. At the
+       time of origination and at all times thereafter, the Eligible Loan must be senior to or pari
+       passu with, in terms of priority and security, the Eligible Borrower’s other loans or debt
+       instruments, other than mortgage debt. Eligible Borrowers may, at the time of
+       origination of the loan, refinance existing debt owed by the Eligible Borrower to a lender
+       that is not the Eligible Lender. The unique features of loans originated in connection
+       with the MSPLF (MSPLF Loans) are provided in the MSPLF term sheet.
+   •   MSELF: Eligible Lenders increase (or “upsize”) an Eligible Borrower’s existing term loan
+       or revolving credit facility. The upsized tranche is a four-year term loan ranging in size
+       from $10 million to $200 million. The maximum size of a loan made in connection with
+       the MSELF cannot exceed (i) 35% of the Eligible Borrower’s existing outstanding and
+       undrawn available debt that is pari passu in priority with the Eligible Loan and
+       equivalent in secured status (i.e., secured or unsecured); or (ii) when added to the
+       Eligible Borrower’s existing outstanding and undrawn available debt, six times the
+       Eligible Borrower’s adjusted 2019 EBITDA. At the time of upsizing and at all times
+       thereafter, the upsized tranche must be senior to or pari passu with, in terms of priority
+       and security, the Eligible Borrower’s other loans or debt instruments, other than
+       mortgage debt. The features associated with tranches of loans that are upsized in
+       connection with the MSELF (MSELF Upsized Tranches) are outlined in the MSELF term
+       sheet.
+  A.5. How long will the Program be in effect?
+The Program was established to respond to uncertainty related to the COVID-19 pandemic and
+is authorized to purchase participations in MSNLF Loans, MSPLF Loans, and MSELF Upsized
+Tranches until September 30, 2020. The Main Street SPV will cease purchasing loan
+participations on September 30, 2020, unless the Program is extended by the Board and the
+Treasury Department. The Federal Reserve Bank of Boston (FRB Boston) will continue to
+operate the SPV after such date until the Main Street SPV’s assets mature or are sold.
+
+
+
+
+                                                5
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+
+  A.6. Is there a limit to the size of the Program?
+The Main Street SPV will purchase up to $600 billion of participations in eligible loans. The
+Federal Reserve and the Treasury Department have assessed this amount to be appropriate in
+light of the current financial strains facing Eligible Borrowers. The Federal Reserve and the
+Treasury Department will continue to assess the situation and needs of Eligible Borrowers and
+may adjust the Program’s size in the future.
+  A.7. What are the differences between the Program and the Payroll Protection
+       Program and Primary Market Corporate Credit Facility?
+Similar to the Payroll Protection Program (PPP) and the Primary Market Corporate Credit
+Facility (PMCCF), Main Street was created to assist companies that have been adversely
+affected by the COVID-19 pandemic. Each of these programs, however, was developed to
+provide liquidity to companies of different sizes:
+   •   PPP: The PPP was established by the CARES Act and implemented by the Small Business
+       Administration (SBA) to support the payroll and operations of small businesses through
+       the issuance of government-guaranteed loans that include a forgiveness feature for
+       borrowers that satisfy the requirements of the PPP.
+
+   •   Main Street: The Federal Reserve designed Main Street to support small and medium-
+       sized businesses that were unable to access the PPP or that require additional financial
+       support after receiving a PPP loan. Main Street loans are not forgivable.
+
+   •   PMCCF: The Federal Reserve established the PMCCF to support large companies
+       through the purchase of eligible corporate bonds from, and lending through syndicated
+       loans to, large companies. PMCCF loans are not forgivable.
+
+B. MSNLF Loans
+  B.1. How does the MSNLF work?
+Eligible Lenders may extend a new MSNLF Loan to an Eligible Borrower and sell a 95%
+participation in that MSNLF Loan to the Main Street SPV at par value. All such sales will be
+structured as “true sales” and must be completed expeditiously after the origination of the
+MSNLF Loan. The Eligible Lender must retain 5% of the MSNLF Loan until it matures or the
+Main Street SPV sells all of its participation, whichever comes first. The Main Street SPV and
+the Eligible Lender would share in any losses on the MSNLF Loan on a pari passu basis.
+The Eligible Borrower must have been in sound financial condition prior to the onset of the
+COVID-19 pandemic. In order for an Eligible Borrower to receive an MSNLF Loan, any existing
+loan it had outstanding with the Eligible Lender as of December 31, 2019, must have had an
+internal risk rating (based on the Eligible Lender’s risk rating system) that was equivalent to a
+
+
+                                                 6
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+“pass” in the Federal Financial Institutions Examination Council’s (FFIEC) supervisory rating
+system as of that date.
+  B.2. What are the terms of MSNLF loans?
+The MSNLF term sheet is available on the Board’s Main Street page. More information will be
+made available on that page regarding loan participation terms, credit administration, and loan
+servicing.
+  B.3. What is the effect of the requirement that MSNLF Loans not be
+       “contractually subordinated in terms of priority” to other loans or debt
+       instruments?
+An MSNLF Loan, at the time of origination or at any time during its term, may not be
+contractually subordinated in terms of priority to the Eligible Borrower’s other loans or debt
+instruments. This means that an MSNLF Loan may not be junior in priority in bankruptcy to the
+Eligible Borrower’s other unsecured loans or debt instruments. This provision does not
+prevent:
+   •   the issuance of an MSNLF Loan that is a secured loan (including in a second lien or other
+       capacity) to an Eligible Borrower, whether or not the Eligible Borrower has an
+       outstanding secured loan of any lien position or maturity;
+   •   the issuance of an MSNLF Loan that is an unsecured loan to an Eligible Borrower,
+       regardless of the term or secured or unsecured status of the Eligible Borrower’s existing
+       indebtedness; or
+   •   the Eligible Borrower from taking on new secured or unsecured debt after receiving an
+       MSNLF Loan, provided the new debt would not have higher contractual priority in
+       bankruptcy than the MSNLF Loan.
+
+C. MSPLF Loans
+  C.1. How does the MSPLF work?
+Eligible Lenders may extend a new MSPLF Loan to an Eligible Borrower and sell an 85%
+participation in that MSPLF Loan to the Main Street SPV at par value. All such sales will be
+structured as “true sales” and must be completed expeditiously after the origination of the
+MSPLF Loan. The Eligible Lender must retain 15% of the MSPLF Loan until it matures or the
+Main Street SPV sells all of its participation, whichever comes first. The Main Street SPV and
+the Eligible Lender would share in any losses on the MSPLF Loan on a pari passu basis.
+The Eligible Borrower must have been in sound financial condition prior to the onset of the
+COVID-19 pandemic. In order for an Eligible Borrower to receive an MSPLF Loan, any existing
+loan it had outstanding with the Eligible Lender as of December 31, 2019, must have had an
+
+
+                                                7
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+internal risk rating (based on the Eligible Lender’s risk rating system) that was equivalent to a
+“pass” in the FFIEC’s supervisory rating system as of that date.
+  C.2. What are the terms of MSPLF loans?
+The MSPLF term sheet is available on the Board’s Main Street page. More information will be
+made available on that page regarding loan participation terms, credit administration, and loan
+servicing.
+
+D. MSELF Upsized Tranches
+  D.1. How does the MSELF work?
+Eligible Lenders that have extended an existing term loan or revolving credit facility to an
+Eligible Borrower may increase (or “upsize”) that extension of credit, by adding a new
+increment (or “tranche”). Eligible Lenders may sell a 95% participation in the MSELF Upsized
+Tranche to the Main Street SPV at par value. All such sales will be structured as “true sales”
+and must be completed expeditiously after the upsizing. The Eligible Lender must retain 5% of
+the MSELF Upsized Tranche until it matures or the Main Street SPV sells all of its participation,
+whichever comes first. The Eligible Lender must also retain its interest in the underlying loan
+until that loan matures, the MSELF Upsized Tranche matures, or the Main Street SPV sells all of
+its participation, whichever comes first. The Main Street SPV and the Eligible Lender would
+share in any losses on the MSELF Upsized Tranche on a pari passu basis. Any collateral that
+secures the underlying loan must secure the upsized tranche on a pro rata basis.
+To be eligible for “upsizing,” the existing term loan or revolving credit facility must have been
+originated on or before April 24, 2020, and must have a remaining maturity of at least
+18 months. The Eligible Lender may extend the maturity of an existing loan or revolving credit
+facility at the time of upsizing in order for the underlying instrument to satisfy the 18-month
+remaining maturity requirement.
+The Eligible Borrower must have been in sound financial condition prior to the onset of the
+COVID-19 pandemic. The existing loan or revolving credit facility must have had a risk rating,
+based on the Eligible Lender’s internal rating system, equivalent to a “pass” in the FFIEC’s
+supervisory rating system as of December 31, 2019.
+  D.2. What are the terms of MSELF Upsized Tranches?
+The MSELF term sheet is available on the Board’s Main Street page. More information will be
+made available on that page regarding loan participation terms, credit administration, and loan
+servicing.
+
+
+
+
+                                                 8
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+
+  D.3. Under the MSELF, can an Eligible Lender sell a participation in an upsized
+       tranche of a loan that was originated as part of a multi-lender facility?
+If the loan underlying an MSELF Upsized Tranche is part of a multi-lender facility, the Eligible
+Lender must be one of the lenders that holds an interest in the underlying loan at the date of
+upsizing. Only the Eligible Lender for the MSELF Upsized Tranche is required to meet the
+Eligible Lender criteria. Other members of the multi-lender facility are not required to be
+Eligible Lenders.
+
+E. Borrower Eligibility
+  E.1. Which entities are eligible to borrow under the Program?
+To be eligible to borrow under the Program, a Business must satisfy certain eligibility criteria, as
+set out in the MSNLF, MSPLF, and MSELF term sheets and described further below. The Eligible
+Borrower criteria are the same across all three facilities.
+   (1) The Business must have been established prior to March 13, 2020. The Business must
+       have been formed prior to March 13, 2020, under the laws of the United States, one of
+       the several states, the District of Columbia, any of the territories and possessions of the
+       United States, or an Indian Tribal government.
+   (2) The Business must not be an Ineligible Business. Ineligible Businesses include
+       Businesses listed in 13 CFR 120.110(b)-(j), (m)-(s), as modified and clarified by SBA
+       regulations for purposes of the PPP on or before April 24, 2020. Such modifications and
+       clarifications include the SBA’s recent interim final rules available at 85 Fed. Reg. 20811,
+       85 Fed. Reg. 21747, and 85 Fed. Reg. 23450. The Federal Reserve may further modify
+       the application of these restrictions to Main Street.
+
+   (3) The Business must meet at least one of the following two conditions: (a) the Business
+       has 15,000 employees or fewer, or (b) the Business has 2019 annual revenues of
+       $5 billion or less. Businesses must meet at least one of these conditions, but are not
+       required to meet both. To determine how many employees a Business has or a
+       Business’s 2019 revenues, the employees and revenues of the Business must be
+       aggregated with the employees and revenues of its affiliated entities.
+   (4) The Business must be a U.S. Business. Under section 4003(c)(3)(C) of the CARES Act,
+       Eligible Borrowers must be Businesses that were created or organized in the United
+       States or under the laws of the United States with significant operations in and a
+       majority of their employees based in the United States.
+   (5) The Business may only participate in one of the Main Street facilities (MSNLF, MSPLF,
+       or MSELF) and must not also participate in the PMCCF. An Eligible Borrower may only
+       participate in one of the Main Street facilities: the MSNLF, the MSPLF, or the MSELF. In
+       addition, a Business is not an Eligible Borrower if it participates in the PMCCF.
+                                                 9
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+   (6) The Business must not have received specific support pursuant to the Coronavirus
+       Economic Stabilization Act of 2020 (Subtitle A of Title IV of the CARES Act). A Business
+       is not eligible if it has received support pursuant to section 4003(b)(1)-(3) of the CARES
+       Act.
+   (7) The Business must be able to make all of the certifications and covenants required
+       under the Program. See the MSNLF, MSPLF, and MSELF term sheets and Section H of
+       these FAQs for more information.
+Borrowers that satisfy all criteria above may apply to an Eligible Lender for a Main Street loan.
+The Eligible Lender is expected to conduct an assessment of each potential borrower’s financial
+condition to determine whether the loan is approved.
+For the avoidance of doubt, a Business that has received PPP loans, or that has affiliates that
+have received PPP loans, is permitted to borrow under Main Street, provided that the Business
+is an Eligible Borrower. Borrowers that are not eligible for a Main Street loan should consult
+the Treasury Department and SBA to determine if they are eligible for other relief programs.
+  E.2. How is “Business” defined?
+Businesses must be legally formed entities that are organized for profit as a partnership; a
+limited liability company; a corporation; an association; a trust; a cooperative; a joint venture
+with no more than 49 percent participation by foreign business entities; or a tribal business
+concern.
+To be eligible for the Program, a tribal business concern must be either (i) wholly owned by one
+or more Indian tribal governments, or by a corporation that is wholly owned by one or more
+Indian tribal governments, or (ii) owned in part by one or more Indian tribal governments, or by
+a corporation that is wholly owned by one or more Indian tribal governments, if all other
+owners are either U.S. citizens or Businesses.
+Other forms of organization may be considered for inclusion as an Eligible Borrower under the
+Program at the discretion of the Federal Reserve.
+  E.3. How should a Business count employees for purposes of determining
+       eligibility under the Program?
+To be an Eligible Borrower, a Business must meet at least one of the following two conditions:
+(a) the Business has 15,000 employees or fewer, or (b) the Business has 2019 annual revenues
+of $5 billion or less. To determine how many employees a Business has, it should follow the
+framework set out in the SBA’s regulation at 13 CFR 121.106. As set out in 13 CFR 121.106, the
+Business should count as employees all full-time, part-time, seasonal, or otherwise employed
+persons, excluding volunteers and independent contractors. Businesses should count their own
+employees and those employed by their affiliates. In order to determine the applicable number
+of employees, Businesses should use the average of the total number of persons employed by
+
+                                                10
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+the Eligible Borrower and its affiliates for each pay period over the 12 months prior to the
+origination or upsizing of the Main Street loan.
+  E.4. How should a Business calculate 2019 revenues for purposes of
+       determining eligibility under the Program?
+To be an Eligible Borrower, a Business must meet at least one of the following two conditions:
+(a) the Business has 15,000 employees or fewer, or (b) the Business has 2019 annual revenues
+of $5 billion or less. To determine its 2019 annual revenues, Businesses must aggregate their
+revenues with those of their affiliates. Businesses may use either of the following methods to
+calculate 2019 annual revenues for purposes of determining eligibility:
+   (1) A Business may use its (and its affiliates’) annual “revenue” per its 2019 Generally
+       Accepted Accounting Principles-based (GAAP) audited financial statements; or
+   (2) A Business may use its (and its affiliates’) annual receipts for the fiscal year 2019, as
+       reported to the Internal Revenue Service. For purposes of the Program, the term
+       “receipts” has the same meaning used by the SBA in 13 CFR 121.104(a).
+If a potential borrower (or its affiliate) does not yet have audited financial statements or annual
+receipts for 2019, the borrower (or its affiliate) should use its most recent audited financial
+statements or annual receipts.
+  E.5. Which entities are a Business’s affiliates for purposes of the employee and
+       revenue eligibility criteria?
+To determine eligibility, a Business’s employees and 2019 revenues are calculated by
+aggregating the employees and 2019 revenues of the Business itself with those of the
+Business’s affiliated entities in accordance with the affiliation test set forth in 13 CFR 121.301(f)
+(1/1/2019 ed.).
+  E.6. Are non-profit organizations eligible to borrow under the Program?
+While non-profit organizations are not currently eligible under the Program, the Federal
+Reserve acknowledges the unique needs of non-profit organizations, many of which are on the
+front lines providing critical services and research to fight the pandemic. EBITDA is the key
+underwriting metric required for the MSNLF, MSPLF, and MSELF. The Federal Reserve
+recognizes that the credit risk of non-profit organizations, as a matter of practice, is generally
+not evaluated on the basis of EBITDA. The Federal Reserve and the Treasury Department will
+be evaluating the feasibility of adjusting the borrower eligibility criteria and loan eligibility
+metrics of the Program for such organizations.
+
+
+
+
+                                                 11
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+
+  E.7. Will an alternative underwriting metric be developed for asset-based
+       borrowers?
+EBITDA is the key underwriting metric required for the MSNLF, MSPLF, and MSELF. The Federal
+Reserve recognizes that the credit risk of asset-based borrowers, as a matter of practice, is
+generally not evaluated on the basis of EBITDA. The Federal Reserve and the Treasury
+Department will be evaluating the feasibility of adjusting the loan eligibility metrics of the
+Program for such borrowers.
+
+F. Application Process
+  F.1. How can I apply for a Program loan?
+To obtain a loan under the Program, an Eligible Borrower must submit an application and any
+other documentation required by an Eligible Lender to such Eligible Lender. Eligible Borrowers
+should contact an Eligible Lender for more information on whether the Eligible Lender plans to
+participate in the Program and to request more information on the application process.
+Updates regarding the Program, including the official launch date and the time and date at
+which the Main Street SPV will begin purchasing participations in MSNLF Loans, MSPLF Loans,
+and MSELF Upsized Tranches, will be made available on the Board’s Main Street page
+  F.2. Is a Business eligible to borrow if it receives a PPP loan?
+A Business that receives a loan through the SBA’s PPP can be an Eligible Borrower under Main
+Street if it meets the Eligible Borrower criteria.
+  F.3. Do Eligible Borrowers qualify automatically for a loan under the Program?
+No. The term sheet contains minimum requirements for the Program. Eligible Lenders are
+expected to conduct an assessment of each potential borrower’s financial condition at the time
+of the potential borrower’s application. Eligible Lenders will apply their own underwriting
+standards in evaluating the financial condition and creditworthiness of a potential borrower.
+An Eligible Lender may require additional information and documentation in making this
+evaluation and will ultimately determine whether an Eligible Borrower is approved for a
+Program loan in light of these considerations. Businesses that otherwise meet the Eligible
+Borrower requirements may not be approved for a loan or may not receive the maximum
+allowable amount.
+
+G. Terms and Conditions
+  G.1. How will adjusted 2019 EBITDA be calculated?
+For MSNLF and MSPLF, the methodology used by the Eligible Lender to calculate adjusted 2019
+EBITDA for an Eligible Borrower must be a methodology it previously used for adjusting EBITDA
+
+
+                                              12
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+when extending credit to the Eligible Borrower or to similarly situated borrowers on or before
+April 24, 2020.
+For MSELF Eligible Loans, the methodology used by the Eligible Lender to calculate adjusted
+2019 EBITDA for the Eligible Borrower must be the methodology it previously used for adjusting
+EBITDA when originating or amending the underlying loan on or before April 24, 2020.
+  G.2. How will “existing outstanding and undrawn available debt” be calculated?
+“Existing outstanding and undrawn available debt” includes all amounts borrowed under any
+loan facility, including unsecured or secured loans from any bank, non-bank financial institution,
+or private lender, as well as any publicly issued bonds or private placement facilities. It also
+includes all unused commitments under any loan facility, excluding (1) any undrawn
+commitment that serves as a backup line for commercial paper issuance, (2) any undrawn
+commitment that is used to finance receivables (including seasonal financing of inventory),
+(3) any undrawn commitment that cannot be drawn without additional collateral, (4) any
+undrawn commitment that is no longer available due to change in circumstance. Existing
+outstanding and undrawn available debt should be calculated as of the date of the loan
+application.
+  G.3. Why are Program loans based on LIBOR rather than SOFR?
+The Federal Reserve received feedback from potential participants that quickly implementing
+new systems to issue loans based on SOFR would require diverting resources from challenges
+related to the pandemic. Although financial institutions are transitioning to more robust
+reference rates, LIBOR remains the most common base rate used in business lending, even
+though firms cannot rely on LIBOR being published after the end of 2021. Consistent with the
+recommendations of the Alternative Reference Rates Committee, Eligible Lenders and Eligible
+Borrowers should include fallback contract language to be used should LIBOR become
+unavailable during the term of the loan.
+  G.4. When do I need to start paying interest on my loan?
+No payments of principal or interest will be required during the first 12 months of the loan.
+Principal and interest payments for all loans obtained under the Program (MSNLF, MSPLF, or
+MSELF) are deferred for one year. Unpaid interest will be capitalized.
+  G.5. How will principal be amortized after the first year?
+   •   MSNLF: No principal is paid in the first year. The loan will be amortized over the
+       remaining term of the loan, with one-third of principal due at the end of each of years 2
+       and 3, and one-third due at maturity at the end of year 4.
+   •   MSPLF and MSELF: No principal is paid in the first year. The loan will be amortized over
+       the remaining term of the loan, with 15% of principal due at the end of year 2, 15% of
+
+
+                                               13
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+       principal due at the end of year 3, and a balloon payment of 70% of principal due at
+       maturity at the end of year 4.
+For purposes of this question, principal includes capitalized interest. Eligible Lenders will
+provide Eligible Borrowers with payment information during the Program loan origination
+process.
+  G.6. Is collateral required for Main Street loans?
+MSNLF Loans, MSPLF Loans, and MSELF Upsized Tranches may be secured or unsecured.
+An MSELF Upsized Tranche must be secured if the underlying loan is secured. In such case, any
+collateral securing the underlying loan (at the time of upsizing or on any subsequent date) must
+secure the MSELF Upsized Tranche on a pro rata basis. Under such an arrangement, if the
+borrower defaults, the SPV and lender(s) would share equally in any collateral available to
+support the loan relative to their proportional interests in the loan (including the MSELF
+Upsized Tranche). Eligible Lenders can require Eligible Borrowers to pledge additional collateral
+to secure an MSELF Upsized Tranche as a condition of approval.
+  G.7. Are there fees associated with Main Street loans?
+Yes, there are fees associated with the MSNLF, MSPLF, and MSELF.
+   •   MSNLF and MSPLF: Eligible Lenders will pay the Main Street SPV a transaction fee of
+       100 basis points of the principal amount of the MSNLF or MSPLF Loan at the time of
+       origination, and may pass on this fee to Eligible Borrowers. In addition, the Eligible
+       Borrower will pay the Eligible Lender a fee of up to 100 basis points of the principal
+       amount of the MSNLF or MSPLF Loan at the time of origination. Eligible Lenders have
+       discretion over whether and when to charge Eligible Borrowers this fee.
+   •   MSELF: Eligible Lenders will pay the Main Street SPV a transaction fee of 75 basis points
+       of the principal amount of the MSELF Upsized Tranche at the time of upsizing, and may
+       choose to pass on this fee to Eligible Borrowers. In addition, the Eligible Borrower will
+       pay an Eligible Lender a fee of up to 75 basis points of the principal amount of the
+       MSELF Upsized Tranche at the time of upsizing. Eligible Lenders have discretion over
+       whether and when to charge Eligible Borrowers this fee.
+The SPV will pay an Eligible Lender 25 basis points of the principal amount of its participation
+per annum for loan servicing.
+  G.8. What constitutes “commercially reasonable efforts” to maintain payroll
+       and retain employees?
+Eligible Borrowers should make commercially reasonable efforts to retain employees during the
+term of the MSNLF Loan, MSPLF Loan, or MSELF Upsized Tranche. Specifically, an Eligible
+Borrower should undertake good-faith efforts to maintain payroll and retain employees, in light
+of its capacities, the economic environment, its available resources, and the business need for
+                                                14
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+labor. Borrowers that have already laid-off or furloughed workers as a result of the disruptions
+from COVID-19 are eligible to apply for Main Street loans.
+  G.9. Can an Eligible Borrower receive more than one Main Street loan?
+An Eligible Borrower may only participate in one of the Main Street facilities: the MSNLF, the
+MSPLF, or the MSELF. However, an Eligible Borrower may receive more than one loan under a
+single Main Street facility, provided that the sum of MSNLF Loans or MSPLF Loans received by a
+single borrower cannot exceed $25 million; and the sum of MSELF Upsized Tranches received
+by a single borrower cannot exceed $200 million.
+
+H. Certifications and Covenants
+  H.1. Are the required certifications and covenants under the three Main Street
+       facilities the same?
+While most of the certifications and covenants are the same, there are two variations. The
+Eligible Lender certification relating to EBITDA is different in the MSELF than it is in the MSNLF
+and MSPLF, owing to fact that the MSELF necessarily includes an existing loan from the Eligible
+Lender. In addition, the MSPLF includes a modification to the Eligible Borrower covenant
+regarding debt repayment to allow an Eligible Borrower to refinance existing debt owed to a
+lender that is not the Eligible Lender at the time the MSPLF Loan is originated.
+  H.2. What compensation, stock repurchase and capital distributions restrictions
+       apply?
+The compensation, stock repurchase, and capital distribution restrictions that apply to direct
+loan programs under section 4003(c)(3)(A)(ii) of the CARES Act apply under each of the MSELF,
+MSNLF and MSPLF, except that, in each case, restrictions on dividends and other capital
+distributions will not apply to distributions made by an S corporation or other tax pass-through
+entity to the extent reasonably required to cover its owners’ tax obligations in respect of the
+entity’s earnings.
+  H.3. What restrictions are placed on the Eligible Borrower’s ability to repay
+       existing debt?
+The restrictions on repaying debt vary across the various Main Street loans:
+   •   MSNLF and MSELF: The Eligible Borrower must commit to refrain from repaying the
+       principal balance of, or paying any interest on, any debt until the MSNLF Loan or the
+       MSELF Upsized Tranche is repaid in full, unless the debt or interest payment is
+       mandatory and due. The Eligible Borrower must also commit that it will not seek to
+       cancel or reduce any of its committed lines of credit with the Eligible Lender or any
+       other lender.
+
+
+                                                15
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+   •    MSPLF: The Eligible Borrower must commit to refrain from repaying the principal
+        balance of, or paying any interest on, any debt until the MSPLF Loan is repaid in full,
+        unless the debt or interest payment is mandatory and due; however, the Eligible
+        Borrower may, at the time of origination of the MSPLF Loan, refinance existing debt
+        owed by the Eligible Borrower to a lender that is not the Eligible Lender. The Eligible
+        Borrower must also commit that it will not seek to cancel or reduce any of its committed
+        lines of credit with the Eligible Lender or any other lender.
+These covenants would not prohibit an Eligible Borrower from undertaking any of the following
+actions during the term of the MSNLF Loan, MSPLF Loan, or MSELF Upsized Tranche:
+    •   repaying a line of credit (including a credit card) in accordance with the Eligible
+        Borrower’s normal course of business usage for such line of credit;
+    •   taking on and paying additional debt obligations required in the normal course of
+        business and on standard terms, including inventory and equipment financing, provided
+        that such debt is secured by newly acquired property (e.g., inventory or equipment),
+        and, apart from such security, is of equal or lower priority than the MSNLF Loan, the
+        MSPLF Loan, or the MSELF Upsized Tranche; or
+    •   refinancing maturing debt.
+
+  H.4. Is an Eligible Lender permitted to accept partial repayment of an Eligible
+       Borrower’s existing line of credit with the Eligible Lender?
+The Eligible Lender would not be prevented from accepting regularly scheduled, periodic
+repayments on a line of credit from an Eligible Borrower in accordance with the Eligible
+Borrower’s normal course of business usage for such line of credit.
+  H.5. What restrictions are placed on an Eligible Lender’s ability to cancel or
+       reduce any existing committed lines of credit outstanding?
+An Eligible Lender must commit that it will not cancel or reduce any existing committed lines of
+credit outstanding to the Eligible Borrower, except in an event of default. This requirement
+does not prohibit the reduction or termination of uncommitted lines of credit, the expiration of
+existing lines of credit in accordance with their terms, or the reduction of availability under
+existing lines of credit in accordance with their terms due to changes in borrowing bases or
+reserves in asset-based or similar structures.
+  H.6. What is the Eligible Lender’s role in verifying certifications and covenants?
+An Eligible Lender is required to collect the required certifications and covenants from each
+Eligible Borrower at the time of origination or upsizing. Eligible Lenders may rely on an Eligible
+Borrower’s certifications and covenants, as well as any subsequent self-reporting by the Eligible
+Borrower. The Eligible Lender is not expected to independently verify the Eligible Borrower’s
+certifications or actively monitor ongoing compliance with covenants required for Eligible
+
+                                                 16
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+Borrowers under the Main Street term sheets. If an Eligible Lender becomes aware that an
+Eligible Borrower made a material misstatement or otherwise breached a covenant during the
+term of an MSNLF Loan, MSPLF Loan, or MSELF Upsized Tranche, the Eligible Lender should
+notify the FRB Boston.
+
+I.     Lender Information
+     I.1. Which financial institutions are eligible to make loans under the Program?
+U.S. federally-insured depository institutions (including banks, savings associations, and credit
+unions), U.S. branches or agencies of foreign banks, U.S. bank holding companies, U.S. savings
+and loan holding companies, U.S. intermediate holding companies of foreign banking
+organizations, or any U.S. subsidiary of any of the foregoing are eligible to participate in the
+Program. At this time, nonbank financial institutions are not considered Eligible Lenders for
+purposes of the Program. However, the Federal Reserve is considering options to expand the
+list of Eligible Lenders in the future.
+     I.2. How should an Eligible Lender evaluate an Eligible Borrower’s
+          creditworthiness?
+Eligible Lenders should view the eligibility criteria in the term sheets as the minimum
+requirements for the Program. Eligible Lenders are expected to conduct an assessment of each
+potential borrower’s financial condition at the time of the potential borrower’s application.
+Eligible Lenders will apply their own underwriting standards in evaluating the financial
+condition and creditworthiness of a potential borrower. An Eligible Lender may require
+additional information and documentation in making this evaluation and will ultimately
+determine whether an Eligible Borrower is approved for a Program loan in light of these
+considerations. Businesses that otherwise meet the Eligible Borrower requirements may not be
+approved for a loan or receive the maximum allowable amount.
+
+J. Loan Participation
+     J.1. What loan documentation is required to sell a participation to the Main
+          Street SPV under the Program?
+Information regarding the loan documentation required to sell a loan participation to the SPV
+will be made available on the Board’s website.
+     J.2. What loan-level information will the SPV collect for credit monitoring
+          purposes?
+The SPV will collect information on certifications, covenants, lender, loan terms, and loan
+performance as well as the borrower, borrower fundamentals, collateral, and other
+characteristics. The information will be used to verify that the lender, loan, and borrower meet
+
+                                                17
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+eligibility requirements and to support ongoing accounting and credit risk monitoring needs
+with respect to purchased loan participations. Information will be collected at different stages
+and at appropriate frequencies through a variety of channels designed to accommodate the
+range of Eligible Lenders and Eligible Borrowers anticipated to participate in the
+program. More details will be provided at a later date.
+  J.3. Is there a limit to the volume of participations the Main Street SPV can
+       purchase from a single Eligible Lender?
+Apart from the Program’s size and time limitations, there is no limit on the amount of
+participations the Main Street SPV can purchase from a single Eligible Lender.
+
+K. Regulatory Treatment
+  K.1. What is the regulatory capital treatment for the interest in a Main Street
+       loan retained by an Eligible Lender?
+The interest in the portion of a Main Street loan that is retained by an Eligible Lender should be
+assigned the risk weight applicable to the counterparty for the loan—generally a 100 percent
+risk weight for a corporate exposure under the standardized approach. For purposes of risk-
+based capital rules and leverage rules, the exposure amount for MSPLF Loans is 15 percent of
+the outstanding MSPLF Loan balance; and the exposure amount for MSNLF Loans and MSELF
+Upsized Tranches is 5 percent of the MSNLF Loan balance or MSELF Upsized Tranche balance,
+respectively. With respect to the MSELF, this treatment applies only to the outstanding MSELF
+Upsized Tranche balance; the underlying loan or line of credit would be subject to the capital
+treatment that applied prior to the sale of the participation to the Main Street SPV.
+Secured Main Street loans are eligible for the credit risk mitigation treatment in the
+standardized approach provided that any collateral securing the loan is eligible financial
+collateral. Eligible Lenders are not permitted to recognize collateral attributable to the Main
+Street SPV’s interest for purposes of the credit risk mitigation treatment under the capital rule.
+The treatment described above applies only to Eligible Lenders that are subject to the federal
+banking agencies’ capital rule. Credit unions that participate in the Program are subject to any
+capital requirements implemented by the National Credit Union Administration.
+
+L. Operational Details
+  L.1. How will the Federal Reserve administer the Program?
+The Program will be administered by the FRB Boston, which will establish the Main Street SPV
+to purchase loan participations from Eligible Lenders in any of the twelve Federal Reserve
+districts. Further detail regarding how the Program will be operationalized will be made
+available in the future.
+
+
+                                                18
+This document is no longer effective.
+FAQs in this document have been updated, see: https://www.bostonfed.org/mslp-faqs
+
+  L.2. What information will the Federal Reserve disclose regarding the Main
+       Street facilities?
+The Federal Reserve will disclose information regarding the MSNLF, MSPLF, and MSELF during
+the operation of the facilities, including information regarding names of lenders and borrowers,
+amounts borrowed and interest rates charged, and overall costs, revenues and other fees.
+Balance sheet items related to the MSNLF, MSPLF and MSELF will be reported weekly, on an
+aggregated basis, on the H.4.1 statistical release titled "Factors Affecting Reserve Balances of
+Depository Institutions and Condition Statement of Federal Reserve Banks," published by the
+Federal Reserve. In addition, the Federal Reserve will disclose to Congress information
+pursuant to Section 13(3) of the Federal Reserve Act, as amended by the Dodd-Frank Wall
+Street Reform and Consumer Protection Act, and the Board’s Regulation A.
+
+Under section 11(s) of the Federal Reserve Act, the Federal Reserve also will disclose
+information concerning the facilities one year after the effective date of the termination by the
+Board of the authorization of the facilities. This disclosure will include names and identifying
+details of each participant in the facilities, the amount borrowed, the interest rate or discount
+paid, and information concerning the types and amounts of collateral pledged or assets
+transferred in connection with participation in the facilities.
+
+
+
+
+                                                19
+
