@@ -21,6 +21,6 @@ Content categories:
 - [x] request for proposals
 - [x] direct deposit forms
 - [x] loan applications
-- [ ] credit card authorization
+- [x] credit card authorization
 - [ ] expense reimbursement forms
 - [ ] insurance verification forms
