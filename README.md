@@ -25,3 +25,4 @@ Content categories:
 - [ ] expense reimbursement forms
 - [ ] insurance verification forms
 - [x] hsa fsa forms
+- [x] student info requests
