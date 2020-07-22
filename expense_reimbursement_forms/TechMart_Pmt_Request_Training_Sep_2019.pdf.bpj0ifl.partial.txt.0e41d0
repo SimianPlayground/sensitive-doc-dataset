@@ -1,0 +1,415 @@
+Payment Request & Employee
+   Reimbursement Forms
+
+
+
+                      1
+                     Topics
+
+•   Payment Services forms for non-PO purchases
+•   Payment Request Usages List
+•   How to complete forms in TechMart
+•   Preview of Invoice Workflow
+
+
+
+
+                                     2
+         Payment Services Forms
+• For expenses that DO NOT require Purchase Orders
+• Forms located on the Shopping Home page
+• Some forms are for specific departments only
+
+
+
+
+                                          3
+         PTA Payment Request Form
+Instructions page – link to the Payment Request Usages
+List. Refer to list for payment categories
+
+
+
+
+                                           4
+Payment Request Usage List
+                     • Do not confuse with
+                       Oracle Expenditure
+                       Types
+
+                     • Purchases not on the
+                       Usage List must be
+                       submitted on another
+                       form (After-the-Fact or
+                       Spot Buy)
+
+                     • Travel expenses for
+                       employees and visitors
+                       must be submitted via
+                       CardQuest (airfare,
+                       hotel, etc.)
+               Step 1 – Details
+• Free-form field defaults with the TechMart template
+  name. Delete text and enter Payee/Supplier Name.
+• Labeling the Supplier Name field assists the
+  Specialty Team in identifying requests. Do not skip
+  field.
+• Save and go to the next step
+
+
+
+
+                                          6
+       Step 2 – Supplier Name & Address
+• Enter partial name in Supplier field and list of values appear
+• Linked to Oracle Supplier database for existing suppliers. Be careful of
+  selecting similar supplier or individual names
+• Skip Shipping and Handling fields
+• Verify and select Remit-To Address (if more than one)
+
+
+
+
+                                                        7
+                 Step 2 – Employee Record
+• Records are linked to Oracle HR
+  and employees are responsible for
+  updating their personal information
+  via Caltech Access account
+   Note: Payroll direct deposit is not linked to
+   Oracle AP. Employees must enroll
+   separately with Payment Services.
+• Select the correct employee name
+  to avoid paying the wrong
+  individual. Refer to department next
+  to the name.
+
+• Addresses are not visible and
+  defaults as “Provisional.” Employee
+  information is confidential.
+                 Step 2 – New Supplier
+• Enter “New Supplier” if payee is not listed on the database
+• Remember to enter the name in “Details” section even if new payee
+  pending Oracle set up
+• Skip Shipping and Handling fields
+• Remit-To Address defaults to “New Supplier.” The address field is on
+  the Questions Section.
+
+
+
+
+                                                     9
+                  Step 3 – Questions
+• Complete all questions to
+  prevent form request errors
+
+• Select the most applicable
+  payment category
+
+• Do not confuse with Oracle
+  Expenditure Types
+
+
+
+
+                                       10
+Questions – Payment Category
+             • Use the dropdown list to select
+               Payment Category. Refer to
+               Usage List on the Procurement
+               Services website
+
+             • If not listed, submit on either
+               Employee Reimbursement or
+               Supplier After-the-Fact Form
+
+             • Optionally, use P-Card to pay
+               the supplier (if accepted)
+
+
+                               11
+Questions - Payment Info
+            • Invoice Number – Enter invoice
+              number if provided by supplier. If
+              none, enter PR+MMDDYY (date
+              of submission)
+
+            • Account Number – leave blank if
+              not applicable
+
+            • Amount – invoice amount due to
+              supplier or employee
+
+            • Invoice Date – enter supplier’s
+              invoice date or today’s date
+
+                              12
+              Questions - Payment Info
+
+• Description/Justification – enter
+  reason for payment; information
+  should be relevant to the payee
+
+• Text will populate in Oracle as
+  the Invoice Description
+
+• Description will be printed on
+  the check or EFT/ACH
+  notification with limited
+  characters
+
+• Currency field defaults to USD.
+  Do not change.
+
+                                      13
+          Questions – Tax Reporting
+• For goods, food, utilities, mileage, etc., select “Not
+  reportable income.”
+• For Service, Honorarium, Royalty, Prize/Award, select
+  appropriate category from the dropdown list
+• Important to specify foreign or US payees
+
+
+
+
+                                            14
+Questions – Tax Reporting
+
+               • If paying income,
+                 additional tax reporting
+                 questions are listed.
+
+               • The answers determine
+                 the type of tax forms
+                 necessary and if
+                 withholding is
+                 applicable.
+              Questions – Special Notes
+Entertainment Category:           Special Instructions:
+
+Caltech Policy requires           Internal notes for Specialty Team
+purpose, date, and list of        such as due date, rush, Will Call,
+attendees. Enter information      etc.
+on this field or attach a list.
+
+
+
+
+                                                   16
+              Questions – New Supplier
+• Click “Yes” to create a new
+  supplier or update an existing
+  record
+
+• Enter supplier information (name,
+  address, email, phone #, etc.)
+
+• Specialty Team member will
+  submit request to Supplier
+  Management to create/update
+  supplier record.
+
+
+
+
+                                      17
+Questions – Disposition of Payment
+
+               • Select check or direct deposit
+               • Provide FedEx and USPS forms
+                 by campus mail or drop off to MC
+                 103-6, if applicable. Mail Services
+                 cannot mail checks without forms.
+               • Oracle default payment disposition
+                 supersedes the method selected
+               • Contact Specialty Team to
+                 confirm, if needed
+               • Payees may sign up for direct
+                 deposit. Forms are available on
+                 the Procurement Services
+                 website.
+
+                                   18
+                  Step 4 – PTA Codes
+• Select PTA and E-Type
+• Default PTA in your profile is displayed
+• Multiple PTA’s can be added to your profile to quickly select
+  account(s)
+• Click “Edit” to change or split PTA or E-Type
+
+
+
+
+                                                   19
+             PTA Codes – by Percent
+• Select “Add Split” for multiple PTAs. For best results, use
+  “% of Qty” to allocate by percentage.
+• To assist with allocation, use “Show Monetary Calculations”
+  to view amounts.
+
+
+
+
+                                             20
+                PTA Codes – by Amount
+• To allocate costs by amount, use “Amount of Price” from the drop-down
+  menu
+• Enter amounts per PTA or E-Type
+• If your profile has a default PTA, misc. invoice lines will not appear
+  (discounts, tax, shipping, handling, etc.).
+
+
+
+
+                                                      21
+              PTA Codes – by Amount
+• Without a default PTA, TechMart requires manual entry for other
+  invoice fields such as discounts, tax, shipping, handling, etc.
+• For best results, setup profile with a default PTA for Payment
+  Requests or allocate cost by percentage
+
+
+
+
+                                                 22
+                  PTA Codes – No default
+•   Workaround for not having a default PTA
+•   Select “% of Qty” and enter percentage. Click save.
+•   After saving, change to “Amount of price” and enter amounts
+•   This step allows bypassing of the manual entry of tax, shipping,
+    handling fields, etc.
+
+
+
+
+                                                         23
+                Step 5 – Additional Info
+• For most users, this section will be blank or limited selection.
+• For Facilities Services, enter AiM Work Order Number.
+
+
+
+
+                                                    24
+                  Step 6 – Attachments
+• Attach invoice, receipts or other supporting documentation.
+• Click “Add Attachment” and upload documents from your computer.
+• Enter a name in the Title field and click browse. Save changes when
+  finished. Click “Save” twice.
+
+
+
+
+Note: Original records must be retained by the requestor in accordance to
+the Caltech Record Retention Guidelines. For more information, please
+see the Guidelines and Schedule
+
+
+
+                                                      25
+           Step 7 – Review and Submit
+• Review if all required fields have been completed (green check)
+• Correct or complete missing sections (marked with red X)
+• Click “Submit” when finished.
+
+
+
+
+                                                 26
+                        Form Approval
+• Check request status by querying the Form Number or go to
+  Documents > My Forms.
+• Submitted requests will have form status “Under Review” until audited
+  and approved by a Specialty Team member.
+
+
+
+
+• After Form Approval, a voucher is created in Invoice Workflow.
+
+
+
+
+                                                      27
+                      Invoice Approval
+• Once the invoice is created, it stops in the Invoice Workflow for final
+  review and approval (sales/use tax, withholding, etc.)
+• The next step is Financial Approver.
+• After FA, invoice is exported to Oracle for payment according to the due
+  date.
+• To review Invoice Workflow, click the “Approvals” tab.
+
+
+
+
+                                                       28
+                       Workflow Steps
+• “Approvals” tab displays the status of the voucher (invoice) and each
+  step completed.
+• The Financial Approver must be set up in your TechMart profile.
+• There may be other workflow stops depending on the type of payment
+  or supplier (Withholding Review, Wire Review, etc.)
+
+
+
+
+                                                      29
+               Employee Reimbursement
+•   Available methods to order and pay for goods and services:
+            TechMart Catalog Suppliers
+            Spot Buy
+            Declining Balance PO
+            P-Card
+•   If an expense is NOT on the Payment Request Usage List, a Purchase
+    Order is required for the commodity. Reimbursement for unauthorized
+    purchases are submitted on the Employee Reimbursement Form.
+
+•   Reimbursements are processed with a reasonable explanation. All requests
+    require justification and Financial Approver regardless of amount.
+
+•   Requests must have receipts with proof of payment (credit card, bank
+    statement, ApplePay, PayPal, etc.).
+
+•   Do not combine receipts with sales tax, without tax, and nontaxable.
+    Separating receipts prevent over-charging use tax to the PTA.
+Employee Reimbursement
+          • Completing the form consists of
+            similar steps as the PTA
+            Payment Request Form. Refer
+            to previous section.
+
+          • Preparer must state the
+            business purpose for the
+            reimbursement.
+
+          • Reasonable description must
+            be provided.
+             Employee Reimbursement
+• Additional justification is
+  required for bypassing
+  established Procurement
+  Services procedures.
+
+• Provide an explanation how
+  the policy violation will be
+  prevented in the future.
+                             Resources
+Employee Direct Deposit Form
+http://forms.caltech.edu/Procurement/emp_direct_deposit_authorization_form.pdf
+
+Supplier EFT Form
+http://forms.caltech.edu/Procurement/supplier_direct_deposit_authorization.pdf
+
+Expenditure Type Training
+http://finance.caltech.edu/documents/541-what_is_allowable_final_.pdf
+            Contact Info
+
+           Specialty Team
+       Tanya Cormarkovic – x8101
+           Hazel Hall – x3689
+        Monique McMillan – x3097
+          Tess Perez – x2855
+
+    Email: SpecialtyTeam@caltech.edu
+System Support: TechMartHelp@caltech.edu
+
