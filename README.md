@@ -25,7 +25,7 @@ Content categories:
 - [x] loan applications
 - [x] credit card authorization
 - [x] expense reimbursement forms
-- [ ] insurance verification forms
+- [x] insurance verification forms
 - [x] hsa fsa forms
 - [x] student info requests
 - [ ] withholding exemption certificate
