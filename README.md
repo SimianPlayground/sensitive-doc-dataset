@@ -11,6 +11,7 @@ PDF is then parsed using pdftotext:
 `ls -1 | grep -v ".txt" | xargs -t -L1 -I {} pdftotext -layout "{}`
 
 Parsed text file larger than 100K and smaller than 2K are pruned.
+
 Dupes are removed with `fdupes -r * -d -N`
 
 
