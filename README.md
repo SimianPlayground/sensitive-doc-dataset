@@ -26,3 +26,4 @@ Content categories:
 - [ ] insurance verification forms
 - [x] hsa fsa forms
 - [x] student info requests
+- [ ] withholding exemption certificate
