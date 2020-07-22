@@ -1,0 +1,394 @@
+                                          Iowa Medicaid Enterprise
+                                       Dental Claim Form Instructions
+                                        2006 ADA Dental Claim Form
+
+
+   These are the revised and updated instructions for the 2006 ADA Dental Claim Form. The instructions
+   are organized by field number, field name/description, whether or not that field is required, and a brief
+   description of the information that needs to be entered in that field, and how it needs to be entered.
+
+   Major changes include:
+
+      •   NPI ONLY WILL BE ACCEPTED ON CLAIMS. ALL OTHER PROVIDER
+          IDENTIFIERS INCLUDING BUT NOT LIMITED TO LEGACY AND UPIN NUMBERS
+          ARE NO LONGER ACCEPTED.
+      •   Field 49.       The Billing NPI is REQUIRED.
+      •   Field 52A.      This field MUST be BLANK. Entering information in this field will cause the
+                          claim to be returned.
+      •   Field 54.       The Rendering/Treating NPI is REQUIRED if applicable.
+      •   Field 56A.      The Taxonomy Code associated with the Billing NPI is REQUIRED.
+      •   Field 58.       This field MUST be BLANK. Entering information in this field will cause the
+                          claim to be returned.
+   Note: If a claim is submitted with any legacy numbers, the claim will be returned.
+
+   If you have any questions about this information, please contact Provider Services at 1-(800)-338-7909.
+   (Local in the Des Moines area at (515)-725-1004)
+
+
+FIELD
+      FIELD NAME/DESCRIPTION         REQUIREMENTS       INSTRUCTIONS
+ NO.
+                                                       Check “Statement of Actual Services” if the statement is
+                                                       for actual services.
+
+                                                       Check “EPSDT/Title XIX” if the services are a result of a
+                                                       referral from an EPSDT Care for Kids screening
+ 1.       Type of Transaction         REQUIRED
+                                                       examination.
+
+                                                       Note:
+                                                       Requests for predetermination/preauthorization should be
+                                                       completed using the prior authorization form.
+                                                       REQUIRED if Medicaid has assigned a
+          Predetermination/
+                                     SITUATIONAL       predetermination/Prior authorization number for the
+ 2.    Preauthorization Number
+                                                       services. Enter the prior authorization number for the
+                                                       services.
+INSURANCE COMPANY/DENTAL BENEFIT PLAN INFORMATION
+        Company/Plan Name,
+ 3.    Address, City, State, Zip       OPTIONAL        No entry required.
+                Code
+
+
+
+
+                                                                                                               1
+OTHER COVERAGE
+                                                Check “NO” if the member does not have other medical or
+                                                dental insurance.
+
+                                                Check “YES” if the member has other insurance and
+                                                payment was received from the other insurance. (Indicate
+                                                amount in #32.)
+
+                                                Check both “NO” and “YES” if the member has other
+      Other Dental or Medical
+4.                                REQUIRED      insurance and you have received a denial from that
+            Coverage?
+                                                insurance.
+
+                                                Note:
+                                                Medicaid should be billed only after the other insurance
+                                                plans have been billed.
+
+                                                If “YES”, or if both “NO” and “YES” are checked, #5-11
+                                                must be completed.
+                                                REQUIRED if the patient has other insurance. Enter the
+       Name of Policyholder/
+5.                                SITUATIONAL   last name, first name, and middle initial of the primary
+         Subscriber in #4
+                                                subscriber.
+                                                REQUIRED if the patient has other insurance. Enter the
+6.         Date of Birth          SITUATIONAL   date of birth of the primary subscriber.
+                                                Entry should be made in MM/DD/YYYY format.
+                                                REQUIRED if the patient has other insurance. Check the
+7.            Gender              SITUATIONAL
+                                                appropriate box for the primary subscriber’s gender.
+
+           Policyholder/                        REQUIRED if the patient has other insurance. Enter the
+8.                                SITUATIONAL
+           Subscriber ID                        other insurance ID# or the SSN of the primary subscriber.
+
+                                                REQUIRED if the patient has other insurance. Enter the
+        Plan/Group Number
+9.                                SITUATIONAL   plan/group number for the other insurance of the primary
+                                                subscriber.
+                                                REQUIRED if the patient has other insurance. Check the
+      Patient’s Relationship to
+10.                               SITUATIONAL   appropriate box to reflect the relationship the Patient has
+       Person Named in # 5
+                                                with the policyholder named in #5.
+          Other Insurance
+                                                REQUIRED if the patient has other insurance. Enter the
+      Company/Dental Benefit
+11.                            SITUATIONAL      name, address, city, state, and zip code of the other
+     Plan Name, Address, City,
+                                                insurance company/dental benefit plan.
+          State, Zip Code
+POLICYHOLDER/SUBSCRIBER INFORMATION
+                                                Enter last name, first name, and middle initial of the
+     Policyholder/Subscriber                    Medicaid member.
+12. Name, Address, City, State,   REQUIRED
+            Zip Code                            Use the Medical Assistance Eligibility Card for
+                                                verification.
+                                                Enter the date of birth if the member.
+13.        Date of Birth          REQUIRED
+                                                Entry should be made in MM/DD/YYYY format.
+14.           Gender              REQUIRED      Check the appropriate box for the member’s gender.
+                                                Enter the Medicaid identification number of the member.
+                                                This number consists of seven numbers and a letter, i.e.
+           Policyholder/          REQUIRED      1234567A.
+15.
+           Subscriber ID
+                                                This number can be found on the Medical Assistance
+                                                Eligibility Card.
+16.     Plan/Group Number          OPTIONAL     No entry required.
+17.       Employer Name            OPTIONAL     No entry required.
+                                                                                                              2
+PATIENT INFORMATION
+           Relationship to
+18.   Policyholder/Subscriber in     OPTIONAL         No entry required.
+                 #12
+19.         Student Status           OPTIONAL         No entry required.
+      Name, Address, City, State,
+20.                                  OPTIONAL         No entry required.
+              Zip Code
+21.         Date of Birth            OPTIONAL       No entry required.
+22.            Gender                OPTIONAL       No entry required.
+                                                    Enter the number assigned by the Dentist’s office relating
+              Patient ID/             OPTIONAL
+23.                                                 to the patient’s account or the record number.
+              Account #
+                                                    This field is limited to 20 characters.
+RECORD OF SERVICES PROVIDED    (For Insurance Company Named in #3)
+                                                    Enter the date of service.
+                                                    Entry should be made in MM/DD/YYYY format.
+24.         Procedure Date            REQUIRED
+                                                    Note:
+                                                    One entry is required for each line billed.
+                                                    Report the area of the oral cavity unless one of the
+                                                    following conditions in #29 (procedure code) exists:
+                                                    a.     The procedure identified in #29 requires the
+                                                    identification of a tooth or a range of teeth.
+                                                    b.     The procedure identified in #29 incorporates a
+                                                    specific area of the oral cavity (for example: D5110
+                                                    complete denture – maxillary).
+                                                    c.     The procedure identified in #29 does not relate to
+                                                    any portion of the oral cavity (for example: D9220 deep
+                                                    sedation/general anesthesia – first 30 minutes).
+
+                                                      Note:
+25.      Area of Oral Cavity        SITUATIONAL
+                                                      The ANSI/ADA/ISO Specification No. 3950 – 1984
+                                                      Dentistry Designation System for Teeth and Areas of the
+                                                      Oral Cavity should be used in reporting the area of oral
+                                                      cavity. Valid entries are:
+                                                         00 Whole of the oral cavity
+                                                         01 Maxillary area
+                                                         02 Mandibular area
+                                                         10 Upper Right quadrant
+                                                         20 Upper Left quadrant
+                                                         30 Lower Left quadrant
+                                                         40 Lower Right quadrant
+
+26.         Tooth System             OPTIONAL         No entry required.
+                                                      When billing an applicable procedure code:
+                                                      Enter the tooth number (permanent teeth) or tooth letter
+                                                      (deciduous teeth).
+
+27.                                                   Note:
+         Tooth Number(s) or                           The ADA’s Universal/National Tooth Designation System
+                                    SITUATIONAL
+              Letter(s)                               is to be used in reporting tooth number/letter.
+
+                                                      If the same procedure is performed on more than one tooth,
+                                                      on the same date of service, report each procedure and
+                                                      tooth designation on separate lines on the claim form.
+
+
+
+                                                                                                                   3
+                                             When billing an applicable procedure code:
+28.       Tooth Surface        SITUATIONAL   Enter the standard ADA designation of the tooth
+                                             Surfaces.
+                                             Enter the appropriate procedure code found in the version
+                                             of the code on dental procedures and Nomenclature in
+29.      Procedure Code        REQUIRED      effect on the “procedure date” (#24).
+
+
+                                             REQUIRED When more than one service is being billed.
+                                             Enter, in parenthesis, the number of units being billed for
+30.         Description        SITUATIONAL   the line (e.g., (2 units)).
+
+
+                                             Enter the usual and customary charge for each line item
+                                             billed.
+
+                                             Note:
+31.            Fee             REQUIRED      The total must include both dollars and cents.
+
+                                             DO NOT enter the fee from the Medicaid fee schedule.
+
+
+                                             REQUIRED if the member has other insurance and the
+                                             insurance has made a payment on the claim. Enter the
+                                             payment amount received from other insurance in relation
+                                             to the claim.
+
+                                             DO NOT include the member’s co-payment amount in this
+32.        Other Fee(s)        SITUATIONAL
+                                             box.
+
+                                             Note:
+                                             The total must include both dollars and cents.
+
+
+                                             Enter the sum of the charges listed in #31 (Fee).
+
+                                             This field should be completed on the last page of the
+             Total Fee                       claim only.
+33.                            REQUIRED
+                                             Note:
+                                             DO NOT subtract any amounts paid by other insurance.
+
+
+MISSING TEETH INFORMATION
+                                             Place an “X” on the missing tooth letter/number.
+
+                                             Note:
+       (Place an “X” on each
+34.                            SITUATIONAL   The ADA’s Universal/National Tooth Designation System
+           missing tooth)
+                                             is used to name teeth on the form.
+
+
+
+
+                                                                                                           4
+                                            Enter the word “Pregnant”, if the patient was pregnant
+                                            when the services were performed.
+                                            Failure to indicate that the member was pregnant at the
+                                            time of service may result in incorrect payment.
+
+                                            Enter the reason for replacement if crowns, partial or
+                                            complete dentures are being replaced.
+
+                                            Enter a brief description if treatment is the result of an
+                                            occupational illness/injury, auto accident, or other
+                                            accident.
+35.         Remarks           SITUATIONAL
+                                            Note:
+                                            This space may be used to convey additional information
+                                            for a procedure code that requires a report, or for multiple
+                                            supernumerary teeth.
+
+                                            It can also be used to convey additional information
+                                            believed necessary to process the claim.
+
+                                            Remarks should be concise and pertinent to the claim
+                                            submission.
+AUTHORIZATIONS
+36.  Patient/Guardian signature OPTIONAL    No entry required.
+37.     Subscriber signature    OPTIONAL    No entry required.
+ANCILLARY CLAIM/TREATMENT INFORMATION
+                                            Check the applicable box.
+
+                                            Note:
+38.    Place of Treatment     REQUIRED
+                                            If no box is marked, the claim will process as if the
+                                            services were performed in the office, and may result in
+                                            incorrect payment.
+                                            Enter the number of enclosures.
+
+                                            This item is completed regardless if radiographs, oral
+                                            images, or study models that are submitted with the claim.
+
+                                            If no enclosures are submitted, enter 00 in each of the
+                                            boxes to verify that nothing has been sent.
+                              REQUIRED
+39.   Number of Enclosures
+                                            When supplementary material is sent with the claim, the
+                                            number of each type is entered in the appropriate box using
+                                            two digits.
+
+                                            If less than 10, use 0 in the first position.
+
+                                            “Oral Images” include digital radiographic images and are
+                                            reported by the number of images.
+         Is Treatment for
+40.                            OPTIONAL     No entry required.
+          Orthodontics?
+41.   Date Appliance Placed    OPTIONAL     No entry required.
+      Months of Treatment
+42.                            OPTIONAL     No entry required.
+            Remaining
+
+
+
+
+                                                                                                           5
+                                                     REQUIRED when billing for crowns, partial, or complete
+                                                     dentures. Check the applicable box.
+43. Replacement of Prosthesis?       SITUATIONAL
+                                                     If “YES” is checked, then indicate the reason for
+                                                     replacement under “Remarks” in #35.
+                                                     REQUIRED if “YES” is checked in #43, and if prior
+                                                     placement is less than 5 years ago. Enter the date of prior
+44.      Date Prior Placement        SITUATIONAL
+                                                     placement.
+                                                     Entry should be made in MM/DD/YYYY format.
+                                                     REQUIRED ONLY if treatment is result of occupational
+                                                     illness or injury, auto accident, or other accident.
+45.    Treatment Resulting from      SITUATIONAL
+                                                     Check the applicable box and enter a brief description in
+                                                     #35.
+                                                     REQUIRED ONLY if treatment is result of occupational
+                                                     illness or injury, auto accident, or other accident.
+46.        Date of Accident          SITUATIONAL
+                                                     Enter the date of the accident.
+                                                     Entry should be made in MM/DD/YYYY format.
+                                                     REQUIRED ONLY if treatment is result of occupational
+                                                     illness or injury, auto accident, or other accident.
+47.      Auto Accident State         SITUATIONAL
+                                                     Enter the two letter postal state code for the state in which
+                                                     the auto accident occurred.
+BILLING DENTIST OR DENTAL ENTITY
+                                                     Enter the name and complete address of the Dentist or the
+                                                     dental entity (Corporation, group, etc.).
+
+                                                     Note:
+    Name, Address, City, State,                      The address must contain the zip code associated with the
+48.                                   REQUIRED
+           Zip Code                                  billing dentist/dental entity’s NPI.
+
+                                                The zip code must match the zip code confirmed during
+                                                NPI verification.
+                                                To view the confirmed zip code visit imeservices.org
+49.             NPI *                REQUIRED   Enter the NPI of the billing entity.
+50.        License Number             OPTIONAL  No entry required.
+51.          SSN or TIN               OPTIONAL  No entry required.
+52.         Phone Number              OPTIONAL  No entry required.
+                                                This field must left BLANK. The claim will be returned if
+52A.   Additional Provider ID *     LEAVE BLANK
+                                                information is submitted in this field.
+TREATING DENTIST AND TREATMENT LOCATION INFORMATION
+                                                     Enter the name of the treating Dentist and the date the form
+53.    Treating Dentist signature     REQUIRED
+                                                     is signed.
+54.             NPI *                 REQUIRED       Enter the NPI of the treating Dentist.
+55.        License Number             REQUIRED       Enter the license number of the treating Dentist.
+                                                     Enter the complete address of the treating Dentist.
+
+                                                     Note:
+                                                     The address must contain the zip code associated with the
+       Address, City, State, Zip
+56.                                   REQUIRED       treating Provider’s NPI.
+                Code
+                                                     The zip code must match the zip code confirmed during
+                                                     NPI verification.
+                                                     To view the confirmed zip code visit imeservices.org
+
+
+
+
+                                                                                                                     6
+                                                  Enter the taxonomy code associated with the billing
+                                                  entity’s NPI.
+
+                                             Note:
+56A. Provider Specialty Code *     REQUIRED
+                                             The taxonomy code must match the taxonomy code
+                                             confirmed during NPI verification.
+                                             To view the confirmed taxonomy code visit
+                                             imeservices.org
+57.        Phone Number            OPTIONAL  No entry required.
+                                             This field must left BLANK. The claim will be returned if
+58.   Additional Provider ID *   LEAVE BLANK
+                                             information is submitted in this field.
+
+
+
+
+                                                                                                         7
+
